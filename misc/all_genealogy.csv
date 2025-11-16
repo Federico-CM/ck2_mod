@@ -8,3 +8,4 @@ id,sex,name,surname,title,birth,death,mother,father,mother_id,father_id
 7,m,Enok,Øltorskr,,262,,Inga Haugeby,Tridrekr Øltorskr,5,1
 8,f,Arnbjorg,Øltorskr,,284,,Inga Haugeby,Tridrekr Øltorskr,5,1
 9,f,Áni,Øltorskr,,263,,Inga Haugeby,Tridrekr Øltorskr,5,1
+10,f,Katrin,Øltorskr,,282,,Áni Øltorskr,Bastien Ravenstad,9,210
