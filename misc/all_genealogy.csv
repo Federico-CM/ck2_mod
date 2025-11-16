@@ -1,0 +1,10 @@
+id,sex,name,surname,title,birth,death,mother,father,mother_id,father_id
+1,m,Tridrekr,Øltorskr,,223,289,Svanhild Øltorskr,Adalrâdr Øltorskr,2,3
+2,f,Svanhild,Øltorskr,,206,264,,,,
+3,m,Adalrâdr,Øltorskr,,196,256,,,,
+4,f,Leona,Øltorskr,,268,,Inga Haugeby,Tridrekr Øltorskr,5,1
+5,f,Inga,Haugeby,,243,,,,,
+6,m,Árón,Øltorskr,,264,,Inga Haugeby,Tridrekr Øltorskr,5,1
+7,m,Enok,Øltorskr,,262,,Inga Haugeby,Tridrekr Øltorskr,5,1
+8,f,Arnbjorg,Øltorskr,,284,,Inga Haugeby,Tridrekr Øltorskr,5,1
+9,f,Áni,Øltorskr,,263,,Inga Haugeby,Tridrekr Øltorskr,5,1
