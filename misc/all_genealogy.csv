@@ -176,3 +176,49 @@ id,sex,name,surname,title,birth,death,mother,father,mother_id,father_id
 175,f,Yvonne,Kade,Princess of Regalia,309,,Quinn of Portburgh,Raymond Kade,171,142
 176,f,Therese,Kade,Princess of Regalia,311,,Quinn of Portburgh,Raymond Kade,171,142
 177,f,Femke-Flien,Kade,Princess of Regalia,312,,Quinn of Portburgh,Raymond Kade,171,142
+178,f,Olenya,Bel-Avaal-Moor,Sol of Bel-Avaal-Moor,200,281,,Oriandor Bel-Avaal-Moor,,640
+179,f,Xay,Kade-Neylade,Regald of the Emperor,229,286,Olenya Bel-Avaal-Moor,Morgenkroon Kade,178,96
+180,f,Oleia,Kade-Neylade,Lady of the Imperial Swan,231,276,Olenya Bel-Avaal-Moor,Morgenkroon Kade,178,96
+181,f,Saam,Kade-Neylade,Lady of the Imperial Cup,234,288,Olenya Bel-Avaal-Moor,Morgenkroon Kade,178,96
+182,m,Willard,Howlester,,228,285,Coreenne Sutigne,Morden Howlester,199,200
+183,f,Guinevere,Westbrook,,235,,,Gunther Westbrook,,478
+184,m,Osric,Howlester,,258,,Guinevere Westbrook,Willard Howlester,183,182
+185,f,Jehenna,Lampero,,258,,,Gherardo Lampero,,468
+186,m,Wilvahelm,Howlester,Lord of Galloweg,254,,Guinevere Westbrook,Willard Howlester,183,182
+187,f,Milahme,Howlester,,265,,Guinevere Westbrook,Willard Howlester,183,182
+188,m,Rodderick,Howlester,,279,,Jehenna Lampero,Wilvahelm Howlester,185,186
+189,m,Aldwynn,Howlester,The Knight,281,,Jehenna Lampero,Wilvahelm Howlester,185,186
+190,f,Genevieve,Howlester,,283,,,Tatfrid Howlester,,215
+191,f,Celianna,Howlester,,284,,Jehenna Lampero,Wilvahelm Howlester,185,186
+192,m,Tommen,Howlester,,280,,Jehenna Lampero,Wilvahelm Howlester,185,186
+193,f,Rosalina,Howlester,,287,,Jehenna Lampero,Wilvahelm Howlester,185,186
+194,f,Ylva,Howlester,,285,,Áni Øltorskr,Wilvahelm Howlester,9,186
+195,f,Lillian,Howlester,,288,,Áni Øltorskr,Wilvahelm Howlester,9,186
+196,m,Alferic,Howlester,,298,304,Katrin Øltorskr,Rodderick Howlester,10,188
+197,m,Oswald,Howlester,,299,,Katrin Øltorskr,Rodderick Howlester,10,188
+198,f,Talla,Howlester,,302,,Katrin Øltorskr,Rodderick Howlester,10,188
+199,f,Coreenne,Sutigne,Baroness of Sutignelle,200,268,,,,
+200,m,Morden,Howlester,,191,238,Minisa Braquemont,Ondrew Howlester,208,209
+201,f,Angelica,Howlester,,288,,Roselyne d'Eluise,Warren Howlester,203,204
+202,m,Mordred,Howlester,,266,,Guinevere Westbrook,Willard Howlester,183,182
+203,f,Roselyne,d'Eluise,,269,,Madeleine Fabienne d'Eluise,Michael d'Eluise,328,329
+204,m,Warren,Howlester,,260,,Guinevere Westbrook,Willard Howlester,183,182
+205,f,Dianne,Howlester,,270,,Guinevere Westbrook,Willard Howlester,183,182
+206,m,Christopher,Black,Count of Narlas,269,,,Travis Black,,317
+207,m,Wulfric,Howlester,,306,,Roselyne d'Eluise,Warren Howlester,203,204
+208,f,Minisa,Braquemont,,172,238,,,,
+209,m,Ondrew,Howlester,,166,255,Erena Schauss,Torrhen Howlester,211,212
+210,m,Bastien,Ravenstad,,265,308,Konstanze Ravenstad,Rolf Krier,13,14
+211,f,Erena,Schauss,,143,194,Jean-Luc Schauss,,,521
+212,m,Torrhen,Howlester,,138,178,,,,
+213,m,Vagild,Howlester,,170,246,Erena Schauss,Torrhen Howlester,211,212
+214,f,Sybelle,von Graublatt,,215,272,,,,
+215,m,Tatfrid,Howlester,,240,298,Sybelle von Graublatt,Vagild Howlester,214,213
+216,m,Aethelred,Howlester,,237,,Coreenne Sutigne,Morden Howlester,199,200
+217,m,Rothgair,Howlester,,235,299,Coreenne Sutigne,Morden Howlester,199,200
+218,m,Randulf,Howlester,,251,,,Rothgair Howlester,,217
+219,m,Brydon,Howlester,,254,,,Rothgair Howlester,,217
+220,f,Violetta,Howlester,,258,,,Rothgair Howlester,,217
+221,f,Mellisandre,Howlester,,234,,Coreenne Sutigne,Morden Howlester,199,200
+222,f,Devona,Howlester,,258,,Mellisandre Howlester,,221,
+223,m,Edmure,Howlester,,261,,Mellisandre Howlester,,221,
