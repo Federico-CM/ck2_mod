@@ -222,3 +222,35 @@ id,sex,name,surname,title,birth,death,mother,father,mother_id,father_id
 221,f,Mellisandre,Howlester,,234,,Coreenne Sutigne,Morden Howlester,199,200
 222,f,Devona,Howlester,,258,,Mellisandre Howlester,,221,
 223,m,Edmure,Howlester,,261,,Mellisandre Howlester,,221,
+224,m,Günthard,von Drachenburg,Duke of Waldmark,211,272,,Wulfrich III von Drachenburg,,238
+225,m,Reinhardt II,von Drachenburg,Duke of Waldmark,230,291,,Günthard von Drachenburg,,224
+226,f,Brunhilda,von Hurst,,236,,,,,
+227,m,Dietrich,von Drachenburg,Duke-Elect of Schwarzwald,254,,Brunhilda von Hurst,Reinhardt II von Drachenburg,226,225
+228,m,Harald,von Drachenburg,Viridian Knight,255,,Brunhilda von Hurst,Reinhardt II von Drachenburg,226,225
+229,m,Ludwig,von Drachenburg,,281,,Regine von Grunwald,Dietrich von Drachenburg,36,227
+230,f,Matilda,von Drachenburg,,284,,Regine von Grunwald,Dietrich von Drachenburg,36,227
+231,m,Kristoph,von Drachenburg,Viridian Knight,285,,Regine von Grunwald,Dietrich von Drachenburg,36,227
+232,f,Adela,von Drachenburg,,286,,Regine von Grunwald,Dietrich von Drachenburg,36,227
+233,m,Franzl,von Drachenburg,Lothar Knight,291,,Regine von Grunwald,Dietrich von Drachenburg,36,227
+234,m,Eldrich,von Drachenburg,,279,,Regine von Grunwald,Dietrich von Drachenburg,36,227
+235,f,Marie-Anne,von Drachenburg,,308,,Riane Typhonus,Eldrich von Drachenburg,59,234
+236,m,Wufrich,von Drachenburg,,309,,Riane Typhonus,Eldrich von Drachenburg,59,234
+237,m,Johannes,von Drachenburg,,310,,Riane Typhonus,Eldrich von Drachenburg,59,234
+238,m,Wulfrich III,von Drachenburg,,181,257,,Wulfrich II von Drachenburg,,239
+239,m,Wulfrich II,von Drachenburg,,133,199,,Wulfrich I von Drachenburg,,240
+240,m,Wulfrich I,von Drachenburg,,114,149,Matilde Brunig,Hildmar III von Drachenburg,242,241
+241,m,Hildmar III,von Drachenburg,,85,143,,,,
+242,f,Matilde,Brunig,,97,162,,Eberhard I Brunig,,247
+243,m,Reinhart,von Drachenburg,,113,131,Matilde Brunig,Hildmar III von Drachenburg,242,241
+244,m,Eldrich,von Drachenburg,,130,195,,Reinhart von Drachenburg,,243
+245,m,Ludwig I,Brunig,,1,36,,,,
+246,m,Hildrebrand,Brunig,,34,69,,Ludwig I Brunig,,245
+247,m,Eberhard I,Brunig,,55,101,,Hildrebrand Brunig,,246
+248,m,Eberhard II,Brunig,,78,142,,Eberhard I Brunig,,247
+249,f,Marie-Anne I,Brunig,,94,161,,Eberhard II Brunig,,248
+250,m,Heinrich I,Brunig,,115,189,Marie-Anne Brunig,,249,
+251,m,Heinrich II,Brunig,,148,211,,Heinrich I Brunig,,250
+252,f,Marie-Anne II,Brunig,,168,251,,Heinrich II Brunig,,251
+253,f,Elia,Brunig,,170,232,,Heinrich II Brunig,,251
+254,m,Nikolaus I,Brunig,,85,143,,Eberhard I Brunig,,247
+255,m,Nikolaus II,Brunig,,124,185,,Nikolaus I Brunig,,254
