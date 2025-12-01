@@ -254,3 +254,13 @@ id,sex,name,surname,title,birth,death,mother,father,mother_id,father_id
 253,f,Elia,Brunig,,170,232,,Heinrich II Brunig,,251
 254,m,Nikolaus I,Brunig,,85,143,,Eberhard I Brunig,,247
 255,m,Nikolaus II,Brunig,,124,185,,Nikolaus I Brunig,,254
+256,f,Anaïs,Delmotte,Countess of Irvellan,215,260,,,,
+257,f,Katriane,Delmotte,Countess of Irvellan,245,304,Anaïs Delmotte,,256,
+258,f,Emmeline,Delmotte,Baroness in Ithania,279,,Katriane Delmotte,,257,
+259,m,Louis,Delmotte,Count of Bastadon,266,,Katriane Delmotte,,257,
+260,m,Marceau,Delmotte,Count of Bastadon,285,,,Louis Delmotte,,259
+261,f,Ottilie,Delmotte,Viridian Knight,270,,Katriane Delmotte,,257,
+262,f,Adeline,Delmotte,,284,,,Louis Delmotte,,259
+263,f,Renée,Delmotte,,286,304,,Louis Delmotte,,259
+264,f,Nicolette,Delmotte,,301,,,Guiscard Delmotte,,265
+265,m,Guiscard,Delmotte,,275,,Katriane Delmotte,,257,
