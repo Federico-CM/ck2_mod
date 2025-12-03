@@ -1,0 +1,12 @@
+I need to:
+
+Fill the names of provinces, duchies, kingdoms and empires
+on province_def3.csv check the column new_map_color
+
+Mod the cultures
+Mod the religions (take cathar as base?)
+
+- title generator
+- character generator
+- 
+
