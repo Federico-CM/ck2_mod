@@ -1,0 +1,28 @@
+allar_group = {
+    graphical_culture = westerngfx
+
+    Allar = {
+        graphical_culture = englishgfx
+        
+        color = { 0.8 0.2 0.2 }
+        
+        male_names = {
+            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
+        }
+        female_names = {
+            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
+        }
+        from_dynasty_prefix = "of "
+        bastard_dynasty_prefix = "Fitz"
+
+        modifier = default_culture_modifier
+        pat_grf_name_chance = 30
+        mat_grf_name_chance = 10
+        father_name_chance = 25
+        
+        pat_grm_name_chance = 20
+        mat_grm_name_chance = 40
+        mother_name_chance = 5
+    }
+
+}

@@ -1,6 +1,6 @@
 1002248 = {
 	name = Christopher
-	culture = english
+	culture = Ceardian
 	religion = cathar
 	742.1.1 = {
 		birth = 742.1.1
@@ -13,7 +13,7 @@
 
 1001386 = {
 	name = Diane
-	culture = scottish
+	culture = Gallovian
 	religion = cathar
 	female = yes 
 	742.1.1 = {
