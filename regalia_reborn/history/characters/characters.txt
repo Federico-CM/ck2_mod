@@ -1,26 +1,45 @@
-1002248 = {
+
+
+
+1002238 = {
 	name = Christopher
 	culture = Ceardian
-	religion = cathar
-	742.1.1 = {
-		birth = 742.1.1
+	religion = Unionism
+	273.1.1 = {
+		birth = 273.1.1
 	}
-	788.3.1 = {
-		death = 788.3.1
+	380.3.1 = {
+		death = 380.3.1
 	}
 	dynasty = 1
 }
 
-1001386 = {
+1001376 = {
 	name = Diane
 	culture = Gallovian
-	religion = cathar
-	female = yes 
-	742.1.1 = {
-		birth = 742.1.1
+	religion = Unionism
+	female = yes
+	278.1.1 = {
+		birth = 273.1.1
 	}
-	900.3.1 = {
-		death = 900.3.1
+	380.3.1 = {
+		death = 380.3.1
 	}
 	dynasty = 2
+}
+
+1001377 = {
+	name = Gwendolyn
+	culture = Ceardian
+	religion = Unionism
+	female = yes
+	301.1.1 = {
+		birth = 301.1.1
+	}
+	380.3.1 = {
+		death = 380.3.1
+	}
+	dynasty = 1
+	mother = 1001376
+	father = 1002238
 }

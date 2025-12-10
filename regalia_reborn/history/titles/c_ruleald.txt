@@ -1,86 +1,10 @@
-758.2.1 = {
-	holder = 1000027
-	law = succ_primogeniture
-	law = agnatic_succession
-}
-
-758.2.2 = {
-	holder = 1001387
-	law = succ_primogeniture
-	law = agnatic_succession
-}
-
-758.2.3 = {
+315.2.3 = {
 	liege = d_weofing
 }
 
-758.2.4 = {
-	holder = 1001386
+315.2.4 = {
+	holder = 1001376
 	law = succ_primogeniture
 	law = agnatic_succession
-}
-
-758.2.5 = {
-	holder = 1002248
-}
-
-788.2.1 = {
-	liege = d_tumakka
-}
-
-788.2.2 = {
-	holder = 1004319
-}
-
-800.2.1 = {
-	holder = 1005458
-}
-
-856.2.1 = {
-	holder = 1006362
-}
-
-863.2.1 = {
-	holder = 1007934
-}
-
-911.2.1 = {
-	holder = 1008231
-}
-
-913.2.1 = {
-	holder = 1009072
-}
-
-932.2.1 = {
-	holder = 1008442
-}
-
-941.2.1 = {
-	holder = 1009567
-}
-
-942.2.1 = {
-	holder = 1009662
-}
-
-958.2.1 = {
-	holder = 1009973
-}
-
-971.2.1 = {
-	holder = 1010023
-}
-
-1004.2.1 = {
-	holder = 1010456
-}
-
-1008.2.1 = {
-	holder = 1010892
-}
-
-1020.2.1 = {
-	holder = 1011158
 }
 

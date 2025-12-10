@@ -1,4 +1,9 @@
-758.2.1 = {
+315.2.1 = {
 	liege = c_ruleald
 }
 
+315.2.5 = {
+	holder = 1001376
+	law = succ_primogeniture
+	law = agnatic_succession
+}
