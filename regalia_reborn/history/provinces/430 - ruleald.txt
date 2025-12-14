@@ -1,5 +1,5 @@
 	title = c_ruleald
 	max_settlements = 2
-	culture = lappish
-	religion = tengri_pagan
-	b_qutahsa = tribal
+	culture = Ceardian
+	religion = Unionism
+	b_ruleald = tribal
