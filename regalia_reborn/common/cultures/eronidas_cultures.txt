@@ -1,17 +1,13 @@
 eronidas_group = {
-    graphical_culture = westerngfx
+    graphical_cultures = { westerngfx }
 
-    Eronidas = {
-        graphical_culture = englishgfx
+    eronidas = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 

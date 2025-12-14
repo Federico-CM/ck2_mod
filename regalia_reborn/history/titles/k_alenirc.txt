@@ -4,10 +4,3 @@
 	law = cognatic_succession
 }
 
-
-315.2.1 = {
-	holder = 1002248
-	law = succ_tanistry
-	law = cognatic_succession
-}
-

@@ -1,17 +1,13 @@
 elven_group = {
-    graphical_culture = westerngfx
+    graphical_cultures = { westerngfx }
 
-    Suvial = {
-        graphical_culture = englishgfx
+    suvial = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -25,17 +21,13 @@ elven_group = {
         mother_name_chance = 5
     }
 
-    Finul = {
-        graphical_culture = englishgfx
+    finul = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -49,17 +41,13 @@ elven_group = {
         mother_name_chance = 5
     }
 
-    Selvath = {
-        graphical_culture = englishgfx
+    selvath = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -73,17 +61,13 @@ elven_group = {
         mother_name_chance = 5
     }
 
-    Yanar = {
-        graphical_culture = englishgfx
+    yanar = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -97,17 +81,13 @@ elven_group = {
         mother_name_chance = 5
     }
 
-    Llasada = {
-        graphical_culture = englishgfx
+    llasada = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -121,17 +101,13 @@ elven_group = {
         mother_name_chance = 5
     }
 
-    Kathar = {
-        graphical_culture = englishgfx
+    kathar = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -145,17 +121,13 @@ elven_group = {
         mother_name_chance = 5
     }
 
-    Isldar = {
-        graphical_culture = englishgfx
+    isldar = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -169,17 +141,13 @@ elven_group = {
         mother_name_chance = 5
     }
 
-    Sihndar = {
-        graphical_culture = englishgfx
+    sihndar = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 

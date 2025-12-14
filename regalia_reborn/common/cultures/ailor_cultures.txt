@@ -1,17 +1,13 @@
 ailor_group = {
-    graphical_culture = westerngfx
+    graphical_cultures = { westerngfx }
 
-    Anglian = {
-        graphical_culture = englishgfx
+    anglian = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -25,17 +21,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Etosian = {
-        graphical_culture = englishgfx
+    etosian = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -49,17 +41,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Ithaninan = {
-        graphical_culture = englishgfx
+    ithaninan = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -73,17 +61,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Velheim = {
-        graphical_culture = englishgfx
+    velheim = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -97,17 +81,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Wirtem = {
-        graphical_culture = englishgfx
+    wirtem = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -121,17 +101,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Solvaan = {
-        graphical_culture = englishgfx
+    solvaan = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -145,17 +121,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Cantaluna = {
-        graphical_culture = englishgfx
+    cantaluna = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -169,17 +141,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Kathar = {
-        graphical_culture = englishgfx
+    kathar = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -193,17 +161,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Ania = {
-        graphical_culture = englishgfx
+    ania = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -217,17 +181,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Gallovian = {
-        graphical_culture = englishgfx
+    gallovian = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -241,17 +201,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Wruclav = {
-        graphical_culture = englishgfx
+    wruclav = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -265,17 +221,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Dunbrae = {
-        graphical_culture = englishgfx
+    dunbrae = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -289,17 +241,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Krainivaya = {
-        graphical_culture = englishgfx
+    krainivaya = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -313,17 +261,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Ceardian = {
-        graphical_culture = englishgfx
+    ceardian = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -337,17 +281,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Azzizzari = {
-        graphical_culture = englishgfx
+    azzizzari = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -361,17 +301,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Tarkin = {
-        graphical_culture = englishgfx
+    tarkin = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -385,17 +321,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Aontaithe = {
-        graphical_culture = englishgfx
+    aontaithe = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -409,17 +341,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Zvorun = {
-        graphical_culture = englishgfx
+    zvorun = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -433,17 +361,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Hoglander = {
-        graphical_culture = englishgfx
+    hoglander = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -457,17 +381,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Calderliga = {
-        graphical_culture = englishgfx
+    calderliga = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -481,17 +401,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Tsalqvanes = {
-        graphical_culture = englishgfx
+    tsalqvanes = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -505,17 +421,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Leutz-vixe = {
-        graphical_culture = englishgfx
+    leutz_vixe = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -529,17 +441,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Fridurfolk = {
-        graphical_culture = englishgfx
+    fridurfolk = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -553,17 +461,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Tierravera = {
-        graphical_culture = englishgfx
+    tierravera = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -577,17 +481,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Byala = {
-        graphical_culture = englishgfx
+    byala = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -601,17 +501,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Breizh = {
-        graphical_culture = englishgfx
+    breizh = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -625,17 +521,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Burdigala = {
-        graphical_culture = englishgfx
+    burdigala = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -649,17 +541,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Szabadok = {
-        graphical_culture = englishgfx
+    szabadok = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -673,17 +561,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Bragacao = {
-        graphical_culture = englishgfx
+    bragacao = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -697,17 +581,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Dvala = {
-        graphical_culture = englishgfx
+    dvala = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -721,41 +601,13 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    Songaskian = {
-        graphical_culture = englishgfx
+    genevaud = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
-
-        modifier = default_culture_modifier
-        pat_grf_name_chance = 30
-        mat_grf_name_chance = 10
-        father_name_chance = 25
-        
-        pat_grm_name_chance = 20
-        mat_grm_name_chance = 40
-        mother_name_chance = 5
-    }
-
-    Genevaud = {
-        graphical_culture = englishgfx
-        
-        color = { 0.8 0.2 0.2 }
-        
-        male_names = {
-            Adam_Adam Alan_Alan Albert_Albert Alexander_Alexander Alfred Andrew_Andrew Anselm Arnold_Arnold Arthur_Arthur Aubrey Christopher_Christopher
-        }
-        female_names = {
-            Adela_Adela Adelaide_Adelaide Alice_Alice Amice Anne_Anna Aveline_Avelina Beatrice_Beatrice Blanche_Blanche Catherine_Catherine Cecilia_Cecilia
-        }
+        male_names = { Adam }
+        female_names = { Adela }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 

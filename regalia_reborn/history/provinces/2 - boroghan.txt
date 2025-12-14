@@ -1,5 +1,5 @@
 	title = c_boroghan
 	max_settlements = 2
-	culture = Ceardian
+	culture = ceardian
 	religion = Unionism
 	b_boroghan = tribal

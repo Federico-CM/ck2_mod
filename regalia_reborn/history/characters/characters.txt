@@ -3,7 +3,7 @@
 
 1002238 = {
 	name = Christopher
-	culture = Ceardian
+	culture = ceardian
 	religion = Unionism
 	273.1.1 = {
 		birth = 273.1.1
@@ -16,7 +16,7 @@
 
 1001376 = {
 	name = Diane
-	culture = Gallovian
+	culture = gallovian
 	religion = Unionism
 	female = yes
 	278.1.1 = {
@@ -30,7 +30,7 @@
 
 1001377 = {
 	name = Gwendolyn
-	culture = Ceardian
+	culture = ceardian
 	religion = Unionism
 	female = yes
 	301.1.1 = {

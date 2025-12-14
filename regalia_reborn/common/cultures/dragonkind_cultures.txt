@@ -1,7 +1,7 @@
-bralona_group = {
+dragonkind_group = {
     graphical_cultures = { westerngfx }
 
-    bralona = {
+    dragonkind = {
         graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
