@@ -3,18 +3,21 @@ e_esaluw = {
     color2 = { 255 255 255 }
     capital = 1 # ruleald
     culture = english
+	is_titular = no
 
     k_alenirc = {
         color = { 0 126 210 }
         color2 = { 255 255 255 }
         capital = 1 # ruleald
         culture = english
+		is_titular = no
 
         d_weofing = {
             color = { 0 126 210 }
             color2 = { 255 255 255 }
             capital = 1 # ruleald
             culture = english
+			is_titular = no
 
             c_boroghan = {
                 color = { 42 33 188 }
@@ -23,6 +26,7 @@ e_esaluw = {
 
                 b_boroghan = { }
                 b_qunazi   = { }
+
             }
 
             c_ruleald = {
@@ -32,6 +36,15 @@ e_esaluw = {
 
                 b_ruleald = { }
                 b_rutahsa = { }
+            }
+
+            c_ichi = {
+                color = { 193 119 104 }
+                color2 = { 255 255 255 }
+                culture = english
+
+                b_ichi = { }
+                b_ichinomiya = { }
             }
         }
     }
