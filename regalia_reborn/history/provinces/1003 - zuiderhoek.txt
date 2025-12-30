@@ -1,0 +1,6 @@
+title = c_zuiderhoek
+max_settlements = 2
+culture = english
+religion = cathar
+b_zuiderhoek = tribal
+b_zuiderhoek2 = temple

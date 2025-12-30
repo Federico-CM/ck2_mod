@@ -1,0 +1,6 @@
+title = c_mittberg
+max_settlements = 2
+culture = english
+religion = cathar
+b_mittberg = tribal
+b_mittberg2 = temple

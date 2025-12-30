@@ -1,0 +1,6 @@
+title = c_khazavyurt
+max_settlements = 2
+culture = english
+religion = cathar
+b_khazavyurt = tribal
+b_khazavyurt2 = temple

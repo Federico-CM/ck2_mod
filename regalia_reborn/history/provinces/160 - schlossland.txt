@@ -1,0 +1,6 @@
+title = c_schlossland
+max_settlements = 2
+culture = english
+religion = cathar
+b_schlossland = tribal
+b_schlossland2 = temple

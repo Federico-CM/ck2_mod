@@ -1,0 +1,6 @@
+title = c_cujiro
+max_settlements = 2
+culture = english
+religion = cathar
+b_cujiro = tribal
+b_cujiro2 = temple

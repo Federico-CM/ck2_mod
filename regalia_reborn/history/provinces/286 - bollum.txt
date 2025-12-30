@@ -1,0 +1,6 @@
+title = c_bollum
+max_settlements = 2
+culture = english
+religion = cathar
+b_bollum = tribal
+b_bollum2 = temple

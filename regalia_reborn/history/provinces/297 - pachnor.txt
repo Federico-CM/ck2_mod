@@ -1,0 +1,6 @@
+title = c_pachnor
+max_settlements = 2
+culture = english
+religion = cathar
+b_pachnor = tribal
+b_pachnor2 = temple

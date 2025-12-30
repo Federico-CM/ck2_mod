@@ -1,0 +1,6 @@
+title = c_glassey
+max_settlements = 2
+culture = english
+religion = cathar
+b_glassey = tribal
+b_glassey2 = temple

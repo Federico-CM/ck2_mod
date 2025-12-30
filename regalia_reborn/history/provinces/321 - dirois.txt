@@ -1,0 +1,6 @@
+title = c_dirois
+max_settlements = 2
+culture = english
+religion = cathar
+b_dirois = tribal
+b_dirois2 = temple

@@ -1,0 +1,6 @@
+title = c_marais
+max_settlements = 2
+culture = english
+religion = cathar
+b_marais = tribal
+b_marais2 = temple

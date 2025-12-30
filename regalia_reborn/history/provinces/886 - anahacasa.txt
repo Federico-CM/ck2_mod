@@ -1,0 +1,6 @@
+title = c_anahacasa
+max_settlements = 2
+culture = english
+religion = cathar
+b_anahacasa = tribal
+b_anahacasa2 = temple

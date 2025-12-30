@@ -1,0 +1,6 @@
+title = c_kosa
+max_settlements = 2
+culture = english
+religion = cathar
+b_kosa = tribal
+b_kosa2 = temple

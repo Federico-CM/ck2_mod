@@ -1,0 +1,6 @@
+title = c_girtenwald_am_see
+max_settlements = 2
+culture = english
+religion = cathar
+b_girtenwald_am_see = tribal
+b_girtenwald_am_see2 = temple

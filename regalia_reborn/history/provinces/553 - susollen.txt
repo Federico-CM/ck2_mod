@@ -1,0 +1,6 @@
+title = c_susollen
+max_settlements = 2
+culture = english
+religion = cathar
+b_susollen = tribal
+b_susollen2 = temple

@@ -1,0 +1,6 @@
+title = c_wurthingenburgh
+max_settlements = 2
+culture = english
+religion = cathar
+b_wurthingenburgh = tribal
+b_wurthingenburgh2 = temple

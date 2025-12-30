@@ -1,0 +1,6 @@
+title = c_chambery
+max_settlements = 2
+culture = english
+religion = cathar
+b_chambery = tribal
+b_chambery2 = temple

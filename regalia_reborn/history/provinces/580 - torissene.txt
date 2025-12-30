@@ -1,0 +1,6 @@
+title = c_torissene
+max_settlements = 2
+culture = english
+religion = cathar
+b_torissene = tribal
+b_torissene2 = temple

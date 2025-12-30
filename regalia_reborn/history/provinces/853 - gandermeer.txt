@@ -1,0 +1,6 @@
+title = c_gandermeer
+max_settlements = 2
+culture = english
+religion = cathar
+b_gandermeer = tribal
+b_gandermeer2 = temple

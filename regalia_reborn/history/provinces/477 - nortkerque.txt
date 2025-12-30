@@ -1,0 +1,6 @@
+title = c_nortkerque
+max_settlements = 2
+culture = english
+religion = cathar
+b_nortkerque = tribal
+b_nortkerque2 = temple

@@ -1,0 +1,6 @@
+title = c_rosaria
+max_settlements = 2
+culture = english
+religion = cathar
+b_rosaria = tribal
+b_rosaria2 = temple

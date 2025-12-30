@@ -1,0 +1,6 @@
+title = c_oxenclif
+max_settlements = 2
+culture = english
+religion = cathar
+b_oxenclif = tribal
+b_oxenclif2 = temple

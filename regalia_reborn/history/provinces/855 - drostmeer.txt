@@ -1,0 +1,6 @@
+title = c_drostmeer
+max_settlements = 2
+culture = english
+religion = cathar
+b_drostmeer = tribal
+b_drostmeer2 = temple

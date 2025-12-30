@@ -1,0 +1,6 @@
+title = c_villa_real
+max_settlements = 2
+culture = english
+religion = cathar
+b_villa_real = tribal
+b_villa_real2 = temple

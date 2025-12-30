@@ -1,0 +1,6 @@
+title = c_gierenwijk
+max_settlements = 2
+culture = english
+religion = cathar
+b_gierenwijk = tribal
+b_gierenwijk2 = temple

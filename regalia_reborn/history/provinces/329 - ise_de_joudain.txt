@@ -1,0 +1,6 @@
+title = c_ise_de_joudain
+max_settlements = 2
+culture = english
+religion = cathar
+b_ise_de_joudain = tribal
+b_ise_de_joudain2 = temple

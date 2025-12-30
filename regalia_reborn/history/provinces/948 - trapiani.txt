@@ -1,0 +1,6 @@
+title = c_trapiani
+max_settlements = 2
+culture = english
+religion = cathar
+b_trapiani = tribal
+b_trapiani2 = temple

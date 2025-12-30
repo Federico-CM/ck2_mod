@@ -1,0 +1,6 @@
+title = c_nykesund
+max_settlements = 2
+culture = english
+religion = cathar
+b_nykesund = tribal
+b_nykesund2 = temple

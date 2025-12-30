@@ -1,0 +1,6 @@
+title = c_milthousebridge
+max_settlements = 2
+culture = english
+religion = cathar
+b_milthousebridge = tribal
+b_milthousebridge2 = temple

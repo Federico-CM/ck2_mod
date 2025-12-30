@@ -1,0 +1,6 @@
+title = c_petrograd
+max_settlements = 2
+culture = english
+religion = cathar
+b_petrograd = tribal
+b_petrograd2 = temple

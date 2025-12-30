@@ -1,0 +1,6 @@
+title = c_servalene
+max_settlements = 2
+culture = english
+religion = cathar
+b_servalene = tribal
+b_servalene2 = temple

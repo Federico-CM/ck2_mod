@@ -1,0 +1,6 @@
+title = c_niccia
+max_settlements = 2
+culture = english
+religion = cathar
+b_niccia = tribal
+b_niccia2 = temple

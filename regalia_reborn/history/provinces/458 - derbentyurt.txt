@@ -1,0 +1,6 @@
+title = c_derbentyurt
+max_settlements = 2
+culture = english
+religion = cathar
+b_derbentyurt = tribal
+b_derbentyurt2 = temple

@@ -1,0 +1,6 @@
+title = c_drachenwald
+max_settlements = 2
+culture = english
+religion = cathar
+b_drachenwald = tribal
+b_drachenwald2 = temple

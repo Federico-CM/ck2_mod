@@ -1,0 +1,6 @@
+title = c_albanfurd
+max_settlements = 2
+culture = english
+religion = cathar
+b_albanfurd = tribal
+b_albanfurd2 = temple

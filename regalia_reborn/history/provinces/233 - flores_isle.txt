@@ -1,0 +1,6 @@
+title = c_flores_isle
+max_settlements = 2
+culture = english
+religion = cathar
+b_flores_isle = tribal
+b_flores_isle2 = temple

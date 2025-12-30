@@ -1,0 +1,6 @@
+title = c_deorlinghlaw
+max_settlements = 2
+culture = english
+religion = cathar
+b_deorlinghlaw = tribal
+b_deorlinghlaw2 = temple

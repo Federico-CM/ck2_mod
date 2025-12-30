@@ -1,0 +1,6 @@
+title = c_alcavanza
+max_settlements = 2
+culture = english
+religion = cathar
+b_alcavanza = tribal
+b_alcavanza2 = temple

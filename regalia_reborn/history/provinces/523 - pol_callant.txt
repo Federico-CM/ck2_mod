@@ -1,0 +1,6 @@
+title = c_pol_callant
+max_settlements = 2
+culture = english
+religion = cathar
+b_pol_callant = tribal
+b_pol_callant2 = temple

@@ -1,0 +1,6 @@
+title = c_aden
+max_settlements = 2
+culture = english
+religion = cathar
+b_aden = tribal
+b_aden2 = temple

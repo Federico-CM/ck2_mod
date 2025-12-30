@@ -1,0 +1,6 @@
+title = c_cajarzes
+max_settlements = 2
+culture = english
+religion = cathar
+b_cajarzes = tribal
+b_cajarzes2 = temple

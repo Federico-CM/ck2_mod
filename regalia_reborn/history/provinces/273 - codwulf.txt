@@ -1,0 +1,6 @@
+title = c_codwulf
+max_settlements = 2
+culture = english
+religion = cathar
+b_codwulf = tribal
+b_codwulf2 = temple

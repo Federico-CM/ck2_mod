@@ -1,0 +1,6 @@
+title = c_olvoor_moor
+max_settlements = 2
+culture = english
+religion = cathar
+b_olvoor_moor = tribal
+b_olvoor_moor2 = temple

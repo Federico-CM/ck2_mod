@@ -1,0 +1,6 @@
+title = c_noorgrootland
+max_settlements = 2
+culture = english
+religion = cathar
+b_noorgrootland = tribal
+b_noorgrootland2 = temple

@@ -1,0 +1,6 @@
+title = c_de_colomiers
+max_settlements = 2
+culture = english
+religion = cathar
+b_de_colomiers = tribal
+b_de_colomiers2 = temple

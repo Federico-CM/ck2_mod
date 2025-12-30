@@ -1,0 +1,6 @@
+title = c_pacsilden
+max_settlements = 2
+culture = english
+religion = cathar
+b_pacsilden = tribal
+b_pacsilden2 = temple

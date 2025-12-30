@@ -1,0 +1,6 @@
+title = c_ingentey
+max_settlements = 2
+culture = english
+religion = cathar
+b_ingentey = tribal
+b_ingentey2 = temple

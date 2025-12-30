@@ -1,0 +1,6 @@
+title = c_alstyr
+max_settlements = 2
+culture = english
+religion = cathar
+b_alstyr = tribal
+b_alstyr2 = temple

@@ -1,0 +1,6 @@
+title = c_bazinghen
+max_settlements = 2
+culture = english
+religion = cathar
+b_bazinghen = tribal
+b_bazinghen2 = temple

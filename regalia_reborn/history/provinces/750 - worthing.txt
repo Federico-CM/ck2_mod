@@ -1,0 +1,6 @@
+title = c_worthing
+max_settlements = 2
+culture = english
+religion = cathar
+b_worthing = tribal
+b_worthing2 = temple

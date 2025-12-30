@@ -1,0 +1,6 @@
+title = c_anakion
+max_settlements = 2
+culture = english
+religion = cathar
+b_anakion = tribal
+b_anakion2 = temple

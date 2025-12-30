@@ -1,0 +1,6 @@
+title = c_oosterschen
+max_settlements = 2
+culture = english
+religion = cathar
+b_oosterschen = tribal
+b_oosterschen2 = temple

@@ -1,0 +1,6 @@
+title = c_severinburg
+max_settlements = 2
+culture = english
+religion = cathar
+b_severinburg = tribal
+b_severinburg2 = temple

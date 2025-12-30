@@ -1,0 +1,6 @@
+title = c_londerry
+max_settlements = 2
+culture = english
+religion = cathar
+b_londerry = tribal
+b_londerry2 = temple

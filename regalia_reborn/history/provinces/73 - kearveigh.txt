@@ -1,0 +1,6 @@
+title = c_kearveigh
+max_settlements = 2
+culture = english
+religion = cathar
+b_kearveigh = tribal
+b_kearveigh2 = temple

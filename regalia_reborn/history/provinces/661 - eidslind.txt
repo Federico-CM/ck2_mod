@@ -1,0 +1,6 @@
+title = c_eidslind
+max_settlements = 2
+culture = english
+religion = cathar
+b_eidslind = tribal
+b_eidslind2 = temple

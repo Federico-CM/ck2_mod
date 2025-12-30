@@ -1,0 +1,6 @@
+title = c_odenz
+max_settlements = 2
+culture = english
+religion = cathar
+b_odenz = tribal
+b_odenz2 = temple

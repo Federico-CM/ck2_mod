@@ -1,5 +1,0 @@
-	title = c_ruleald
-	max_settlements = 2
-	culture = ceardian
-	religion = Unionism
-	b_ruleald = tribal

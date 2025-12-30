@@ -1,0 +1,6 @@
+title = c_forriesta_sul
+max_settlements = 2
+culture = english
+religion = cathar
+b_forriesta_sul = tribal
+b_forriesta_sul2 = temple

@@ -1,0 +1,6 @@
+title = c_marston
+max_settlements = 2
+culture = english
+religion = cathar
+b_marston = tribal
+b_marston2 = temple

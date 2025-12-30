@@ -1,0 +1,6 @@
+title = c_ribetej
+max_settlements = 2
+culture = english
+religion = cathar
+b_ribetej = tribal
+b_ribetej2 = temple

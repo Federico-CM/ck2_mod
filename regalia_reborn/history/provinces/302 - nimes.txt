@@ -1,0 +1,6 @@
+title = c_nimes
+max_settlements = 2
+culture = english
+religion = cathar
+b_nimes = tribal
+b_nimes2 = temple

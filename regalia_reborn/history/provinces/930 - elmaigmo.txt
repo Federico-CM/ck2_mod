@@ -1,0 +1,6 @@
+title = c_elmaigmo
+max_settlements = 2
+culture = english
+religion = cathar
+b_elmaigmo = tribal
+b_elmaigmo2 = temple

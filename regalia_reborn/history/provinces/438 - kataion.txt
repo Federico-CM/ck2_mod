@@ -1,0 +1,6 @@
+title = c_kataion
+max_settlements = 2
+culture = english
+religion = cathar
+b_kataion = tribal
+b_kataion2 = temple

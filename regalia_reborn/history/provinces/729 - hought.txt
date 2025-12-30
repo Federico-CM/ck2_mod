@@ -1,0 +1,6 @@
+title = c_hought
+max_settlements = 2
+culture = english
+religion = cathar
+b_hought = tribal
+b_hought2 = temple

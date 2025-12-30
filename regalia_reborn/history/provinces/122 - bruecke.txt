@@ -1,0 +1,6 @@
+title = c_bruecke
+max_settlements = 2
+culture = english
+religion = cathar
+b_bruecke = tribal
+b_bruecke2 = temple

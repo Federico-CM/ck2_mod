@@ -1,0 +1,6 @@
+title = c_erdam
+max_settlements = 2
+culture = english
+religion = cathar
+b_erdam = tribal
+b_erdam2 = temple

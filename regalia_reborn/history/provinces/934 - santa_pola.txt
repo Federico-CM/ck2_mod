@@ -1,0 +1,6 @@
+title = c_santa_pola
+max_settlements = 2
+culture = english
+religion = cathar
+b_santa_pola = tribal
+b_santa_pola2 = temple

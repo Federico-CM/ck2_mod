@@ -1,0 +1,6 @@
+title = c_ferrol
+max_settlements = 2
+culture = english
+religion = cathar
+b_ferrol = tribal
+b_ferrol2 = temple

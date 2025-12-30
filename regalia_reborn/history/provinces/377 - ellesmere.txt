@@ -1,0 +1,6 @@
+title = c_ellesmere
+max_settlements = 2
+culture = english
+religion = cathar
+b_ellesmere = tribal
+b_ellesmere2 = temple

@@ -1,0 +1,6 @@
+title = c_reinach
+max_settlements = 2
+culture = english
+religion = cathar
+b_reinach = tribal
+b_reinach2 = temple

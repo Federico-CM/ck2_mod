@@ -1,0 +1,6 @@
+title = c_lorhaus
+max_settlements = 2
+culture = english
+religion = cathar
+b_lorhaus = tribal
+b_lorhaus2 = temple

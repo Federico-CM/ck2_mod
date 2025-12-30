@@ -1,0 +1,6 @@
+title = c_garelan
+max_settlements = 2
+culture = english
+religion = cathar
+b_garelan = tribal
+b_garelan2 = temple

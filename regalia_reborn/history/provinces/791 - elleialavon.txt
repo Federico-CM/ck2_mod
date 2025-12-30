@@ -1,0 +1,6 @@
+title = c_elleialavon
+max_settlements = 2
+culture = english
+religion = cathar
+b_elleialavon = tribal
+b_elleialavon2 = temple

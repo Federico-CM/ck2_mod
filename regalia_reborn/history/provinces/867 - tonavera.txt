@@ -1,0 +1,6 @@
+title = c_tonavera
+max_settlements = 2
+culture = english
+religion = cathar
+b_tonavera = tribal
+b_tonavera2 = temple

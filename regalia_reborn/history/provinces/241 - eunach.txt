@@ -1,0 +1,6 @@
+title = c_eunach
+max_settlements = 2
+culture = english
+religion = cathar
+b_eunach = tribal
+b_eunach2 = temple

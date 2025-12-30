@@ -1,0 +1,6 @@
+title = c_platzaak
+max_settlements = 2
+culture = english
+religion = cathar
+b_platzaak = tribal
+b_platzaak2 = temple

@@ -1,0 +1,6 @@
+title = c_nest_ruin
+max_settlements = 2
+culture = english
+religion = cathar
+b_nest_ruin = tribal
+b_nest_ruin2 = temple

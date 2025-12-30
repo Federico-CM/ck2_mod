@@ -1,0 +1,6 @@
+title = c_landuswyth
+max_settlements = 2
+culture = english
+religion = cathar
+b_landuswyth = tribal
+b_landuswyth2 = temple

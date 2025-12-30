@@ -1,0 +1,6 @@
+title = c_salen
+max_settlements = 2
+culture = english
+religion = cathar
+b_salen = tribal
+b_salen2 = temple

@@ -1,0 +1,6 @@
+title = c_rugulia
+max_settlements = 2
+culture = english
+religion = cathar
+b_rugulia = tribal
+b_rugulia2 = temple

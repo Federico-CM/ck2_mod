@@ -1,0 +1,6 @@
+title = c_nouveaux_bije
+max_settlements = 2
+culture = english
+religion = cathar
+b_nouveaux_bije = tribal
+b_nouveaux_bije2 = temple

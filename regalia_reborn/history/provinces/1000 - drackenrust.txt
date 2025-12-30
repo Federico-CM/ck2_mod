@@ -1,0 +1,6 @@
+title = c_drackenrust
+max_settlements = 2
+culture = english
+religion = cathar
+b_drackenrust = tribal
+b_drackenrust2 = temple

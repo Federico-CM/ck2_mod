@@ -1,0 +1,6 @@
+title = c_bluenberg
+max_settlements = 2
+culture = english
+religion = cathar
+b_bluenberg = tribal
+b_bluenberg2 = temple

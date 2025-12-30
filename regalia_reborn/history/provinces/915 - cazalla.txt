@@ -1,0 +1,6 @@
+title = c_cazalla
+max_settlements = 2
+culture = english
+religion = cathar
+b_cazalla = tribal
+b_cazalla2 = temple

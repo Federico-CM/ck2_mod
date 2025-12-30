@@ -1,0 +1,6 @@
+title = c_solmarse
+max_settlements = 2
+culture = english
+religion = cathar
+b_solmarse = tribal
+b_solmarse2 = temple

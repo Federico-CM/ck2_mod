@@ -1,0 +1,6 @@
+title = c_marner
+max_settlements = 2
+culture = english
+religion = cathar
+b_marner = tribal
+b_marner2 = temple

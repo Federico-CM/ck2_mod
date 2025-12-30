@@ -1,0 +1,6 @@
+title = c_saint_helens
+max_settlements = 2
+culture = english
+religion = cathar
+b_saint_helens = tribal
+b_saint_helens2 = temple

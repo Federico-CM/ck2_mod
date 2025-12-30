@@ -1,0 +1,6 @@
+title = c_deiscirt
+max_settlements = 2
+culture = english
+religion = cathar
+b_deiscirt = tribal
+b_deiscirt2 = temple

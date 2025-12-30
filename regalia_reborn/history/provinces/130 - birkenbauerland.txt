@@ -1,0 +1,6 @@
+title = c_birkenbauerland
+max_settlements = 2
+culture = english
+religion = cathar
+b_birkenbauerland = tribal
+b_birkenbauerland2 = temple

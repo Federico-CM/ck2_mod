@@ -1,0 +1,6 @@
+title = c_kreney
+max_settlements = 2
+culture = english
+religion = cathar
+b_kreney = tribal
+b_kreney2 = temple

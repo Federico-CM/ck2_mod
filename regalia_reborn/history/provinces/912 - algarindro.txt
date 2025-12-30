@@ -1,0 +1,6 @@
+title = c_algarindro
+max_settlements = 2
+culture = english
+religion = cathar
+b_algarindro = tribal
+b_algarindro2 = temple

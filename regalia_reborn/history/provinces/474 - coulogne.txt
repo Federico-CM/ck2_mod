@@ -1,0 +1,6 @@
+title = c_coulogne
+max_settlements = 2
+culture = english
+religion = cathar
+b_coulogne = tribal
+b_coulogne2 = temple

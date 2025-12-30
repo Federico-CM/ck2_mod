@@ -1,0 +1,6 @@
+title = c_tieren
+max_settlements = 2
+culture = english
+religion = cathar
+b_tieren = tribal
+b_tieren2 = temple

@@ -1,0 +1,6 @@
+title = c_kankanvik
+max_settlements = 2
+culture = english
+religion = cathar
+b_kankanvik = tribal
+b_kankanvik2 = temple

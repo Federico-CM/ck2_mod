@@ -1,0 +1,6 @@
+title = c_kvanne
+max_settlements = 2
+culture = english
+religion = cathar
+b_kvanne = tribal
+b_kvanne2 = temple

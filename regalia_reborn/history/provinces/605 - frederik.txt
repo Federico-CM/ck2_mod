@@ -1,0 +1,6 @@
+title = c_frederik
+max_settlements = 2
+culture = english
+religion = cathar
+b_frederik = tribal
+b_frederik2 = temple

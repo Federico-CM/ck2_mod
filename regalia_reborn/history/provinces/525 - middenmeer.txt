@@ -1,0 +1,6 @@
+title = c_middenmeer
+max_settlements = 2
+culture = english
+religion = cathar
+b_middenmeer = tribal
+b_middenmeer2 = temple

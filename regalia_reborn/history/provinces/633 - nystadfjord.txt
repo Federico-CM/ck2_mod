@@ -1,0 +1,6 @@
+title = c_nystadfjord
+max_settlements = 2
+culture = english
+religion = cathar
+b_nystadfjord = tribal
+b_nystadfjord2 = temple

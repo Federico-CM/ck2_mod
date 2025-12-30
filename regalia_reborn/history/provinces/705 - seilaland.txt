@@ -1,0 +1,6 @@
+title = c_seilaland
+max_settlements = 2
+culture = english
+religion = cathar
+b_seilaland = tribal
+b_seilaland2 = temple

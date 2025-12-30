@@ -1,0 +1,6 @@
+title = c_gratteham
+max_settlements = 2
+culture = english
+religion = cathar
+b_gratteham = tribal
+b_gratteham2 = temple

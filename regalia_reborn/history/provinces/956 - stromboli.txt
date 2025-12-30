@@ -1,0 +1,6 @@
+title = c_stromboli
+max_settlements = 2
+culture = english
+religion = cathar
+b_stromboli = tribal
+b_stromboli2 = temple

@@ -1,0 +1,6 @@
+title = c_ettelbrueck
+max_settlements = 2
+culture = english
+religion = cathar
+b_ettelbrueck = tribal
+b_ettelbrueck2 = temple

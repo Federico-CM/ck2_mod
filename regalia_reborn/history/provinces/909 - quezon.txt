@@ -1,0 +1,6 @@
+title = c_quezon
+max_settlements = 2
+culture = english
+religion = cathar
+b_quezon = tribal
+b_quezon2 = temple

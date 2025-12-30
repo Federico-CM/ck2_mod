@@ -1,0 +1,6 @@
+title = c_goudgat
+max_settlements = 2
+culture = english
+religion = cathar
+b_goudgat = tribal
+b_goudgat2 = temple

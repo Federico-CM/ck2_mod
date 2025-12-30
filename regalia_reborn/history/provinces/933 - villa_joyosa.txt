@@ -1,0 +1,6 @@
+title = c_villa_joyosa
+max_settlements = 2
+culture = english
+religion = cathar
+b_villa_joyosa = tribal
+b_villa_joyosa2 = temple

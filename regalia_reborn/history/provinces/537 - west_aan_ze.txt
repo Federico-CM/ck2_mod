@@ -1,0 +1,6 @@
+title = c_west_aan_ze
+max_settlements = 2
+culture = english
+religion = cathar
+b_west_aan_ze = tribal
+b_west_aan_ze2 = temple

@@ -1,0 +1,6 @@
+title = c_allanlaaen
+max_settlements = 2
+culture = english
+religion = cathar
+b_allanlaaen = tribal
+b_allanlaaen2 = temple

@@ -1,0 +1,6 @@
+title = c_asterisle
+max_settlements = 2
+culture = english
+religion = cathar
+b_asterisle = tribal
+b_asterisle2 = temple

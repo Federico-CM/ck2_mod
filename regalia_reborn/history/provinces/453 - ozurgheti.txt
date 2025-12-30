@@ -1,0 +1,6 @@
+title = c_ozurgheti
+max_settlements = 2
+culture = english
+religion = cathar
+b_ozurgheti = tribal
+b_ozurgheti2 = temple

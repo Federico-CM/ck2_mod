@@ -1,0 +1,6 @@
+title = c_lavoyare
+max_settlements = 2
+culture = english
+religion = cathar
+b_lavoyare = tribal
+b_lavoyare2 = temple

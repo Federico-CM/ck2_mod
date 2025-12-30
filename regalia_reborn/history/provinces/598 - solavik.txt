@@ -1,0 +1,6 @@
+title = c_solavik
+max_settlements = 2
+culture = english
+religion = cathar
+b_solavik = tribal
+b_solavik2 = temple

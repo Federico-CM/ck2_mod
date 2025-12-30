@@ -1,0 +1,6 @@
+title = c_krismea
+max_settlements = 2
+culture = english
+religion = cathar
+b_krismea = tribal
+b_krismea2 = temple

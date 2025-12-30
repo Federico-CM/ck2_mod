@@ -1,0 +1,6 @@
+title = c_tervassene
+max_settlements = 2
+culture = english
+religion = cathar
+b_tervassene = tribal
+b_tervassene2 = temple

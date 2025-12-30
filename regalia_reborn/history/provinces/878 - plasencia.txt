@@ -1,0 +1,6 @@
+title = c_plasencia
+max_settlements = 2
+culture = english
+religion = cathar
+b_plasencia = tribal
+b_plasencia2 = temple

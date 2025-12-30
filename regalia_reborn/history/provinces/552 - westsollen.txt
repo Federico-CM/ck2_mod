@@ -1,0 +1,6 @@
+title = c_westsollen
+max_settlements = 2
+culture = english
+religion = cathar
+b_westsollen = tribal
+b_westsollen2 = temple

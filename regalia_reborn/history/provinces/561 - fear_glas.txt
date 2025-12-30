@@ -1,0 +1,6 @@
+title = c_fear_glas
+max_settlements = 2
+culture = english
+religion = cathar
+b_fear_glas = tribal
+b_fear_glas2 = temple

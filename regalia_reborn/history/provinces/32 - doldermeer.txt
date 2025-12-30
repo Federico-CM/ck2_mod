@@ -1,0 +1,6 @@
+title = c_doldermeer
+max_settlements = 2
+culture = english
+religion = cathar
+b_doldermeer = tribal
+b_doldermeer2 = temple

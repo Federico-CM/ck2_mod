@@ -1,0 +1,6 @@
+title = c_karlstadt
+max_settlements = 2
+culture = english
+religion = cathar
+b_karlstadt = tribal
+b_karlstadt2 = temple

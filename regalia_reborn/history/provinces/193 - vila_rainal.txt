@@ -1,0 +1,6 @@
+title = c_vila_rainal
+max_settlements = 2
+culture = english
+religion = cathar
+b_vila_rainal = tribal
+b_vila_rainal2 = temple

@@ -1,0 +1,6 @@
+title = c_callaei
+max_settlements = 2
+culture = english
+religion = cathar
+b_callaei = tribal
+b_callaei2 = temple

@@ -1,0 +1,6 @@
+title = c_rumvalia
+max_settlements = 2
+culture = english
+religion = cathar
+b_rumvalia = tribal
+b_rumvalia2 = temple

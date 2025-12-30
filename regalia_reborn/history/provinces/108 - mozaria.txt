@@ -1,0 +1,6 @@
+title = c_mozaria
+max_settlements = 2
+culture = english
+religion = cathar
+b_mozaria = tribal
+b_mozaria2 = temple

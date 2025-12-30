@@ -1,0 +1,6 @@
+title = c_teula
+max_settlements = 2
+culture = english
+religion = cathar
+b_teula = tribal
+b_teula2 = temple

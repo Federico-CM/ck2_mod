@@ -1,0 +1,6 @@
+title = c_paredes
+max_settlements = 2
+culture = english
+religion = cathar
+b_paredes = tribal
+b_paredes2 = temple

@@ -1,0 +1,6 @@
+title = c_limnosa
+max_settlements = 2
+culture = english
+religion = cathar
+b_limnosa = tribal
+b_limnosa2 = temple

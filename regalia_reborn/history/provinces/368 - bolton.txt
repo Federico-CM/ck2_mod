@@ -1,0 +1,6 @@
+title = c_bolton
+max_settlements = 2
+culture = english
+religion = cathar
+b_bolton = tribal
+b_bolton2 = temple

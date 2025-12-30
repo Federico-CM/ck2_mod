@@ -1,0 +1,6 @@
+title = c_vladacha
+max_settlements = 2
+culture = english
+religion = cathar
+b_vladacha = tribal
+b_vladacha2 = temple

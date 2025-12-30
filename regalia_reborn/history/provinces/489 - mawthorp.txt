@@ -1,0 +1,6 @@
+title = c_mawthorp
+max_settlements = 2
+culture = english
+religion = cathar
+b_mawthorp = tribal
+b_mawthorp2 = temple

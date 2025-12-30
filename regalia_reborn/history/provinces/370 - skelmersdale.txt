@@ -1,0 +1,6 @@
+title = c_skelmersdale
+max_settlements = 2
+culture = english
+religion = cathar
+b_skelmersdale = tribal
+b_skelmersdale2 = temple

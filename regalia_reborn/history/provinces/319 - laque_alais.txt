@@ -1,0 +1,6 @@
+title = c_laque_alais
+max_settlements = 2
+culture = english
+religion = cathar
+b_laque_alais = tribal
+b_laque_alais2 = temple

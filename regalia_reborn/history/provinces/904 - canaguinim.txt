@@ -1,0 +1,6 @@
+title = c_canaguinim
+max_settlements = 2
+culture = english
+religion = cathar
+b_canaguinim = tribal
+b_canaguinim2 = temple

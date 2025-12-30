@@ -1,0 +1,6 @@
+title = c_liccata
+max_settlements = 2
+culture = english
+religion = cathar
+b_liccata = tribal
+b_liccata2 = temple

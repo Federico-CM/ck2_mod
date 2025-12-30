@@ -1,0 +1,6 @@
+title = c_westwynd
+max_settlements = 2
+culture = english
+religion = cathar
+b_westwynd = tribal
+b_westwynd2 = temple

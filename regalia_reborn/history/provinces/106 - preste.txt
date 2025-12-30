@@ -1,0 +1,6 @@
+title = c_preste
+max_settlements = 2
+culture = english
+religion = cathar
+b_preste = tribal
+b_preste2 = temple

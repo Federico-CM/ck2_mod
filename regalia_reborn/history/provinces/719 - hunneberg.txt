@@ -1,0 +1,6 @@
+title = c_hunneberg
+max_settlements = 2
+culture = english
+religion = cathar
+b_hunneberg = tribal
+b_hunneberg2 = temple

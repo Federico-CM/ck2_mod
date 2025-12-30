@@ -1,0 +1,6 @@
+title = c_atherdin
+max_settlements = 2
+culture = english
+religion = cathar
+b_atherdin = tribal
+b_atherdin2 = temple

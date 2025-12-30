@@ -1,0 +1,6 @@
+title = c_limnos_nisia
+max_settlements = 2
+culture = english
+religion = cathar
+b_limnos_nisia = tribal
+b_limnos_nisia2 = temple

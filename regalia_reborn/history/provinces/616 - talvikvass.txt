@@ -1,0 +1,6 @@
+title = c_talvikvass
+max_settlements = 2
+culture = english
+religion = cathar
+b_talvikvass = tribal
+b_talvikvass2 = temple

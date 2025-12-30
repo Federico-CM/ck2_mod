@@ -1,0 +1,6 @@
+title = c_walterloo
+max_settlements = 2
+culture = english
+religion = cathar
+b_walterloo = tribal
+b_walterloo2 = temple

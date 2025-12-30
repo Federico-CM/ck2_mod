@@ -1,0 +1,6 @@
+title = c_waddenzat
+max_settlements = 2
+culture = english
+religion = cathar
+b_waddenzat = tribal
+b_waddenzat2 = temple

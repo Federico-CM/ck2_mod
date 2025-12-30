@@ -1,0 +1,6 @@
+title = c_gernegraab
+max_settlements = 2
+culture = english
+religion = cathar
+b_gernegraab = tribal
+b_gernegraab2 = temple

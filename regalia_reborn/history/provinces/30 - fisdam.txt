@@ -1,0 +1,6 @@
+title = c_fisdam
+max_settlements = 2
+culture = english
+religion = cathar
+b_fisdam = tribal
+b_fisdam2 = temple

@@ -1,0 +1,6 @@
+title = c_grint
+max_settlements = 2
+culture = english
+religion = cathar
+b_grint = tribal
+b_grint2 = temple

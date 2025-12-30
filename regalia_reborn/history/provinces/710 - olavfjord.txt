@@ -1,0 +1,6 @@
+title = c_olavfjord
+max_settlements = 2
+culture = english
+religion = cathar
+b_olavfjord = tribal
+b_olavfjord2 = temple

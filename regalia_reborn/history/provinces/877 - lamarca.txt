@@ -1,0 +1,6 @@
+title = c_lamarca
+max_settlements = 2
+culture = english
+religion = cathar
+b_lamarca = tribal
+b_lamarca2 = temple

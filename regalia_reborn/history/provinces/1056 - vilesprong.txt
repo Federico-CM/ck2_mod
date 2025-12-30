@@ -1,0 +1,6 @@
+title = c_vilesprong
+max_settlements = 2
+culture = english
+religion = cathar
+b_vilesprong = tribal
+b_vilesprong2 = temple

@@ -1,0 +1,6 @@
+title = c_akheseru
+max_settlements = 2
+culture = english
+religion = cathar
+b_akheseru = tribal
+b_akheseru2 = temple

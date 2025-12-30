@@ -1,0 +1,6 @@
+title = c_ripefjord
+max_settlements = 2
+culture = english
+religion = cathar
+b_ripefjord = tribal
+b_ripefjord2 = temple

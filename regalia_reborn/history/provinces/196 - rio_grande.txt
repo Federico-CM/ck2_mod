@@ -1,0 +1,6 @@
+title = c_rio_grande
+max_settlements = 2
+culture = english
+religion = cathar
+b_rio_grande = tribal
+b_rio_grande2 = temple

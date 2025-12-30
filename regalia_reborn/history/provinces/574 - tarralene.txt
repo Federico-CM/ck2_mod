@@ -1,0 +1,6 @@
+title = c_tarralene
+max_settlements = 2
+culture = english
+religion = cathar
+b_tarralene = tribal
+b_tarralene2 = temple

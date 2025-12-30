@@ -1,0 +1,6 @@
+title = c_glaick
+max_settlements = 2
+culture = english
+religion = cathar
+b_glaick = tribal
+b_glaick2 = temple

@@ -1,0 +1,6 @@
+title = c_maspalomas
+max_settlements = 2
+culture = english
+religion = cathar
+b_maspalomas = tribal
+b_maspalomas2 = temple

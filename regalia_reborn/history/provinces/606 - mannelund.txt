@@ -1,0 +1,6 @@
+title = c_mannelund
+max_settlements = 2
+culture = english
+religion = cathar
+b_mannelund = tribal
+b_mannelund2 = temple

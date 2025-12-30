@@ -1,0 +1,6 @@
+title = c_godivaburgh
+max_settlements = 2
+culture = english
+religion = cathar
+b_godivaburgh = tribal
+b_godivaburgh2 = temple

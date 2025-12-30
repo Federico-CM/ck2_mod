@@ -1,0 +1,6 @@
+title = c_dalern
+max_settlements = 2
+culture = english
+religion = cathar
+b_dalern = tribal
+b_dalern2 = temple

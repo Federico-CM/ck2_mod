@@ -1,0 +1,6 @@
+title = c_silmark
+max_settlements = 2
+culture = english
+religion = cathar
+b_silmark = tribal
+b_silmark2 = temple

@@ -1,0 +1,6 @@
+title = c_ine_hart
+max_settlements = 2
+culture = english
+religion = cathar
+b_ine_hart = tribal
+b_ine_hart2 = temple

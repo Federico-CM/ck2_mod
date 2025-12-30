@@ -1,0 +1,6 @@
+title = c_gamlevik
+max_settlements = 2
+culture = english
+religion = cathar
+b_gamlevik = tribal
+b_gamlevik2 = temple

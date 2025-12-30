@@ -1,0 +1,6 @@
+title = c_mart_haute
+max_settlements = 2
+culture = english
+religion = cathar
+b_mart_haute = tribal
+b_mart_haute2 = temple

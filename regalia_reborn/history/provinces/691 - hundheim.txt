@@ -1,0 +1,6 @@
+title = c_hundheim
+max_settlements = 2
+culture = english
+religion = cathar
+b_hundheim = tribal
+b_hundheim2 = temple

@@ -1,0 +1,6 @@
+title = c_itteksund
+max_settlements = 2
+culture = english
+religion = cathar
+b_itteksund = tribal
+b_itteksund2 = temple

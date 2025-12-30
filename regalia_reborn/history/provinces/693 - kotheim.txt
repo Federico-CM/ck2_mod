@@ -1,0 +1,6 @@
+title = c_kotheim
+max_settlements = 2
+culture = english
+religion = cathar
+b_kotheim = tribal
+b_kotheim2 = temple

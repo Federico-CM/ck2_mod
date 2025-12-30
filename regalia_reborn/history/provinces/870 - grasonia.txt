@@ -1,0 +1,6 @@
+title = c_grasonia
+max_settlements = 2
+culture = english
+religion = cathar
+b_grasonia = tribal
+b_grasonia2 = temple

@@ -1,0 +1,6 @@
+title = c_arestal
+max_settlements = 2
+culture = english
+religion = cathar
+b_arestal = tribal
+b_arestal2 = temple

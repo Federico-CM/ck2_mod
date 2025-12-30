@@ -1,0 +1,6 @@
+title = c_essakos_isles
+max_settlements = 2
+culture = english
+religion = cathar
+b_essakos_isles = tribal
+b_essakos_isles2 = temple

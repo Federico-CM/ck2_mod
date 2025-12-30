@@ -1,0 +1,6 @@
+title = c_gerveld
+max_settlements = 2
+culture = english
+religion = cathar
+b_gerveld = tribal
+b_gerveld2 = temple

@@ -1,0 +1,6 @@
+title = c_lameru
+max_settlements = 2
+culture = english
+religion = cathar
+b_lameru = tribal
+b_lameru2 = temple

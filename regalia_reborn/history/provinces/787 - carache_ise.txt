@@ -1,0 +1,6 @@
+title = c_carache_ise
+max_settlements = 2
+culture = english
+religion = cathar
+b_carache_ise = tribal
+b_carache_ise2 = temple

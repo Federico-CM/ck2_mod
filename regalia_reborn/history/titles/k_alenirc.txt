@@ -1,5 +1,0 @@
-315.9.15 = {
-	law = succ_primogeniture
-	law = agnatic_succession
-}
-

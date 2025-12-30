@@ -1,0 +1,6 @@
+title = c_irdhboll
+max_settlements = 2
+culture = english
+religion = cathar
+b_irdhboll = tribal
+b_irdhboll2 = temple

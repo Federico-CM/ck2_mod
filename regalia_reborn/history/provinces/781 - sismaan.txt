@@ -1,0 +1,6 @@
+title = c_sismaan
+max_settlements = 2
+culture = english
+religion = cathar
+b_sismaan = tribal
+b_sismaan2 = temple

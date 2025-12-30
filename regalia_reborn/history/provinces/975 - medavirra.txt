@@ -1,0 +1,6 @@
+title = c_medavirra
+max_settlements = 2
+culture = english
+religion = cathar
+b_medavirra = tribal
+b_medavirra2 = temple

@@ -1,0 +1,6 @@
+title = c_morvetenwald
+max_settlements = 2
+culture = english
+religion = cathar
+b_morvetenwald = tribal
+b_morvetenwald2 = temple

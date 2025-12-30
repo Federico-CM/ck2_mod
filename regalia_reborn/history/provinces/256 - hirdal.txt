@@ -1,0 +1,6 @@
+title = c_hirdal
+max_settlements = 2
+culture = english
+religion = cathar
+b_hirdal = tribal
+b_hirdal2 = temple

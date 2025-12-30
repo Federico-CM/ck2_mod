@@ -1,0 +1,6 @@
+title = c_tarvelleno
+max_settlements = 2
+culture = english
+religion = cathar
+b_tarvelleno = tribal
+b_tarvelleno2 = temple

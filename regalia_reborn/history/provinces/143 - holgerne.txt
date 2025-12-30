@@ -1,0 +1,6 @@
+title = c_holgerne
+max_settlements = 2
+culture = english
+religion = cathar
+b_holgerne = tribal
+b_holgerne2 = temple

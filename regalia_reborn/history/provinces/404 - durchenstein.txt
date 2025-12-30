@@ -1,0 +1,6 @@
+title = c_durchenstein
+max_settlements = 2
+culture = english
+religion = cathar
+b_durchenstein = tribal
+b_durchenstein2 = temple

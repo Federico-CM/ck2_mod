@@ -1,0 +1,6 @@
+title = c_annaparochie
+max_settlements = 2
+culture = english
+religion = cathar
+b_annaparochie = tribal
+b_annaparochie2 = temple

@@ -1,0 +1,6 @@
+title = c_montua
+max_settlements = 2
+culture = english
+religion = cathar
+b_montua = tribal
+b_montua2 = temple

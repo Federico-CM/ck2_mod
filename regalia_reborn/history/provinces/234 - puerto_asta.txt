@@ -1,0 +1,6 @@
+title = c_puerto_asta
+max_settlements = 2
+culture = english
+religion = cathar
+b_puerto_asta = tribal
+b_puerto_asta2 = temple

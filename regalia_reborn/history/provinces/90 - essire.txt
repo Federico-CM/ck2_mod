@@ -1,0 +1,6 @@
+title = c_essire
+max_settlements = 2
+culture = english
+religion = cathar
+b_essire = tribal
+b_essire2 = temple

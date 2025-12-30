@@ -1,0 +1,6 @@
+title = c_meuverge
+max_settlements = 2
+culture = english
+religion = cathar
+b_meuverge = tribal
+b_meuverge2 = temple

@@ -1,0 +1,6 @@
+title = c_lizenfurd
+max_settlements = 2
+culture = english
+religion = cathar
+b_lizenfurd = tribal
+b_lizenfurd2 = temple

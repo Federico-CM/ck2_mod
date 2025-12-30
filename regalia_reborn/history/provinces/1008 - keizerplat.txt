@@ -1,0 +1,6 @@
+title = c_keizerplat
+max_settlements = 2
+culture = english
+religion = cathar
+b_keizerplat = tribal
+b_keizerplat2 = temple

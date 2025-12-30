@@ -1,0 +1,6 @@
+title = c_isheim
+max_settlements = 2
+culture = english
+religion = cathar
+b_isheim = tribal
+b_isheim2 = temple

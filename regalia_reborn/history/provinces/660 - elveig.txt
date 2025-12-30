@@ -1,0 +1,6 @@
+title = c_elveig
+max_settlements = 2
+culture = english
+religion = cathar
+b_elveig = tribal
+b_elveig2 = temple

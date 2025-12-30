@@ -1,0 +1,6 @@
+title = c_ais_surgenne
+max_settlements = 2
+culture = english
+religion = cathar
+b_ais_surgenne = tribal
+b_ais_surgenne2 = temple

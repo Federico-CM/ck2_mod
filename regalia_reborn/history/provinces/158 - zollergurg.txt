@@ -1,0 +1,6 @@
+title = c_zollergurg
+max_settlements = 2
+culture = english
+religion = cathar
+b_zollergurg = tribal
+b_zollergurg2 = temple

@@ -1,0 +1,6 @@
+title = c_gambess
+max_settlements = 2
+culture = english
+religion = cathar
+b_gambess = tribal
+b_gambess2 = temple

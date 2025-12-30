@@ -1,0 +1,6 @@
+title = c_molveria
+max_settlements = 2
+culture = english
+religion = cathar
+b_molveria = tribal
+b_molveria2 = temple

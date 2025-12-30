@@ -1,0 +1,6 @@
+title = c_tulliemet
+max_settlements = 2
+culture = english
+religion = cathar
+b_tulliemet = tribal
+b_tulliemet2 = temple

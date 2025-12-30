@@ -1,6 +1,0 @@
-	title = c_ruleald
-	max_settlements = 2
-	culture = english
-	religion = cathar
-	b_ruleald = tribal
-	b_rutahsa = temple

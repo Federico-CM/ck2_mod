@@ -1,0 +1,6 @@
+title = c_spalding
+max_settlements = 2
+culture = english
+religion = cathar
+b_spalding = tribal
+b_spalding2 = temple

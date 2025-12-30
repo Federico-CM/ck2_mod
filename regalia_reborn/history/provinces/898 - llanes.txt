@@ -1,0 +1,6 @@
+title = c_llanes
+max_settlements = 2
+culture = english
+religion = cathar
+b_llanes = tribal
+b_llanes2 = temple

@@ -1,0 +1,6 @@
+title = c_rustington
+max_settlements = 2
+culture = english
+religion = cathar
+b_rustington = tribal
+b_rustington2 = temple

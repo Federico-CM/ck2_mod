@@ -1,0 +1,6 @@
+title = c_cozaal_isle
+max_settlements = 2
+culture = english
+religion = cathar
+b_cozaal_isle = tribal
+b_cozaal_isle2 = temple

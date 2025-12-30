@@ -1,0 +1,6 @@
+title = c_gateshead
+max_settlements = 2
+culture = english
+religion = cathar
+b_gateshead = tribal
+b_gateshead2 = temple

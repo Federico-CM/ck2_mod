@@ -1,0 +1,6 @@
+title = c_zuiderbank
+max_settlements = 2
+culture = english
+religion = cathar
+b_zuiderbank = tribal
+b_zuiderbank2 = temple

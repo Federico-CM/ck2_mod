@@ -1,0 +1,6 @@
+title = c_nerieen
+max_settlements = 2
+culture = english
+religion = cathar
+b_nerieen = tribal
+b_nerieen2 = temple

@@ -1,0 +1,6 @@
+title = c_ultaniss
+max_settlements = 2
+culture = english
+religion = cathar
+b_ultaniss = tribal
+b_ultaniss2 = temple

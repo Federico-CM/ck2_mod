@@ -1,0 +1,6 @@
+title = c_serratenyo
+max_settlements = 2
+culture = english
+religion = cathar
+b_serratenyo = tribal
+b_serratenyo2 = temple

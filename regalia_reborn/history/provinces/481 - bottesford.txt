@@ -1,0 +1,6 @@
+title = c_bottesford
+max_settlements = 2
+culture = english
+religion = cathar
+b_bottesford = tribal
+b_bottesford2 = temple

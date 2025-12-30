@@ -1,0 +1,6 @@
+title = c_marchena
+max_settlements = 2
+culture = english
+religion = cathar
+b_marchena = tribal
+b_marchena2 = temple

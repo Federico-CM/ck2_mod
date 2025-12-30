@@ -1,0 +1,6 @@
+title = c_hestlund
+max_settlements = 2
+culture = english
+religion = cathar
+b_hestlund = tribal
+b_hestlund2 = temple

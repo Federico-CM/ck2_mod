@@ -1,0 +1,6 @@
+title = c_ivenna
+max_settlements = 2
+culture = english
+religion = cathar
+b_ivenna = tribal
+b_ivenna2 = temple

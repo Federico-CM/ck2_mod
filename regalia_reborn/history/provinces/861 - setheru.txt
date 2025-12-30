@@ -1,0 +1,6 @@
+title = c_setheru
+max_settlements = 2
+culture = english
+religion = cathar
+b_setheru = tribal
+b_setheru2 = temple

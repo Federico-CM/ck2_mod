@@ -1,13 +1,14922 @@
-1001376 = {
-	name = Diane
+1 = {
+	name = alexander
+	culture = english
+	religion = cathar
+	257.1.1 = {
+		birth = 257.1.1
+	}
+	357.1.1 = {
+		death = 357.1.1
+	}
+	dynasty = 1
+	mother = 107
+	father = 106
+}
+
+2 = {
+	name = svanhild
+	culture = english
+	religion = cathar
+	female = yes
+	206.1.1 = {
+		birth = 206.1.1
+	}
+	264.1.1 = {
+		death = 264.1.1
+	}
+	dynasty = 15
+}
+
+3 = {
+	name = adalradr
+	culture = english
+	religion = cathar
+	196.1.1 = {
+		birth = 196.1.1
+	}
+	256.1.1 = {
+		death = 256.1.1
+	}
+	dynasty = 15
+}
+
+4 = {
+	name = leona
+	culture = english
+	religion = cathar
+	female = yes
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
+	dynasty = 15
+	mother = 5
+	father = 138
+}
+
+5 = {
+	name = inga
+	culture = english
+	religion = cathar
+	female = yes
+	243.1.1 = {
+		birth = 243.1.1
+	}
+	343.1.1 = {
+		death = 343.1.1
+	}
+	dynasty = 2
+}
+
+6 = {
+	name = aron
+	culture = english
+	religion = cathar
+	264.1.1 = {
+		birth = 264.1.1
+	}
+	364.1.1 = {
+		death = 364.1.1
+	}
+	dynasty = 15
+	mother = 5
+	father = 138
+}
+
+7 = {
+	name = enok
+	culture = english
+	religion = cathar
+	262.1.1 = {
+		birth = 262.1.1
+	}
+	362.1.1 = {
+		death = 362.1.1
+	}
+	dynasty = 15
+	mother = 5
+	father = 138
+}
+
+8 = {
+	name = arnbjorg
+	culture = english
+	religion = cathar
+	female = yes
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	384.1.1 = {
+		death = 384.1.1
+	}
+	dynasty = 15
+	mother = 5
+	father = 138
+}
+
+9 = {
+	name = ani
+	culture = english
+	religion = cathar
+	female = yes
+	263.1.1 = {
+		birth = 263.1.1
+	}
+	363.1.1 = {
+		death = 363.1.1
+	}
+	dynasty = 15
+	mother = 5
+	father = 138
+}
+
+10 = {
+	name = katrin
+	culture = english
+	religion = cathar
+	female = yes
+	282.1.1 = {
+		birth = 282.1.1
+	}
+	382.1.1 = {
+		death = 382.1.1
+	}
+	dynasty = 15
+	mother = 9
+	father = 210
+}
+
+11 = {
+	name = vulmar
+	culture = english
+	religion = cathar
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 3
+	mother = 9
+	father = 210
+}
+
+12 = {
+	name = medard
+	culture = english
+	religion = cathar
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
+	dynasty = 3
+	mother = 13
+	father = 14
+}
+
+13 = {
+	name = konstanze
+	culture = english
+	religion = cathar
+	female = yes
+	249.1.1 = {
+		birth = 249.1.1
+	}
+	308.1.1 = {
+		death = 308.1.1
+	}
+	dynasty = 3
+	father = 15
+}
+
+14 = {
+	name = rolf
+	culture = english
+	religion = cathar
+	240.1.1 = {
+		birth = 240.1.1
+	}
+	304.1.1 = {
+		death = 304.1.1
+	}
+	dynasty = 4
+}
+
+15 = {
+	name = rued
+	culture = english
+	religion = cathar
+	209.1.1 = {
+		birth = 209.1.1
+	}
+	291.1.1 = {
+		death = 291.1.1
+	}
+	dynasty = 3
+}
+
+16 = {
+	name = erwald
+	culture = english
+	religion = cathar
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	379.1.1 = {
+		death = 379.1.1
+	}
+	dynasty = 3
+	mother = 13
+	father = 14
+}
+
+17 = {
+	name = vicelin
+	culture = english
+	religion = cathar
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 5
+	father = 18
+}
+
+18 = {
+	name = fury
+	culture = english
+	religion = cathar
+	240.1.1 = {
+		birth = 240.1.1
+	}
+	340.1.1 = {
+		death = 340.1.1
+	}
+	dynasty = 6
+}
+
+19 = {
+	name = riccard
+	culture = english
+	religion = cathar
+	261.1.1 = {
+		birth = 261.1.1
+	}
+	278.1.1 = {
+		death = 278.1.1
+	}
+	dynasty = 3
+	father = 15
+}
+
+20 = {
+	name = alette
+	culture = english
+	religion = cathar
+	female = yes
+	235.1.1 = {
+		birth = 235.1.1
+	}
+	298.1.1 = {
+		death = 298.1.1
+	}
+	dynasty = 3
+	father = 15
+}
+
+21 = {
+	name = viktor
+	culture = english
+	religion = cathar
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 3
+	mother = 22
+	father = 23
+}
+
+22 = {
+	name = charlotte
+	culture = english
+	religion = cathar
+	female = yes
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	360.1.1 = {
+		death = 360.1.1
+	}
+	dynasty = 7
+}
+
+23 = {
+	name = anton
+	culture = english
+	religion = cathar
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 3
+	mother = 24
+	father = 25
+}
+
+24 = {
+	name = sybille
+	culture = english
+	religion = cathar
+	female = yes
+	249.1.1 = {
+		birth = 249.1.1
+	}
+	349.1.1 = {
+		death = 349.1.1
+	}
+	dynasty = 8
+	father = 519
+}
+
+25 = {
+	name = karel
+	culture = english
+	religion = cathar
+	239.1.1 = {
+		birth = 239.1.1
+	}
+	339.1.1 = {
+		death = 339.1.1
+	}
+	dynasty = 3
+	father = 15
+}
+
+26 = {
+	name = riccard
+	culture = english
+	religion = cathar
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 3
+	mother = 27
+	father = 23
+}
+
+27 = {
+	name = auddriana
+	culture = english
+	religion = cathar
+	female = yes
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 9
+}
+
+28 = {
+	name = helena
+	culture = english
+	religion = cathar
+	female = yes
+	294.1.1 = {
+		birth = 294.1.1
+	}
+	394.1.1 = {
+		death = 394.1.1
+	}
+	dynasty = 3
+	mother = 27
+	father = 23
+}
+
+29 = {
+	name = parzival
+	culture = english
+	religion = cathar
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 3
+	mother = 24
+	father = 25
+}
+
+30 = {
+	name = xavier
+	culture = english
+	religion = cathar
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	307.1.1 = {
+		death = 307.1.1
+	}
+	dynasty = 3
+	mother = 31
+	father = 29
+}
+
+31 = {
+	name = adelaide
+	culture = english
+	religion = cathar
+	female = yes
+	263.1.1 = {
+		birth = 263.1.1
+	}
+	363.1.1 = {
+		death = 363.1.1
+	}
+	dynasty = 10
+}
+
+32 = {
+	name = cecile
+	culture = english
+	religion = cathar
+	female = yes
+	282.1.1 = {
+		birth = 282.1.1
+	}
+	382.1.1 = {
+		death = 382.1.1
+	}
+	dynasty = 3
+	mother = 31
+	father = 29
+}
+
+33 = {
+	name = jean-luc
+	culture = english
+	religion = cathar
+	297.1.1 = {
+		birth = 297.1.1
+	}
+	397.1.1 = {
+		death = 397.1.1
+	}
+	dynasty = 3
+	mother = 31
+	father = 29
+}
+
+34 = {
+	name = eleonore
+	culture = english
+	religion = cathar
+	female = yes
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 3
+	mother = 31
+	father = 29
+}
+
+35 = {
+	name = riccard
+	culture = english
+	religion = cathar
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 3
+	mother = 27
+	father = 23
+}
+
+36 = {
+	name = regine
+	culture = english
+	religion = cathar
+	female = yes
+	259.1.1 = {
+		birth = 259.1.1
+	}
+	359.1.1 = {
+		death = 359.1.1
+	}
+	dynasty = 11
+}
+
+37 = {
+	name = aldrich
+	culture = english
+	religion = cathar
+	132.1.1 = {
+		birth = 132.1.1
+	}
+	186.1.1 = {
+		death = 186.1.1
+	}
+	dynasty = 12
+}
+
+38 = {
+	name = niven
+	culture = english
+	religion = cathar
+	162.1.1 = {
+		birth = 162.1.1
+	}
+	230.1.1 = {
+		death = 230.1.1
+	}
+	dynasty = 12
+	father = 37
+}
+
+39 = {
+	name = helene marie
+	culture = english
+	religion = cathar
+	female = yes
+	164.1.1 = {
+		birth = 164.1.1
+	}
+	195.1.1 = {
+		death = 195.1.1
+	}
+	dynasty = 13
+	father = 255
+}
+
+40 = {
+	name = gerhard iii
+	culture = english
+	religion = cathar
+	185.1.1 = {
+		birth = 185.1.1
+	}
+	274.1.1 = {
+		death = 274.1.1
+	}
+	dynasty = 12
+	mother = 39
+	father = 38
+}
+
+41 = {
+	name = ottokar
+	culture = english
+	religion = cathar
+	191.1.1 = {
+		birth = 191.1.1
+	}
+	252.1.1 = {
+		death = 252.1.1
+	}
+	dynasty = 12
+	mother = 39
+	father = 38
+}
+
+42 = {
+	name = laurenz
+	culture = english
+	religion = cathar
+	224.1.1 = {
+		birth = 224.1.1
+	}
+	240.1.1 = {
+		death = 240.1.1
+	}
+	dynasty = 12
+	father = 41
+}
+
+43 = {
+	name = hadrian
+	culture = english
+	religion = cathar
+	206.1.1 = {
+		birth = 206.1.1
+	}
+	271.1.1 = {
+		death = 271.1.1
+	}
+	dynasty = 12
+	father = 40
+}
+
+44 = {
+	name = theodon
+	culture = english
+	religion = cathar
+	243.1.1 = {
+		birth = 243.1.1
+	}
+	343.1.1 = {
+		death = 343.1.1
+	}
+	dynasty = 12
+	father = 40
+}
+
+45 = {
+	name = albrecht
+	culture = english
+	religion = cathar
+	263.1.1 = {
+		birth = 263.1.1
+	}
+	363.1.1 = {
+		death = 363.1.1
+	}
+	dynasty = 12
+	father = 44
+}
+
+46 = {
+	name = rudolph
+	culture = english
+	religion = cathar
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	360.1.1 = {
+		death = 360.1.1
+	}
+	dynasty = 12
+	father = 44
+}
+
+47 = {
+	name = maximillian
+	culture = english
+	religion = cathar
+	261.1.1 = {
+		birth = 261.1.1
+	}
+	361.1.1 = {
+		death = 361.1.1
+	}
+	dynasty = 12
+	father = 44
+}
+
+48 = {
+	name = ulrich
+	culture = english
+	religion = cathar
+	251.1.1 = {
+		birth = 251.1.1
+	}
+	351.1.1 = {
+		death = 351.1.1
+	}
+	dynasty = 12
+	mother = 20
+	father = 43
+}
+
+49 = {
+	name = klaus
+	culture = english
+	religion = cathar
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 12
+	mother = 479
+	father = 45
+}
+
+50 = {
+	name = reynold
+	culture = english
+	religion = cathar
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	379.1.1 = {
+		death = 379.1.1
+	}
+	dynasty = 12
+	mother = 479
+	father = 45
+}
+
+51 = {
+	name = lydia
+	culture = english
+	religion = cathar
+	female = yes
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 12
+	mother = 479
+	father = 45
+}
+
+52 = {
+	name = thoron
+	culture = english
+	religion = cathar
+	254.1.1 = {
+		birth = 254.1.1
+	}
+	354.1.1 = {
+		death = 354.1.1
+	}
+	dynasty = 12
+	mother = 20
+	father = 43
+}
+
+53 = {
+	name = reinhardt
+	culture = english
+	religion = cathar
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 12
+	father = 52
+}
+
+54 = {
+	name = cecillie
+	culture = english
+	religion = cathar
+	female = yes
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 12
+	father = 52
+}
+
+55 = {
+	name = roland
+	culture = english
+	religion = cathar
+	296.1.1 = {
+		birth = 296.1.1
+	}
+	396.1.1 = {
+		death = 396.1.1
+	}
+	dynasty = 12
+	father = 52
+}
+
+56 = {
+	name = aolderich
+	culture = english
+	religion = cathar
+	273.1.1 = {
+		birth = 273.1.1
+	}
+	373.1.1 = {
+		death = 373.1.1
+	}
+	dynasty = 12
+	father = 48
+}
+
+57 = {
+	name = elrik
+	culture = english
+	religion = cathar
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	379.1.1 = {
+		death = 379.1.1
+	}
+	dynasty = 12
+	father = 48
+}
+
+58 = {
+	name = jaekor
+	culture = english
+	religion = cathar
+	274.1.1 = {
+		birth = 274.1.1
+	}
+	374.1.1 = {
+		death = 374.1.1
+	}
+	dynasty = 12
+	father = 48
+}
+
+59 = {
+	name = riane
+	culture = english
+	religion = cathar
+	female = yes
+	276.1.1 = {
+		birth = 276.1.1
+	}
+	376.1.1 = {
+		death = 376.1.1
+	}
+	dynasty = 12
+	father = 48
+}
+
+60 = {
+	name = reimar
+	culture = english
+	religion = cathar
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 12
+	father = 50
+}
+
+61 = {
+	name = josephine
+	culture = english
+	religion = cathar
+	female = yes
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	384.1.1 = {
+		death = 384.1.1
+	}
+	dynasty = 12
+	mother = 479
+	father = 45
+}
+
+62 = {
+	name = rianne
+	culture = english
+	religion = cathar
+	female = yes
+	20.1.1 = {
+		birth = 20.1.1
+	}
+	65.1.1 = {
+		death = 65.1.1
+	}
+	dynasty = 14
+	father = 245
+}
+
+63 = {
+	name = caldomir
+	culture = english
+	religion = cathar
+	6.1.1 = {
+		birth = 6.1.1
+	}
+	49.1.1 = {
+		death = 49.1.1
+	}
+	dynasty = 1
+}
+
+64 = {
+	name = aldomir
+	culture = english
+	religion = cathar
+	22.1.1 = {
+		birth = 22.1.1
+	}
+	75.1.1 = {
+		death = 75.1.1
+	}
+	dynasty = 1
+	father = 63
+}
+
+65 = {
+	name = eotranna
+	culture = english
+	religion = cathar
+	female = yes
+	23.1.1 = {
+		birth = 23.1.1
+	}
+	114.1.1 = {
+		death = 114.1.1
+	}
+	dynasty = 1
+	father = 63
+}
+
+66 = {
+	name = tedromar
+	culture = english
+	religion = cathar
+	24.1.1 = {
+		birth = 24.1.1
+	}
+	65.1.1 = {
+		death = 65.1.1
+	}
+	dynasty = 1
+	father = 63
+}
+
+67 = {
+	name = dwalmar
+	culture = english
+	religion = cathar
+	26.1.1 = {
+		birth = 26.1.1
+	}
+	67.1.1 = {
+		death = 67.1.1
+	}
+	dynasty = 1
+	father = 63
+}
+
+68 = {
+	name = arnold
+	culture = english
+	religion = cathar
+	28.1.1 = {
+		birth = 28.1.1
+	}
+	67.1.1 = {
+		death = 67.1.1
+	}
+	dynasty = 1
+	father = 63
+}
+
+70 = {
+	name = kattemeis
+	culture = english
+	religion = cathar
+	female = yes
+	18.1.1 = {
+		birth = 18.1.1
+	}
+	56.1.1 = {
+		death = 56.1.1
+	}
+	dynasty = 16
+}
+
+69 = {
+	name = betheoric
+	culture = english
+	religion = cathar
+	38.1.1 = {
+		birth = 38.1.1
+	}
+	79.1.1 = {
+		death = 79.1.1
+	}
+	dynasty = 1
+	mother = 62
+	father = 64
+}
+
+71 = {
+	name = betheoric
+	culture = english
+	religion = cathar
+	54.1.1 = {
+		birth = 54.1.1
+	}
+	104.1.1 = {
+		death = 104.1.1
+	}
+	dynasty = 1
+	mother = 70
+	father = 69
+}
+
+72 = {
+	name = maenarra
+	culture = english
+	religion = cathar
+	female = yes
+	51.1.1 = {
+		birth = 51.1.1
+	}
+	104.1.1 = {
+		death = 104.1.1
+	}
+	dynasty = 14
+}
+
+73 = {
+	name = ellenore
+	culture = english
+	religion = cathar
+	female = yes
+	71.1.1 = {
+		birth = 71.1.1
+	}
+	110.1.1 = {
+		death = 110.1.1
+	}
+	dynasty = 1
+	mother = 72
+	father = 71
+}
+
+74 = {
+	name = tarnan
+	culture = english
+	religion = cathar
+	93.1.1 = {
+		birth = 93.1.1
+	}
+	119.1.1 = {
+		death = 119.1.1
+	}
+	dynasty = 1
+	mother = 73
+}
+
+75 = {
+	name = sarvan
+	culture = english
+	religion = cathar
+	94.1.1 = {
+		birth = 94.1.1
+	}
+	119.1.1 = {
+		death = 119.1.1
+	}
+	dynasty = 1
+	mother = 73
+}
+
+76 = {
+	name = beatrix
+	culture = english
+	religion = cathar
+	female = yes
+	80.1.1 = {
+		birth = 80.1.1
+	}
+	141.1.1 = {
+		death = 141.1.1
+	}
+	dynasty = 1
+	mother = 72
+	father = 71
+}
+
+77 = {
+	name = arnold
+	culture = english
+	religion = cathar
+	79.1.1 = {
+		birth = 79.1.1
+	}
+	160.1.1 = {
+		death = 160.1.1
+	}
+	dynasty = 17
+}
+
+78 = {
+	name = nikolaas (nicholas)
+	culture = english
+	religion = cathar
+	103.1.1 = {
+		birth = 103.1.1
+	}
+	205.1.1 = {
+		death = 205.1.1
+	}
+	dynasty = 1
+	mother = 76
+	father = 77
+}
+
+79 = {
+	name = kassandra
+	culture = english
+	religion = cathar
+	female = yes
+	107.1.1 = {
+		birth = 107.1.1
+	}
+	174.1.1 = {
+		death = 174.1.1
+	}
+	dynasty = 1
+	mother = 76
+	father = 77
+}
+
+80 = {
+	name = melissa
+	culture = english
+	religion = cathar
+	female = yes
+	110.1.1 = {
+		birth = 110.1.1
+	}
+	154.1.1 = {
+		death = 154.1.1
+	}
+	dynasty = 1
+	mother = 76
+	father = 77
+}
+
+81 = {
+	name = elenoor
+	culture = english
+	religion = cathar
+	female = yes
+	111.1.1 = {
+		birth = 111.1.1
+	}
+	130.1.1 = {
+		death = 130.1.1
+	}
+	dynasty = 1
+	mother = 76
+	father = 77
+}
+
+82 = {
+	name = fienne
+	culture = english
+	religion = cathar
+	female = yes
+	116.1.1 = {
+		birth = 116.1.1
+	}
+	210.1.1 = {
+		death = 210.1.1
+	}
+	dynasty = 1
+	mother = 76
+	father = 77
+}
+
+83 = {
+	name = trixa
+	culture = english
+	religion = cathar
+	female = yes
+	120.1.1 = {
+		birth = 120.1.1
+	}
+	200.1.1 = {
+		death = 200.1.1
+	}
+	dynasty = 1
+	mother = 76
+	father = 77
+}
+
+84 = {
+	name = celemora
+	culture = english
+	religion = cathar
+	female = yes
+	121.1.1 = {
+		birth = 121.1.1
+	}
+	205.1.1 = {
+		death = 205.1.1
+	}
+	dynasty = 1
+	mother = 76
+	father = 77
+}
+
+85 = {
+	name = arnold
+	culture = english
+	religion = cathar
+	150.1.1 = {
+		birth = 150.1.1
+	}
+	205.1.1 = {
+		death = 205.1.1
+	}
+	dynasty = 1
+	father = 78
+}
+
+86 = {
+	name = ingrid
+	culture = english
+	religion = cathar
+	female = yes
+	155.1.1 = {
+		birth = 155.1.1
+	}
+	215.1.1 = {
+		death = 215.1.1
+	}
+	dynasty = 18
+}
+
+87 = {
+	name = erik
+	culture = english
+	religion = cathar
+	153.1.1 = {
+		birth = 153.1.1
+	}
+	203.1.1 = {
+		death = 203.1.1
+	}
+	dynasty = 1
+	father = 78
+}
+
+88 = {
+	name = karel
+	culture = english
+	religion = cathar
+	155.1.1 = {
+		birth = 155.1.1
+	}
+	175.1.1 = {
+		death = 175.1.1
+	}
+	dynasty = 1
+	father = 78
+}
+
+89 = {
+	name = theomar
+	culture = english
+	religion = cathar
+	159.1.1 = {
+		birth = 159.1.1
+	}
+	210.1.1 = {
+		death = 210.1.1
+	}
+	dynasty = 1
+	father = 78
+}
+
+90 = {
+	name = loesinne
+	culture = english
+	religion = cathar
+	female = yes
+	163.1.1 = {
+		birth = 163.1.1
+	}
+	230.1.1 = {
+		death = 230.1.1
+	}
+	dynasty = 1
+	father = 78
+}
+
+91 = {
+	name = leona
+	culture = english
+	religion = cathar
+	female = yes
+	174.1.1 = {
+		birth = 174.1.1
+	}
+	245.1.1 = {
+		death = 245.1.1
+	}
+	dynasty = 1
+	mother = 86
+	father = 85
+}
+
+92 = {
+	name = alexander
+	culture = english
+	religion = cathar
+	172.1.1 = {
+		birth = 172.1.1
+	}
+	216.1.1 = {
+		death = 216.1.1
+	}
+	dynasty = 1
+	mother = 86
+	father = 85
+}
+
+93 = {
+	name = kedmir
+	culture = english
+	religion = cathar
+	173.1.1 = {
+		birth = 173.1.1
+	}
+	216.1.1 = {
+		death = 216.1.1
+	}
+	dynasty = 1
+	mother = 86
+	father = 85
+}
+
+94 = {
+	name = suzanne
+	culture = english
+	religion = cathar
+	female = yes
+	170.1.1 = {
+		birth = 170.1.1
+	}
+	210.1.1 = {
+		death = 210.1.1
+	}
+	dynasty = 19
+}
+
+95 = {
+	name = dalmer
+	culture = english
+	religion = cathar
+	190.1.1 = {
+		birth = 190.1.1
+	}
+	240.1.1 = {
+		death = 240.1.1
+	}
+	dynasty = 1
+	mother = 94
+	father = 93
+}
+
+96 = {
+	name = morgenkroon
+	culture = english
+	religion = cathar
+	201.1.1 = {
+		birth = 201.1.1
+	}
+	256.1.1 = {
+		death = 256.1.1
+	}
+	dynasty = 1
+	mother = 94
+	father = 93
+}
+
+97 = {
+	name = normen
+	culture = english
+	religion = cathar
+	218.1.1 = {
+		birth = 218.1.1
+	}
+	272.1.1 = {
+		death = 272.1.1
+	}
+	dynasty = 1
+	father = 96
+}
+
+98 = {
+	name = morgannan
+	culture = english
+	religion = cathar
+	female = yes
+	207.1.1 = {
+		birth = 207.1.1
+	}
+	307.1.1 = {
+		death = 307.1.1
+	}
+	dynasty = 20
+}
+
+99 = {
+	name = jacilla
+	culture = english
+	religion = cathar
+	female = yes
+	226.1.1 = {
+		birth = 226.1.1
+	}
+	275.1.1 = {
+		death = 275.1.1
+	}
+	dynasty = 1
+	father = 96
+}
+
+100 = {
+	name = moorak
+	culture = english
+	religion = cathar
+	205.1.1 = {
+		birth = 205.1.1
+	}
+	276.1.1 = {
+		death = 276.1.1
+	}
+	dynasty = 21
+}
+
+101 = {
+	name = bellatrix
+	culture = english
+	religion = cathar
+	female = yes
+	198.1.1 = {
+		birth = 198.1.1
+	}
+	275.1.1 = {
+		death = 275.1.1
+	}
+	dynasty = 22
+}
+
+102 = {
+	name = aliandre
+	culture = english
+	religion = cathar
+	219.1.1 = {
+		birth = 219.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 1
+	father = 96
+}
+
+103 = {
+	name = terijin
+	culture = english
+	religion = cathar
+	223.1.1 = {
+		birth = 223.1.1
+	}
+	300.1.1 = {
+		death = 300.1.1
+	}
+	dynasty = 1
+	father = 96
+}
+
+104 = {
+	name = willem
+	culture = english
+	religion = cathar
+	225.1.1 = {
+		birth = 225.1.1
+	}
+	288.1.1 = {
+		death = 288.1.1
+	}
+	dynasty = 1
+	father = 96
+}
+
+105 = {
+	name = walmar
+	culture = english
+	religion = cathar
+	233.1.1 = {
+		birth = 233.1.1
+	}
+	303.1.1 = {
+		death = 303.1.1
+	}
+	dynasty = 1
+	father = 96
+}
+
+106 = {
+	name = moriart
+	culture = english
+	religion = cathar
+	234.1.1 = {
+		birth = 234.1.1
+	}
+	303.1.1 = {
+		death = 303.1.1
+	}
+	dynasty = 1
+	mother = 98
+	father = 97
+}
+
+107 = {
+	name = allianne
+	culture = english
+	religion = cathar
+	female = yes
+	241.1.1 = {
+		birth = 241.1.1
+	}
+	341.1.1 = {
+		death = 341.1.1
+	}
+	dynasty = 23
+	mother = 309
+	father = 308
+}
+
+108 = {
+	name = marie
+	culture = english
+	religion = cathar
+	female = yes
+	280.1.1 = {
+		birth = 280.1.1
+	}
+	380.1.1 = {
+		death = 380.1.1
+	}
+	dynasty = 24
+}
+
+109 = {
+	name = albert-stijn
+	culture = english
+	religion = cathar
+	300.1.1 = {
+		birth = 300.1.1
+	}
+	400.1.1 = {
+		death = 400.1.1
+	}
+	dynasty = 1
+	mother = 108
+	father = 110
+}
+
+110 = {
+	name = francis
+	culture = english
+	religion = cathar
+	257.1.1 = {
+		birth = 257.1.1
+	}
+	357.1.1 = {
+		death = 357.1.1
+	}
+	dynasty = 1
+	mother = 112
+	father = 111
+}
+
+111 = {
+	name = maximillian
+	culture = english
+	religion = cathar
+	236.1.1 = {
+		birth = 236.1.1
+	}
+	336.1.1 = {
+		death = 336.1.1
+	}
+	dynasty = 1
+	mother = 98
+	father = 97
+}
+
+112 = {
+	name = elizabet
+	culture = english
+	religion = cathar
+	female = yes
+	241.1.1 = {
+		birth = 241.1.1
+	}
+	341.1.1 = {
+		death = 341.1.1
+	}
+	dynasty = 25
+}
+
+113 = {
+	name = willem-friso
+	culture = english
+	religion = cathar
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	360.1.1 = {
+		death = 360.1.1
+	}
+	dynasty = 1
+	mother = 112
+	father = 111
+}
+
+114 = {
+	name = konstantijn
+	culture = english
+	religion = cathar
+	274.1.1 = {
+		birth = 274.1.1
+	}
+	374.1.1 = {
+		death = 374.1.1
+	}
+	dynasty = 1
+	mother = 112
+	father = 111
+}
+
+115 = {
+	name = justiniaan
+	culture = english
+	religion = cathar
+	244.1.1 = {
+		birth = 244.1.1
+	}
+	344.1.1 = {
+		death = 344.1.1
+	}
+	dynasty = 1
+	mother = 98
+	father = 97
+}
+
+116 = {
+	name = sheila-manon
+	culture = english
+	religion = cathar
+	female = yes
+	245.1.1 = {
+		birth = 245.1.1
+	}
+	345.1.1 = {
+		death = 345.1.1
+	}
+	dynasty = 1
+	mother = 98
+	father = 97
+}
+
+117 = {
+	name = gloriane
+	culture = english
+	religion = cathar
+	female = yes
+	247.1.1 = {
+		birth = 247.1.1
+	}
+	347.1.1 = {
+		death = 347.1.1
+	}
+	dynasty = 1
+	mother = 98
+	father = 97
+}
+
+118 = {
+	name = beatrix
+	culture = english
+	religion = cathar
+	female = yes
+	249.1.1 = {
+		birth = 249.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 1
+	mother = 98
+	father = 97
+}
+
+119 = {
+	name = hetrijin
+	culture = english
+	religion = cathar
+	231.1.1 = {
+		birth = 231.1.1
+	}
+	331.1.1 = {
+		death = 331.1.1
+	}
+	dynasty = 26
+}
+
+120 = {
+	name = daan
+	culture = english
+	religion = cathar
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 1
+	mother = 118
+	father = 119
+}
+
+121 = {
+	name = laurent
+	culture = english
+	religion = cathar
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 1
+	mother = 118
+	father = 119
+}
+
+122 = {
+	name = edwine
+	culture = english
+	religion = cathar
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 1
+	mother = 118
+	father = 119
+}
+
+123 = {
+	name = esme
+	culture = english
+	religion = cathar
+	female = yes
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 1
+	mother = 118
+	father = 119
+}
+
+124 = {
+	name = aliandra
+	culture = english
+	religion = cathar
+	female = yes
+	250.1.1 = {
+		birth = 250.1.1
+	}
+	350.1.1 = {
+		death = 350.1.1
+	}
+	dynasty = 1
+	mother = 98
+	father = 97
+}
+
+125 = {
+	name = anton
+	culture = english
+	religion = cathar
+	243.1.1 = {
+		birth = 243.1.1
+	}
+	343.1.1 = {
+		death = 343.1.1
+	}
+	dynasty = 27
+}
+
+126 = {
+	name = remon
+	culture = english
+	religion = cathar
+	261.1.1 = {
+		birth = 261.1.1
+	}
+	361.1.1 = {
+		death = 361.1.1
+	}
+	dynasty = 1
+	mother = 116
+}
+
+127 = {
+	name = desmon
+	culture = english
+	religion = cathar
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
+	dynasty = 1
+	mother = 116
+}
+
+128 = {
+	name = arianne
+	culture = english
+	religion = cathar
+	female = yes
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 1
+	mother = 116
+}
+
+129 = {
+	name = hendrik
+	culture = english
+	religion = cathar
+	271.1.1 = {
+		birth = 271.1.1
+	}
+	371.1.1 = {
+		death = 371.1.1
+	}
+	dynasty = 1
+	mother = 116
+}
+
+130 = {
+	name = roena
+	culture = english
+	religion = cathar
+	female = yes
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 1
+	mother = 118
+	father = 119
+}
+
+131 = {
+	name = jozua
+	culture = english
+	religion = cathar
+	275.1.1 = {
+		birth = 275.1.1
+	}
+	375.1.1 = {
+		death = 375.1.1
+	}
+	dynasty = 1
+	mother = 124
+	father = 125
+}
+
+132 = {
+	name = goderol
+	culture = english
+	religion = cathar
+	274.1.1 = {
+		birth = 274.1.1
+	}
+	374.1.1 = {
+		death = 374.1.1
+	}
+	dynasty = 1
+	mother = 124
+	father = 125
+}
+
+133 = {
+	name = godfried
+	culture = english
+	religion = cathar
+	276.1.1 = {
+		birth = 276.1.1
+	}
+	376.1.1 = {
+		death = 376.1.1
+	}
+	dynasty = 1
+	mother = 124
+	father = 125
+}
+
+134 = {
+	name = antonie
+	culture = english
+	religion = cathar
+	female = yes
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	379.1.1 = {
+		death = 379.1.1
+	}
+	dynasty = 1
+	mother = 124
+	father = 125
+}
+
+135 = {
+	name = karlo
+	culture = english
+	religion = cathar
+	281.1.1 = {
+		birth = 281.1.1
+	}
+	381.1.1 = {
+		death = 381.1.1
+	}
+	dynasty = 1
+	mother = 124
+	father = 125
+}
+
+136 = {
+	name = willem
+	culture = english
+	religion = cathar
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 1
+	mother = 124
+	father = 125
+}
+
+137 = {
+	name = eloise
+	culture = english
+	religion = cathar
+	female = yes
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	291.1.1 = {
+		death = 291.1.1
+	}
+	dynasty = 23
+	mother = 311
+	father = 310
+}
+
+138 = {
+	name = alexander
+	culture = english
+	religion = cathar
+	257.1.1 = {
+		birth = 257.1.1
+	}
+	357.1.1 = {
+		death = 357.1.1
+	}
+	dynasty = 1
+	mother = 107
+	father = 106
+}
+
+139 = {
+	name = tamara
+	culture = english
+	religion = cathar
+	female = yes
+	274.1.1 = {
+		birth = 274.1.1
+	}
+	300.1.1 = {
+		death = 300.1.1
+	}
+	dynasty = 28
+}
+
+140 = {
+	name = reinoud
+	culture = english
+	religion = cathar
+	276.1.1 = {
+		birth = 276.1.1
+	}
+	376.1.1 = {
+		death = 376.1.1
+	}
+	dynasty = 1
+	mother = 137
+	father = 1
+}
+
+141 = {
+	name = frederik
+	culture = english
+	religion = cathar
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 1
+	mother = 137
+	father = 1
+}
+
+142 = {
+	name = raymond
+	culture = english
+	religion = cathar
+	280.1.1 = {
+		birth = 280.1.1
+	}
+	380.1.1 = {
+		death = 380.1.1
+	}
+	dynasty = 1
+	mother = 137
+	father = 1
+}
+
+143 = {
+	name = robbert
+	culture = english
+	religion = cathar
+	300.1.1 = {
+		birth = 300.1.1
+	}
+	400.1.1 = {
+		death = 400.1.1
+	}
+	dynasty = 1
+	mother = 139
+	father = 1
+}
+
+144 = {
+	name = moriart
+	culture = english
+	religion = cathar
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 1
+	mother = 139
+	father = 1
+}
+
+145 = {
+	name = vohemond
+	culture = english
+	religion = cathar
+	310.1.1 = {
+		birth = 310.1.1
+	}
+	410.1.1 = {
+		death = 410.1.1
+	}
+	dynasty = 1
+	mother = 150
+	father = 1
+}
+
+146 = {
+	name = edouard
+	culture = english
+	religion = cathar
+	309.1.1 = {
+		birth = 309.1.1
+	}
+	409.1.1 = {
+		death = 409.1.1
+	}
+	dynasty = 1
+	mother = 150
+	father = 1
+}
+
+147 = {
+	name = carlos
+	culture = english
+	religion = cathar
+	308.1.1 = {
+		birth = 308.1.1
+	}
+	408.1.1 = {
+		death = 408.1.1
+	}
+	dynasty = 1
+	mother = 150
+	father = 1
+}
+
+148 = {
+	name = yvonne
+	culture = english
+	religion = cathar
+	female = yes
+	307.1.1 = {
+		birth = 307.1.1
+	}
+	407.1.1 = {
+		death = 407.1.1
+	}
+	dynasty = 1
+	mother = 150
+	father = 1
+}
+
+149 = {
+	name = jezeme
+	culture = english
+	religion = cathar
+	305.1.1 = {
+		birth = 305.1.1
+	}
+	405.1.1 = {
+		death = 405.1.1
+	}
+	dynasty = 1
+	mother = 150
+	father = 1
+}
+
+150 = {
+	name = juliana
+	culture = english
+	religion = cathar
+	female = yes
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	379.1.1 = {
+		death = 379.1.1
+	}
+	dynasty = 29
+}
+
+151 = {
+	name = tomas
+	culture = english
+	religion = cathar
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	358.1.1 = {
+		death = 358.1.1
+	}
+	dynasty = 1
+	mother = 107
+	father = 106
+}
+
+152 = {
+	name = rosalia
+	culture = english
+	religion = cathar
+	female = yes
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	291.1.1 = {
+		death = 291.1.1
+	}
+	dynasty = 30
+}
+
+153 = {
+	name = duncan
+	culture = english
+	religion = cathar
+	276.1.1 = {
+		birth = 276.1.1
+	}
+	376.1.1 = {
+		death = 376.1.1
+	}
+	dynasty = 1
+	mother = 152
+	father = 151
+}
+
+154 = {
+	name = valentijn
+	culture = english
+	religion = cathar
+	277.1.1 = {
+		birth = 277.1.1
+	}
+	377.1.1 = {
+		death = 377.1.1
+	}
+	dynasty = 1
+	mother = 152
+	father = 151
+}
+
+155 = {
+	name = noor
+	culture = english
+	religion = cathar
+	female = yes
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 1
+	mother = 152
+	father = 151
+}
+
+156 = {
+	name = juliana
+	culture = english
+	religion = cathar
+	female = yes
+	282.1.1 = {
+		birth = 282.1.1
+	}
+	382.1.1 = {
+		death = 382.1.1
+	}
+	dynasty = 1
+	mother = 152
+	father = 151
+}
+
+157 = {
+	name = jasper
+	culture = english
+	religion = cathar
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 1
+	mother = 152
+	father = 151
+}
+
+158 = {
+	name = darryl
+	culture = english
+	religion = cathar
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 1
+	mother = 152
+	father = 151
+}
+
+159 = {
+	name = alderik
+	culture = english
+	religion = cathar
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	358.1.1 = {
+		death = 358.1.1
+	}
+	dynasty = 1
+	mother = 112
+	father = 111
+}
+
+160 = {
+	name = dominique
+	culture = english
+	religion = cathar
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	360.1.1 = {
+		death = 360.1.1
+	}
+	dynasty = 1
+	mother = 107
+	father = 106
+}
+
+161 = {
+	name = cedromar
+	culture = english
+	religion = cathar
+	267.1.1 = {
+		birth = 267.1.1
+	}
+	367.1.1 = {
+		death = 367.1.1
+	}
+	dynasty = 1
+	mother = 107
+	father = 106
+}
+
+162 = {
+	name = amalia
+	culture = english
+	religion = cathar
+	female = yes
+	269.1.1 = {
+		birth = 269.1.1
+	}
+	369.1.1 = {
+		death = 369.1.1
+	}
+	dynasty = 1
+	mother = 107
+	father = 106
+}
+
+163 = {
+	name = taddeus
+	culture = english
+	religion = cathar
+	275.1.1 = {
+		birth = 275.1.1
+	}
+	375.1.1 = {
+		death = 375.1.1
+	}
+	dynasty = 1
+	mother = 107
+	father = 106
+}
+
+164 = {
+	name = floorance
+	culture = english
+	religion = cathar
+	female = yes
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	379.1.1 = {
+		death = 379.1.1
+	}
+	dynasty = 1
+	mother = 107
+	father = 106
+}
+
+165 = {
+	name = evelienne
+	culture = english
+	religion = cathar
+	female = yes
+	282.1.1 = {
+		birth = 282.1.1
+	}
+	382.1.1 = {
+		death = 382.1.1
+	}
+	dynasty = 1
+	mother = 107
+	father = 106
+}
+
+166 = {
+	name = xavier
+	culture = english
+	religion = cathar
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 1
+	mother = 107
+	father = 106
+}
+
+167 = {
+	name = xander
+	culture = english
+	religion = cathar
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	384.1.1 = {
+		death = 384.1.1
+	}
+	dynasty = 1
+	mother = 107
+	father = 106
+}
+
+168 = {
+	name = heloise
+	culture = english
+	religion = cathar
+	female = yes
+	272.1.1 = {
+		birth = 272.1.1
+	}
+	372.1.1 = {
+		death = 372.1.1
+	}
+	dynasty = 23
+	mother = 313
+}
+
+169 = {
+	name = michiel
+	culture = english
+	religion = cathar
+	299.1.1 = {
+		birth = 299.1.1
+	}
+	399.1.1 = {
+		death = 399.1.1
+	}
+	dynasty = 1
+	mother = 168
+	father = 140
+}
+
+170 = {
+	name = marjike
+	culture = english
+	religion = cathar
+	300.1.1 = {
+		birth = 300.1.1
+	}
+	400.1.1 = {
+		death = 400.1.1
+	}
+	dynasty = 1
+	mother = 168
+	father = 140
+}
+
+171 = {
+	name = quinn
+	culture = english
+	religion = cathar
+	female = yes
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 32
+}
+
+172 = {
+	name = valentijn
+	culture = english
+	religion = cathar
+	306.1.1 = {
+		birth = 306.1.1
+	}
+	406.1.1 = {
+		death = 406.1.1
+	}
+	dynasty = 1
+	mother = 171
+	father = 142
+}
+
+173 = {
+	name = wouter
+	culture = english
+	religion = cathar
+	307.1.1 = {
+		birth = 307.1.1
+	}
+	407.1.1 = {
+		death = 407.1.1
+	}
+	dynasty = 1
+	mother = 171
+	father = 142
+}
+
+174 = {
+	name = leonie
+	culture = english
+	religion = cathar
+	female = yes
+	308.1.1 = {
+		birth = 308.1.1
+	}
+	408.1.1 = {
+		death = 408.1.1
+	}
+	dynasty = 1
+	mother = 171
+	father = 142
+}
+
+175 = {
+	name = yvonne
+	culture = english
+	religion = cathar
+	female = yes
+	309.1.1 = {
+		birth = 309.1.1
+	}
+	409.1.1 = {
+		death = 409.1.1
+	}
+	dynasty = 1
+	mother = 171
+	father = 142
+}
+
+176 = {
+	name = therese
+	culture = english
+	religion = cathar
+	female = yes
+	311.1.1 = {
+		birth = 311.1.1
+	}
+	411.1.1 = {
+		death = 411.1.1
+	}
+	dynasty = 1
+	mother = 171
+	father = 142
+}
+
+177 = {
+	name = femke-flien
+	culture = english
+	religion = cathar
+	female = yes
+	312.1.1 = {
+		birth = 312.1.1
+	}
+	412.1.1 = {
+		death = 412.1.1
+	}
+	dynasty = 1
+	mother = 171
+	father = 142
+}
+
+178 = {
+	name = olenya
+	culture = english
+	religion = cathar
+	female = yes
+	200.1.1 = {
+		birth = 200.1.1
+	}
+	281.1.1 = {
+		death = 281.1.1
+	}
+	dynasty = 33
+	father = 640
+}
+
+179 = {
+	name = xay
+	culture = english
+	religion = cathar
+	female = yes
+	229.1.1 = {
+		birth = 229.1.1
+	}
+	286.1.1 = {
+		death = 286.1.1
+	}
+	dynasty = 34
+	mother = 178
+	father = 96
+}
+
+180 = {
+	name = oleia
+	culture = english
+	religion = cathar
+	female = yes
+	231.1.1 = {
+		birth = 231.1.1
+	}
+	276.1.1 = {
+		death = 276.1.1
+	}
+	dynasty = 34
+	mother = 178
+	father = 96
+}
+
+181 = {
+	name = saam
+	culture = english
+	religion = cathar
+	female = yes
+	234.1.1 = {
+		birth = 234.1.1
+	}
+	288.1.1 = {
+		death = 288.1.1
+	}
+	dynasty = 34
+	mother = 178
+	father = 96
+}
+
+182 = {
+	name = willard
+	culture = english
+	religion = cathar
+	228.1.1 = {
+		birth = 228.1.1
+	}
+	285.1.1 = {
+		death = 285.1.1
+	}
+	dynasty = 35
+	mother = 199
+	father = 200
+}
+
+183 = {
+	name = guinevere
+	culture = english
+	religion = cathar
+	female = yes
+	235.1.1 = {
+		birth = 235.1.1
+	}
+	335.1.1 = {
+		death = 335.1.1
+	}
+	dynasty = 36
+	father = 478
+}
+
+184 = {
+	name = osric
+	culture = english
+	religion = cathar
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	358.1.1 = {
+		death = 358.1.1
+	}
+	dynasty = 35
+	mother = 183
+	father = 182
+}
+
+185 = {
+	name = jehenna
+	culture = english
+	religion = cathar
+	female = yes
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	358.1.1 = {
+		death = 358.1.1
+	}
+	dynasty = 37
+	father = 468
+}
+
+186 = {
+	name = wilvahelm
+	culture = english
+	religion = cathar
+	254.1.1 = {
+		birth = 254.1.1
+	}
+	354.1.1 = {
+		death = 354.1.1
+	}
+	dynasty = 35
+	mother = 183
+	father = 182
+}
+
+187 = {
+	name = milahme
+	culture = english
+	religion = cathar
+	female = yes
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 35
+	mother = 183
+	father = 182
+}
+
+188 = {
+	name = rodderick
+	culture = english
+	religion = cathar
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	379.1.1 = {
+		death = 379.1.1
+	}
+	dynasty = 35
+	mother = 185
+	father = 186
+}
+
+189 = {
+	name = aldwynn
+	culture = english
+	religion = cathar
+	281.1.1 = {
+		birth = 281.1.1
+	}
+	381.1.1 = {
+		death = 381.1.1
+	}
+	dynasty = 35
+	mother = 185
+	father = 186
+}
+
+190 = {
+	name = genevieve
+	culture = english
+	religion = cathar
+	female = yes
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 35
+	father = 215
+}
+
+191 = {
+	name = celianna
+	culture = english
+	religion = cathar
+	female = yes
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	384.1.1 = {
+		death = 384.1.1
+	}
+	dynasty = 35
+	mother = 185
+	father = 186
+}
+
+192 = {
+	name = tommen
+	culture = english
+	religion = cathar
+	280.1.1 = {
+		birth = 280.1.1
+	}
+	380.1.1 = {
+		death = 380.1.1
+	}
+	dynasty = 35
+	mother = 185
+	father = 186
+}
+
+193 = {
+	name = rosalina
+	culture = english
+	religion = cathar
+	female = yes
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 35
+	mother = 185
+	father = 186
+}
+
+194 = {
+	name = ylva
+	culture = english
+	religion = cathar
+	female = yes
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 35
+	mother = 9
+	father = 186
+}
+
+195 = {
+	name = lillian
+	culture = english
+	religion = cathar
+	female = yes
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 35
+	mother = 9
+	father = 186
+}
+
+196 = {
+	name = alferic
+	culture = english
+	religion = cathar
+	298.1.1 = {
+		birth = 298.1.1
+	}
+	304.1.1 = {
+		death = 304.1.1
+	}
+	dynasty = 35
+	mother = 10
+	father = 188
+}
+
+197 = {
+	name = oswald
+	culture = english
+	religion = cathar
+	299.1.1 = {
+		birth = 299.1.1
+	}
+	399.1.1 = {
+		death = 399.1.1
+	}
+	dynasty = 35
+	mother = 10
+	father = 188
+}
+
+198 = {
+	name = talla
+	culture = english
+	religion = cathar
+	female = yes
+	302.1.1 = {
+		birth = 302.1.1
+	}
+	402.1.1 = {
+		death = 402.1.1
+	}
+	dynasty = 35
+	mother = 10
+	father = 188
+}
+
+199 = {
+	name = coreenne
+	culture = english
+	religion = cathar
+	female = yes
+	200.1.1 = {
+		birth = 200.1.1
+	}
+	268.1.1 = {
+		death = 268.1.1
+	}
+	dynasty = 38
+}
+
+200 = {
+	name = morden
+	culture = english
+	religion = cathar
+	191.1.1 = {
+		birth = 191.1.1
+	}
+	238.1.1 = {
+		death = 238.1.1
+	}
+	dynasty = 35
+	mother = 208
+	father = 209
+}
+
+201 = {
+	name = angelica
+	culture = english
+	religion = cathar
+	female = yes
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 35
+	mother = 203
+	father = 204
+}
+
+202 = {
+	name = mordred
+	culture = english
+	religion = cathar
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 35
+	mother = 183
+	father = 182
+}
+
+203 = {
+	name = roselyne
+	culture = english
+	religion = cathar
+	female = yes
+	269.1.1 = {
+		birth = 269.1.1
+	}
+	369.1.1 = {
+		death = 369.1.1
+	}
+	dynasty = 39
+	mother = 328
+	father = 329
+}
+
+204 = {
+	name = warren
+	culture = english
+	religion = cathar
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	360.1.1 = {
+		death = 360.1.1
+	}
+	dynasty = 35
+	mother = 183
+	father = 182
+}
+
+205 = {
+	name = dianne
+	culture = english
+	religion = cathar
+	female = yes
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 35
+	mother = 183
+	father = 182
+}
+
+206 = {
+	name = christopher
+	culture = english
+	religion = cathar
+	269.1.1 = {
+		birth = 269.1.1
+	}
+	369.1.1 = {
+		death = 369.1.1
+	}
+	dynasty = 40
+	father = 317
+}
+
+207 = {
+	name = wulfric
+	culture = english
+	religion = cathar
+	306.1.1 = {
+		birth = 306.1.1
+	}
+	406.1.1 = {
+		death = 406.1.1
+	}
+	dynasty = 35
+	mother = 203
+	father = 204
+}
+
+208 = {
+	name = minisa
+	culture = english
+	religion = cathar
+	female = yes
+	172.1.1 = {
+		birth = 172.1.1
+	}
+	238.1.1 = {
+		death = 238.1.1
+	}
+	dynasty = 9
+}
+
+209 = {
+	name = ondrew
+	culture = english
+	religion = cathar
+	166.1.1 = {
+		birth = 166.1.1
+	}
+	255.1.1 = {
+		death = 255.1.1
+	}
+	dynasty = 35
+	mother = 211
+	father = 212
+}
+
+210 = {
+	name = bastien
+	culture = english
+	religion = cathar
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	308.1.1 = {
+		death = 308.1.1
+	}
+	dynasty = 3
+	mother = 13
+	father = 14
+}
+
+211 = {
+	name = erena
+	culture = english
+	religion = cathar
+	female = yes
+	143.1.1 = {
+		birth = 143.1.1
+	}
+	194.1.1 = {
+		death = 194.1.1
+	}
+	dynasty = 8
+	father = 521
+}
+
+212 = {
+	name = torrhen
+	culture = english
+	religion = cathar
+	138.1.1 = {
+		birth = 138.1.1
+	}
+	178.1.1 = {
+		death = 178.1.1
+	}
+	dynasty = 35
+}
+
+213 = {
+	name = vagild
+	culture = english
+	religion = cathar
+	170.1.1 = {
+		birth = 170.1.1
+	}
+	246.1.1 = {
+		death = 246.1.1
+	}
+	dynasty = 35
+	mother = 211
+	father = 212
+}
+
+214 = {
+	name = sybelle
+	culture = english
+	religion = cathar
+	female = yes
+	215.1.1 = {
+		birth = 215.1.1
+	}
+	272.1.1 = {
+		death = 272.1.1
+	}
+	dynasty = 41
+}
+
+215 = {
+	name = tatfrid
+	culture = english
+	religion = cathar
+	240.1.1 = {
+		birth = 240.1.1
+	}
+	298.1.1 = {
+		death = 298.1.1
+	}
+	dynasty = 35
+	mother = 214
+	father = 213
+}
+
+216 = {
+	name = aethelred
+	culture = english
+	religion = cathar
+	237.1.1 = {
+		birth = 237.1.1
+	}
+	337.1.1 = {
+		death = 337.1.1
+	}
+	dynasty = 35
+	mother = 199
+	father = 200
+}
+
+217 = {
+	name = rothgair
+	culture = english
+	religion = cathar
+	235.1.1 = {
+		birth = 235.1.1
+	}
+	299.1.1 = {
+		death = 299.1.1
+	}
+	dynasty = 35
+	mother = 199
+	father = 200
+}
+
+218 = {
+	name = randulf
+	culture = english
+	religion = cathar
+	251.1.1 = {
+		birth = 251.1.1
+	}
+	351.1.1 = {
+		death = 351.1.1
+	}
+	dynasty = 35
+	father = 217
+}
+
+219 = {
+	name = brydon
+	culture = english
+	religion = cathar
+	254.1.1 = {
+		birth = 254.1.1
+	}
+	354.1.1 = {
+		death = 354.1.1
+	}
+	dynasty = 35
+	father = 217
+}
+
+220 = {
+	name = violetta
+	culture = english
+	religion = cathar
+	female = yes
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	358.1.1 = {
+		death = 358.1.1
+	}
+	dynasty = 35
+	father = 217
+}
+
+221 = {
+	name = mellisandre
+	culture = english
+	religion = cathar
+	female = yes
+	234.1.1 = {
+		birth = 234.1.1
+	}
+	334.1.1 = {
+		death = 334.1.1
+	}
+	dynasty = 35
+	mother = 199
+	father = 200
+}
+
+222 = {
+	name = devona
+	culture = english
+	religion = cathar
+	female = yes
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	358.1.1 = {
+		death = 358.1.1
+	}
+	dynasty = 35
+	mother = 221
+}
+
+223 = {
+	name = edmure
+	culture = english
+	religion = cathar
+	261.1.1 = {
+		birth = 261.1.1
+	}
+	361.1.1 = {
+		death = 361.1.1
+	}
+	dynasty = 35
+	mother = 221
+}
+
+224 = {
+	name = gunthard
+	culture = english
+	religion = cathar
+	211.1.1 = {
+		birth = 211.1.1
+	}
+	272.1.1 = {
+		death = 272.1.1
+	}
+	dynasty = 42
+	father = 238
+}
+
+225 = {
+	name = reinhardt
+	culture = english
+	religion = cathar
+	230.1.1 = {
+		birth = 230.1.1
+	}
+	291.1.1 = {
+		death = 291.1.1
+	}
+	dynasty = 42
+	father = 224
+}
+
+226 = {
+	name = brunhilda
+	culture = english
+	religion = cathar
+	female = yes
+	236.1.1 = {
+		birth = 236.1.1
+	}
+	336.1.1 = {
+		death = 336.1.1
+	}
+	dynasty = 43
+}
+
+227 = {
+	name = dietrich
+	culture = english
+	religion = cathar
+	254.1.1 = {
+		birth = 254.1.1
+	}
+	354.1.1 = {
+		death = 354.1.1
+	}
+	dynasty = 42
+	mother = 226
+	father = 225
+}
+
+228 = {
+	name = harald
+	culture = english
+	religion = cathar
+	255.1.1 = {
+		birth = 255.1.1
+	}
+	355.1.1 = {
+		death = 355.1.1
+	}
+	dynasty = 42
+	mother = 226
+	father = 225
+}
+
+229 = {
+	name = ludwig
+	culture = english
+	religion = cathar
+	281.1.1 = {
+		birth = 281.1.1
+	}
+	381.1.1 = {
+		death = 381.1.1
+	}
+	dynasty = 42
+	mother = 36
+	father = 227
+}
+
+230 = {
+	name = matilda
+	culture = english
+	religion = cathar
+	female = yes
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	384.1.1 = {
+		death = 384.1.1
+	}
+	dynasty = 42
+	mother = 36
+	father = 227
+}
+
+231 = {
+	name = kristoph
+	culture = english
+	religion = cathar
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 42
+	mother = 36
+	father = 227
+}
+
+232 = {
+	name = adela
+	culture = english
+	religion = cathar
+	female = yes
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 42
+	mother = 36
+	father = 227
+}
+
+233 = {
+	name = franzl
+	culture = english
+	religion = cathar
+	291.1.1 = {
+		birth = 291.1.1
+	}
+	391.1.1 = {
+		death = 391.1.1
+	}
+	dynasty = 42
+	mother = 36
+	father = 227
+}
+
+234 = {
+	name = eldrich
+	culture = english
+	religion = cathar
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	379.1.1 = {
+		death = 379.1.1
+	}
+	dynasty = 42
+	mother = 36
+	father = 227
+}
+
+235 = {
+	name = marie-anne
+	culture = english
+	religion = cathar
+	female = yes
+	308.1.1 = {
+		birth = 308.1.1
+	}
+	408.1.1 = {
+		death = 408.1.1
+	}
+	dynasty = 42
+	mother = 59
+	father = 234
+}
+
+236 = {
+	name = wufrich
+	culture = english
+	religion = cathar
+	309.1.1 = {
+		birth = 309.1.1
+	}
+	409.1.1 = {
+		death = 409.1.1
+	}
+	dynasty = 42
+	mother = 59
+	father = 234
+}
+
+237 = {
+	name = johannes
+	culture = english
+	religion = cathar
+	310.1.1 = {
+		birth = 310.1.1
+	}
+	410.1.1 = {
+		death = 410.1.1
+	}
+	dynasty = 42
+	mother = 59
+	father = 234
+}
+
+238 = {
+	name = wulfrich iii
+	culture = english
+	religion = cathar
+	181.1.1 = {
+		birth = 181.1.1
+	}
+	257.1.1 = {
+		death = 257.1.1
+	}
+	dynasty = 42
+	father = 239
+}
+
+239 = {
+	name = wulfrich
+	culture = english
+	religion = cathar
+	133.1.1 = {
+		birth = 133.1.1
+	}
+	199.1.1 = {
+		death = 199.1.1
+	}
+	dynasty = 42
+	father = 240
+}
+
+240 = {
+	name = wulfrich
+	culture = english
+	religion = cathar
+	114.1.1 = {
+		birth = 114.1.1
+	}
+	149.1.1 = {
+		death = 149.1.1
+	}
+	dynasty = 42
+	mother = 242
+	father = 241
+}
+
+241 = {
+	name = hildmar iii
+	culture = english
+	religion = cathar
+	85.1.1 = {
+		birth = 85.1.1
+	}
+	143.1.1 = {
+		death = 143.1.1
+	}
+	dynasty = 42
+}
+
+242 = {
+	name = matilde
+	culture = english
+	religion = cathar
+	female = yes
+	97.1.1 = {
+		birth = 97.1.1
+	}
+	162.1.1 = {
+		death = 162.1.1
+	}
+	dynasty = 13
+	father = 247
+}
+
+243 = {
+	name = reinhart
+	culture = english
+	religion = cathar
+	113.1.1 = {
+		birth = 113.1.1
+	}
+	131.1.1 = {
+		death = 131.1.1
+	}
+	dynasty = 42
+	mother = 242
+	father = 241
+}
+
+244 = {
+	name = eldrich
+	culture = english
+	religion = cathar
+	130.1.1 = {
+		birth = 130.1.1
+	}
+	195.1.1 = {
+		death = 195.1.1
+	}
+	dynasty = 42
+	father = 243
+}
+
+245 = {
+	name = ludwig
+	culture = english
+	religion = cathar
+	1.1.1 = {
+		birth = 1.1.1
+	}
+	36.1.1 = {
+		death = 36.1.1
+	}
+	dynasty = 13
+}
+
+246 = {
+	name = hildrebrand
+	culture = english
+	religion = cathar
+	34.1.1 = {
+		birth = 34.1.1
+	}
+	69.1.1 = {
+		death = 69.1.1
+	}
+	dynasty = 13
+	father = 245
+}
+
+247 = {
+	name = eberhard
+	culture = english
+	religion = cathar
+	55.1.1 = {
+		birth = 55.1.1
+	}
+	101.1.1 = {
+		death = 101.1.1
+	}
+	dynasty = 13
+	father = 246
+}
+
+248 = {
+	name = eberhard
+	culture = english
+	religion = cathar
+	78.1.1 = {
+		birth = 78.1.1
+	}
+	142.1.1 = {
+		death = 142.1.1
+	}
+	dynasty = 13
+	father = 247
+}
+
+249 = {
+	name = marie-anne
+	culture = english
+	religion = cathar
+	female = yes
+	94.1.1 = {
+		birth = 94.1.1
+	}
+	161.1.1 = {
+		death = 161.1.1
+	}
+	dynasty = 13
+	father = 248
+}
+
+250 = {
+	name = heinrich
+	culture = english
+	religion = cathar
+	115.1.1 = {
+		birth = 115.1.1
+	}
+	189.1.1 = {
+		death = 189.1.1
+	}
+	dynasty = 13
+	mother = 249
+}
+
+251 = {
+	name = heinrich
+	culture = english
+	religion = cathar
+	148.1.1 = {
+		birth = 148.1.1
+	}
+	211.1.1 = {
+		death = 211.1.1
+	}
+	dynasty = 13
+	father = 250
+}
+
+252 = {
+	name = marie-anne
+	culture = english
+	religion = cathar
+	female = yes
+	168.1.1 = {
+		birth = 168.1.1
+	}
+	251.1.1 = {
+		death = 251.1.1
+	}
+	dynasty = 13
+	father = 251
+}
+
+253 = {
+	name = elia
+	culture = english
+	religion = cathar
+	female = yes
+	170.1.1 = {
+		birth = 170.1.1
+	}
+	232.1.1 = {
+		death = 232.1.1
+	}
+	dynasty = 13
+	father = 251
+}
+
+254 = {
+	name = nikolaus
+	culture = english
+	religion = cathar
+	85.1.1 = {
+		birth = 85.1.1
+	}
+	143.1.1 = {
+		death = 143.1.1
+	}
+	dynasty = 13
+	father = 247
+}
+
+255 = {
+	name = nikolaus
+	culture = english
+	religion = cathar
+	124.1.1 = {
+		birth = 124.1.1
+	}
+	185.1.1 = {
+		death = 185.1.1
+	}
+	dynasty = 13
+	father = 254
+}
+
+256 = {
+	name = anais
+	culture = english
+	religion = cathar
+	female = yes
+	215.1.1 = {
+		birth = 215.1.1
+	}
+	260.1.1 = {
+		death = 260.1.1
+	}
+	dynasty = 44
+}
+
+257 = {
+	name = katriane
+	culture = english
+	religion = cathar
+	female = yes
+	245.1.1 = {
+		birth = 245.1.1
+	}
+	304.1.1 = {
+		death = 304.1.1
+	}
+	dynasty = 44
+	mother = 256
+}
+
+258 = {
+	name = emmeline
+	culture = english
+	religion = cathar
+	female = yes
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	379.1.1 = {
+		death = 379.1.1
+	}
+	dynasty = 44
+	mother = 257
+}
+
+259 = {
+	name = louis
+	culture = english
+	religion = cathar
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 44
+	mother = 257
+}
+
+260 = {
+	name = marceau
+	culture = english
+	religion = cathar
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 44
+	father = 259
+}
+
+261 = {
+	name = ottilie
+	culture = english
+	religion = cathar
+	female = yes
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 44
+	mother = 257
+}
+
+262 = {
+	name = adeline
+	culture = english
+	religion = cathar
+	female = yes
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	384.1.1 = {
+		death = 384.1.1
+	}
+	dynasty = 44
+	father = 259
+}
+
+263 = {
+	name = renee
+	culture = english
+	religion = cathar
+	female = yes
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	304.1.1 = {
+		death = 304.1.1
+	}
+	dynasty = 44
+	father = 259
+}
+
+264 = {
+	name = nicolette
+	culture = english
+	religion = cathar
+	female = yes
+	301.1.1 = {
+		birth = 301.1.1
+	}
+	401.1.1 = {
+		death = 401.1.1
+	}
+	dynasty = 44
+	father = 265
+}
+
+265 = {
+	name = guiscard
+	culture = english
+	religion = cathar
+	275.1.1 = {
+		birth = 275.1.1
+	}
+	375.1.1 = {
+		death = 375.1.1
+	}
+	dynasty = 44
+	mother = 257
+}
+
+266 = {
+	name = brawen
+	culture = english
+	religion = cathar
+	female = yes
+	11.1.1 = {
+		birth = 11.1.1
+	}
+	52.1.1 = {
+		death = 52.1.1
+	}
+	dynasty = 45
+}
+
+267 = {
+	name = maeve
+	culture = english
+	religion = cathar
+	female = yes
+	27.1.1 = {
+		birth = 27.1.1
+	}
+	99.1.1 = {
+		death = 99.1.1
+	}
+	dynasty = 45
+	mother = 266
+}
+
+268 = {
+	name = nessaria
+	culture = english
+	religion = cathar
+	female = yes
+	54.1.1 = {
+		birth = 54.1.1
+	}
+	158.1.1 = {
+		death = 158.1.1
+	}
+	dynasty = 45
+	mother = 267
+}
+
+269 = {
+	name = theomar
+	culture = english
+	religion = cathar
+	1.1.1 = {
+		birth = 1.1.1
+	}
+	67.1.1 = {
+		death = 67.1.1
+	}
+	dynasty = 23
+}
+
+270 = {
+	name = lilienmar
+	culture = english
+	religion = cathar
+	17.1.1 = {
+		birth = 17.1.1
+	}
+	74.1.1 = {
+		death = 74.1.1
+	}
+	dynasty = 23
+	father = 269
+}
+
+271 = {
+	name = lilienmar
+	culture = english
+	religion = cathar
+	38.1.1 = {
+		birth = 38.1.1
+	}
+	112.1.1 = {
+		death = 112.1.1
+	}
+	dynasty = 23
+	father = 270
+}
+
+272 = {
+	name = rihonlar
+	culture = english
+	religion = cathar
+	42.1.1 = {
+		birth = 42.1.1
+	}
+	108.1.1 = {
+		death = 108.1.1
+	}
+	dynasty = 23
+	father = 270
+}
+
+273 = {
+	name = henri
+	culture = english
+	religion = cathar
+	58.1.1 = {
+		birth = 58.1.1
+	}
+	123.1.1 = {
+		death = 123.1.1
+	}
+	dynasty = 23
+	father = 271
+}
+
+274 = {
+	name = leomar
+	culture = english
+	religion = cathar
+	74.1.1 = {
+		birth = 74.1.1
+	}
+	164.1.1 = {
+		death = 164.1.1
+	}
+	dynasty = 23
+	mother = 268
+	father = 273
+}
+
+275 = {
+	name = maxelle
+	culture = english
+	religion = cathar
+	77.1.1 = {
+		birth = 77.1.1
+	}
+	178.1.1 = {
+		death = 178.1.1
+	}
+	dynasty = 23
+	mother = 268
+	father = 273
+}
+
+276 = {
+	name = carvallais
+	culture = english
+	religion = cathar
+	79.1.1 = {
+		birth = 79.1.1
+	}
+	184.1.1 = {
+		death = 184.1.1
+	}
+	dynasty = 23
+	mother = 268
+	father = 273
+}
+
+277 = {
+	name = bartolomeux
+	culture = english
+	religion = cathar
+	81.1.1 = {
+		birth = 81.1.1
+	}
+	186.1.1 = {
+		death = 186.1.1
+	}
+	dynasty = 23
+	mother = 268
+	father = 273
+}
+
+278 = {
+	name = henri
+	culture = english
+	religion = cathar
+	93.1.1 = {
+		birth = 93.1.1
+	}
+	174.1.1 = {
+		death = 174.1.1
+	}
+	dynasty = 23
+	father = 274
+}
+
+279 = {
+	name = justeux
+	culture = english
+	religion = cathar
+	96.1.1 = {
+		birth = 96.1.1
+	}
+	135.1.1 = {
+		death = 135.1.1
+	}
+	dynasty = 23
+	father = 274
+}
+
+280 = {
+	name = heinrich iii
+	culture = english
+	religion = cathar
+	111.1.1 = {
+		birth = 111.1.1
+	}
+	166.1.1 = {
+		death = 166.1.1
+	}
+	dynasty = 23
+	father = 278
+}
+
+281 = {
+	name = allamar
+	culture = english
+	religion = cathar
+	130.1.1 = {
+		birth = 130.1.1
+	}
+	195.1.1 = {
+		death = 195.1.1
+	}
+	dynasty = 23
+	father = 280
+}
+
+282 = {
+	name = handorien
+	culture = english
+	religion = cathar
+	152.1.1 = {
+		birth = 152.1.1
+	}
+	224.1.1 = {
+		death = 224.1.1
+	}
+	dynasty = 23
+	father = 281
+}
+
+283 = {
+	name = lilienmar iii
+	culture = english
+	religion = cathar
+	135.1.1 = {
+		birth = 135.1.1
+	}
+	194.1.1 = {
+		death = 194.1.1
+	}
+	dynasty = 23
+	father = 280
+}
+
+284 = {
+	name = yvonne
+	culture = english
+	religion = cathar
+	female = yes
+	131.1.1 = {
+		birth = 131.1.1
+	}
+	210.1.1 = {
+		death = 210.1.1
+	}
+	dynasty = 23
+	father = 280
+}
+
+285 = {
+	name = nouin
+	culture = english
+	religion = cathar
+	167.1.1 = {
+		birth = 167.1.1
+	}
+	236.1.1 = {
+		death = 236.1.1
+	}
+	dynasty = 23
+}
+
+286 = {
+	name = pepin
+	culture = english
+	religion = cathar
+	185.1.1 = {
+		birth = 185.1.1
+	}
+	244.1.1 = {
+		death = 244.1.1
+	}
+	dynasty = 23
+	father = 285
+}
+
+287 = {
+	name = handorien iii
+	culture = english
+	religion = cathar
+	131.1.1 = {
+		birth = 131.1.1
+	}
+	227.1.1 = {
+		death = 227.1.1
+	}
+	dynasty = 23
+}
+
+288 = {
+	name = handorien iv
+	culture = english
+	religion = cathar
+	148.1.1 = {
+		birth = 148.1.1
+	}
+	240.1.1 = {
+		death = 240.1.1
+	}
+	dynasty = 23
+	father = 287
+}
+
+289 = {
+	name = allestrain iii
+	culture = english
+	religion = cathar
+	168.1.1 = {
+		birth = 168.1.1
+	}
+	255.1.1 = {
+		death = 255.1.1
+	}
+	dynasty = 23
+	father = 288
+}
+
+290 = {
+	name = vilgermar
+	culture = english
+	religion = cathar
+	192.1.1 = {
+		birth = 192.1.1
+	}
+	269.1.1 = {
+		death = 269.1.1
+	}
+	dynasty = 23
+	father = 289
+}
+
+291 = {
+	name = ottomar
+	culture = english
+	religion = cathar
+	211.1.1 = {
+		birth = 211.1.1
+	}
+	231.1.1 = {
+		death = 231.1.1
+	}
+	dynasty = 23
+	father = 286
+}
+
+292 = {
+	name = balthezar
+	culture = english
+	religion = cathar
+	205.1.1 = {
+		birth = 205.1.1
+	}
+	235.1.1 = {
+		death = 235.1.1
+	}
+	dynasty = 23
+	father = 286
+}
+
+293 = {
+	name = handorien v
+	culture = english
+	religion = cathar
+	222.1.1 = {
+		birth = 222.1.1
+	}
+	244.1.1 = {
+		death = 244.1.1
+	}
+	dynasty = 23
+	father = 292
+}
+
+294 = {
+	name = emerite
+	culture = english
+	religion = cathar
+	184.1.1 = {
+		birth = 184.1.1
+	}
+	220.1.1 = {
+		death = 220.1.1
+	}
+	dynasty = 23
+	father = 285
+}
+
+295 = {
+	name = rollo
+	culture = english
+	religion = cathar
+	200.1.1 = {
+		birth = 200.1.1
+	}
+	231.1.1 = {
+		death = 231.1.1
+	}
+	dynasty = 23
+	father = 294
+}
+
+296 = {
+	name = allestrain
+	culture = english
+	religion = cathar
+	226.1.1 = {
+		birth = 226.1.1
+	}
+	249.1.1 = {
+		death = 249.1.1
+	}
+	dynasty = 23
+	father = 295
+}
+
+297 = {
+	name = lisette-ponne
+	culture = english
+	religion = cathar
+	female = yes
+	243.1.1 = {
+		birth = 243.1.1
+	}
+	285.1.1 = {
+		death = 285.1.1
+	}
+	dynasty = 23
+	father = 296
+}
+
+298 = {
+	name = handorien
+	culture = english
+	religion = cathar
+	146.1.1 = {
+		birth = 146.1.1
+	}
+	208.1.1 = {
+		death = 208.1.1
+	}
+	dynasty = 23
+	father = 281
+}
+
+299 = {
+	name = allestrain
+	culture = english
+	religion = cathar
+	166.1.1 = {
+		birth = 166.1.1
+	}
+	211.1.1 = {
+		death = 211.1.1
+	}
+	dynasty = 23
+	father = 298
+}
+
+300 = {
+	name = filipe
+	culture = english
+	religion = cathar
+	146.1.1 = {
+		birth = 146.1.1
+	}
+	220.1.1 = {
+		death = 220.1.1
+	}
+	dynasty = 23
+}
+
+301 = {
+	name = handorien
+	culture = english
+	religion = cathar
+	175.1.1 = {
+		birth = 175.1.1
+	}
+	248.1.1 = {
+		death = 248.1.1
+	}
+	dynasty = 23
+	father = 300
+}
+
+302 = {
+	name = justinian
+	culture = english
+	religion = cathar
+	200.1.1 = {
+		birth = 200.1.1
+	}
+	224.1.1 = {
+		death = 224.1.1
+	}
+	dynasty = 23
+	father = 301
+}
+
+303 = {
+	name = justinian
+	culture = english
+	religion = cathar
+	210.1.1 = {
+		birth = 210.1.1
+	}
+	302.1.1 = {
+		death = 302.1.1
+	}
+	dynasty = 23
+	father = 290
+}
+
+304 = {
+	name = auguste
+	culture = english
+	religion = cathar
+	245.1.1 = {
+		birth = 245.1.1
+	}
+	270.1.1 = {
+		death = 270.1.1
+	}
+	dynasty = 23
+	father = 303
+}
+
+305 = {
+	name = juvinois
+	culture = english
+	religion = cathar
+	247.1.1 = {
+		birth = 247.1.1
+	}
+	270.1.1 = {
+		death = 270.1.1
+	}
+	dynasty = 23
+	father = 303
+}
+
+306 = {
+	name = therinois
+	culture = english
+	religion = cathar
+	251.1.1 = {
+		birth = 251.1.1
+	}
+	270.1.1 = {
+		death = 270.1.1
+	}
+	dynasty = 23
+	father = 303
+}
+
+307 = {
+	name = laraiselle-clarisse
+	culture = english
+	religion = cathar
+	female = yes
+	215.1.1 = {
+		birth = 215.1.1
+	}
+	290.1.1 = {
+		death = 290.1.1
+	}
+	dynasty = 46
+}
+
+308 = {
+	name = charlerois
+	culture = english
+	religion = cathar
+	212.1.1 = {
+		birth = 212.1.1
+	}
+	283.1.1 = {
+		death = 283.1.1
+	}
+	dynasty = 23
+	father = 290
+}
+
+309 = {
+	name = callaire
+	culture = english
+	religion = cathar
+	female = yes
+	213.1.1 = {
+		birth = 213.1.1
+	}
+	289.1.1 = {
+		death = 289.1.1
+	}
+	dynasty = 47
+	father = 513
+}
+
+310 = {
+	name = harlon
+	culture = english
+	religion = cathar
+	231.1.1 = {
+		birth = 231.1.1
+	}
+	302.1.1 = {
+		death = 302.1.1
+	}
+	dynasty = 48
+}
+
+311 = {
+	name = adelheid ivrae de sange
+	culture = english
+	religion = cathar
+	female = yes
+	230.1.1 = {
+		birth = 230.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 23
+	mother = 309
+	father = 308
+}
+
+312 = {
+	name = attenaise
+	culture = english
+	religion = cathar
+	female = yes
+	250.1.1 = {
+		birth = 250.1.1
+	}
+	350.1.1 = {
+		death = 350.1.1
+	}
+	dynasty = 23
+	mother = 311
+	father = 310
+}
+
+313 = {
+	name = frederique
+	culture = english
+	religion = cathar
+	female = yes
+	256.1.1 = {
+		birth = 256.1.1
+	}
+	356.1.1 = {
+		death = 356.1.1
+	}
+	dynasty = 23
+	mother = 311
+	father = 310
+}
+
+314 = {
+	name = antoine
+	culture = english
+	religion = cathar
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	358.1.1 = {
+		death = 358.1.1
+	}
+	dynasty = 23
+	mother = 311
+	father = 310
+}
+
+315 = {
+	name = soledad
 	culture = english
 	religion = cathar
 	female = yes
 	273.1.1 = {
 		birth = 273.1.1
 	}
-	380.3.1 = {
-		death = 380.3.1
+	373.1.1 = {
+		death = 373.1.1
+	}
+	dynasty = 49
+	mother = 582
+	father = 581
+}
+
+316 = {
+	name = valerie
+	culture = english
+	religion = cathar
+	female = yes
+	276.1.1 = {
+		birth = 276.1.1
+	}
+	376.1.1 = {
+		death = 376.1.1
+	}
+	dynasty = 3
+	mother = 13
+	father = 14
+}
+
+317 = {
+	name = travis
+	culture = english
+	religion = cathar
+	230.1.1 = {
+		birth = 230.1.1
+	}
+	300.1.1 = {
+		death = 300.1.1
+	}
+	dynasty = 40
+	father = 318
+}
+
+318 = {
+	name = alistair
+	culture = english
+	religion = cathar
+	186.1.1 = {
+		birth = 186.1.1
+	}
+	266.1.1 = {
+		death = 266.1.1
+	}
+	dynasty = 40
+}
+
+319 = {
+	name = gwendolyn
+	culture = english
+	religion = cathar
+	female = yes
+	291.1.1 = {
+		birth = 291.1.1
+	}
+	391.1.1 = {
+		death = 391.1.1
+	}
+	dynasty = 40
+	mother = 205
+	father = 206
+}
+
+320 = {
+	name = arthur
+	culture = english
+	religion = cathar
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 40
+	mother = 205
+	father = 206
+}
+
+321 = {
+	name = william
+	culture = english
+	religion = cathar
+	296.1.1 = {
+		birth = 296.1.1
+	}
+	396.1.1 = {
+		death = 396.1.1
+	}
+	dynasty = 40
+	mother = 205
+	father = 206
+}
+
+322 = {
+	name = angelina
+	culture = english
+	religion = cathar
+	female = yes
+	297.1.1 = {
+		birth = 297.1.1
+	}
+	397.1.1 = {
+		death = 397.1.1
+	}
+	dynasty = 40
+	mother = 205
+	father = 206
+}
+
+323 = {
+	name = rioen
+	culture = english
+	religion = cathar
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
 	}
 	dynasty = 1
+	mother = 118
+	father = 119
+}
+
+324 = {
+	name = lucia
+	culture = english
+	religion = cathar
+	female = yes
+	226.1.1 = {
+		birth = 226.1.1
+	}
+	296.1.1 = {
+		death = 296.1.1
+	}
+	dynasty = 50
+}
+
+325 = {
+	name = francine emilie
+	culture = english
+	religion = cathar
+	female = yes
+	215.1.1 = {
+		birth = 215.1.1
+	}
+	305.1.1 = {
+		death = 305.1.1
+	}
+	dynasty = 39
+}
+
+326 = {
+	name = geoffroy lambert
+	culture = english
+	religion = cathar
+	215.1.1 = {
+		birth = 215.1.1
+	}
+	302.1.1 = {
+		death = 302.1.1
+	}
+	dynasty = 47
+	father = 513
+}
+
+327 = {
+	name = mariliene roselle
+	culture = english
+	religion = cathar
+	female = yes
+	235.1.1 = {
+		birth = 235.1.1
+	}
+	297.1.1 = {
+		death = 297.1.1
+	}
+	dynasty = 39
+	mother = 325
+}
+
+328 = {
+	name = madeleine fabienne
+	culture = english
+	religion = cathar
+	female = yes
+	252.1.1 = {
+		birth = 252.1.1
+	}
+	352.1.1 = {
+		death = 352.1.1
+	}
+	dynasty = 39
+	mother = 327
+	father = 326
+}
+
+329 = {
+	name = michael
+	culture = english
+	religion = cathar
+	244.1.1 = {
+		birth = 244.1.1
+	}
+	344.1.1 = {
+		death = 344.1.1
+	}
+	dynasty = 22
+}
+
+330 = {
+	name = daniel
+	culture = english
+	religion = cathar
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
+	dynasty = 51
+}
+
+331 = {
+	name = nicolette laurine
+	culture = english
+	religion = cathar
+	female = yes
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 39
+	mother = 328
+}
+
+332 = {
+	name = bastian
+	culture = english
+	religion = cathar
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 39
+	mother = 328
+	father = 330
+}
+
+333 = {
+	name = mathieu
+	culture = english
+	religion = cathar
+	294.1.1 = {
+		birth = 294.1.1
+	}
+	394.1.1 = {
+		death = 394.1.1
+	}
+	dynasty = 39
+	mother = 328
+	father = 330
+}
+
+334 = {
+	name = vivienne
+	culture = english
+	religion = cathar
+	female = yes
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 39
+	mother = 328
+	father = 330
+}
+
+335 = {
+	name = wilifred jourdain
+	culture = english
+	religion = cathar
+	272.1.1 = {
+		birth = 272.1.1
+	}
+	372.1.1 = {
+		death = 372.1.1
+	}
+	dynasty = 39
+	mother = 327
+	father = 326
+}
+
+336 = {
+	name = nicolas francois
+	culture = english
+	religion = cathar
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	308.1.1 = {
+		death = 308.1.1
+	}
+	dynasty = 52
+	mother = 327
+	father = 326
+}
+
+337 = {
+	name = trevor
+	culture = english
+	religion = cathar
+	276.1.1 = {
+		birth = 276.1.1
+	}
+	376.1.1 = {
+		death = 376.1.1
+	}
+	dynasty = 39
+	mother = 327
+}
+
+338 = {
+	name = eloise valerie
+	culture = english
+	religion = cathar
+	female = yes
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 38
+}
+
+339 = {
+	name = lola aimee
+	culture = english
+	religion = cathar
+	female = yes
+	275.1.1 = {
+		birth = 275.1.1
+	}
+	375.1.1 = {
+		death = 375.1.1
+	}
+	dynasty = 39
+	mother = 327
+	father = 326
+}
+
+340 = {
+	name = baptiste florence
+	culture = english
+	religion = cathar
+	248.1.1 = {
+		birth = 248.1.1
+	}
+	348.1.1 = {
+		death = 348.1.1
+	}
+	dynasty = 39
+	mother = 325
+}
+
+341 = {
+	name = valeriane
+	culture = english
+	religion = cathar
+	female = yes
+	261.1.1 = {
+		birth = 261.1.1
+	}
+	361.1.1 = {
+		death = 361.1.1
+	}
+	dynasty = 53
+}
+
+342 = {
+	name = lucas menetries
+	culture = english
+	religion = cathar
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 39
+	mother = 341
+	father = 340
+}
+
+343 = {
+	name = jaqueline georgette
+	culture = english
+	religion = cathar
+	female = yes
+	291.1.1 = {
+		birth = 291.1.1
+	}
+	391.1.1 = {
+		death = 391.1.1
+	}
+	dynasty = 39
+	mother = 341
+	father = 340
+}
+
+344 = {
+	name = gabriel godefroy
+	culture = english
+	religion = cathar
+	296.1.1 = {
+		birth = 296.1.1
+	}
+	396.1.1 = {
+		death = 396.1.1
+	}
+	dynasty = 39
+	mother = 341
+	father = 340
+}
+
+345 = {
+	name = kaya
+	culture = english
+	religion = cathar
+	female = yes
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 54
+}
+
+346 = {
+	name = viggo
+	culture = english
+	religion = cathar
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	384.1.1 = {
+		death = 384.1.1
+	}
+	dynasty = 55
+	father = 348
+}
+
+347 = {
+	name = sivrid
+	culture = english
+	religion = cathar
+	female = yes
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 55
+	father = 348
+}
+
+348 = {
+	name = sigurd
+	culture = english
+	religion = cathar
+	241.1.1 = {
+		birth = 241.1.1
+	}
+	298.1.1 = {
+		death = 298.1.1
+	}
+	dynasty = 55
+}
+
+349 = {
+	name = tristan
+	culture = english
+	religion = cathar
+	272.1.1 = {
+		birth = 272.1.1
+	}
+	372.1.1 = {
+		death = 372.1.1
+	}
+	dynasty = 37
+	mother = 350
+	father = 351
+}
+
+350 = {
+	name = audrei
+	culture = english
+	religion = cathar
+	female = yes
+	250.1.1 = {
+		birth = 250.1.1
+	}
+	294.1.1 = {
+		death = 294.1.1
+	}
+	dynasty = 56
+}
+
+351 = {
+	name = thadeo
+	culture = english
+	religion = cathar
+	247.1.1 = {
+		birth = 247.1.1
+	}
+	294.1.1 = {
+		death = 294.1.1
+	}
+	dynasty = 37
+	father = 468
+}
+
+352 = {
+	name = riccaro
+	culture = english
+	religion = cathar
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 37
+	father = 349
+}
+
+353 = {
+	name = orazzio
+	culture = english
+	religion = cathar
+	120.1.1 = {
+		birth = 120.1.1
+	}
+	199.1.1 = {
+		death = 199.1.1
+	}
+	dynasty = 57
+}
+
+354 = {
+	name = allegra
+	culture = english
+	religion = cathar
+	female = yes
+	132.1.1 = {
+		birth = 132.1.1
+	}
+	209.1.1 = {
+		death = 209.1.1
+	}
+	dynasty = 58
+	father = 735
+}
+
+355 = {
+	name = francesco
+	culture = english
+	religion = cathar
+	170.1.1 = {
+		birth = 170.1.1
+	}
+	242.1.1 = {
+		death = 242.1.1
+	}
+	dynasty = 59
+	mother = 354
+	father = 353
+}
+
+356 = {
+	name = giulia
+	culture = english
+	religion = cathar
+	female = yes
+	174.1.1 = {
+		birth = 174.1.1
+	}
+	245.1.1 = {
+		death = 245.1.1
+	}
+	dynasty = 60
+}
+
+357 = {
+	name = leone
+	culture = english
+	religion = cathar
+	205.1.1 = {
+		birth = 205.1.1
+	}
+	272.1.1 = {
+		death = 272.1.1
+	}
+	dynasty = 59
+	mother = 356
+	father = 355
+}
+
+358 = {
+	name = beatrice
+	culture = english
+	religion = cathar
+	female = yes
+	209.1.1 = {
+		birth = 209.1.1
+	}
+	276.1.1 = {
+		death = 276.1.1
+	}
+	dynasty = 61
+}
+
+359 = {
+	name = ruggiero
+	culture = english
+	religion = cathar
+	226.1.1 = {
+		birth = 226.1.1
+	}
+	298.1.1 = {
+		death = 298.1.1
+	}
+	dynasty = 59
+	mother = 358
+	father = 357
+}
+
+360 = {
+	name = georgiana
+	culture = english
+	religion = cathar
+	female = yes
+	228.1.1 = {
+		birth = 228.1.1
+	}
+	301.1.1 = {
+		death = 301.1.1
+	}
+	dynasty = 62
+	mother = 388
+	father = 387
+}
+
+361 = {
+	name = bernardo
+	culture = english
+	religion = cathar
+	246.1.1 = {
+		birth = 246.1.1
+	}
+	299.1.1 = {
+		death = 299.1.1
+	}
+	dynasty = 59
+	mother = 360
+	father = 359
+}
+
+362 = {
+	name = piero
+	culture = english
+	religion = cathar
+	248.1.1 = {
+		birth = 248.1.1
+	}
+	348.1.1 = {
+		death = 348.1.1
+	}
+	dynasty = 59
+	mother = 360
+	father = 359
+}
+
+363 = {
+	name = bernardo gabriel
+	culture = english
+	religion = cathar
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	300.1.1 = {
+		death = 300.1.1
+	}
+	dynasty = 62
+	mother = 383
+	father = 382
+}
+
+364 = {
+	name = vincenza
+	culture = english
+	religion = cathar
+	female = yes
+	256.1.1 = {
+		birth = 256.1.1
+	}
+	356.1.1 = {
+		death = 356.1.1
+	}
+	dynasty = 59
+	mother = 360
+	father = 359
+}
+
+365 = {
+	name = simona
+	culture = english
+	religion = cathar
+	female = yes
+	248.1.1 = {
+		birth = 248.1.1
+	}
+	348.1.1 = {
+		death = 348.1.1
+	}
+	dynasty = 63
+	mother = 324
+	father = 389
+}
+
+366 = {
+	name = luigi
+	culture = english
+	religion = cathar
+	276.1.1 = {
+		birth = 276.1.1
+	}
+	376.1.1 = {
+		death = 376.1.1
+	}
+	dynasty = 59
+	mother = 365
+	father = 362
+}
+
+367 = {
+	name = terenzo
+	culture = english
+	religion = cathar
+	282.1.1 = {
+		birth = 282.1.1
+	}
+	382.1.1 = {
+		death = 382.1.1
+	}
+	dynasty = 59
+	mother = 365
+	father = 362
+}
+
+368 = {
+	name = ana
+	culture = english
+	religion = cathar
+	female = yes
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 59
+	mother = 365
+	father = 362
+}
+
+369 = {
+	name = isabella
+	culture = english
+	religion = cathar
+	female = yes
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 59
+	mother = 365
+	father = 362
+}
+
+370 = {
+	name = angelo
+	culture = english
+	religion = cathar
+	254.1.1 = {
+		birth = 254.1.1
+	}
+	354.1.1 = {
+		death = 354.1.1
+	}
+	dynasty = 64
+}
+
+371 = {
+	name = fiorino
+	culture = english
+	religion = cathar
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	379.1.1 = {
+		death = 379.1.1
+	}
+	dynasty = 59
+	mother = 364
+	father = 370
+}
+
+372 = {
+	name = pellegrino
+	culture = english
+	religion = cathar
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	360.1.1 = {
+		death = 360.1.1
+	}
+	dynasty = 59
+	father = 386
+}
+
+373 = {
+	name = isotta
+	culture = english
+	religion = cathar
+	female = yes
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 59
+	mother = 364
+	father = 370
+}
+
+374 = {
+	name = stella
+	culture = english
+	religion = cathar
+	female = yes
+	264.1.1 = {
+		birth = 264.1.1
+	}
+	364.1.1 = {
+		death = 364.1.1
+	}
+	dynasty = 58
+	father = 693
+}
+
+375 = {
+	name = silvestro
+	culture = english
+	religion = cathar
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 63
+	mother = 324
+	father = 389
+}
+
+376 = {
+	name = edoardo
+	culture = english
+	religion = cathar
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 63
+	mother = 374
+	father = 375
+}
+
+377 = {
+	name = alessandro
+	culture = english
+	religion = cathar
+	294.1.1 = {
+		birth = 294.1.1
+	}
+	394.1.1 = {
+		death = 394.1.1
+	}
+	dynasty = 63
+	mother = 374
+	father = 375
+}
+
+378 = {
+	name = capriana
+	culture = english
+	religion = cathar
+	female = yes
+	299.1.1 = {
+		birth = 299.1.1
+	}
+	399.1.1 = {
+		death = 399.1.1
+	}
+	dynasty = 63
+	mother = 374
+	father = 375
+}
+
+379 = {
+	name = alessa
+	culture = english
+	religion = cathar
+	female = yes
+	248.1.1 = {
+		birth = 248.1.1
+	}
+	303.1.1 = {
+		death = 303.1.1
+	}
+	dynasty = 65
+}
+
+380 = {
+	name = francesco rauol
+	culture = english
+	religion = cathar
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	301.1.1 = {
+		death = 301.1.1
+	}
+	dynasty = 59
+	mother = 379
+	father = 361
+}
+
+382 = {
+	name = lorenzo
+	culture = english
+	religion = cathar
+	232.1.1 = {
+		birth = 232.1.1
+	}
+	297.1.1 = {
+		death = 297.1.1
+	}
+	dynasty = 62
+	mother = 388
+	father = 387
+}
+
+383 = {
+	name = caterina
+	culture = english
+	religion = cathar
+	female = yes
+	236.1.1 = {
+		birth = 236.1.1
+	}
+	302.1.1 = {
+		death = 302.1.1
+	}
+	dynasty = 66
+}
+
+384 = {
+	name = camilla
+	culture = english
+	religion = cathar
+	female = yes
+	281.1.1 = {
+		birth = 281.1.1
+	}
+	381.1.1 = {
+		death = 381.1.1
+	}
+	dynasty = 59
+	father = 372
+}
+
+384 = {
+	name = jovanka
+	culture = english
+	religion = cathar
+	female = yes
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 59
+	father = 372
+}
+
+385 = {
+	name = siena
+	culture = english
+	religion = cathar
+	female = yes
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 59
+	father = 366
+}
+
+386 = {
+	name = zappacosta
+	culture = english
+	religion = cathar
+	236.1.1 = {
+		birth = 236.1.1
+	}
+	314.1.1 = {
+		death = 314.1.1
+	}
+	dynasty = 59
+	father = 357
+}
+
+387 = {
+	name = gabriel
+	culture = english
+	religion = cathar
+	205.1.1 = {
+		birth = 205.1.1
+	}
+	270.1.1 = {
+		death = 270.1.1
+	}
+	dynasty = 62
+}
+
+388 = {
+	name = isabella
+	culture = english
+	religion = cathar
+	female = yes
+	208.1.1 = {
+		birth = 208.1.1
+	}
+	274.1.1 = {
+		death = 274.1.1
+	}
+	dynasty = 67
+}
+
+389 = {
+	name = giovanni
+	culture = english
+	religion = cathar
+	230.1.1 = {
+		birth = 230.1.1
+	}
+	290.1.1 = {
+		death = 290.1.1
+	}
+	dynasty = 63
+}
+
+390 = {
+	name = eadric
+	culture = english
+	religion = cathar
+	190.1.1 = {
+		birth = 190.1.1
+	}
+	265.1.1 = {
+		death = 265.1.1
+	}
+	dynasty = 68
+}
+
+391 = {
+	name = hildwyn
+	culture = english
+	religion = cathar
+	female = yes
+	210.1.1 = {
+		birth = 210.1.1
+	}
+	278.1.1 = {
+		death = 278.1.1
+	}
+	dynasty = 69
+}
+
+392 = {
+	name = elric
+	culture = english
+	religion = cathar
+	234.1.1 = {
+		birth = 234.1.1
+	}
+	298.1.1 = {
+		death = 298.1.1
+	}
+	dynasty = 68
+	mother = 391
+	father = 390
+}
+
+393 = {
+	name = roswitha
+	culture = english
+	religion = cathar
+	female = yes
+	242.1.1 = {
+		birth = 242.1.1
+	}
+	342.1.1 = {
+		death = 342.1.1
+	}
+	dynasty = 70
+}
+
+394 = {
+	name = acwald
+	culture = english
+	religion = cathar
+	246.1.1 = {
+		birth = 246.1.1
+	}
+	346.1.1 = {
+		death = 346.1.1
+	}
+	dynasty = 68
+	mother = 391
+	father = 390
+}
+
+395 = {
+	name = mathilda
+	culture = english
+	religion = cathar
+	female = yes
+	240.1.1 = {
+		birth = 240.1.1
+	}
+	340.1.1 = {
+		death = 340.1.1
+	}
+	dynasty = 71
+	father = 732
+}
+
+396 = {
+	name = aethelric
+	culture = english
+	religion = cathar
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	294.1.1 = {
+		death = 294.1.1
+	}
+	dynasty = 68
+	mother = 395
+	father = 392
+}
+
+397 = {
+	name = hengest
+	culture = english
+	religion = cathar
+	263.1.1 = {
+		birth = 263.1.1
+	}
+	363.1.1 = {
+		death = 363.1.1
+	}
+	dynasty = 68
+	mother = 395
+	father = 392
+}
+
+398 = {
+	name = egbert
+	culture = english
+	religion = cathar
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 68
+	mother = 395
+	father = 392
+}
+
+399 = {
+	name = inga
+	culture = english
+	religion = cathar
+	female = yes
+	267.1.1 = {
+		birth = 267.1.1
+	}
+	367.1.1 = {
+		death = 367.1.1
+	}
+	dynasty = 68
+	mother = 395
+	father = 392
+}
+
+400 = {
+	name = matthjis
+	culture = english
+	religion = cathar
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
+	dynasty = 68
+	mother = 395
+	father = 392
+}
+
+401 = {
+	name = wulfric
+	culture = english
+	religion = cathar
+	269.1.1 = {
+		birth = 269.1.1
+	}
+	369.1.1 = {
+		death = 369.1.1
+	}
+	dynasty = 68
+	mother = 395
+	father = 392
+}
+
+402 = {
+	name = godwyna
+	culture = english
+	religion = cathar
+	female = yes
+	272.1.1 = {
+		birth = 272.1.1
+	}
+	372.1.1 = {
+		death = 372.1.1
+	}
+	dynasty = 68
+	mother = 395
+	father = 392
+}
+
+403 = {
+	name = wynstan
+	culture = english
+	religion = cathar
+	272.1.1 = {
+		birth = 272.1.1
+	}
+	372.1.1 = {
+		death = 372.1.1
+	}
+	dynasty = 68
+	mother = 393
+	father = 394
+}
+
+404 = {
+	name = cwynthryth
+	culture = english
+	religion = cathar
+	female = yes
+	311.1.1 = {
+		birth = 311.1.1
+	}
+	411.1.1 = {
+		death = 411.1.1
+	}
+	dynasty = 68
+	mother = 334
+	father = 397
+}
+
+405 = {
+	name = agatha
+	culture = english
+	religion = cathar
+	female = yes
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 68
+	father = 397
+}
+
+406 = {
+	name = eadwald
+	culture = english
+	religion = cathar
+	303.1.1 = {
+		birth = 303.1.1
+	}
+	403.1.1 = {
+		death = 403.1.1
+	}
+	dynasty = 68
+	father = 397
+}
+
+407 = {
+	name = aethelric
+	culture = english
+	religion = cathar
+	306.1.1 = {
+		birth = 306.1.1
+	}
+	406.1.1 = {
+		death = 406.1.1
+	}
+	dynasty = 72
+	father = 397
+}
+
+408 = {
+	name = vicenna
+	culture = english
+	religion = cathar
+	female = yes
+	304.1.1 = {
+		birth = 304.1.1
+	}
+	404.1.1 = {
+		death = 404.1.1
+	}
+	dynasty = 72
+	father = 397
+}
+
+409 = {
+	name = aedilhild
+	culture = english
+	religion = cathar
+	female = yes
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 68
+	mother = 393
+	father = 394
+}
+
+410 = {
+	name = athelric
+	culture = english
+	religion = cathar
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
+	dynasty = 68
+	mother = 393
+	father = 394
+}
+
+411 = {
+	name = sebastienne
+	culture = english
+	religion = cathar
+	female = yes
+	200.1.1 = {
+		birth = 200.1.1
+	}
+	271.1.1 = {
+		death = 271.1.1
+	}
+	dynasty = 38
+}
+
+412 = {
+	name = pierres
+	culture = english
+	religion = cathar
+	199.1.1 = {
+		birth = 199.1.1
+	}
+	268.1.1 = {
+		death = 268.1.1
+	}
+	dynasty = 73
+	mother = 741
+}
+
+413 = {
+	name = aurelie
+	culture = english
+	religion = cathar
+	female = yes
+	197.1.1 = {
+		birth = 197.1.1
+	}
+	262.1.1 = {
+		death = 262.1.1
+	}
+	dynasty = 74
+}
+
+414 = {
+	name = timothee yvon
+	culture = english
+	religion = cathar
+	196.1.1 = {
+		birth = 196.1.1
+	}
+	260.1.1 = {
+		death = 260.1.1
+	}
+	dynasty = 75
+}
+
+415 = {
+	name = apolline
+	culture = english
+	religion = cathar
+	female = yes
+	198.1.1 = {
+		birth = 198.1.1
+	}
+	266.1.1 = {
+		death = 266.1.1
+	}
+	dynasty = 76
+}
+
+416 = {
+	name = mathieu luc
+	culture = english
+	religion = cathar
+	191.1.1 = {
+		birth = 191.1.1
+	}
+	259.1.1 = {
+		death = 259.1.1
+	}
+	dynasty = 77
+}
+
+417 = {
+	name = celine
+	culture = english
+	religion = cathar
+	female = yes
+	204.1.1 = {
+		birth = 204.1.1
+	}
+	284.1.1 = {
+		death = 284.1.1
+	}
+	dynasty = 78
+}
+
+418 = {
+	name = adrien
+	culture = english
+	religion = cathar
+	200.1.1 = {
+		birth = 200.1.1
+	}
+	275.1.1 = {
+		death = 275.1.1
+	}
+	dynasty = 79
+}
+
+419 = {
+	name = blanche
+	culture = english
+	religion = cathar
+	female = yes
+	226.1.1 = {
+		birth = 226.1.1
+	}
+	289.1.1 = {
+		death = 289.1.1
+	}
+	dynasty = 79
+	mother = 417
+	father = 418
+}
+
+420 = {
+	name = estienne
+	culture = english
+	religion = cathar
+	231.1.1 = {
+		birth = 231.1.1
+	}
+	293.1.1 = {
+		death = 293.1.1
+	}
+	dynasty = 80
+}
+
+421 = {
+	name = lenora marie
+	culture = english
+	religion = cathar
+	female = yes
+	222.1.1 = {
+		birth = 222.1.1
+	}
+	292.1.1 = {
+		death = 292.1.1
+	}
+	dynasty = 73
+	mother = 411
+	father = 412
+}
+
+422 = {
+	name = gregoire
+	culture = english
+	religion = cathar
+	215.1.1 = {
+		birth = 215.1.1
+	}
+	280.1.1 = {
+		death = 280.1.1
+	}
+	dynasty = 75
+	mother = 415
+	father = 414
+}
+
+423 = {
+	name = angelique
+	culture = english
+	religion = cathar
+	female = yes
+	225.1.1 = {
+		birth = 225.1.1
+	}
+	296.1.1 = {
+		death = 296.1.1
+	}
+	dynasty = 75
+	mother = 415
+	father = 414
+}
+
+424 = {
+	name = laurent
+	culture = english
+	religion = cathar
+	221.1.1 = {
+		birth = 221.1.1
+	}
+	295.1.1 = {
+		death = 295.1.1
+	}
+	dynasty = 79
+	mother = 417
+	father = 418
+}
+
+425 = {
+	name = domitille
+	culture = english
+	religion = cathar
+	female = yes
+	255.1.1 = {
+		birth = 255.1.1
+	}
+	355.1.1 = {
+		death = 355.1.1
+	}
+	dynasty = 80
+	mother = 419
+	father = 420
+}
+
+426 = {
+	name = leander
+	culture = english
+	religion = cathar
+	253.1.1 = {
+		birth = 253.1.1
+	}
+	300.1.1 = {
+		death = 300.1.1
+	}
+	dynasty = 81
+	mother = 483
+	father = 482
+}
+
+427 = {
+	name = julienne flore
+	culture = english
+	religion = cathar
+	female = yes
+	250.1.1 = {
+		birth = 250.1.1
+	}
+	350.1.1 = {
+		death = 350.1.1
+	}
+	dynasty = 75
+	mother = 421
+	father = 422
+}
+
+428 = {
+	name = hadrien
+	culture = english
+	religion = cathar
+	247.1.1 = {
+		birth = 247.1.1
+	}
+	347.1.1 = {
+		death = 347.1.1
+	}
+	dynasty = 79
+	mother = 423
+	father = 424
+}
+
+429 = {
+	name = adira
+	culture = english
+	religion = cathar
+	female = yes
+	274.1.1 = {
+		birth = 274.1.1
+	}
+	374.1.1 = {
+		death = 374.1.1
+	}
+	dynasty = 51
+}
+
+430 = {
+	name = sebastien edouard
+	culture = english
+	religion = cathar
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 79
+	mother = 427
+	father = 428
+}
+
+431 = {
+	name = stephan
+	culture = english
+	religion = cathar
+	269.1.1 = {
+		birth = 269.1.1
+	}
+	369.1.1 = {
+		death = 369.1.1
+	}
+	dynasty = 79
+	mother = 427
+	father = 428
+}
+
+432 = {
+	name = victoria s.
+	culture = english
+	religion = cathar
+	female = yes
+	272.1.1 = {
+		birth = 272.1.1
+	}
+	372.1.1 = {
+		death = 372.1.1
+	}
+	dynasty = 79
+	mother = 427
+	father = 428
+}
+
+433 = {
+	name = mathieux-dureau
+	culture = english
+	religion = cathar
+	277.1.1 = {
+		birth = 277.1.1
+	}
+	377.1.1 = {
+		death = 377.1.1
+	}
+	dynasty = 79
+	mother = 427
+	father = 428
+}
+
+434 = {
+	name = mercia
+	culture = english
+	religion = cathar
+	female = yes
+	276.1.1 = {
+		birth = 276.1.1
+	}
+	376.1.1 = {
+		death = 376.1.1
+	}
+	dynasty = 47
+	mother = 516
+}
+
+435 = {
+	name = francois
+	culture = english
+	religion = cathar
+	273.1.1 = {
+		birth = 273.1.1
+	}
+	373.1.1 = {
+		death = 373.1.1
+	}
+	dynasty = 79
+	mother = 427
+	father = 428
+}
+
+436 = {
+	name = melodie
+	culture = english
+	religion = cathar
+	female = yes
+	282.1.1 = {
+		birth = 282.1.1
+	}
+	382.1.1 = {
+		death = 382.1.1
+	}
+	dynasty = 82
+}
+
+437 = {
+	name = reita
+	culture = english
+	religion = cathar
+	female = yes
+	275.1.1 = {
+		birth = 275.1.1
+	}
+	375.1.1 = {
+		death = 375.1.1
+	}
+	dynasty = 65
+}
+
+438 = {
+	name = claudine
+	culture = english
+	religion = cathar
+	female = yes
+	296.1.1 = {
+		birth = 296.1.1
+	}
+	396.1.1 = {
+		death = 396.1.1
+	}
+	dynasty = 79
+	mother = 437
+	father = 435
+}
+
+439 = {
+	name = augustin
+	culture = english
+	religion = cathar
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 81
+	mother = 425
+	father = 426
+}
+
+440 = {
+	name = gabriel louie
+	culture = english
+	religion = cathar
+	296.1.1 = {
+		birth = 296.1.1
+	}
+	396.1.1 = {
+		death = 396.1.1
+	}
+	dynasty = 79
+	mother = 429
+	father = 433
+}
+
+441 = {
+	name = gabrielle evelyne
+	culture = english
+	religion = cathar
+	female = yes
+	294.1.1 = {
+		birth = 294.1.1
+	}
+	394.1.1 = {
+		death = 394.1.1
+	}
+	dynasty = 79
+	mother = 429
+	father = 433
+}
+
+442 = {
+	name = gustave stephan
+	culture = english
+	religion = cathar
+	304.1.1 = {
+		birth = 304.1.1
+	}
+	404.1.1 = {
+		death = 404.1.1
+	}
+	dynasty = 79
+	mother = 434
+	father = 433
+}
+
+443 = {
+	name = eloise chloe
+	culture = english
+	religion = cathar
+	female = yes
+	305.1.1 = {
+		birth = 305.1.1
+	}
+	405.1.1 = {
+		death = 405.1.1
+	}
+	dynasty = 79
+	mother = 434
+	father = 433
+}
+
+444 = {
+	name = adolphus
+	culture = english
+	religion = cathar
+	172.1.1 = {
+		birth = 172.1.1
+	}
+	258.1.1 = {
+		death = 258.1.1
+	}
+	dynasty = 83
+}
+
+445 = {
+	name = wilhelmina
+	culture = english
+	religion = cathar
+	female = yes
+	174.1.1 = {
+		birth = 174.1.1
+	}
+	261.1.1 = {
+		death = 261.1.1
+	}
+	dynasty = 36
+	father = 578
+}
+
+446 = {
+	name = leopold
+	culture = english
+	religion = cathar
+	195.1.1 = {
+		birth = 195.1.1
+	}
+	264.1.1 = {
+		death = 264.1.1
+	}
+	dynasty = 83
+	mother = 445
+	father = 444
+}
+
+447 = {
+	name = clara
+	culture = english
+	religion = cathar
+	female = yes
+	197.1.1 = {
+		birth = 197.1.1
+	}
+	242.1.1 = {
+		death = 242.1.1
+	}
+	dynasty = 8
+	father = 518
+}
+
+448 = {
+	name = frederick
+	culture = english
+	religion = cathar
+	218.1.1 = {
+		birth = 218.1.1
+	}
+	291.1.1 = {
+		death = 291.1.1
+	}
+	dynasty = 83
+	mother = 447
+	father = 446
+}
+
+449 = {
+	name = helena
+	culture = english
+	religion = cathar
+	female = yes
+	220.1.1 = {
+		birth = 220.1.1
+	}
+	288.1.1 = {
+		death = 288.1.1
+	}
+	dynasty = 32
+}
+
+450 = {
+	name = aldobert
+	culture = english
+	religion = cathar
+	242.1.1 = {
+		birth = 242.1.1
+	}
+	342.1.1 = {
+		death = 342.1.1
+	}
+	dynasty = 83
+	mother = 449
+	father = 448
+}
+
+451 = {
+	name = adalgisa
+	culture = english
+	religion = cathar
+	female = yes
+	246.1.1 = {
+		birth = 246.1.1
+	}
+	346.1.1 = {
+		death = 346.1.1
+	}
+	dynasty = 26
+}
+
+452 = {
+	name = theobold
+	culture = english
+	religion = cathar
+	245.1.1 = {
+		birth = 245.1.1
+	}
+	345.1.1 = {
+		death = 345.1.1
+	}
+	dynasty = 83
+	mother = 449
+	father = 448
+}
+
+453 = {
+	name = leyna
+	culture = english
+	religion = cathar
+	female = yes
+	247.1.1 = {
+		birth = 247.1.1
+	}
+	347.1.1 = {
+		death = 347.1.1
+	}
+	dynasty = 20
+}
+
+454 = {
+	name = mathilda
+	culture = english
+	religion = cathar
+	female = yes
+	244.1.1 = {
+		birth = 244.1.1
+	}
+	344.1.1 = {
+		death = 344.1.1
+	}
+	dynasty = 41
+}
+
+455 = {
+	name = aldobert
+	culture = english
+	religion = cathar
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 83
+	mother = 451
+	father = 450
+}
+
+456 = {
+	name = ademaro
+	culture = english
+	religion = cathar
+	273.1.1 = {
+		birth = 273.1.1
+	}
+	373.1.1 = {
+		death = 373.1.1
+	}
+	dynasty = 83
+	mother = 451
+	father = 450
+}
+
+457 = {
+	name = fronika
+	culture = english
+	religion = cathar
+	female = yes
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 83
+	mother = 451
+	father = 450
+}
+
+458 = {
+	name = bartisch
+	culture = english
+	religion = cathar
+	263.1.1 = {
+		birth = 263.1.1
+	}
+	363.1.1 = {
+		death = 363.1.1
+	}
+	dynasty = 84
+}
+
+459 = {
+	name = petra
+	culture = english
+	religion = cathar
+	female = yes
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	379.1.1 = {
+		death = 379.1.1
+	}
+	dynasty = 61
+}
+
+460 = {
+	name = howland
+	culture = english
+	religion = cathar
+	276.1.1 = {
+		birth = 276.1.1
+	}
+	376.1.1 = {
+		death = 376.1.1
+	}
+	dynasty = 83
+	mother = 451
+	father = 450
+}
+
+461 = {
+	name = brunhilde
+	culture = english
+	religion = cathar
+	female = yes
+	282.1.1 = {
+		birth = 282.1.1
+	}
+	382.1.1 = {
+		death = 382.1.1
+	}
+	dynasty = 83
+	mother = 451
+	father = 450
+}
+
+462 = {
+	name = rayleine
+	culture = english
+	religion = cathar
+	female = yes
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	384.1.1 = {
+		death = 384.1.1
+	}
+	dynasty = 83
+	mother = 451
+	father = 450
+}
+
+463 = {
+	name = frieda
+	culture = english
+	religion = cathar
+	female = yes
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 83
+	mother = 453
+	father = 452
+}
+
+464 = {
+	name = eldwin
+	culture = english
+	religion = cathar
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 83
+	mother = 453
+	father = 452
+}
+
+465 = {
+	name = ermina
+	culture = english
+	religion = cathar
+	female = yes
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 83
+	mother = 454
+	father = 450
+}
+
+466 = {
+	name = otto
+	culture = english
+	religion = cathar
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 84
+	mother = 457
+	father = 458
+}
+
+467 = {
+	name = greta
+	culture = english
+	religion = cathar
+	female = yes
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 84
+	mother = 457
+	father = 458
+}
+
+468 = {
+	name = gherardo
+	culture = english
+	religion = cathar
+	231.1.1 = {
+		birth = 231.1.1
+	}
+	301.1.1 = {
+		death = 301.1.1
+	}
+	dynasty = 37
+	father = 469
+}
+
+469 = {
+	name = leontio
+	culture = english
+	religion = cathar
+	211.1.1 = {
+		birth = 211.1.1
+	}
+	292.1.1 = {
+		death = 292.1.1
+	}
+	dynasty = 37
+}
+
+470 = {
+	name = leah
+	culture = english
+	religion = cathar
+	female = yes
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 1
+	father = 106
+}
+
+471 = {
+	name = elisabeth
+	culture = english
+	religion = cathar
+	female = yes
+	252.1.1 = {
+		birth = 252.1.1
+	}
+	352.1.1 = {
+		death = 352.1.1
+	}
+	dynasty = 85
+}
+
+472 = {
+	name = diederik
+	culture = english
+	religion = cathar
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 1
+	mother = 470
+	father = 349
+}
+
+473 = {
+	name = erica
+	culture = english
+	religion = cathar
+	female = yes
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 63
+	mother = 324
+	father = 389
+}
+
+474 = {
+	name = frederick
+	culture = english
+	religion = cathar
+	246.1.1 = {
+		birth = 246.1.1
+	}
+	346.1.1 = {
+		death = 346.1.1
+	}
+	dynasty = 83
+	mother = 449
+	father = 448
+}
+
+475 = {
+	name = leopold
+	culture = english
+	religion = cathar
+	249.1.1 = {
+		birth = 249.1.1
+	}
+	349.1.1 = {
+		death = 349.1.1
+	}
+	dynasty = 83
+	mother = 449
+	father = 448
+}
+
+476 = {
+	name = marianne
+	culture = english
+	religion = cathar
+	female = yes
+	296.1.1 = {
+		birth = 296.1.1
+	}
+	396.1.1 = {
+		death = 396.1.1
+	}
+	dynasty = 83
+	mother = 473
+	father = 475
+}
+
+477 = {
+	name = brandt
+	culture = english
+	religion = cathar
+	298.1.1 = {
+		birth = 298.1.1
+	}
+	398.1.1 = {
+		death = 398.1.1
+	}
+	dynasty = 83
+	mother = 473
+	father = 475
+}
+
+478 = {
+	name = gunther
+	culture = english
+	religion = cathar
+	178.1.1 = {
+		birth = 178.1.1
+	}
+	250.1.1 = {
+		death = 250.1.1
+	}
+	dynasty = 36
+	father = 578
+}
+
+479 = {
+	name = josephine
+	culture = english
+	religion = cathar
+	female = yes
+	250.1.1 = {
+		birth = 250.1.1
+	}
+	350.1.1 = {
+		death = 350.1.1
+	}
+	dynasty = 83
+	mother = 449
+	father = 448
+}
+
+480 = {
+	name = wulfric
+	culture = english
+	religion = cathar
+	190.1.1 = {
+		birth = 190.1.1
+	}
+	266.1.1 = {
+		death = 266.1.1
+	}
+	dynasty = 81
+}
+
+481 = {
+	name = helena
+	culture = english
+	religion = cathar
+	female = yes
+	191.1.1 = {
+		birth = 191.1.1
+	}
+	273.1.1 = {
+		death = 273.1.1
+	}
+	dynasty = 86
+	father = 499
+}
+
+482 = {
+	name = alexander
+	culture = english
+	religion = cathar
+	221.1.1 = {
+		birth = 221.1.1
+	}
+	287.1.1 = {
+		death = 287.1.1
+	}
+	dynasty = 81
+	mother = 481
+	father = 480
+}
+
+483 = {
+	name = melisende
+	culture = english
+	religion = cathar
+	female = yes
+	229.1.1 = {
+		birth = 229.1.1
+	}
+	295.1.1 = {
+		death = 295.1.1
+	}
+	dynasty = 87
+}
+
+484 = {
+	name = carlo
+	culture = english
+	religion = cathar
+	156.1.1 = {
+		birth = 156.1.1
+	}
+	231.1.1 = {
+		death = 231.1.1
+	}
+	dynasty = 58
+	father = 734
+}
+
+485 = {
+	name = blanche
+	culture = english
+	religion = cathar
+	female = yes
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 81
+	mother = 425
+	father = 426
+}
+
+486 = {
+	name = lothair isengrim
+	culture = english
+	religion = cathar
+	255.1.1 = {
+		birth = 255.1.1
+	}
+	355.1.1 = {
+		death = 355.1.1
+	}
+	dynasty = 81
+	mother = 483
+	father = 482
+}
+
+487 = {
+	name = swanheid
+	culture = english
+	religion = cathar
+	female = yes
+	254.1.1 = {
+		birth = 254.1.1
+	}
+	293.1.1 = {
+		death = 293.1.1
+	}
+	dynasty = 81
+	mother = 483
+	father = 482
+}
+
+488 = {
+	name = gotfrid
+	culture = english
+	religion = cathar
+	259.1.1 = {
+		birth = 259.1.1
+	}
+	359.1.1 = {
+		death = 359.1.1
+	}
+	dynasty = 81
+	mother = 483
+	father = 482
+}
+
+489 = {
+	name = perrine
+	culture = english
+	religion = cathar
+	female = yes
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	360.1.1 = {
+		death = 360.1.1
+	}
+	dynasty = 81
+	mother = 483
+	father = 482
+}
+
+490 = {
+	name = gregore
+	culture = english
+	religion = cathar
+	263.1.1 = {
+		birth = 263.1.1
+	}
+	363.1.1 = {
+		death = 363.1.1
+	}
+	dynasty = 81
+	mother = 483
+	father = 482
+}
+
+491 = {
+	name = willem heidbert
+	culture = english
+	religion = cathar
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	379.1.1 = {
+		death = 379.1.1
+	}
+	dynasty = 81
+	mother = 487
+}
+
+492 = {
+	name = aldrick telesphore
+	culture = english
+	religion = cathar
+	280.1.1 = {
+		birth = 280.1.1
+	}
+	380.1.1 = {
+		death = 380.1.1
+	}
+	dynasty = 81
+	mother = 489
+}
+
+493 = {
+	name = laurence
+	culture = english
+	religion = cathar
+	222.1.1 = {
+		birth = 222.1.1
+	}
+	295.1.1 = {
+		death = 295.1.1
+	}
+	dynasty = 81
+	mother = 481
+	father = 480
+}
+
+494 = {
+	name = ameline
+	culture = english
+	religion = cathar
+	female = yes
+	223.1.1 = {
+		birth = 223.1.1
+	}
+	300.1.1 = {
+		death = 300.1.1
+	}
+	dynasty = 81
+	mother = 481
+	father = 480
+}
+
+495 = {
+	name = willem
+	culture = english
+	religion = cathar
+	246.1.1 = {
+		birth = 246.1.1
+	}
+	346.1.1 = {
+		death = 346.1.1
+	}
+	dynasty = 81
+	mother = 494
+}
+
+496 = {
+	name = carolin
+	culture = english
+	religion = cathar
+	female = yes
+	248.1.1 = {
+		birth = 248.1.1
+	}
+	348.1.1 = {
+		death = 348.1.1
+	}
+	dynasty = 81
+	mother = 494
+}
+
+497 = {
+	name = wulfric
+	culture = english
+	religion = cathar
+	250.1.1 = {
+		birth = 250.1.1
+	}
+	350.1.1 = {
+		death = 350.1.1
+	}
+	dynasty = 81
+	mother = 494
+}
+
+498 = {
+	name = humaira
+	culture = english
+	religion = cathar
+	female = yes
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 81
+	mother = 496
+}
+
+499 = {
+	name = alaric
+	culture = english
+	religion = cathar
+	150.1.1 = {
+		birth = 150.1.1
+	}
+	220.1.1 = {
+		death = 220.1.1
+	}
+	dynasty = 86
+	father = 244
+}
+
+500 = {
+	name = esteban
+	culture = english
+	religion = cathar
+	231.1.1 = {
+		birth = 231.1.1
+	}
+	331.1.1 = {
+		death = 331.1.1
+	}
+	dynasty = 88
+}
+
+501 = {
+	name = loretta
+	culture = english
+	religion = cathar
+	female = yes
+	246.1.1 = {
+		birth = 246.1.1
+	}
+	346.1.1 = {
+		death = 346.1.1
+	}
+	dynasty = 63
+	mother = 324
+	father = 389
+}
+
+502 = {
+	name = atilio
+	culture = english
+	religion = cathar
+	264.1.1 = {
+		birth = 264.1.1
+	}
+	303.1.1 = {
+		death = 303.1.1
+	}
+	dynasty = 88
+	mother = 501
+	father = 500
+}
+
+503 = {
+	name = lorea
+	culture = english
+	religion = cathar
+	female = yes
+	273.1.1 = {
+		birth = 273.1.1
+	}
+	373.1.1 = {
+		death = 373.1.1
+	}
+	dynasty = 89
+	father = 659
+}
+
+504 = {
+	name = cesare
+	culture = english
+	religion = cathar
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 88
+	mother = 503
+	father = 502
+}
+
+505 = {
+	name = bianca
+	culture = english
+	religion = cathar
+	female = yes
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 88
+	mother = 503
+	father = 502
+}
+
+506 = {
+	name = apollonia
+	culture = english
+	religion = cathar
+	female = yes
+	256.1.1 = {
+		birth = 256.1.1
+	}
+	356.1.1 = {
+		death = 356.1.1
+	}
+	dynasty = 90
+}
+
+507 = {
+	name = florence
+	culture = english
+	religion = cathar
+	female = yes
+	281.1.1 = {
+		birth = 281.1.1
+	}
+	381.1.1 = {
+		death = 381.1.1
+	}
+	dynasty = 88
+	mother = 506
+	father = 502
+}
+
+508 = {
+	name = ezmeralda
+	culture = english
+	religion = cathar
+	female = yes
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 88
+	mother = 501
+	father = 500
+}
+
+509 = {
+	name = adrian
+	culture = english
+	religion = cathar
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
+	dynasty = 88
+	mother = 501
+	father = 500
+}
+
+510 = {
+	name = andrea
+	culture = english
+	religion = cathar
+	female = yes
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 88
+	father = 509
+}
+
+511 = {
+	name = celine
+	culture = english
+	religion = cathar
+	female = yes
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 88
+	father = 509
+}
+
+512 = {
+	name = dante
+	culture = english
+	religion = cathar
+	291.1.1 = {
+		birth = 291.1.1
+	}
+	391.1.1 = {
+		death = 391.1.1
+	}
+	dynasty = 88
+	father = 509
+}
+
+513 = {
+	name = alphonse
+	culture = english
+	religion = cathar
+	193.1.1 = {
+		birth = 193.1.1
+	}
+	294.1.1 = {
+		death = 294.1.1
+	}
+	dynasty = 47
+}
+
+514 = {
+	name = colette
+	culture = english
+	religion = cathar
+	female = yes
+	210.1.1 = {
+		birth = 210.1.1
+	}
+	303.1.1 = {
+		death = 303.1.1
+	}
+	dynasty = 47
+	father = 513
+}
+
+515 = {
+	name = aurore
+	culture = english
+	religion = cathar
+	female = yes
+	231.1.1 = {
+		birth = 231.1.1
+	}
+	305.1.1 = {
+		death = 305.1.1
+	}
+	dynasty = 47
+	mother = 514
+}
+
+516 = {
+	name = isabeau
+	culture = english
+	religion = cathar
+	female = yes
+	253.1.1 = {
+		birth = 253.1.1
+	}
+	353.1.1 = {
+		death = 353.1.1
+	}
+	dynasty = 47
+	mother = 515
+}
+
+517 = {
+	name = lucienne
+	culture = english
+	religion = cathar
+	female = yes
+	274.1.1 = {
+		birth = 274.1.1
+	}
+	374.1.1 = {
+		death = 374.1.1
+	}
+	dynasty = 47
+	mother = 516
+}
+
+518 = {
+	name = marc
+	culture = english
+	religion = cathar
+	175.1.1 = {
+		birth = 175.1.1
+	}
+	247.1.1 = {
+		death = 247.1.1
+	}
+	dynasty = 8
+	father = 520
+}
+
+519 = {
+	name = michel
+	culture = english
+	religion = cathar
+	208.1.1 = {
+		birth = 208.1.1
+	}
+	286.1.1 = {
+		death = 286.1.1
+	}
+	dynasty = 8
+	father = 518
+}
+
+520 = {
+	name = gilles
+	culture = english
+	religion = cathar
+	140.1.1 = {
+		birth = 140.1.1
+	}
+	223.1.1 = {
+		death = 223.1.1
+	}
+	dynasty = 8
+	father = 521
+}
+
+521 = {
+	name = jean-luc
+	culture = english
+	religion = cathar
+	112.1.1 = {
+		birth = 112.1.1
+	}
+	183.1.1 = {
+		death = 183.1.1
+	}
+	dynasty = 8
+}
+
+522 = {
+	name = arahael
+	culture = english
+	religion = cathar
+	257.1.1 = {
+		birth = 257.1.1
+	}
+	357.1.1 = {
+		death = 357.1.1
+	}
+	dynasty = 91
+	mother = 532
+	father = 533
+}
+
+523 = {
+	name = gwenyth
+	culture = english
+	religion = cathar
+	female = yes
+	255.1.1 = {
+		birth = 255.1.1
+	}
+	355.1.1 = {
+		death = 355.1.1
+	}
+	dynasty = 92
+}
+
+524 = {
+	name = florance tannis
+	culture = english
+	religion = cathar
+	female = yes
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 91
+	mother = 523
+	father = 522
+}
+
+525 = {
+	name = laurent raaf
+	culture = english
+	religion = cathar
+	female = yes
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 91
+	mother = 523
+	father = 522
+}
+
+526 = {
+	name = valerie
+	culture = english
+	religion = cathar
+	female = yes
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 91
+	mother = 523
+	father = 522
+}
+
+527 = {
+	name = leufred
+	culture = english
+	religion = cathar
+	female = yes
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 91
+	mother = 523
+	father = 522
+}
+
+528 = {
+	name = rowena cavia
+	culture = english
+	religion = cathar
+	female = yes
+	294.1.1 = {
+		birth = 294.1.1
+	}
+	394.1.1 = {
+		death = 394.1.1
+	}
+	dynasty = 91
+	mother = 523
+	father = 522
+}
+
+529 = {
+	name = rhion
+	culture = english
+	religion = cathar
+	296.1.1 = {
+		birth = 296.1.1
+	}
+	396.1.1 = {
+		death = 396.1.1
+	}
+	dynasty = 91
+	mother = 530
+	father = 531
+}
+
+530 = {
+	name = elara
+	culture = english
+	religion = cathar
+	female = yes
+	272.1.1 = {
+		birth = 272.1.1
+	}
+	372.1.1 = {
+		death = 372.1.1
+	}
+	dynasty = 93
+	father = 771
+}
+
+531 = {
+	name = bastien
+	culture = english
+	religion = cathar
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 91
+	mother = 532
+	father = 533
+}
+
+532 = {
+	name = samala
+	culture = english
+	religion = cathar
+	female = yes
+	241.1.1 = {
+		birth = 241.1.1
+	}
+	341.1.1 = {
+		death = 341.1.1
+	}
+	dynasty = 94
+}
+
+533 = {
+	name = godric
+	culture = english
+	religion = cathar
+	236.1.1 = {
+		birth = 236.1.1
+	}
+	336.1.1 = {
+		death = 336.1.1
+	}
+	dynasty = 91
+}
+
+534 = {
+	name = marie
+	culture = english
+	religion = cathar
+	female = yes
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 47
+	mother = 517
+}
+
+535 = {
+	name = aloys
+	culture = english
+	religion = cathar
+	110.1.1 = {
+		birth = 110.1.1
+	}
+	185.1.1 = {
+		death = 185.1.1
+	}
+	dynasty = 95
+}
+
+536 = {
+	name = lillianna
+	culture = english
+	religion = cathar
+	female = yes
+	115.1.1 = {
+		birth = 115.1.1
+	}
+	190.1.1 = {
+		death = 190.1.1
+	}
+	dynasty = 96
+}
+
+537 = {
+	name = valentin
+	culture = english
+	religion = cathar
+	140.1.1 = {
+		birth = 140.1.1
+	}
+	215.1.1 = {
+		death = 215.1.1
+	}
+	dynasty = 95
+	mother = 536
+	father = 535
+}
+
+538 = {
+	name = eleonora
+	culture = english
+	religion = cathar
+	female = yes
+	142.1.1 = {
+		birth = 142.1.1
+	}
+	217.1.1 = {
+		death = 217.1.1
+	}
+	dynasty = 95
+	mother = 536
+	father = 535
+}
+
+539 = {
+	name = maximillienne
+	culture = english
+	religion = cathar
+	female = yes
+	145.1.1 = {
+		birth = 145.1.1
+	}
+	220.1.1 = {
+		death = 220.1.1
+	}
+	dynasty = 97
+}
+
+540 = {
+	name = marcoul
+	culture = english
+	religion = cathar
+	170.1.1 = {
+		birth = 170.1.1
+	}
+	245.1.1 = {
+		death = 245.1.1
+	}
+	dynasty = 95
+	mother = 539
+	father = 537
+}
+
+541 = {
+	name = rosaline
+	culture = english
+	religion = cathar
+	female = yes
+	172.1.1 = {
+		birth = 172.1.1
+	}
+	247.1.1 = {
+		death = 247.1.1
+	}
+	dynasty = 95
+	mother = 539
+	father = 537
+}
+
+542 = {
+	name = camille
+	culture = english
+	religion = cathar
+	female = yes
+	174.1.1 = {
+		birth = 174.1.1
+	}
+	249.1.1 = {
+		death = 249.1.1
+	}
+	dynasty = 95
+	mother = 539
+	father = 537
+}
+
+543 = {
+	name = heinrich
+	culture = english
+	religion = cathar
+	170.1.1 = {
+		birth = 170.1.1
+	}
+	245.1.1 = {
+		death = 245.1.1
+	}
+	dynasty = 98
+}
+
+544 = {
+	name = veronica
+	culture = english
+	religion = cathar
+	female = yes
+	195.1.1 = {
+		birth = 195.1.1
+	}
+	270.1.1 = {
+		death = 270.1.1
+	}
+	dynasty = 98
+	mother = 541
+	father = 543
+}
+
+545 = {
+	name = maximilien
+	culture = english
+	religion = cathar
+	197.1.1 = {
+		birth = 197.1.1
+	}
+	272.1.1 = {
+		death = 272.1.1
+	}
+	dynasty = 98
+	mother = 541
+	father = 543
+}
+
+546 = {
+	name = sabine
+	culture = english
+	religion = cathar
+	female = yes
+	174.1.1 = {
+		birth = 174.1.1
+	}
+	249.1.1 = {
+		death = 249.1.1
+	}
+	dynasty = 99
+}
+
+547 = {
+	name = leonard
+	culture = english
+	religion = cathar
+	202.1.1 = {
+		birth = 202.1.1
+	}
+	277.1.1 = {
+		death = 277.1.1
+	}
+	dynasty = 95
+	mother = 546
+	father = 540
+}
+
+548 = {
+	name = laurent
+	culture = english
+	religion = cathar
+	204.1.1 = {
+		birth = 204.1.1
+	}
+	279.1.1 = {
+		death = 279.1.1
+	}
+	dynasty = 95
+	mother = 546
+	father = 540
+}
+
+549 = {
+	name = alban
+	culture = english
+	religion = cathar
+	206.1.1 = {
+		birth = 206.1.1
+	}
+	281.1.1 = {
+		death = 281.1.1
+	}
+	dynasty = 95
+	mother = 546
+	father = 540
+}
+
+550 = {
+	name = elle
+	culture = english
+	religion = cathar
+	female = yes
+	208.1.1 = {
+		birth = 208.1.1
+	}
+	283.1.1 = {
+		death = 283.1.1
+	}
+	dynasty = 95
+	mother = 546
+	father = 540
+}
+
+551 = {
+	name = pierre
+	culture = english
+	religion = cathar
+	210.1.1 = {
+		birth = 210.1.1
+	}
+	285.1.1 = {
+		death = 285.1.1
+	}
+	dynasty = 95
+	mother = 546
+	father = 540
+}
+
+552 = {
+	name = rianne
+	culture = english
+	religion = cathar
+	female = yes
+	210.1.1 = {
+		birth = 210.1.1
+	}
+	285.1.1 = {
+		death = 285.1.1
+	}
+	dynasty = 100
+}
+
+553 = {
+	name = laudus
+	culture = english
+	religion = cathar
+	234.1.1 = {
+		birth = 234.1.1
+	}
+	309.1.1 = {
+		death = 309.1.1
+	}
+	dynasty = 95
+	mother = 552
+	father = 548
+}
+
+554 = {
+	name = valentina
+	culture = english
+	religion = cathar
+	female = yes
+	238.1.1 = {
+		birth = 238.1.1
+	}
+	313.1.1 = {
+		death = 313.1.1
+	}
+	dynasty = 101
+}
+
+555 = {
+	name = isabelle
+	culture = english
+	religion = cathar
+	female = yes
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	360.1.1 = {
+		death = 360.1.1
+	}
+	dynasty = 95
+	mother = 554
+	father = 553
+}
+
+556 = {
+	name = victoria
+	culture = english
+	religion = cathar
+	female = yes
+	262.1.1 = {
+		birth = 262.1.1
+	}
+	362.1.1 = {
+		death = 362.1.1
+	}
+	dynasty = 95
+	mother = 554
+	father = 553
+}
+
+557 = {
+	name = henri
+	culture = english
+	religion = cathar
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 95
+	mother = 554
+	father = 553
+}
+
+558 = {
+	name = julienne
+	culture = english
+	religion = cathar
+	female = yes
+	210.1.1 = {
+		birth = 210.1.1
+	}
+	285.1.1 = {
+		death = 285.1.1
+	}
+	dynasty = 73
+	mother = 741
+}
+
+559 = {
+	name = marian
+	culture = english
+	religion = cathar
+	female = yes
+	215.1.1 = {
+		birth = 215.1.1
+	}
+	290.1.1 = {
+		death = 290.1.1
+	}
+	dynasty = 102
+}
+
+560 = {
+	name = reinault
+	culture = english
+	religion = cathar
+	238.1.1 = {
+		birth = 238.1.1
+	}
+	313.1.1 = {
+		death = 313.1.1
+	}
+	dynasty = 95
+	mother = 558
+	father = 549
+}
+
+561 = {
+	name = achille
+	culture = english
+	religion = cathar
+	262.1.1 = {
+		birth = 262.1.1
+	}
+	362.1.1 = {
+		death = 362.1.1
+	}
+	dynasty = 95
+	father = 560
+}
+
+562 = {
+	name = roul
+	culture = english
+	religion = cathar
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 95
+	father = 560
+}
+
+563 = {
+	name = manon
+	culture = english
+	religion = cathar
+	female = yes
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
+	dynasty = 95
+	father = 560
+}
+
+564 = {
+	name = aguste
+	culture = english
+	religion = cathar
+	205.1.1 = {
+		birth = 205.1.1
+	}
+	280.1.1 = {
+		death = 280.1.1
+	}
+	dynasty = 103
+}
+
+565 = {
+	name = eleonore
+	culture = english
+	religion = cathar
+	female = yes
+	230.1.1 = {
+		birth = 230.1.1
+	}
+	305.1.1 = {
+		death = 305.1.1
+	}
+	dynasty = 95
+	mother = 550
+	father = 564
+}
+
+566 = {
+	name = niels
+	culture = english
+	religion = cathar
+	228.1.1 = {
+		birth = 228.1.1
+	}
+	303.1.1 = {
+		death = 303.1.1
+	}
+	dynasty = 104
+}
+
+567 = {
+	name = octavia
+	culture = english
+	religion = cathar
+	female = yes
+	232.1.1 = {
+		birth = 232.1.1
+	}
+	307.1.1 = {
+		death = 307.1.1
+	}
+	dynasty = 105
+}
+
+568 = {
+	name = eloise
+	culture = english
+	religion = cathar
+	female = yes
+	255.1.1 = {
+		birth = 255.1.1
+	}
+	355.1.1 = {
+		death = 355.1.1
+	}
+	dynasty = 95
+	mother = 567
+	father = 551
+}
+
+569 = {
+	name = noemie
+	culture = english
+	religion = cathar
+	female = yes
+	257.1.1 = {
+		birth = 257.1.1
+	}
+	357.1.1 = {
+		death = 357.1.1
+	}
+	dynasty = 95
+	mother = 567
+	father = 551
+}
+
+570 = {
+	name = natalie
+	culture = english
+	religion = cathar
+	female = yes
+	205.1.1 = {
+		birth = 205.1.1
+	}
+	280.1.1 = {
+		death = 280.1.1
+	}
+	dynasty = 106
+}
+
+571 = {
+	name = francis
+	culture = english
+	religion = cathar
+	230.1.1 = {
+		birth = 230.1.1
+	}
+	305.1.1 = {
+		death = 305.1.1
+	}
+	dynasty = 95
+	mother = 570
+	father = 547
+}
+
+572 = {
+	name = florence
+	culture = english
+	religion = cathar
+	female = yes
+	233.1.1 = {
+		birth = 233.1.1
+	}
+	308.1.1 = {
+		death = 308.1.1
+	}
+	dynasty = 107
+	mother = 738
+}
+
+573 = {
+	name = milena
+	culture = english
+	religion = cathar
+	female = yes
+	256.1.1 = {
+		birth = 256.1.1
+	}
+	356.1.1 = {
+		death = 356.1.1
+	}
+	dynasty = 95
+	mother = 572
+	father = 571
+}
+
+574 = {
+	name = constanze
+	culture = english
+	religion = cathar
+	female = yes
+	259.1.1 = {
+		birth = 259.1.1
+	}
+	359.1.1 = {
+		death = 359.1.1
+	}
+	dynasty = 95
+	mother = 572
+	father = 571
+}
+
+575 = {
+	name = michel
+	culture = english
+	religion = cathar
+	257.1.1 = {
+		birth = 257.1.1
+	}
+	357.1.1 = {
+		death = 357.1.1
+	}
+	dynasty = 95
+	mother = 572
+	father = 571
+}
+
+576 = {
+	name = corina
+	culture = english
+	religion = cathar
+	female = yes
+	259.1.1 = {
+		birth = 259.1.1
+	}
+	359.1.1 = {
+		death = 359.1.1
+	}
+	dynasty = 108
+}
+
+577 = {
+	name = fabienne
+	culture = english
+	religion = cathar
+	female = yes
+	282.1.1 = {
+		birth = 282.1.1
+	}
+	382.1.1 = {
+		death = 382.1.1
+	}
+	dynasty = 95
+	mother = 576
+	father = 575
+}
+
+578 = {
+	name = herbert
+	culture = english
+	religion = cathar
+	150.1.1 = {
+		birth = 150.1.1
+	}
+	210.1.1 = {
+		death = 210.1.1
+	}
+	dynasty = 36
+}
+
+579 = {
+	name = lorraine
+	culture = english
+	religion = cathar
+	female = yes
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	384.1.1 = {
+		death = 384.1.1
+	}
+	dynasty = 95
+	mother = 576
+	father = 575
+}
+
+580 = {
+	name = ingrid
+	culture = english
+	religion = cathar
+	female = yes
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 95
+	mother = 576
+	father = 575
+}
+
+581 = {
+	name = leif
+	culture = english
+	religion = cathar
+	255.1.1 = {
+		birth = 255.1.1
+	}
+	355.1.1 = {
+		death = 355.1.1
+	}
+	dynasty = 49
+	mother = 613
+	father = 614
+}
+
+582 = {
+	name = julia
+	culture = english
+	religion = cathar
+	female = yes
+	257.1.1 = {
+		birth = 257.1.1
+	}
+	357.1.1 = {
+		death = 357.1.1
+	}
+	dynasty = 49
+	mother = 613
+	father = 614
+}
+
+583 = {
+	name = viveca
+	culture = english
+	religion = cathar
+	female = yes
+	261.1.1 = {
+		birth = 261.1.1
+	}
+	361.1.1 = {
+		death = 361.1.1
+	}
+	dynasty = 49
+	mother = 613
+	father = 614
+}
+
+584 = {
+	name = lucinda
+	culture = english
+	religion = cathar
+	female = yes
+	267.1.1 = {
+		birth = 267.1.1
+	}
+	295.1.1 = {
+		death = 295.1.1
+	}
+	dynasty = 49
+	mother = 613
+	father = 614
+}
+
+585 = {
+	name = vidar
+	culture = english
+	religion = cathar
+	269.1.1 = {
+		birth = 269.1.1
+	}
+	369.1.1 = {
+		death = 369.1.1
+	}
+	dynasty = 49
+	mother = 613
+	father = 614
+}
+
+586 = {
+	name = calder
+	culture = english
+	religion = cathar
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 49
+	mother = 582
+	father = 581
+}
+
+587 = {
+	name = osric
+	culture = english
+	religion = cathar
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 49
+	mother = 582
+	father = 581
+}
+
+588 = {
+	name = elric
+	culture = english
+	religion = cathar
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 49
+	mother = 582
+	father = 581
+}
+
+589 = {
+	name = torbin
+	culture = english
+	religion = cathar
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 49
+	mother = 582
+	father = 581
+}
+
+590 = {
+	name = leonzio
+	culture = english
+	religion = cathar
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	384.1.1 = {
+		death = 384.1.1
+	}
+	dynasty = 109
+}
+
+591 = {
+	name = raoul
+	culture = english
+	religion = cathar
+	273.1.1 = {
+		birth = 273.1.1
+	}
+	373.1.1 = {
+		death = 373.1.1
+	}
+	dynasty = 110
+}
+
+592 = {
+	name = alonso
+	culture = english
+	religion = cathar
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 111
+}
+
+593 = {
+	name = sarena
+	culture = english
+	religion = cathar
+	female = yes
+	271.1.1 = {
+		birth = 271.1.1
+	}
+	371.1.1 = {
+		death = 371.1.1
+	}
+	dynasty = 107
+	mother = 737
+}
+
+594 = {
+	name = benjamin
+	culture = english
+	religion = cathar
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 49
+	mother = 584
+	father = 591
+}
+
+595 = {
+	name = henri
+	culture = english
+	religion = cathar
+	291.1.1 = {
+		birth = 291.1.1
+	}
+	391.1.1 = {
+		death = 391.1.1
+	}
+	dynasty = 49
+	mother = 584
+	father = 591
+}
+
+596 = {
+	name = catalina
+	culture = english
+	religion = cathar
+	female = yes
+	294.1.1 = {
+		birth = 294.1.1
+	}
+	394.1.1 = {
+		death = 394.1.1
+	}
+	dynasty = 49
+	mother = 584
+	father = 591
+}
+
+597 = {
+	name = ophelia
+	culture = english
+	religion = cathar
+	female = yes
+	281.1.1 = {
+		birth = 281.1.1
+	}
+	381.1.1 = {
+		death = 381.1.1
+	}
+	dynasty = 49
+	mother = 583
+	father = 592
+}
+
+598 = {
+	name = kendric
+	culture = english
+	religion = cathar
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 49
+	mother = 583
+	father = 592
+}
+
+599 = {
+	name = lucia
+	culture = english
+	religion = cathar
+	female = yes
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 49
+	mother = 583
+	father = 592
+}
+
+600 = {
+	name = fernanda
+	culture = english
+	religion = cathar
+	female = yes
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 49
+	mother = 583
+	father = 592
+}
+
+601 = {
+	name = lautaro
+	culture = english
+	religion = cathar
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 49
+	mother = 583
+	father = 592
+}
+
+602 = {
+	name = javier
+	culture = english
+	religion = cathar
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 49
+	mother = 583
+	father = 592
+}
+
+603 = {
+	name = thyra
+	culture = english
+	religion = cathar
+	female = yes
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 49
+	mother = 593
+	father = 585
+}
+
+604 = {
+	name = sylvia
+	culture = english
+	religion = cathar
+	female = yes
+	294.1.1 = {
+		birth = 294.1.1
+	}
+	394.1.1 = {
+		death = 394.1.1
+	}
+	dynasty = 49
+	mother = 593
+	father = 585
+}
+
+605 = {
+	name = isidora
+	culture = english
+	religion = cathar
+	female = yes
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 73
+	father = 742
+}
+
+606 = {
+	name = julia
+	culture = english
+	religion = cathar
+	female = yes
+	301.1.1 = {
+		birth = 301.1.1
+	}
+	401.1.1 = {
+		death = 401.1.1
+	}
+	dynasty = 49
+	mother = 605
+	father = 588
+}
+
+607 = {
+	name = pietro
+	culture = english
+	religion = cathar
+	302.1.1 = {
+		birth = 302.1.1
+	}
+	402.1.1 = {
+		death = 402.1.1
+	}
+	dynasty = 49
+	mother = 605
+	father = 588
+}
+
+608 = {
+	name = thomas
+	culture = english
+	religion = cathar
+	280.1.1 = {
+		birth = 280.1.1
+	}
+	303.1.1 = {
+		death = 303.1.1
+	}
+	dynasty = 24
+}
+
+609 = {
+	name = honora
+	culture = english
+	religion = cathar
+	female = yes
+	297.1.1 = {
+		birth = 297.1.1
+	}
+	397.1.1 = {
+		death = 397.1.1
+	}
+	dynasty = 49
+	mother = 597
+	father = 608
+}
+
+610 = {
+	name = arbec
+	culture = english
+	religion = cathar
+	298.1.1 = {
+		birth = 298.1.1
+	}
+	398.1.1 = {
+		death = 398.1.1
+	}
+	dynasty = 49
+	mother = 597
+	father = 608
+}
+
+611 = {
+	name = kensley
+	culture = english
+	religion = cathar
+	female = yes
+	300.1.1 = {
+		birth = 300.1.1
+	}
+	400.1.1 = {
+		death = 400.1.1
+	}
+	dynasty = 49
+	mother = 597
+	father = 608
+}
+
+612 = {
+	name = juliette
+	culture = english
+	religion = cathar
+	female = yes
+	294.1.1 = {
+		birth = 294.1.1
+	}
+	394.1.1 = {
+		death = 394.1.1
+	}
+	dynasty = 112
+}
+
+613 = {
+	name = astrid
+	culture = english
+	religion = cathar
+	female = yes
+	234.1.1 = {
+		birth = 234.1.1
+	}
+	300.1.1 = {
+		death = 300.1.1
+	}
+	dynasty = 9
+}
+
+614 = {
+	name = hakon
+	culture = english
+	religion = cathar
+	232.1.1 = {
+		birth = 232.1.1
+	}
+	297.1.1 = {
+		death = 297.1.1
+	}
+	dynasty = 49
+}
+
+615 = {
+	name = halvard
+	culture = english
+	religion = cathar
+	210.1.1 = {
+		birth = 210.1.1
+	}
+	277.1.1 = {
+		death = 277.1.1
+	}
+	dynasty = 113
+}
+
+616 = {
+	name = solveig
+	culture = english
+	religion = cathar
+	female = yes
+	214.1.1 = {
+		birth = 214.1.1
+	}
+	281.1.1 = {
+		death = 281.1.1
+	}
+	dynasty = 114
+}
+
+617 = {
+	name = leugel
+	culture = english
+	religion = cathar
+	239.1.1 = {
+		birth = 239.1.1
+	}
+	304.1.1 = {
+		death = 304.1.1
+	}
+	dynasty = 113
+	mother = 616
+	father = 615
+}
+
+618 = {
+	name = toverata
+	culture = english
+	religion = cathar
+	female = yes
+	241.1.1 = {
+		birth = 241.1.1
+	}
+	341.1.1 = {
+		death = 341.1.1
+	}
+	dynasty = 115
+}
+
+619 = {
+	name = nora
+	culture = english
+	religion = cathar
+	female = yes
+	243.1.1 = {
+		birth = 243.1.1
+	}
+	343.1.1 = {
+		death = 343.1.1
+	}
+	dynasty = 113
+	mother = 616
+	father = 615
+}
+
+620 = {
+	name = roffe
+	culture = english
+	religion = cathar
+	238.1.1 = {
+		birth = 238.1.1
+	}
+	302.1.1 = {
+		death = 302.1.1
+	}
+	dynasty = 116
+}
+
+621 = {
+	name = ardige
+	culture = english
+	religion = cathar
+	263.1.1 = {
+		birth = 263.1.1
+	}
+	363.1.1 = {
+		death = 363.1.1
+	}
+	dynasty = 113
+	mother = 618
+	father = 617
+}
+
+622 = {
+	name = karin
+	culture = english
+	religion = cathar
+	female = yes
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	299.1.1 = {
+		death = 299.1.1
+	}
+	dynasty = 56
+}
+
+623 = {
+	name = aurora
+	culture = english
+	religion = cathar
+	female = yes
+	297.1.1 = {
+		birth = 297.1.1
+	}
+	397.1.1 = {
+		death = 397.1.1
+	}
+	dynasty = 117
+	mother = 782
+	father = 783
+}
+
+624 = {
+	name = marikka
+	culture = english
+	religion = cathar
+	female = yes
+	269.1.1 = {
+		birth = 269.1.1
+	}
+	369.1.1 = {
+		death = 369.1.1
+	}
+	dynasty = 118
+}
+
+625 = {
+	name = yngvarr
+	culture = english
+	religion = cathar
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 113
+	mother = 618
+	father = 617
+}
+
+626 = {
+	name = erobrsonn
+	culture = english
+	religion = cathar
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 113
+	mother = 622
+	father = 621
+}
+
+627 = {
+	name = frejnir
+	culture = english
+	religion = cathar
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 113
+	mother = 622
+	father = 621
+}
+
+628 = {
+	name = aksel
+	culture = english
+	religion = cathar
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 113
+	mother = 624
+	father = 621
+}
+
+629 = {
+	name = tuija
+	culture = english
+	religion = cathar
+	female = yes
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 113
+	mother = 624
+	father = 621
+}
+
+630 = {
+	name = sa'alia
+	culture = english
+	religion = cathar
+	female = yes
+	149.1.1 = {
+		birth = 149.1.1
+	}
+	221.1.1 = {
+		death = 221.1.1
+	}
+	dynasty = 119
+}
+
+631 = {
+	name = shalhreia
+	culture = english
+	religion = cathar
+	female = yes
+	184.1.1 = {
+		birth = 184.1.1
+	}
+	258.1.1 = {
+		death = 258.1.1
+	}
+	dynasty = 119
+	mother = 630
+}
+
+632 = {
+	name = auiamey
+	culture = english
+	religion = cathar
+	female = yes
+	219.1.1 = {
+		birth = 219.1.1
+	}
+	302.1.1 = {
+		death = 302.1.1
+	}
+	dynasty = 119
+	mother = 631
+	father = 640
+}
+
+633 = {
+	name = saelleia
+	culture = english
+	religion = cathar
+	female = yes
+	254.1.1 = {
+		birth = 254.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 119
+	mother = 632
+}
+
+634 = {
+	name = lleoveyn
+	culture = english
+	religion = cathar
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 119
+	mother = 633
+}
+
+635 = {
+	name = suzenvaela
+	culture = english
+	religion = cathar
+	female = yes
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 119
+	mother = 633
+}
+
+636 = {
+	name = esmedara
+	culture = english
+	religion = cathar
+	female = yes
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 119
+	mother = 633
+}
+
+637 = {
+	name = myirannir
+	culture = english
+	religion = cathar
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 119
+	mother = 633
+}
+
+638 = {
+	name = jolieyta
+	culture = english
+	religion = cathar
+	female = yes
+	296.1.1 = {
+		birth = 296.1.1
+	}
+	396.1.1 = {
+		death = 396.1.1
+	}
+	dynasty = 119
+	mother = 633
+}
+
+639 = {
+	name = carlos
+	culture = english
+	religion = cathar
+	218.1.1 = {
+		birth = 218.1.1
+	}
+	282.1.1 = {
+		death = 282.1.1
+	}
+	dynasty = 120
+}
+
+640 = {
+	name = oriandor
+	culture = english
+	religion = cathar
+	175.1.1 = {
+		birth = 175.1.1
+	}
+	270.1.1 = {
+		death = 270.1.1
+	}
+	dynasty = 33
+	father = 712
+}
+
+641 = {
+	name = samila
+	culture = english
+	religion = cathar
+	female = yes
+	201.1.1 = {
+		birth = 201.1.1
+	}
+	285.1.1 = {
+		death = 285.1.1
+	}
+	dynasty = 33
+	father = 640
+}
+
+642 = {
+	name = eandrel
+	culture = english
+	religion = cathar
+	203.1.1 = {
+		birth = 203.1.1
+	}
+	290.1.1 = {
+		death = 290.1.1
+	}
+	dynasty = 33
+	father = 640
+}
+
+643 = {
+	name = lusyas
+	culture = english
+	religion = cathar
+	228.1.1 = {
+		birth = 228.1.1
+	}
+	312.1.1 = {
+		death = 312.1.1
+	}
+	dynasty = 33
+	mother = 641
+}
+
+644 = {
+	name = salia
+	culture = english
+	religion = cathar
+	female = yes
+	230.1.1 = {
+		birth = 230.1.1
+	}
+	314.1.1 = {
+		death = 314.1.1
+	}
+	dynasty = 33
+	mother = 641
+}
+
+645 = {
+	name = isaveyl
+	culture = english
+	religion = cathar
+	female = yes
+	247.1.1 = {
+		birth = 247.1.1
+	}
+	308.1.1 = {
+		death = 308.1.1
+	}
+	dynasty = 33
+	father = 642
+}
+
+646 = {
+	name = noveyn
+	culture = english
+	religion = cathar
+	255.1.1 = {
+		birth = 255.1.1
+	}
+	355.1.1 = {
+		death = 355.1.1
+	}
+	dynasty = 33
+	father = 643
+}
+
+647 = {
+	name = malsayn
+	culture = english
+	religion = cathar
+	273.1.1 = {
+		birth = 273.1.1
+	}
+	373.1.1 = {
+		death = 373.1.1
+	}
+	dynasty = 33
+	mother = 645
+	father = 646
+}
+
+648 = {
+	name = eyra
+	culture = english
+	religion = cathar
+	female = yes
+	275.1.1 = {
+		birth = 275.1.1
+	}
+	375.1.1 = {
+		death = 375.1.1
+	}
+	dynasty = 33
+	mother = 645
+	father = 646
+}
+
+649 = {
+	name = alistair
+	culture = english
+	religion = cathar
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 121
+}
+
+650 = {
+	name = yvette
+	culture = english
+	religion = cathar
+	female = yes
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 122
+}
+
+651 = {
+	name = alexandria
+	culture = english
+	religion = cathar
+	female = yes
+	307.1.1 = {
+		birth = 307.1.1
+	}
+	407.1.1 = {
+		death = 407.1.1
+	}
+	dynasty = 121
+	mother = 650
+	father = 649
+}
+
+652 = {
+	name = alex
+	culture = english
+	religion = cathar
+	305.1.1 = {
+		birth = 305.1.1
+	}
+	405.1.1 = {
+		death = 405.1.1
+	}
+	dynasty = 121
+	mother = 650
+	father = 649
+}
+
+653 = {
+	name = alejandro
+	culture = english
+	religion = cathar
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	301.1.1 = {
+		death = 301.1.1
+	}
+	dynasty = 120
+	mother = 654
+}
+
+654 = {
+	name = theresa
+	culture = english
+	religion = cathar
+	female = yes
+	238.1.1 = {
+		birth = 238.1.1
+	}
+	338.1.1 = {
+		death = 338.1.1
+	}
+	dynasty = 89
+	mother = 671
+	father = 639
+}
+
+655 = {
+	name = matheo
+	culture = english
+	religion = cathar
+	275.1.1 = {
+		birth = 275.1.1
+	}
+	375.1.1 = {
+		death = 375.1.1
+	}
+	dynasty = 89
+	father = 659
+}
+
+656 = {
+	name = alondra
+	culture = english
+	religion = cathar
+	female = yes
+	277.1.1 = {
+		birth = 277.1.1
+	}
+	377.1.1 = {
+		death = 377.1.1
+	}
+	dynasty = 89
+	mother = 654
+}
+
+657 = {
+	name = camila
+	culture = english
+	religion = cathar
+	female = yes
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 89
+	father = 653
+}
+
+658 = {
+	name = gustavo
+	culture = english
+	religion = cathar
+	267.1.1 = {
+		birth = 267.1.1
+	}
+	300.1.1 = {
+		death = 300.1.1
+	}
+	dynasty = 89
+	mother = 654
+}
+
+659 = {
+	name = andrieu
+	culture = english
+	religion = cathar
+	256.1.1 = {
+		birth = 256.1.1
+	}
+	301.1.1 = {
+		death = 301.1.1
+	}
+	dynasty = 120
+	mother = 654
+}
+
+660 = {
+	name = andrea
+	culture = english
+	religion = cathar
+	female = yes
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	384.1.1 = {
+		death = 384.1.1
+	}
+	dynasty = 89
+	father = 653
+}
+
+661 = {
+	name = madelyn
+	culture = english
+	religion = cathar
+	female = yes
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 123
+}
+
+662 = {
+	name = valarosta
+	culture = english
+	religion = cathar
+	235.1.1 = {
+		birth = 235.1.1
+	}
+	335.1.1 = {
+		death = 335.1.1
+	}
+	dynasty = 124
+}
+
+663 = {
+	name = jean-yves
+	culture = english
+	religion = cathar
+	230.1.1 = {
+		birth = 230.1.1
+	}
+	285.1.1 = {
+		death = 285.1.1
+	}
+	dynasty = 125
+}
+
+664 = {
+	name = sylvie
+	culture = english
+	religion = cathar
+	female = yes
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	297.1.1 = {
+		death = 297.1.1
+	}
+	dynasty = 125
+	father = 663
+}
+
+665 = {
+	name = lucien
+	culture = english
+	religion = cathar
+	263.1.1 = {
+		birth = 263.1.1
+	}
+	363.1.1 = {
+		death = 363.1.1
+	}
+	dynasty = 126
+	mother = 716
+	father = 715
+}
+
+666 = {
+	name = florian
+	culture = english
+	religion = cathar
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 125
+	mother = 664
+	father = 665
+}
+
+667 = {
+	name = emeric
+	culture = english
+	religion = cathar
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 125
+	mother = 664
+	father = 665
+}
+
+668 = {
+	name = lucrece
+	culture = english
+	religion = cathar
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 125
+	mother = 664
+	father = 665
+}
+
+669 = {
+	name = fabio
+	culture = english
+	religion = cathar
+	184.1.1 = {
+		birth = 184.1.1
+	}
+	263.1.1 = {
+		death = 263.1.1
+	}
+	dynasty = 58
+	father = 484
+}
+
+670 = {
+	name = amaury
+	culture = english
+	religion = cathar
+	312.1.1 = {
+		birth = 312.1.1
+	}
+	412.1.1 = {
+		death = 412.1.1
+	}
+	dynasty = 23
+	mother = 660
+	father = 314
+}
+
+671 = {
+	name = celine
+	culture = english
+	religion = cathar
+	female = yes
+	222.1.1 = {
+		birth = 222.1.1
+	}
+	302.1.1 = {
+		death = 302.1.1
+	}
+	dynasty = 127
+}
+
+672 = {
+	name = laerilas
+	culture = english
+	religion = cathar
+	240.1.1 = {
+		birth = 240.1.1
+	}
+	340.1.1 = {
+		death = 340.1.1
+	}
+	dynasty = 128
+	father = 680
+}
+
+673 = {
+	name = sancia
+	culture = english
+	religion = cathar
+	female = yes
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 128
+	father = 680
+}
+
+674 = {
+	name = savnella
+	culture = english
+	religion = cathar
+	female = yes
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	358.1.1 = {
+		death = 358.1.1
+	}
+	dynasty = 128
+	father = 680
+}
+
+675 = {
+	name = orlen
+	culture = english
+	religion = cathar
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 128
+	father = 680
+}
+
+676 = {
+	name = salia
+	culture = english
+	religion = cathar
+	female = yes
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 128
+	father = 680
+}
+
+677 = {
+	name = lusyas
+	culture = english
+	religion = cathar
+	250.1.1 = {
+		birth = 250.1.1
+	}
+	350.1.1 = {
+		death = 350.1.1
+	}
+	dynasty = 128
+	father = 680
+}
+
+678 = {
+	name = noveyn
+	culture = english
+	religion = cathar
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	360.1.1 = {
+		death = 360.1.1
+	}
+	dynasty = 128
+	father = 680
+}
+
+679 = {
+	name = pablo
+	culture = english
+	religion = cathar
+	217.1.1 = {
+		birth = 217.1.1
+	}
+	263.1.1 = {
+		death = 263.1.1
+	}
+	dynasty = 58
+	father = 669
+}
+
+680 = {
+	name = malsayn
+	culture = english
+	religion = cathar
+	223.1.1 = {
+		birth = 223.1.1
+	}
+	300.1.1 = {
+		death = 300.1.1
+	}
+	dynasty = 128
+	mother = 682
+	father = 681
+}
+
+681 = {
+	name = alosso
+	culture = english
+	religion = cathar
+	180.1.1 = {
+		birth = 180.1.1
+	}
+	255.1.1 = {
+		death = 255.1.1
+	}
+	dynasty = 128
+}
+
+682 = {
+	name = liliath
+	culture = english
+	religion = cathar
+	female = yes
+	180.1.1 = {
+		birth = 180.1.1
+	}
+	260.1.1 = {
+		death = 260.1.1
+	}
+	dynasty = 33
+}
+
+683 = {
+	name = hithaellon
+	culture = english
+	religion = cathar
+	170.1.1 = {
+		birth = 170.1.1
+	}
+	242.1.1 = {
+		death = 242.1.1
+	}
+	dynasty = 129
+}
+
+684 = {
+	name = tasallon
+	culture = english
+	religion = cathar
+	200.1.1 = {
+		birth = 200.1.1
+	}
+	270.1.1 = {
+		death = 270.1.1
+	}
+	dynasty = 129
+	father = 683
+}
+
+685 = {
+	name = hin'sala
+	culture = english
+	religion = cathar
+	female = yes
+	204.1.1 = {
+		birth = 204.1.1
+	}
+	275.1.1 = {
+		death = 275.1.1
+	}
+	dynasty = 130
+	mother = 711
+	father = 710
+}
+
+686 = {
+	name = finarhen
+	culture = english
+	religion = cathar
+	232.1.1 = {
+		birth = 232.1.1
+	}
+	298.1.1 = {
+		death = 298.1.1
+	}
+	dynasty = 129
+	mother = 685
+	father = 684
+}
+
+687 = {
+	name = malcarno
+	culture = english
+	religion = cathar
+	236.1.1 = {
+		birth = 236.1.1
+	}
+	336.1.1 = {
+		death = 336.1.1
+	}
+	dynasty = 129
+	mother = 685
+	father = 684
+}
+
+688 = {
+	name = liravella
+	culture = english
+	religion = cathar
+	female = yes
+	240.1.1 = {
+		birth = 240.1.1
+	}
+	340.1.1 = {
+		death = 340.1.1
+	}
+	dynasty = 129
+	mother = 685
+	father = 684
+}
+
+689 = {
+	name = caswyn
+	culture = english
+	religion = cathar
+	female = yes
+	264.1.1 = {
+		birth = 264.1.1
+	}
+	364.1.1 = {
+		death = 364.1.1
+	}
+	dynasty = 129
+	father = 686
+}
+
+690 = {
+	name = enalle
+	culture = english
+	religion = cathar
+	238.1.1 = {
+		birth = 238.1.1
+	}
+	338.1.1 = {
+		death = 338.1.1
+	}
+	dynasty = 131
+}
+
+691 = {
+	name = viviana
+	culture = english
+	religion = cathar
+	female = yes
+	254.1.1 = {
+		birth = 254.1.1
+	}
+	354.1.1 = {
+		death = 354.1.1
+	}
+	dynasty = 129
+	father = 686
+}
+
+692 = {
+	name = tehrathel
+	culture = english
+	religion = cathar
+	256.1.1 = {
+		birth = 256.1.1
+	}
+	356.1.1 = {
+		death = 356.1.1
+	}
+	dynasty = 129
+	father = 686
+}
+
+693 = {
+	name = alonzo
+	culture = english
+	religion = cathar
+	236.1.1 = {
+		birth = 236.1.1
+	}
+	312.1.1 = {
+		death = 312.1.1
+	}
+	dynasty = 58
+	father = 679
+}
+
+694 = {
+	name = faell'veia
+	culture = english
+	religion = cathar
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	360.1.1 = {
+		death = 360.1.1
+	}
+	dynasty = 129
+	father = 687
+}
+
+695 = {
+	name = hin'sulain
+	culture = english
+	religion = cathar
+	female = yes
+	262.1.1 = {
+		birth = 262.1.1
+	}
+	362.1.1 = {
+		death = 362.1.1
+	}
+	dynasty = 129
+	father = 687
+}
+
+696 = {
+	name = laenyra
+	culture = english
+	religion = cathar
+	female = yes
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 129
+	mother = 688
+	father = 690
+}
+
+697 = {
+	name = rhantallion
+	culture = english
+	religion = cathar
+	241.1.1 = {
+		birth = 241.1.1
+	}
+	341.1.1 = {
+		death = 341.1.1
+	}
+	dynasty = 129
+	mother = 685
+	father = 684
+}
+
+698 = {
+	name = elarien
+	culture = english
+	religion = cathar
+	female = yes
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 129
+	father = 687
+}
+
+699 = {
+	name = thalanor
+	culture = english
+	religion = cathar
+	263.1.1 = {
+		birth = 263.1.1
+	}
+	363.1.1 = {
+		death = 363.1.1
+	}
+	dynasty = 132
+}
+
+700 = {
+	name = calenwe
+	culture = english
+	religion = cathar
+	female = yes
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 129
+	mother = 698
+	father = 699
+}
+
+701 = {
+	name = nimriel
+	culture = english
+	religion = cathar
+	female = yes
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 129
+	mother = 698
+	father = 699
+}
+
+702 = {
+	name = selithra
+	culture = english
+	religion = cathar
+	female = yes
+	244.1.1 = {
+		birth = 244.1.1
+	}
+	344.1.1 = {
+		death = 344.1.1
+	}
+	dynasty = 133
+}
+
+703 = {
+	name = tharion
+	culture = english
+	religion = cathar
+	263.1.1 = {
+		birth = 263.1.1
+	}
+	363.1.1 = {
+		death = 363.1.1
+	}
+	dynasty = 129
+	mother = 702
+	father = 697
+}
+
+704 = {
+	name = alariel
+	culture = english
+	religion = cathar
+	female = yes
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 129
+	mother = 702
+	father = 697
+}
+
+705 = {
+	name = nymerith
+	culture = english
+	religion = cathar
+	female = yes
+	269.1.1 = {
+		birth = 269.1.1
+	}
+	369.1.1 = {
+		death = 369.1.1
+	}
+	dynasty = 129
+	mother = 702
+	father = 697
+}
+
+706 = {
+	name = vaelion
+	culture = english
+	religion = cathar
+	273.1.1 = {
+		birth = 273.1.1
+	}
+	373.1.1 = {
+		death = 373.1.1
+	}
+	dynasty = 129
+	mother = 702
+	father = 697
+}
+
+707 = {
+	name = lireth
+	culture = english
+	religion = cathar
+	female = yes
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 134
+}
+
+708 = {
+	name = thalindra
+	culture = english
+	religion = cathar
+	female = yes
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	384.1.1 = {
+		death = 384.1.1
+	}
+	dynasty = 129
+	mother = 707
+	father = 703
+}
+
+709 = {
+	name = faendir
+	culture = english
+	religion = cathar
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 129
+	mother = 707
+	father = 703
+}
+
+710 = {
+	name = elendir
+	culture = english
+	religion = cathar
+	180.1.1 = {
+		birth = 180.1.1
+	}
+	240.1.1 = {
+		death = 240.1.1
+	}
+	dynasty = 130
+}
+
+711 = {
+	name = samwea
+	culture = english
+	religion = cathar
+	female = yes
+	182.1.1 = {
+		birth = 182.1.1
+	}
+	245.1.1 = {
+		death = 245.1.1
+	}
+	dynasty = 33
+	father = 712
+}
+
+712 = {
+	name = larethian
+	culture = english
+	religion = cathar
+	150.1.1 = {
+		birth = 150.1.1
+	}
+	205.1.1 = {
+		death = 205.1.1
+	}
+	dynasty = 33
+}
+
+713 = {
+	name = laurent
+	culture = english
+	religion = cathar
+	200.1.1 = {
+		birth = 200.1.1
+	}
+	280.1.1 = {
+		death = 280.1.1
+	}
+	dynasty = 126
+}
+
+714 = {
+	name = solenne
+	culture = english
+	religion = cathar
+	female = yes
+	205.1.1 = {
+		birth = 205.1.1
+	}
+	282.1.1 = {
+		death = 282.1.1
+	}
+	dynasty = 135
+}
+
+715 = {
+	name = estienne
+	culture = english
+	religion = cathar
+	245.1.1 = {
+		birth = 245.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 126
+	mother = 714
+	father = 713
+}
+
+716 = {
+	name = aurelia
+	culture = english
+	religion = cathar
+	female = yes
+	247.1.1 = {
+		birth = 247.1.1
+	}
+	307.1.1 = {
+		death = 307.1.1
+	}
+	dynasty = 71
+	father = 732
+}
+
+717 = {
+	name = etienne
+	culture = english
+	religion = cathar
+	264.1.1 = {
+		birth = 264.1.1
+	}
+	364.1.1 = {
+		death = 364.1.1
+	}
+	dynasty = 126
+	mother = 716
+	father = 715
+}
+
+718 = {
+	name = noemie
+	culture = english
+	religion = cathar
+	female = yes
+	262.1.1 = {
+		birth = 262.1.1
+	}
+	362.1.1 = {
+		death = 362.1.1
+	}
+	dynasty = 136
+}
+
+719 = {
+	name = amelina
+	culture = english
+	religion = cathar
+	female = yes
+	280.1.1 = {
+		birth = 280.1.1
+	}
+	380.1.1 = {
+		death = 380.1.1
+	}
+	dynasty = 126
+	mother = 718
+	father = 717
+}
+
+720 = {
+	name = eilaria
+	culture = english
+	religion = cathar
+	female = yes
+	297.1.1 = {
+		birth = 297.1.1
+	}
+	397.1.1 = {
+		death = 397.1.1
+	}
+	dynasty = 126
+	mother = 718
+	father = 717
+}
+
+721 = {
+	name = lancel
+	culture = english
+	religion = cathar
+	313.1.1 = {
+		birth = 313.1.1
+	}
+	413.1.1 = {
+		death = 413.1.1
+	}
+	dynasty = 126
+	mother = 719
+	father = 860
+}
+
+722 = {
+	name = yvea
+	culture = english
+	religion = cathar
+	female = yes
+	302.1.1 = {
+		birth = 302.1.1
+	}
+	402.1.1 = {
+		death = 402.1.1
+	}
+	dynasty = 126
+	mother = 718
+	father = 717
+}
+
+723 = {
+	name = emmon
+	culture = english
+	religion = cathar
+	304.1.1 = {
+		birth = 304.1.1
+	}
+	314.1.1 = {
+		death = 314.1.1
+	}
+	dynasty = 126
+	mother = 718
+	father = 717
+}
+
+724 = {
+	name = narcissa
+	culture = english
+	religion = cathar
+	female = yes
+	301.1.1 = {
+		birth = 301.1.1
+	}
+	401.1.1 = {
+		death = 401.1.1
+	}
+	dynasty = 126
+	mother = 718
+	father = 717
+}
+
+725 = {
+	name = ludovic
+	culture = english
+	religion = cathar
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	350.1.1 = {
+		death = 350.1.1
+	}
+	dynasty = 126
+	mother = 716
+	father = 715
+}
+
+726 = {
+	name = ghyslaine
+	culture = english
+	religion = cathar
+	female = yes
+	264.1.1 = {
+		birth = 264.1.1
+	}
+	312.1.1 = {
+		death = 312.1.1
+	}
+	dynasty = 137
+}
+
+727 = {
+	name = maeva
+	culture = english
+	religion = cathar
+	female = yes
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	303.1.1 = {
+		death = 303.1.1
+	}
+	dynasty = 126
+	mother = 726
+	father = 725
+}
+
+728 = {
+	name = baldrick
+	culture = english
+	religion = cathar
+	298.1.1 = {
+		birth = 298.1.1
+	}
+	398.1.1 = {
+		death = 398.1.1
+	}
+	dynasty = 126
+	mother = 726
+	father = 725
+}
+
+729 = {
+	name = myria
+	culture = english
+	religion = cathar
+	female = yes
+	300.1.1 = {
+		birth = 300.1.1
+	}
+	400.1.1 = {
+		death = 400.1.1
+	}
+	dynasty = 126
+	mother = 726
+	father = 725
+}
+
+730 = {
+	name = odette
+	culture = english
+	religion = cathar
+	female = yes
+	303.1.1 = {
+		birth = 303.1.1
+	}
+	403.1.1 = {
+		death = 403.1.1
+	}
+	dynasty = 126
+	mother = 726
+	father = 725
+}
+
+731 = {
+	name = julius
+	culture = english
+	religion = cathar
+	307.1.1 = {
+		birth = 307.1.1
+	}
+	407.1.1 = {
+		death = 407.1.1
+	}
+	dynasty = 126
+	father = 725
+}
+
+732 = {
+	name = jean
+	culture = english
+	religion = cathar
+	220.1.1 = {
+		birth = 220.1.1
+	}
+	271.1.1 = {
+		death = 271.1.1
+	}
+	dynasty = 71
+}
+
+733 = {
+	name = malcolm
+	culture = english
+	religion = cathar
+	301.1.1 = {
+		birth = 301.1.1
+	}
+	401.1.1 = {
+		death = 401.1.1
+	}
+	dynasty = 35
+	mother = 727
+	father = 189
+}
+
+734 = {
+	name = dario
+	culture = english
+	religion = cathar
+	130.1.1 = {
+		birth = 130.1.1
+	}
+	198.1.1 = {
+		death = 198.1.1
+	}
+	dynasty = 58
+	father = 735
+}
+
+735 = {
+	name = fabricio
+	culture = english
+	religion = cathar
+	105.1.1 = {
+		birth = 105.1.1
+	}
+	184.1.1 = {
+		death = 184.1.1
+	}
+	dynasty = 58
+}
+
+736 = {
+	name = vicario
+	culture = english
+	religion = cathar
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 58
+	mother = 737
+	father = 693
+}
+
+737 = {
+	name = marie
+	culture = english
+	religion = cathar
+	female = yes
+	251.1.1 = {
+		birth = 251.1.1
+	}
+	351.1.1 = {
+		death = 351.1.1
+	}
+	dynasty = 107
+	mother = 739
+}
+
+738 = {
+	name = amelie
+	culture = english
+	religion = cathar
+	female = yes
+	207.1.1 = {
+		birth = 207.1.1
+	}
+	293.1.1 = {
+		death = 293.1.1
+	}
+	dynasty = 107
+}
+
+739 = {
+	name = audrey
+	culture = english
+	religion = cathar
+	female = yes
+	231.1.1 = {
+		birth = 231.1.1
+	}
+	308.1.1 = {
+		death = 308.1.1
+	}
+	dynasty = 107
+	mother = 738
+}
+
+740 = {
+	name = osorio
+	culture = english
+	religion = cathar
+	291.1.1 = {
+		birth = 291.1.1
+	}
+	391.1.1 = {
+		death = 391.1.1
+	}
+	dynasty = 58
+	father = 736
+}
+
+741 = {
+	name = francine
+	culture = english
+	religion = cathar
+	female = yes
+	182.1.1 = {
+		birth = 182.1.1
+	}
+	254.1.1 = {
+		death = 254.1.1
+	}
+	dynasty = 73
+}
+
+742 = {
+	name = phillipe
+	culture = english
+	religion = cathar
+	205.1.1 = {
+		birth = 205.1.1
+	}
+	287.1.1 = {
+		death = 287.1.1
+	}
+	dynasty = 73
+	mother = 741
+}
+
+743 = {
+	name = alastair
+	culture = english
+	religion = cathar
+	198.1.1 = {
+		birth = 198.1.1
+	}
+	272.1.1 = {
+		death = 272.1.1
+	}
+	dynasty = 138
+}
+
+744 = {
+	name = allia
+	culture = english
+	religion = cathar
+	female = yes
+	200.1.1 = {
+		birth = 200.1.1
+	}
+	276.1.1 = {
+		death = 276.1.1
+	}
+	dynasty = 32
+}
+
+745 = {
+	name = brandon
+	culture = english
+	religion = cathar
+	220.1.1 = {
+		birth = 220.1.1
+	}
+	293.1.1 = {
+		death = 293.1.1
+	}
+	dynasty = 138
+	mother = 744
+	father = 743
+}
+
+746 = {
+	name = lilliana
+	culture = english
+	religion = cathar
+	female = yes
+	222.1.1 = {
+		birth = 222.1.1
+	}
+	296.1.1 = {
+		death = 296.1.1
+	}
+	dynasty = 26
+}
+
+747 = {
+	name = arden
+	culture = english
+	religion = cathar
+	242.1.1 = {
+		birth = 242.1.1
+	}
+	308.1.1 = {
+		death = 308.1.1
+	}
+	dynasty = 138
+	mother = 746
+	father = 745
+}
+
+748 = {
+	name = saoirse
+	culture = english
+	religion = cathar
+	female = yes
+	244.1.1 = {
+		birth = 244.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 93
+	father = 771
+}
+
+749 = {
+	name = vilhelm
+	culture = english
+	religion = cathar
+	244.1.1 = {
+		birth = 244.1.1
+	}
+	309.1.1 = {
+		death = 309.1.1
+	}
+	dynasty = 138
+	mother = 746
+	father = 745
+}
+
+750 = {
+	name = heidie
+	culture = english
+	religion = cathar
+	female = yes
+	246.1.1 = {
+		birth = 246.1.1
+	}
+	312.1.1 = {
+		death = 312.1.1
+	}
+	dynasty = 8
+	father = 519
+}
+
+751 = {
+	name = eddair
+	culture = english
+	religion = cathar
+	262.1.1 = {
+		birth = 262.1.1
+	}
+	362.1.1 = {
+		death = 362.1.1
+	}
+	dynasty = 138
+	mother = 748
+	father = 747
+}
+
+752 = {
+	name = edina
+	culture = english
+	religion = cathar
+	female = yes
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 9
+}
+
+753 = {
+	name = wilmair
+	culture = english
+	religion = cathar
+	264.1.1 = {
+		birth = 264.1.1
+	}
+	364.1.1 = {
+		death = 364.1.1
+	}
+	dynasty = 138
+	mother = 748
+	father = 747
+}
+
+754 = {
+	name = addilin
+	culture = english
+	religion = cathar
+	female = yes
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 20
+}
+
+755 = {
+	name = saraid
+	culture = english
+	religion = cathar
+	female = yes
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 138
+	mother = 748
+	father = 747
+}
+
+756 = {
+	name = patrick
+	culture = english
+	religion = cathar
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 139
+}
+
+757 = {
+	name = patrick
+	culture = english
+	religion = cathar
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
+	dynasty = 138
+	mother = 748
+	father = 747
+}
+
+758 = {
+	name = ian
+	culture = english
+	religion = cathar
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 138
+	mother = 750
+	father = 749
+}
+
+759 = {
+	name = cathal
+	culture = english
+	religion = cathar
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
+	dynasty = 138
+	mother = 750
+	father = 749
+}
+
+760 = {
+	name = rosalin
+	culture = english
+	religion = cathar
+	female = yes
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 138
+	mother = 750
+	father = 749
+}
+
+761 = {
+	name = alastair
+	culture = english
+	religion = cathar
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 138
+	mother = 752
+	father = 751
+}
+
+762 = {
+	name = calidh
+	culture = english
+	religion = cathar
+	291.1.1 = {
+		birth = 291.1.1
+	}
+	391.1.1 = {
+		death = 391.1.1
+	}
+	dynasty = 138
+	mother = 752
+	father = 751
+}
+
+763 = {
+	name = arnhelm
+	culture = english
+	religion = cathar
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 138
+	mother = 752
+	father = 751
+}
+
+764 = {
+	name = greer
+	culture = english
+	religion = cathar
+	female = yes
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 138
+	mother = 752
+	father = 751
+}
+
+765 = {
+	name = fiona
+	culture = english
+	religion = cathar
+	female = yes
+	297.1.1 = {
+		birth = 297.1.1
+	}
+	397.1.1 = {
+		death = 397.1.1
+	}
+	dynasty = 138
+	mother = 752
+	father = 751
+}
+
+766 = {
+	name = natharia
+	culture = english
+	religion = cathar
+	female = yes
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 138
+	mother = 754
+	father = 753
+}
+
+767 = {
+	name = finnidh
+	culture = english
+	religion = cathar
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 138
+	mother = 754
+	father = 753
+}
+
+768 = {
+	name = cillian
+	culture = english
+	religion = cathar
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 139
+	mother = 755
+	father = 756
+}
+
+769 = {
+	name = robard
+	culture = english
+	religion = cathar
+	299.1.1 = {
+		birth = 299.1.1
+	}
+	399.1.1 = {
+		death = 399.1.1
+	}
+	dynasty = 138
+	father = 758
+}
+
+770 = {
+	name = meridath
+	culture = english
+	religion = cathar
+	female = yes
+	302.1.1 = {
+		birth = 302.1.1
+	}
+	402.1.1 = {
+		death = 402.1.1
+	}
+	dynasty = 138
+	father = 758
+}
+
+771 = {
+	name = emeric
+	culture = english
+	religion = cathar
+	220.1.1 = {
+		birth = 220.1.1
+	}
+	280.1.1 = {
+		death = 280.1.1
+	}
+	dynasty = 93
+}
+
+772 = {
+	name = nathan
+	culture = english
+	religion = cathar
+	256.1.1 = {
+		birth = 256.1.1
+	}
+	356.1.1 = {
+		death = 356.1.1
+	}
+	dynasty = 140
+}
+
+773 = {
+	name = lyonel
+	culture = english
+	religion = cathar
+	281.1.1 = {
+		birth = 281.1.1
+	}
+	381.1.1 = {
+		death = 381.1.1
+	}
+	dynasty = 140
+	father = 772
+}
+
+774 = {
+	name = arianne
+	culture = english
+	religion = cathar
+	female = yes
+	282.1.1 = {
+		birth = 282.1.1
+	}
+	307.1.1 = {
+		death = 307.1.1
+	}
+	dynasty = 140
+	father = 772
+}
+
+775 = {
+	name = matei
+	culture = english
+	religion = cathar
+	237.1.1 = {
+		birth = 237.1.1
+	}
+	337.1.1 = {
+		death = 337.1.1
+	}
+	dynasty = 141
+}
+
+776 = {
+	name = costin
+	culture = english
+	religion = cathar
+	236.1.1 = {
+		birth = 236.1.1
+	}
+	350.1.1 = {
+		death = 350.1.1
+	}
+	dynasty = 117
+}
+
+777 = {
+	name = marie
+	culture = english
+	religion = cathar
+	female = yes
+	267.1.1 = {
+		birth = 267.1.1
+	}
+	350.1.1 = {
+		death = 350.1.1
+	}
+	dynasty = 117
+	father = 776
+}
+
+778 = {
+	name = pavel
+	culture = english
+	religion = cathar
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 141
+	father = 775
+}
+
+779 = {
+	name = katarina
+	culture = english
+	religion = cathar
+	female = yes
+	291.1.1 = {
+		birth = 291.1.1
+	}
+	391.1.1 = {
+		death = 391.1.1
+	}
+	dynasty = 117
+	mother = 777
+	father = 778
+}
+
+780 = {
+	name = acelina
+	culture = english
+	religion = cathar
+	female = yes
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 117
+	mother = 777
+	father = 778
+}
+
+781 = {
+	name = ivonn
+	culture = english
+	religion = cathar
+	301.1.1 = {
+		birth = 301.1.1
+	}
+	401.1.1 = {
+		death = 401.1.1
+	}
+	dynasty = 117
+	mother = 777
+	father = 778
+}
+
+782 = {
+	name = beatrix
+	culture = english
+	religion = cathar
+	female = yes
+	273.1.1 = {
+		birth = 273.1.1
+	}
+	373.1.1 = {
+		death = 373.1.1
+	}
+	dynasty = 141
+	father = 775
+}
+
+783 = {
+	name = ambrus
+	culture = english
+	religion = cathar
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 142
+}
+
+784 = {
+	name = fredek
+	culture = english
+	religion = cathar
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 142
+	mother = 782
+	father = 783
+}
+
+785 = {
+	name = lukacs
+	culture = english
+	religion = cathar
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 142
+	mother = 782
+	father = 783
+}
+
+786 = {
+	name = sabina
+	culture = english
+	religion = cathar
+	female = yes
+	275.1.1 = {
+		birth = 275.1.1
+	}
+	375.1.1 = {
+		death = 375.1.1
+	}
+	dynasty = 117
+	father = 776
+}
+
+787 = {
+	name = cristian
+	culture = english
+	religion = cathar
+	273.1.1 = {
+		birth = 273.1.1
+	}
+	373.1.1 = {
+		death = 373.1.1
+	}
+	dynasty = 143
+}
+
+788 = {
+	name = elicia
+	culture = english
+	religion = cathar
+	female = yes
+	297.1.1 = {
+		birth = 297.1.1
+	}
+	397.1.1 = {
+		death = 397.1.1
+	}
+	dynasty = 117
+	mother = 786
+	father = 787
+}
+
+789 = {
+	name = corina
+	culture = english
+	religion = cathar
+	female = yes
+	298.1.1 = {
+		birth = 298.1.1
+	}
+	398.1.1 = {
+		death = 398.1.1
+	}
+	dynasty = 117
+	mother = 786
+	father = 787
+}
+
+790 = {
+	name = petre
+	culture = english
+	religion = cathar
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 117
+	father = 776
+}
+
+791 = {
+	name = mihaela
+	culture = english
+	religion = cathar
+	female = yes
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 117
+	father = 776
+}
+
+792 = {
+	name = ragnar
+	culture = english
+	religion = cathar
+	313.1.1 = {
+		birth = 313.1.1
+	}
+	413.1.1 = {
+		death = 413.1.1
+	}
+	dynasty = 113
+	mother = 623
+	father = 621
+}
+
+793 = {
+	name = kerastellar
+	culture = english
+	religion = cathar
+	female = yes
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	298.1.1 = {
+		death = 298.1.1
+	}
+	dynasty = 113
+	mother = 618
+	father = 617
+}
+
+794 = {
+	name = nadia
+	culture = english
+	religion = cathar
+	female = yes
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 144
+}
+
+795 = {
+	name = lovid
+	culture = english
+	religion = cathar
+	312.1.1 = {
+		birth = 312.1.1
+	}
+	412.1.1 = {
+		death = 412.1.1
+	}
+	dynasty = 113
+	mother = 794
+	father = 627
+}
+
+796 = {
+	name = solveig
+	culture = english
+	religion = cathar
+	313.1.1 = {
+		birth = 313.1.1
+	}
+	413.1.1 = {
+		death = 413.1.1
+	}
+	dynasty = 113
+	mother = 794
+	father = 627
+}
+
+797 = {
+	name = siselle
+	culture = english
+	religion = cathar
+	female = yes
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 145
+}
+
+798 = {
+	name = gunnar
+	culture = english
+	religion = cathar
+	246.1.1 = {
+		birth = 246.1.1
+	}
+	312.1.1 = {
+		death = 312.1.1
+	}
+	dynasty = 146
+}
+
+799 = {
+	name = kerastellar
+	culture = english
+	religion = cathar
+	female = yes
+	262.1.1 = {
+		birth = 262.1.1
+	}
+	300.1.1 = {
+		death = 300.1.1
+	}
+	dynasty = 113
+	mother = 618
+	father = 617
+}
+
+800 = {
+	name = morten
+	culture = english
+	religion = cathar
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 146
+	father = 798
+}
+
+801 = {
+	name = garth
+	culture = english
+	religion = cathar
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 113
+	mother = 799
+	father = 800
+}
+
+802 = {
+	name = thelka
+	culture = english
+	religion = cathar
+	female = yes
+	267.1.1 = {
+		birth = 267.1.1
+	}
+	367.1.1 = {
+		death = 367.1.1
+	}
+	dynasty = 146
+	father = 798
+}
+
+803 = {
+	name = godtfred
+	culture = english
+	religion = cathar
+	262.1.1 = {
+		birth = 262.1.1
+	}
+	362.1.1 = {
+		death = 362.1.1
+	}
+	dynasty = 147
+}
+
+804 = {
+	name = johanne
+	culture = english
+	religion = cathar
+	female = yes
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 148
+	mother = 802
+	father = 803
+}
+
+805 = {
+	name = arvid
+	culture = english
+	religion = cathar
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 148
+	mother = 802
+	father = 803
+}
+
+806 = {
+	name = hartvik
+	culture = english
+	religion = cathar
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 148
+	mother = 802
+	father = 803
+}
+
+807 = {
+	name = eydis
+	culture = english
+	religion = cathar
+	female = yes
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 148
+	mother = 802
+	father = 803
+}
+
+808 = {
+	name = ylva
+	culture = english
+	religion = cathar
+	female = yes
+	296.1.1 = {
+		birth = 296.1.1
+	}
+	396.1.1 = {
+		death = 396.1.1
+	}
+	dynasty = 148
+	mother = 802
+	father = 803
+}
+
+809 = {
+	name = mavleina
+	culture = english
+	religion = cathar
+	female = yes
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	312.1.1 = {
+		death = 312.1.1
+	}
+	dynasty = 149
+}
+
+810 = {
+	name = sif
+	culture = english
+	religion = cathar
+	female = yes
+	350.1.1 = {
+		birth = 350.1.1
+	}
+	415.1.1 = {
+		death = 415.1.1
+	}
+	dynasty = 15
+	mother = 10
+	father = 801
+}
+
+811 = {
+	name = vaenya
+	culture = english
+	religion = cathar
+	female = yes
+	182.1.1 = {
+		birth = 182.1.1
+	}
+	260.1.1 = {
+		death = 260.1.1
+	}
+	dynasty = 151
+}
+
+812 = {
+	name = cerynlo
+	culture = english
+	religion = cathar
+	180.1.1 = {
+		birth = 180.1.1
+	}
+	255.1.1 = {
+		death = 255.1.1
+	}
+	dynasty = 152
+}
+
+813 = {
+	name = tesvmalo
+	culture = english
+	religion = cathar
+	female = yes
+	200.1.1 = {
+		birth = 200.1.1
+	}
+	278.1.1 = {
+		death = 278.1.1
+	}
+	dynasty = 152
+	mother = 811
+	father = 812
+}
+
+814 = {
+	name = eash-llo
+	culture = english
+	religion = cathar
+	198.1.1 = {
+		birth = 198.1.1
+	}
+	270.1.1 = {
+		death = 270.1.1
+	}
+	dynasty = 153
+}
+
+815 = {
+	name = serlay'ufol
+	culture = english
+	religion = cathar
+	female = yes
+	220.1.1 = {
+		birth = 220.1.1
+	}
+	295.1.1 = {
+		death = 295.1.1
+	}
+	dynasty = 152
+	mother = 813
+	father = 814
+}
+
+816 = {
+	name = abelhard
+	culture = english
+	religion = cathar
+	242.1.1 = {
+		birth = 242.1.1
+	}
+	350.1.1 = {
+		death = 350.1.1
+	}
+	dynasty = 154
+	mother = 815
+}
+
+817 = {
+	name = avox
+	culture = english
+	religion = cathar
+	female = yes
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 154
+	father = 816
+}
+
+818 = {
+	name = tol-ay
+	culture = english
+	religion = cathar
+	223.1.1 = {
+		birth = 223.1.1
+	}
+	303.1.1 = {
+		death = 303.1.1
+	}
+	dynasty = 152
+	mother = 813
+	father = 814
+}
+
+819 = {
+	name = sylvia
+	culture = english
+	religion = cathar
+	female = yes
+	226.1.1 = {
+		birth = 226.1.1
+	}
+	305.1.1 = {
+		death = 305.1.1
+	}
+	dynasty = 152
+	mother = 813
+	father = 814
+}
+
+820 = {
+	name = jurgen
+	culture = english
+	religion = cathar
+	224.1.1 = {
+		birth = 224.1.1
+	}
+	302.1.1 = {
+		death = 302.1.1
+	}
+	dynasty = 155
+}
+
+821 = {
+	name = katrin
+	culture = english
+	religion = cathar
+	female = yes
+	250.1.1 = {
+		birth = 250.1.1
+	}
+	350.1.1 = {
+		death = 350.1.1
+	}
+	dynasty = 156
+	mother = 819
+	father = 820
+}
+
+822 = {
+	name = ul-ayom
+	culture = english
+	religion = cathar
+	female = yes
+	202.1.1 = {
+		birth = 202.1.1
+	}
+	283.1.1 = {
+		death = 283.1.1
+	}
+	dynasty = 152
+	mother = 811
+	father = 812
+}
+
+823 = {
+	name = telryllo
+	culture = english
+	religion = cathar
+	200.1.1 = {
+		birth = 200.1.1
+	}
+	282.1.1 = {
+		death = 282.1.1
+	}
+	dynasty = 157
+}
+
+824 = {
+	name = lluitalen
+	culture = english
+	religion = cathar
+	222.1.1 = {
+		birth = 222.1.1
+	}
+	299.1.1 = {
+		death = 299.1.1
+	}
+	dynasty = 152
+	mother = 822
+	father = 823
+}
+
+825 = {
+	name = junia
+	culture = english
+	religion = cathar
+	female = yes
+	225.1.1 = {
+		birth = 225.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 158
+}
+
+826 = {
+	name = adrastos
+	culture = english
+	religion = cathar
+	247.1.1 = {
+		birth = 247.1.1
+	}
+	347.1.1 = {
+		death = 347.1.1
+	}
+	dynasty = 152
+	mother = 825
+	father = 824
+}
+
+827 = {
+	name = tebryn
+	culture = english
+	religion = cathar
+	249.1.1 = {
+		birth = 249.1.1
+	}
+	349.1.1 = {
+		death = 349.1.1
+	}
+	dynasty = 152
+	mother = 825
+	father = 824
+}
+
+828 = {
+	name = emmeline
+	culture = english
+	religion = cathar
+	female = yes
+	252.1.1 = {
+		birth = 252.1.1
+	}
+	352.1.1 = {
+		death = 352.1.1
+	}
+	dynasty = 152
+	mother = 825
+	father = 824
+}
+
+829 = {
+	name = rievein
+	culture = english
+	religion = cathar
+	226.1.1 = {
+		birth = 226.1.1
+	}
+	305.1.1 = {
+		death = 305.1.1
+	}
+	dynasty = 152
+	mother = 822
+	father = 823
+}
+
+830 = {
+	name = madeline
+	culture = english
+	religion = cathar
+	female = yes
+	230.1.1 = {
+		birth = 230.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 159
+}
+
+831 = {
+	name = fleur
+	culture = english
+	religion = cathar
+	female = yes
+	255.1.1 = {
+		birth = 255.1.1
+	}
+	355.1.1 = {
+		death = 355.1.1
+	}
+	dynasty = 152
+	mother = 830
+	father = 829
+}
+
+832 = {
+	name = acelina
+	culture = english
+	religion = cathar
+	female = yes
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	358.1.1 = {
+		death = 358.1.1
+	}
+	dynasty = 152
+	mother = 830
+	father = 829
+}
+
+833 = {
+	name = lucienne
+	culture = english
+	religion = cathar
+	female = yes
+	259.1.1 = {
+		birth = 259.1.1
+	}
+	309.1.1 = {
+		death = 309.1.1
+	}
+	dynasty = 160
+	mother = 840
+	father = 843
+}
+
+834 = {
+	name = stefan
+	culture = english
+	religion = cathar
+	257.1.1 = {
+		birth = 257.1.1
+	}
+	357.1.1 = {
+		death = 357.1.1
+	}
+	dynasty = 107
+}
+
+835 = {
+	name = florentine
+	culture = english
+	religion = cathar
+	female = yes
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 160
+	mother = 833
+	father = 834
+}
+
+836 = {
+	name = auriane
+	culture = english
+	religion = cathar
+	female = yes
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 160
+	mother = 833
+	father = 834
+}
+
+837 = {
+	name = timothee
+	culture = english
+	religion = cathar
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 160
+	mother = 833
+	father = 834
+}
+
+838 = {
+	name = elarir
+	culture = english
+	religion = cathar
+	261.1.1 = {
+		birth = 261.1.1
+	}
+	361.1.1 = {
+		death = 361.1.1
+	}
+	dynasty = 161
+}
+
+839 = {
+	name = neomie
+	culture = english
+	religion = cathar
+	female = yes
+	298.1.1 = {
+		birth = 298.1.1
+	}
+	398.1.1 = {
+		death = 398.1.1
+	}
+	dynasty = 160
+	mother = 833
+	father = 838
+}
+
+840 = {
+	name = renee
+	culture = english
+	religion = cathar
+	female = yes
+	233.1.1 = {
+		birth = 233.1.1
+	}
+	292.1.1 = {
+		death = 292.1.1
+	}
+	dynasty = 160
+	mother = 841
+	father = 849
+}
+
+841 = {
+	name = isabeau
+	culture = english
+	religion = cathar
+	female = yes
+	204.1.1 = {
+		birth = 204.1.1
+	}
+	270.1.1 = {
+		death = 270.1.1
+	}
+	dynasty = 160
+	mother = 842
+	father = 844
+}
+
+842 = {
+	name = genevieve
+	culture = english
+	religion = cathar
+	female = yes
+	174.1.1 = {
+		birth = 174.1.1
+	}
+	240.1.1 = {
+		death = 240.1.1
+	}
+	dynasty = 160
+	mother = 845
+	father = 846
+}
+
+843 = {
+	name = louis
+	culture = english
+	religion = cathar
+	231.1.1 = {
+		birth = 231.1.1
+	}
+	295.1.1 = {
+		death = 295.1.1
+	}
+	dynasty = 162
+}
+
+844 = {
+	name = etienne
+	culture = english
+	religion = cathar
+	176.1.1 = {
+		birth = 176.1.1
+	}
+	238.1.1 = {
+		death = 238.1.1
+	}
+	dynasty = 163
+}
+
+845 = {
+	name = claire
+	culture = english
+	religion = cathar
+	female = yes
+	145.1.1 = {
+		birth = 145.1.1
+	}
+	211.1.1 = {
+		death = 211.1.1
+	}
+	dynasty = 160
+	mother = 847
+	father = 848
+}
+
+846 = {
+	name = bastien
+	culture = english
+	religion = cathar
+	147.1.1 = {
+		birth = 147.1.1
+	}
+	212.1.1 = {
+		death = 212.1.1
+	}
+	dynasty = 164
+}
+
+847 = {
+	name = veronique
+	culture = english
+	religion = cathar
+	female = yes
+	116.1.1 = {
+		birth = 116.1.1
+	}
+	186.1.1 = {
+		death = 186.1.1
+	}
+	dynasty = 160
+}
+
+848 = {
+	name = andrien
+	culture = english
+	religion = cathar
+	118.1.1 = {
+		birth = 118.1.1
+	}
+	184.1.1 = {
+		death = 184.1.1
+	}
+	dynasty = 165
+}
+
+849 = {
+	name = philippe
+	culture = english
+	religion = cathar
+	202.1.1 = {
+		birth = 202.1.1
+	}
+	268.1.1 = {
+		death = 268.1.1
+	}
+	dynasty = 166
+}
+
+850 = {
+	name = carl
+	culture = english
+	religion = cathar
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 167
+	mother = 854
+	father = 853
+}
+
+851 = {
+	name = isidore
+	culture = english
+	religion = cathar
+	female = yes
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 167
+	mother = 162
+	father = 850
+}
+
+852 = {
+	name = ulvira
+	culture = english
+	religion = cathar
+	female = yes
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 167
+	mother = 162
+	father = 850
+}
+
+853 = {
+	name = otto
+	culture = english
+	religion = cathar
+	238.1.1 = {
+		birth = 238.1.1
+	}
+	283.1.1 = {
+		death = 283.1.1
+	}
+	dynasty = 167
+	mother = 858
+	father = 859
+}
+
+854 = {
+	name = helene
+	culture = english
+	religion = cathar
+	female = yes
+	242.1.1 = {
+		birth = 242.1.1
+	}
+	289.1.1 = {
+		death = 289.1.1
+	}
+	dynasty = 168
+}
+
+855 = {
+	name = friedrich
+	culture = english
+	religion = cathar
+	212.1.1 = {
+		birth = 212.1.1
+	}
+	270.1.1 = {
+		death = 270.1.1
+	}
+	dynasty = 168
+}
+
+856 = {
+	name = elisabet
+	culture = english
+	religion = cathar
+	female = yes
+	189.1.1 = {
+		birth = 189.1.1
+	}
+	251.1.1 = {
+		death = 251.1.1
+	}
+	dynasty = 169
+}
+
+857 = {
+	name = gerhard
+	culture = english
+	religion = cathar
+	185.1.1 = {
+		birth = 185.1.1
+	}
+	248.1.1 = {
+		death = 248.1.1
+	}
+	dynasty = 168
+}
+
+858 = {
+	name = magdalena
+	culture = english
+	religion = cathar
+	female = yes
+	214.1.1 = {
+		birth = 214.1.1
+	}
+	268.1.1 = {
+		death = 268.1.1
+	}
+	dynasty = 170
+}
+
+859 = {
+	name = ulrich
+	culture = english
+	religion = cathar
+	188.1.1 = {
+		birth = 188.1.1
+	}
+	252.1.1 = {
+		death = 252.1.1
+	}
+	dynasty = 167
+}
+
+860 = {
+	name = ruzgar
+	culture = english
+	religion = cathar
+	277.1.1 = {
+		birth = 277.1.1
+	}
+	377.1.1 = {
+		death = 377.1.1
+	}
+	dynasty = 171
+}
+
+861 = {
+	name = clarissa
+	culture = english
+	religion = cathar
+	female = yes
+	231.1.1 = {
+		birth = 231.1.1
+	}
+	331.1.1 = {
+		death = 331.1.1
+	}
+	dynasty = 172
+}
+
+862 = {
+	name = edmund
+	culture = english
+	religion = cathar
+	228.1.1 = {
+		birth = 228.1.1
+	}
+	276.1.1 = {
+		death = 276.1.1
+	}
+	dynasty = 173
+}
+
+863 = {
+	name = thurnolf
+	culture = english
+	religion = cathar
+	253.1.1 = {
+		birth = 253.1.1
+	}
+	353.1.1 = {
+		death = 353.1.1
+	}
+	dynasty = 173
+	mother = 861
+	father = 862
+}
+
+864 = {
+	name = maessa
+	culture = english
+	religion = cathar
+	female = yes
+	253.1.1 = {
+		birth = 253.1.1
+	}
+	353.1.1 = {
+		death = 353.1.1
+	}
+	dynasty = 174
+}
+
+865 = {
+	name = theadora
+	culture = english
+	religion = cathar
+	female = yes
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 173
+	mother = 864
+	father = 863
+}
+
+866 = {
+	name = abelhard
+	culture = english
+	religion = cathar
+	279.1.1 = {
+		birth = 279.1.1
+	}
+	379.1.1 = {
+		death = 379.1.1
+	}
+	dynasty = 173
+	mother = 864
+	father = 863
+}
+
+867 = {
+	name = esther
+	culture = english
+	religion = cathar
+	female = yes
+	311.1.1 = {
+		birth = 311.1.1
+	}
+	411.1.1 = {
+		death = 411.1.1
+	}
+	dynasty = 173
+	father = 866
+}
+
+868 = {
+	name = aelfric
+	culture = english
+	religion = cathar
+	309.1.1 = {
+		birth = 309.1.1
+	}
+	409.1.1 = {
+		death = 409.1.1
+	}
+	dynasty = 173
+	father = 866
+}
+
+869 = {
+	name = leopold
+	culture = english
+	religion = cathar
+	280.1.1 = {
+		birth = 280.1.1
+	}
+	380.1.1 = {
+		death = 380.1.1
+	}
+	dynasty = 173
+	mother = 864
+	father = 863
+}
+
+870 = {
+	name = caspian
+	culture = english
+	religion = cathar
+	299.1.1 = {
+		birth = 299.1.1
+	}
+	399.1.1 = {
+		death = 399.1.1
+	}
+	dynasty = 173
+	father = 869
+}
+
+871 = {
+	name = georgina-ruth
+	culture = english
+	religion = cathar
+	female = yes
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 173
+	mother = 864
+	father = 863
+}
+
+872 = {
+	name = james-charles
+	culture = english
+	religion = cathar
+	281.1.1 = {
+		birth = 281.1.1
+	}
+	301.1.1 = {
+		death = 301.1.1
+	}
+	dynasty = 173
+	mother = 864
+	father = 863
+}
+
+873 = {
+	name = lars-alexander
+	culture = english
+	religion = cathar
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 173
+	mother = 864
+	father = 863
+}
+
+874 = {
+	name = ida-mae
+	culture = english
+	religion = cathar
+	female = yes
+	296.1.1 = {
+		birth = 296.1.1
+	}
+	396.1.1 = {
+		death = 396.1.1
+	}
+	dynasty = 173
+	mother = 864
+	father = 863
+}
+
+875 = {
+	name = karina
+	culture = english
+	religion = cathar
+	female = yes
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 173
+	mother = 864
+	father = 863
+}
+
+876 = {
+	name = frederick
+	culture = english
+	religion = cathar
+	264.1.1 = {
+		birth = 264.1.1
+	}
+	364.1.1 = {
+		death = 364.1.1
+	}
+	dynasty = 173
+	mother = 861
+	father = 862
+}
+
+877 = {
+	name = bernadette
+	culture = english
+	religion = cathar
+	female = yes
+	251.1.1 = {
+		birth = 251.1.1
+	}
+	351.1.1 = {
+		death = 351.1.1
+	}
+	dynasty = 175
+}
+
+878 = {
+	name = william
+	culture = english
+	religion = cathar
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	358.1.1 = {
+		death = 358.1.1
+	}
+	dynasty = 173
+	mother = 861
+	father = 862
+}
+
+879 = {
+	name = thomas
+	culture = english
+	religion = cathar
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 173
+	mother = 877
+	father = 878
+}
+
+880 = {
+	name = alexandra
+	culture = english
+	religion = cathar
+	female = yes
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 173
+	mother = 877
+	father = 878
+}
+
+881 = {
+	name = bethany
+	culture = english
+	religion = cathar
+	female = yes
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 173
+	mother = 877
+	father = 878
+}
+
+882 = {
+	name = isaac
+	culture = english
+	religion = cathar
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 173
+	mother = 877
+	father = 878
+}
+
+883 = {
+	name = beatrice
+	culture = english
+	religion = cathar
+	female = yes
+	263.1.1 = {
+		birth = 263.1.1
+	}
+	363.1.1 = {
+		death = 363.1.1
+	}
+	dynasty = 176
+}
+
+884 = {
+	name = luther
+	culture = english
+	religion = cathar
+	263.1.1 = {
+		birth = 263.1.1
+	}
+	305.1.1 = {
+		death = 305.1.1
+	}
+	dynasty = 173
+	mother = 861
+	father = 862
+}
+
+885 = {
+	name = peter
+	culture = english
+	religion = cathar
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 173
+	mother = 883
+	father = 884
+}
+
+886 = {
+	name = colleen
+	culture = english
+	religion = cathar
+	female = yes
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 173
+	mother = 883
+	father = 884
+}
+
+887 = {
+	name = michael
+	culture = english
+	religion = cathar
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 173
+	mother = 883
+	father = 884
+}
+
+888 = {
+	name = agustine
+	culture = english
+	religion = cathar
+	267.1.1 = {
+		birth = 267.1.1
+	}
+	367.1.1 = {
+		death = 367.1.1
+	}
+	dynasty = 173
+	mother = 861
+	father = 862
+}
+
+889 = {
+	name = robert
+	culture = english
+	religion = cathar
+	299.1.1 = {
+		birth = 299.1.1
+	}
+	399.1.1 = {
+		death = 399.1.1
+	}
+	dynasty = 173
+	father = 888
+}
+
+890 = {
+	name = verger
+	culture = english
+	religion = cathar
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
+	dynasty = 177
+}
+
+891 = {
+	name = lisette
+	culture = english
+	religion = cathar
+	female = yes
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 178
+}
+
+892 = {
+	name = sophia
+	culture = english
+	religion = cathar
+	female = yes
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 179
+}
+
+893 = {
+	name = sigfrid
+	culture = english
+	religion = cathar
+	275.1.1 = {
+		birth = 275.1.1
+	}
+	375.1.1 = {
+		death = 375.1.1
+	}
+	dynasty = 180
+}
+
+894 = {
+	name = izel
+	culture = english
+	religion = cathar
+	female = yes
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 181
+}
+
+895 = {
+	name = charles
+	culture = english
+	religion = cathar
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 182
+}
+
+896 = {
+	name = nadiya
+	culture = english
+	religion = cathar
+	female = yes
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 183
+}
+
+897 = {
+	name = charles
+	culture = english
+	religion = cathar
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 184
+}
+
+898 = {
+	name = krieger
+	culture = english
+	religion = cathar
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 185
+}
+
+899 = {
+	name = jannick
+	culture = english
+	religion = cathar
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 186
+}
+
+900 = {
+	name = suvitril
+	culture = english
+	religion = cathar
+	female = yes
+	253.1.1 = {
+		birth = 253.1.1
+	}
+	353.1.1 = {
+		death = 353.1.1
+	}
+	dynasty = 187
+}
+
+901 = {
+	name = severus
+	culture = english
+	religion = cathar
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 188
+}
+
+902 = {
+	name = victoire
+	culture = english
+	religion = cathar
+	female = yes
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 189
+}
+
+903 = {
+	name = theodric
+	culture = english
+	religion = cathar
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 190
+}
+
+904 = {
+	name = almar
+	culture = english
+	religion = cathar
+	281.1.1 = {
+		birth = 281.1.1
+	}
+	381.1.1 = {
+		death = 381.1.1
+	}
+	dynasty = 191
+}
+
+905 = {
+	name = kalu
+	culture = english
+	religion = cathar
+	296.1.1 = {
+		birth = 296.1.1
+	}
+	396.1.1 = {
+		death = 396.1.1
+	}
+	dynasty = 192
+}
+
+906 = {
+	name = amber
+	culture = english
+	religion = cathar
+	female = yes
+	291.1.1 = {
+		birth = 291.1.1
+	}
+	391.1.1 = {
+		death = 391.1.1
+	}
+	dynasty = 193
+}
+
+907 = {
+	name = nefertath
+	culture = english
+	religion = cathar
+	female = yes
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 194
+}
+
+908 = {
+	name = roulain
+	culture = english
+	religion = cathar
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 195
+}
+
+909 = {
+	name = nefer
+	culture = english
+	religion = cathar
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 196
+}
+
+910 = {
+	name = fiora
+	culture = english
+	religion = cathar
+	female = yes
+	282.1.1 = {
+		birth = 282.1.1
+	}
+	382.1.1 = {
+		death = 382.1.1
+	}
+	dynasty = 197
+}
+
+911 = {
+	name = francisca
+	culture = english
+	religion = cathar
+	female = yes
+	282.1.1 = {
+		birth = 282.1.1
+	}
+	382.1.1 = {
+		death = 382.1.1
+	}
+	dynasty = 198
+}
+
+912 = {
+	name = marak
+	culture = english
+	religion = cathar
+	282.1.1 = {
+		birth = 282.1.1
+	}
+	382.1.1 = {
+		death = 382.1.1
+	}
+	dynasty = 199
+}
+
+913 = {
+	name = yahra
+	culture = english
+	religion = cathar
+	female = yes
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 200
+}
+
+914 = {
+	name = lao
+	culture = english
+	religion = cathar
+	248.1.1 = {
+		birth = 248.1.1
+	}
+	348.1.1 = {
+		death = 348.1.1
+	}
+	dynasty = 201
+}
+
+915 = {
+	name = jocelyn
+	culture = english
+	religion = cathar
+	female = yes
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 202
+}
+
+916 = {
+	name = lieven
+	culture = english
+	religion = cathar
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	385.1.1 = {
+		death = 385.1.1
+	}
+	dynasty = 203
+}
+
+917 = {
+	name = wilhelm
+	culture = english
+	religion = cathar
+	274.1.1 = {
+		birth = 274.1.1
+	}
+	374.1.1 = {
+		death = 374.1.1
+	}
+	dynasty = 204
+}
+
+918 = {
+	name = hera
+	culture = english
+	religion = cathar
+	female = yes
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 205
+	father = 397
+}
+
+919 = {
+	name = bonavent
+	culture = english
+	religion = cathar
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 206
+}
+
+920 = {
+	name = madelyn
+	culture = english
+	religion = cathar
+	female = yes
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 207
+}
+
+921 = {
+	name = virathus
+	culture = english
+	religion = cathar
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 208
+}
+
+922 = {
+	name = dorothios
+	culture = english
+	religion = cathar
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 209
+}
+
+923 = {
+	name = halewise
+	culture = english
+	religion = cathar
+	280.1.1 = {
+		birth = 280.1.1
+	}
+	380.1.1 = {
+		death = 380.1.1
+	}
+	dynasty = 210
+}
+
+924 = {
+	name = mariella
+	culture = english
+	religion = cathar
+	female = yes
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 211
+}
+
+925 = {
+	name = lamont
+	culture = english
+	religion = cathar
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 212
+}
+
+926 = {
+	name = willem
+	culture = english
+	religion = cathar
+	254.1.1 = {
+		birth = 254.1.1
+	}
+	354.1.1 = {
+		death = 354.1.1
+	}
+	dynasty = 212
+}
+
+927 = {
+	name = thomas
+	culture = english
+	religion = cathar
+	248.1.1 = {
+		birth = 248.1.1
+	}
+	348.1.1 = {
+		death = 348.1.1
+	}
+	dynasty = 213
+}
+
+928 = {
+	name = lucien
+	culture = english
+	religion = cathar
+	242.1.1 = {
+		birth = 242.1.1
+	}
+	342.1.1 = {
+		death = 342.1.1
+	}
+	dynasty = 214
+}
+
+929 = {
+	name = pierre
+	culture = english
+	religion = cathar
+	237.1.1 = {
+		birth = 237.1.1
+	}
+	337.1.1 = {
+		death = 337.1.1
+	}
+	dynasty = 215
+}
+
+930 = {
+	name = aerandir
+	culture = english
+	religion = cathar
+	259.1.1 = {
+		birth = 259.1.1
+	}
+	359.1.1 = {
+		death = 359.1.1
+	}
+	dynasty = 216
+}
+
+931 = {
+	name = hendrik
+	culture = english
+	religion = cathar
+	233.1.1 = {
+		birth = 233.1.1
+	}
+	333.1.1 = {
+		death = 333.1.1
+	}
+	dynasty = 217
+}
+
+932 = {
+	name = thalion
+	culture = english
+	religion = cathar
+	251.1.1 = {
+		birth = 251.1.1
+	}
+	351.1.1 = {
+		death = 351.1.1
+	}
+	dynasty = 218
+}
+
+933 = {
+	name = calenor
+	culture = english
+	religion = cathar
+	240.1.1 = {
+		birth = 240.1.1
+	}
+	340.1.1 = {
+		death = 340.1.1
+	}
+	dynasty = 219
+}
+
+934 = {
+	name = joris
+	culture = english
+	religion = cathar
+	226.1.1 = {
+		birth = 226.1.1
+	}
+	326.1.1 = {
+		death = 326.1.1
+	}
+	dynasty = 220
+}
+
+935 = {
+	name = erik
+	culture = english
+	religion = cathar
+	244.1.1 = {
+		birth = 244.1.1
+	}
+	344.1.1 = {
+		death = 344.1.1
+	}
+	dynasty = 221
+}
+
+936 = {
+	name = milan
+	culture = english
+	religion = cathar
+	238.1.1 = {
+		birth = 238.1.1
+	}
+	338.1.1 = {
+		death = 338.1.1
+	}
+	dynasty = 222
+}
+
+937 = {
+	name = alistair
+	culture = english
+	religion = cathar
+	231.1.1 = {
+		birth = 231.1.1
+	}
+	331.1.1 = {
+		death = 331.1.1
+	}
+	dynasty = 223
+}
+
+938 = {
+	name = nikolas
+	culture = english
+	religion = cathar
+	256.1.1 = {
+		birth = 256.1.1
+	}
+	356.1.1 = {
+		death = 356.1.1
+	}
+	dynasty = 224
+}
+
+939 = {
+	name = oleg
+	culture = english
+	religion = cathar
+	229.1.1 = {
+		birth = 229.1.1
+	}
+	329.1.1 = {
+		death = 329.1.1
+	}
+	dynasty = 225
+}
+
+940 = {
+	name = edward
+	culture = english
+	religion = cathar
+	247.1.1 = {
+		birth = 247.1.1
+	}
+	347.1.1 = {
+		death = 347.1.1
+	}
+	dynasty = 226
+}
+
+941 = {
+	name = robert
+	culture = english
+	religion = cathar
+	220.1.1 = {
+		birth = 220.1.1
+	}
+	320.1.1 = {
+		death = 320.1.1
+	}
+	dynasty = 227
+}
+
+942 = {
+	name = cormac
+	culture = english
+	religion = cathar
+	252.1.1 = {
+		birth = 252.1.1
+	}
+	352.1.1 = {
+		death = 352.1.1
+	}
+	dynasty = 228
+}
+
+943 = {
+	name = henry
+	culture = english
+	religion = cathar
+	234.1.1 = {
+		birth = 234.1.1
+	}
+	334.1.1 = {
+		death = 334.1.1
+	}
+	dynasty = 229
+}
+
+944 = {
+	name = james
+	culture = english
+	religion = cathar
+	245.1.1 = {
+		birth = 245.1.1
+	}
+	345.1.1 = {
+		death = 345.1.1
+	}
+	dynasty = 230
+}
+
+945 = {
+	name = viktor
+	culture = english
+	religion = cathar
+	222.1.1 = {
+		birth = 222.1.1
+	}
+	322.1.1 = {
+		death = 322.1.1
+	}
+	dynasty = 231
+}
+
+946 = {
+	name = lukas
+	culture = english
+	religion = cathar
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	358.1.1 = {
+		death = 358.1.1
+	}
+	dynasty = 232
+}
+
+947 = {
+	name = fergus
+	culture = english
+	religion = cathar
+	236.1.1 = {
+		birth = 236.1.1
+	}
+	336.1.1 = {
+		death = 336.1.1
+	}
+	dynasty = 233
+}
+
+948 = {
+	name = andreas
+	culture = english
+	religion = cathar
+	249.1.1 = {
+		birth = 249.1.1
+	}
+	349.1.1 = {
+		death = 349.1.1
+	}
+	dynasty = 234
+}
+
+949 = {
+	name = richard
+	culture = english
+	religion = cathar
+	224.1.1 = {
+		birth = 224.1.1
+	}
+	324.1.1 = {
+		death = 324.1.1
+	}
+	dynasty = 235
+}
+
+950 = {
+	name = samuel
+	culture = english
+	religion = cathar
+	253.1.1 = {
+		birth = 253.1.1
+	}
+	353.1.1 = {
+		death = 353.1.1
+	}
+	dynasty = 236
+}
+
+951 = {
+	name = daniel
+	culture = english
+	religion = cathar
+	239.1.1 = {
+		birth = 239.1.1
+	}
+	339.1.1 = {
+		death = 339.1.1
+	}
+	dynasty = 237
+}
+
+952 = {
+	name = bjorn
+	culture = english
+	religion = cathar
+	227.1.1 = {
+		birth = 227.1.1
+	}
+	327.1.1 = {
+		death = 327.1.1
+	}
+	dynasty = 238
+}
+
+953 = {
+	name = mateo
+	culture = english
+	religion = cathar
+	241.1.1 = {
+		birth = 241.1.1
+	}
+	341.1.1 = {
+		death = 341.1.1
+	}
+	dynasty = 239
+}
+
+954 = {
+	name = ronan
+	culture = english
+	religion = cathar
+	232.1.1 = {
+		birth = 232.1.1
+	}
+	332.1.1 = {
+		death = 332.1.1
+	}
+	dynasty = 240
+}
+
+955 = {
+	name = joao
+	culture = english
+	religion = cathar
+	255.1.1 = {
+		birth = 255.1.1
+	}
+	355.1.1 = {
+		death = 355.1.1
+	}
+	dynasty = 241
+}
+
+956 = {
+	name = leonidas
+	culture = english
+	religion = cathar
+	246.1.1 = {
+		birth = 246.1.1
+	}
+	346.1.1 = {
+		death = 346.1.1
+	}
+	dynasty = 242
+}
+
+957 = {
+	name = theron
+	culture = english
+	religion = cathar
+	221.1.1 = {
+		birth = 221.1.1
+	}
+	321.1.1 = {
+		death = 321.1.1
+	}
+	dynasty = 243
+}
+
+958 = {
+	name = arthur
+	culture = english
+	religion = cathar
+	250.1.1 = {
+		birth = 250.1.1
+	}
+	350.1.1 = {
+		death = 350.1.1
+	}
+	dynasty = 244
+}
+
+959 = {
+	name = marcus
+	culture = english
+	religion = cathar
+	237.1.1 = {
+		birth = 237.1.1
+	}
+	337.1.1 = {
+		death = 337.1.1
+	}
+	dynasty = 245
+}
+
+960 = {
+	name = stephen
+	culture = english
+	religion = cathar
+	243.1.1 = {
+		birth = 243.1.1
+	}
+	343.1.1 = {
+		death = 343.1.1
+	}
+	dynasty = 246
+}
+
+961 = {
+	name = martin
+	culture = english
+	religion = cathar
+	230.1.1 = {
+		birth = 230.1.1
+	}
+	330.1.1 = {
+		death = 330.1.1
+	}
+	dynasty = 247
+}
+
+962 = {
+	name = amadou
+	culture = english
+	religion = cathar
+	254.1.1 = {
+		birth = 254.1.1
+	}
+	354.1.1 = {
+		death = 354.1.1
+	}
+	dynasty = 248
+}
+
+963 = {
+	name = boubacar
+	culture = english
+	religion = cathar
+	228.1.1 = {
+		birth = 228.1.1
+	}
+	328.1.1 = {
+		death = 328.1.1
+	}
+	dynasty = 249
+}
+
+964 = {
+	name = hroldin
+	culture = english
+	religion = cathar
+	219.1.1 = {
+		birth = 219.1.1
+	}
+	319.1.1 = {
+		death = 319.1.1
+	}
+	dynasty = 250
+}
+
+965 = {
+	name = edwin
+	culture = english
+	religion = cathar
+	257.1.1 = {
+		birth = 257.1.1
+	}
+	357.1.1 = {
+		death = 357.1.1
+	}
+	dynasty = 251
+}
+
+966 = {
+	name = edemere
+	culture = english
+	religion = cathar
+	244.1.1 = {
+		birth = 244.1.1
+	}
+	344.1.1 = {
+		death = 344.1.1
+	}
+	dynasty = 252
+}
+
+967 = {
+	name = karim
+	culture = english
+	religion = cathar
+	233.1.1 = {
+		birth = 233.1.1
+	}
+	333.1.1 = {
+		death = 333.1.1
+	}
+	dynasty = 253
+}
+
+968 = {
+	name = rashid
+	culture = english
+	religion = cathar
+	226.1.1 = {
+		birth = 226.1.1
+	}
+	326.1.1 = {
+		death = 326.1.1
+	}
+	dynasty = 254
+}
+
+969 = {
+	name = nathaniel
+	culture = english
+	religion = cathar
+	248.1.1 = {
+		birth = 248.1.1
+	}
+	348.1.1 = {
+		death = 348.1.1
+	}
+	dynasty = 255
+}
+
+970 = {
+	name = oliver
+	culture = english
+	religion = cathar
+	240.1.1 = {
+		birth = 240.1.1
+	}
+	340.1.1 = {
+		death = 340.1.1
+	}
+	dynasty = 256
+}
+
+971 = {
+	name = faelar
+	culture = english
+	religion = cathar
+	259.1.1 = {
+		birth = 259.1.1
+	}
+	359.1.1 = {
+		death = 359.1.1
+	}
+	dynasty = 257
+}
+
+972 = {
+	name = edward
+	culture = english
+	religion = cathar
+	235.1.1 = {
+		birth = 235.1.1
+	}
+	335.1.1 = {
+		death = 335.1.1
+	}
+	dynasty = 258
+}
+
+973 = {
+	name = william
+	culture = english
+	religion = cathar
+	246.1.1 = {
+		birth = 246.1.1
+	}
+	346.1.1 = {
+		death = 346.1.1
+	}
+	dynasty = 259
+}
+
+974 = {
+	name = marcel
+	culture = english
+	religion = cathar
+	223.1.1 = {
+		birth = 223.1.1
+	}
+	323.1.1 = {
+		death = 323.1.1
+	}
+	dynasty = 260
+}
+
+975 = {
+	name = antoine
+	culture = english
+	religion = cathar
+	252.1.1 = {
+		birth = 252.1.1
+	}
+	352.1.1 = {
+		death = 352.1.1
+	}
+	dynasty = 261
+}
+
+976 = {
+	name = elarion
+	culture = english
+	religion = cathar
+	238.1.1 = {
+		birth = 238.1.1
+	}
+	338.1.1 = {
+		death = 338.1.1
+	}
+	dynasty = 262
+}
+
+977 = {
+	name = pieter
+	culture = english
+	religion = cathar
+	229.1.1 = {
+		birth = 229.1.1
+	}
+	329.1.1 = {
+		death = 329.1.1
+	}
+	dynasty = 263
+}
+
+978 = {
+	name = lorandel
+	culture = english
+	religion = cathar
+	247.1.1 = {
+		birth = 247.1.1
+	}
+	347.1.1 = {
+		death = 347.1.1
+	}
+	dynasty = 264
+}
+
+979 = {
+	name = vaelis
+	culture = english
+	religion = cathar
+	241.1.1 = {
+		birth = 241.1.1
+	}
+	341.1.1 = {
+		death = 341.1.1
+	}
+	dynasty = 265
+}
+
+980 = {
+	name = maarten
+	culture = english
+	religion = cathar
+	234.1.1 = {
+		birth = 234.1.1
+	}
+	334.1.1 = {
+		death = 334.1.1
+	}
+	dynasty = 266
+}
+
+981 = {
+	name = soren
+	culture = english
+	religion = cathar
+	255.1.1 = {
+		birth = 255.1.1
+	}
+	355.1.1 = {
+		death = 355.1.1
+	}
+	dynasty = 267
+}
+
+982 = {
+	name = radek
+	culture = english
+	religion = cathar
+	236.1.1 = {
+		birth = 236.1.1
+	}
+	336.1.1 = {
+		death = 336.1.1
+	}
+	dynasty = 268
+}
+
+983 = {
+	name = duncan
+	culture = english
+	religion = cathar
+	222.1.1 = {
+		birth = 222.1.1
+	}
+	322.1.1 = {
+		death = 322.1.1
+	}
+	dynasty = 269
+}
+
+984 = {
+	name = alexandros
+	culture = english
+	religion = cathar
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	358.1.1 = {
+		death = 358.1.1
+	}
+	dynasty = 270
+}
+
+985 = {
+	name = taras
+	culture = english
+	religion = cathar
+	230.1.1 = {
+		birth = 230.1.1
+	}
+	330.1.1 = {
+		death = 330.1.1
+	}
+	dynasty = 271
+}
+
+986 = {
+	name = charles
+	culture = english
+	religion = cathar
+	249.1.1 = {
+		birth = 249.1.1
+	}
+	349.1.1 = {
+		death = 349.1.1
+	}
+	dynasty = 272
+}
+
+987 = {
+	name = gregory
+	culture = english
+	religion = cathar
+	221.1.1 = {
+		birth = 221.1.1
+	}
+	321.1.1 = {
+		death = 321.1.1
+	}
+	dynasty = 273
+}
+
+988 = {
+	name = seamus
+	culture = english
+	religion = cathar
+	253.1.1 = {
+		birth = 253.1.1
+	}
+	353.1.1 = {
+		death = 353.1.1
+	}
+	dynasty = 274
+}
+
+989 = {
+	name = philip
+	culture = english
+	religion = cathar
+	239.1.1 = {
+		birth = 239.1.1
+	}
+	339.1.1 = {
+		death = 339.1.1
+	}
+	dynasty = 275
+}
+
+990 = {
+	name = andrew
+	culture = english
+	religion = cathar
+	244.1.1 = {
+		birth = 244.1.1
+	}
+	344.1.1 = {
+		death = 344.1.1
+	}
+	dynasty = 276
+}
+
+991 = {
+	name = mykola
+	culture = english
+	religion = cathar
+	227.1.1 = {
+		birth = 227.1.1
+	}
+	327.1.1 = {
+		death = 327.1.1
+	}
+	dynasty = 277
+}
+
+992 = {
+	name = matthias
+	culture = english
+	religion = cathar
+	256.1.1 = {
+		birth = 256.1.1
+	}
+	356.1.1 = {
+		death = 356.1.1
+	}
+	dynasty = 278
+}
+
+993 = {
+	name = callum
+	culture = english
+	religion = cathar
+	235.1.1 = {
+		birth = 235.1.1
+	}
+	335.1.1 = {
+		death = 335.1.1
+	}
+	dynasty = 279
+}
+
+994 = {
+	name = demetrios
+	culture = english
+	religion = cathar
+	248.1.1 = {
+		birth = 248.1.1
+	}
+	348.1.1 = {
+		death = 348.1.1
+	}
+	dynasty = 280
+}
+
+995 = {
+	name = jonathan
+	culture = english
+	religion = cathar
+	224.1.1 = {
+		birth = 224.1.1
+	}
+	324.1.1 = {
+		death = 324.1.1
+	}
+	dynasty = 281
+}
+
+996 = {
+	name = benjamin
+	culture = english
+	religion = cathar
+	252.1.1 = {
+		birth = 252.1.1
+	}
+	352.1.1 = {
+		death = 352.1.1
+	}
+	dynasty = 282
+}
+
+997 = {
+	name = matthew
+	culture = english
+	religion = cathar
+	237.1.1 = {
+		birth = 237.1.1
+	}
+	337.1.1 = {
+		death = 337.1.1
+	}
+	dynasty = 283
+}
+
+998 = {
+	name = torvald
+	culture = english
+	religion = cathar
+	220.1.1 = {
+		birth = 220.1.1
+	}
+	320.1.1 = {
+		death = 320.1.1
+	}
+	dynasty = 284
+}
+
+999 = {
+	name = diego
+	culture = english
+	religion = cathar
+	254.1.1 = {
+		birth = 254.1.1
+	}
+	354.1.1 = {
+		death = 354.1.1
+	}
+	dynasty = 285
+}
+
+1000 = {
+	name = fionn
+	culture = english
+	religion = cathar
+	231.1.1 = {
+		birth = 231.1.1
+	}
+	331.1.1 = {
+		death = 331.1.1
+	}
+	dynasty = 286
+}
+
+1001 = {
+	name = miguel
+	culture = english
+	religion = cathar
+	245.1.1 = {
+		birth = 245.1.1
+	}
+	345.1.1 = {
+		death = 345.1.1
+	}
+	dynasty = 287
+}
+
+1002 = {
+	name = stephanos
+	culture = english
+	religion = cathar
+	238.1.1 = {
+		birth = 238.1.1
+	}
+	338.1.1 = {
+		death = 338.1.1
+	}
+	dynasty = 288
+}
+
+1003 = {
+	name = kyros
+	culture = english
+	religion = cathar
+	226.1.1 = {
+		birth = 226.1.1
+	}
+	326.1.1 = {
+		death = 326.1.1
+	}
+	dynasty = 289
+}
+
+1004 = {
+	name = harold
+	culture = english
+	religion = cathar
+	249.1.1 = {
+		birth = 249.1.1
+	}
+	349.1.1 = {
+		death = 349.1.1
+	}
+	dynasty = 290
+}
+
+1005 = {
+	name = victor
+	culture = english
+	religion = cathar
+	233.1.1 = {
+		birth = 233.1.1
+	}
+	333.1.1 = {
+		death = 333.1.1
+	}
+	dynasty = 291
+}
+
+1006 = {
+	name = leonard
+	culture = english
+	religion = cathar
+	257.1.1 = {
+		birth = 257.1.1
+	}
+	357.1.1 = {
+		death = 357.1.1
+	}
+	dynasty = 292
+}
+
+1007 = {
+	name = stefan
+	culture = english
+	religion = cathar
+	240.1.1 = {
+		birth = 240.1.1
+	}
+	340.1.1 = {
+		death = 340.1.1
+	}
+	dynasty = 293
+}
+
+1008 = {
+	name = mamadou
+	culture = english
+	religion = cathar
+	222.1.1 = {
+		birth = 222.1.1
+	}
+	322.1.1 = {
+		death = 322.1.1
+	}
+	dynasty = 294
+}
+
+1009 = {
+	name = issa
+	culture = english
+	religion = cathar
+	251.1.1 = {
+		birth = 251.1.1
+	}
+	351.1.1 = {
+		death = 351.1.1
+	}
+	dynasty = 295
+}
+
+1010 = {
+	name = brottin
+	culture = english
+	religion = cathar
+	229.1.1 = {
+		birth = 229.1.1
+	}
+	329.1.1 = {
+		death = 329.1.1
+	}
+	dynasty = 296
+}
+
+1011 = {
+	name = simon
+	culture = english
+	religion = cathar
+	246.1.1 = {
+		birth = 246.1.1
+	}
+	346.1.1 = {
+		death = 346.1.1
+	}
+	dynasty = 297
+}
+
+1012 = {
+	name = mareda
+	culture = english
+	religion = cathar
+	235.1.1 = {
+		birth = 235.1.1
+	}
+	335.1.1 = {
+		death = 335.1.1
+	}
+	dynasty = 298
+}
+
+1013 = {
+	name = youssef
+	culture = english
+	religion = cathar
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	358.1.1 = {
+		death = 358.1.1
+	}
+	dynasty = 299
+}
+
+1014 = {
+	name = hassan
+	culture = english
+	religion = cathar
+	241.1.1 = {
+		birth = 241.1.1
+	}
+	341.1.1 = {
+		death = 341.1.1
+	}
+	dynasty = 300
+}
+
+1015 = {
+	name = elias
+	culture = english
+	religion = cathar
+	230.1.1 = {
+		birth = 230.1.1
+	}
+	330.1.1 = {
+		death = 330.1.1
+	}
+	dynasty = 301
+}
+
+1016 = {
+	name = thomas
+	culture = english
+	religion = cathar
+	252.1.1 = {
+		birth = 252.1.1
+	}
+	352.1.1 = {
+		death = 352.1.1
+	}
+	dynasty = 302
+}
+
+1017 = {
+	name = sylvaren
+	culture = english
+	religion = cathar
+	244.1.1 = {
+		birth = 244.1.1
+	}
+	344.1.1 = {
+		death = 344.1.1
+	}
+	dynasty = 303
+}
+
+1018 = {
+	name = jan
+	culture = english
+	religion = cathar
+	260.1.1 = {
+		birth = 260.1.1
+	}
+	360.1.1 = {
+		death = 360.1.1
+	}
+	dynasty = 304
+}
+
+1019 = {
+	name = anna
+	culture = english
+	religion = cathar
+	female = yes
+	262.1.1 = {
+		birth = 262.1.1
+	}
+	362.1.1 = {
+		death = 362.1.1
+	}
+	dynasty = 305
+}
+
+1020 = {
+	name = pieter
+	culture = english
+	religion = cathar
+	264.1.1 = {
+		birth = 264.1.1
+	}
+	364.1.1 = {
+		death = 364.1.1
+	}
+	dynasty = 306
+}
+
+1021 = {
+	name = hendrik
+	culture = english
+	religion = cathar
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 307
+}
+
+1022 = {
+	name = katrijn
+	culture = english
+	religion = cathar
+	female = yes
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
+	dynasty = 308
+}
+
+1023 = {
+	name = erik
+	culture = english
+	religion = cathar
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 309
+}
+
+1024 = {
+	name = leif
+	culture = english
+	religion = cathar
+	272.1.1 = {
+		birth = 272.1.1
+	}
+	372.1.1 = {
+		death = 372.1.1
+	}
+	dynasty = 310
+}
+
+1025 = {
+	name = harald
+	culture = english
+	religion = cathar
+	274.1.1 = {
+		birth = 274.1.1
+	}
+	374.1.1 = {
+		death = 374.1.1
+	}
+	dynasty = 311
+}
+
+1026 = {
+	name = ingrid
+	culture = english
+	religion = cathar
+	female = yes
+	276.1.1 = {
+		birth = 276.1.1
+	}
+	376.1.1 = {
+		death = 376.1.1
+	}
+	dynasty = 312
+}
+
+1027 = {
+	name = sigrid
+	culture = english
+	religion = cathar
+	female = yes
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 313
 }

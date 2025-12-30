@@ -1,0 +1,6 @@
+title = c_tasartio
+max_settlements = 2
+culture = english
+religion = cathar
+b_tasartio = tribal
+b_tasartio2 = temple

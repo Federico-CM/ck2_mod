@@ -1,0 +1,6 @@
+title = c_donvarene
+max_settlements = 2
+culture = english
+religion = cathar
+b_donvarene = tribal
+b_donvarene2 = temple

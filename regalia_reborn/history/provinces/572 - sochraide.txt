@@ -1,0 +1,6 @@
+title = c_sochraide
+max_settlements = 2
+culture = english
+religion = cathar
+b_sochraide = tribal
+b_sochraide2 = temple

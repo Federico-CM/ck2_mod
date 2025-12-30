@@ -1,0 +1,6 @@
+title = c_guemps
+max_settlements = 2
+culture = english
+religion = cathar
+b_guemps = tribal
+b_guemps2 = temple

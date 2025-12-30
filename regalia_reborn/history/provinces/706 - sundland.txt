@@ -1,0 +1,6 @@
+title = c_sundland
+max_settlements = 2
+culture = english
+religion = cathar
+b_sundland = tribal
+b_sundland2 = temple

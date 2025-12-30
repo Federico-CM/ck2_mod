@@ -1,0 +1,6 @@
+title = c_muromorsk
+max_settlements = 2
+culture = english
+religion = cathar
+b_muromorsk = tribal
+b_muromorsk2 = temple

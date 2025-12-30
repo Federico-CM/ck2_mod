@@ -1,0 +1,6 @@
+title = c_piomba
+max_settlements = 2
+culture = english
+religion = cathar
+b_piomba = tribal
+b_piomba2 = temple

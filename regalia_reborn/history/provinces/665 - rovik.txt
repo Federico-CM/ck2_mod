@@ -1,0 +1,6 @@
+title = c_rovik
+max_settlements = 2
+culture = english
+religion = cathar
+b_rovik = tribal
+b_rovik2 = temple

@@ -1,0 +1,6 @@
+title = c_altenburg
+max_settlements = 2
+culture = english
+religion = cathar
+b_altenburg = tribal
+b_altenburg2 = temple

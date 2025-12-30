@@ -1,0 +1,6 @@
+title = c_paduavena
+max_settlements = 2
+culture = english
+religion = cathar
+b_paduavena = tribal
+b_paduavena2 = temple

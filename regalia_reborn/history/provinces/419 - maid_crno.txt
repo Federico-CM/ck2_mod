@@ -1,0 +1,6 @@
+title = c_maid_crno
+max_settlements = 2
+culture = english
+religion = cathar
+b_maid_crno = tribal
+b_maid_crno2 = temple

@@ -1,0 +1,6 @@
+title = c_novolgar
+max_settlements = 2
+culture = english
+religion = cathar
+b_novolgar = tribal
+b_novolgar2 = temple

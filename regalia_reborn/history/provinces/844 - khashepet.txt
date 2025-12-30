@@ -1,0 +1,6 @@
+title = c_khashepet
+max_settlements = 2
+culture = english
+religion = cathar
+b_khashepet = tribal
+b_khashepet2 = temple

@@ -1,0 +1,6 @@
+title = c_tilletcastle
+max_settlements = 2
+culture = english
+religion = cathar
+b_tilletcastle = tribal
+b_tilletcastle2 = temple

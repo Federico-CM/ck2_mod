@@ -1,0 +1,6 @@
+title = c_boss_herze
+max_settlements = 2
+culture = english
+religion = cathar
+b_boss_herze = tribal
+b_boss_herze2 = temple

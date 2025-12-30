@@ -1,0 +1,6 @@
+title = c_eneby
+max_settlements = 2
+culture = english
+religion = cathar
+b_eneby = tribal
+b_eneby2 = temple

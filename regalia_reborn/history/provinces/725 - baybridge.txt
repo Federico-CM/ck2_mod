@@ -1,0 +1,6 @@
+title = c_baybridge
+max_settlements = 2
+culture = english
+religion = cathar
+b_baybridge = tribal
+b_baybridge2 = temple

@@ -1,0 +1,6 @@
+title = c_herrera
+max_settlements = 2
+culture = english
+religion = cathar
+b_herrera = tribal
+b_herrera2 = temple

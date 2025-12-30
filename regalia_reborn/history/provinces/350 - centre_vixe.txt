@@ -1,0 +1,6 @@
+title = c_centre_vixe
+max_settlements = 2
+culture = english
+religion = cathar
+b_centre_vixe = tribal
+b_centre_vixe2 = temple

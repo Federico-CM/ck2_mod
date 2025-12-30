@@ -1,0 +1,6 @@
+title = c_halle_nord
+max_settlements = 2
+culture = english
+religion = cathar
+b_halle_nord = tribal
+b_halle_nord2 = temple

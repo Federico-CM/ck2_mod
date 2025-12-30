@@ -1,0 +1,6 @@
+title = c_loiree_haute
+max_settlements = 2
+culture = english
+religion = cathar
+b_loiree_haute = tribal
+b_loiree_haute2 = temple

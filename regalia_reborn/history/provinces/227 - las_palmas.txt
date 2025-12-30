@@ -1,0 +1,6 @@
+title = c_las_palmas
+max_settlements = 2
+culture = english
+religion = cathar
+b_las_palmas = tribal
+b_las_palmas2 = temple

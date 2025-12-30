@@ -1,0 +1,6 @@
+title = c_obermark
+max_settlements = 2
+culture = english
+religion = cathar
+b_obermark = tribal
+b_obermark2 = temple

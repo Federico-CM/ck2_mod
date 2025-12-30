@@ -1,0 +1,6 @@
+title = c_sverreoy
+max_settlements = 2
+culture = english
+religion = cathar
+b_sverreoy = tribal
+b_sverreoy2 = temple

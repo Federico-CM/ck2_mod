@@ -1,0 +1,6 @@
+title = c_veile
+max_settlements = 2
+culture = english
+religion = cathar
+b_veile = tribal
+b_veile2 = temple

@@ -1,0 +1,6 @@
+title = c_sciermanna
+max_settlements = 2
+culture = english
+religion = cathar
+b_sciermanna = tribal
+b_sciermanna2 = temple

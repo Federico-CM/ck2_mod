@@ -1,0 +1,6 @@
+title = c_rotstein
+max_settlements = 2
+culture = english
+religion = cathar
+b_rotstein = tribal
+b_rotstein2 = temple

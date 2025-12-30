@@ -1,0 +1,6 @@
+title = c_keimnitz
+max_settlements = 2
+culture = english
+religion = cathar
+b_keimnitz = tribal
+b_keimnitz2 = temple

@@ -1,0 +1,6 @@
+title = c_falsmouthe
+max_settlements = 2
+culture = english
+religion = cathar
+b_falsmouthe = tribal
+b_falsmouthe2 = temple

@@ -1,0 +1,6 @@
+title = c_campa_vallenta
+max_settlements = 2
+culture = english
+religion = cathar
+b_campa_vallenta = tribal
+b_campa_vallenta2 = temple

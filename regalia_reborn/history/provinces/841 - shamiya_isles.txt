@@ -1,0 +1,6 @@
+title = c_shamiya_isles
+max_settlements = 2
+culture = english
+religion = cathar
+b_shamiya_isles = tribal
+b_shamiya_isles2 = temple

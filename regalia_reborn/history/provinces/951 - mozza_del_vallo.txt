@@ -1,0 +1,6 @@
+title = c_mozza_del_vallo
+max_settlements = 2
+culture = english
+religion = cathar
+b_mozza_del_vallo = tribal
+b_mozza_del_vallo2 = temple

@@ -1,0 +1,6 @@
+title = c_brzerg
+max_settlements = 2
+culture = english
+religion = cathar
+b_brzerg = tribal
+b_brzerg2 = temple

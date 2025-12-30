@@ -1,0 +1,6 @@
+title = c_terre_di_fuoco
+max_settlements = 2
+culture = english
+religion = cathar
+b_terre_di_fuoco = tribal
+b_terre_di_fuoco2 = temple

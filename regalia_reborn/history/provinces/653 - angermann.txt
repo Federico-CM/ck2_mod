@@ -1,0 +1,6 @@
+title = c_angermann
+max_settlements = 2
+culture = english
+religion = cathar
+b_angermann = tribal
+b_angermann2 = temple

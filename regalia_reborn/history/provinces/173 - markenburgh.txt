@@ -1,0 +1,6 @@
+title = c_markenburgh
+max_settlements = 2
+culture = english
+religion = cathar
+b_markenburgh = tribal
+b_markenburgh2 = temple

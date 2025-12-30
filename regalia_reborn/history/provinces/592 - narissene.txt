@@ -1,0 +1,6 @@
+title = c_narissene
+max_settlements = 2
+culture = english
+religion = cathar
+b_narissene = tribal
+b_narissene2 = temple

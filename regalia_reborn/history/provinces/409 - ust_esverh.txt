@@ -1,0 +1,6 @@
+title = c_ust_esverh
+max_settlements = 2
+culture = english
+religion = cathar
+b_ust_esverh = tribal
+b_ust_esverh2 = temple

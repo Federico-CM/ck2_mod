@@ -1,0 +1,6 @@
+title = c_keval
+max_settlements = 2
+culture = english
+religion = cathar
+b_keval = tribal
+b_keval2 = temple

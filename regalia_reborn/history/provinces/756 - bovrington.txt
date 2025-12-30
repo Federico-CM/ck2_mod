@@ -1,0 +1,6 @@
+title = c_bovrington
+max_settlements = 2
+culture = english
+religion = cathar
+b_bovrington = tribal
+b_bovrington2 = temple

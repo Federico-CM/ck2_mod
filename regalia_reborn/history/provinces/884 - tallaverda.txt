@@ -1,0 +1,6 @@
+title = c_tallaverda
+max_settlements = 2
+culture = english
+religion = cathar
+b_tallaverda = tribal
+b_tallaverda2 = temple

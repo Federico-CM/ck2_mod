@@ -1,0 +1,6 @@
+title = c_silavenda
+max_settlements = 2
+culture = english
+religion = cathar
+b_silavenda = tribal
+b_silavenda2 = temple

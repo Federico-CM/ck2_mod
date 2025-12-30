@@ -1,0 +1,6 @@
+title = c_estorieen
+max_settlements = 2
+culture = english
+religion = cathar
+b_estorieen = tribal
+b_estorieen2 = temple

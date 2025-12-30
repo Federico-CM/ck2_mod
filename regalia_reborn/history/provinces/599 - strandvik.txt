@@ -1,0 +1,6 @@
+title = c_strandvik
+max_settlements = 2
+culture = english
+religion = cathar
+b_strandvik = tribal
+b_strandvik2 = temple

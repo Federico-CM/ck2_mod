@@ -1,0 +1,6 @@
+title = c_risoyhamn
+max_settlements = 2
+culture = english
+religion = cathar
+b_risoyhamn = tribal
+b_risoyhamn2 = temple

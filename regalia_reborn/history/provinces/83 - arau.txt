@@ -1,0 +1,6 @@
+title = c_arau
+max_settlements = 2
+culture = english
+religion = cathar
+b_arau = tribal
+b_arau2 = temple

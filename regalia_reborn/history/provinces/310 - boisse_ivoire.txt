@@ -1,0 +1,6 @@
+title = c_boisse_ivoire
+max_settlements = 2
+culture = english
+religion = cathar
+b_boisse_ivoire = tribal
+b_boisse_ivoire2 = temple

@@ -1,0 +1,6 @@
+title = c_eaton
+max_settlements = 2
+culture = english
+religion = cathar
+b_eaton = tribal
+b_eaton2 = temple

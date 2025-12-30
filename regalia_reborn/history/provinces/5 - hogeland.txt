@@ -1,0 +1,6 @@
+title = c_hogeland
+max_settlements = 2
+culture = english
+religion = cathar
+b_hogeland = tribal
+b_hogeland2 = temple

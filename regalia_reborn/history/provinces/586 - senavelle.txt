@@ -1,0 +1,6 @@
+title = c_senavelle
+max_settlements = 2
+culture = english
+religion = cathar
+b_senavelle = tribal
+b_senavelle2 = temple

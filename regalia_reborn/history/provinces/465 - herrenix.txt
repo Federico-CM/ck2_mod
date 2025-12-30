@@ -1,0 +1,6 @@
+title = c_herrenix
+max_settlements = 2
+culture = english
+religion = cathar
+b_herrenix = tribal
+b_herrenix2 = temple

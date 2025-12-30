@@ -1,0 +1,6 @@
+title = c_neukirch
+max_settlements = 2
+culture = english
+religion = cathar
+b_neukirch = tribal
+b_neukirch2 = temple

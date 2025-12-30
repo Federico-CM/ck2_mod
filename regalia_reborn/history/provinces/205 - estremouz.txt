@@ -1,0 +1,6 @@
+title = c_estremouz
+max_settlements = 2
+culture = english
+religion = cathar
+b_estremouz = tribal
+b_estremouz2 = temple

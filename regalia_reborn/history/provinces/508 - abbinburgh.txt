@@ -1,0 +1,6 @@
+title = c_abbinburgh
+max_settlements = 2
+culture = english
+religion = cathar
+b_abbinburgh = tribal
+b_abbinburgh2 = temple

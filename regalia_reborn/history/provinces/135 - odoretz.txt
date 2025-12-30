@@ -1,0 +1,6 @@
+title = c_odoretz
+max_settlements = 2
+culture = english
+religion = cathar
+b_odoretz = tribal
+b_odoretz2 = temple

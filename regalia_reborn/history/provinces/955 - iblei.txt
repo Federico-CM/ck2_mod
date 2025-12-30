@@ -1,0 +1,6 @@
+title = c_iblei
+max_settlements = 2
+culture = english
+religion = cathar
+b_iblei = tribal
+b_iblei2 = temple

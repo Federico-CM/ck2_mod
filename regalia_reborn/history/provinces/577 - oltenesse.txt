@@ -1,0 +1,6 @@
+title = c_oltenesse
+max_settlements = 2
+culture = english
+religion = cathar
+b_oltenesse = tribal
+b_oltenesse2 = temple

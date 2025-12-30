@@ -1,0 +1,6 @@
+title = c_droitwich
+max_settlements = 2
+culture = english
+religion = cathar
+b_droitwich = tribal
+b_droitwich2 = temple

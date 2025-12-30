@@ -1,0 +1,6 @@
+title = c_sumerrois
+max_settlements = 2
+culture = english
+religion = cathar
+b_sumerrois = tribal
+b_sumerrois2 = temple

@@ -1,0 +1,6 @@
+title = c_radicofani
+max_settlements = 2
+culture = english
+religion = cathar
+b_radicofani = tribal
+b_radicofani2 = temple

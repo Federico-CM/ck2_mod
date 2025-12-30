@@ -1,0 +1,6 @@
+title = c_fada
+max_settlements = 2
+culture = english
+religion = cathar
+b_fada = tribal
+b_fada2 = temple

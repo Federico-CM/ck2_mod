@@ -1,0 +1,6 @@
+title = c_hrzadan
+max_settlements = 2
+culture = english
+religion = cathar
+b_hrzadan = tribal
+b_hrzadan2 = temple

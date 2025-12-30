@@ -1,0 +1,6 @@
+title = c_lesinmon_mo
+max_settlements = 2
+culture = english
+religion = cathar
+b_lesinmon_mo = tribal
+b_lesinmon_mo2 = temple

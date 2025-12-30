@@ -1,0 +1,6 @@
+title = c_heiligturm
+max_settlements = 2
+culture = english
+religion = cathar
+b_heiligturm = tribal
+b_heiligturm2 = temple

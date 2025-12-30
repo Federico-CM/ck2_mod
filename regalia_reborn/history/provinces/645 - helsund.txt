@@ -1,0 +1,6 @@
+title = c_helsund
+max_settlements = 2
+culture = english
+religion = cathar
+b_helsund = tribal
+b_helsund2 = temple

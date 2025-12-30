@@ -1,0 +1,6 @@
+title = c_duizenzwaarde
+max_settlements = 2
+culture = english
+religion = cathar
+b_duizenzwaarde = tribal
+b_duizenzwaarde2 = temple

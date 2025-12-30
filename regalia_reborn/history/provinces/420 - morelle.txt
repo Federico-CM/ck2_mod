@@ -1,0 +1,6 @@
+title = c_morelle
+max_settlements = 2
+culture = english
+religion = cathar
+b_morelle = tribal
+b_morelle2 = temple

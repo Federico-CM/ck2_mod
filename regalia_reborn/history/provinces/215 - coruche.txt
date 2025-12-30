@@ -1,0 +1,6 @@
+title = c_coruche
+max_settlements = 2
+culture = english
+religion = cathar
+b_coruche = tribal
+b_coruche2 = temple

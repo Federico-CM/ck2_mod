@@ -1,0 +1,6 @@
+title = c_oqhemu
+max_settlements = 2
+culture = english
+religion = cathar
+b_oqhemu = tribal
+b_oqhemu2 = temple

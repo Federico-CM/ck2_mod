@@ -1,0 +1,6 @@
+title = c_alexanderburg
+max_settlements = 2
+culture = english
+religion = cathar
+b_alexanderburg = tribal
+b_alexanderburg2 = temple

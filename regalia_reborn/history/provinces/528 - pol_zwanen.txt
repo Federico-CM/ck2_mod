@@ -1,0 +1,6 @@
+title = c_pol_zwanen
+max_settlements = 2
+culture = english
+religion = cathar
+b_pol_zwanen = tribal
+b_pol_zwanen2 = temple

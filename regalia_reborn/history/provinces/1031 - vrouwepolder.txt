@@ -1,0 +1,6 @@
+title = c_vrouwepolder
+max_settlements = 2
+culture = english
+religion = cathar
+b_vrouwepolder = tribal
+b_vrouwepolder2 = temple

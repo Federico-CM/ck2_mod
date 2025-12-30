@@ -1,0 +1,6 @@
+title = c_attanais
+max_settlements = 2
+culture = english
+religion = cathar
+b_attanais = tribal
+b_attanais2 = temple

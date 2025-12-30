@@ -1,0 +1,6 @@
+title = c_alverdishvan
+max_settlements = 2
+culture = english
+religion = cathar
+b_alverdishvan = tribal
+b_alverdishvan2 = temple

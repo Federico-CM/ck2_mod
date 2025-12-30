@@ -1,0 +1,6 @@
+title = c_tollstiberg
+max_settlements = 2
+culture = english
+religion = cathar
+b_tollstiberg = tribal
+b_tollstiberg2 = temple

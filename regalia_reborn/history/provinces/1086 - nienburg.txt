@@ -1,0 +1,6 @@
+title = c_nienburg
+max_settlements = 2
+culture = english
+religion = cathar
+b_nienburg = tribal
+b_nienburg2 = temple

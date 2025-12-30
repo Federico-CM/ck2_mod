@@ -1,0 +1,6 @@
+title = c_narran_isles
+max_settlements = 2
+culture = english
+religion = cathar
+b_narran_isles = tribal
+b_narran_isles2 = temple

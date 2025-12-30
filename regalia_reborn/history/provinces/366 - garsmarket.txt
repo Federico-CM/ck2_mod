@@ -1,0 +1,6 @@
+title = c_garsmarket
+max_settlements = 2
+culture = english
+religion = cathar
+b_garsmarket = tribal
+b_garsmarket2 = temple

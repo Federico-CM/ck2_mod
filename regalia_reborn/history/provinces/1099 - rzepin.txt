@@ -1,0 +1,6 @@
+title = c_rzepin
+max_settlements = 2
+culture = english
+religion = cathar
+b_rzepin = tribal
+b_rzepin2 = temple

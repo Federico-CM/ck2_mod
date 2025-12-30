@@ -1,0 +1,6 @@
+title = c_aaker
+max_settlements = 2
+culture = english
+religion = cathar
+b_aaker = tribal
+b_aaker2 = temple

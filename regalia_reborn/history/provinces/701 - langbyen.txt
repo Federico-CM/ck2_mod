@@ -1,0 +1,6 @@
+title = c_langbyen
+max_settlements = 2
+culture = english
+religion = cathar
+b_langbyen = tribal
+b_langbyen2 = temple

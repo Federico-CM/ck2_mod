@@ -1,0 +1,6 @@
+title = c_hourn
+max_settlements = 2
+culture = english
+religion = cathar
+b_hourn = tribal
+b_hourn2 = temple

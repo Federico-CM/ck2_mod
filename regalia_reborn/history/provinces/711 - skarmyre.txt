@@ -1,0 +1,6 @@
+title = c_skarmyre
+max_settlements = 2
+culture = english
+religion = cathar
+b_skarmyre = tribal
+b_skarmyre2 = temple

@@ -1,0 +1,6 @@
+title = c_bromyard
+max_settlements = 2
+culture = english
+religion = cathar
+b_bromyard = tribal
+b_bromyard2 = temple

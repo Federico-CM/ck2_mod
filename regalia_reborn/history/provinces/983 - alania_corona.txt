@@ -1,0 +1,6 @@
+title = c_alania_corona
+max_settlements = 2
+culture = english
+religion = cathar
+b_alania_corona = tribal
+b_alania_corona2 = temple

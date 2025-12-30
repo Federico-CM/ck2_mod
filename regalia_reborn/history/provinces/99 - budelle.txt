@@ -1,0 +1,6 @@
+title = c_budelle
+max_settlements = 2
+culture = english
+religion = cathar
+b_budelle = tribal
+b_budelle2 = temple

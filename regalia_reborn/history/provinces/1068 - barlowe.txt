@@ -1,0 +1,6 @@
+title = c_barlowe
+max_settlements = 2
+culture = english
+religion = cathar
+b_barlowe = tribal
+b_barlowe2 = temple

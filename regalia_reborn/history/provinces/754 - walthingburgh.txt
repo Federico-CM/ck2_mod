@@ -1,0 +1,6 @@
+title = c_walthingburgh
+max_settlements = 2
+culture = english
+religion = cathar
+b_walthingburgh = tribal
+b_walthingburgh2 = temple

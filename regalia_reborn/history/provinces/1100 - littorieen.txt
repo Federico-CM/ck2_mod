@@ -1,0 +1,6 @@
+title = c_littorieen
+max_settlements = 2
+culture = english
+religion = cathar
+b_littorieen = tribal
+b_littorieen2 = temple

@@ -1,0 +1,6 @@
+title = c_burguess_hille
+max_settlements = 2
+culture = english
+religion = cathar
+b_burguess_hille = tribal
+b_burguess_hille2 = temple

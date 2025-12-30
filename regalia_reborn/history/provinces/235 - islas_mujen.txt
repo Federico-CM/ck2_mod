@@ -1,0 +1,6 @@
+title = c_islas_mujen
+max_settlements = 2
+culture = english
+religion = cathar
+b_islas_mujen = tribal
+b_islas_mujen2 = temple

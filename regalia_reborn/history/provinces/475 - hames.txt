@@ -1,0 +1,6 @@
+title = c_hames
+max_settlements = 2
+culture = english
+religion = cathar
+b_hames = tribal
+b_hames2 = temple

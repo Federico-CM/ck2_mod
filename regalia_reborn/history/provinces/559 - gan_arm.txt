@@ -1,0 +1,6 @@
+title = c_gan_arm
+max_settlements = 2
+culture = english
+religion = cathar
+b_gan_arm = tribal
+b_gan_arm2 = temple

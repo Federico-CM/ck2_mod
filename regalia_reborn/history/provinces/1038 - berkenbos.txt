@@ -1,0 +1,6 @@
+title = c_berkenbos
+max_settlements = 2
+culture = english
+religion = cathar
+b_berkenbos = tribal
+b_berkenbos2 = temple

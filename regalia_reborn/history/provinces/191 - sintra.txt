@@ -1,0 +1,6 @@
+title = c_sintra
+max_settlements = 2
+culture = english
+religion = cathar
+b_sintra = tribal
+b_sintra2 = temple

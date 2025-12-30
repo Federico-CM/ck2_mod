@@ -1,0 +1,6 @@
+title = c_joggeland
+max_settlements = 2
+culture = english
+religion = cathar
+b_joggeland = tribal
+b_joggeland2 = temple

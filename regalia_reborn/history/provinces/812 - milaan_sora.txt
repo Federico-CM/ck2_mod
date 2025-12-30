@@ -1,0 +1,6 @@
+title = c_milaan_sora
+max_settlements = 2
+culture = english
+religion = cathar
+b_milaan_sora = tribal
+b_milaan_sora2 = temple

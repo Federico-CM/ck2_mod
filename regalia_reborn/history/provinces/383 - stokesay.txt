@@ -1,0 +1,6 @@
+title = c_stokesay
+max_settlements = 2
+culture = english
+religion = cathar
+b_stokesay = tribal
+b_stokesay2 = temple
