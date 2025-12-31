@@ -1,6 +1,6 @@
 title = c_archalskgrad
 max_settlements = 2
-culture = english
+culture = krainivaya
 religion = cathar
 b_archalskgrad = tribal
 b_archalskgrad2 = temple

@@ -1,6 +1,6 @@
 title = c_halle_occident
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_halle_occident = tribal
 b_halle_occident2 = temple

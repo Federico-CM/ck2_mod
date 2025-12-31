@@ -1,6 +1,6 @@
 title = c_velincara
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_velincara = tribal
 b_velincara2 = temple

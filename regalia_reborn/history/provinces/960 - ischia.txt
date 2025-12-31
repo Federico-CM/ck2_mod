@@ -1,6 +1,6 @@
 title = c_ischia
 max_settlements = 2
-culture = english
+culture = cantaluna
 religion = cathar
 b_ischia = tribal
 b_ischia2 = temple

@@ -1,6 +1,6 @@
 title = c_nutbourne
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_nutbourne = tribal
 b_nutbourne2 = temple

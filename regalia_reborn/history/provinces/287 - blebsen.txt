@@ -1,6 +1,6 @@
 title = c_blebsen
 max_settlements = 2
-culture = english
+culture = dunbrae
 religion = cathar
 b_blebsen = tribal
 b_blebsen2 = temple

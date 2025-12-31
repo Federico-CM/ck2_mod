@@ -1,6 +1,6 @@
 title = c_vila_franca
 max_settlements = 2
-culture = english
+culture = bragacao
 religion = cathar
 b_vila_franca = tribal
 b_vila_franca2 = temple

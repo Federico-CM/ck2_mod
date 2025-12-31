@@ -1,6 +1,6 @@
 title = c_castella_di_stabia
 max_settlements = 2
-culture = english
+culture = azzizzari
 religion = cathar
 b_castella_di_stabia = tribal
 b_castella_di_stabia2 = temple

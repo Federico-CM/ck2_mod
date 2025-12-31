@@ -1,6 +1,6 @@
 title = c_lamengao
 max_settlements = 2
-culture = english
+culture = bragacao
 religion = cathar
 b_lamengao = tribal
 b_lamengao2 = temple

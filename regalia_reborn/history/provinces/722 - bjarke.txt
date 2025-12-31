@@ -1,6 +1,6 @@
 title = c_bjarke
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_bjarke = tribal
 b_bjarke2 = temple

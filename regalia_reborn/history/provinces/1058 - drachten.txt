@@ -1,6 +1,6 @@
 title = c_drachten
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_drachten = tribal
 b_drachten2 = temple

@@ -1,6 +1,6 @@
 title = c_welle
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_welle = tribal
 b_welle2 = temple

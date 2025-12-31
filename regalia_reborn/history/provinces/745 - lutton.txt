@@ -1,6 +1,6 @@
 title = c_lutton
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_lutton = tribal
 b_lutton2 = temple

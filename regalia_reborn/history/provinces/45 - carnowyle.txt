@@ -1,6 +1,6 @@
 title = c_carnowyle
 max_settlements = 2
-culture = english
+culture = dunbrae
 religion = cathar
 b_carnowyle = tribal
 b_carnowyle2 = temple

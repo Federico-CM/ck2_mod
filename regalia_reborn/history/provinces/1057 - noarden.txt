@@ -1,6 +1,6 @@
 title = c_noarden
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_noarden = tribal
 b_noarden2 = temple

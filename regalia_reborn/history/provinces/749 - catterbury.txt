@@ -1,6 +1,6 @@
 title = c_catterbury
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_catterbury = tribal
 b_catterbury2 = temple

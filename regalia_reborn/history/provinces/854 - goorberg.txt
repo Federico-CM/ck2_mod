@@ -1,6 +1,6 @@
 title = c_goorberg
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_goorberg = tribal
 b_goorberg2 = temple

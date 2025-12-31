@@ -1,6 +1,6 @@
 title = c_dalmaaten
 max_settlements = 2
-culture = english
+culture = leutz_vixe
 religion = cathar
 b_dalmaaten = tribal
 b_dalmaaten2 = temple

@@ -1,6 +1,6 @@
 title = c_rute
 max_settlements = 2
-culture = english
+culture = tierravera
 religion = cathar
 b_rute = tribal
 b_rute2 = temple

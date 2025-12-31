@@ -1,6 +1,6 @@
 title = c_westdale
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_westdale = tribal
 b_westdale2 = temple

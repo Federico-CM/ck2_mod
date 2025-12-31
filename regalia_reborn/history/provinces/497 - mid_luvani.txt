@@ -1,6 +1,6 @@
 title = c_mid_luvani
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_mid_luvani = tribal
 b_mid_luvani2 = temple

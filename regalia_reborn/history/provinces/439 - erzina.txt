@@ -1,6 +1,6 @@
 title = c_erzina
 max_settlements = 2
-culture = english
+culture = etosian
 religion = cathar
 b_erzina = tribal
 b_erzina2 = temple

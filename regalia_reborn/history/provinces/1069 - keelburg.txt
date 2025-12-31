@@ -1,6 +1,6 @@
 title = c_keelburg
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_keelburg = tribal
 b_keelburg2 = temple

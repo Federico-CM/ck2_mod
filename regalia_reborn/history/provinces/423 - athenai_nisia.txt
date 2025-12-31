@@ -1,6 +1,6 @@
 title = c_athenai_nisia
 max_settlements = 2
-culture = english
+culture = etosian
 religion = cathar
 b_athenai_nisia = tribal
 b_athenai_nisia2 = temple

@@ -1,6 +1,6 @@
 title = c_tarro_do_sal
 max_settlements = 2
-culture = english
+culture = tierravera
 religion = cathar
 b_tarro_do_sal = tribal
 b_tarro_do_sal2 = temple

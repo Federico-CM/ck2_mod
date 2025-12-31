@@ -1,6 +1,6 @@
 title = c_ballywydgown
 max_settlements = 2
-culture = english
+culture = dunbrae
 religion = cathar
 b_ballywydgown = tribal
 b_ballywydgown2 = temple

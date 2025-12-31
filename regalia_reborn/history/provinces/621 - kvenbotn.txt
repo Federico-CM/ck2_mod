@@ -1,6 +1,6 @@
 title = c_kvenbotn
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_kvenbotn = tribal
 b_kvenbotn2 = temple

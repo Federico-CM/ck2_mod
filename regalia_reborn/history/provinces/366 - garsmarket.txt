@@ -1,6 +1,6 @@
 title = c_garsmarket
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_garsmarket = tribal
 b_garsmarket2 = temple

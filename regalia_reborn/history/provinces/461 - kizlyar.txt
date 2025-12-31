@@ -1,6 +1,6 @@
 title = c_kizlyar
 max_settlements = 2
-culture = english
+culture = krainivaya
 religion = cathar
 b_kizlyar = tribal
 b_kizlyar2 = temple

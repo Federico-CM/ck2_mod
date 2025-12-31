@@ -1,6 +1,6 @@
 title = c_sundfjorden
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_sundfjorden = tribal
 b_sundfjorden2 = temple

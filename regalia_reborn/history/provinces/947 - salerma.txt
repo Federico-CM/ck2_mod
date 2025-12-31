@@ -1,6 +1,6 @@
 title = c_salerma
 max_settlements = 2
-culture = english
+culture = azzizzari
 religion = cathar
 b_salerma = tribal
 b_salerma2 = temple

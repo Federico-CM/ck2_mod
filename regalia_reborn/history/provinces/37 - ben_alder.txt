@@ -1,6 +1,6 @@
 title = c_ben_alder
 max_settlements = 2
-culture = english
+culture = dunbrae
 religion = cathar
 b_ben_alder = tribal
 b_ben_alder2 = temple

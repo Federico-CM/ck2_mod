@@ -1,6 +1,6 @@
 title = c_ottaholm
 max_settlements = 2
-culture = english
+culture = dwarven
 religion = cathar
 b_ottaholm = tribal
 b_ottaholm2 = temple

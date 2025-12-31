@@ -1,6 +1,6 @@
 title = c_moduglamura
 max_settlements = 2
-culture = english
+culture = cantaluna
 religion = cathar
 b_moduglamura = tribal
 b_moduglamura2 = temple

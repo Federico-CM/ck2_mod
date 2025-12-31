@@ -1,6 +1,6 @@
 title = c_ferreira_an
 max_settlements = 2
-culture = english
+culture = allar
 religion = cathar
 b_ferreira_an = tribal
 b_ferreira_an2 = temple

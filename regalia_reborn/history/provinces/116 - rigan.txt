@@ -1,6 +1,6 @@
 title = c_rigan
 max_settlements = 2
-culture = english
+culture = etosian
 religion = cathar
 b_rigan = tribal
 b_rigan2 = temple

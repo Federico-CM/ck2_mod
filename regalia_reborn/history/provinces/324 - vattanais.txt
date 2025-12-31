@@ -1,6 +1,6 @@
 title = c_vattanais
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_vattanais = tribal
 b_vattanais2 = temple

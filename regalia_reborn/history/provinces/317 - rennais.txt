@@ -1,6 +1,6 @@
 title = c_rennais
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_rennais = tribal
 b_rennais2 = temple

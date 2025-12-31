@@ -1,6 +1,6 @@
 title = c_novigrad
 max_settlements = 2
-culture = english
+culture = krainivaya
 religion = cathar
 b_novigrad = tribal
 b_novigrad2 = temple

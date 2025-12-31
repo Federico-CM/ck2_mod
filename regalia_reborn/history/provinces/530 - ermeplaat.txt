@@ -1,6 +1,6 @@
 title = c_ermeplaat
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_ermeplaat = tribal
 b_ermeplaat2 = temple

@@ -1,6 +1,6 @@
 title = c_siltcastle
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_siltcastle = tribal
 b_siltcastle2 = temple

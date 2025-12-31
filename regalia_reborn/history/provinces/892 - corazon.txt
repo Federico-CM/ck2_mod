@@ -1,6 +1,6 @@
 title = c_corazon
 max_settlements = 2
-culture = english
+culture = tierravera
 religion = cathar
 b_corazon = tribal
 b_corazon2 = temple

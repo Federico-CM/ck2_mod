@@ -1,6 +1,6 @@
 title = c_haugheim
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_haugheim = tribal
 b_haugheim2 = temple

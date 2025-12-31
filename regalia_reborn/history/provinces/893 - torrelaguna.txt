@@ -1,6 +1,6 @@
 title = c_torrelaguna
 max_settlements = 2
-culture = english
+culture = tierravera
 religion = cathar
 b_torrelaguna = tribal
 b_torrelaguna2 = temple

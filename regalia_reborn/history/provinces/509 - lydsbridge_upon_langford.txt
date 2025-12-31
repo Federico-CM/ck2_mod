@@ -1,6 +1,6 @@
 title = c_lydsbridge_upon_langford
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_lydsbridge_upon_langford = tribal
 b_lydsbridge_upon_langford2 = temple

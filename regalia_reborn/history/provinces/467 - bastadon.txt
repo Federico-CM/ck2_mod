@@ -1,6 +1,6 @@
 title = c_bastadon
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_bastadon = tribal
 b_bastadon2 = temple

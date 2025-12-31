@@ -1,6 +1,6 @@
 title = c_nytra
 max_settlements = 2
-culture = english
+culture = leutz_vixe
 religion = cathar
 b_nytra = tribal
 b_nytra2 = temple

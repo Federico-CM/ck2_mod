@@ -1,6 +1,6 @@
 title = c_therma
 max_settlements = 2
-culture = english
+culture = etosian
 religion = cathar
 b_therma = tribal
 b_therma2 = temple

@@ -1,6 +1,6 @@
 title = c_kriti
 max_settlements = 2
-culture = english
+culture = etosian
 religion = cathar
 b_kriti = tribal
 b_kriti2 = temple

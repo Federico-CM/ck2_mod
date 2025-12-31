@@ -1,6 +1,6 @@
 title = c_gilena
 max_settlements = 2
-culture = english
+culture = tierravera
 religion = cathar
 b_gilena = tribal
 b_gilena2 = temple

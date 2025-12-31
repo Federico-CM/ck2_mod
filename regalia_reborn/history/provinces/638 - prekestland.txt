@@ -1,6 +1,6 @@
 title = c_prekestland
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_prekestland = tribal
 b_prekestland2 = temple

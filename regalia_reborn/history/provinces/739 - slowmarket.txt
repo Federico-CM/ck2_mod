@@ -1,6 +1,6 @@
 title = c_slowmarket
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_slowmarket = tribal
 b_slowmarket2 = temple

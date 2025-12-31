@@ -1,6 +1,6 @@
 title = c_tzakazvilis
 max_settlements = 2
-culture = english
+culture = etosian
 religion = cathar
 b_tzakazvilis = tribal
 b_tzakazvilis2 = temple

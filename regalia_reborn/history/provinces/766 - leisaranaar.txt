@@ -1,6 +1,6 @@
 title = c_leisaranaar
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_leisaranaar = tribal
 b_leisaranaar2 = temple

@@ -1,6 +1,6 @@
 title = c_chandagad
 max_settlements = 2
-culture = english
+culture = suvial
 religion = cathar
 b_chandagad = tribal
 b_chandagad2 = temple

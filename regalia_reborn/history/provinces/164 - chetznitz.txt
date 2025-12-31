@@ -1,6 +1,6 @@
 title = c_chetznitz
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_chetznitz = tribal
 b_chetznitz2 = temple

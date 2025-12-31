@@ -1,6 +1,6 @@
 title = c_eibenwitz
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_eibenwitz = tribal
 b_eibenwitz2 = temple

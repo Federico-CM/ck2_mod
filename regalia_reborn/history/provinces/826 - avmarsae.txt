@@ -1,6 +1,6 @@
 title = c_avmarsae
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_avmarsae = tribal
 b_avmarsae2 = temple

@@ -1,6 +1,6 @@
 title = c_syra
 max_settlements = 2
-culture = english
+culture = cantaluna
 religion = cathar
 b_syra = tribal
 b_syra2 = temple

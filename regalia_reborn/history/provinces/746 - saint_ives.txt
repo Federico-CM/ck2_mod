@@ -1,6 +1,6 @@
 title = c_saint_ives
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_saint_ives = tribal
 b_saint_ives2 = temple

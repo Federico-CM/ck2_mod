@@ -1,6 +1,6 @@
 title = c_anchal_wald
 max_settlements = 2
-culture = english
+culture = kathar
 religion = cathar
 b_anchal_wald = tribal
 b_anchal_wald2 = temple

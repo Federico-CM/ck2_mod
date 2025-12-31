@@ -1,6 +1,6 @@
 title = c_rumvalia
 max_settlements = 2
-culture = english
+culture = ania
 religion = cathar
 b_rumvalia = tribal
 b_rumvalia2 = temple

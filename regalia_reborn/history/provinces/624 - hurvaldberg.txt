@@ -1,6 +1,6 @@
 title = c_hurvaldberg
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_hurvaldberg = tribal
 b_hurvaldberg2 = temple

@@ -1,6 +1,6 @@
 title = c_ellei_moor
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_ellei_moor = tribal
 b_ellei_moor2 = temple

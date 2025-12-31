@@ -1,6 +1,6 @@
 title = c_mieddelkerke
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_mieddelkerke = tribal
 b_mieddelkerke2 = temple

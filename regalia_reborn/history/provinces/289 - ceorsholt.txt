@@ -1,6 +1,6 @@
 title = c_ceorsholt
 max_settlements = 2
-culture = english
+culture = dunbrae
 religion = cathar
 b_ceorsholt = tribal
 b_ceorsholt2 = temple

@@ -1,6 +1,6 @@
 title = c_martvili
 max_settlements = 2
-culture = english
+culture = krainivaya
 religion = cathar
 b_martvili = tribal
 b_martvili2 = temple

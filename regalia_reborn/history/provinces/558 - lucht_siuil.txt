@@ -1,6 +1,6 @@
 title = c_lucht_siuil
 max_settlements = 2
-culture = english
+culture = aontaithe
 religion = cathar
 b_lucht_siuil = tribal
 b_lucht_siuil2 = temple

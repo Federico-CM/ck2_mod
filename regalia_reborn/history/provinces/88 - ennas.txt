@@ -1,6 +1,6 @@
 title = c_ennas
 max_settlements = 2
-culture = english
+culture = leutz_vixe
 religion = cathar
 b_ennas = tribal
 b_ennas2 = temple

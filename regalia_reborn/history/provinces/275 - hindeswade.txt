@@ -1,6 +1,6 @@
 title = c_hindeswade
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_hindeswade = tribal
 b_hindeswade2 = temple

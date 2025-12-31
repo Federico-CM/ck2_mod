@@ -1,6 +1,6 @@
 title = c_samatan
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_samatan = tribal
 b_samatan2 = temple

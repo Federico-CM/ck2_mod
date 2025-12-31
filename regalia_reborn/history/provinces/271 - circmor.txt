@@ -1,6 +1,6 @@
 title = c_circmor
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_circmor = tribal
 b_circmor2 = temple

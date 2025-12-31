@@ -1,6 +1,6 @@
 title = c_pays_de_loisir
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_pays_de_loisir = tribal
 b_pays_de_loisir2 = temple

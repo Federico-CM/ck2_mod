@@ -1,6 +1,6 @@
 title = c_lutesfishheim
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_lutesfishheim = tribal
 b_lutesfishheim2 = temple

@@ -1,6 +1,6 @@
 title = c_lysasund
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_lysasund = tribal
 b_lysasund2 = temple

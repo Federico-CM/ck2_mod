@@ -1,6 +1,6 @@
 title = c_tenplinburg
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_tenplinburg = tribal
 b_tenplinburg2 = temple

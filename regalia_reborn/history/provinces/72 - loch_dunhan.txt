@@ -1,6 +1,6 @@
 title = c_loch_dunhan
 max_settlements = 2
-culture = english
+culture = url
 religion = cathar
 b_loch_dunhan = tribal
 b_loch_dunhan2 = temple

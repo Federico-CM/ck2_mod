@@ -1,6 +1,6 @@
 title = c_riddere
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_riddere = tribal
 b_riddere2 = temple

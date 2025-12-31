@@ -1,6 +1,6 @@
 title = c_loch_anchan
 max_settlements = 2
-culture = english
+culture = url
 religion = cathar
 b_loch_anchan = tribal
 b_loch_anchan2 = temple

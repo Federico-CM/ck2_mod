@@ -1,6 +1,6 @@
 title = c_boparta
 max_settlements = 2
-culture = english
+culture = cantaluna
 religion = cathar
 b_boparta = tribal
 b_boparta2 = temple

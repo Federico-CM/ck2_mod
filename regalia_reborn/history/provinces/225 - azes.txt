@@ -1,6 +1,6 @@
 title = c_azes
 max_settlements = 2
-culture = english
+culture = allar
 religion = cathar
 b_azes = tribal
 b_azes2 = temple

@@ -1,6 +1,6 @@
 title = c_rio_sul
 max_settlements = 2
-culture = english
+culture = tierravera
 religion = cathar
 b_rio_sul = tribal
 b_rio_sul2 = temple

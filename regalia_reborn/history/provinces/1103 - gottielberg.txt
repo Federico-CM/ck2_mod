@@ -1,6 +1,6 @@
 title = c_gottielberg
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_gottielberg = tribal
 b_gottielberg2 = temple

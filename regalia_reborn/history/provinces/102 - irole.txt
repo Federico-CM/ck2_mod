@@ -1,6 +1,6 @@
 title = c_irole
 max_settlements = 2
-culture = english
+culture = leutz_vixe
 religion = cathar
 b_irole = tribal
 b_irole2 = temple

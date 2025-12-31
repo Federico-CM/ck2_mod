@@ -1,6 +1,6 @@
 title = c_bosseburgh
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_bosseburgh = tribal
 b_bosseburgh2 = temple

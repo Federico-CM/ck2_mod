@@ -1,6 +1,6 @@
 title = c_dallevald
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_dallevald = tribal
 b_dallevald2 = temple

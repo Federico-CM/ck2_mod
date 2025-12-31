@@ -1,6 +1,6 @@
 title = c_corbridge
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_corbridge = tribal
 b_corbridge2 = temple

@@ -1,6 +1,6 @@
 title = c_mageross
 max_settlements = 2
-culture = english
+culture = gallovian
 religion = cathar
 b_mageross = tribal
 b_mageross2 = temple

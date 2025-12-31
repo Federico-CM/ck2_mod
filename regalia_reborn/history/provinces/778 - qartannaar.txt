@@ -1,6 +1,6 @@
 title = c_qartannaar
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_qartannaar = tribal
 b_qartannaar2 = temple

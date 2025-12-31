@@ -1,6 +1,6 @@
 title = c_aetlana
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_aetlana = tribal
 b_aetlana2 = temple

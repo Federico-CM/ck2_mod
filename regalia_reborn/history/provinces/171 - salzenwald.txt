@@ -1,6 +1,6 @@
 title = c_salzenwald
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_salzenwald = tribal
 b_salzenwald2 = temple

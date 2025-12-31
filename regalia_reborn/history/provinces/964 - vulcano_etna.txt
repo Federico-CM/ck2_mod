@@ -1,6 +1,6 @@
 title = c_vulcano_etna
 max_settlements = 2
-culture = english
+culture = cantaluna
 religion = cathar
 b_vulcano_etna = tribal
 b_vulcano_etna2 = temple

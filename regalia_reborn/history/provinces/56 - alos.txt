@@ -1,6 +1,6 @@
 title = c_alos
 max_settlements = 2
-culture = english
+culture = breizh
 religion = cathar
 b_alos = tribal
 b_alos2 = temple

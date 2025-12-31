@@ -1,6 +1,6 @@
 title = c_wortelgeldt
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_wortelgeldt = tribal
 b_wortelgeldt2 = temple

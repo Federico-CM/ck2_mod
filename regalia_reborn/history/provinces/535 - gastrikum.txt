@@ -1,6 +1,6 @@
 title = c_gastrikum
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_gastrikum = tribal
 b_gastrikum2 = temple

@@ -1,6 +1,6 @@
 title = c_la_coutance
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_la_coutance = tribal
 b_la_coutance2 = temple

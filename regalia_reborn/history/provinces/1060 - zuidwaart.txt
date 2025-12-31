@@ -1,6 +1,6 @@
 title = c_zuidwaart
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_zuidwaart = tribal
 b_zuidwaart2 = temple

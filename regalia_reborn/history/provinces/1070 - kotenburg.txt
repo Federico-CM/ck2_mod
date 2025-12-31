@@ -1,6 +1,6 @@
 title = c_kotenburg
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_kotenburg = tribal
 b_kotenburg2 = temple

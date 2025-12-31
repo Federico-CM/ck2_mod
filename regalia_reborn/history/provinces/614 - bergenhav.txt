@@ -1,6 +1,6 @@
 title = c_bergenhav
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_bergenhav = tribal
 b_bergenhav2 = temple

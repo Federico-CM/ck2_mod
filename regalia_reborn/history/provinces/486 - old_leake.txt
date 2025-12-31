@@ -1,6 +1,6 @@
 title = c_old_leake
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_old_leake = tribal
 b_old_leake2 = temple

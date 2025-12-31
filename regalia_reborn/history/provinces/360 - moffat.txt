@@ -1,6 +1,6 @@
 title = c_moffat
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_moffat = tribal
 b_moffat2 = temple

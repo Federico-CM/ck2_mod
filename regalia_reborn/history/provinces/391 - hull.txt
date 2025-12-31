@@ -1,6 +1,6 @@
 title = c_hull
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_hull = tribal
 b_hull2 = temple

@@ -1,6 +1,6 @@
 title = c_kostryn
 max_settlements = 2
-culture = english
+culture = wruclav
 religion = cathar
 b_kostryn = tribal
 b_kostryn2 = temple

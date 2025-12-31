@@ -1,6 +1,6 @@
 title = c_eereseimaal
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_eereseimaal = tribal
 b_eereseimaal2 = temple

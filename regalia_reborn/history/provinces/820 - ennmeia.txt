@@ -1,6 +1,6 @@
 title = c_ennmeia
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_ennmeia = tribal
 b_ennmeia2 = temple

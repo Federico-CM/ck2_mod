@@ -1,6 +1,6 @@
 title = c_autinge
 max_settlements = 2
-culture = english
+culture = burdigala
 religion = cathar
 b_autinge = tribal
 b_autinge2 = temple

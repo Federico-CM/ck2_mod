@@ -1,6 +1,6 @@
 title = c_milton
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_milton = tribal
 b_milton2 = temple

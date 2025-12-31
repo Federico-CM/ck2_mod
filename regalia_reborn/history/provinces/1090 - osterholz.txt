@@ -1,6 +1,6 @@
 title = c_osterholz
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_osterholz = tribal
 b_osterholz2 = temple

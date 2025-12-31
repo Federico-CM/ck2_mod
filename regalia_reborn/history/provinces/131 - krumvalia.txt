@@ -1,6 +1,6 @@
 title = c_krumvalia
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_krumvalia = tribal
 b_krumvalia2 = temple

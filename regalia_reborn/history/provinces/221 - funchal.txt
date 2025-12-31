@@ -1,6 +1,6 @@
 title = c_funchal
 max_settlements = 2
-culture = english
+culture = allar
 religion = cathar
 b_funchal = tribal
 b_funchal2 = temple

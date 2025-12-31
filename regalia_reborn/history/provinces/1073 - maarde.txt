@@ -1,6 +1,6 @@
 title = c_maarde
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_maarde = tribal
 b_maarde2 = temple

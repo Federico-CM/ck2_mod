@@ -1,6 +1,6 @@
 title = c_cavoeira
 max_settlements = 2
-culture = english
+culture = bragacao
 religion = cathar
 b_cavoeira = tribal
 b_cavoeira2 = temple

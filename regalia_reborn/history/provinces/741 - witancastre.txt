@@ -1,6 +1,6 @@
 title = c_witancastre
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_witancastre = tribal
 b_witancastre2 = temple

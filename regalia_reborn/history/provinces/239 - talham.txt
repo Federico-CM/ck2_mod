@@ -1,6 +1,6 @@
 title = c_talham
 max_settlements = 2
-culture = english
+culture = gallovian
 religion = cathar
 b_talham = tribal
 b_talham2 = temple

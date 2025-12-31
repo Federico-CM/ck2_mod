@@ -1,6 +1,6 @@
 title = c_kiezersdorp
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_kiezersdorp = tribal
 b_kiezersdorp2 = temple

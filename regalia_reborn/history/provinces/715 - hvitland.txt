@@ -1,6 +1,6 @@
 title = c_hvitland
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_hvitland = tribal
 b_hvitland2 = temple

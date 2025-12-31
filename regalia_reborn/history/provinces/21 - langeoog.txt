@@ -1,6 +1,6 @@
 title = c_langeoog
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_langeoog = tribal
 b_langeoog2 = temple

@@ -1,6 +1,6 @@
 title = c_midwude
 max_settlements = 2
-culture = english
+culture = dunbrae
 religion = cathar
 b_midwude = tribal
 b_midwude2 = temple

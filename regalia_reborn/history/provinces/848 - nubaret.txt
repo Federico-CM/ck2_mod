@@ -1,6 +1,6 @@
 title = c_nubaret
 max_settlements = 2
-culture = english
+culture = asha
 religion = cathar
 b_nubaret = tribal
 b_nubaret2 = temple

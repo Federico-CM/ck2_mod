@@ -1,6 +1,6 @@
 title = c_coli_jnsplaats
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_coli_jnsplaats = tribal
 b_coli_jnsplaats2 = temple

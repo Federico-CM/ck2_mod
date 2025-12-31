@@ -1,6 +1,6 @@
 title = c_hames
 max_settlements = 2
-culture = english
+culture = burdigala
 religion = cathar
 b_hames = tribal
 b_hames2 = temple

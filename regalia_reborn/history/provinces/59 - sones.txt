@@ -1,6 +1,6 @@
 title = c_sones
 max_settlements = 2
-culture = english
+culture = breizh
 religion = cathar
 b_sones = tribal
 b_sones2 = temple

@@ -1,6 +1,6 @@
 title = c_tysey
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_tysey = tribal
 b_tysey2 = temple

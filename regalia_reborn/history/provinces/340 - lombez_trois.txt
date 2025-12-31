@@ -1,6 +1,6 @@
 title = c_lombez_trois
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_lombez_trois = tribal
 b_lombez_trois2 = temple

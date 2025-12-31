@@ -1,6 +1,6 @@
 title = c_loures
 max_settlements = 2
-culture = english
+culture = bragacao
 religion = cathar
 b_loures = tribal
 b_loures2 = temple

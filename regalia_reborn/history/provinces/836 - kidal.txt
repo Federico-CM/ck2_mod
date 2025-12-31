@@ -1,6 +1,6 @@
 title = c_kidal
 max_settlements = 2
-culture = english
+culture = dragonkin
 religion = cathar
 b_kidal = tribal
 b_kidal2 = temple

@@ -1,6 +1,6 @@
 title = c_avalla_loseia
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_avalla_loseia = tribal
 b_avalla_loseia2 = temple

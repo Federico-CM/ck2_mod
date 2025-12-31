@@ -1,6 +1,6 @@
 title = c_goudvelde
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_goudvelde = tribal
 b_goudvelde2 = temple

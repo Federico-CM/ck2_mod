@@ -1,6 +1,6 @@
 title = c_overlungwitz
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_overlungwitz = tribal
 b_overlungwitz2 = temple

@@ -1,6 +1,6 @@
 title = c_hinterkaernte
 max_settlements = 2
-culture = english
+culture = leutz_vixe
 religion = cathar
 b_hinterkaernte = tribal
 b_hinterkaernte2 = temple

@@ -1,6 +1,6 @@
 title = c_riechstein
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_riechstein = tribal
 b_riechstein2 = temple

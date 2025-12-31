@@ -1,6 +1,6 @@
 title = c_eismarse
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_eismarse = tribal
 b_eismarse2 = temple

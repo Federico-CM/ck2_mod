@@ -1,6 +1,6 @@
 title = c_harstad
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_harstad = tribal
 b_harstad2 = temple

@@ -1,6 +1,6 @@
 title = c_escalle
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_escalle = tribal
 b_escalle2 = temple

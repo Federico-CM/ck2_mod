@@ -1,6 +1,6 @@
 title = c_thiendorf
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_thiendorf = tribal
 b_thiendorf2 = temple

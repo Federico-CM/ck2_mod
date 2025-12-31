@@ -1,6 +1,6 @@
 title = c_monperse
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_monperse = tribal
 b_monperse2 = temple

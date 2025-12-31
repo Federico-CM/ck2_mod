@@ -1,6 +1,6 @@
 title = c_de_aker
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_de_aker = tribal
 b_de_aker2 = temple

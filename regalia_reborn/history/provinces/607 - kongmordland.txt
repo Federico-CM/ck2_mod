@@ -1,6 +1,6 @@
 title = c_kongmordland
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_kongmordland = tribal
 b_kongmordland2 = temple

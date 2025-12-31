@@ -1,6 +1,6 @@
 title = c_cherscol
 max_settlements = 2
-culture = english
+culture = dunbrae
 religion = cathar
 b_cherscol = tribal
 b_cherscol2 = temple

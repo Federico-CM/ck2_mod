@@ -1,6 +1,6 @@
 title = c_duvion
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_duvion = tribal
 b_duvion2 = temple

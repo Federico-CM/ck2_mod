@@ -1,6 +1,6 @@
 title = c_uelman_feeila
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_uelman_feeila = tribal
 b_uelman_feeila2 = temple

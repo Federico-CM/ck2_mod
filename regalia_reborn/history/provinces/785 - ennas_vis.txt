@@ -1,6 +1,6 @@
 title = c_ennas_vis
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_ennas_vis = tribal
 b_ennas_vis2 = temple

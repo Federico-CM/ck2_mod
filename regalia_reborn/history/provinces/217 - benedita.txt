@@ -1,6 +1,6 @@
 title = c_benedita
 max_settlements = 2
-culture = english
+culture = tierravera
 religion = cathar
 b_benedita = tribal
 b_benedita2 = temple

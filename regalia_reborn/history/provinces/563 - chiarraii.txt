@@ -1,6 +1,6 @@
 title = c_chiarraii
 max_settlements = 2
-culture = english
+culture = aontaithe
 religion = cathar
 b_chiarraii = tribal
 b_chiarraii2 = temple

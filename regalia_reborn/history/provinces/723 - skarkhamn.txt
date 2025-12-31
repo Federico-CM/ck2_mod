@@ -1,6 +1,6 @@
 title = c_skarkhamn
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_skarkhamn = tribal
 b_skarkhamn2 = temple

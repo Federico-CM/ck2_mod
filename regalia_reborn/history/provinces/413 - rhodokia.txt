@@ -1,6 +1,6 @@
 title = c_rhodokia
 max_settlements = 2
-culture = english
+culture = etosian
 religion = cathar
 b_rhodokia = tribal
 b_rhodokia2 = temple

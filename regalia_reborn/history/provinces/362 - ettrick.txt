@@ -1,6 +1,6 @@
 title = c_ettrick
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_ettrick = tribal
 b_ettrick2 = temple

@@ -1,6 +1,6 @@
 title = c_halsberg
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_halsberg = tribal
 b_halsberg2 = temple

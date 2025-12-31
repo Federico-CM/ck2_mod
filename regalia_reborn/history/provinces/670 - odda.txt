@@ -1,6 +1,6 @@
 title = c_odda
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_odda = tribal
 b_odda2 = temple

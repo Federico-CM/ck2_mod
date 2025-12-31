@@ -1,6 +1,6 @@
 title = c_schatmeer
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_schatmeer = tribal
 b_schatmeer2 = temple

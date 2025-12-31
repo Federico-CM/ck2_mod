@@ -1,6 +1,6 @@
 title = c_cacedarconne
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_cacedarconne = tribal
 b_cacedarconne2 = temple

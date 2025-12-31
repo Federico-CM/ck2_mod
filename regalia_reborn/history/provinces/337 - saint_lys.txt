@@ -1,6 +1,6 @@
 title = c_saint_lys
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_saint_lys = tribal
 b_saint_lys2 = temple

@@ -1,6 +1,6 @@
 title = c_chiettina
 max_settlements = 2
-culture = english
+culture = cantaluna
 religion = cathar
 b_chiettina = tribal
 b_chiettina2 = temple

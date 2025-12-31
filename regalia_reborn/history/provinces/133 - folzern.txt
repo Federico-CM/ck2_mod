@@ -1,6 +1,6 @@
 title = c_folzern
 max_settlements = 2
-culture = english
+culture = ania
 religion = cathar
 b_folzern = tribal
 b_folzern2 = temple

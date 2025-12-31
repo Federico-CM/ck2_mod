@@ -1,6 +1,6 @@
 title = c_ingeney
 max_settlements = 2
-culture = english
+culture = breizh
 religion = cathar
 b_ingeney = tribal
 b_ingeney2 = temple

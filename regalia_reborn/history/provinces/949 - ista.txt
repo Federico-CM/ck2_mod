@@ -1,6 +1,6 @@
 title = c_ista
 max_settlements = 2
-culture = english
+culture = azzizzari
 religion = cathar
 b_ista = tribal
 b_ista2 = temple

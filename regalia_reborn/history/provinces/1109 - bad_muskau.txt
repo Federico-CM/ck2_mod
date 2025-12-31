@@ -1,6 +1,6 @@
 title = c_bad_muskau
 max_settlements = 2
-culture = english
+culture = wruclav
 religion = cathar
 b_bad_muskau = tribal
 b_bad_muskau2 = temple

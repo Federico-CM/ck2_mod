@@ -1,6 +1,6 @@
 title = c_kyglenn
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_kyglenn = tribal
 b_kyglenn2 = temple

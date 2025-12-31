@@ -1,6 +1,6 @@
 title = c_milaan_qarn
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_milaan_qarn = tribal
 b_milaan_qarn2 = temple

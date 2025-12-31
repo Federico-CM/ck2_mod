@@ -1,6 +1,6 @@
 title = c_boss_sarve
 max_settlements = 2
-culture = english
+culture = dvala
 religion = cathar
 b_boss_sarve = tribal
 b_boss_sarve2 = temple

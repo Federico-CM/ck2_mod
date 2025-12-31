@@ -1,6 +1,6 @@
 title = c_vanoise
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_vanoise = tribal
 b_vanoise2 = temple

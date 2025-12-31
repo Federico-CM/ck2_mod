@@ -1,6 +1,6 @@
 title = c_poltern
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_poltern = tribal
 b_poltern2 = temple

@@ -1,6 +1,6 @@
 title = c_hondeburg
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_hondeburg = tribal
 b_hondeburg2 = temple

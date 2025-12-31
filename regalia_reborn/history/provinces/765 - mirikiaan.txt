@@ -1,6 +1,6 @@
 title = c_mirikiaan
 max_settlements = 2
-culture = english
+culture = kathar
 religion = cathar
 b_mirikiaan = tribal
 b_mirikiaan2 = temple

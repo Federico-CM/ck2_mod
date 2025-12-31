@@ -1,6 +1,6 @@
 title = c_compostela
 max_settlements = 2
-culture = english
+culture = tierravera
 religion = cathar
 b_compostela = tribal
 b_compostela2 = temple

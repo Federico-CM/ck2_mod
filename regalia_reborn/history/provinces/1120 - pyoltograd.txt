@@ -1,6 +1,6 @@
 title = c_pyoltograd
 max_settlements = 2
-culture = english
+culture = krainivaya
 religion = cathar
 b_pyoltograd = tribal
 b_pyoltograd2 = temple

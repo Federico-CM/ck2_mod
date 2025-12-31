@@ -1,6 +1,6 @@
 title = c_dinnan
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_dinnan = tribal
 b_dinnan2 = temple

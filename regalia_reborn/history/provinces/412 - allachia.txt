@@ -1,6 +1,6 @@
 title = c_allachia
 max_settlements = 2
-culture = english
+culture = ania
 religion = cathar
 b_allachia = tribal
 b_allachia2 = temple

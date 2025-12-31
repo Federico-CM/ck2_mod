@@ -1,6 +1,6 @@
 title = c_sekken
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_sekken = tribal
 b_sekken2 = temple

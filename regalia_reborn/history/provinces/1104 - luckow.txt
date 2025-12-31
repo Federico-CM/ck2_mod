@@ -1,6 +1,6 @@
 title = c_luckow
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_luckow = tribal
 b_luckow2 = temple

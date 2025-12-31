@@ -1,6 +1,6 @@
 title = c_stepanavan
 max_settlements = 2
-culture = english
+culture = tsalqvanes
 religion = cathar
 b_stepanavan = tribal
 b_stepanavan2 = temple

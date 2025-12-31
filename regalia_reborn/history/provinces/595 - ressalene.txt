@@ -1,6 +1,6 @@
 title = c_ressalene
 max_settlements = 2
-culture = english
+culture = finul
 religion = cathar
 b_ressalene = tribal
 b_ressalene2 = temple

@@ -1,6 +1,6 @@
 title = c_palavoria
 max_settlements = 2
-culture = english
+culture = yanar
 religion = cathar
 b_palavoria = tribal
 b_palavoria2 = temple

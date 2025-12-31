@@ -1,6 +1,6 @@
 title = c_arzabzon
 max_settlements = 2
-culture = english
+culture = etosian
 religion = cathar
 b_arzabzon = tribal
 b_arzabzon2 = temple

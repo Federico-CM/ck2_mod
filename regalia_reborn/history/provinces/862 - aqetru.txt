@@ -1,6 +1,6 @@
 title = c_aqetru
 max_settlements = 2
-culture = english
+culture = asha
 religion = cathar
 b_aqetru = tribal
 b_aqetru2 = temple

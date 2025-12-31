@@ -1,6 +1,6 @@
 title = c_bonesward
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_bonesward = tribal
 b_bonesward2 = temple

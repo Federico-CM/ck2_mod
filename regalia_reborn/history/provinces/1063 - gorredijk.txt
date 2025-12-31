@@ -1,6 +1,6 @@
 title = c_gorredijk
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_gorredijk = tribal
 b_gorredijk2 = temple

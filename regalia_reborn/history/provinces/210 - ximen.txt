@@ -1,6 +1,6 @@
 title = c_ximen
 max_settlements = 2
-culture = english
+culture = bragacao
 religion = cathar
 b_ximen = tribal
 b_ximen2 = temple

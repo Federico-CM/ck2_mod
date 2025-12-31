@@ -1,6 +1,6 @@
 title = c_haubtdorf
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_haubtdorf = tribal
 b_haubtdorf2 = temple

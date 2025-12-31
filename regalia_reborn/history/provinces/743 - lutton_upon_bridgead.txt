@@ -1,6 +1,6 @@
 title = c_lutton_upon_bridgead
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_lutton_upon_bridgead = tribal
 b_lutton_upon_bridgead2 = temple

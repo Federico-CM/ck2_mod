@@ -1,6 +1,6 @@
 title = c_sicillis
 max_settlements = 2
-culture = english
+culture = azzizzari
 religion = cathar
 b_sicillis = tribal
 b_sicillis2 = temple

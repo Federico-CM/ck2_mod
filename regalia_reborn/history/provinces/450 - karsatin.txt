@@ -1,6 +1,6 @@
 title = c_karsatin
 max_settlements = 2
-culture = english
+culture = etosian
 religion = cathar
 b_karsatin = tribal
 b_karsatin2 = temple

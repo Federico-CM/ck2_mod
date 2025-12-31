@@ -1,6 +1,6 @@
 title = c_gallenberg
 max_settlements = 2
-culture = english
+culture = genevaud
 religion = cathar
 b_gallenberg = tribal
 b_gallenberg2 = temple

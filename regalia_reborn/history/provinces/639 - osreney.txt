@@ -1,6 +1,6 @@
 title = c_osreney
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_osreney = tribal
 b_osreney2 = temple

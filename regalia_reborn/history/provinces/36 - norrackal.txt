@@ -1,6 +1,6 @@
 title = c_norrackal
 max_settlements = 2
-culture = english
+culture = dunbrae
 religion = cathar
 b_norrackal = tribal
 b_norrackal2 = temple

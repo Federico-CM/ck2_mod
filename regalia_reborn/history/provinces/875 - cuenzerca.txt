@@ -1,6 +1,6 @@
 title = c_cuenzerca
 max_settlements = 2
-culture = english
+culture = tierravera
 religion = cathar
 b_cuenzerca = tribal
 b_cuenzerca2 = temple

@@ -1,6 +1,6 @@
 title = c_gorzen
 max_settlements = 2
-culture = english
+culture = leutz_vixe
 religion = cathar
 b_gorzen = tribal
 b_gorzen2 = temple

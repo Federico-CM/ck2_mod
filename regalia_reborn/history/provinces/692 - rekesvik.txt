@@ -1,6 +1,6 @@
 title = c_rekesvik
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_rekesvik = tribal
 b_rekesvik2 = temple

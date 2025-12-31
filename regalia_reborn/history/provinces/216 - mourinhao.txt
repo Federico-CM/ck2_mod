@@ -1,6 +1,6 @@
 title = c_mourinhao
 max_settlements = 2
-culture = english
+culture = bragacao
 religion = cathar
 b_mourinhao = tribal
 b_mourinhao2 = temple

@@ -1,6 +1,6 @@
 title = c_breznigrad
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_breznigrad = tribal
 b_breznigrad2 = temple

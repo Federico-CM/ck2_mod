@@ -1,6 +1,6 @@
 title = c_vellorene
 max_settlements = 2
-culture = english
+culture = finul
 religion = cathar
 b_vellorene = tribal
 b_vellorene2 = temple

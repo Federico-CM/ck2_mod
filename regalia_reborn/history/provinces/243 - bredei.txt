@@ -1,6 +1,6 @@
 title = c_bredei
 max_settlements = 2
-culture = english
+culture = gallovian
 religion = cathar
 b_bredei = tribal
 b_bredei2 = temple

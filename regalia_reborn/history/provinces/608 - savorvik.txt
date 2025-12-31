@@ -1,6 +1,6 @@
 title = c_savorvik
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_savorvik = tribal
 b_savorvik2 = temple

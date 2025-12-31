@@ -1,6 +1,6 @@
 title = c_zuidhoekland
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_zuidhoekland = tribal
 b_zuidhoekland2 = temple

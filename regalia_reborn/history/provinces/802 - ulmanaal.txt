@@ -1,6 +1,6 @@
 title = c_ulmanaal
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_ulmanaal = tribal
 b_ulmanaal2 = temple

@@ -1,6 +1,6 @@
 title = c_vila_raina
 max_settlements = 2
-culture = english
+culture = ithanian
 religion = cathar
 b_vila_raina = tribal
 b_vila_raina2 = temple

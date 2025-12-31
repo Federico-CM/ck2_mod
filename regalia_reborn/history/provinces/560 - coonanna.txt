@@ -1,6 +1,6 @@
 title = c_coonanna
 max_settlements = 2
-culture = english
+culture = aontaithe
 religion = cathar
 b_coonanna = tribal
 b_coonanna2 = temple

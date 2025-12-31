@@ -1,6 +1,6 @@
 title = c_hellefjord
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_hellefjord = tribal
 b_hellefjord2 = temple

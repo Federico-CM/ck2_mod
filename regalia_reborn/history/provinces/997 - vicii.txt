@@ -1,6 +1,6 @@
 title = c_vicii
 max_settlements = 2
-culture = english
+culture = cantaluna
 religion = cathar
 b_vicii = tribal
 b_vicii2 = temple

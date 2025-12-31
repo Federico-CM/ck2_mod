@@ -1,6 +1,6 @@
 title = c_novyabinsk
 max_settlements = 2
-culture = english
+culture = krainivaya
 religion = cathar
 b_novyabinsk = tribal
 b_novyabinsk2 = temple

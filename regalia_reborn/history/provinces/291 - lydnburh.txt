@@ -1,6 +1,6 @@
 title = c_lydnburh
 max_settlements = 2
-culture = english
+culture = dunbrae
 religion = cathar
 b_lydnburh = tribal
 b_lydnburh2 = temple

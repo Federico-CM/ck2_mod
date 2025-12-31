@@ -1,6 +1,6 @@
 title = c_fenassene
 max_settlements = 2
-culture = english
+culture = llasada
 religion = cathar
 b_fenassene = tribal
 b_fenassene2 = temple

@@ -1,6 +1,6 @@
 title = c_brigclif
 max_settlements = 2
-culture = english
+culture = dunbrae
 religion = cathar
 b_brigclif = tribal
 b_brigclif2 = temple

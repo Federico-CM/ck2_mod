@@ -1,6 +1,6 @@
 title = c_heilig_grab
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_heilig_grab = tribal
 b_heilig_grab2 = temple

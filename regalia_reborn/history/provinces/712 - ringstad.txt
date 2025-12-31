@@ -1,6 +1,6 @@
 title = c_ringstad
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_ringstad = tribal
 b_ringstad2 = temple

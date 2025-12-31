@@ -1,6 +1,6 @@
 title = c_salamaan
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_salamaan = tribal
 b_salamaan2 = temple

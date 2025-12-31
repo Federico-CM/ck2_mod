@@ -1,1554 +1,1554 @@
 1 = {
 	name = "Kade"
-	culture = english
+	culture = anglian
 }
 
 2 = {
 	name = "Haugeby"
-	culture = english
+	culture = velheim
 }
 
 3 = {
 	name = "Ravenstad"
-	culture = english
+	culture = wirtem
 }
 
 4 = {
 	name = "Krier"
-	culture = english
+	culture = wirtem
 }
 
 5 = {
 	name = "of Praag"
-	culture = english
+	culture = leutz_vixe
 }
 
 6 = {
 	name = "Arken"
-	culture = english
+	culture = velheim
 }
 
 7 = {
 	name = "Mosselberg"
-	culture = english
+	culture = wirtem
 }
 
 8 = {
 	name = "Schauss"
-	culture = english
+	culture = wirtem
 }
 
 9 = {
 	name = "Braquemont"
-	culture = english
+	culture = ithanian
 }
 
 10 = {
 	name = "Brandebourgh"
-	culture = english
+	culture = wirtem
 }
 
 11 = {
 	name = "von Grunwald"
-	culture = english
+	culture = wirtem
 }
 
 12 = {
 	name = "Typhonus"
-	culture = english
+	culture = wirtem
 }
 
 13 = {
 	name = "Brunig"
-	culture = english
+	culture = wirtem
 }
 
 14 = {
 	name = "Brunlg"
-	culture = english
+	culture = wirtem
 }
 
 15 = {
 	name = "Oltorskr"
-	culture = english
+	culture = velheim
 }
 
 16 = {
 	name = "ter Uilenburg"
-	culture = english
+	culture = anglian
 }
 
 17 = {
 	name = "van Zuienburg"
-	culture = english
+	culture = anglian
 }
 
 18 = {
 	name = "Langbergenwald"
-	culture = english
+	culture = wirtem
 }
 
 19 = {
 	name = "ter Apellenburg"
-	culture = english
+	culture = anglian
 }
 
 20 = {
 	name = "van Elst"
-	culture = english
+	culture = anglian
 }
 
 21 = {
 	name = "van Polsterwerk"
-	culture = english
+	culture = anglian
 }
 
 22 = {
 	name = "sur Mont"
-	culture = english
+	culture = ithanian
 }
 
 23 = {
 	name = "Ivrae de Sange"
-	culture = english
+	culture = ithanian
 }
 
 24 = {
 	name = "Delurite"
-	culture = english
+	culture = ithanian
 }
 
 25 = {
 	name = "van Voldemeer"
-	culture = english
+	culture = anglian
 }
 
 26 = {
 	name = "Etterburgh"
-	culture = english
+	culture = anglian
 }
 
 27 = {
 	name = "Viraine"
-	culture = english
+	culture = ithanian
 }
 
 28 = {
 	name = "Vorlinderburgh"
-	culture = english
+	culture = anglian
 }
 
 29 = {
 	name = "de Lobo"
-	culture = english
+	culture = tierravera
 }
 
 30 = {
 	name = "Lovegood"
-	culture = english
+	culture = cearden
 }
 
 32 = {
 	name = "of Portburgh"
-	culture = english
+	culture = cearden
 }
 
 33 = {
-	culture = english
+	culture = ithanian
 }
 
 34 = {
 	name = "Kade Neylade"
-	culture = english
+	culture = wirtem
 }
 
 35 = {
 	name = "Howlester"
-	culture = english
+	culture = gallovian
 }
 
 36 = {
 	name = "Westbrook"
-	culture = english
+	culture = cearden
 }
 
 37 = {
 	name = "Lampero"
-	culture = english
+	culture = cantaluna
 }
 
 38 = {
 	name = "Sutigne"
-	culture = english
+	culture = ithanian
 }
 
 39 = {
 	name = "d'Eluise"
-	culture = english
+	culture = ithanian
 }
 
 40 = {
 	name = "Black"
-	culture = english
+	culture = cearden
 }
 
 41 = {
 	name = "von Graublatt"
-	culture = english
+	culture = wirtem
 }
 
 42 = {
 	name = "von Drachenburg"
-	culture = english
+	culture = wirtem
 }
 
 43 = {
 	name = "von Hurst"
-	culture = english
+	culture = wirtem
 }
 
 44 = {
 	name = "Delmotte"
-	culture = english
+	culture = ithanian
 }
 
 45 = {
 	name = "Calontir"
-	culture = english
+	culture = solvaan
 }
 
 46 = {
 	name = "Ylvais"
-	culture = english
+	culture = ithanian
 }
 
 47 = {
 	name = "de Mont Vertu"
-	culture = english
+	culture = ithanian
 }
 
 48 = {
 	name = "de Montebrizere"
-	culture = english
+	culture = ithanian
 }
 
 49 = {
 	name = "Palomadera"
-	culture = english
+	culture = tierravera
 }
 
 50 = {
 	name = "Riva"
-	culture = english
+	culture = cantaluna
 }
 
 51 = {
 	name = "de Blouscheur"
-	culture = english
+	culture = ithanian
 }
 
 52 = {
 	name = "Norrvakt"
-	culture = english
+	culture = velheim
 }
 
 53 = {
 	name = "Orianne"
-	culture = english
+	culture = ithanian
 }
 
 54 = {
 	name = "Sorenvik"
-	culture = english
+	culture = velheim
 }
 
 55 = {
 	name = "Kensley"
-	culture = english
+	culture = cearden
 }
 
 56 = {
 	name = "Fjelleshyge"
-	culture = english
+	culture = velheim
 }
 
 57 = {
 	name = "di Tureno"
-	culture = english
+	culture = cantaluna
 }
 
 58 = {
 	name = "Mastretta"
-	culture = english
+	culture = cantaluna
 }
 
 59 = {
 	name = "di Orazzio"
-	culture = english
+	culture = cantaluna
 }
 
 60 = {
 	name = "Venturi"
-	culture = english
+	culture = cantaluna
 }
 
 61 = {
 	name = "Lucini"
-	culture = english
+	culture = cantaluna
 }
 
 62 = {
 	name = "de Morra"
-	culture = english
+	culture = cantaluna
 }
 
 63 = {
 	name = "Zinni"
-	culture = english
+	culture = cantaluna
 }
 
 64 = {
 	name = "Boerio"
-	culture = english
+	culture = cantaluna
 }
 
 65 = {
 	name = "Vescovi"
-	culture = english
+	culture = cantaluna
 }
 
 66 = {
 	name = "Spinola"
-	culture = english
+	culture = cantaluna
 }
 
 67 = {
 	name = "Malatesta"
-	culture = english
+	culture = cantaluna
 }
 
 68 = {
 	name = "Harhold"
-	culture = english
+	culture = cearden
 }
 
 69 = {
 	name = "Harding"
-	culture = english
+	culture = cearden
 }
 
 70 = {
 	name = "Adler"
-	culture = english
+	culture = wirtem
 }
 
 71 = {
 	name = "de Montreux"
-	culture = english
+	culture = ithanian
 }
 
 72 = {
 	name = "Gray"
-	culture = english
+	culture = cearden
 }
 
 73 = {
 	name = "Jeanfreau"
-	culture = english
+	culture = ithanian
 }
 
 74 = {
 	name = "Baudry"
-	culture = english
+	culture = ithanian
 }
 
 75 = {
 	name = "Caillouet"
-	culture = english
+	culture = ithanian
 }
 
 76 = {
 	name = "Perrault"
-	culture = english
+	culture = ithanian
 }
 
 77 = {
 	name = "Meaux"
-	culture = english
+	culture = ithanian
 }
 
 78 = {
 	name = "Bellerose"
-	culture = english
+	culture = ithanian
 }
 
 79 = {
 	name = "Valeur"
-	culture = english
+	culture = ithanian
 }
 
 80 = {
 	name = "de Villeneuve"
-	culture = english
+	culture = ithanian
 }
 
 81 = {
 	name = "Reinard"
-	culture = english
+	culture = wirtem
 }
 
 82 = {
 	name = "de Blouscheur"
-	culture = english
+	culture = ithanian
 }
 
 83 = {
 	name = "von Moritz"
-	culture = english
+	culture = wirtem
 }
 
 84 = {
 	name = "von Haubtdorf"
-	culture = english
+	culture = wirtem
 }
 
 85 = {
 	name = "of Yorricston"
-	culture = english
+	culture = cearden
 }
 
 86 = {
 	name = "von Drachenburg"
-	culture = english
+	culture = wirtem
 }
 
 87 = {
 	name = "Florentia d'Esclat"
-	culture = english
+	culture = ithanian
 }
 
 88 = {
 	name = "Amaya"
-	culture = english
+	culture = tierravera
 }
 
 89 = {
 	name = "Anahera"
-	culture = english
+	culture = tierravera
 }
 
 90 = {
 	name = "Tzavaras"
-	culture = english
+	culture = etosian
 }
 
 91 = {
 	name = "Bancroft"
-	culture = english
+	culture = cearden
 }
 
 92 = {
 	name = "Zylmoira"
-	culture = english
+	culture = solvaan
 }
 
 93 = {
 	name = "Finch"
-	culture = english
+	culture = cearden
 }
 
 94 = {
 	name = "Elariana"
-	culture = english
+	culture = solvaan
 }
 
 95 = {
 	name = "Cadieux"
-	culture = english
+	culture = ithanian
 }
 
 96 = {
 	name = "van Vellberg"
-	culture = english
+	culture = anglian
 }
 
 97 = {
 	name = "Salzinerre"
-	culture = english
+	culture = ithanian
 }
 
 98 = {
 	name = "Ebron"
-	culture = english
+	culture = cearden
 }
 
 99 = {
 	name = "van Westerburg"
-	culture = english
+	culture = anglian
 }
 
 100 = {
 	name = "Gruzvald"
-	culture = english
+	culture = wirtem
 }
 
 101 = {
 	name = "Schwarz"
-	culture = english
+	culture = wirtem
 }
 
 102 = {
 	name = "Lavigne"
-	culture = english
+	culture = ithanian
 }
 
 103 = {
 	name = "Thorn"
-	culture = english
+	culture = cearden
 }
 
 104 = {
 	name = "Fournier"
-	culture = english
+	culture = ithanian
 }
 
 105 = {
 	name = "Marsonne"
-	culture = english
+	culture = ithanian
 }
 
 106 = {
 	name = "Mercier"
-	culture = english
+	culture = ithanian
 }
 
 107 = {
 	name = "Archambeau"
-	culture = english
+	culture = ithanian
 }
 
 108 = {
 	name = "de la Fontaine"
-	culture = english
+	culture = ithanian
 }
 
 109 = {
 	name = "Bastier"
-	culture = english
+	culture = ithanian
 }
 
 110 = {
 	name = "Guitterez"
-	culture = english
+	culture = tierravera
 }
 
 111 = {
 	name = "Ruiz"
-	culture = english
+	culture = tierravera
 }
 
 112 = {
 	name = "Giraud"
-	culture = english
+	culture = ithanian
 }
 
 113 = {
 	name = "Viduggla"
-	culture = english
+	culture = velheim
 }
 
 114 = {
 	name = "Frostheim"
-	culture = english
+	culture = velheim
 }
 
 115 = {
 	name = "Skjoldsdottir"
-	culture = english
+	culture = velheim
 }
 
 116 = {
 	name = "Nattslott"
-	culture = english
+	culture = velheim
 }
 
 117 = {
 	name = "Litvinova"
-	culture = english
+	culture = krainivaya
 }
 
 118 = {
 	name = "av Medelpad"
-	culture = english
+	culture = velheim
 }
 
 119 = {
 	name = "Felariell"
-	culture = english
+	culture = solvaan
 }
 
 120 = {
 	name = "Aanahera"
-	culture = english
+	culture = tierravera
 }
 
 121 = {
 	name = "Red"
-	culture = english
+	culture = cearden
 }
 
 122 = {
 	name = "Beauveret"
-	culture = english
+	culture = ithanian
 }
 
 123 = {
 	name = "de Azcoissia"
-	culture = english
+	culture = suvial
 }
 
 124 = {
 	name = "Inuiirn"
-	culture = english
+	culture = solvaan
 }
 
 125 = {
 	name = "du Poincare"
-	culture = english
+	culture = ithanian
 }
 
 126 = {
 	name = "Peirgarten"
-	culture = english
+	culture = wirtem
 }
 
 127 = {
 	name = "Silvya"
-	culture = english
+	culture = tierravera
 }
 
 128 = {
 	name = "Valloaan"
-	culture = english
+	culture = solvaan
 }
 
 129 = {
 	name = "Avalorn"
-	culture = english
+	culture = solvaan
 }
 
 130 = {
 	name = "Mithalor"
-	culture = english
+	culture = solvaan
 }
 
 131 = {
 	name = "Ennamera"
-	culture = english
+	culture = solvaan
 }
 
 132 = {
 	name = "Selthien"
-	culture = english
+	culture = solvaan
 }
 
 133 = {
 	name = "Elendiel"
-	culture = english
+	culture = solvaan
 }
 
 134 = {
 	name = "Amarion"
-	culture = english
+	culture = solvaan
 }
 
 135 = {
 	name = "du Clairval"
-	culture = english
+	culture = ithanian
 }
 
 136 = {
 	name = "Delacour"
-	culture = english
+	culture = ithanian
 }
 
 137 = {
 	name = "Moreveau"
-	culture = english
+	culture = ithanian
 }
 
 138 = {
 	name = "mac Connall"
-	culture = english
+	culture = gallovian
 }
 
 139 = {
 	name = "Gallagher"
-	culture = english
+	culture = gallovian
 }
 
 140 = {
 	name = "Deceres"
-	culture = english
+	culture = ithanian
 }
 
 141 = {
 	name = "Radu"
-	culture = english
+	culture = ania
 }
 
 142 = {
 	name = "Farkas"
-	culture = english
+	culture = szabadok
 }
 
 143 = {
 	name = "Ciobanu"
-	culture = english
+	culture = ania
 }
 
 144 = {
 	name = "Celyreos"
-	culture = english
+	culture = solvaan
 }
 
 145 = {
 	name = "Haagenvig"
-	culture = english
+	culture = velheim
 }
 
 146 = {
 	name = "Rodsvar"
-	culture = english
+	culture = velheim
 }
 
 147 = {
 	name = "Vaskyrr"
-	culture = english
+	culture = velheim
 }
 
 148 = {
 	name = "Rodsvar"
-	culture = english
+	culture = velheim
 }
 
 149 = {
 	name = "Willowcreek"
-	culture = english
+	culture = cearden
 }
 
 151 = {
 	name = "Woodforge"
-	culture = english
+	culture = cearden
 }
 
 152 = {
 	name = "Latimer"
-	culture = english
+	culture = cearden
 }
 
 153 = {
 	name = "Embra"
-	culture = english
+	culture = gallovian
 }
 
 154 = {
 	name = "Petrou"
-	culture = english
+	culture = etosian
 }
 
 155 = {
 	name = "Berger"
-	culture = english
+	culture = wirtem
 }
 
 156 = {
 	name = "Lataimer"
-	culture = english
+	culture = cearden
 }
 
 157 = {
 	name = "Firekindle"
-	culture = english
+	culture = cearden
 }
 
 158 = {
 	name = "Greenwood"
-	culture = english
+	culture = cearden
 }
 
 159 = {
 	name = "Montblanc"
-	culture = english
+	culture = ithanian
 }
 
 160 = {
 	name = "Belrose"
-	culture = english
+	culture = ithanian
 }
 
 161 = {
 	name = "bel Castellajoux"
-	culture = english
+	culture = ithanian
 }
 
 162 = {
 	name = "Desrosiers"
-	culture = english
+	culture = ithanian
 }
 
 163 = {
 	name = "Vallon"
-	culture = english
+	culture = ithanian
 }
 
 164 = {
 	name = "de Mireval"
-	culture = english
+	culture = ithanian
 }
 
 165 = {
 	name = "d'Aubremont"
-	culture = english
+	culture = ithanian
 }
 
 166 = {
 	name = "Desmarais"
-	culture = english
+	culture = ithanian
 }
 
 167 = {
 	name = "von Treppewitz"
-	culture = english
+	culture = wirtem
 }
 
 168 = {
 	name = "Markgraf"
-	culture = english
+	culture = wirtem
 }
 
 169 = {
 	name = "von Lenz"
-	culture = english
+	culture = wirtem
 }
 
 170 = {
 	name = "von Hohenfels"
-	culture = english
+	culture = wirtem
 }
 
 171 = {
 	name = "Sever"
-	culture = english
+	culture = cearden
 }
 
 172 = {
 	name = "Fenwicke"
-	culture = english
+	culture = cearden
 }
 
 173 = {
 	name = "Rote"
-	culture = english
+	culture = wirtem
 }
 
 174 = {
 	name = "Lundgren"
-	culture = english
+	culture = velheim
 }
 
 175 = {
 	name = "Wexler"
-	culture = english
+	culture = wirtem
 }
 
 176 = {
 	name = "Aldcroft"
-	culture = english
+	culture = cearden
 }
 
 177 = {
 	name = "Abansaddi"
-	culture = english
+	culture = eronidas
 }
 
 178 = {
 	name = "Beauchene"
-	culture = english
+	culture = leutz_vixe
 }
 
 179 = {
 	name = "de Letoirneau"
-	culture = english
+	culture = ithanian
 }
 
 180 = {
 	name = "von Rahm"
-	culture = english
+	culture = wirtem
 }
 
 181 = {
 	name = "Mecatl"
-	culture = english
+	culture = selvath
 }
 
 182 = {
 	name = "Vasilev"
-	culture = english
+	culture = krainivaya
 }
 
 183 = {
 	name = "Petrovich"
-	culture = english
+	culture = krainivaya
 }
 
 184 = {
 	name = "von Rolanthe"
-	culture = english
+	culture = leutz_vixe
 }
 
 185 = {
 	name = "von Altburg"
-	culture = english
+	culture = leutz_vixe
 }
 
 186 = {
 	name = "Kepler"
-	culture = english
+	culture = wirtem
 }
 
 187 = {
 	name = "Nayelen"
-	culture = english
+	culture = krainivaya
 }
 
 188 = {
 	name = "Verlain"
-	culture = english
+	culture = ithanian
 }
 
 189 = {
 	name = "Maidment"
-	culture = english
+	culture = ithanian
 }
 
 190 = {
 	name = "Maerfell"
-	culture = english
+	culture = ceaerden
 }
 
 191 = {
 	name = "Eidsvik"
-	culture = english
+	culture = velheim
 }
 
 192 = {
 	name = "Elvaine"
-	culture = english
+	culture = skyborn
 }
 
 193 = {
 	name = "Silverberry"
-	culture = english
+	culture = cearden
 }
 
 194 = {
 	name = "Monterrosa"
-	culture = english
+	culture = tierravera
 }
 
 195 = {
 	name = "Bavere"
-	culture = english
+	culture = ithanian
 }
 
 196 = {
 	name = "Morathes"
-	culture = english
+	culture = asha
 }
 
 197 = {
 	name = "di Auriemma"
-	culture = english
+	culture = cantaluna
 }
 
 198 = {
 	name = "Altagracia"
-	culture = english
+	culture = cantaluna
 }
 
 199 = {
 	name = "Vyzal"
-	culture = english
+	culture = allar
 }
 
 200 = {
 	name = "Kassambara"
-	culture = english
+	culture = dragonkin
 }
 
 201 = {
 	name = "Fong"
-	culture = english
+	culture = sihai
 }
 
 202 = {
 	name = "von Duerr"
-	culture = english
+	culture = sihai
 }
 
 203 = {
 	name = "Thorner"
-	culture = english
+	culture = anglian
 }
 
 204 = {
 	name = "Wulfmacht"
-	culture = english
+	culture = cearden
 }
 
 205 = {
 	name = "van Hall"
-	culture = english
+	culture = cearden
 }
 
 206 = {
 	name = "Gianduja"
-	culture = english
+	culture = cantaluna
 }
 
 207 = {
 	name = "de Acoizia"
-	culture = english
+	culture = cantaluna
 }
 
 208 = {
 	name = "Krupp"
-	culture = english
+	culture = anglian
 }
 
 209 = {
 	name = "Spathous"
-	culture = english
+	culture = anglian
 }
 
 210 = {
 	name = "Caer Mynach"
-	culture = english
+	culture = breizh
 }
 
 211 = {
 	name = "Alein"
-	culture = english
+	culture = ithanian
 }
 
 212 = {
 	name = "Norrin"
-	culture = english
+	culture = gallovian
 }
 
 213 = {
 	name = "Redwick"
-	culture = english
+	culture = anglian
 }
 
 214 = {
 	name = "Moreau"
-	culture = english
+	culture = ithanian
 }
 
 215 = {
 	name = "Lafont"
-	culture = english
+	culture = ithanian
 }
 
 216 = {
 	name = "Silvaris"
-	culture = english
+	culture = solvaan
 }
 
 217 = {
 	name = "Vosmeer"
-	culture = english
+	culture = eronidas
 }
 
 218 = {
 	name = "Mooncrest"
-	culture = english
+	culture = solvaan
 }
 
 219 = {
 	name = "Starweave"
-	culture = english
+	culture = kathar
 }
 
 220 = {
 	name = "Vanlaer"
-	culture = english
+	culture = eronidas
 }
 
 221 = {
 	name = "Stormsen"
-	culture = english
+	culture = url
 }
 
 222 = {
 	name = "Dragovic"
-	culture = english
+	culture = wruclav
 }
 
 223 = {
 	name = "Macrennan"
-	culture = english
+	culture = dunbrae
 }
 
 224 = {
 	name = "Athenor"
-	culture = english
+	culture = etosian
 }
 
 225 = {
 	name = "Kravets"
-	culture = english
+	culture = krainivaya
 }
 
 226 = {
 	name = "Hillford"
-	culture = english
+	culture = gallovian
 }
 
 227 = {
 	name = "Blackmere"
-	culture = english
+	culture = tarkin
 }
 
 228 = {
 	name = "Oneill"
-	culture = english
+	culture = aontaithe
 }
 
 229 = {
 	name = "Whitcombe"
-	culture = english
+	culture = gallovian
 }
 
 230 = {
 	name = "Calder"
-	culture = english
+	culture = calderliga
 }
 
 231 = {
 	name = "Shevlin"
-	culture = english
+	culture = krainivaya
 }
 
 232 = {
 	name = "Brecht"
-	culture = english
+	culture = wirtem
 }
 
 233 = {
 	name = "Macleod"
-	culture = english
+	culture = dunbrae
 }
 
 234 = {
 	name = "Kyros"
-	culture = english
+	culture = tsalqvanes
 }
 
 235 = {
 	name = "Holgrave"
-	culture = english
+	culture = anglian
 }
 
 236 = {
 	name = "Carter"
-	culture = english
+	culture = leutz_vixe
 }
 
 237 = {
 	name = "Morland"
-	culture = english
+	culture = breizh
 }
 
 238 = {
 	name = "Halvorsen"
-	culture = english
+	culture = velheim
 }
 
 239 = {
 	name = "Vargas"
-	culture = english
+	culture = tierravera
 }
 
 240 = {
 	name = "Kells"
-	culture = english
+	culture = aontaithe
 }
 
 241 = {
 	name = "Pereira"
-	culture = english
+	culture = bragacao
 }
 
 242 = {
 	name = "Stavros"
-	culture = english
+	culture = byala
 }
 
 243 = {
 	name = "Kaligos"
-	culture = english
+	culture = etosian
 }
 
 244 = {
 	name = "Pendry"
-	culture = english
+	culture = cearden
 }
 
 245 = {
 	name = "Elwood"
-	culture = english
+	culture = dvala
 }
 
 246 = {
 	name = "Crowley"
-	culture = english
+	culture = allar
 }
 
 247 = {
 	name = "Keller"
-	culture = english
+	culture = genevaud
 }
 
 248 = {
 	name = "Keita"
-	culture = english
+	culture = dragonkin
 }
 
 249 = {
 	name = "Traore"
-	culture = english
+	culture = dragonkin
 }
 
 250 = {
 	name = "Ironbeard"
-	culture = english
+	culture = dwarven
 }
 
 251 = {
 	name = "Fairwind"
-	culture = english
+	culture = finul
 }
 
 252 = {
 	name = "Greenbough"
-	culture = english
+	culture = selvath
 }
 
 253 = {
 	name = "Hassan"
-	culture = english
+	culture = asha
 }
 
 254 = {
 	name = "Elmasri"
-	culture = english
+	culture = asha
 }
 
 255 = {
 	name = "Skyridge"
-	culture = english
+	culture = skyborn
 }
 
 256 = {
 	name = "Dawnmere"
-	culture = english
+	culture = llasada
 }
 
 257 = {
 	name = "Nightwillow"
-	culture = english
+	culture = yanar
 }
 
 258 = {
 	name = "Halcroft"
-	culture = english
+	culture = anglian
 }
 
 259 = {
 	name = "Ashford"
-	culture = english
+	culture = anglian
 }
 
 260 = {
 	name = "Duroc"
-	culture = english
+	culture = ithanian
 }
 
 261 = {
 	name = "Bellamy"
-	culture = english
+	culture = ithanian
 }
 
 262 = {
 	name = "Leafborne"
-	culture = english
+	culture = solvaan
 }
 
 263 = {
 	name = "Vanbroek"
-	culture = english
+	culture = eronidas
 }
 
 264 = {
 	name = "Brightsong"
-	culture = english
+	culture = solvaan
 }
 
 265 = {
 	name = "Starfall"
-	culture = english
+	culture = kathar
 }
 
 266 = {
 	name = "Devries"
-	culture = english
+	culture = eronidas
 }
 
 267 = {
 	name = "Icewind"
-	culture = english
+	culture = url
 }
 
 268 = {
 	name = "Milovan"
-	culture = english
+	culture = wruclav
 }
 
 269 = {
 	name = "Macalpin"
-	culture = english
+	culture = dunbrae
 }
 
 270 = {
 	name = "Phaedros"
-	culture = english
+	culture = etosian
 }
 
 271 = {
 	name = "Melnyk"
-	culture = english
+	culture = krainivaya
 }
 
 272 = {
 	name = "Wyndham"
-	culture = english
+	culture = gallovian
 }
 
 273 = {
 	name = "Stoneward"
-	culture = english
+	culture = tarkin
 }
 
 274 = {
 	name = "Callahan"
-	culture = english
+	culture = aontaithe
 }
 
 275 = {
 	name = "Norwood"
-	culture = english
+	culture = gallovian
 }
 
 276 = {
 	name = "Calderon"
-	culture = english
+	culture = calderliga
 }
 
 277 = {
 	name = "Havryn"
-	culture = english
+	culture = krainivaya
 }
 
 278 = {
 	name = "Hollen"
-	culture = english
+	culture = wirtem
 }
 
 279 = {
 	name = "Fraser"
-	culture = english
+	culture = dunbrae
 }
 
 280 = {
 	name = "Lykon"
-	culture = english
+	culture = tsalqvanes
 }
 
 281 = {
 	name = "Fairchild"
-	culture = english
+	culture = anglian
 }
 
 282 = {
 	name = "Holloway"
-	culture = english
+	culture = leutz_vixe
 }
 
 283 = {
 	name = "Corbin"
-	culture = english
+	culture = breizh
 }
 
 284 = {
 	name = "Runehelm"
-	culture = english
+	culture = velheim
 }
 
 285 = {
 	name = "Montoya"
-	culture = english
+	culture = tierravera
 }
 
 286 = {
 	name = "Rathmore"
-	culture = english
+	culture = aontaithe
 }
 
 287 = {
 	name = "Rocha"
-	culture = english
+	culture = bragacao
 }
 
 288 = {
 	name = "Myron"
-	culture = english
+	culture = byala
 }
 
 289 = {
 	name = "Thalemos"
-	culture = english
+	culture = etosian
 }
 
 290 = {
 	name = "Whitlock"
-	culture = english
+	culture = cearden
 }
 
 291 = {
 	name = "Halecrest"
-	culture = english
+	culture = dvala
 }
 
 292 = {
 	name = "Brookstone"
-	culture = english
+	culture = allar
 }
 
 293 = {
 	name = "Muller"
-	culture = english
+	culture = genevaud
 }
 
 294 = {
 	name = "Sissoko"
-	culture = english
+	culture = dragonkin
 }
 
 295 = {
 	name = "Doumbia"
-	culture = english
+	culture = dragonkin
 }
 
 296 = {
 	name = "Stonefury"
-	culture = english
+	culture = dwarven
 }
 
 297 = {
 	name = "Lightvale"
-	culture = english
+	culture = finul
 }
 
 298 = {
 	name = "Mossmere"
-	culture = english
+	culture = selvath
 }
 
 299 = {
 	name = "Farouk"
-	culture = english
+	culture = asha
 }
 
 300 = {
 	name = "Nabil"
-	culture = english
+	culture = asha
 }
 
 301 = {
 	name = "Windmere"
-	culture = english
+	culture = skyborn
 }
 
 302 = {
 	name = "Sunfield"
-	culture = english
+	culture = llasada
 }
 
 303 = {
 	name = "Duskwillow"
-	culture = english
+	culture = yanar
 }
 
 304 = {
 	name = "van Dijk"
-	culture = english
+	culture = anglian
 }
 
 305 = {
 	name = "de Vries"
-	culture = english
+	culture = anglian
 }
 
 306 = {
 	name = "van der Meer"
-	culture = english
+	culture = anglian
 }
 
 307 = {
 	name = "van Leeuwen"
-	culture = english
+	culture = anglian
 }
 
 308 = {
 	name = "Bakker"
-	culture = english
+	culture = anglian
 }
 
 309 = {
 	name = "Olafson"
-	culture = english
+	culture = velheim
 }
 
 310 = {
 	name = "Erikson"
-	culture = english
+	culture = velheim
 }
 
 311 = {
 	name = "Halfdaneson"
-	culture = english
+	culture = velheim
 }
 
 312 = {
 	name = "Falkenheim"
-	culture = english
+	culture = velheim
 }
 
 313 = {
 	name = "Haraldsdottir"
-	culture = english
+	culture = velheim
 }
 

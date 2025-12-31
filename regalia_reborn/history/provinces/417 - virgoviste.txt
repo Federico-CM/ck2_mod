@@ -1,6 +1,6 @@
 title = c_virgoviste
 max_settlements = 2
-culture = english
+culture = ania
 religion = cathar
 b_virgoviste = tribal
 b_virgoviste2 = temple

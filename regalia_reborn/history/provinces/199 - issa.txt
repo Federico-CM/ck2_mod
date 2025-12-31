@@ -1,6 +1,6 @@
 title = c_issa
 max_settlements = 2
-culture = english
+culture = bragacao
 religion = cathar
 b_issa = tribal
 b_issa2 = temple

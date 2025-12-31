@@ -1,6 +1,6 @@
 title = c_chleirios
 max_settlements = 2
-culture = english
+culture = bragacao
 religion = cathar
 b_chleirios = tribal
 b_chleirios2 = temple

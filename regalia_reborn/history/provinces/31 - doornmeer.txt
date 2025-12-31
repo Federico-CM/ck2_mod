@@ -1,6 +1,6 @@
 title = c_doornmeer
 max_settlements = 2
-culture = english
+culture = eronidas
 religion = cathar
 b_doornmeer = tribal
 b_doornmeer2 = temple

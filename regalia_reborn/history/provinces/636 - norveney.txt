@@ -1,6 +1,6 @@
 title = c_norveney
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_norveney = tribal
 b_norveney2 = temple

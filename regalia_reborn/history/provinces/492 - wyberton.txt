@@ -1,6 +1,6 @@
 title = c_wyberton
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_wyberton = tribal
 b_wyberton2 = temple

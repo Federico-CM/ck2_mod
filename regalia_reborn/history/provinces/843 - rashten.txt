@@ -1,6 +1,6 @@
 title = c_rashten
 max_settlements = 2
-culture = english
+culture = asha
 religion = cathar
 b_rashten = tribal
 b_rashten2 = temple

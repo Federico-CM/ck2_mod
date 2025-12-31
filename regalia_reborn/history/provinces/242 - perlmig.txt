@@ -1,6 +1,6 @@
 title = c_perlmig
 max_settlements = 2
-culture = english
+culture = gallovian
 religion = cathar
 b_perlmig = tribal
 b_perlmig2 = temple

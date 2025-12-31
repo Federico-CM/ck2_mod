@@ -1,6 +1,6 @@
 title = c_voskresensk
 max_settlements = 2
-culture = english
+culture = krainivaya
 religion = cathar
 b_voskresensk = tribal
 b_voskresensk2 = temple

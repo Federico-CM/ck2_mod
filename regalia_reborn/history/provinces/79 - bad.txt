@@ -1,6 +1,6 @@
 title = c_bad
 max_settlements = 2
-culture = english
+culture = genevaud
 religion = cathar
 b_bad = tribal
 b_bad2 = temple

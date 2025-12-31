@@ -1,6 +1,6 @@
 title = c_stouren
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_stouren = tribal
 b_stouren2 = temple

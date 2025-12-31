@@ -1,6 +1,6 @@
 title = c_thiar
 max_settlements = 2
-culture = english
+culture = aontaithe
 religion = cathar
 b_thiar = tribal
 b_thiar2 = temple

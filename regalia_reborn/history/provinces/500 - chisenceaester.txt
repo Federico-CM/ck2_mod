@@ -1,6 +1,6 @@
 title = c_chisenceaester
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_chisenceaester = tribal
 b_chisenceaester2 = temple

@@ -1,6 +1,6 @@
 title = c_zierikzee
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_zierikzee = tribal
 b_zierikzee2 = temple

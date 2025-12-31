@@ -1,6 +1,6 @@
 title = c_pol_bijlmer
 max_settlements = 2
-culture = english
+culture = eronidas
 religion = cathar
 b_pol_bijlmer = tribal
 b_pol_bijlmer2 = temple

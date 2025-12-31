@@ -1,6 +1,6 @@
 title = c_tempelmuur
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_tempelmuur = tribal
 b_tempelmuur2 = temple

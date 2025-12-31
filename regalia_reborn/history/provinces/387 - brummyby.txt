@@ -1,6 +1,6 @@
 title = c_brummyby
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_brummyby = tribal
 b_brummyby2 = temple

@@ -1,6 +1,6 @@
 title = c_anaklia
 max_settlements = 2
-culture = english
+culture = krainivaya
 religion = cathar
 b_anaklia = tribal
 b_anaklia2 = temple

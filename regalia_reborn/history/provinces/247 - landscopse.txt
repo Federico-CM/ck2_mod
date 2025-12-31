@@ -1,6 +1,6 @@
 title = c_landscopse
 max_settlements = 2
-culture = english
+culture = gallovian
 religion = cathar
 b_landscopse = tribal
 b_landscopse2 = temple

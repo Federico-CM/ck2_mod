@@ -1,6 +1,6 @@
 title = c_de_pier
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_de_pier = tribal
 b_de_pier2 = temple

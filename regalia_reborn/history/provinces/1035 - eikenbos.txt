@@ -1,6 +1,6 @@
 title = c_eikenbos
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_eikenbos = tribal
 b_eikenbos2 = temple

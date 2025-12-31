@@ -1,6 +1,6 @@
 title = c_rustwacht
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_rustwacht = tribal
 b_rustwacht2 = temple

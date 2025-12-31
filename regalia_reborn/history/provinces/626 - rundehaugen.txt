@@ -1,6 +1,6 @@
 title = c_rundehaugen
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_rundehaugen = tribal
 b_rundehaugen2 = temple

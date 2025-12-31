@@ -1,6 +1,6 @@
 title = c_sanaara
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_sanaara = tribal
 b_sanaara2 = temple

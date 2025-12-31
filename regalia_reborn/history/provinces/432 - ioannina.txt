@@ -1,6 +1,6 @@
 title = c_ioannina
 max_settlements = 2
-culture = english
+culture = etosian
 religion = cathar
 b_ioannina = tribal
 b_ioannina2 = temple

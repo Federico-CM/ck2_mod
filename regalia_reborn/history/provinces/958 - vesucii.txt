@@ -1,6 +1,6 @@
 title = c_vesucii
 max_settlements = 2
-culture = english
+culture = cantaluna
 religion = cathar
 b_vesucii = tribal
 b_vesucii2 = temple

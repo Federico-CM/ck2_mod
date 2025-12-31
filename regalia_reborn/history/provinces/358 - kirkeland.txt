@@ -1,6 +1,6 @@
 title = c_kirkeland
 max_settlements = 2
-culture = english
+culture = wirtem
 religion = cathar
 b_kirkeland = tribal
 b_kirkeland2 = temple

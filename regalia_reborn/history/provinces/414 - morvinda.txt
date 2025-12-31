@@ -1,6 +1,6 @@
 title = c_morvinda
 max_settlements = 2
-culture = english
+culture = etosian
 religion = cathar
 b_morvinda = tribal
 b_morvinda2 = temple

@@ -1,6 +1,6 @@
 title = c_sterkberg
 max_settlements = 2
-culture = english
+culture = velheim
 religion = cathar
 b_sterkberg = tribal
 b_sterkberg2 = temple

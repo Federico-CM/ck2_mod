@@ -1,6 +1,6 @@
 title = c_verrickston
 max_settlements = 2
-culture = english
+culture = ceaerden
 religion = cathar
 b_verrickston = tribal
 b_verrickston2 = temple

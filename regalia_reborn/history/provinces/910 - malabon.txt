@@ -1,6 +1,6 @@
 title = c_malabon
 max_settlements = 2
-culture = english
+culture = tierravera
 religion = cathar
 b_malabon = tribal
 b_malabon2 = temple

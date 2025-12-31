@@ -1,6 +1,6 @@
 title = c_versollen
 max_settlements = 2
-culture = english
+culture = anglian
 religion = cathar
 b_versollen = tribal
 b_versollen2 = temple

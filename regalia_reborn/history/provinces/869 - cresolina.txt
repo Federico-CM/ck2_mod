@@ -1,6 +1,6 @@
 title = c_cresolina
 max_settlements = 2
-culture = english
+culture = selvath
 religion = cathar
 b_cresolina = tribal
 b_cresolina2 = temple

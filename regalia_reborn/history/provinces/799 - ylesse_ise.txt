@@ -1,6 +1,6 @@
 title = c_ylesse_ise
 max_settlements = 2
-culture = english
+culture = solvaan
 religion = cathar
 b_ylesse_ise = tribal
 b_ylesse_ise2 = temple

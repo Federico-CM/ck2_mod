@@ -1,6 +1,6 @@
 title = c_mosokovo
 max_settlements = 2
-culture = english
+culture = krainivaya
 religion = cathar
 b_mosokovo = tribal
 b_mosokovo2 = temple

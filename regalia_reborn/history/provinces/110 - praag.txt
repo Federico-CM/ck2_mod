@@ -1,6 +1,6 @@
 title = c_praag
 max_settlements = 2
-culture = english
+culture = leutz_vixe
 religion = cathar
 b_praag = tribal
 b_praag2 = temple
