@@ -1,155 +1,155 @@
 1 = {
-	name = "kade"
+	name = "Kade"
 	culture = english
 }
 
 2 = {
-	name = "haugeby"
+	name = "Haugeby"
 	culture = english
 }
 
 3 = {
-	name = "ravenstad"
+	name = "Ravenstad"
 	culture = english
 }
 
 4 = {
-	name = "krier"
+	name = "Krier"
 	culture = english
 }
 
 5 = {
-	name = "of praag"
+	name = "of Praag"
 	culture = english
 }
 
 6 = {
-	name = "arken"
+	name = "Arken"
 	culture = english
 }
 
 7 = {
-	name = "mosselberg"
+	name = "Mosselberg"
 	culture = english
 }
 
 8 = {
-	name = "schauss"
+	name = "Schauss"
 	culture = english
 }
 
 9 = {
-	name = "braquemont"
+	name = "Braquemont"
 	culture = english
 }
 
 10 = {
-	name = "brandebourgh"
+	name = "Brandebourgh"
 	culture = english
 }
 
 11 = {
-	name = "von grunwald"
+	name = "von Grunwald"
 	culture = english
 }
 
 12 = {
-	name = "typhonus"
+	name = "Typhonus"
 	culture = english
 }
 
 13 = {
-	name = "brunig"
+	name = "Brunig"
 	culture = english
 }
 
 14 = {
-	name = "brunlg"
+	name = "Brunlg"
 	culture = english
 }
 
 15 = {
-	name = "oltorskr"
+	name = "Oltorskr"
 	culture = english
 }
 
 16 = {
-	name = "ter uilenburg"
+	name = "ter Uilenburg"
 	culture = english
 }
 
 17 = {
-	name = "van zuienburg"
+	name = "van Zuienburg"
 	culture = english
 }
 
 18 = {
-	name = "langbergenwald"
+	name = "Langbergenwald"
 	culture = english
 }
 
 19 = {
-	name = "ter apellenburg"
+	name = "ter Apellenburg"
 	culture = english
 }
 
 20 = {
-	name = "van elst"
+	name = "van Elst"
 	culture = english
 }
 
 21 = {
-	name = "van polsterwerk"
+	name = "van Polsterwerk"
 	culture = english
 }
 
 22 = {
-	name = "sur-mont"
+	name = "sur Mont"
 	culture = english
 }
 
 23 = {
-	name = "ivrae de sange"
+	name = "Ivrae de Sange"
 	culture = english
 }
 
 24 = {
-	name = "delurite"
+	name = "Delurite"
 	culture = english
 }
 
 25 = {
-	name = "van voldemeer"
+	name = "van Voldemeer"
 	culture = english
 }
 
 26 = {
-	name = "etterburgh"
+	name = "Etterburgh"
 	culture = english
 }
 
 27 = {
-	name = "viraine"
+	name = "Viraine"
 	culture = english
 }
 
 28 = {
-	name = "vorlinderburgh"
+	name = "Vorlinderburgh"
 	culture = english
 }
 
 29 = {
-	name = "de lobo"
+	name = "de Lobo"
 	culture = english
 }
 
 30 = {
-	name = "lovegood"
+	name = "Lovegood"
 	culture = english
 }
 
 32 = {
-	name = "of portburgh"
+	name = "of Portburgh"
 	culture = english
 }
 
@@ -158,1397 +158,1397 @@
 }
 
 34 = {
-	name = "kade-neylade"
+	name = "Kade Neylade"
 	culture = english
 }
 
 35 = {
-	name = "howlester"
+	name = "Howlester"
 	culture = english
 }
 
 36 = {
-	name = "westbrook"
+	name = "Westbrook"
 	culture = english
 }
 
 37 = {
-	name = "lampero"
+	name = "Lampero"
 	culture = english
 }
 
 38 = {
-	name = "sutigne"
+	name = "Sutigne"
 	culture = english
 }
 
 39 = {
-	name = "d'eluise"
+	name = "d'Eluise"
 	culture = english
 }
 
 40 = {
-	name = "black"
+	name = "Black"
 	culture = english
 }
 
 41 = {
-	name = "von graublatt"
+	name = "von Graublatt"
 	culture = english
 }
 
 42 = {
-	name = "von drachenburg"
+	name = "von Drachenburg"
 	culture = english
 }
 
 43 = {
-	name = "von hurst"
+	name = "von Hurst"
 	culture = english
 }
 
 44 = {
-	name = "delmotte"
+	name = "Delmotte"
 	culture = english
 }
 
 45 = {
-	name = "calontir"
+	name = "Calontir"
 	culture = english
 }
 
 46 = {
-	name = "ylvais"
+	name = "Ylvais"
 	culture = english
 }
 
 47 = {
-	name = "de mont vertu"
+	name = "de Mont Vertu"
 	culture = english
 }
 
 48 = {
-	name = "de montebrizere"
+	name = "de Montebrizere"
 	culture = english
 }
 
 49 = {
-	name = "palomadera"
+	name = "Palomadera"
 	culture = english
 }
 
 50 = {
-	name = "riva"
+	name = "Riva"
 	culture = english
 }
 
 51 = {
-	name = "de blouscheur"
+	name = "de Blouscheur"
 	culture = english
 }
 
 52 = {
-	name = "norrvakt"
+	name = "Norrvakt"
 	culture = english
 }
 
 53 = {
-	name = "orianne"
+	name = "Orianne"
 	culture = english
 }
 
 54 = {
-	name = "sorenvik"
+	name = "Sorenvik"
 	culture = english
 }
 
 55 = {
-	name = "kensley"
+	name = "Kensley"
 	culture = english
 }
 
 56 = {
-	name = "fjelleshyge"
+	name = "Fjelleshyge"
 	culture = english
 }
 
 57 = {
-	name = "di tureno"
+	name = "di Tureno"
 	culture = english
 }
 
 58 = {
-	name = "mastretta"
+	name = "Mastretta"
 	culture = english
 }
 
 59 = {
-	name = "di orazzio"
+	name = "di Orazzio"
 	culture = english
 }
 
 60 = {
-	name = "venturi"
+	name = "Venturi"
 	culture = english
 }
 
 61 = {
-	name = "lucini"
+	name = "Lucini"
 	culture = english
 }
 
 62 = {
-	name = "de morra"
+	name = "de Morra"
 	culture = english
 }
 
 63 = {
-	name = "zinni"
+	name = "Zinni"
 	culture = english
 }
 
 64 = {
-	name = "boerio"
+	name = "Boerio"
 	culture = english
 }
 
 65 = {
-	name = "vescovi"
+	name = "Vescovi"
 	culture = english
 }
 
 66 = {
-	name = "spinola"
+	name = "Spinola"
 	culture = english
 }
 
 67 = {
-	name = "malatesta"
+	name = "Malatesta"
 	culture = english
 }
 
 68 = {
-	name = "harhold"
+	name = "Harhold"
 	culture = english
 }
 
 69 = {
-	name = "harding"
+	name = "Harding"
 	culture = english
 }
 
 70 = {
-	name = "adler"
+	name = "Adler"
 	culture = english
 }
 
 71 = {
-	name = "de montreux"
+	name = "de Montreux"
 	culture = english
 }
 
 72 = {
-	name = "gray"
+	name = "Gray"
 	culture = english
 }
 
 73 = {
-	name = "jeanfreau"
+	name = "Jeanfreau"
 	culture = english
 }
 
 74 = {
-	name = "baudry"
+	name = "Baudry"
 	culture = english
 }
 
 75 = {
-	name = "caillouet"
+	name = "Caillouet"
 	culture = english
 }
 
 76 = {
-	name = "perrault"
+	name = "Perrault"
 	culture = english
 }
 
 77 = {
-	name = "meaux"
+	name = "Meaux"
 	culture = english
 }
 
 78 = {
-	name = "bellerose"
+	name = "Bellerose"
 	culture = english
 }
 
 79 = {
-	name = "valeur"
+	name = "Valeur"
 	culture = english
 }
 
 80 = {
-	name = "de villeneuve"
+	name = "de Villeneuve"
 	culture = english
 }
 
 81 = {
-	name = "reinard"
+	name = "Reinard"
 	culture = english
 }
 
 82 = {
-	name = "de blouscheur"
+	name = "de Blouscheur"
 	culture = english
 }
 
 83 = {
-	name = "von moritz"
+	name = "von Moritz"
 	culture = english
 }
 
 84 = {
-	name = "von haubtdorf"
+	name = "von Haubtdorf"
 	culture = english
 }
 
 85 = {
-	name = "of yorricston"
+	name = "of Yorricston"
 	culture = english
 }
 
 86 = {
-	name = "von drachenburg"
+	name = "von Drachenburg"
 	culture = english
 }
 
 87 = {
-	name = "florentia d'esclat"
+	name = "Florentia d'Esclat"
 	culture = english
 }
 
 88 = {
-	name = "amaya"
+	name = "Amaya"
 	culture = english
 }
 
 89 = {
-	name = "anahera"
+	name = "Anahera"
 	culture = english
 }
 
 90 = {
-	name = "tzavaras"
+	name = "Tzavaras"
 	culture = english
 }
 
 91 = {
-	name = "bancroft"
+	name = "Bancroft"
 	culture = english
 }
 
 92 = {
-	name = "zylmoira"
+	name = "Zylmoira"
 	culture = english
 }
 
 93 = {
-	name = "finch"
+	name = "Finch"
 	culture = english
 }
 
 94 = {
-	name = "elariana"
+	name = "Elariana"
 	culture = english
 }
 
 95 = {
-	name = "cadieux"
+	name = "Cadieux"
 	culture = english
 }
 
 96 = {
-	name = "van vellberg"
+	name = "van Vellberg"
 	culture = english
 }
 
 97 = {
-	name = "salzinerre"
+	name = "Salzinerre"
 	culture = english
 }
 
 98 = {
-	name = "ebron"
+	name = "Ebron"
 	culture = english
 }
 
 99 = {
-	name = "van westerburg"
+	name = "van Westerburg"
 	culture = english
 }
 
 100 = {
-	name = "gruzvald"
+	name = "Gruzvald"
 	culture = english
 }
 
 101 = {
-	name = "schwarz"
+	name = "Schwarz"
 	culture = english
 }
 
 102 = {
-	name = "lavigne"
+	name = "Lavigne"
 	culture = english
 }
 
 103 = {
-	name = "thorn"
+	name = "Thorn"
 	culture = english
 }
 
 104 = {
-	name = "fournier"
+	name = "Fournier"
 	culture = english
 }
 
 105 = {
-	name = "marsonne"
+	name = "Marsonne"
 	culture = english
 }
 
 106 = {
-	name = "mercier"
+	name = "Mercier"
 	culture = english
 }
 
 107 = {
-	name = "archambeau"
+	name = "Archambeau"
 	culture = english
 }
 
 108 = {
-	name = "de la fontaine"
+	name = "de la Fontaine"
 	culture = english
 }
 
 109 = {
-	name = "bastier"
+	name = "Bastier"
 	culture = english
 }
 
 110 = {
-	name = "guitterez"
+	name = "Guitterez"
 	culture = english
 }
 
 111 = {
-	name = "ruiz"
+	name = "Ruiz"
 	culture = english
 }
 
 112 = {
-	name = "giraud"
+	name = "Giraud"
 	culture = english
 }
 
 113 = {
-	name = "viduggla"
+	name = "Viduggla"
 	culture = english
 }
 
 114 = {
-	name = "frostheim"
+	name = "Frostheim"
 	culture = english
 }
 
 115 = {
-	name = "skjoldsdottir"
+	name = "Skjoldsdottir"
 	culture = english
 }
 
 116 = {
-	name = "nattslott"
+	name = "Nattslott"
 	culture = english
 }
 
 117 = {
-	name = "litvinova"
+	name = "Litvinova"
 	culture = english
 }
 
 118 = {
-	name = "av medelpad"
+	name = "av Medelpad"
 	culture = english
 }
 
 119 = {
-	name = "felariell"
+	name = "Felariell"
 	culture = english
 }
 
 120 = {
-	name = "aanahera"
+	name = "Aanahera"
 	culture = english
 }
 
 121 = {
-	name = "red"
+	name = "Red"
 	culture = english
 }
 
 122 = {
-	name = "beauveret"
+	name = "Beauveret"
 	culture = english
 }
 
 123 = {
-	name = "de azcoissia"
+	name = "de Azcoissia"
 	culture = english
 }
 
 124 = {
-	name = "inuiirn"
+	name = "Inuiirn"
 	culture = english
 }
 
 125 = {
-	name = "du poincare"
+	name = "du Poincare"
 	culture = english
 }
 
 126 = {
-	name = "peirgarten"
+	name = "Peirgarten"
 	culture = english
 }
 
 127 = {
-	name = "silvya"
+	name = "Silvya"
 	culture = english
 }
 
 128 = {
-	name = "valloaan"
+	name = "Valloaan"
 	culture = english
 }
 
 129 = {
-	name = "avalorn"
+	name = "Avalorn"
 	culture = english
 }
 
 130 = {
-	name = "mithalor"
+	name = "Mithalor"
 	culture = english
 }
 
 131 = {
-	name = "ennamera"
+	name = "Ennamera"
 	culture = english
 }
 
 132 = {
-	name = "selthien"
+	name = "Selthien"
 	culture = english
 }
 
 133 = {
-	name = "elendiel"
+	name = "Elendiel"
 	culture = english
 }
 
 134 = {
-	name = "amarion"
+	name = "Amarion"
 	culture = english
 }
 
 135 = {
-	name = "du clairval"
+	name = "du Clairval"
 	culture = english
 }
 
 136 = {
-	name = "delacour"
+	name = "Delacour"
 	culture = english
 }
 
 137 = {
-	name = "moreveau"
+	name = "Moreveau"
 	culture = english
 }
 
 138 = {
-	name = "mac connall"
+	name = "mac Connall"
 	culture = english
 }
 
 139 = {
-	name = "gallagher"
+	name = "Gallagher"
 	culture = english
 }
 
 140 = {
-	name = "deceres"
+	name = "Deceres"
 	culture = english
 }
 
 141 = {
-	name = "radu"
+	name = "Radu"
 	culture = english
 }
 
 142 = {
-	name = "farkas"
+	name = "Farkas"
 	culture = english
 }
 
 143 = {
-	name = "ciobanu"
+	name = "Ciobanu"
 	culture = english
 }
 
 144 = {
-	name = "celyreos"
+	name = "Celyreos"
 	culture = english
 }
 
 145 = {
-	name = "haagenvig"
+	name = "Haagenvig"
 	culture = english
 }
 
 146 = {
-	name = "rodsvar"
+	name = "Rodsvar"
 	culture = english
 }
 
 147 = {
-	name = "vaskyrr"
+	name = "Vaskyrr"
 	culture = english
 }
 
 148 = {
-	name = "rodsvar"
+	name = "Rodsvar"
 	culture = english
 }
 
 149 = {
-	name = "willowcreek"
+	name = "Willowcreek"
 	culture = english
 }
 
 151 = {
-	name = "woodforge"
+	name = "Woodforge"
 	culture = english
 }
 
 152 = {
-	name = "latimer"
+	name = "Latimer"
 	culture = english
 }
 
 153 = {
-	name = "embra"
+	name = "Embra"
 	culture = english
 }
 
 154 = {
-	name = "petrou"
+	name = "Petrou"
 	culture = english
 }
 
 155 = {
-	name = "berger"
+	name = "Berger"
 	culture = english
 }
 
 156 = {
-	name = "lataimer"
+	name = "Lataimer"
 	culture = english
 }
 
 157 = {
-	name = "firekindle"
+	name = "Firekindle"
 	culture = english
 }
 
 158 = {
-	name = "greenwood"
+	name = "Greenwood"
 	culture = english
 }
 
 159 = {
-	name = "montblanc"
+	name = "Montblanc"
 	culture = english
 }
 
 160 = {
-	name = "belrose"
+	name = "Belrose"
 	culture = english
 }
 
 161 = {
-	name = "bel-castellajoux"
+	name = "bel Castellajoux"
 	culture = english
 }
 
 162 = {
-	name = "desrosiers"
+	name = "Desrosiers"
 	culture = english
 }
 
 163 = {
-	name = "vallon"
+	name = "Vallon"
 	culture = english
 }
 
 164 = {
-	name = "de mireval"
+	name = "de Mireval"
 	culture = english
 }
 
 165 = {
-	name = "d'aubremont"
+	name = "d'Aubremont"
 	culture = english
 }
 
 166 = {
-	name = "desmarais"
+	name = "Desmarais"
 	culture = english
 }
 
 167 = {
-	name = "von treppewitz"
+	name = "von Treppewitz"
 	culture = english
 }
 
 168 = {
-	name = "markgraf"
+	name = "Markgraf"
 	culture = english
 }
 
 169 = {
-	name = "von lenz"
+	name = "von Lenz"
 	culture = english
 }
 
 170 = {
-	name = "von hohenfels"
+	name = "von Hohenfels"
 	culture = english
 }
 
 171 = {
-	name = "sever"
+	name = "Sever"
 	culture = english
 }
 
 172 = {
-	name = "fenwicke"
+	name = "Fenwicke"
 	culture = english
 }
 
 173 = {
-	name = "rote"
+	name = "Rote"
 	culture = english
 }
 
 174 = {
-	name = "lundgren"
+	name = "Lundgren"
 	culture = english
 }
 
 175 = {
-	name = "wexler"
+	name = "Wexler"
 	culture = english
 }
 
 176 = {
-	name = "aldcroft"
+	name = "Aldcroft"
 	culture = english
 }
 
 177 = {
-	name = "abansaddi"
+	name = "Abansaddi"
 	culture = english
 }
 
 178 = {
-	name = "beauchene"
+	name = "Beauchene"
 	culture = english
 }
 
 179 = {
-	name = "de letoirneau"
+	name = "de Letoirneau"
 	culture = english
 }
 
 180 = {
-	name = "von rahm"
+	name = "von Rahm"
 	culture = english
 }
 
 181 = {
-	name = "mecatl"
+	name = "Mecatl"
 	culture = english
 }
 
 182 = {
-	name = "vasilev"
+	name = "Vasilev"
 	culture = english
 }
 
 183 = {
-	name = "petrovich"
+	name = "Petrovich"
 	culture = english
 }
 
 184 = {
-	name = "von rolanthe"
+	name = "von Rolanthe"
 	culture = english
 }
 
 185 = {
-	name = "von altburg"
+	name = "von Altburg"
 	culture = english
 }
 
 186 = {
-	name = "kepler"
+	name = "Kepler"
 	culture = english
 }
 
 187 = {
-	name = "nayelen"
+	name = "Nayelen"
 	culture = english
 }
 
 188 = {
-	name = "verlain"
+	name = "Verlain"
 	culture = english
 }
 
 189 = {
-	name = "maidment"
+	name = "Maidment"
 	culture = english
 }
 
 190 = {
-	name = "maerfell"
+	name = "Maerfell"
 	culture = english
 }
 
 191 = {
-	name = "eidsvik"
+	name = "Eidsvik"
 	culture = english
 }
 
 192 = {
-	name = "elvaine"
+	name = "Elvaine"
 	culture = english
 }
 
 193 = {
-	name = "silverberry"
+	name = "Silverberry"
 	culture = english
 }
 
 194 = {
-	name = "monterrosa"
+	name = "Monterrosa"
 	culture = english
 }
 
 195 = {
-	name = "bavere"
+	name = "Bavere"
 	culture = english
 }
 
 196 = {
-	name = "morathes"
+	name = "Morathes"
 	culture = english
 }
 
 197 = {
-	name = "di auriemma"
+	name = "di Auriemma"
 	culture = english
 }
 
 198 = {
-	name = "altagracia"
+	name = "Altagracia"
 	culture = english
 }
 
 199 = {
-	name = "vyzal"
+	name = "Vyzal"
 	culture = english
 }
 
 200 = {
-	name = "kassambara"
+	name = "Kassambara"
 	culture = english
 }
 
 201 = {
-	name = "fong"
+	name = "Fong"
 	culture = english
 }
 
 202 = {
-	name = "von duerr"
+	name = "von Duerr"
 	culture = english
 }
 
 203 = {
-	name = "thorner"
+	name = "Thorner"
 	culture = english
 }
 
 204 = {
-	name = "wulfmacht"
+	name = "Wulfmacht"
 	culture = english
 }
 
 205 = {
-	name = "van hall"
+	name = "van Hall"
 	culture = english
 }
 
 206 = {
-	name = "gianduja"
+	name = "Gianduja"
 	culture = english
 }
 
 207 = {
-	name = "de acoizia"
+	name = "de Acoizia"
 	culture = english
 }
 
 208 = {
-	name = "krupp"
+	name = "Krupp"
 	culture = english
 }
 
 209 = {
-	name = "spathous"
+	name = "Spathous"
 	culture = english
 }
 
 210 = {
-	name = "caer mynach"
+	name = "Caer Mynach"
 	culture = english
 }
 
 211 = {
-	name = "alein"
+	name = "Alein"
 	culture = english
 }
 
 212 = {
-	name = "norrin"
+	name = "Norrin"
 	culture = english
 }
 
 213 = {
-	name = "redwick"
+	name = "Redwick"
 	culture = english
 }
 
 214 = {
-	name = "moreau"
+	name = "Moreau"
 	culture = english
 }
 
 215 = {
-	name = "lafont"
+	name = "Lafont"
 	culture = english
 }
 
 216 = {
-	name = "silvaris"
+	name = "Silvaris"
 	culture = english
 }
 
 217 = {
-	name = "vosmeer"
+	name = "Vosmeer"
 	culture = english
 }
 
 218 = {
-	name = "mooncrest"
+	name = "Mooncrest"
 	culture = english
 }
 
 219 = {
-	name = "starweave"
+	name = "Starweave"
 	culture = english
 }
 
 220 = {
-	name = "vanlaer"
+	name = "Vanlaer"
 	culture = english
 }
 
 221 = {
-	name = "stormsen"
+	name = "Stormsen"
 	culture = english
 }
 
 222 = {
-	name = "dragovic"
+	name = "Dragovic"
 	culture = english
 }
 
 223 = {
-	name = "macrennan"
+	name = "Macrennan"
 	culture = english
 }
 
 224 = {
-	name = "athenor"
+	name = "Athenor"
 	culture = english
 }
 
 225 = {
-	name = "kravets"
+	name = "Kravets"
 	culture = english
 }
 
 226 = {
-	name = "hillford"
+	name = "Hillford"
 	culture = english
 }
 
 227 = {
-	name = "blackmere"
+	name = "Blackmere"
 	culture = english
 }
 
 228 = {
-	name = "oneill"
+	name = "Oneill"
 	culture = english
 }
 
 229 = {
-	name = "whitcombe"
+	name = "Whitcombe"
 	culture = english
 }
 
 230 = {
-	name = "calder"
+	name = "Calder"
 	culture = english
 }
 
 231 = {
-	name = "shevlin"
+	name = "Shevlin"
 	culture = english
 }
 
 232 = {
-	name = "brecht"
+	name = "Brecht"
 	culture = english
 }
 
 233 = {
-	name = "macleod"
+	name = "Macleod"
 	culture = english
 }
 
 234 = {
-	name = "kyros"
+	name = "Kyros"
 	culture = english
 }
 
 235 = {
-	name = "holgrave"
+	name = "Holgrave"
 	culture = english
 }
 
 236 = {
-	name = "carter"
+	name = "Carter"
 	culture = english
 }
 
 237 = {
-	name = "morland"
+	name = "Morland"
 	culture = english
 }
 
 238 = {
-	name = "halvorsen"
+	name = "Halvorsen"
 	culture = english
 }
 
 239 = {
-	name = "vargas"
+	name = "Vargas"
 	culture = english
 }
 
 240 = {
-	name = "kells"
+	name = "Kells"
 	culture = english
 }
 
 241 = {
-	name = "pereira"
+	name = "Pereira"
 	culture = english
 }
 
 242 = {
-	name = "stavros"
+	name = "Stavros"
 	culture = english
 }
 
 243 = {
-	name = "kaligos"
+	name = "Kaligos"
 	culture = english
 }
 
 244 = {
-	name = "pendry"
+	name = "Pendry"
 	culture = english
 }
 
 245 = {
-	name = "elwood"
+	name = "Elwood"
 	culture = english
 }
 
 246 = {
-	name = "crowley"
+	name = "Crowley"
 	culture = english
 }
 
 247 = {
-	name = "keller"
+	name = "Keller"
 	culture = english
 }
 
 248 = {
-	name = "keita"
+	name = "Keita"
 	culture = english
 }
 
 249 = {
-	name = "traore"
+	name = "Traore"
 	culture = english
 }
 
 250 = {
-	name = "ironbeard"
+	name = "Ironbeard"
 	culture = english
 }
 
 251 = {
-	name = "fairwind"
+	name = "Fairwind"
 	culture = english
 }
 
 252 = {
-	name = "greenbough"
+	name = "Greenbough"
 	culture = english
 }
 
 253 = {
-	name = "hassan"
+	name = "Hassan"
 	culture = english
 }
 
 254 = {
-	name = "elmasri"
+	name = "Elmasri"
 	culture = english
 }
 
 255 = {
-	name = "skyridge"
+	name = "Skyridge"
 	culture = english
 }
 
 256 = {
-	name = "dawnmere"
+	name = "Dawnmere"
 	culture = english
 }
 
 257 = {
-	name = "nightwillow"
+	name = "Nightwillow"
 	culture = english
 }
 
 258 = {
-	name = "halcroft"
+	name = "Halcroft"
 	culture = english
 }
 
 259 = {
-	name = "ashford"
+	name = "Ashford"
 	culture = english
 }
 
 260 = {
-	name = "duroc"
+	name = "Duroc"
 	culture = english
 }
 
 261 = {
-	name = "bellamy"
+	name = "Bellamy"
 	culture = english
 }
 
 262 = {
-	name = "leafborne"
+	name = "Leafborne"
 	culture = english
 }
 
 263 = {
-	name = "vanbroek"
+	name = "Vanbroek"
 	culture = english
 }
 
 264 = {
-	name = "brightsong"
+	name = "Brightsong"
 	culture = english
 }
 
 265 = {
-	name = "starfall"
+	name = "Starfall"
 	culture = english
 }
 
 266 = {
-	name = "devries"
+	name = "Devries"
 	culture = english
 }
 
 267 = {
-	name = "icewind"
+	name = "Icewind"
 	culture = english
 }
 
 268 = {
-	name = "milovan"
+	name = "Milovan"
 	culture = english
 }
 
 269 = {
-	name = "macalpin"
+	name = "Macalpin"
 	culture = english
 }
 
 270 = {
-	name = "phaedros"
+	name = "Phaedros"
 	culture = english
 }
 
 271 = {
-	name = "melnyk"
+	name = "Melnyk"
 	culture = english
 }
 
 272 = {
-	name = "wyndham"
+	name = "Wyndham"
 	culture = english
 }
 
 273 = {
-	name = "stoneward"
+	name = "Stoneward"
 	culture = english
 }
 
 274 = {
-	name = "callahan"
+	name = "Callahan"
 	culture = english
 }
 
 275 = {
-	name = "norwood"
+	name = "Norwood"
 	culture = english
 }
 
 276 = {
-	name = "calderon"
+	name = "Calderon"
 	culture = english
 }
 
 277 = {
-	name = "havryn"
+	name = "Havryn"
 	culture = english
 }
 
 278 = {
-	name = "hollen"
+	name = "Hollen"
 	culture = english
 }
 
 279 = {
-	name = "fraser"
+	name = "Fraser"
 	culture = english
 }
 
 280 = {
-	name = "lykon"
+	name = "Lykon"
 	culture = english
 }
 
 281 = {
-	name = "fairchild"
+	name = "Fairchild"
 	culture = english
 }
 
 282 = {
-	name = "holloway"
+	name = "Holloway"
 	culture = english
 }
 
 283 = {
-	name = "corbin"
+	name = "Corbin"
 	culture = english
 }
 
 284 = {
-	name = "runehelm"
+	name = "Runehelm"
 	culture = english
 }
 
 285 = {
-	name = "montoya"
+	name = "Montoya"
 	culture = english
 }
 
 286 = {
-	name = "rathmore"
+	name = "Rathmore"
 	culture = english
 }
 
 287 = {
-	name = "rocha"
+	name = "Rocha"
 	culture = english
 }
 
 288 = {
-	name = "myron"
+	name = "Myron"
 	culture = english
 }
 
 289 = {
-	name = "thalemos"
+	name = "Thalemos"
 	culture = english
 }
 
 290 = {
-	name = "whitlock"
+	name = "Whitlock"
 	culture = english
 }
 
 291 = {
-	name = "halecrest"
+	name = "Halecrest"
 	culture = english
 }
 
 292 = {
-	name = "brookstone"
+	name = "Brookstone"
 	culture = english
 }
 
 293 = {
-	name = "muller"
+	name = "Muller"
 	culture = english
 }
 
 294 = {
-	name = "sissoko"
+	name = "Sissoko"
 	culture = english
 }
 
 295 = {
-	name = "doumbia"
+	name = "Doumbia"
 	culture = english
 }
 
 296 = {
-	name = "stonefury"
+	name = "Stonefury"
 	culture = english
 }
 
 297 = {
-	name = "lightvale"
+	name = "Lightvale"
 	culture = english
 }
 
 298 = {
-	name = "mossmere"
+	name = "Mossmere"
 	culture = english
 }
 
 299 = {
-	name = "farouk"
+	name = "Farouk"
 	culture = english
 }
 
 300 = {
-	name = "nabil"
+	name = "Nabil"
 	culture = english
 }
 
 301 = {
-	name = "windmere"
+	name = "Windmere"
 	culture = english
 }
 
 302 = {
-	name = "sunfield"
+	name = "Sunfield"
 	culture = english
 }
 
 303 = {
-	name = "duskwillow"
+	name = "Duskwillow"
 	culture = english
 }
 
 304 = {
-	name = "van dijk"
+	name = "van Dijk"
 	culture = english
 }
 
 305 = {
-	name = "de vries"
+	name = "de Vries"
 	culture = english
 }
 
 306 = {
-	name = "van der meer"
+	name = "van der Meer"
 	culture = english
 }
 
 307 = {
-	name = "van leeuwen"
+	name = "van Leeuwen"
 	culture = english
 }
 
 308 = {
-	name = "bakker"
+	name = "Bakker"
 	culture = english
 }
 
 309 = {
-	name = "olafson"
+	name = "Olafson"
 	culture = english
 }
 
 310 = {
-	name = "erikson"
+	name = "Erikson"
 	culture = english
 }
 
 311 = {
-	name = "halfdaneson"
+	name = "Halfdaneson"
 	culture = english
 }
 
 312 = {
-	name = "falkenheim"
+	name = "Falkenheim"
 	culture = english
 }
 
 313 = {
-	name = "haraldsdottir"
+	name = "Haraldsdottir"
 	culture = english
 }
 

@@ -16,7 +16,7 @@ static = "statics"
 seasons = "seasons.txt"
 
 
-sea_zones = { 1125 1247 }
+sea_zones = { 1125 1271 }
 
 ocean_region = {{	# Inner Regalian seas
 	sea_zones = {{ 1 }}
