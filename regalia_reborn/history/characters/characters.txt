@@ -1,5 +1,5 @@
 1 = {
-	name = "alexander"
+	name = "Alexander"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -9,12 +9,12 @@
 		death = 357.1.1
 	}
 	dynasty = 1
-	mother = 107
-	father = 106
+	mother = 107.0
+	father = 106.0
 }
 
 2 = {
-	name = "svanhild"
+	name = "Svanhild"
 	culture = english
 	religion = cathar
 	female = yes
@@ -28,7 +28,7 @@
 }
 
 3 = {
-	name = "adalradr"
+	name = "Adalradr"
 	culture = english
 	religion = cathar
 	196.1.1 = {
@@ -41,7 +41,7 @@
 }
 
 4 = {
-	name = "leona"
+	name = "Leona"
 	culture = english
 	religion = cathar
 	female = yes
@@ -52,12 +52,12 @@
 		death = 368.1.1
 	}
 	dynasty = 15
-	mother = 5
-	father = 138
+	mother = 5.0
+	father = 138.0
 }
 
 5 = {
-	name = "inga"
+	name = "Inga"
 	culture = english
 	religion = cathar
 	female = yes
@@ -71,7 +71,7 @@
 }
 
 6 = {
-	name = "aron"
+	name = "Aron"
 	culture = english
 	religion = cathar
 	264.1.1 = {
@@ -81,12 +81,12 @@
 		death = 364.1.1
 	}
 	dynasty = 15
-	mother = 5
-	father = 138
+	mother = 5.0
+	father = 138.0
 }
 
 7 = {
-	name = "enok"
+	name = "Enok"
 	culture = english
 	religion = cathar
 	262.1.1 = {
@@ -96,12 +96,12 @@
 		death = 362.1.1
 	}
 	dynasty = 15
-	mother = 5
-	father = 138
+	mother = 5.0
+	father = 138.0
 }
 
 8 = {
-	name = "arnbjorg"
+	name = "Arnbjorg"
 	culture = english
 	religion = cathar
 	female = yes
@@ -112,12 +112,12 @@
 		death = 384.1.1
 	}
 	dynasty = 15
-	mother = 5
-	father = 138
+	mother = 5.0
+	father = 138.0
 }
 
 9 = {
-	name = "ani"
+	name = "Ani"
 	culture = english
 	religion = cathar
 	female = yes
@@ -128,12 +128,12 @@
 		death = 363.1.1
 	}
 	dynasty = 15
-	mother = 5
-	father = 138
+	mother = 5.0
+	father = 138.0
 }
 
 10 = {
-	name = "katrin"
+	name = "Katrin"
 	culture = english
 	religion = cathar
 	female = yes
@@ -144,12 +144,12 @@
 		death = 382.1.1
 	}
 	dynasty = 15
-	mother = 9
-	father = 210
+	mother = 9.0
+	father = 210.0
 }
 
 11 = {
-	name = "vulmar"
+	name = "Vulmar"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -159,12 +159,12 @@
 		death = 383.1.1
 	}
 	dynasty = 3
-	mother = 9
-	father = 210
+	mother = 9.0
+	father = 210.0
 }
 
 12 = {
-	name = "medard"
+	name = "Medard"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -174,12 +174,12 @@
 		death = 368.1.1
 	}
 	dynasty = 3
-	mother = 13
-	father = 14
+	mother = 13.0
+	father = 14.0
 }
 
 13 = {
-	name = "konstanze"
+	name = "Konstanze"
 	culture = english
 	religion = cathar
 	female = yes
@@ -190,11 +190,11 @@
 		death = 308.1.1
 	}
 	dynasty = 3
-	father = 15
+	father = 15.0
 }
 
 14 = {
-	name = "rolf"
+	name = "Rolf"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -207,7 +207,7 @@
 }
 
 15 = {
-	name = "rued"
+	name = "Rued"
 	culture = english
 	religion = cathar
 	209.1.1 = {
@@ -220,7 +220,7 @@
 }
 
 16 = {
-	name = "erwald"
+	name = "Erwald"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -230,12 +230,12 @@
 		death = 379.1.1
 	}
 	dynasty = 3
-	mother = 13
-	father = 14
+	mother = 13.0
+	father = 14.0
 }
 
 17 = {
-	name = "vicelin"
+	name = "Vicelin"
 	culture = english
 	religion = cathar
 	290.1.1 = {
@@ -245,11 +245,11 @@
 		death = 390.1.1
 	}
 	dynasty = 5
-	father = 18
+	father = 18.0
 }
 
 18 = {
-	name = "fury"
+	name = "Fury"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -262,7 +262,7 @@
 }
 
 19 = {
-	name = "riccard"
+	name = "Riccard"
 	culture = english
 	religion = cathar
 	261.1.1 = {
@@ -272,11 +272,11 @@
 		death = 278.1.1
 	}
 	dynasty = 3
-	father = 15
+	father = 15.0
 }
 
 20 = {
-	name = "alette"
+	name = "Alette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -287,11 +287,11 @@
 		death = 298.1.1
 	}
 	dynasty = 3
-	father = 15
+	father = 15.0
 }
 
 21 = {
-	name = "viktor"
+	name = "Viktor"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -301,12 +301,12 @@
 		death = 388.1.1
 	}
 	dynasty = 3
-	mother = 22
-	father = 23
+	mother = 22.0
+	father = 23.0
 }
 
 22 = {
-	name = "charlotte"
+	name = "Charlotte"
 	culture = english
 	religion = cathar
 	female = yes
@@ -320,7 +320,7 @@
 }
 
 23 = {
-	name = "anton"
+	name = "Anton"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -330,12 +330,12 @@
 		death = 366.1.1
 	}
 	dynasty = 3
-	mother = 24
-	father = 25
+	mother = 24.0
+	father = 25.0
 }
 
 24 = {
-	name = "sybille"
+	name = "Sybille"
 	culture = english
 	religion = cathar
 	female = yes
@@ -346,11 +346,11 @@
 		death = 349.1.1
 	}
 	dynasty = 8
-	father = 519
+	father = 519.0
 }
 
 25 = {
-	name = "karel"
+	name = "Karel"
 	culture = english
 	religion = cathar
 	239.1.1 = {
@@ -360,11 +360,11 @@
 		death = 339.1.1
 	}
 	dynasty = 3
-	father = 15
+	father = 15.0
 }
 
 26 = {
-	name = "riccard"
+	name = "Riccard"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -374,12 +374,12 @@
 		death = 392.1.1
 	}
 	dynasty = 3
-	mother = 27
-	father = 23
+	mother = 27.0
+	father = 23.0
 }
 
 27 = {
-	name = "auddriana"
+	name = "Auddriana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -393,7 +393,7 @@
 }
 
 28 = {
-	name = "helena"
+	name = "Helena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -404,12 +404,12 @@
 		death = 394.1.1
 	}
 	dynasty = 3
-	mother = 27
-	father = 23
+	mother = 27.0
+	father = 23.0
 }
 
 29 = {
-	name = "parzival"
+	name = "Parzival"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -419,12 +419,12 @@
 		death = 365.1.1
 	}
 	dynasty = 3
-	mother = 24
-	father = 25
+	mother = 24.0
+	father = 25.0
 }
 
 30 = {
-	name = "xavier"
+	name = "Xavier"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -434,12 +434,12 @@
 		death = 307.1.1
 	}
 	dynasty = 3
-	mother = 31
-	father = 29
+	mother = 31.0
+	father = 29.0
 }
 
 31 = {
-	name = "adelaide"
+	name = "Adelaide"
 	culture = english
 	religion = cathar
 	female = yes
@@ -453,7 +453,7 @@
 }
 
 32 = {
-	name = "cecile"
+	name = "Cecile"
 	culture = english
 	religion = cathar
 	female = yes
@@ -464,12 +464,12 @@
 		death = 382.1.1
 	}
 	dynasty = 3
-	mother = 31
-	father = 29
+	mother = 31.0
+	father = 29.0
 }
 
 33 = {
-	name = "jean-luc"
+	name = "Jean Luc"
 	culture = english
 	religion = cathar
 	297.1.1 = {
@@ -479,12 +479,12 @@
 		death = 397.1.1
 	}
 	dynasty = 3
-	mother = 31
-	father = 29
+	mother = 31.0
+	father = 29.0
 }
 
 34 = {
-	name = "eleonore"
+	name = "Eleonore"
 	culture = english
 	religion = cathar
 	female = yes
@@ -495,12 +495,12 @@
 		death = 389.1.1
 	}
 	dynasty = 3
-	mother = 31
-	father = 29
+	mother = 31.0
+	father = 29.0
 }
 
 35 = {
-	name = "riccard"
+	name = "Riccard"
 	culture = english
 	religion = cathar
 	286.1.1 = {
@@ -510,12 +510,12 @@
 		death = 386.1.1
 	}
 	dynasty = 3
-	mother = 27
-	father = 23
+	mother = 27.0
+	father = 23.0
 }
 
 36 = {
-	name = "regine"
+	name = "Regine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -529,7 +529,7 @@
 }
 
 37 = {
-	name = "aldrich"
+	name = "Aldrich"
 	culture = english
 	religion = cathar
 	132.1.1 = {
@@ -542,7 +542,7 @@
 }
 
 38 = {
-	name = "niven"
+	name = "Niven"
 	culture = english
 	religion = cathar
 	162.1.1 = {
@@ -552,11 +552,11 @@
 		death = 230.1.1
 	}
 	dynasty = 12
-	father = 37
+	father = 37.0
 }
 
 39 = {
-	name = "helene marie"
+	name = "Helene Marie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -567,11 +567,11 @@
 		death = 195.1.1
 	}
 	dynasty = 13
-	father = 255
+	father = 255.0
 }
 
 40 = {
-	name = "gerhard iii"
+	name = "Gerhard"
 	culture = english
 	religion = cathar
 	185.1.1 = {
@@ -581,12 +581,12 @@
 		death = 274.1.1
 	}
 	dynasty = 12
-	mother = 39
-	father = 38
+	mother = 39.0
+	father = 38.0
 }
 
 41 = {
-	name = "ottokar"
+	name = "Ottokar"
 	culture = english
 	religion = cathar
 	191.1.1 = {
@@ -596,12 +596,12 @@
 		death = 252.1.1
 	}
 	dynasty = 12
-	mother = 39
-	father = 38
+	mother = 39.0
+	father = 38.0
 }
 
 42 = {
-	name = "laurenz"
+	name = "Laurenz"
 	culture = english
 	religion = cathar
 	224.1.1 = {
@@ -611,11 +611,11 @@
 		death = 240.1.1
 	}
 	dynasty = 12
-	father = 41
+	father = 41.0
 }
 
 43 = {
-	name = "hadrian"
+	name = "Hadrian"
 	culture = english
 	religion = cathar
 	206.1.1 = {
@@ -625,11 +625,11 @@
 		death = 271.1.1
 	}
 	dynasty = 12
-	father = 40
+	father = 40.0
 }
 
 44 = {
-	name = "theodon"
+	name = "Theodon"
 	culture = english
 	religion = cathar
 	243.1.1 = {
@@ -639,11 +639,11 @@
 		death = 343.1.1
 	}
 	dynasty = 12
-	father = 40
+	father = 40.0
 }
 
 45 = {
-	name = "albrecht"
+	name = "Albrecht"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -653,11 +653,11 @@
 		death = 363.1.1
 	}
 	dynasty = 12
-	father = 44
+	father = 44.0
 }
 
 46 = {
-	name = "rudolph"
+	name = "Rudolph"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -667,11 +667,11 @@
 		death = 360.1.1
 	}
 	dynasty = 12
-	father = 44
+	father = 44.0
 }
 
 47 = {
-	name = "maximillian"
+	name = "Maximillian"
 	culture = english
 	religion = cathar
 	261.1.1 = {
@@ -681,11 +681,11 @@
 		death = 361.1.1
 	}
 	dynasty = 12
-	father = 44
+	father = 44.0
 }
 
 48 = {
-	name = "ulrich"
+	name = "Ulrich"
 	culture = english
 	religion = cathar
 	251.1.1 = {
@@ -695,12 +695,12 @@
 		death = 351.1.1
 	}
 	dynasty = 12
-	mother = 20
-	father = 43
+	mother = 20.0
+	father = 43.0
 }
 
 49 = {
-	name = "klaus"
+	name = "Klaus"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -710,12 +710,12 @@
 		death = 387.1.1
 	}
 	dynasty = 12
-	mother = 479
-	father = 45
+	mother = 479.0
+	father = 45.0
 }
 
 50 = {
-	name = "reynold"
+	name = "Reynold"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -725,12 +725,12 @@
 		death = 379.1.1
 	}
 	dynasty = 12
-	mother = 479
-	father = 45
+	mother = 479.0
+	father = 45.0
 }
 
 51 = {
-	name = "lydia"
+	name = "Lydia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -741,12 +741,12 @@
 		death = 386.1.1
 	}
 	dynasty = 12
-	mother = 479
-	father = 45
+	mother = 479.0
+	father = 45.0
 }
 
 52 = {
-	name = "thoron"
+	name = "Thoron"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -756,12 +756,12 @@
 		death = 354.1.1
 	}
 	dynasty = 12
-	mother = 20
-	father = 43
+	mother = 20.0
+	father = 43.0
 }
 
 53 = {
-	name = "reinhardt"
+	name = "Reinhardt"
 	culture = english
 	religion = cathar
 	278.1.1 = {
@@ -771,11 +771,11 @@
 		death = 378.1.1
 	}
 	dynasty = 12
-	father = 52
+	father = 52.0
 }
 
 54 = {
-	name = "cecillie"
+	name = "Cecillie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -786,11 +786,11 @@
 		death = 385.1.1
 	}
 	dynasty = 12
-	father = 52
+	father = 52.0
 }
 
 55 = {
-	name = "roland"
+	name = "Roland"
 	culture = english
 	religion = cathar
 	296.1.1 = {
@@ -800,11 +800,11 @@
 		death = 396.1.1
 	}
 	dynasty = 12
-	father = 52
+	father = 52.0
 }
 
 56 = {
-	name = "aolderich"
+	name = "Aolderich"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -814,11 +814,11 @@
 		death = 373.1.1
 	}
 	dynasty = 12
-	father = 48
+	father = 48.0
 }
 
 57 = {
-	name = "elrik"
+	name = "Elrik"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -828,11 +828,11 @@
 		death = 379.1.1
 	}
 	dynasty = 12
-	father = 48
+	father = 48.0
 }
 
 58 = {
-	name = "jaekor"
+	name = "Jaekor"
 	culture = english
 	religion = cathar
 	274.1.1 = {
@@ -842,11 +842,11 @@
 		death = 374.1.1
 	}
 	dynasty = 12
-	father = 48
+	father = 48.0
 }
 
 59 = {
-	name = "riane"
+	name = "Riane"
 	culture = english
 	religion = cathar
 	female = yes
@@ -857,11 +857,11 @@
 		death = 376.1.1
 	}
 	dynasty = 12
-	father = 48
+	father = 48.0
 }
 
 60 = {
-	name = "reimar"
+	name = "Reimar"
 	culture = english
 	religion = cathar
 	295.1.1 = {
@@ -871,11 +871,11 @@
 		death = 395.1.1
 	}
 	dynasty = 12
-	father = 50
+	father = 50.0
 }
 
 61 = {
-	name = "josephine"
+	name = "Josephine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -886,12 +886,12 @@
 		death = 384.1.1
 	}
 	dynasty = 12
-	mother = 479
-	father = 45
+	mother = 479.0
+	father = 45.0
 }
 
 62 = {
-	name = "rianne"
+	name = "Rianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -902,11 +902,11 @@
 		death = 65.1.1
 	}
 	dynasty = 14
-	father = 245
+	father = 245.0
 }
 
 63 = {
-	name = "caldomir"
+	name = "Caldomir"
 	culture = english
 	religion = cathar
 	6.1.1 = {
@@ -919,7 +919,7 @@
 }
 
 64 = {
-	name = "aldomir"
+	name = "Aldomir"
 	culture = english
 	religion = cathar
 	22.1.1 = {
@@ -929,11 +929,11 @@
 		death = 75.1.1
 	}
 	dynasty = 1
-	father = 63
+	father = 63.0
 }
 
 65 = {
-	name = "eotranna"
+	name = "Eotranna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -944,11 +944,11 @@
 		death = 114.1.1
 	}
 	dynasty = 1
-	father = 63
+	father = 63.0
 }
 
 66 = {
-	name = "tedromar"
+	name = "Tedromar"
 	culture = english
 	religion = cathar
 	24.1.1 = {
@@ -958,11 +958,11 @@
 		death = 65.1.1
 	}
 	dynasty = 1
-	father = 63
+	father = 63.0
 }
 
 67 = {
-	name = "dwalmar"
+	name = "Dwalmar"
 	culture = english
 	religion = cathar
 	26.1.1 = {
@@ -972,11 +972,11 @@
 		death = 67.1.1
 	}
 	dynasty = 1
-	father = 63
+	father = 63.0
 }
 
 68 = {
-	name = "arnold"
+	name = "Arnold"
 	culture = english
 	religion = cathar
 	28.1.1 = {
@@ -986,11 +986,11 @@
 		death = 67.1.1
 	}
 	dynasty = 1
-	father = 63
+	father = 63.0
 }
 
 70 = {
-	name = "kattemeis"
+	name = "Kattemeis"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1004,7 +1004,7 @@
 }
 
 69 = {
-	name = "betheoric"
+	name = "Betheoric"
 	culture = english
 	religion = cathar
 	38.1.1 = {
@@ -1014,12 +1014,12 @@
 		death = 79.1.1
 	}
 	dynasty = 1
-	mother = 62
-	father = 64
+	mother = 62.0
+	father = 64.0
 }
 
 71 = {
-	name = "betheoric"
+	name = "Betheoric"
 	culture = english
 	religion = cathar
 	54.1.1 = {
@@ -1029,12 +1029,12 @@
 		death = 104.1.1
 	}
 	dynasty = 1
-	mother = 70
-	father = 69
+	mother = 70.0
+	father = 69.0
 }
 
 72 = {
-	name = "maenarra"
+	name = "Maenarra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1048,7 +1048,7 @@
 }
 
 73 = {
-	name = "ellenore"
+	name = "Ellenore"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1059,12 +1059,12 @@
 		death = 110.1.1
 	}
 	dynasty = 1
-	mother = 72
-	father = 71
+	mother = 72.0
+	father = 71.0
 }
 
 74 = {
-	name = "tarnan"
+	name = "Tarnan"
 	culture = english
 	religion = cathar
 	93.1.1 = {
@@ -1074,11 +1074,11 @@
 		death = 119.1.1
 	}
 	dynasty = 1
-	mother = 73
+	mother = 73.0
 }
 
 75 = {
-	name = "sarvan"
+	name = "Sarvan"
 	culture = english
 	religion = cathar
 	94.1.1 = {
@@ -1088,11 +1088,11 @@
 		death = 119.1.1
 	}
 	dynasty = 1
-	mother = 73
+	mother = 73.0
 }
 
 76 = {
-	name = "beatrix"
+	name = "Beatrix"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1103,12 +1103,12 @@
 		death = 141.1.1
 	}
 	dynasty = 1
-	mother = 72
-	father = 71
+	mother = 72.0
+	father = 71.0
 }
 
 77 = {
-	name = "arnold"
+	name = "Arnold"
 	culture = english
 	religion = cathar
 	79.1.1 = {
@@ -1121,7 +1121,7 @@
 }
 
 78 = {
-	name = "nikolaas (nicholas)"
+	name = "Nikolaas (nicholas)"
 	culture = english
 	religion = cathar
 	103.1.1 = {
@@ -1131,12 +1131,12 @@
 		death = 205.1.1
 	}
 	dynasty = 1
-	mother = 76
-	father = 77
+	mother = 76.0
+	father = 77.0
 }
 
 79 = {
-	name = "kassandra"
+	name = "Kassandra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1147,12 +1147,12 @@
 		death = 174.1.1
 	}
 	dynasty = 1
-	mother = 76
-	father = 77
+	mother = 76.0
+	father = 77.0
 }
 
 80 = {
-	name = "melissa"
+	name = "Melissa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1163,12 +1163,12 @@
 		death = 154.1.1
 	}
 	dynasty = 1
-	mother = 76
-	father = 77
+	mother = 76.0
+	father = 77.0
 }
 
 81 = {
-	name = "elenoor"
+	name = "Elenoor"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1179,12 +1179,12 @@
 		death = 130.1.1
 	}
 	dynasty = 1
-	mother = 76
-	father = 77
+	mother = 76.0
+	father = 77.0
 }
 
 82 = {
-	name = "fienne"
+	name = "Fienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1195,12 +1195,12 @@
 		death = 210.1.1
 	}
 	dynasty = 1
-	mother = 76
-	father = 77
+	mother = 76.0
+	father = 77.0
 }
 
 83 = {
-	name = "trixa"
+	name = "Trixa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1211,12 +1211,12 @@
 		death = 200.1.1
 	}
 	dynasty = 1
-	mother = 76
-	father = 77
+	mother = 76.0
+	father = 77.0
 }
 
 84 = {
-	name = "celemora"
+	name = "Celemora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1227,12 +1227,12 @@
 		death = 205.1.1
 	}
 	dynasty = 1
-	mother = 76
-	father = 77
+	mother = 76.0
+	father = 77.0
 }
 
 85 = {
-	name = "arnold"
+	name = "Arnold"
 	culture = english
 	religion = cathar
 	150.1.1 = {
@@ -1242,11 +1242,11 @@
 		death = 205.1.1
 	}
 	dynasty = 1
-	father = 78
+	father = 78.0
 }
 
 86 = {
-	name = "ingrid"
+	name = "Ingrid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1260,7 +1260,7 @@
 }
 
 87 = {
-	name = "erik"
+	name = "Erik"
 	culture = english
 	religion = cathar
 	153.1.1 = {
@@ -1270,11 +1270,11 @@
 		death = 203.1.1
 	}
 	dynasty = 1
-	father = 78
+	father = 78.0
 }
 
 88 = {
-	name = "karel"
+	name = "Karel"
 	culture = english
 	religion = cathar
 	155.1.1 = {
@@ -1284,11 +1284,11 @@
 		death = 175.1.1
 	}
 	dynasty = 1
-	father = 78
+	father = 78.0
 }
 
 89 = {
-	name = "theomar"
+	name = "Theomar"
 	culture = english
 	religion = cathar
 	159.1.1 = {
@@ -1298,11 +1298,11 @@
 		death = 210.1.1
 	}
 	dynasty = 1
-	father = 78
+	father = 78.0
 }
 
 90 = {
-	name = "loesinne"
+	name = "Loesinne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1313,11 +1313,11 @@
 		death = 230.1.1
 	}
 	dynasty = 1
-	father = 78
+	father = 78.0
 }
 
 91 = {
-	name = "leona"
+	name = "Leona"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1328,12 +1328,12 @@
 		death = 245.1.1
 	}
 	dynasty = 1
-	mother = 86
-	father = 85
+	mother = 86.0
+	father = 85.0
 }
 
 92 = {
-	name = "alexander"
+	name = "Alexander"
 	culture = english
 	religion = cathar
 	172.1.1 = {
@@ -1343,12 +1343,12 @@
 		death = 216.1.1
 	}
 	dynasty = 1
-	mother = 86
-	father = 85
+	mother = 86.0
+	father = 85.0
 }
 
 93 = {
-	name = "kedmir"
+	name = "Kedmir"
 	culture = english
 	religion = cathar
 	173.1.1 = {
@@ -1358,12 +1358,12 @@
 		death = 216.1.1
 	}
 	dynasty = 1
-	mother = 86
-	father = 85
+	mother = 86.0
+	father = 85.0
 }
 
 94 = {
-	name = "suzanne"
+	name = "Suzanne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1377,7 +1377,7 @@
 }
 
 95 = {
-	name = "dalmer"
+	name = "Dalmer"
 	culture = english
 	religion = cathar
 	190.1.1 = {
@@ -1387,12 +1387,12 @@
 		death = 240.1.1
 	}
 	dynasty = 1
-	mother = 94
-	father = 93
+	mother = 94.0
+	father = 93.0
 }
 
 96 = {
-	name = "morgenkroon"
+	name = "Morgenkroon"
 	culture = english
 	religion = cathar
 	201.1.1 = {
@@ -1402,12 +1402,12 @@
 		death = 256.1.1
 	}
 	dynasty = 1
-	mother = 94
-	father = 93
+	mother = 94.0
+	father = 93.0
 }
 
 97 = {
-	name = "normen"
+	name = "Normen"
 	culture = english
 	religion = cathar
 	218.1.1 = {
@@ -1417,11 +1417,11 @@
 		death = 272.1.1
 	}
 	dynasty = 1
-	father = 96
+	father = 96.0
 }
 
 98 = {
-	name = "morgannan"
+	name = "Morgannan"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1435,7 +1435,7 @@
 }
 
 99 = {
-	name = "jacilla"
+	name = "Jacilla"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1446,11 +1446,11 @@
 		death = 275.1.1
 	}
 	dynasty = 1
-	father = 96
+	father = 96.0
 }
 
 100 = {
-	name = "moorak"
+	name = "Moorak"
 	culture = english
 	religion = cathar
 	205.1.1 = {
@@ -1463,7 +1463,7 @@
 }
 
 101 = {
-	name = "bellatrix"
+	name = "Bellatrix"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1477,7 +1477,7 @@
 }
 
 102 = {
-	name = "aliandre"
+	name = "Aliandre"
 	culture = english
 	religion = cathar
 	219.1.1 = {
@@ -1487,11 +1487,11 @@
 		death = 310.1.1
 	}
 	dynasty = 1
-	father = 96
+	father = 96.0
 }
 
 103 = {
-	name = "terijin"
+	name = "Terijin"
 	culture = english
 	religion = cathar
 	223.1.1 = {
@@ -1501,11 +1501,11 @@
 		death = 300.1.1
 	}
 	dynasty = 1
-	father = 96
+	father = 96.0
 }
 
 104 = {
-	name = "willem"
+	name = "Willem"
 	culture = english
 	religion = cathar
 	225.1.1 = {
@@ -1515,11 +1515,11 @@
 		death = 288.1.1
 	}
 	dynasty = 1
-	father = 96
+	father = 96.0
 }
 
 105 = {
-	name = "walmar"
+	name = "Walmar"
 	culture = english
 	religion = cathar
 	233.1.1 = {
@@ -1529,11 +1529,11 @@
 		death = 303.1.1
 	}
 	dynasty = 1
-	father = 96
+	father = 96.0
 }
 
 106 = {
-	name = "moriart"
+	name = "Moriart"
 	culture = english
 	religion = cathar
 	234.1.1 = {
@@ -1543,12 +1543,12 @@
 		death = 303.1.1
 	}
 	dynasty = 1
-	mother = 98
-	father = 97
+	mother = 98.0
+	father = 97.0
 }
 
 107 = {
-	name = "allianne"
+	name = "Allianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1559,12 +1559,12 @@
 		death = 341.1.1
 	}
 	dynasty = 23
-	mother = 309
-	father = 308
+	mother = 309.0
+	father = 308.0
 }
 
 108 = {
-	name = "marie"
+	name = "Marie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1578,7 +1578,7 @@
 }
 
 109 = {
-	name = "albert-stijn"
+	name = "Albert Stijn"
 	culture = english
 	religion = cathar
 	300.1.1 = {
@@ -1588,12 +1588,12 @@
 		death = 400.1.1
 	}
 	dynasty = 1
-	mother = 108
-	father = 110
+	mother = 108.0
+	father = 110.0
 }
 
 110 = {
-	name = "francis"
+	name = "Francis"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -1603,12 +1603,12 @@
 		death = 357.1.1
 	}
 	dynasty = 1
-	mother = 112
-	father = 111
+	mother = 112.0
+	father = 111.0
 }
 
 111 = {
-	name = "maximillian"
+	name = "Maximillian"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -1618,12 +1618,12 @@
 		death = 336.1.1
 	}
 	dynasty = 1
-	mother = 98
-	father = 97
+	mother = 98.0
+	father = 97.0
 }
 
 112 = {
-	name = "elizabet"
+	name = "Elizabet"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1637,7 +1637,7 @@
 }
 
 113 = {
-	name = "willem-friso"
+	name = "Willem Friso"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -1647,12 +1647,12 @@
 		death = 360.1.1
 	}
 	dynasty = 1
-	mother = 112
-	father = 111
+	mother = 112.0
+	father = 111.0
 }
 
 114 = {
-	name = "konstantijn"
+	name = "Konstantijn"
 	culture = english
 	religion = cathar
 	274.1.1 = {
@@ -1662,12 +1662,12 @@
 		death = 374.1.1
 	}
 	dynasty = 1
-	mother = 112
-	father = 111
+	mother = 112.0
+	father = 111.0
 }
 
 115 = {
-	name = "justiniaan"
+	name = "Justiniaan"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -1677,12 +1677,12 @@
 		death = 344.1.1
 	}
 	dynasty = 1
-	mother = 98
-	father = 97
+	mother = 98.0
+	father = 97.0
 }
 
 116 = {
-	name = "sheila-manon"
+	name = "Sheila Manon"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1693,12 +1693,12 @@
 		death = 345.1.1
 	}
 	dynasty = 1
-	mother = 98
-	father = 97
+	mother = 98.0
+	father = 97.0
 }
 
 117 = {
-	name = "gloriane"
+	name = "Gloriane"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1709,12 +1709,12 @@
 		death = 347.1.1
 	}
 	dynasty = 1
-	mother = 98
-	father = 97
+	mother = 98.0
+	father = 97.0
 }
 
 118 = {
-	name = "beatrix"
+	name = "Beatrix"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1725,12 +1725,12 @@
 		death = 310.1.1
 	}
 	dynasty = 1
-	mother = 98
-	father = 97
+	mother = 98.0
+	father = 97.0
 }
 
 119 = {
-	name = "hetrijin"
+	name = "Hetrijin"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -1743,7 +1743,7 @@
 }
 
 120 = {
-	name = "daan"
+	name = "Daan"
 	culture = english
 	religion = cathar
 	278.1.1 = {
@@ -1753,12 +1753,12 @@
 		death = 378.1.1
 	}
 	dynasty = 1
-	mother = 118
-	father = 119
+	mother = 118.0
+	father = 119.0
 }
 
 121 = {
-	name = "laurent"
+	name = "Laurent"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -1768,12 +1768,12 @@
 		death = 310.1.1
 	}
 	dynasty = 1
-	mother = 118
-	father = 119
+	mother = 118.0
+	father = 119.0
 }
 
 122 = {
-	name = "edwine"
+	name = "Edwine"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -1783,12 +1783,12 @@
 		death = 310.1.1
 	}
 	dynasty = 1
-	mother = 118
-	father = 119
+	mother = 118.0
+	father = 119.0
 }
 
 123 = {
-	name = "esme"
+	name = "Esme"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1799,12 +1799,12 @@
 		death = 310.1.1
 	}
 	dynasty = 1
-	mother = 118
-	father = 119
+	mother = 118.0
+	father = 119.0
 }
 
 124 = {
-	name = "aliandra"
+	name = "Aliandra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1815,12 +1815,12 @@
 		death = 350.1.1
 	}
 	dynasty = 1
-	mother = 98
-	father = 97
+	mother = 98.0
+	father = 97.0
 }
 
 125 = {
-	name = "anton"
+	name = "Anton"
 	culture = english
 	religion = cathar
 	243.1.1 = {
@@ -1833,7 +1833,7 @@
 }
 
 126 = {
-	name = "remon"
+	name = "Remon"
 	culture = english
 	religion = cathar
 	261.1.1 = {
@@ -1843,11 +1843,11 @@
 		death = 361.1.1
 	}
 	dynasty = 1
-	mother = 116
+	mother = 116.0
 }
 
 127 = {
-	name = "desmon"
+	name = "Desmon"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -1857,11 +1857,11 @@
 		death = 368.1.1
 	}
 	dynasty = 1
-	mother = 116
+	mother = 116.0
 }
 
 128 = {
-	name = "arianne"
+	name = "Arianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1872,11 +1872,11 @@
 		death = 366.1.1
 	}
 	dynasty = 1
-	mother = 116
+	mother = 116.0
 }
 
 129 = {
-	name = "hendrik"
+	name = "Hendrik"
 	culture = english
 	religion = cathar
 	271.1.1 = {
@@ -1886,11 +1886,11 @@
 		death = 371.1.1
 	}
 	dynasty = 1
-	mother = 116
+	mother = 116.0
 }
 
 130 = {
-	name = "roena"
+	name = "Roena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1901,12 +1901,12 @@
 		death = 310.1.1
 	}
 	dynasty = 1
-	mother = 118
-	father = 119
+	mother = 118.0
+	father = 119.0
 }
 
 131 = {
-	name = "jozua"
+	name = "Jozua"
 	culture = english
 	religion = cathar
 	275.1.1 = {
@@ -1916,12 +1916,12 @@
 		death = 375.1.1
 	}
 	dynasty = 1
-	mother = 124
-	father = 125
+	mother = 124.0
+	father = 125.0
 }
 
 132 = {
-	name = "goderol"
+	name = "Goderol"
 	culture = english
 	religion = cathar
 	274.1.1 = {
@@ -1931,12 +1931,12 @@
 		death = 374.1.1
 	}
 	dynasty = 1
-	mother = 124
-	father = 125
+	mother = 124.0
+	father = 125.0
 }
 
 133 = {
-	name = "godfried"
+	name = "Godfried"
 	culture = english
 	religion = cathar
 	276.1.1 = {
@@ -1946,12 +1946,12 @@
 		death = 376.1.1
 	}
 	dynasty = 1
-	mother = 124
-	father = 125
+	mother = 124.0
+	father = 125.0
 }
 
 134 = {
-	name = "antonie"
+	name = "Antonie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1962,12 +1962,12 @@
 		death = 379.1.1
 	}
 	dynasty = 1
-	mother = 124
-	father = 125
+	mother = 124.0
+	father = 125.0
 }
 
 135 = {
-	name = "karlo"
+	name = "Karlo"
 	culture = english
 	religion = cathar
 	281.1.1 = {
@@ -1977,12 +1977,12 @@
 		death = 381.1.1
 	}
 	dynasty = 1
-	mother = 124
-	father = 125
+	mother = 124.0
+	father = 125.0
 }
 
 136 = {
-	name = "willem"
+	name = "Willem"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -1992,12 +1992,12 @@
 		death = 385.1.1
 	}
 	dynasty = 1
-	mother = 124
-	father = 125
+	mother = 124.0
+	father = 125.0
 }
 
 137 = {
-	name = "eloise"
+	name = "Eloise"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2008,12 +2008,12 @@
 		death = 291.1.1
 	}
 	dynasty = 23
-	mother = 311
-	father = 310
+	mother = 311.0
+	father = 310.0
 }
 
 138 = {
-	name = "alexander"
+	name = "Alexander"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -2023,12 +2023,12 @@
 		death = 357.1.1
 	}
 	dynasty = 1
-	mother = 107
-	father = 106
+	mother = 107.0
+	father = 106.0
 }
 
 139 = {
-	name = "tamara"
+	name = "Tamara"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2042,7 +2042,7 @@
 }
 
 140 = {
-	name = "reinoud"
+	name = "Reinoud"
 	culture = english
 	religion = cathar
 	276.1.1 = {
@@ -2052,12 +2052,12 @@
 		death = 376.1.1
 	}
 	dynasty = 1
-	mother = 137
-	father = 1
+	mother = 137.0
+	father = 1.0
 }
 
 141 = {
-	name = "frederik"
+	name = "Frederik"
 	culture = english
 	religion = cathar
 	278.1.1 = {
@@ -2067,12 +2067,12 @@
 		death = 378.1.1
 	}
 	dynasty = 1
-	mother = 137
-	father = 1
+	mother = 137.0
+	father = 1.0
 }
 
 142 = {
-	name = "raymond"
+	name = "Raymond"
 	culture = english
 	religion = cathar
 	280.1.1 = {
@@ -2082,12 +2082,12 @@
 		death = 380.1.1
 	}
 	dynasty = 1
-	mother = 137
-	father = 1
+	mother = 137.0
+	father = 1.0
 }
 
 143 = {
-	name = "robbert"
+	name = "Robbert"
 	culture = english
 	religion = cathar
 	300.1.1 = {
@@ -2097,12 +2097,12 @@
 		death = 400.1.1
 	}
 	dynasty = 1
-	mother = 139
-	father = 1
+	mother = 139.0
+	father = 1.0
 }
 
 144 = {
-	name = "moriart"
+	name = "Moriart"
 	culture = english
 	religion = cathar
 	295.1.1 = {
@@ -2112,12 +2112,12 @@
 		death = 395.1.1
 	}
 	dynasty = 1
-	mother = 139
-	father = 1
+	mother = 139.0
+	father = 1.0
 }
 
 145 = {
-	name = "vohemond"
+	name = "Vohemond"
 	culture = english
 	religion = cathar
 	310.1.1 = {
@@ -2127,12 +2127,12 @@
 		death = 410.1.1
 	}
 	dynasty = 1
-	mother = 150
-	father = 1
+	mother = 150.0
+	father = 1.0
 }
 
 146 = {
-	name = "edouard"
+	name = "Edouard"
 	culture = english
 	religion = cathar
 	309.1.1 = {
@@ -2142,12 +2142,12 @@
 		death = 409.1.1
 	}
 	dynasty = 1
-	mother = 150
-	father = 1
+	mother = 150.0
+	father = 1.0
 }
 
 147 = {
-	name = "carlos"
+	name = "Carlos"
 	culture = english
 	religion = cathar
 	308.1.1 = {
@@ -2157,12 +2157,12 @@
 		death = 408.1.1
 	}
 	dynasty = 1
-	mother = 150
-	father = 1
+	mother = 150.0
+	father = 1.0
 }
 
 148 = {
-	name = "yvonne"
+	name = "Yvonne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2173,12 +2173,12 @@
 		death = 407.1.1
 	}
 	dynasty = 1
-	mother = 150
-	father = 1
+	mother = 150.0
+	father = 1.0
 }
 
 149 = {
-	name = "jezeme"
+	name = "Jezeme"
 	culture = english
 	religion = cathar
 	305.1.1 = {
@@ -2188,12 +2188,12 @@
 		death = 405.1.1
 	}
 	dynasty = 1
-	mother = 150
-	father = 1
+	mother = 150.0
+	father = 1.0
 }
 
 150 = {
-	name = "juliana"
+	name = "Juliana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2207,7 +2207,7 @@
 }
 
 151 = {
-	name = "tomas"
+	name = "Tomas"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -2217,12 +2217,12 @@
 		death = 358.1.1
 	}
 	dynasty = 1
-	mother = 107
-	father = 106
+	mother = 107.0
+	father = 106.0
 }
 
 152 = {
-	name = "rosalia"
+	name = "Rosalia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2236,7 +2236,7 @@
 }
 
 153 = {
-	name = "duncan"
+	name = "Duncan"
 	culture = english
 	religion = cathar
 	276.1.1 = {
@@ -2246,12 +2246,12 @@
 		death = 376.1.1
 	}
 	dynasty = 1
-	mother = 152
-	father = 151
+	mother = 152.0
+	father = 151.0
 }
 
 154 = {
-	name = "valentijn"
+	name = "Valentijn"
 	culture = english
 	religion = cathar
 	277.1.1 = {
@@ -2261,12 +2261,12 @@
 		death = 377.1.1
 	}
 	dynasty = 1
-	mother = 152
-	father = 151
+	mother = 152.0
+	father = 151.0
 }
 
 155 = {
-	name = "noor"
+	name = "Noor"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2277,12 +2277,12 @@
 		death = 378.1.1
 	}
 	dynasty = 1
-	mother = 152
-	father = 151
+	mother = 152.0
+	father = 151.0
 }
 
 156 = {
-	name = "juliana"
+	name = "Juliana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2293,12 +2293,12 @@
 		death = 382.1.1
 	}
 	dynasty = 1
-	mother = 152
-	father = 151
+	mother = 152.0
+	father = 151.0
 }
 
 157 = {
-	name = "jasper"
+	name = "Jasper"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -2308,12 +2308,12 @@
 		death = 385.1.1
 	}
 	dynasty = 1
-	mother = 152
-	father = 151
+	mother = 152.0
+	father = 151.0
 }
 
 158 = {
-	name = "darryl"
+	name = "Darryl"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -2323,12 +2323,12 @@
 		death = 388.1.1
 	}
 	dynasty = 1
-	mother = 152
-	father = 151
+	mother = 152.0
+	father = 151.0
 }
 
 159 = {
-	name = "alderik"
+	name = "Alderik"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -2338,12 +2338,12 @@
 		death = 358.1.1
 	}
 	dynasty = 1
-	mother = 112
-	father = 111
+	mother = 112.0
+	father = 111.0
 }
 
 160 = {
-	name = "dominique"
+	name = "Dominique"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -2353,12 +2353,12 @@
 		death = 360.1.1
 	}
 	dynasty = 1
-	mother = 107
-	father = 106
+	mother = 107.0
+	father = 106.0
 }
 
 161 = {
-	name = "cedromar"
+	name = "Cedromar"
 	culture = english
 	religion = cathar
 	267.1.1 = {
@@ -2368,12 +2368,12 @@
 		death = 367.1.1
 	}
 	dynasty = 1
-	mother = 107
-	father = 106
+	mother = 107.0
+	father = 106.0
 }
 
 162 = {
-	name = "amalia"
+	name = "Amalia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2384,12 +2384,12 @@
 		death = 369.1.1
 	}
 	dynasty = 1
-	mother = 107
-	father = 106
+	mother = 107.0
+	father = 106.0
 }
 
 163 = {
-	name = "taddeus"
+	name = "Taddeus"
 	culture = english
 	religion = cathar
 	275.1.1 = {
@@ -2399,12 +2399,12 @@
 		death = 375.1.1
 	}
 	dynasty = 1
-	mother = 107
-	father = 106
+	mother = 107.0
+	father = 106.0
 }
 
 164 = {
-	name = "floorance"
+	name = "Floorance"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2415,12 +2415,12 @@
 		death = 379.1.1
 	}
 	dynasty = 1
-	mother = 107
-	father = 106
+	mother = 107.0
+	father = 106.0
 }
 
 165 = {
-	name = "evelienne"
+	name = "Evelienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2431,12 +2431,12 @@
 		death = 382.1.1
 	}
 	dynasty = 1
-	mother = 107
-	father = 106
+	mother = 107.0
+	father = 106.0
 }
 
 166 = {
-	name = "xavier"
+	name = "Xavier"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -2446,12 +2446,12 @@
 		death = 383.1.1
 	}
 	dynasty = 1
-	mother = 107
-	father = 106
+	mother = 107.0
+	father = 106.0
 }
 
 167 = {
-	name = "xander"
+	name = "Xander"
 	culture = english
 	religion = cathar
 	284.1.1 = {
@@ -2461,12 +2461,12 @@
 		death = 384.1.1
 	}
 	dynasty = 1
-	mother = 107
-	father = 106
+	mother = 107.0
+	father = 106.0
 }
 
 168 = {
-	name = "heloise"
+	name = "Heloise"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2477,11 +2477,11 @@
 		death = 372.1.1
 	}
 	dynasty = 23
-	mother = 313
+	mother = 313.0
 }
 
 169 = {
-	name = "michiel"
+	name = "Michiel"
 	culture = english
 	religion = cathar
 	299.1.1 = {
@@ -2491,12 +2491,12 @@
 		death = 399.1.1
 	}
 	dynasty = 1
-	mother = 168
-	father = 140
+	mother = 168.0
+	father = 140.0
 }
 
 170 = {
-	name = "marjike"
+	name = "Marjike"
 	culture = english
 	religion = cathar
 	300.1.1 = {
@@ -2506,12 +2506,12 @@
 		death = 400.1.1
 	}
 	dynasty = 1
-	mother = 168
-	father = 140
+	mother = 168.0
+	father = 140.0
 }
 
 171 = {
-	name = "quinn"
+	name = "Quinn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2525,7 +2525,7 @@
 }
 
 172 = {
-	name = "valentijn"
+	name = "Valentijn"
 	culture = english
 	religion = cathar
 	306.1.1 = {
@@ -2535,12 +2535,12 @@
 		death = 406.1.1
 	}
 	dynasty = 1
-	mother = 171
-	father = 142
+	mother = 171.0
+	father = 142.0
 }
 
 173 = {
-	name = "wouter"
+	name = "Wouter"
 	culture = english
 	religion = cathar
 	307.1.1 = {
@@ -2550,12 +2550,12 @@
 		death = 407.1.1
 	}
 	dynasty = 1
-	mother = 171
-	father = 142
+	mother = 171.0
+	father = 142.0
 }
 
 174 = {
-	name = "leonie"
+	name = "Leonie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2566,12 +2566,12 @@
 		death = 408.1.1
 	}
 	dynasty = 1
-	mother = 171
-	father = 142
+	mother = 171.0
+	father = 142.0
 }
 
 175 = {
-	name = "yvonne"
+	name = "Yvonne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2582,12 +2582,12 @@
 		death = 409.1.1
 	}
 	dynasty = 1
-	mother = 171
-	father = 142
+	mother = 171.0
+	father = 142.0
 }
 
 176 = {
-	name = "therese"
+	name = "Therese"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2598,12 +2598,12 @@
 		death = 411.1.1
 	}
 	dynasty = 1
-	mother = 171
-	father = 142
+	mother = 171.0
+	father = 142.0
 }
 
 177 = {
-	name = "femke-flien"
+	name = "Femke Flien"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2614,12 +2614,12 @@
 		death = 412.1.1
 	}
 	dynasty = 1
-	mother = 171
-	father = 142
+	mother = 171.0
+	father = 142.0
 }
 
 178 = {
-	name = "olenya"
+	name = "Olenya"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2630,11 +2630,11 @@
 		death = 281.1.1
 	}
 	dynasty = 33
-	father = 640
+	father = 640.0
 }
 
 179 = {
-	name = "xay"
+	name = "Xay"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2645,12 +2645,12 @@
 		death = 286.1.1
 	}
 	dynasty = 34
-	mother = 178
-	father = 96
+	mother = 178.0
+	father = 96.0
 }
 
 180 = {
-	name = "oleia"
+	name = "Oleia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2661,12 +2661,12 @@
 		death = 276.1.1
 	}
 	dynasty = 34
-	mother = 178
-	father = 96
+	mother = 178.0
+	father = 96.0
 }
 
 181 = {
-	name = "saam"
+	name = "Saam"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2677,12 +2677,12 @@
 		death = 288.1.1
 	}
 	dynasty = 34
-	mother = 178
-	father = 96
+	mother = 178.0
+	father = 96.0
 }
 
 182 = {
-	name = "willard"
+	name = "Willard"
 	culture = english
 	religion = cathar
 	228.1.1 = {
@@ -2692,12 +2692,12 @@
 		death = 285.1.1
 	}
 	dynasty = 35
-	mother = 199
-	father = 200
+	mother = 199.0
+	father = 200.0
 }
 
 183 = {
-	name = "guinevere"
+	name = "Guinevere"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2708,11 +2708,11 @@
 		death = 335.1.1
 	}
 	dynasty = 36
-	father = 478
+	father = 478.0
 }
 
 184 = {
-	name = "osric"
+	name = "Osric"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -2722,12 +2722,12 @@
 		death = 358.1.1
 	}
 	dynasty = 35
-	mother = 183
-	father = 182
+	mother = 183.0
+	father = 182.0
 }
 
 185 = {
-	name = "jehenna"
+	name = "Jehenna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2738,11 +2738,11 @@
 		death = 358.1.1
 	}
 	dynasty = 37
-	father = 468
+	father = 468.0
 }
 
 186 = {
-	name = "wilvahelm"
+	name = "Wilvahelm"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -2752,12 +2752,12 @@
 		death = 354.1.1
 	}
 	dynasty = 35
-	mother = 183
-	father = 182
+	mother = 183.0
+	father = 182.0
 }
 
 187 = {
-	name = "milahme"
+	name = "Milahme"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2768,12 +2768,12 @@
 		death = 365.1.1
 	}
 	dynasty = 35
-	mother = 183
-	father = 182
+	mother = 183.0
+	father = 182.0
 }
 
 188 = {
-	name = "rodderick"
+	name = "Rodderick"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -2783,12 +2783,12 @@
 		death = 379.1.1
 	}
 	dynasty = 35
-	mother = 185
-	father = 186
+	mother = 185.0
+	father = 186.0
 }
 
 189 = {
-	name = "aldwynn"
+	name = "Aldwynn"
 	culture = english
 	religion = cathar
 	281.1.1 = {
@@ -2798,12 +2798,12 @@
 		death = 381.1.1
 	}
 	dynasty = 35
-	mother = 185
-	father = 186
+	mother = 185.0
+	father = 186.0
 }
 
 190 = {
-	name = "genevieve"
+	name = "Genevieve"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2814,11 +2814,11 @@
 		death = 383.1.1
 	}
 	dynasty = 35
-	father = 215
+	father = 215.0
 }
 
 191 = {
-	name = "celianna"
+	name = "Celianna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2829,12 +2829,12 @@
 		death = 384.1.1
 	}
 	dynasty = 35
-	mother = 185
-	father = 186
+	mother = 185.0
+	father = 186.0
 }
 
 192 = {
-	name = "tommen"
+	name = "Tommen"
 	culture = english
 	religion = cathar
 	280.1.1 = {
@@ -2844,12 +2844,12 @@
 		death = 380.1.1
 	}
 	dynasty = 35
-	mother = 185
-	father = 186
+	mother = 185.0
+	father = 186.0
 }
 
 193 = {
-	name = "rosalina"
+	name = "Rosalina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2860,12 +2860,12 @@
 		death = 387.1.1
 	}
 	dynasty = 35
-	mother = 185
-	father = 186
+	mother = 185.0
+	father = 186.0
 }
 
 194 = {
-	name = "ylva"
+	name = "Ylva"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2876,12 +2876,12 @@
 		death = 385.1.1
 	}
 	dynasty = 35
-	mother = 9
-	father = 186
+	mother = 9.0
+	father = 186.0
 }
 
 195 = {
-	name = "lillian"
+	name = "Lillian"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2892,12 +2892,12 @@
 		death = 388.1.1
 	}
 	dynasty = 35
-	mother = 9
-	father = 186
+	mother = 9.0
+	father = 186.0
 }
 
 196 = {
-	name = "alferic"
+	name = "Alferic"
 	culture = english
 	religion = cathar
 	298.1.1 = {
@@ -2907,12 +2907,12 @@
 		death = 304.1.1
 	}
 	dynasty = 35
-	mother = 10
-	father = 188
+	mother = 10.0
+	father = 188.0
 }
 
 197 = {
-	name = "oswald"
+	name = "Oswald"
 	culture = english
 	religion = cathar
 	299.1.1 = {
@@ -2922,12 +2922,12 @@
 		death = 399.1.1
 	}
 	dynasty = 35
-	mother = 10
-	father = 188
+	mother = 10.0
+	father = 188.0
 }
 
 198 = {
-	name = "talla"
+	name = "Talla"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2938,12 +2938,12 @@
 		death = 402.1.1
 	}
 	dynasty = 35
-	mother = 10
-	father = 188
+	mother = 10.0
+	father = 188.0
 }
 
 199 = {
-	name = "coreenne"
+	name = "Coreenne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2957,7 +2957,7 @@
 }
 
 200 = {
-	name = "morden"
+	name = "Morden"
 	culture = english
 	religion = cathar
 	191.1.1 = {
@@ -2967,12 +2967,12 @@
 		death = 238.1.1
 	}
 	dynasty = 35
-	mother = 208
-	father = 209
+	mother = 208.0
+	father = 209.0
 }
 
 201 = {
-	name = "angelica"
+	name = "Angelica"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2983,12 +2983,12 @@
 		death = 388.1.1
 	}
 	dynasty = 35
-	mother = 203
-	father = 204
+	mother = 203.0
+	father = 204.0
 }
 
 202 = {
-	name = "mordred"
+	name = "Mordred"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -2998,12 +2998,12 @@
 		death = 366.1.1
 	}
 	dynasty = 35
-	mother = 183
-	father = 182
+	mother = 183.0
+	father = 182.0
 }
 
 203 = {
-	name = "roselyne"
+	name = "Roselyne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3014,12 +3014,12 @@
 		death = 369.1.1
 	}
 	dynasty = 39
-	mother = 328
-	father = 329
+	mother = 328.0
+	father = 329.0
 }
 
 204 = {
-	name = "warren"
+	name = "Warren"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -3029,12 +3029,12 @@
 		death = 360.1.1
 	}
 	dynasty = 35
-	mother = 183
-	father = 182
+	mother = 183.0
+	father = 182.0
 }
 
 205 = {
-	name = "dianne"
+	name = "Dianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3045,12 +3045,12 @@
 		death = 370.1.1
 	}
 	dynasty = 35
-	mother = 183
-	father = 182
+	mother = 183.0
+	father = 182.0
 }
 
 206 = {
-	name = "christopher"
+	name = "Christopher"
 	culture = english
 	religion = cathar
 	269.1.1 = {
@@ -3060,11 +3060,11 @@
 		death = 369.1.1
 	}
 	dynasty = 40
-	father = 317
+	father = 317.0
 }
 
 207 = {
-	name = "wulfric"
+	name = "Wulfric"
 	culture = english
 	religion = cathar
 	306.1.1 = {
@@ -3074,12 +3074,12 @@
 		death = 406.1.1
 	}
 	dynasty = 35
-	mother = 203
-	father = 204
+	mother = 203.0
+	father = 204.0
 }
 
 208 = {
-	name = "minisa"
+	name = "Minisa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3093,7 +3093,7 @@
 }
 
 209 = {
-	name = "ondrew"
+	name = "Ondrew"
 	culture = english
 	religion = cathar
 	166.1.1 = {
@@ -3103,12 +3103,12 @@
 		death = 255.1.1
 	}
 	dynasty = 35
-	mother = 211
-	father = 212
+	mother = 211.0
+	father = 212.0
 }
 
 210 = {
-	name = "bastien"
+	name = "Bastien"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -3118,12 +3118,12 @@
 		death = 308.1.1
 	}
 	dynasty = 3
-	mother = 13
-	father = 14
+	mother = 13.0
+	father = 14.0
 }
 
 211 = {
-	name = "erena"
+	name = "Erena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3134,11 +3134,11 @@
 		death = 194.1.1
 	}
 	dynasty = 8
-	father = 521
+	father = 521.0
 }
 
 212 = {
-	name = "torrhen"
+	name = "Torrhen"
 	culture = english
 	religion = cathar
 	138.1.1 = {
@@ -3151,7 +3151,7 @@
 }
 
 213 = {
-	name = "vagild"
+	name = "Vagild"
 	culture = english
 	religion = cathar
 	170.1.1 = {
@@ -3161,12 +3161,12 @@
 		death = 246.1.1
 	}
 	dynasty = 35
-	mother = 211
-	father = 212
+	mother = 211.0
+	father = 212.0
 }
 
 214 = {
-	name = "sybelle"
+	name = "Sybelle"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3180,7 +3180,7 @@
 }
 
 215 = {
-	name = "tatfrid"
+	name = "Tatfrid"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -3190,12 +3190,12 @@
 		death = 298.1.1
 	}
 	dynasty = 35
-	mother = 214
-	father = 213
+	mother = 214.0
+	father = 213.0
 }
 
 216 = {
-	name = "aethelred"
+	name = "Aethelred"
 	culture = english
 	religion = cathar
 	237.1.1 = {
@@ -3205,12 +3205,12 @@
 		death = 337.1.1
 	}
 	dynasty = 35
-	mother = 199
-	father = 200
+	mother = 199.0
+	father = 200.0
 }
 
 217 = {
-	name = "rothgair"
+	name = "Rothgair"
 	culture = english
 	religion = cathar
 	235.1.1 = {
@@ -3220,12 +3220,12 @@
 		death = 299.1.1
 	}
 	dynasty = 35
-	mother = 199
-	father = 200
+	mother = 199.0
+	father = 200.0
 }
 
 218 = {
-	name = "randulf"
+	name = "Randulf"
 	culture = english
 	religion = cathar
 	251.1.1 = {
@@ -3235,11 +3235,11 @@
 		death = 351.1.1
 	}
 	dynasty = 35
-	father = 217
+	father = 217.0
 }
 
 219 = {
-	name = "brydon"
+	name = "Brydon"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -3249,11 +3249,11 @@
 		death = 354.1.1
 	}
 	dynasty = 35
-	father = 217
+	father = 217.0
 }
 
 220 = {
-	name = "violetta"
+	name = "Violetta"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3264,11 +3264,11 @@
 		death = 358.1.1
 	}
 	dynasty = 35
-	father = 217
+	father = 217.0
 }
 
 221 = {
-	name = "mellisandre"
+	name = "Mellisandre"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3279,12 +3279,12 @@
 		death = 334.1.1
 	}
 	dynasty = 35
-	mother = 199
-	father = 200
+	mother = 199.0
+	father = 200.0
 }
 
 222 = {
-	name = "devona"
+	name = "Devona"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3295,11 +3295,11 @@
 		death = 358.1.1
 	}
 	dynasty = 35
-	mother = 221
+	mother = 221.0
 }
 
 223 = {
-	name = "edmure"
+	name = "Edmure"
 	culture = english
 	religion = cathar
 	261.1.1 = {
@@ -3309,11 +3309,11 @@
 		death = 361.1.1
 	}
 	dynasty = 35
-	mother = 221
+	mother = 221.0
 }
 
 224 = {
-	name = "gunthard"
+	name = "Gunthard"
 	culture = english
 	religion = cathar
 	211.1.1 = {
@@ -3323,11 +3323,11 @@
 		death = 272.1.1
 	}
 	dynasty = 42
-	father = 238
+	father = 238.0
 }
 
 225 = {
-	name = "reinhardt"
+	name = "Reinhardt"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -3337,11 +3337,11 @@
 		death = 291.1.1
 	}
 	dynasty = 42
-	father = 224
+	father = 224.0
 }
 
 226 = {
-	name = "brunhilda"
+	name = "Brunhilda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3355,7 +3355,7 @@
 }
 
 227 = {
-	name = "dietrich"
+	name = "Dietrich"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -3365,12 +3365,12 @@
 		death = 354.1.1
 	}
 	dynasty = 42
-	mother = 226
-	father = 225
+	mother = 226.0
+	father = 225.0
 }
 
 228 = {
-	name = "harald"
+	name = "Harald"
 	culture = english
 	religion = cathar
 	255.1.1 = {
@@ -3380,12 +3380,12 @@
 		death = 355.1.1
 	}
 	dynasty = 42
-	mother = 226
-	father = 225
+	mother = 226.0
+	father = 225.0
 }
 
 229 = {
-	name = "ludwig"
+	name = "Ludwig"
 	culture = english
 	religion = cathar
 	281.1.1 = {
@@ -3395,12 +3395,12 @@
 		death = 381.1.1
 	}
 	dynasty = 42
-	mother = 36
-	father = 227
+	mother = 36.0
+	father = 227.0
 }
 
 230 = {
-	name = "matilda"
+	name = "Matilda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3411,12 +3411,12 @@
 		death = 384.1.1
 	}
 	dynasty = 42
-	mother = 36
-	father = 227
+	mother = 36.0
+	father = 227.0
 }
 
 231 = {
-	name = "kristoph"
+	name = "Kristoph"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -3426,12 +3426,12 @@
 		death = 385.1.1
 	}
 	dynasty = 42
-	mother = 36
-	father = 227
+	mother = 36.0
+	father = 227.0
 }
 
 232 = {
-	name = "adela"
+	name = "Adela"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3442,12 +3442,12 @@
 		death = 386.1.1
 	}
 	dynasty = 42
-	mother = 36
-	father = 227
+	mother = 36.0
+	father = 227.0
 }
 
 233 = {
-	name = "franzl"
+	name = "Franzl"
 	culture = english
 	religion = cathar
 	291.1.1 = {
@@ -3457,12 +3457,12 @@
 		death = 391.1.1
 	}
 	dynasty = 42
-	mother = 36
-	father = 227
+	mother = 36.0
+	father = 227.0
 }
 
 234 = {
-	name = "eldrich"
+	name = "Eldrich"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -3472,12 +3472,12 @@
 		death = 379.1.1
 	}
 	dynasty = 42
-	mother = 36
-	father = 227
+	mother = 36.0
+	father = 227.0
 }
 
 235 = {
-	name = "marie-anne"
+	name = "Marie Anne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3488,12 +3488,12 @@
 		death = 408.1.1
 	}
 	dynasty = 42
-	mother = 59
-	father = 234
+	mother = 59.0
+	father = 234.0
 }
 
 236 = {
-	name = "wufrich"
+	name = "Wufrich"
 	culture = english
 	religion = cathar
 	309.1.1 = {
@@ -3503,12 +3503,12 @@
 		death = 409.1.1
 	}
 	dynasty = 42
-	mother = 59
-	father = 234
+	mother = 59.0
+	father = 234.0
 }
 
 237 = {
-	name = "johannes"
+	name = "Johannes"
 	culture = english
 	religion = cathar
 	310.1.1 = {
@@ -3518,12 +3518,12 @@
 		death = 410.1.1
 	}
 	dynasty = 42
-	mother = 59
-	father = 234
+	mother = 59.0
+	father = 234.0
 }
 
 238 = {
-	name = "wulfrich iii"
+	name = "Wulfrich"
 	culture = english
 	religion = cathar
 	181.1.1 = {
@@ -3533,11 +3533,11 @@
 		death = 257.1.1
 	}
 	dynasty = 42
-	father = 239
+	father = 239.0
 }
 
 239 = {
-	name = "wulfrich"
+	name = "Wulfrich"
 	culture = english
 	religion = cathar
 	133.1.1 = {
@@ -3547,11 +3547,11 @@
 		death = 199.1.1
 	}
 	dynasty = 42
-	father = 240
+	father = 240.0
 }
 
 240 = {
-	name = "wulfrich"
+	name = "Wulfrich"
 	culture = english
 	religion = cathar
 	114.1.1 = {
@@ -3561,12 +3561,12 @@
 		death = 149.1.1
 	}
 	dynasty = 42
-	mother = 242
-	father = 241
+	mother = 242.0
+	father = 241.0
 }
 
 241 = {
-	name = "hildmar iii"
+	name = "Hildmar"
 	culture = english
 	religion = cathar
 	85.1.1 = {
@@ -3579,7 +3579,7 @@
 }
 
 242 = {
-	name = "matilde"
+	name = "Matilde"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3590,11 +3590,11 @@
 		death = 162.1.1
 	}
 	dynasty = 13
-	father = 247
+	father = 247.0
 }
 
 243 = {
-	name = "reinhart"
+	name = "Reinhart"
 	culture = english
 	religion = cathar
 	113.1.1 = {
@@ -3604,12 +3604,12 @@
 		death = 131.1.1
 	}
 	dynasty = 42
-	mother = 242
-	father = 241
+	mother = 242.0
+	father = 241.0
 }
 
 244 = {
-	name = "eldrich"
+	name = "Eldrich"
 	culture = english
 	religion = cathar
 	130.1.1 = {
@@ -3619,11 +3619,11 @@
 		death = 195.1.1
 	}
 	dynasty = 42
-	father = 243
+	father = 243.0
 }
 
 245 = {
-	name = "ludwig"
+	name = "Ludwig"
 	culture = english
 	religion = cathar
 	1.1.1 = {
@@ -3636,7 +3636,7 @@
 }
 
 246 = {
-	name = "hildrebrand"
+	name = "Hildrebrand"
 	culture = english
 	religion = cathar
 	34.1.1 = {
@@ -3646,11 +3646,11 @@
 		death = 69.1.1
 	}
 	dynasty = 13
-	father = 245
+	father = 245.0
 }
 
 247 = {
-	name = "eberhard"
+	name = "Eberhard"
 	culture = english
 	religion = cathar
 	55.1.1 = {
@@ -3660,11 +3660,11 @@
 		death = 101.1.1
 	}
 	dynasty = 13
-	father = 246
+	father = 246.0
 }
 
 248 = {
-	name = "eberhard"
+	name = "Eberhard"
 	culture = english
 	religion = cathar
 	78.1.1 = {
@@ -3674,11 +3674,11 @@
 		death = 142.1.1
 	}
 	dynasty = 13
-	father = 247
+	father = 247.0
 }
 
 249 = {
-	name = "marie-anne"
+	name = "Marie Anne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3689,11 +3689,11 @@
 		death = 161.1.1
 	}
 	dynasty = 13
-	father = 248
+	father = 248.0
 }
 
 250 = {
-	name = "heinrich"
+	name = "Heinrich"
 	culture = english
 	religion = cathar
 	115.1.1 = {
@@ -3703,11 +3703,11 @@
 		death = 189.1.1
 	}
 	dynasty = 13
-	mother = 249
+	mother = 249.0
 }
 
 251 = {
-	name = "heinrich"
+	name = "Heinrich"
 	culture = english
 	religion = cathar
 	148.1.1 = {
@@ -3717,11 +3717,11 @@
 		death = 211.1.1
 	}
 	dynasty = 13
-	father = 250
+	father = 250.0
 }
 
 252 = {
-	name = "marie-anne"
+	name = "Marie Anne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3732,11 +3732,11 @@
 		death = 251.1.1
 	}
 	dynasty = 13
-	father = 251
+	father = 251.0
 }
 
 253 = {
-	name = "elia"
+	name = "Elia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3747,11 +3747,11 @@
 		death = 232.1.1
 	}
 	dynasty = 13
-	father = 251
+	father = 251.0
 }
 
 254 = {
-	name = "nikolaus"
+	name = "Nikolaus"
 	culture = english
 	religion = cathar
 	85.1.1 = {
@@ -3761,11 +3761,11 @@
 		death = 143.1.1
 	}
 	dynasty = 13
-	father = 247
+	father = 247.0
 }
 
 255 = {
-	name = "nikolaus"
+	name = "Nikolaus"
 	culture = english
 	religion = cathar
 	124.1.1 = {
@@ -3775,11 +3775,11 @@
 		death = 185.1.1
 	}
 	dynasty = 13
-	father = 254
+	father = 254.0
 }
 
 256 = {
-	name = "anais"
+	name = "Anais"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3793,7 +3793,7 @@
 }
 
 257 = {
-	name = "katriane"
+	name = "Katriane"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3804,11 +3804,11 @@
 		death = 304.1.1
 	}
 	dynasty = 44
-	mother = 256
+	mother = 256.0
 }
 
 258 = {
-	name = "emmeline"
+	name = "Emmeline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3819,11 +3819,11 @@
 		death = 379.1.1
 	}
 	dynasty = 44
-	mother = 257
+	mother = 257.0
 }
 
 259 = {
-	name = "louis"
+	name = "Louis"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -3833,11 +3833,11 @@
 		death = 366.1.1
 	}
 	dynasty = 44
-	mother = 257
+	mother = 257.0
 }
 
 260 = {
-	name = "marceau"
+	name = "Marceau"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -3847,11 +3847,11 @@
 		death = 385.1.1
 	}
 	dynasty = 44
-	father = 259
+	father = 259.0
 }
 
 261 = {
-	name = "ottilie"
+	name = "Ottilie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3862,11 +3862,11 @@
 		death = 370.1.1
 	}
 	dynasty = 44
-	mother = 257
+	mother = 257.0
 }
 
 262 = {
-	name = "adeline"
+	name = "Adeline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3877,11 +3877,11 @@
 		death = 384.1.1
 	}
 	dynasty = 44
-	father = 259
+	father = 259.0
 }
 
 263 = {
-	name = "renee"
+	name = "Renee"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3892,11 +3892,11 @@
 		death = 304.1.1
 	}
 	dynasty = 44
-	father = 259
+	father = 259.0
 }
 
 264 = {
-	name = "nicolette"
+	name = "Nicolette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3907,11 +3907,11 @@
 		death = 401.1.1
 	}
 	dynasty = 44
-	father = 265
+	father = 265.0
 }
 
 265 = {
-	name = "guiscard"
+	name = "Guiscard"
 	culture = english
 	religion = cathar
 	275.1.1 = {
@@ -3921,11 +3921,11 @@
 		death = 375.1.1
 	}
 	dynasty = 44
-	mother = 257
+	mother = 257.0
 }
 
 266 = {
-	name = "brawen"
+	name = "Brawen"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3939,7 +3939,7 @@
 }
 
 267 = {
-	name = "maeve"
+	name = "Maeve"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3950,11 +3950,11 @@
 		death = 99.1.1
 	}
 	dynasty = 45
-	mother = 266
+	mother = 266.0
 }
 
 268 = {
-	name = "nessaria"
+	name = "Nessaria"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3965,11 +3965,11 @@
 		death = 158.1.1
 	}
 	dynasty = 45
-	mother = 267
+	mother = 267.0
 }
 
 269 = {
-	name = "theomar"
+	name = "Theomar"
 	culture = english
 	religion = cathar
 	1.1.1 = {
@@ -3982,7 +3982,7 @@
 }
 
 270 = {
-	name = "lilienmar"
+	name = "Lilienmar"
 	culture = english
 	religion = cathar
 	17.1.1 = {
@@ -3992,11 +3992,11 @@
 		death = 74.1.1
 	}
 	dynasty = 23
-	father = 269
+	father = 269.0
 }
 
 271 = {
-	name = "lilienmar"
+	name = "Lilienmar"
 	culture = english
 	religion = cathar
 	38.1.1 = {
@@ -4006,11 +4006,11 @@
 		death = 112.1.1
 	}
 	dynasty = 23
-	father = 270
+	father = 270.0
 }
 
 272 = {
-	name = "rihonlar"
+	name = "Rihonlar"
 	culture = english
 	religion = cathar
 	42.1.1 = {
@@ -4020,11 +4020,11 @@
 		death = 108.1.1
 	}
 	dynasty = 23
-	father = 270
+	father = 270.0
 }
 
 273 = {
-	name = "henri"
+	name = "Henri"
 	culture = english
 	religion = cathar
 	58.1.1 = {
@@ -4034,11 +4034,11 @@
 		death = 123.1.1
 	}
 	dynasty = 23
-	father = 271
+	father = 271.0
 }
 
 274 = {
-	name = "leomar"
+	name = "Leomar"
 	culture = english
 	religion = cathar
 	74.1.1 = {
@@ -4048,12 +4048,12 @@
 		death = 164.1.1
 	}
 	dynasty = 23
-	mother = 268
-	father = 273
+	mother = 268.0
+	father = 273.0
 }
 
 275 = {
-	name = "maxelle"
+	name = "Maxelle"
 	culture = english
 	religion = cathar
 	77.1.1 = {
@@ -4063,12 +4063,12 @@
 		death = 178.1.1
 	}
 	dynasty = 23
-	mother = 268
-	father = 273
+	mother = 268.0
+	father = 273.0
 }
 
 276 = {
-	name = "carvallais"
+	name = "Carvallais"
 	culture = english
 	religion = cathar
 	79.1.1 = {
@@ -4078,12 +4078,12 @@
 		death = 184.1.1
 	}
 	dynasty = 23
-	mother = 268
-	father = 273
+	mother = 268.0
+	father = 273.0
 }
 
 277 = {
-	name = "bartolomeux"
+	name = "Bartolomeux"
 	culture = english
 	religion = cathar
 	81.1.1 = {
@@ -4093,12 +4093,12 @@
 		death = 186.1.1
 	}
 	dynasty = 23
-	mother = 268
-	father = 273
+	mother = 268.0
+	father = 273.0
 }
 
 278 = {
-	name = "henri"
+	name = "Henri"
 	culture = english
 	religion = cathar
 	93.1.1 = {
@@ -4108,11 +4108,11 @@
 		death = 174.1.1
 	}
 	dynasty = 23
-	father = 274
+	father = 274.0
 }
 
 279 = {
-	name = "justeux"
+	name = "Justeux"
 	culture = english
 	religion = cathar
 	96.1.1 = {
@@ -4122,11 +4122,11 @@
 		death = 135.1.1
 	}
 	dynasty = 23
-	father = 274
+	father = 274.0
 }
 
 280 = {
-	name = "heinrich iii"
+	name = "Heinrich"
 	culture = english
 	religion = cathar
 	111.1.1 = {
@@ -4136,11 +4136,11 @@
 		death = 166.1.1
 	}
 	dynasty = 23
-	father = 278
+	father = 278.0
 }
 
 281 = {
-	name = "allamar"
+	name = "Allamar"
 	culture = english
 	religion = cathar
 	130.1.1 = {
@@ -4150,11 +4150,11 @@
 		death = 195.1.1
 	}
 	dynasty = 23
-	father = 280
+	father = 280.0
 }
 
 282 = {
-	name = "handorien"
+	name = "Handorien"
 	culture = english
 	religion = cathar
 	152.1.1 = {
@@ -4164,11 +4164,11 @@
 		death = 224.1.1
 	}
 	dynasty = 23
-	father = 281
+	father = 281.0
 }
 
 283 = {
-	name = "lilienmar iii"
+	name = "Lilienmar"
 	culture = english
 	religion = cathar
 	135.1.1 = {
@@ -4178,11 +4178,11 @@
 		death = 194.1.1
 	}
 	dynasty = 23
-	father = 280
+	father = 280.0
 }
 
 284 = {
-	name = "yvonne"
+	name = "Yvonne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4193,11 +4193,11 @@
 		death = 210.1.1
 	}
 	dynasty = 23
-	father = 280
+	father = 280.0
 }
 
 285 = {
-	name = "nouin"
+	name = "Nouin"
 	culture = english
 	religion = cathar
 	167.1.1 = {
@@ -4210,7 +4210,7 @@
 }
 
 286 = {
-	name = "pepin"
+	name = "Pepin"
 	culture = english
 	religion = cathar
 	185.1.1 = {
@@ -4220,11 +4220,11 @@
 		death = 244.1.1
 	}
 	dynasty = 23
-	father = 285
+	father = 285.0
 }
 
 287 = {
-	name = "handorien iii"
+	name = "Handorien"
 	culture = english
 	religion = cathar
 	131.1.1 = {
@@ -4237,7 +4237,7 @@
 }
 
 288 = {
-	name = "handorien iv"
+	name = "Handorien"
 	culture = english
 	religion = cathar
 	148.1.1 = {
@@ -4247,11 +4247,11 @@
 		death = 240.1.1
 	}
 	dynasty = 23
-	father = 287
+	father = 287.0
 }
 
 289 = {
-	name = "allestrain iii"
+	name = "Allestrain"
 	culture = english
 	religion = cathar
 	168.1.1 = {
@@ -4261,11 +4261,11 @@
 		death = 255.1.1
 	}
 	dynasty = 23
-	father = 288
+	father = 288.0
 }
 
 290 = {
-	name = "vilgermar"
+	name = "Vilgermar"
 	culture = english
 	religion = cathar
 	192.1.1 = {
@@ -4275,11 +4275,11 @@
 		death = 269.1.1
 	}
 	dynasty = 23
-	father = 289
+	father = 289.0
 }
 
 291 = {
-	name = "ottomar"
+	name = "Ottomar"
 	culture = english
 	religion = cathar
 	211.1.1 = {
@@ -4289,11 +4289,11 @@
 		death = 231.1.1
 	}
 	dynasty = 23
-	father = 286
+	father = 286.0
 }
 
 292 = {
-	name = "balthezar"
+	name = "Balthezar"
 	culture = english
 	religion = cathar
 	205.1.1 = {
@@ -4303,11 +4303,11 @@
 		death = 235.1.1
 	}
 	dynasty = 23
-	father = 286
+	father = 286.0
 }
 
 293 = {
-	name = "handorien v"
+	name = "Handorien"
 	culture = english
 	religion = cathar
 	222.1.1 = {
@@ -4317,11 +4317,11 @@
 		death = 244.1.1
 	}
 	dynasty = 23
-	father = 292
+	father = 292.0
 }
 
 294 = {
-	name = "emerite"
+	name = "Emerite"
 	culture = english
 	religion = cathar
 	184.1.1 = {
@@ -4331,11 +4331,11 @@
 		death = 220.1.1
 	}
 	dynasty = 23
-	father = 285
+	father = 285.0
 }
 
 295 = {
-	name = "rollo"
+	name = "Rollo"
 	culture = english
 	religion = cathar
 	200.1.1 = {
@@ -4345,11 +4345,11 @@
 		death = 231.1.1
 	}
 	dynasty = 23
-	father = 294
+	father = 294.0
 }
 
 296 = {
-	name = "allestrain"
+	name = "Allestrain"
 	culture = english
 	religion = cathar
 	226.1.1 = {
@@ -4359,11 +4359,11 @@
 		death = 249.1.1
 	}
 	dynasty = 23
-	father = 295
+	father = 295.0
 }
 
 297 = {
-	name = "lisette-ponne"
+	name = "Lisette Ponne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4374,11 +4374,11 @@
 		death = 285.1.1
 	}
 	dynasty = 23
-	father = 296
+	father = 296.0
 }
 
 298 = {
-	name = "handorien"
+	name = "Handorien"
 	culture = english
 	religion = cathar
 	146.1.1 = {
@@ -4388,11 +4388,11 @@
 		death = 208.1.1
 	}
 	dynasty = 23
-	father = 281
+	father = 281.0
 }
 
 299 = {
-	name = "allestrain"
+	name = "Allestrain"
 	culture = english
 	religion = cathar
 	166.1.1 = {
@@ -4402,11 +4402,11 @@
 		death = 211.1.1
 	}
 	dynasty = 23
-	father = 298
+	father = 298.0
 }
 
 300 = {
-	name = "filipe"
+	name = "Filipe"
 	culture = english
 	religion = cathar
 	146.1.1 = {
@@ -4419,7 +4419,7 @@
 }
 
 301 = {
-	name = "handorien"
+	name = "Handorien"
 	culture = english
 	religion = cathar
 	175.1.1 = {
@@ -4429,11 +4429,11 @@
 		death = 248.1.1
 	}
 	dynasty = 23
-	father = 300
+	father = 300.0
 }
 
 302 = {
-	name = "justinian"
+	name = "Justinian"
 	culture = english
 	religion = cathar
 	200.1.1 = {
@@ -4443,11 +4443,11 @@
 		death = 224.1.1
 	}
 	dynasty = 23
-	father = 301
+	father = 301.0
 }
 
 303 = {
-	name = "justinian"
+	name = "Justinian"
 	culture = english
 	religion = cathar
 	210.1.1 = {
@@ -4457,11 +4457,11 @@
 		death = 302.1.1
 	}
 	dynasty = 23
-	father = 290
+	father = 290.0
 }
 
 304 = {
-	name = "auguste"
+	name = "Auguste"
 	culture = english
 	religion = cathar
 	245.1.1 = {
@@ -4471,11 +4471,11 @@
 		death = 270.1.1
 	}
 	dynasty = 23
-	father = 303
+	father = 303.0
 }
 
 305 = {
-	name = "juvinois"
+	name = "Juvinois"
 	culture = english
 	religion = cathar
 	247.1.1 = {
@@ -4485,11 +4485,11 @@
 		death = 270.1.1
 	}
 	dynasty = 23
-	father = 303
+	father = 303.0
 }
 
 306 = {
-	name = "therinois"
+	name = "Therinois"
 	culture = english
 	religion = cathar
 	251.1.1 = {
@@ -4499,11 +4499,11 @@
 		death = 270.1.1
 	}
 	dynasty = 23
-	father = 303
+	father = 303.0
 }
 
 307 = {
-	name = "laraiselle-clarisse"
+	name = "Laraiselle Clarisse"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4517,7 +4517,7 @@
 }
 
 308 = {
-	name = "charlerois"
+	name = "Charlerois"
 	culture = english
 	religion = cathar
 	212.1.1 = {
@@ -4527,11 +4527,11 @@
 		death = 283.1.1
 	}
 	dynasty = 23
-	father = 290
+	father = 290.0
 }
 
 309 = {
-	name = "callaire"
+	name = "Callaire"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4542,11 +4542,11 @@
 		death = 289.1.1
 	}
 	dynasty = 47
-	father = 513
+	father = 513.0
 }
 
 310 = {
-	name = "harlon"
+	name = "Harlon"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -4559,7 +4559,7 @@
 }
 
 311 = {
-	name = "adelheid ivrae de sange"
+	name = "Adelheid Ivrae De Sange"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4570,12 +4570,12 @@
 		death = 310.1.1
 	}
 	dynasty = 23
-	mother = 309
-	father = 308
+	mother = 309.0
+	father = 308.0
 }
 
 312 = {
-	name = "attenaise"
+	name = "Attenaise"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4586,12 +4586,12 @@
 		death = 350.1.1
 	}
 	dynasty = 23
-	mother = 311
-	father = 310
+	mother = 311.0
+	father = 310.0
 }
 
 313 = {
-	name = "frederique"
+	name = "Frederique"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4602,12 +4602,12 @@
 		death = 356.1.1
 	}
 	dynasty = 23
-	mother = 311
-	father = 310
+	mother = 311.0
+	father = 310.0
 }
 
 314 = {
-	name = "antoine"
+	name = "Antoine"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -4617,12 +4617,12 @@
 		death = 358.1.1
 	}
 	dynasty = 23
-	mother = 311
-	father = 310
+	mother = 311.0
+	father = 310.0
 }
 
 315 = {
-	name = "soledad"
+	name = "Soledad"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4633,12 +4633,12 @@
 		death = 373.1.1
 	}
 	dynasty = 49
-	mother = 582
-	father = 581
+	mother = 582.0
+	father = 581.0
 }
 
 316 = {
-	name = "valerie"
+	name = "Valerie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4649,12 +4649,12 @@
 		death = 376.1.1
 	}
 	dynasty = 3
-	mother = 13
-	father = 14
+	mother = 13.0
+	father = 14.0
 }
 
 317 = {
-	name = "travis"
+	name = "Travis"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -4664,11 +4664,11 @@
 		death = 300.1.1
 	}
 	dynasty = 40
-	father = 318
+	father = 318.0
 }
 
 318 = {
-	name = "alistair"
+	name = "Alistair"
 	culture = english
 	religion = cathar
 	186.1.1 = {
@@ -4681,7 +4681,7 @@
 }
 
 319 = {
-	name = "gwendolyn"
+	name = "Gwendolyn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4692,12 +4692,12 @@
 		death = 391.1.1
 	}
 	dynasty = 40
-	mother = 205
-	father = 206
+	mother = 205.0
+	father = 206.0
 }
 
 320 = {
-	name = "arthur"
+	name = "Arthur"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -4707,12 +4707,12 @@
 		death = 393.1.1
 	}
 	dynasty = 40
-	mother = 205
-	father = 206
+	mother = 205.0
+	father = 206.0
 }
 
 321 = {
-	name = "william"
+	name = "William"
 	culture = english
 	religion = cathar
 	296.1.1 = {
@@ -4722,12 +4722,12 @@
 		death = 396.1.1
 	}
 	dynasty = 40
-	mother = 205
-	father = 206
+	mother = 205.0
+	father = 206.0
 }
 
 322 = {
-	name = "angelina"
+	name = "Angelina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4738,12 +4738,12 @@
 		death = 397.1.1
 	}
 	dynasty = 40
-	mother = 205
-	father = 206
+	mother = 205.0
+	father = 206.0
 }
 
 323 = {
-	name = "rioen"
+	name = "Rioen"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -4753,12 +4753,12 @@
 		death = 389.1.1
 	}
 	dynasty = 1
-	mother = 118
-	father = 119
+	mother = 118.0
+	father = 119.0
 }
 
 324 = {
-	name = "lucia"
+	name = "Lucia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4772,7 +4772,7 @@
 }
 
 325 = {
-	name = "francine emilie"
+	name = "Francine Emilie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4786,7 +4786,7 @@
 }
 
 326 = {
-	name = "geoffroy lambert"
+	name = "Geoffroy Lambert"
 	culture = english
 	religion = cathar
 	215.1.1 = {
@@ -4796,11 +4796,11 @@
 		death = 302.1.1
 	}
 	dynasty = 47
-	father = 513
+	father = 513.0
 }
 
 327 = {
-	name = "mariliene roselle"
+	name = "Mariliene Roselle"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4811,11 +4811,11 @@
 		death = 297.1.1
 	}
 	dynasty = 39
-	mother = 325
+	mother = 325.0
 }
 
 328 = {
-	name = "madeleine fabienne"
+	name = "Madeleine Fabienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4826,12 +4826,12 @@
 		death = 352.1.1
 	}
 	dynasty = 39
-	mother = 327
-	father = 326
+	mother = 327.0
+	father = 326.0
 }
 
 329 = {
-	name = "michael"
+	name = "Michael"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -4844,7 +4844,7 @@
 }
 
 330 = {
-	name = "daniel"
+	name = "Daniel"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -4857,7 +4857,7 @@
 }
 
 331 = {
-	name = "nicolette laurine"
+	name = "Nicolette Laurine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4868,11 +4868,11 @@
 		death = 388.1.1
 	}
 	dynasty = 39
-	mother = 328
+	mother = 328.0
 }
 
 332 = {
-	name = "bastian"
+	name = "Bastian"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -4882,12 +4882,12 @@
 		death = 393.1.1
 	}
 	dynasty = 39
-	mother = 328
-	father = 330
+	mother = 328.0
+	father = 330.0
 }
 
 333 = {
-	name = "mathieu"
+	name = "Mathieu"
 	culture = english
 	religion = cathar
 	294.1.1 = {
@@ -4897,12 +4897,12 @@
 		death = 394.1.1
 	}
 	dynasty = 39
-	mother = 328
-	father = 330
+	mother = 328.0
+	father = 330.0
 }
 
 334 = {
-	name = "vivienne"
+	name = "Vivienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4913,12 +4913,12 @@
 		death = 395.1.1
 	}
 	dynasty = 39
-	mother = 328
-	father = 330
+	mother = 328.0
+	father = 330.0
 }
 
 335 = {
-	name = "wilifred jourdain"
+	name = "Wilifred Jourdain"
 	culture = english
 	religion = cathar
 	272.1.1 = {
@@ -4928,12 +4928,12 @@
 		death = 372.1.1
 	}
 	dynasty = 39
-	mother = 327
-	father = 326
+	mother = 327.0
+	father = 326.0
 }
 
 336 = {
-	name = "nicolas francois"
+	name = "Nicolas Francois"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -4943,12 +4943,12 @@
 		death = 308.1.1
 	}
 	dynasty = 52
-	mother = 327
-	father = 326
+	mother = 327.0
+	father = 326.0
 }
 
 337 = {
-	name = "trevor"
+	name = "Trevor"
 	culture = english
 	religion = cathar
 	276.1.1 = {
@@ -4958,11 +4958,11 @@
 		death = 376.1.1
 	}
 	dynasty = 39
-	mother = 327
+	mother = 327.0
 }
 
 338 = {
-	name = "eloise valerie"
+	name = "Eloise Valerie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4976,7 +4976,7 @@
 }
 
 339 = {
-	name = "lola aimee"
+	name = "Lola Aimee"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4987,12 +4987,12 @@
 		death = 375.1.1
 	}
 	dynasty = 39
-	mother = 327
-	father = 326
+	mother = 327.0
+	father = 326.0
 }
 
 340 = {
-	name = "baptiste florence"
+	name = "Baptiste Florence"
 	culture = english
 	religion = cathar
 	248.1.1 = {
@@ -5002,11 +5002,11 @@
 		death = 348.1.1
 	}
 	dynasty = 39
-	mother = 325
+	mother = 325.0
 }
 
 341 = {
-	name = "valeriane"
+	name = "Valeriane"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5020,7 +5020,7 @@
 }
 
 342 = {
-	name = "lucas menetries"
+	name = "Lucas Menetries"
 	culture = english
 	religion = cathar
 	278.1.1 = {
@@ -5030,12 +5030,12 @@
 		death = 378.1.1
 	}
 	dynasty = 39
-	mother = 341
-	father = 340
+	mother = 341.0
+	father = 340.0
 }
 
 343 = {
-	name = "jaqueline georgette"
+	name = "Jaqueline Georgette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5046,12 +5046,12 @@
 		death = 391.1.1
 	}
 	dynasty = 39
-	mother = 341
-	father = 340
+	mother = 341.0
+	father = 340.0
 }
 
 344 = {
-	name = "gabriel godefroy"
+	name = "Gabriel Godefroy"
 	culture = english
 	religion = cathar
 	296.1.1 = {
@@ -5061,12 +5061,12 @@
 		death = 396.1.1
 	}
 	dynasty = 39
-	mother = 341
-	father = 340
+	mother = 341.0
+	father = 340.0
 }
 
 345 = {
-	name = "kaya"
+	name = "Kaya"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5080,7 +5080,7 @@
 }
 
 346 = {
-	name = "viggo"
+	name = "Viggo"
 	culture = english
 	religion = cathar
 	284.1.1 = {
@@ -5090,11 +5090,11 @@
 		death = 384.1.1
 	}
 	dynasty = 55
-	father = 348
+	father = 348.0
 }
 
 347 = {
-	name = "sivrid"
+	name = "Sivrid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5105,11 +5105,11 @@
 		death = 386.1.1
 	}
 	dynasty = 55
-	father = 348
+	father = 348.0
 }
 
 348 = {
-	name = "sigurd"
+	name = "Sigurd"
 	culture = english
 	religion = cathar
 	241.1.1 = {
@@ -5122,7 +5122,7 @@
 }
 
 349 = {
-	name = "tristan"
+	name = "Tristan"
 	culture = english
 	religion = cathar
 	272.1.1 = {
@@ -5132,12 +5132,12 @@
 		death = 372.1.1
 	}
 	dynasty = 37
-	mother = 350
-	father = 351
+	mother = 350.0
+	father = 351.0
 }
 
 350 = {
-	name = "audrei"
+	name = "Audrei"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5151,7 +5151,7 @@
 }
 
 351 = {
-	name = "thadeo"
+	name = "Thadeo"
 	culture = english
 	religion = cathar
 	247.1.1 = {
@@ -5161,11 +5161,11 @@
 		death = 294.1.1
 	}
 	dynasty = 37
-	father = 468
+	father = 468.0
 }
 
 352 = {
-	name = "riccaro"
+	name = "Riccaro"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -5175,11 +5175,11 @@
 		death = 388.1.1
 	}
 	dynasty = 37
-	father = 349
+	father = 349.0
 }
 
 353 = {
-	name = "orazzio"
+	name = "Orazzio"
 	culture = english
 	religion = cathar
 	120.1.1 = {
@@ -5192,7 +5192,7 @@
 }
 
 354 = {
-	name = "allegra"
+	name = "Allegra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5203,11 +5203,11 @@
 		death = 209.1.1
 	}
 	dynasty = 58
-	father = 735
+	father = 735.0
 }
 
 355 = {
-	name = "francesco"
+	name = "Francesco"
 	culture = english
 	religion = cathar
 	170.1.1 = {
@@ -5217,12 +5217,12 @@
 		death = 242.1.1
 	}
 	dynasty = 59
-	mother = 354
-	father = 353
+	mother = 354.0
+	father = 353.0
 }
 
 356 = {
-	name = "giulia"
+	name = "Giulia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5236,7 +5236,7 @@
 }
 
 357 = {
-	name = "leone"
+	name = "Leone"
 	culture = english
 	religion = cathar
 	205.1.1 = {
@@ -5246,12 +5246,12 @@
 		death = 272.1.1
 	}
 	dynasty = 59
-	mother = 356
-	father = 355
+	mother = 356.0
+	father = 355.0
 }
 
 358 = {
-	name = "beatrice"
+	name = "Beatrice"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5265,7 +5265,7 @@
 }
 
 359 = {
-	name = "ruggiero"
+	name = "Ruggiero"
 	culture = english
 	religion = cathar
 	226.1.1 = {
@@ -5275,12 +5275,12 @@
 		death = 298.1.1
 	}
 	dynasty = 59
-	mother = 358
-	father = 357
+	mother = 358.0
+	father = 357.0
 }
 
 360 = {
-	name = "georgiana"
+	name = "Georgiana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5291,12 +5291,12 @@
 		death = 301.1.1
 	}
 	dynasty = 62
-	mother = 388
-	father = 387
+	mother = 388.0
+	father = 387.0
 }
 
 361 = {
-	name = "bernardo"
+	name = "Bernardo"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -5306,12 +5306,12 @@
 		death = 299.1.1
 	}
 	dynasty = 59
-	mother = 360
-	father = 359
+	mother = 360.0
+	father = 359.0
 }
 
 362 = {
-	name = "piero"
+	name = "Piero"
 	culture = english
 	religion = cathar
 	248.1.1 = {
@@ -5321,12 +5321,12 @@
 		death = 348.1.1
 	}
 	dynasty = 59
-	mother = 360
-	father = 359
+	mother = 360.0
+	father = 359.0
 }
 
 363 = {
-	name = "bernardo gabriel"
+	name = "Bernardo Gabriel"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -5336,12 +5336,12 @@
 		death = 300.1.1
 	}
 	dynasty = 62
-	mother = 383
-	father = 382
+	mother = 383.0
+	father = 382.0
 }
 
 364 = {
-	name = "vincenza"
+	name = "Vincenza"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5352,12 +5352,12 @@
 		death = 356.1.1
 	}
 	dynasty = 59
-	mother = 360
-	father = 359
+	mother = 360.0
+	father = 359.0
 }
 
 365 = {
-	name = "simona"
+	name = "Simona"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5368,12 +5368,12 @@
 		death = 348.1.1
 	}
 	dynasty = 63
-	mother = 324
-	father = 389
+	mother = 324.0
+	father = 389.0
 }
 
 366 = {
-	name = "luigi"
+	name = "Luigi"
 	culture = english
 	religion = cathar
 	276.1.1 = {
@@ -5383,12 +5383,12 @@
 		death = 376.1.1
 	}
 	dynasty = 59
-	mother = 365
-	father = 362
+	mother = 365.0
+	father = 362.0
 }
 
 367 = {
-	name = "terenzo"
+	name = "Terenzo"
 	culture = english
 	religion = cathar
 	282.1.1 = {
@@ -5398,12 +5398,12 @@
 		death = 382.1.1
 	}
 	dynasty = 59
-	mother = 365
-	father = 362
+	mother = 365.0
+	father = 362.0
 }
 
 368 = {
-	name = "ana"
+	name = "Ana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5414,12 +5414,12 @@
 		death = 387.1.1
 	}
 	dynasty = 59
-	mother = 365
-	father = 362
+	mother = 365.0
+	father = 362.0
 }
 
 369 = {
-	name = "isabella"
+	name = "Isabella"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5430,12 +5430,12 @@
 		death = 390.1.1
 	}
 	dynasty = 59
-	mother = 365
-	father = 362
+	mother = 365.0
+	father = 362.0
 }
 
 370 = {
-	name = "angelo"
+	name = "Angelo"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -5448,7 +5448,7 @@
 }
 
 371 = {
-	name = "fiorino"
+	name = "Fiorino"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -5458,12 +5458,12 @@
 		death = 379.1.1
 	}
 	dynasty = 59
-	mother = 364
-	father = 370
+	mother = 364.0
+	father = 370.0
 }
 
 372 = {
-	name = "pellegrino"
+	name = "Pellegrino"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -5473,11 +5473,11 @@
 		death = 360.1.1
 	}
 	dynasty = 59
-	father = 386
+	father = 386.0
 }
 
 373 = {
-	name = "isotta"
+	name = "Isotta"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5488,12 +5488,12 @@
 		death = 386.1.1
 	}
 	dynasty = 59
-	mother = 364
-	father = 370
+	mother = 364.0
+	father = 370.0
 }
 
 374 = {
-	name = "stella"
+	name = "Stella"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5504,11 +5504,11 @@
 		death = 364.1.1
 	}
 	dynasty = 58
-	father = 693
+	father = 693.0
 }
 
 375 = {
-	name = "silvestro"
+	name = "Silvestro"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -5518,12 +5518,12 @@
 		death = 366.1.1
 	}
 	dynasty = 63
-	mother = 324
-	father = 389
+	mother = 324.0
+	father = 389.0
 }
 
 376 = {
-	name = "edoardo"
+	name = "Edoardo"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -5533,12 +5533,12 @@
 		death = 392.1.1
 	}
 	dynasty = 63
-	mother = 374
-	father = 375
+	mother = 374.0
+	father = 375.0
 }
 
 377 = {
-	name = "alessandro"
+	name = "Alessandro"
 	culture = english
 	religion = cathar
 	294.1.1 = {
@@ -5548,12 +5548,12 @@
 		death = 394.1.1
 	}
 	dynasty = 63
-	mother = 374
-	father = 375
+	mother = 374.0
+	father = 375.0
 }
 
 378 = {
-	name = "capriana"
+	name = "Capriana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5564,12 +5564,12 @@
 		death = 399.1.1
 	}
 	dynasty = 63
-	mother = 374
-	father = 375
+	mother = 374.0
+	father = 375.0
 }
 
 379 = {
-	name = "alessa"
+	name = "Alessa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5583,7 +5583,7 @@
 }
 
 380 = {
-	name = "francesco rauol"
+	name = "Francesco Rauol"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -5593,12 +5593,12 @@
 		death = 301.1.1
 	}
 	dynasty = 59
-	mother = 379
-	father = 361
+	mother = 379.0
+	father = 361.0
 }
 
 382 = {
-	name = "lorenzo"
+	name = "Lorenzo"
 	culture = english
 	religion = cathar
 	232.1.1 = {
@@ -5608,12 +5608,12 @@
 		death = 297.1.1
 	}
 	dynasty = 62
-	mother = 388
-	father = 387
+	mother = 388.0
+	father = 387.0
 }
 
 383 = {
-	name = "caterina"
+	name = "Caterina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5627,7 +5627,7 @@
 }
 
 384 = {
-	name = "camilla"
+	name = "Camilla"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5638,26 +5638,11 @@
 		death = 381.1.1
 	}
 	dynasty = 59
-	father = 372
-}
-
-384 = {
-	name = "jovanka"
-	culture = english
-	religion = cathar
-	female = yes
-	292.1.1 = {
-		birth = 292.1.1
-	}
-	392.1.1 = {
-		death = 392.1.1
-	}
-	dynasty = 59
-	father = 372
+	father = 372.0
 }
 
 385 = {
-	name = "siena"
+	name = "Siena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5668,11 +5653,11 @@
 		death = 393.1.1
 	}
 	dynasty = 59
-	father = 366
+	father = 366.0
 }
 
 386 = {
-	name = "zappacosta"
+	name = "Zappacosta"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -5682,11 +5667,11 @@
 		death = 314.1.1
 	}
 	dynasty = 59
-	father = 357
+	father = 357.0
 }
 
 387 = {
-	name = "gabriel"
+	name = "Gabriel"
 	culture = english
 	religion = cathar
 	205.1.1 = {
@@ -5699,7 +5684,7 @@
 }
 
 388 = {
-	name = "isabella"
+	name = "Isabella"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5713,7 +5698,7 @@
 }
 
 389 = {
-	name = "giovanni"
+	name = "Giovanni"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -5726,7 +5711,7 @@
 }
 
 390 = {
-	name = "eadric"
+	name = "Eadric"
 	culture = english
 	religion = cathar
 	190.1.1 = {
@@ -5739,7 +5724,7 @@
 }
 
 391 = {
-	name = "hildwyn"
+	name = "Hildwyn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5753,7 +5738,7 @@
 }
 
 392 = {
-	name = "elric"
+	name = "Elric"
 	culture = english
 	religion = cathar
 	234.1.1 = {
@@ -5763,12 +5748,12 @@
 		death = 298.1.1
 	}
 	dynasty = 68
-	mother = 391
-	father = 390
+	mother = 391.0
+	father = 390.0
 }
 
 393 = {
-	name = "roswitha"
+	name = "Roswitha"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5782,7 +5767,7 @@
 }
 
 394 = {
-	name = "acwald"
+	name = "Acwald"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -5792,12 +5777,12 @@
 		death = 346.1.1
 	}
 	dynasty = 68
-	mother = 391
-	father = 390
+	mother = 391.0
+	father = 390.0
 }
 
 395 = {
-	name = "mathilda"
+	name = "Mathilda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5808,11 +5793,11 @@
 		death = 340.1.1
 	}
 	dynasty = 71
-	father = 732
+	father = 732.0
 }
 
 396 = {
-	name = "aethelric"
+	name = "Aethelric"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -5822,12 +5807,12 @@
 		death = 294.1.1
 	}
 	dynasty = 68
-	mother = 395
-	father = 392
+	mother = 395.0
+	father = 392.0
 }
 
 397 = {
-	name = "hengest"
+	name = "Hengest"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -5837,12 +5822,12 @@
 		death = 363.1.1
 	}
 	dynasty = 68
-	mother = 395
-	father = 392
+	mother = 395.0
+	father = 392.0
 }
 
 398 = {
-	name = "egbert"
+	name = "Egbert"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -5852,12 +5837,12 @@
 		death = 366.1.1
 	}
 	dynasty = 68
-	mother = 395
-	father = 392
+	mother = 395.0
+	father = 392.0
 }
 
 399 = {
-	name = "inga"
+	name = "Inga"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5868,12 +5853,12 @@
 		death = 367.1.1
 	}
 	dynasty = 68
-	mother = 395
-	father = 392
+	mother = 395.0
+	father = 392.0
 }
 
 400 = {
-	name = "matthjis"
+	name = "Matthjis"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -5883,12 +5868,12 @@
 		death = 368.1.1
 	}
 	dynasty = 68
-	mother = 395
-	father = 392
+	mother = 395.0
+	father = 392.0
 }
 
 401 = {
-	name = "wulfric"
+	name = "Wulfric"
 	culture = english
 	religion = cathar
 	269.1.1 = {
@@ -5898,12 +5883,12 @@
 		death = 369.1.1
 	}
 	dynasty = 68
-	mother = 395
-	father = 392
+	mother = 395.0
+	father = 392.0
 }
 
 402 = {
-	name = "godwyna"
+	name = "Godwyna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5914,12 +5899,12 @@
 		death = 372.1.1
 	}
 	dynasty = 68
-	mother = 395
-	father = 392
+	mother = 395.0
+	father = 392.0
 }
 
 403 = {
-	name = "wynstan"
+	name = "Wynstan"
 	culture = english
 	religion = cathar
 	272.1.1 = {
@@ -5929,12 +5914,12 @@
 		death = 372.1.1
 	}
 	dynasty = 68
-	mother = 393
-	father = 394
+	mother = 393.0
+	father = 394.0
 }
 
 404 = {
-	name = "cwynthryth"
+	name = "Cwynthryth"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5945,12 +5930,12 @@
 		death = 411.1.1
 	}
 	dynasty = 68
-	mother = 334
-	father = 397
+	mother = 334.0
+	father = 397.0
 }
 
 405 = {
-	name = "agatha"
+	name = "Agatha"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5961,11 +5946,11 @@
 		death = 383.1.1
 	}
 	dynasty = 68
-	father = 397
+	father = 397.0
 }
 
 406 = {
-	name = "eadwald"
+	name = "Eadwald"
 	culture = english
 	religion = cathar
 	303.1.1 = {
@@ -5975,11 +5960,11 @@
 		death = 403.1.1
 	}
 	dynasty = 68
-	father = 397
+	father = 397.0
 }
 
 407 = {
-	name = "aethelric"
+	name = "Aethelric"
 	culture = english
 	religion = cathar
 	306.1.1 = {
@@ -5989,11 +5974,11 @@
 		death = 406.1.1
 	}
 	dynasty = 72
-	father = 397
+	father = 397.0
 }
 
 408 = {
-	name = "vicenna"
+	name = "Vicenna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6004,11 +5989,11 @@
 		death = 404.1.1
 	}
 	dynasty = 72
-	father = 397
+	father = 397.0
 }
 
 409 = {
-	name = "aedilhild"
+	name = "Aedilhild"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6019,12 +6004,12 @@
 		death = 370.1.1
 	}
 	dynasty = 68
-	mother = 393
-	father = 394
+	mother = 393.0
+	father = 394.0
 }
 
 410 = {
-	name = "athelric"
+	name = "Athelric"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -6034,12 +6019,12 @@
 		death = 368.1.1
 	}
 	dynasty = 68
-	mother = 393
-	father = 394
+	mother = 393.0
+	father = 394.0
 }
 
 411 = {
-	name = "sebastienne"
+	name = "Sebastienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6053,7 +6038,7 @@
 }
 
 412 = {
-	name = "pierres"
+	name = "Pierres"
 	culture = english
 	religion = cathar
 	199.1.1 = {
@@ -6063,11 +6048,11 @@
 		death = 268.1.1
 	}
 	dynasty = 73
-	mother = 741
+	mother = 741.0
 }
 
 413 = {
-	name = "aurelie"
+	name = "Aurelie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6081,7 +6066,7 @@
 }
 
 414 = {
-	name = "timothee yvon"
+	name = "Timothee Yvon"
 	culture = english
 	religion = cathar
 	196.1.1 = {
@@ -6094,7 +6079,7 @@
 }
 
 415 = {
-	name = "apolline"
+	name = "Apolline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6108,7 +6093,7 @@
 }
 
 416 = {
-	name = "mathieu luc"
+	name = "Mathieu Luc"
 	culture = english
 	religion = cathar
 	191.1.1 = {
@@ -6121,7 +6106,7 @@
 }
 
 417 = {
-	name = "celine"
+	name = "Celine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6135,7 +6120,7 @@
 }
 
 418 = {
-	name = "adrien"
+	name = "Adrien"
 	culture = english
 	religion = cathar
 	200.1.1 = {
@@ -6148,7 +6133,7 @@
 }
 
 419 = {
-	name = "blanche"
+	name = "Blanche"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6159,12 +6144,12 @@
 		death = 289.1.1
 	}
 	dynasty = 79
-	mother = 417
-	father = 418
+	mother = 417.0
+	father = 418.0
 }
 
 420 = {
-	name = "estienne"
+	name = "Estienne"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -6177,7 +6162,7 @@
 }
 
 421 = {
-	name = "lenora marie"
+	name = "Lenora Marie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6188,12 +6173,12 @@
 		death = 292.1.1
 	}
 	dynasty = 73
-	mother = 411
-	father = 412
+	mother = 411.0
+	father = 412.0
 }
 
 422 = {
-	name = "gregoire"
+	name = "Gregoire"
 	culture = english
 	religion = cathar
 	215.1.1 = {
@@ -6203,12 +6188,12 @@
 		death = 280.1.1
 	}
 	dynasty = 75
-	mother = 415
-	father = 414
+	mother = 415.0
+	father = 414.0
 }
 
 423 = {
-	name = "angelique"
+	name = "Angelique"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6219,12 +6204,12 @@
 		death = 296.1.1
 	}
 	dynasty = 75
-	mother = 415
-	father = 414
+	mother = 415.0
+	father = 414.0
 }
 
 424 = {
-	name = "laurent"
+	name = "Laurent"
 	culture = english
 	religion = cathar
 	221.1.1 = {
@@ -6234,12 +6219,12 @@
 		death = 295.1.1
 	}
 	dynasty = 79
-	mother = 417
-	father = 418
+	mother = 417.0
+	father = 418.0
 }
 
 425 = {
-	name = "domitille"
+	name = "Domitille"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6250,12 +6235,12 @@
 		death = 355.1.1
 	}
 	dynasty = 80
-	mother = 419
-	father = 420
+	mother = 419.0
+	father = 420.0
 }
 
 426 = {
-	name = "leander"
+	name = "Leander"
 	culture = english
 	religion = cathar
 	253.1.1 = {
@@ -6265,12 +6250,12 @@
 		death = 300.1.1
 	}
 	dynasty = 81
-	mother = 483
-	father = 482
+	mother = 483.0
+	father = 482.0
 }
 
 427 = {
-	name = "julienne flore"
+	name = "Julienne Flore"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6281,12 +6266,12 @@
 		death = 350.1.1
 	}
 	dynasty = 75
-	mother = 421
-	father = 422
+	mother = 421.0
+	father = 422.0
 }
 
 428 = {
-	name = "hadrien"
+	name = "Hadrien"
 	culture = english
 	religion = cathar
 	247.1.1 = {
@@ -6296,12 +6281,12 @@
 		death = 347.1.1
 	}
 	dynasty = 79
-	mother = 423
-	father = 424
+	mother = 423.0
+	father = 424.0
 }
 
 429 = {
-	name = "adira"
+	name = "Adira"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6315,7 +6300,7 @@
 }
 
 430 = {
-	name = "sebastien edouard"
+	name = "Sebastien Edouard"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -6325,12 +6310,12 @@
 		death = 370.1.1
 	}
 	dynasty = 79
-	mother = 427
-	father = 428
+	mother = 427.0
+	father = 428.0
 }
 
 431 = {
-	name = "stephan"
+	name = "Stephan"
 	culture = english
 	religion = cathar
 	269.1.1 = {
@@ -6340,12 +6325,12 @@
 		death = 369.1.1
 	}
 	dynasty = 79
-	mother = 427
-	father = 428
+	mother = 427.0
+	father = 428.0
 }
 
 432 = {
-	name = "victoria s."
+	name = "Victoria"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6356,12 +6341,12 @@
 		death = 372.1.1
 	}
 	dynasty = 79
-	mother = 427
-	father = 428
+	mother = 427.0
+	father = 428.0
 }
 
 433 = {
-	name = "mathieux-dureau"
+	name = "Mathieux Dureau"
 	culture = english
 	religion = cathar
 	277.1.1 = {
@@ -6371,12 +6356,12 @@
 		death = 377.1.1
 	}
 	dynasty = 79
-	mother = 427
-	father = 428
+	mother = 427.0
+	father = 428.0
 }
 
 434 = {
-	name = "mercia"
+	name = "Mercia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6387,11 +6372,11 @@
 		death = 376.1.1
 	}
 	dynasty = 47
-	mother = 516
+	mother = 516.0
 }
 
 435 = {
-	name = "francois"
+	name = "Francois"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -6401,12 +6386,12 @@
 		death = 373.1.1
 	}
 	dynasty = 79
-	mother = 427
-	father = 428
+	mother = 427.0
+	father = 428.0
 }
 
 436 = {
-	name = "melodie"
+	name = "Melodie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6420,7 +6405,7 @@
 }
 
 437 = {
-	name = "reita"
+	name = "Reita"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6434,7 +6419,7 @@
 }
 
 438 = {
-	name = "claudine"
+	name = "Claudine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6445,12 +6430,12 @@
 		death = 396.1.1
 	}
 	dynasty = 79
-	mother = 437
-	father = 435
+	mother = 437.0
+	father = 435.0
 }
 
 439 = {
-	name = "augustin"
+	name = "Augustin"
 	culture = english
 	religion = cathar
 	278.1.1 = {
@@ -6460,12 +6445,12 @@
 		death = 378.1.1
 	}
 	dynasty = 81
-	mother = 425
-	father = 426
+	mother = 425.0
+	father = 426.0
 }
 
 440 = {
-	name = "gabriel louie"
+	name = "Gabriel Louie"
 	culture = english
 	religion = cathar
 	296.1.1 = {
@@ -6475,12 +6460,12 @@
 		death = 396.1.1
 	}
 	dynasty = 79
-	mother = 429
-	father = 433
+	mother = 429.0
+	father = 433.0
 }
 
 441 = {
-	name = "gabrielle evelyne"
+	name = "Gabrielle Evelyne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6491,12 +6476,12 @@
 		death = 394.1.1
 	}
 	dynasty = 79
-	mother = 429
-	father = 433
+	mother = 429.0
+	father = 433.0
 }
 
 442 = {
-	name = "gustave stephan"
+	name = "Gustave Stephan"
 	culture = english
 	religion = cathar
 	304.1.1 = {
@@ -6506,12 +6491,12 @@
 		death = 404.1.1
 	}
 	dynasty = 79
-	mother = 434
-	father = 433
+	mother = 434.0
+	father = 433.0
 }
 
 443 = {
-	name = "eloise chloe"
+	name = "Eloise Chloe"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6522,12 +6507,12 @@
 		death = 405.1.1
 	}
 	dynasty = 79
-	mother = 434
-	father = 433
+	mother = 434.0
+	father = 433.0
 }
 
 444 = {
-	name = "adolphus"
+	name = "Adolphus"
 	culture = english
 	religion = cathar
 	172.1.1 = {
@@ -6540,7 +6525,7 @@
 }
 
 445 = {
-	name = "wilhelmina"
+	name = "Wilhelmina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6551,11 +6536,11 @@
 		death = 261.1.1
 	}
 	dynasty = 36
-	father = 578
+	father = 578.0
 }
 
 446 = {
-	name = "leopold"
+	name = "Leopold"
 	culture = english
 	religion = cathar
 	195.1.1 = {
@@ -6565,12 +6550,12 @@
 		death = 264.1.1
 	}
 	dynasty = 83
-	mother = 445
-	father = 444
+	mother = 445.0
+	father = 444.0
 }
 
 447 = {
-	name = "clara"
+	name = "Clara"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6581,11 +6566,11 @@
 		death = 242.1.1
 	}
 	dynasty = 8
-	father = 518
+	father = 518.0
 }
 
 448 = {
-	name = "frederick"
+	name = "Frederick"
 	culture = english
 	religion = cathar
 	218.1.1 = {
@@ -6595,12 +6580,12 @@
 		death = 291.1.1
 	}
 	dynasty = 83
-	mother = 447
-	father = 446
+	mother = 447.0
+	father = 446.0
 }
 
 449 = {
-	name = "helena"
+	name = "Helena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6614,7 +6599,7 @@
 }
 
 450 = {
-	name = "aldobert"
+	name = "Aldobert"
 	culture = english
 	religion = cathar
 	242.1.1 = {
@@ -6624,12 +6609,12 @@
 		death = 342.1.1
 	}
 	dynasty = 83
-	mother = 449
-	father = 448
+	mother = 449.0
+	father = 448.0
 }
 
 451 = {
-	name = "adalgisa"
+	name = "Adalgisa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6643,7 +6628,7 @@
 }
 
 452 = {
-	name = "theobold"
+	name = "Theobold"
 	culture = english
 	religion = cathar
 	245.1.1 = {
@@ -6653,12 +6638,12 @@
 		death = 345.1.1
 	}
 	dynasty = 83
-	mother = 449
-	father = 448
+	mother = 449.0
+	father = 448.0
 }
 
 453 = {
-	name = "leyna"
+	name = "Leyna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6672,7 +6657,7 @@
 }
 
 454 = {
-	name = "mathilda"
+	name = "Mathilda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6686,7 +6671,7 @@
 }
 
 455 = {
-	name = "aldobert"
+	name = "Aldobert"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -6696,12 +6681,12 @@
 		death = 370.1.1
 	}
 	dynasty = 83
-	mother = 451
-	father = 450
+	mother = 451.0
+	father = 450.0
 }
 
 456 = {
-	name = "ademaro"
+	name = "Ademaro"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -6711,12 +6696,12 @@
 		death = 373.1.1
 	}
 	dynasty = 83
-	mother = 451
-	father = 450
+	mother = 451.0
+	father = 450.0
 }
 
 457 = {
-	name = "fronika"
+	name = "Fronika"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6727,12 +6712,12 @@
 		death = 365.1.1
 	}
 	dynasty = 83
-	mother = 451
-	father = 450
+	mother = 451.0
+	father = 450.0
 }
 
 458 = {
-	name = "bartisch"
+	name = "Bartisch"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -6745,7 +6730,7 @@
 }
 
 459 = {
-	name = "petra"
+	name = "Petra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6759,7 +6744,7 @@
 }
 
 460 = {
-	name = "howland"
+	name = "Howland"
 	culture = english
 	religion = cathar
 	276.1.1 = {
@@ -6769,12 +6754,12 @@
 		death = 376.1.1
 	}
 	dynasty = 83
-	mother = 451
-	father = 450
+	mother = 451.0
+	father = 450.0
 }
 
 461 = {
-	name = "brunhilde"
+	name = "Brunhilde"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6785,12 +6770,12 @@
 		death = 382.1.1
 	}
 	dynasty = 83
-	mother = 451
-	father = 450
+	mother = 451.0
+	father = 450.0
 }
 
 462 = {
-	name = "rayleine"
+	name = "Rayleine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6801,12 +6786,12 @@
 		death = 384.1.1
 	}
 	dynasty = 83
-	mother = 451
-	father = 450
+	mother = 451.0
+	father = 450.0
 }
 
 463 = {
-	name = "frieda"
+	name = "Frieda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6817,12 +6802,12 @@
 		death = 387.1.1
 	}
 	dynasty = 83
-	mother = 453
-	father = 452
+	mother = 453.0
+	father = 452.0
 }
 
 464 = {
-	name = "eldwin"
+	name = "Eldwin"
 	culture = english
 	religion = cathar
 	290.1.1 = {
@@ -6832,12 +6817,12 @@
 		death = 390.1.1
 	}
 	dynasty = 83
-	mother = 453
-	father = 452
+	mother = 453.0
+	father = 452.0
 }
 
 465 = {
-	name = "ermina"
+	name = "Ermina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6848,12 +6833,12 @@
 		death = 378.1.1
 	}
 	dynasty = 83
-	mother = 454
-	father = 450
+	mother = 454.0
+	father = 450.0
 }
 
 466 = {
-	name = "otto"
+	name = "Otto"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -6863,12 +6848,12 @@
 		death = 392.1.1
 	}
 	dynasty = 84
-	mother = 457
-	father = 458
+	mother = 457.0
+	father = 458.0
 }
 
 467 = {
-	name = "greta"
+	name = "Greta"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6879,12 +6864,12 @@
 		death = 395.1.1
 	}
 	dynasty = 84
-	mother = 457
-	father = 458
+	mother = 457.0
+	father = 458.0
 }
 
 468 = {
-	name = "gherardo"
+	name = "Gherardo"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -6894,11 +6879,11 @@
 		death = 301.1.1
 	}
 	dynasty = 37
-	father = 469
+	father = 469.0
 }
 
 469 = {
-	name = "leontio"
+	name = "Leontio"
 	culture = english
 	religion = cathar
 	211.1.1 = {
@@ -6911,7 +6896,7 @@
 }
 
 470 = {
-	name = "leah"
+	name = "Leah"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6922,11 +6907,11 @@
 		death = 370.1.1
 	}
 	dynasty = 1
-	father = 106
+	father = 106.0
 }
 
 471 = {
-	name = "elisabeth"
+	name = "Elisabeth"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6940,7 +6925,7 @@
 }
 
 472 = {
-	name = "diederik"
+	name = "Diederik"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -6950,12 +6935,12 @@
 		death = 389.1.1
 	}
 	dynasty = 1
-	mother = 470
-	father = 349
+	mother = 470.0
+	father = 349.0
 }
 
 473 = {
-	name = "erica"
+	name = "Erica"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6966,12 +6951,12 @@
 		death = 365.1.1
 	}
 	dynasty = 63
-	mother = 324
-	father = 389
+	mother = 324.0
+	father = 389.0
 }
 
 474 = {
-	name = "frederick"
+	name = "Frederick"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -6981,12 +6966,12 @@
 		death = 346.1.1
 	}
 	dynasty = 83
-	mother = 449
-	father = 448
+	mother = 449.0
+	father = 448.0
 }
 
 475 = {
-	name = "leopold"
+	name = "Leopold"
 	culture = english
 	religion = cathar
 	249.1.1 = {
@@ -6996,12 +6981,12 @@
 		death = 349.1.1
 	}
 	dynasty = 83
-	mother = 449
-	father = 448
+	mother = 449.0
+	father = 448.0
 }
 
 476 = {
-	name = "marianne"
+	name = "Marianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7012,12 +6997,12 @@
 		death = 396.1.1
 	}
 	dynasty = 83
-	mother = 473
-	father = 475
+	mother = 473.0
+	father = 475.0
 }
 
 477 = {
-	name = "brandt"
+	name = "Brandt"
 	culture = english
 	religion = cathar
 	298.1.1 = {
@@ -7027,12 +7012,12 @@
 		death = 398.1.1
 	}
 	dynasty = 83
-	mother = 473
-	father = 475
+	mother = 473.0
+	father = 475.0
 }
 
 478 = {
-	name = "gunther"
+	name = "Gunther"
 	culture = english
 	religion = cathar
 	178.1.1 = {
@@ -7042,11 +7027,11 @@
 		death = 250.1.1
 	}
 	dynasty = 36
-	father = 578
+	father = 578.0
 }
 
 479 = {
-	name = "josephine"
+	name = "Josephine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7057,12 +7042,12 @@
 		death = 350.1.1
 	}
 	dynasty = 83
-	mother = 449
-	father = 448
+	mother = 449.0
+	father = 448.0
 }
 
 480 = {
-	name = "wulfric"
+	name = "Wulfric"
 	culture = english
 	religion = cathar
 	190.1.1 = {
@@ -7075,7 +7060,7 @@
 }
 
 481 = {
-	name = "helena"
+	name = "Helena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7086,11 +7071,11 @@
 		death = 273.1.1
 	}
 	dynasty = 86
-	father = 499
+	father = 499.0
 }
 
 482 = {
-	name = "alexander"
+	name = "Alexander"
 	culture = english
 	religion = cathar
 	221.1.1 = {
@@ -7100,12 +7085,12 @@
 		death = 287.1.1
 	}
 	dynasty = 81
-	mother = 481
-	father = 480
+	mother = 481.0
+	father = 480.0
 }
 
 483 = {
-	name = "melisende"
+	name = "Melisende"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7119,7 +7104,7 @@
 }
 
 484 = {
-	name = "carlo"
+	name = "Carlo"
 	culture = english
 	religion = cathar
 	156.1.1 = {
@@ -7129,11 +7114,11 @@
 		death = 231.1.1
 	}
 	dynasty = 58
-	father = 734
+	father = 734.0
 }
 
 485 = {
-	name = "blanche"
+	name = "Blanche"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7144,12 +7129,12 @@
 		death = 383.1.1
 	}
 	dynasty = 81
-	mother = 425
-	father = 426
+	mother = 425.0
+	father = 426.0
 }
 
 486 = {
-	name = "lothair isengrim"
+	name = "Lothair Isengrim"
 	culture = english
 	religion = cathar
 	255.1.1 = {
@@ -7159,12 +7144,12 @@
 		death = 355.1.1
 	}
 	dynasty = 81
-	mother = 483
-	father = 482
+	mother = 483.0
+	father = 482.0
 }
 
 487 = {
-	name = "swanheid"
+	name = "Swanheid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7175,12 +7160,12 @@
 		death = 293.1.1
 	}
 	dynasty = 81
-	mother = 483
-	father = 482
+	mother = 483.0
+	father = 482.0
 }
 
 488 = {
-	name = "gotfrid"
+	name = "Gotfrid"
 	culture = english
 	religion = cathar
 	259.1.1 = {
@@ -7190,12 +7175,12 @@
 		death = 359.1.1
 	}
 	dynasty = 81
-	mother = 483
-	father = 482
+	mother = 483.0
+	father = 482.0
 }
 
 489 = {
-	name = "perrine"
+	name = "Perrine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7206,12 +7191,12 @@
 		death = 360.1.1
 	}
 	dynasty = 81
-	mother = 483
-	father = 482
+	mother = 483.0
+	father = 482.0
 }
 
 490 = {
-	name = "gregore"
+	name = "Gregore"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -7221,12 +7206,12 @@
 		death = 363.1.1
 	}
 	dynasty = 81
-	mother = 483
-	father = 482
+	mother = 483.0
+	father = 482.0
 }
 
 491 = {
-	name = "willem heidbert"
+	name = "Willem Heidbert"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -7236,11 +7221,11 @@
 		death = 379.1.1
 	}
 	dynasty = 81
-	mother = 487
+	mother = 487.0
 }
 
 492 = {
-	name = "aldrick telesphore"
+	name = "Aldrick Telesphore"
 	culture = english
 	religion = cathar
 	280.1.1 = {
@@ -7250,11 +7235,11 @@
 		death = 380.1.1
 	}
 	dynasty = 81
-	mother = 489
+	mother = 489.0
 }
 
 493 = {
-	name = "laurence"
+	name = "Laurence"
 	culture = english
 	religion = cathar
 	222.1.1 = {
@@ -7264,12 +7249,12 @@
 		death = 295.1.1
 	}
 	dynasty = 81
-	mother = 481
-	father = 480
+	mother = 481.0
+	father = 480.0
 }
 
 494 = {
-	name = "ameline"
+	name = "Ameline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7280,12 +7265,12 @@
 		death = 300.1.1
 	}
 	dynasty = 81
-	mother = 481
-	father = 480
+	mother = 481.0
+	father = 480.0
 }
 
 495 = {
-	name = "willem"
+	name = "Willem"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -7295,11 +7280,11 @@
 		death = 346.1.1
 	}
 	dynasty = 81
-	mother = 494
+	mother = 494.0
 }
 
 496 = {
-	name = "carolin"
+	name = "Carolin"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7310,11 +7295,11 @@
 		death = 348.1.1
 	}
 	dynasty = 81
-	mother = 494
+	mother = 494.0
 }
 
 497 = {
-	name = "wulfric"
+	name = "Wulfric"
 	culture = english
 	religion = cathar
 	250.1.1 = {
@@ -7324,11 +7309,11 @@
 		death = 350.1.1
 	}
 	dynasty = 81
-	mother = 494
+	mother = 494.0
 }
 
 498 = {
-	name = "humaira"
+	name = "Humaira"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7339,11 +7324,11 @@
 		death = 378.1.1
 	}
 	dynasty = 81
-	mother = 496
+	mother = 496.0
 }
 
 499 = {
-	name = "alaric"
+	name = "Alaric"
 	culture = english
 	religion = cathar
 	150.1.1 = {
@@ -7353,11 +7338,11 @@
 		death = 220.1.1
 	}
 	dynasty = 86
-	father = 244
+	father = 244.0
 }
 
 500 = {
-	name = "esteban"
+	name = "Esteban"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -7370,7 +7355,7 @@
 }
 
 501 = {
-	name = "loretta"
+	name = "Loretta"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7381,12 +7366,12 @@
 		death = 346.1.1
 	}
 	dynasty = 63
-	mother = 324
-	father = 389
+	mother = 324.0
+	father = 389.0
 }
 
 502 = {
-	name = "atilio"
+	name = "Atilio"
 	culture = english
 	religion = cathar
 	264.1.1 = {
@@ -7396,12 +7381,12 @@
 		death = 303.1.1
 	}
 	dynasty = 88
-	mother = 501
-	father = 500
+	mother = 501.0
+	father = 500.0
 }
 
 503 = {
-	name = "lorea"
+	name = "Lorea"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7412,11 +7397,11 @@
 		death = 373.1.1
 	}
 	dynasty = 89
-	father = 659
+	father = 659.0
 }
 
 504 = {
-	name = "cesare"
+	name = "Cesare"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -7426,12 +7411,12 @@
 		death = 389.1.1
 	}
 	dynasty = 88
-	mother = 503
-	father = 502
+	mother = 503.0
+	father = 502.0
 }
 
 505 = {
-	name = "bianca"
+	name = "Bianca"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7442,12 +7427,12 @@
 		death = 395.1.1
 	}
 	dynasty = 88
-	mother = 503
-	father = 502
+	mother = 503.0
+	father = 502.0
 }
 
 506 = {
-	name = "apollonia"
+	name = "Apollonia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7461,7 +7446,7 @@
 }
 
 507 = {
-	name = "florence"
+	name = "Florence"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7472,12 +7457,12 @@
 		death = 381.1.1
 	}
 	dynasty = 88
-	mother = 506
-	father = 502
+	mother = 506.0
+	father = 502.0
 }
 
 508 = {
-	name = "ezmeralda"
+	name = "Ezmeralda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7488,12 +7473,12 @@
 		death = 370.1.1
 	}
 	dynasty = 88
-	mother = 501
-	father = 500
+	mother = 501.0
+	father = 500.0
 }
 
 509 = {
-	name = "adrian"
+	name = "Adrian"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -7503,12 +7488,12 @@
 		death = 368.1.1
 	}
 	dynasty = 88
-	mother = 501
-	father = 500
+	mother = 501.0
+	father = 500.0
 }
 
 510 = {
-	name = "andrea"
+	name = "Andrea"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7519,11 +7504,11 @@
 		death = 392.1.1
 	}
 	dynasty = 88
-	father = 509
+	father = 509.0
 }
 
 511 = {
-	name = "celine"
+	name = "Celine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7534,11 +7519,11 @@
 		death = 393.1.1
 	}
 	dynasty = 88
-	father = 509
+	father = 509.0
 }
 
 512 = {
-	name = "dante"
+	name = "Dante"
 	culture = english
 	religion = cathar
 	291.1.1 = {
@@ -7548,11 +7533,11 @@
 		death = 391.1.1
 	}
 	dynasty = 88
-	father = 509
+	father = 509.0
 }
 
 513 = {
-	name = "alphonse"
+	name = "Alphonse"
 	culture = english
 	religion = cathar
 	193.1.1 = {
@@ -7565,7 +7550,7 @@
 }
 
 514 = {
-	name = "colette"
+	name = "Colette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7576,11 +7561,11 @@
 		death = 303.1.1
 	}
 	dynasty = 47
-	father = 513
+	father = 513.0
 }
 
 515 = {
-	name = "aurore"
+	name = "Aurore"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7591,11 +7576,11 @@
 		death = 305.1.1
 	}
 	dynasty = 47
-	mother = 514
+	mother = 514.0
 }
 
 516 = {
-	name = "isabeau"
+	name = "Isabeau"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7606,11 +7591,11 @@
 		death = 353.1.1
 	}
 	dynasty = 47
-	mother = 515
+	mother = 515.0
 }
 
 517 = {
-	name = "lucienne"
+	name = "Lucienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7621,11 +7606,11 @@
 		death = 374.1.1
 	}
 	dynasty = 47
-	mother = 516
+	mother = 516.0
 }
 
 518 = {
-	name = "marc"
+	name = "Marc"
 	culture = english
 	religion = cathar
 	175.1.1 = {
@@ -7635,11 +7620,11 @@
 		death = 247.1.1
 	}
 	dynasty = 8
-	father = 520
+	father = 520.0
 }
 
 519 = {
-	name = "michel"
+	name = "Michel"
 	culture = english
 	religion = cathar
 	208.1.1 = {
@@ -7649,11 +7634,11 @@
 		death = 286.1.1
 	}
 	dynasty = 8
-	father = 518
+	father = 518.0
 }
 
 520 = {
-	name = "gilles"
+	name = "Gilles"
 	culture = english
 	religion = cathar
 	140.1.1 = {
@@ -7663,11 +7648,11 @@
 		death = 223.1.1
 	}
 	dynasty = 8
-	father = 521
+	father = 521.0
 }
 
 521 = {
-	name = "jean-luc"
+	name = "Jean Luc"
 	culture = english
 	religion = cathar
 	112.1.1 = {
@@ -7680,7 +7665,7 @@
 }
 
 522 = {
-	name = "arahael"
+	name = "Arahael"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -7690,12 +7675,12 @@
 		death = 357.1.1
 	}
 	dynasty = 91
-	mother = 532
-	father = 533
+	mother = 532.0
+	father = 533.0
 }
 
 523 = {
-	name = "gwenyth"
+	name = "Gwenyth"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7709,7 +7694,7 @@
 }
 
 524 = {
-	name = "florance tannis"
+	name = "Florance Tannis"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7720,12 +7705,12 @@
 		death = 386.1.1
 	}
 	dynasty = 91
-	mother = 523
-	father = 522
+	mother = 523.0
+	father = 522.0
 }
 
 525 = {
-	name = "laurent raaf"
+	name = "Laurent Raaf"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7736,12 +7721,12 @@
 		death = 385.1.1
 	}
 	dynasty = 91
-	mother = 523
-	father = 522
+	mother = 523.0
+	father = 522.0
 }
 
 526 = {
-	name = "valerie"
+	name = "Valerie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7752,12 +7737,12 @@
 		death = 387.1.1
 	}
 	dynasty = 91
-	mother = 523
-	father = 522
+	mother = 523.0
+	father = 522.0
 }
 
 527 = {
-	name = "leufred"
+	name = "Leufred"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7768,12 +7753,12 @@
 		death = 388.1.1
 	}
 	dynasty = 91
-	mother = 523
-	father = 522
+	mother = 523.0
+	father = 522.0
 }
 
 528 = {
-	name = "rowena cavia"
+	name = "Rowena Cavia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7784,12 +7769,12 @@
 		death = 394.1.1
 	}
 	dynasty = 91
-	mother = 523
-	father = 522
+	mother = 523.0
+	father = 522.0
 }
 
 529 = {
-	name = "rhion"
+	name = "Rhion"
 	culture = english
 	religion = cathar
 	296.1.1 = {
@@ -7799,12 +7784,12 @@
 		death = 396.1.1
 	}
 	dynasty = 91
-	mother = 530
-	father = 531
+	mother = 530.0
+	father = 531.0
 }
 
 530 = {
-	name = "elara"
+	name = "Elara"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7815,11 +7800,11 @@
 		death = 372.1.1
 	}
 	dynasty = 93
-	father = 771
+	father = 771.0
 }
 
 531 = {
-	name = "bastien"
+	name = "Bastien"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -7829,12 +7814,12 @@
 		death = 365.1.1
 	}
 	dynasty = 91
-	mother = 532
-	father = 533
+	mother = 532.0
+	father = 533.0
 }
 
 532 = {
-	name = "samala"
+	name = "Samala"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7848,7 +7833,7 @@
 }
 
 533 = {
-	name = "godric"
+	name = "Godric"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -7861,7 +7846,7 @@
 }
 
 534 = {
-	name = "marie"
+	name = "Marie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7872,11 +7857,11 @@
 		death = 392.1.1
 	}
 	dynasty = 47
-	mother = 517
+	mother = 517.0
 }
 
 535 = {
-	name = "aloys"
+	name = "Aloys"
 	culture = english
 	religion = cathar
 	110.1.1 = {
@@ -7889,7 +7874,7 @@
 }
 
 536 = {
-	name = "lillianna"
+	name = "Lillianna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7903,7 +7888,7 @@
 }
 
 537 = {
-	name = "valentin"
+	name = "Valentin"
 	culture = english
 	religion = cathar
 	140.1.1 = {
@@ -7913,12 +7898,12 @@
 		death = 215.1.1
 	}
 	dynasty = 95
-	mother = 536
-	father = 535
+	mother = 536.0
+	father = 535.0
 }
 
 538 = {
-	name = "eleonora"
+	name = "Eleonora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7929,12 +7914,12 @@
 		death = 217.1.1
 	}
 	dynasty = 95
-	mother = 536
-	father = 535
+	mother = 536.0
+	father = 535.0
 }
 
 539 = {
-	name = "maximillienne"
+	name = "Maximillienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7948,7 +7933,7 @@
 }
 
 540 = {
-	name = "marcoul"
+	name = "Marcoul"
 	culture = english
 	religion = cathar
 	170.1.1 = {
@@ -7958,12 +7943,12 @@
 		death = 245.1.1
 	}
 	dynasty = 95
-	mother = 539
-	father = 537
+	mother = 539.0
+	father = 537.0
 }
 
 541 = {
-	name = "rosaline"
+	name = "Rosaline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7974,12 +7959,12 @@
 		death = 247.1.1
 	}
 	dynasty = 95
-	mother = 539
-	father = 537
+	mother = 539.0
+	father = 537.0
 }
 
 542 = {
-	name = "camille"
+	name = "Camille"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7990,12 +7975,12 @@
 		death = 249.1.1
 	}
 	dynasty = 95
-	mother = 539
-	father = 537
+	mother = 539.0
+	father = 537.0
 }
 
 543 = {
-	name = "heinrich"
+	name = "Heinrich"
 	culture = english
 	religion = cathar
 	170.1.1 = {
@@ -8008,7 +7993,7 @@
 }
 
 544 = {
-	name = "veronica"
+	name = "Veronica"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8019,12 +8004,12 @@
 		death = 270.1.1
 	}
 	dynasty = 98
-	mother = 541
-	father = 543
+	mother = 541.0
+	father = 543.0
 }
 
 545 = {
-	name = "maximilien"
+	name = "Maximilien"
 	culture = english
 	religion = cathar
 	197.1.1 = {
@@ -8034,12 +8019,12 @@
 		death = 272.1.1
 	}
 	dynasty = 98
-	mother = 541
-	father = 543
+	mother = 541.0
+	father = 543.0
 }
 
 546 = {
-	name = "sabine"
+	name = "Sabine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8053,7 +8038,7 @@
 }
 
 547 = {
-	name = "leonard"
+	name = "Leonard"
 	culture = english
 	religion = cathar
 	202.1.1 = {
@@ -8063,12 +8048,12 @@
 		death = 277.1.1
 	}
 	dynasty = 95
-	mother = 546
-	father = 540
+	mother = 546.0
+	father = 540.0
 }
 
 548 = {
-	name = "laurent"
+	name = "Laurent"
 	culture = english
 	religion = cathar
 	204.1.1 = {
@@ -8078,12 +8063,12 @@
 		death = 279.1.1
 	}
 	dynasty = 95
-	mother = 546
-	father = 540
+	mother = 546.0
+	father = 540.0
 }
 
 549 = {
-	name = "alban"
+	name = "Alban"
 	culture = english
 	religion = cathar
 	206.1.1 = {
@@ -8093,12 +8078,12 @@
 		death = 281.1.1
 	}
 	dynasty = 95
-	mother = 546
-	father = 540
+	mother = 546.0
+	father = 540.0
 }
 
 550 = {
-	name = "elle"
+	name = "Elle"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8109,12 +8094,12 @@
 		death = 283.1.1
 	}
 	dynasty = 95
-	mother = 546
-	father = 540
+	mother = 546.0
+	father = 540.0
 }
 
 551 = {
-	name = "pierre"
+	name = "Pierre"
 	culture = english
 	religion = cathar
 	210.1.1 = {
@@ -8124,12 +8109,12 @@
 		death = 285.1.1
 	}
 	dynasty = 95
-	mother = 546
-	father = 540
+	mother = 546.0
+	father = 540.0
 }
 
 552 = {
-	name = "rianne"
+	name = "Rianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8143,7 +8128,7 @@
 }
 
 553 = {
-	name = "laudus"
+	name = "Laudus"
 	culture = english
 	religion = cathar
 	234.1.1 = {
@@ -8153,12 +8138,12 @@
 		death = 309.1.1
 	}
 	dynasty = 95
-	mother = 552
-	father = 548
+	mother = 552.0
+	father = 548.0
 }
 
 554 = {
-	name = "valentina"
+	name = "Valentina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8172,7 +8157,7 @@
 }
 
 555 = {
-	name = "isabelle"
+	name = "Isabelle"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8183,12 +8168,12 @@
 		death = 360.1.1
 	}
 	dynasty = 95
-	mother = 554
-	father = 553
+	mother = 554.0
+	father = 553.0
 }
 
 556 = {
-	name = "victoria"
+	name = "Victoria"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8199,12 +8184,12 @@
 		death = 362.1.1
 	}
 	dynasty = 95
-	mother = 554
-	father = 553
+	mother = 554.0
+	father = 553.0
 }
 
 557 = {
-	name = "henri"
+	name = "Henri"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -8214,12 +8199,12 @@
 		death = 365.1.1
 	}
 	dynasty = 95
-	mother = 554
-	father = 553
+	mother = 554.0
+	father = 553.0
 }
 
 558 = {
-	name = "julienne"
+	name = "Julienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8230,11 +8215,11 @@
 		death = 285.1.1
 	}
 	dynasty = 73
-	mother = 741
+	mother = 741.0
 }
 
 559 = {
-	name = "marian"
+	name = "Marian"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8248,7 +8233,7 @@
 }
 
 560 = {
-	name = "reinault"
+	name = "Reinault"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -8258,12 +8243,12 @@
 		death = 313.1.1
 	}
 	dynasty = 95
-	mother = 558
-	father = 549
+	mother = 558.0
+	father = 549.0
 }
 
 561 = {
-	name = "achille"
+	name = "Achille"
 	culture = english
 	religion = cathar
 	262.1.1 = {
@@ -8273,11 +8258,11 @@
 		death = 362.1.1
 	}
 	dynasty = 95
-	father = 560
+	father = 560.0
 }
 
 562 = {
-	name = "roul"
+	name = "Roul"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -8287,11 +8272,11 @@
 		death = 365.1.1
 	}
 	dynasty = 95
-	father = 560
+	father = 560.0
 }
 
 563 = {
-	name = "manon"
+	name = "Manon"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8302,11 +8287,11 @@
 		death = 368.1.1
 	}
 	dynasty = 95
-	father = 560
+	father = 560.0
 }
 
 564 = {
-	name = "aguste"
+	name = "Aguste"
 	culture = english
 	religion = cathar
 	205.1.1 = {
@@ -8319,7 +8304,7 @@
 }
 
 565 = {
-	name = "eleonore"
+	name = "Eleonore"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8330,12 +8315,12 @@
 		death = 305.1.1
 	}
 	dynasty = 95
-	mother = 550
-	father = 564
+	mother = 550.0
+	father = 564.0
 }
 
 566 = {
-	name = "niels"
+	name = "Niels"
 	culture = english
 	religion = cathar
 	228.1.1 = {
@@ -8348,7 +8333,7 @@
 }
 
 567 = {
-	name = "octavia"
+	name = "Octavia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8362,7 +8347,7 @@
 }
 
 568 = {
-	name = "eloise"
+	name = "Eloise"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8373,12 +8358,12 @@
 		death = 355.1.1
 	}
 	dynasty = 95
-	mother = 567
-	father = 551
+	mother = 567.0
+	father = 551.0
 }
 
 569 = {
-	name = "noemie"
+	name = "Noemie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8389,12 +8374,12 @@
 		death = 357.1.1
 	}
 	dynasty = 95
-	mother = 567
-	father = 551
+	mother = 567.0
+	father = 551.0
 }
 
 570 = {
-	name = "natalie"
+	name = "Natalie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8408,7 +8393,7 @@
 }
 
 571 = {
-	name = "francis"
+	name = "Francis"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -8418,12 +8403,12 @@
 		death = 305.1.1
 	}
 	dynasty = 95
-	mother = 570
-	father = 547
+	mother = 570.0
+	father = 547.0
 }
 
 572 = {
-	name = "florence"
+	name = "Florence"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8434,11 +8419,11 @@
 		death = 308.1.1
 	}
 	dynasty = 107
-	mother = 738
+	mother = 738.0
 }
 
 573 = {
-	name = "milena"
+	name = "Milena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8449,12 +8434,12 @@
 		death = 356.1.1
 	}
 	dynasty = 95
-	mother = 572
-	father = 571
+	mother = 572.0
+	father = 571.0
 }
 
 574 = {
-	name = "constanze"
+	name = "Constanze"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8465,12 +8450,12 @@
 		death = 359.1.1
 	}
 	dynasty = 95
-	mother = 572
-	father = 571
+	mother = 572.0
+	father = 571.0
 }
 
 575 = {
-	name = "michel"
+	name = "Michel"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -8480,12 +8465,12 @@
 		death = 357.1.1
 	}
 	dynasty = 95
-	mother = 572
-	father = 571
+	mother = 572.0
+	father = 571.0
 }
 
 576 = {
-	name = "corina"
+	name = "Corina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8499,7 +8484,7 @@
 }
 
 577 = {
-	name = "fabienne"
+	name = "Fabienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8510,12 +8495,12 @@
 		death = 382.1.1
 	}
 	dynasty = 95
-	mother = 576
-	father = 575
+	mother = 576.0
+	father = 575.0
 }
 
 578 = {
-	name = "herbert"
+	name = "Herbert"
 	culture = english
 	religion = cathar
 	150.1.1 = {
@@ -8528,7 +8513,7 @@
 }
 
 579 = {
-	name = "lorraine"
+	name = "Lorraine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8539,12 +8524,12 @@
 		death = 384.1.1
 	}
 	dynasty = 95
-	mother = 576
-	father = 575
+	mother = 576.0
+	father = 575.0
 }
 
 580 = {
-	name = "ingrid"
+	name = "Ingrid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8555,12 +8540,12 @@
 		death = 385.1.1
 	}
 	dynasty = 95
-	mother = 576
-	father = 575
+	mother = 576.0
+	father = 575.0
 }
 
 581 = {
-	name = "leif"
+	name = "Leif"
 	culture = english
 	religion = cathar
 	255.1.1 = {
@@ -8570,12 +8555,12 @@
 		death = 355.1.1
 	}
 	dynasty = 49
-	mother = 613
-	father = 614
+	mother = 613.0
+	father = 614.0
 }
 
 582 = {
-	name = "julia"
+	name = "Julia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8586,12 +8571,12 @@
 		death = 357.1.1
 	}
 	dynasty = 49
-	mother = 613
-	father = 614
+	mother = 613.0
+	father = 614.0
 }
 
 583 = {
-	name = "viveca"
+	name = "Viveca"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8602,12 +8587,12 @@
 		death = 361.1.1
 	}
 	dynasty = 49
-	mother = 613
-	father = 614
+	mother = 613.0
+	father = 614.0
 }
 
 584 = {
-	name = "lucinda"
+	name = "Lucinda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8618,12 +8603,12 @@
 		death = 295.1.1
 	}
 	dynasty = 49
-	mother = 613
-	father = 614
+	mother = 613.0
+	father = 614.0
 }
 
 585 = {
-	name = "vidar"
+	name = "Vidar"
 	culture = english
 	religion = cathar
 	269.1.1 = {
@@ -8633,12 +8618,12 @@
 		death = 369.1.1
 	}
 	dynasty = 49
-	mother = 613
-	father = 614
+	mother = 613.0
+	father = 614.0
 }
 
 586 = {
-	name = "calder"
+	name = "Calder"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -8648,12 +8633,12 @@
 		death = 387.1.1
 	}
 	dynasty = 49
-	mother = 582
-	father = 581
+	mother = 582.0
+	father = 581.0
 }
 
 587 = {
-	name = "osric"
+	name = "Osric"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -8663,12 +8648,12 @@
 		death = 389.1.1
 	}
 	dynasty = 49
-	mother = 582
-	father = 581
+	mother = 582.0
+	father = 581.0
 }
 
 588 = {
-	name = "elric"
+	name = "Elric"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -8678,12 +8663,12 @@
 		death = 383.1.1
 	}
 	dynasty = 49
-	mother = 582
-	father = 581
+	mother = 582.0
+	father = 581.0
 }
 
 589 = {
-	name = "torbin"
+	name = "Torbin"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -8693,12 +8678,12 @@
 		death = 392.1.1
 	}
 	dynasty = 49
-	mother = 582
-	father = 581
+	mother = 582.0
+	father = 581.0
 }
 
 590 = {
-	name = "leonzio"
+	name = "Leonzio"
 	culture = english
 	religion = cathar
 	284.1.1 = {
@@ -8711,7 +8696,7 @@
 }
 
 591 = {
-	name = "raoul"
+	name = "Raoul"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -8724,7 +8709,7 @@
 }
 
 592 = {
-	name = "alonso"
+	name = "Alonso"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -8737,7 +8722,7 @@
 }
 
 593 = {
-	name = "sarena"
+	name = "Sarena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8748,11 +8733,11 @@
 		death = 371.1.1
 	}
 	dynasty = 107
-	mother = 737
+	mother = 737.0
 }
 
 594 = {
-	name = "benjamin"
+	name = "Benjamin"
 	culture = english
 	religion = cathar
 	290.1.1 = {
@@ -8762,12 +8747,12 @@
 		death = 390.1.1
 	}
 	dynasty = 49
-	mother = 584
-	father = 591
+	mother = 584.0
+	father = 591.0
 }
 
 595 = {
-	name = "henri"
+	name = "Henri"
 	culture = english
 	religion = cathar
 	291.1.1 = {
@@ -8777,12 +8762,12 @@
 		death = 391.1.1
 	}
 	dynasty = 49
-	mother = 584
-	father = 591
+	mother = 584.0
+	father = 591.0
 }
 
 596 = {
-	name = "catalina"
+	name = "Catalina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8793,12 +8778,12 @@
 		death = 394.1.1
 	}
 	dynasty = 49
-	mother = 584
-	father = 591
+	mother = 584.0
+	father = 591.0
 }
 
 597 = {
-	name = "ophelia"
+	name = "Ophelia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8809,12 +8794,12 @@
 		death = 381.1.1
 	}
 	dynasty = 49
-	mother = 583
-	father = 592
+	mother = 583.0
+	father = 592.0
 }
 
 598 = {
-	name = "kendric"
+	name = "Kendric"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -8824,12 +8809,12 @@
 		death = 383.1.1
 	}
 	dynasty = 49
-	mother = 583
-	father = 592
+	mother = 583.0
+	father = 592.0
 }
 
 599 = {
-	name = "lucia"
+	name = "Lucia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8840,12 +8825,12 @@
 		death = 388.1.1
 	}
 	dynasty = 49
-	mother = 583
-	father = 592
+	mother = 583.0
+	father = 592.0
 }
 
 600 = {
-	name = "fernanda"
+	name = "Fernanda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8856,12 +8841,12 @@
 		death = 389.1.1
 	}
 	dynasty = 49
-	mother = 583
-	father = 592
+	mother = 583.0
+	father = 592.0
 }
 
 601 = {
-	name = "lautaro"
+	name = "Lautaro"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -8871,12 +8856,12 @@
 		death = 393.1.1
 	}
 	dynasty = 49
-	mother = 583
-	father = 592
+	mother = 583.0
+	father = 592.0
 }
 
 602 = {
-	name = "javier"
+	name = "Javier"
 	culture = english
 	religion = cathar
 	295.1.1 = {
@@ -8886,12 +8871,12 @@
 		death = 395.1.1
 	}
 	dynasty = 49
-	mother = 583
-	father = 592
+	mother = 583.0
+	father = 592.0
 }
 
 603 = {
-	name = "thyra"
+	name = "Thyra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8902,12 +8887,12 @@
 		death = 392.1.1
 	}
 	dynasty = 49
-	mother = 593
-	father = 585
+	mother = 593.0
+	father = 585.0
 }
 
 604 = {
-	name = "sylvia"
+	name = "Sylvia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8918,12 +8903,12 @@
 		death = 394.1.1
 	}
 	dynasty = 49
-	mother = 593
-	father = 585
+	mother = 593.0
+	father = 585.0
 }
 
 605 = {
-	name = "isidora"
+	name = "Isidora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8934,11 +8919,11 @@
 		death = 385.1.1
 	}
 	dynasty = 73
-	father = 742
+	father = 742.0
 }
 
 606 = {
-	name = "julia"
+	name = "Julia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8949,12 +8934,12 @@
 		death = 401.1.1
 	}
 	dynasty = 49
-	mother = 605
-	father = 588
+	mother = 605.0
+	father = 588.0
 }
 
 607 = {
-	name = "pietro"
+	name = "Pietro"
 	culture = english
 	religion = cathar
 	302.1.1 = {
@@ -8964,12 +8949,12 @@
 		death = 402.1.1
 	}
 	dynasty = 49
-	mother = 605
-	father = 588
+	mother = 605.0
+	father = 588.0
 }
 
 608 = {
-	name = "thomas"
+	name = "Thomas"
 	culture = english
 	religion = cathar
 	280.1.1 = {
@@ -8982,7 +8967,7 @@
 }
 
 609 = {
-	name = "honora"
+	name = "Honora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8993,12 +8978,12 @@
 		death = 397.1.1
 	}
 	dynasty = 49
-	mother = 597
-	father = 608
+	mother = 597.0
+	father = 608.0
 }
 
 610 = {
-	name = "arbec"
+	name = "Arbec"
 	culture = english
 	religion = cathar
 	298.1.1 = {
@@ -9008,12 +8993,12 @@
 		death = 398.1.1
 	}
 	dynasty = 49
-	mother = 597
-	father = 608
+	mother = 597.0
+	father = 608.0
 }
 
 611 = {
-	name = "kensley"
+	name = "Kensley"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9024,12 +9009,12 @@
 		death = 400.1.1
 	}
 	dynasty = 49
-	mother = 597
-	father = 608
+	mother = 597.0
+	father = 608.0
 }
 
 612 = {
-	name = "juliette"
+	name = "Juliette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9043,7 +9028,7 @@
 }
 
 613 = {
-	name = "astrid"
+	name = "Astrid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9057,7 +9042,7 @@
 }
 
 614 = {
-	name = "hakon"
+	name = "Hakon"
 	culture = english
 	religion = cathar
 	232.1.1 = {
@@ -9070,7 +9055,7 @@
 }
 
 615 = {
-	name = "halvard"
+	name = "Halvard"
 	culture = english
 	religion = cathar
 	210.1.1 = {
@@ -9083,7 +9068,7 @@
 }
 
 616 = {
-	name = "solveig"
+	name = "Solveig"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9097,7 +9082,7 @@
 }
 
 617 = {
-	name = "leugel"
+	name = "Leugel"
 	culture = english
 	religion = cathar
 	239.1.1 = {
@@ -9107,12 +9092,12 @@
 		death = 304.1.1
 	}
 	dynasty = 113
-	mother = 616
-	father = 615
+	mother = 616.0
+	father = 615.0
 }
 
 618 = {
-	name = "toverata"
+	name = "Toverata"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9126,7 +9111,7 @@
 }
 
 619 = {
-	name = "nora"
+	name = "Nora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9137,12 +9122,12 @@
 		death = 343.1.1
 	}
 	dynasty = 113
-	mother = 616
-	father = 615
+	mother = 616.0
+	father = 615.0
 }
 
 620 = {
-	name = "roffe"
+	name = "Roffe"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -9155,7 +9140,7 @@
 }
 
 621 = {
-	name = "ardige"
+	name = "Ardige"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -9165,12 +9150,12 @@
 		death = 363.1.1
 	}
 	dynasty = 113
-	mother = 618
-	father = 617
+	mother = 618.0
+	father = 617.0
 }
 
 622 = {
-	name = "karin"
+	name = "Karin"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9184,7 +9169,7 @@
 }
 
 623 = {
-	name = "aurora"
+	name = "Aurora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9195,12 +9180,12 @@
 		death = 397.1.1
 	}
 	dynasty = 117
-	mother = 782
-	father = 783
+	mother = 782.0
+	father = 783.0
 }
 
 624 = {
-	name = "marikka"
+	name = "Marikka"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9214,7 +9199,7 @@
 }
 
 625 = {
-	name = "yngvarr"
+	name = "Yngvarr"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -9224,12 +9209,12 @@
 		death = 366.1.1
 	}
 	dynasty = 113
-	mother = 618
-	father = 617
+	mother = 618.0
+	father = 617.0
 }
 
 626 = {
-	name = "erobrsonn"
+	name = "Erobrsonn"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -9239,12 +9224,12 @@
 		death = 385.1.1
 	}
 	dynasty = 113
-	mother = 622
-	father = 621
+	mother = 622.0
+	father = 621.0
 }
 
 627 = {
-	name = "frejnir"
+	name = "Frejnir"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -9254,12 +9239,12 @@
 		death = 388.1.1
 	}
 	dynasty = 113
-	mother = 622
-	father = 621
+	mother = 622.0
+	father = 621.0
 }
 
 628 = {
-	name = "aksel"
+	name = "Aksel"
 	culture = english
 	religion = cathar
 	290.1.1 = {
@@ -9269,12 +9254,12 @@
 		death = 390.1.1
 	}
 	dynasty = 113
-	mother = 624
-	father = 621
+	mother = 624.0
+	father = 621.0
 }
 
 629 = {
-	name = "tuija"
+	name = "Tuija"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9285,12 +9270,12 @@
 		death = 393.1.1
 	}
 	dynasty = 113
-	mother = 624
-	father = 621
+	mother = 624.0
+	father = 621.0
 }
 
 630 = {
-	name = "sa'alia"
+	name = "Sa'alia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9304,7 +9289,7 @@
 }
 
 631 = {
-	name = "shalhreia"
+	name = "Shalhreia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9315,11 +9300,11 @@
 		death = 258.1.1
 	}
 	dynasty = 119
-	mother = 630
+	mother = 630.0
 }
 
 632 = {
-	name = "auiamey"
+	name = "Auiamey"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9330,12 +9315,12 @@
 		death = 302.1.1
 	}
 	dynasty = 119
-	mother = 631
-	father = 640
+	mother = 631.0
+	father = 640.0
 }
 
 633 = {
-	name = "saelleia"
+	name = "Saelleia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9346,11 +9331,11 @@
 		death = 310.1.1
 	}
 	dynasty = 119
-	mother = 632
+	mother = 632.0
 }
 
 634 = {
-	name = "lleoveyn"
+	name = "Lleoveyn"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -9360,11 +9345,11 @@
 		death = 389.1.1
 	}
 	dynasty = 119
-	mother = 633
+	mother = 633.0
 }
 
 635 = {
-	name = "suzenvaela"
+	name = "Suzenvaela"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9375,11 +9360,11 @@
 		death = 390.1.1
 	}
 	dynasty = 119
-	mother = 633
+	mother = 633.0
 }
 
 636 = {
-	name = "esmedara"
+	name = "Esmedara"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9390,11 +9375,11 @@
 		death = 392.1.1
 	}
 	dynasty = 119
-	mother = 633
+	mother = 633.0
 }
 
 637 = {
-	name = "myirannir"
+	name = "Myirannir"
 	culture = english
 	religion = cathar
 	295.1.1 = {
@@ -9404,11 +9389,11 @@
 		death = 395.1.1
 	}
 	dynasty = 119
-	mother = 633
+	mother = 633.0
 }
 
 638 = {
-	name = "jolieyta"
+	name = "Jolieyta"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9419,11 +9404,11 @@
 		death = 396.1.1
 	}
 	dynasty = 119
-	mother = 633
+	mother = 633.0
 }
 
 639 = {
-	name = "carlos"
+	name = "Carlos"
 	culture = english
 	religion = cathar
 	218.1.1 = {
@@ -9436,7 +9421,7 @@
 }
 
 640 = {
-	name = "oriandor"
+	name = "Oriandor"
 	culture = english
 	religion = cathar
 	175.1.1 = {
@@ -9446,11 +9431,11 @@
 		death = 270.1.1
 	}
 	dynasty = 33
-	father = 712
+	father = 712.0
 }
 
 641 = {
-	name = "samila"
+	name = "Samila"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9461,11 +9446,11 @@
 		death = 285.1.1
 	}
 	dynasty = 33
-	father = 640
+	father = 640.0
 }
 
 642 = {
-	name = "eandrel"
+	name = "Eandrel"
 	culture = english
 	religion = cathar
 	203.1.1 = {
@@ -9475,11 +9460,11 @@
 		death = 290.1.1
 	}
 	dynasty = 33
-	father = 640
+	father = 640.0
 }
 
 643 = {
-	name = "lusyas"
+	name = "Lusyas"
 	culture = english
 	religion = cathar
 	228.1.1 = {
@@ -9489,11 +9474,11 @@
 		death = 312.1.1
 	}
 	dynasty = 33
-	mother = 641
+	mother = 641.0
 }
 
 644 = {
-	name = "salia"
+	name = "Salia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9504,11 +9489,11 @@
 		death = 314.1.1
 	}
 	dynasty = 33
-	mother = 641
+	mother = 641.0
 }
 
 645 = {
-	name = "isaveyl"
+	name = "Isaveyl"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9519,11 +9504,11 @@
 		death = 308.1.1
 	}
 	dynasty = 33
-	father = 642
+	father = 642.0
 }
 
 646 = {
-	name = "noveyn"
+	name = "Noveyn"
 	culture = english
 	religion = cathar
 	255.1.1 = {
@@ -9533,11 +9518,11 @@
 		death = 355.1.1
 	}
 	dynasty = 33
-	father = 643
+	father = 643.0
 }
 
 647 = {
-	name = "malsayn"
+	name = "Malsayn"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -9547,12 +9532,12 @@
 		death = 373.1.1
 	}
 	dynasty = 33
-	mother = 645
-	father = 646
+	mother = 645.0
+	father = 646.0
 }
 
 648 = {
-	name = "eyra"
+	name = "Eyra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9563,12 +9548,12 @@
 		death = 375.1.1
 	}
 	dynasty = 33
-	mother = 645
-	father = 646
+	mother = 645.0
+	father = 646.0
 }
 
 649 = {
-	name = "alistair"
+	name = "Alistair"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -9581,7 +9566,7 @@
 }
 
 650 = {
-	name = "yvette"
+	name = "Yvette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9595,7 +9580,7 @@
 }
 
 651 = {
-	name = "alexandria"
+	name = "Alexandria"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9606,12 +9591,12 @@
 		death = 407.1.1
 	}
 	dynasty = 121
-	mother = 650
-	father = 649
+	mother = 650.0
+	father = 649.0
 }
 
 652 = {
-	name = "alex"
+	name = "Alex"
 	culture = english
 	religion = cathar
 	305.1.1 = {
@@ -9621,12 +9606,12 @@
 		death = 405.1.1
 	}
 	dynasty = 121
-	mother = 650
-	father = 649
+	mother = 650.0
+	father = 649.0
 }
 
 653 = {
-	name = "alejandro"
+	name = "Alejandro"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -9636,11 +9621,11 @@
 		death = 301.1.1
 	}
 	dynasty = 120
-	mother = 654
+	mother = 654.0
 }
 
 654 = {
-	name = "theresa"
+	name = "Theresa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9651,12 +9636,12 @@
 		death = 338.1.1
 	}
 	dynasty = 89
-	mother = 671
-	father = 639
+	mother = 671.0
+	father = 639.0
 }
 
 655 = {
-	name = "matheo"
+	name = "Matheo"
 	culture = english
 	religion = cathar
 	275.1.1 = {
@@ -9666,11 +9651,11 @@
 		death = 375.1.1
 	}
 	dynasty = 89
-	father = 659
+	father = 659.0
 }
 
 656 = {
-	name = "alondra"
+	name = "Alondra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9681,11 +9666,11 @@
 		death = 377.1.1
 	}
 	dynasty = 89
-	mother = 654
+	mother = 654.0
 }
 
 657 = {
-	name = "camila"
+	name = "Camila"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9696,11 +9681,11 @@
 		death = 383.1.1
 	}
 	dynasty = 89
-	father = 653
+	father = 653.0
 }
 
 658 = {
-	name = "gustavo"
+	name = "Gustavo"
 	culture = english
 	religion = cathar
 	267.1.1 = {
@@ -9710,11 +9695,11 @@
 		death = 300.1.1
 	}
 	dynasty = 89
-	mother = 654
+	mother = 654.0
 }
 
 659 = {
-	name = "andrieu"
+	name = "Andrieu"
 	culture = english
 	religion = cathar
 	256.1.1 = {
@@ -9724,11 +9709,11 @@
 		death = 301.1.1
 	}
 	dynasty = 120
-	mother = 654
+	mother = 654.0
 }
 
 660 = {
-	name = "andrea"
+	name = "Andrea"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9739,11 +9724,11 @@
 		death = 384.1.1
 	}
 	dynasty = 89
-	father = 653
+	father = 653.0
 }
 
 661 = {
-	name = "madelyn"
+	name = "Madelyn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9757,7 +9742,7 @@
 }
 
 662 = {
-	name = "valarosta"
+	name = "Valarosta"
 	culture = english
 	religion = cathar
 	235.1.1 = {
@@ -9770,7 +9755,7 @@
 }
 
 663 = {
-	name = "jean-yves"
+	name = "Jean Yves"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -9783,7 +9768,7 @@
 }
 
 664 = {
-	name = "sylvie"
+	name = "Sylvie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9794,11 +9779,11 @@
 		death = 297.1.1
 	}
 	dynasty = 125
-	father = 663
+	father = 663.0
 }
 
 665 = {
-	name = "lucien"
+	name = "Lucien"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -9808,12 +9793,12 @@
 		death = 363.1.1
 	}
 	dynasty = 126
-	mother = 716
-	father = 715
+	mother = 716.0
+	father = 715.0
 }
 
 666 = {
-	name = "florian"
+	name = "Florian"
 	culture = english
 	religion = cathar
 	286.1.1 = {
@@ -9823,12 +9808,12 @@
 		death = 386.1.1
 	}
 	dynasty = 125
-	mother = 664
-	father = 665
+	mother = 664.0
+	father = 665.0
 }
 
 667 = {
-	name = "emeric"
+	name = "Emeric"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -9838,12 +9823,12 @@
 		death = 388.1.1
 	}
 	dynasty = 125
-	mother = 664
-	father = 665
+	mother = 664.0
+	father = 665.0
 }
 
 668 = {
-	name = "lucrece"
+	name = "Lucrece"
 	culture = english
 	religion = cathar
 	290.1.1 = {
@@ -9853,12 +9838,12 @@
 		death = 390.1.1
 	}
 	dynasty = 125
-	mother = 664
-	father = 665
+	mother = 664.0
+	father = 665.0
 }
 
 669 = {
-	name = "fabio"
+	name = "Fabio"
 	culture = english
 	religion = cathar
 	184.1.1 = {
@@ -9868,11 +9853,11 @@
 		death = 263.1.1
 	}
 	dynasty = 58
-	father = 484
+	father = 484.0
 }
 
 670 = {
-	name = "amaury"
+	name = "Amaury"
 	culture = english
 	religion = cathar
 	312.1.1 = {
@@ -9882,12 +9867,12 @@
 		death = 412.1.1
 	}
 	dynasty = 23
-	mother = 660
-	father = 314
+	mother = 660.0
+	father = 314.0
 }
 
 671 = {
-	name = "celine"
+	name = "Celine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9901,7 +9886,7 @@
 }
 
 672 = {
-	name = "laerilas"
+	name = "Laerilas"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -9911,11 +9896,11 @@
 		death = 340.1.1
 	}
 	dynasty = 128
-	father = 680
+	father = 680.0
 }
 
 673 = {
-	name = "sancia"
+	name = "Sancia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9926,11 +9911,11 @@
 		death = 385.1.1
 	}
 	dynasty = 128
-	father = 680
+	father = 680.0
 }
 
 674 = {
-	name = "savnella"
+	name = "Savnella"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9941,11 +9926,11 @@
 		death = 358.1.1
 	}
 	dynasty = 128
-	father = 680
+	father = 680.0
 }
 
 675 = {
-	name = "orlen"
+	name = "Orlen"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -9955,11 +9940,11 @@
 		death = 370.1.1
 	}
 	dynasty = 128
-	father = 680
+	father = 680.0
 }
 
 676 = {
-	name = "salia"
+	name = "Salia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9970,11 +9955,11 @@
 		death = 365.1.1
 	}
 	dynasty = 128
-	father = 680
+	father = 680.0
 }
 
 677 = {
-	name = "lusyas"
+	name = "Lusyas"
 	culture = english
 	religion = cathar
 	250.1.1 = {
@@ -9984,11 +9969,11 @@
 		death = 350.1.1
 	}
 	dynasty = 128
-	father = 680
+	father = 680.0
 }
 
 678 = {
-	name = "noveyn"
+	name = "Noveyn"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -9998,11 +9983,11 @@
 		death = 360.1.1
 	}
 	dynasty = 128
-	father = 680
+	father = 680.0
 }
 
 679 = {
-	name = "pablo"
+	name = "Pablo"
 	culture = english
 	religion = cathar
 	217.1.1 = {
@@ -10012,11 +9997,11 @@
 		death = 263.1.1
 	}
 	dynasty = 58
-	father = 669
+	father = 669.0
 }
 
 680 = {
-	name = "malsayn"
+	name = "Malsayn"
 	culture = english
 	religion = cathar
 	223.1.1 = {
@@ -10026,12 +10011,12 @@
 		death = 300.1.1
 	}
 	dynasty = 128
-	mother = 682
-	father = 681
+	mother = 682.0
+	father = 681.0
 }
 
 681 = {
-	name = "alosso"
+	name = "Alosso"
 	culture = english
 	religion = cathar
 	180.1.1 = {
@@ -10044,7 +10029,7 @@
 }
 
 682 = {
-	name = "liliath"
+	name = "Liliath"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10058,7 +10043,7 @@
 }
 
 683 = {
-	name = "hithaellon"
+	name = "Hithaellon"
 	culture = english
 	religion = cathar
 	170.1.1 = {
@@ -10071,7 +10056,7 @@
 }
 
 684 = {
-	name = "tasallon"
+	name = "Tasallon"
 	culture = english
 	religion = cathar
 	200.1.1 = {
@@ -10081,11 +10066,11 @@
 		death = 270.1.1
 	}
 	dynasty = 129
-	father = 683
+	father = 683.0
 }
 
 685 = {
-	name = "hin'sala"
+	name = "Hin'sala"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10096,12 +10081,12 @@
 		death = 275.1.1
 	}
 	dynasty = 130
-	mother = 711
-	father = 710
+	mother = 711.0
+	father = 710.0
 }
 
 686 = {
-	name = "finarhen"
+	name = "Finarhen"
 	culture = english
 	religion = cathar
 	232.1.1 = {
@@ -10111,12 +10096,12 @@
 		death = 298.1.1
 	}
 	dynasty = 129
-	mother = 685
-	father = 684
+	mother = 685.0
+	father = 684.0
 }
 
 687 = {
-	name = "malcarno"
+	name = "Malcarno"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -10126,12 +10111,12 @@
 		death = 336.1.1
 	}
 	dynasty = 129
-	mother = 685
-	father = 684
+	mother = 685.0
+	father = 684.0
 }
 
 688 = {
-	name = "liravella"
+	name = "Liravella"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10142,12 +10127,12 @@
 		death = 340.1.1
 	}
 	dynasty = 129
-	mother = 685
-	father = 684
+	mother = 685.0
+	father = 684.0
 }
 
 689 = {
-	name = "caswyn"
+	name = "Caswyn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10158,11 +10143,11 @@
 		death = 364.1.1
 	}
 	dynasty = 129
-	father = 686
+	father = 686.0
 }
 
 690 = {
-	name = "enalle"
+	name = "Enalle"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -10175,7 +10160,7 @@
 }
 
 691 = {
-	name = "viviana"
+	name = "Viviana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10186,11 +10171,11 @@
 		death = 354.1.1
 	}
 	dynasty = 129
-	father = 686
+	father = 686.0
 }
 
 692 = {
-	name = "tehrathel"
+	name = "Tehrathel"
 	culture = english
 	religion = cathar
 	256.1.1 = {
@@ -10200,11 +10185,11 @@
 		death = 356.1.1
 	}
 	dynasty = 129
-	father = 686
+	father = 686.0
 }
 
 693 = {
-	name = "alonzo"
+	name = "Alonzo"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -10214,11 +10199,11 @@
 		death = 312.1.1
 	}
 	dynasty = 58
-	father = 679
+	father = 679.0
 }
 
 694 = {
-	name = "faell'veia"
+	name = "Faell'veia"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -10228,11 +10213,11 @@
 		death = 360.1.1
 	}
 	dynasty = 129
-	father = 687
+	father = 687.0
 }
 
 695 = {
-	name = "hin'sulain"
+	name = "Hin'sulain"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10243,11 +10228,11 @@
 		death = 362.1.1
 	}
 	dynasty = 129
-	father = 687
+	father = 687.0
 }
 
 696 = {
-	name = "laenyra"
+	name = "Laenyra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10258,12 +10243,12 @@
 		death = 366.1.1
 	}
 	dynasty = 129
-	mother = 688
-	father = 690
+	mother = 688.0
+	father = 690.0
 }
 
 697 = {
-	name = "rhantallion"
+	name = "Rhantallion"
 	culture = english
 	religion = cathar
 	241.1.1 = {
@@ -10273,12 +10258,12 @@
 		death = 341.1.1
 	}
 	dynasty = 129
-	mother = 685
-	father = 684
+	mother = 685.0
+	father = 684.0
 }
 
 698 = {
-	name = "elarien"
+	name = "Elarien"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10289,11 +10274,11 @@
 		death = 365.1.1
 	}
 	dynasty = 129
-	father = 687
+	father = 687.0
 }
 
 699 = {
-	name = "thalanor"
+	name = "Thalanor"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -10306,7 +10291,7 @@
 }
 
 700 = {
-	name = "calenwe"
+	name = "Calenwe"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10317,12 +10302,12 @@
 		death = 387.1.1
 	}
 	dynasty = 129
-	mother = 698
-	father = 699
+	mother = 698.0
+	father = 699.0
 }
 
 701 = {
-	name = "nimriel"
+	name = "Nimriel"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10333,12 +10318,12 @@
 		death = 389.1.1
 	}
 	dynasty = 129
-	mother = 698
-	father = 699
+	mother = 698.0
+	father = 699.0
 }
 
 702 = {
-	name = "selithra"
+	name = "Selithra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10352,7 +10337,7 @@
 }
 
 703 = {
-	name = "tharion"
+	name = "Tharion"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -10362,12 +10347,12 @@
 		death = 363.1.1
 	}
 	dynasty = 129
-	mother = 702
-	father = 697
+	mother = 702.0
+	father = 697.0
 }
 
 704 = {
-	name = "alariel"
+	name = "Alariel"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10378,12 +10363,12 @@
 		death = 366.1.1
 	}
 	dynasty = 129
-	mother = 702
-	father = 697
+	mother = 702.0
+	father = 697.0
 }
 
 705 = {
-	name = "nymerith"
+	name = "Nymerith"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10394,12 +10379,12 @@
 		death = 369.1.1
 	}
 	dynasty = 129
-	mother = 702
-	father = 697
+	mother = 702.0
+	father = 697.0
 }
 
 706 = {
-	name = "vaelion"
+	name = "Vaelion"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -10409,12 +10394,12 @@
 		death = 373.1.1
 	}
 	dynasty = 129
-	mother = 702
-	father = 697
+	mother = 702.0
+	father = 697.0
 }
 
 707 = {
-	name = "lireth"
+	name = "Lireth"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10428,7 +10413,7 @@
 }
 
 708 = {
-	name = "thalindra"
+	name = "Thalindra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10439,12 +10424,12 @@
 		death = 384.1.1
 	}
 	dynasty = 129
-	mother = 707
-	father = 703
+	mother = 707.0
+	father = 703.0
 }
 
 709 = {
-	name = "faendir"
+	name = "Faendir"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -10454,12 +10439,12 @@
 		death = 388.1.1
 	}
 	dynasty = 129
-	mother = 707
-	father = 703
+	mother = 707.0
+	father = 703.0
 }
 
 710 = {
-	name = "elendir"
+	name = "Elendir"
 	culture = english
 	religion = cathar
 	180.1.1 = {
@@ -10472,7 +10457,7 @@
 }
 
 711 = {
-	name = "samwea"
+	name = "Samwea"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10483,11 +10468,11 @@
 		death = 245.1.1
 	}
 	dynasty = 33
-	father = 712
+	father = 712.0
 }
 
 712 = {
-	name = "larethian"
+	name = "Larethian"
 	culture = english
 	religion = cathar
 	150.1.1 = {
@@ -10500,7 +10485,7 @@
 }
 
 713 = {
-	name = "laurent"
+	name = "Laurent"
 	culture = english
 	religion = cathar
 	200.1.1 = {
@@ -10513,7 +10498,7 @@
 }
 
 714 = {
-	name = "solenne"
+	name = "Solenne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10527,7 +10512,7 @@
 }
 
 715 = {
-	name = "estienne"
+	name = "Estienne"
 	culture = english
 	religion = cathar
 	245.1.1 = {
@@ -10537,12 +10522,12 @@
 		death = 310.1.1
 	}
 	dynasty = 126
-	mother = 714
-	father = 713
+	mother = 714.0
+	father = 713.0
 }
 
 716 = {
-	name = "aurelia"
+	name = "Aurelia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10553,11 +10538,11 @@
 		death = 307.1.1
 	}
 	dynasty = 71
-	father = 732
+	father = 732.0
 }
 
 717 = {
-	name = "etienne"
+	name = "Etienne"
 	culture = english
 	religion = cathar
 	264.1.1 = {
@@ -10567,12 +10552,12 @@
 		death = 364.1.1
 	}
 	dynasty = 126
-	mother = 716
-	father = 715
+	mother = 716.0
+	father = 715.0
 }
 
 718 = {
-	name = "noemie"
+	name = "Noemie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10586,7 +10571,7 @@
 }
 
 719 = {
-	name = "amelina"
+	name = "Amelina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10597,12 +10582,12 @@
 		death = 380.1.1
 	}
 	dynasty = 126
-	mother = 718
-	father = 717
+	mother = 718.0
+	father = 717.0
 }
 
 720 = {
-	name = "eilaria"
+	name = "Eilaria"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10613,12 +10598,12 @@
 		death = 397.1.1
 	}
 	dynasty = 126
-	mother = 718
-	father = 717
+	mother = 718.0
+	father = 717.0
 }
 
 721 = {
-	name = "lancel"
+	name = "Lancel"
 	culture = english
 	religion = cathar
 	313.1.1 = {
@@ -10628,12 +10613,12 @@
 		death = 413.1.1
 	}
 	dynasty = 126
-	mother = 719
-	father = 860
+	mother = 719.0
+	father = 860.0
 }
 
 722 = {
-	name = "yvea"
+	name = "Yvea"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10644,12 +10629,12 @@
 		death = 402.1.1
 	}
 	dynasty = 126
-	mother = 718
-	father = 717
+	mother = 718.0
+	father = 717.0
 }
 
 723 = {
-	name = "emmon"
+	name = "Emmon"
 	culture = english
 	religion = cathar
 	304.1.1 = {
@@ -10659,12 +10644,12 @@
 		death = 314.1.1
 	}
 	dynasty = 126
-	mother = 718
-	father = 717
+	mother = 718.0
+	father = 717.0
 }
 
 724 = {
-	name = "narcissa"
+	name = "Narcissa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10675,12 +10660,12 @@
 		death = 401.1.1
 	}
 	dynasty = 126
-	mother = 718
-	father = 717
+	mother = 718.0
+	father = 717.0
 }
 
 725 = {
-	name = "ludovic"
+	name = "Ludovic"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -10690,12 +10675,12 @@
 		death = 350.1.1
 	}
 	dynasty = 126
-	mother = 716
-	father = 715
+	mother = 716.0
+	father = 715.0
 }
 
 726 = {
-	name = "ghyslaine"
+	name = "Ghyslaine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10709,7 +10694,7 @@
 }
 
 727 = {
-	name = "maeva"
+	name = "Maeva"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10720,12 +10705,12 @@
 		death = 303.1.1
 	}
 	dynasty = 126
-	mother = 726
-	father = 725
+	mother = 726.0
+	father = 725.0
 }
 
 728 = {
-	name = "baldrick"
+	name = "Baldrick"
 	culture = english
 	religion = cathar
 	298.1.1 = {
@@ -10735,12 +10720,12 @@
 		death = 398.1.1
 	}
 	dynasty = 126
-	mother = 726
-	father = 725
+	mother = 726.0
+	father = 725.0
 }
 
 729 = {
-	name = "myria"
+	name = "Myria"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10751,12 +10736,12 @@
 		death = 400.1.1
 	}
 	dynasty = 126
-	mother = 726
-	father = 725
+	mother = 726.0
+	father = 725.0
 }
 
 730 = {
-	name = "odette"
+	name = "Odette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10767,12 +10752,12 @@
 		death = 403.1.1
 	}
 	dynasty = 126
-	mother = 726
-	father = 725
+	mother = 726.0
+	father = 725.0
 }
 
 731 = {
-	name = "julius"
+	name = "Julius"
 	culture = english
 	religion = cathar
 	307.1.1 = {
@@ -10782,11 +10767,11 @@
 		death = 407.1.1
 	}
 	dynasty = 126
-	father = 725
+	father = 725.0
 }
 
 732 = {
-	name = "jean"
+	name = "Jean"
 	culture = english
 	religion = cathar
 	220.1.1 = {
@@ -10799,7 +10784,7 @@
 }
 
 733 = {
-	name = "malcolm"
+	name = "Malcolm"
 	culture = english
 	religion = cathar
 	301.1.1 = {
@@ -10809,12 +10794,12 @@
 		death = 401.1.1
 	}
 	dynasty = 35
-	mother = 727
-	father = 189
+	mother = 727.0
+	father = 189.0
 }
 
 734 = {
-	name = "dario"
+	name = "Dario"
 	culture = english
 	religion = cathar
 	130.1.1 = {
@@ -10824,11 +10809,11 @@
 		death = 198.1.1
 	}
 	dynasty = 58
-	father = 735
+	father = 735.0
 }
 
 735 = {
-	name = "fabricio"
+	name = "Fabricio"
 	culture = english
 	religion = cathar
 	105.1.1 = {
@@ -10841,7 +10826,7 @@
 }
 
 736 = {
-	name = "vicario"
+	name = "Vicario"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -10851,12 +10836,12 @@
 		death = 370.1.1
 	}
 	dynasty = 58
-	mother = 737
-	father = 693
+	mother = 737.0
+	father = 693.0
 }
 
 737 = {
-	name = "marie"
+	name = "Marie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10867,11 +10852,11 @@
 		death = 351.1.1
 	}
 	dynasty = 107
-	mother = 739
+	mother = 739.0
 }
 
 738 = {
-	name = "amelie"
+	name = "Amelie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10885,7 +10870,7 @@
 }
 
 739 = {
-	name = "audrey"
+	name = "Audrey"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10896,11 +10881,11 @@
 		death = 308.1.1
 	}
 	dynasty = 107
-	mother = 738
+	mother = 738.0
 }
 
 740 = {
-	name = "osorio"
+	name = "Osorio"
 	culture = english
 	religion = cathar
 	291.1.1 = {
@@ -10910,11 +10895,11 @@
 		death = 391.1.1
 	}
 	dynasty = 58
-	father = 736
+	father = 736.0
 }
 
 741 = {
-	name = "francine"
+	name = "Francine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10928,7 +10913,7 @@
 }
 
 742 = {
-	name = "phillipe"
+	name = "Phillipe"
 	culture = english
 	religion = cathar
 	205.1.1 = {
@@ -10938,11 +10923,11 @@
 		death = 287.1.1
 	}
 	dynasty = 73
-	mother = 741
+	mother = 741.0
 }
 
 743 = {
-	name = "alastair"
+	name = "Alastair"
 	culture = english
 	religion = cathar
 	198.1.1 = {
@@ -10955,7 +10940,7 @@
 }
 
 744 = {
-	name = "allia"
+	name = "Allia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10969,7 +10954,7 @@
 }
 
 745 = {
-	name = "brandon"
+	name = "Brandon"
 	culture = english
 	religion = cathar
 	220.1.1 = {
@@ -10979,12 +10964,12 @@
 		death = 293.1.1
 	}
 	dynasty = 138
-	mother = 744
-	father = 743
+	mother = 744.0
+	father = 743.0
 }
 
 746 = {
-	name = "lilliana"
+	name = "Lilliana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10998,7 +10983,7 @@
 }
 
 747 = {
-	name = "arden"
+	name = "Arden"
 	culture = english
 	religion = cathar
 	242.1.1 = {
@@ -11008,12 +10993,12 @@
 		death = 308.1.1
 	}
 	dynasty = 138
-	mother = 746
-	father = 745
+	mother = 746.0
+	father = 745.0
 }
 
 748 = {
-	name = "saoirse"
+	name = "Saoirse"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11024,11 +11009,11 @@
 		death = 310.1.1
 	}
 	dynasty = 93
-	father = 771
+	father = 771.0
 }
 
 749 = {
-	name = "vilhelm"
+	name = "Vilhelm"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -11038,12 +11023,12 @@
 		death = 309.1.1
 	}
 	dynasty = 138
-	mother = 746
-	father = 745
+	mother = 746.0
+	father = 745.0
 }
 
 750 = {
-	name = "heidie"
+	name = "Heidie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11054,11 +11039,11 @@
 		death = 312.1.1
 	}
 	dynasty = 8
-	father = 519
+	father = 519.0
 }
 
 751 = {
-	name = "eddair"
+	name = "Eddair"
 	culture = english
 	religion = cathar
 	262.1.1 = {
@@ -11068,12 +11053,12 @@
 		death = 362.1.1
 	}
 	dynasty = 138
-	mother = 748
-	father = 747
+	mother = 748.0
+	father = 747.0
 }
 
 752 = {
-	name = "edina"
+	name = "Edina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11087,7 +11072,7 @@
 }
 
 753 = {
-	name = "wilmair"
+	name = "Wilmair"
 	culture = english
 	religion = cathar
 	264.1.1 = {
@@ -11097,12 +11082,12 @@
 		death = 364.1.1
 	}
 	dynasty = 138
-	mother = 748
-	father = 747
+	mother = 748.0
+	father = 747.0
 }
 
 754 = {
-	name = "addilin"
+	name = "Addilin"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11116,7 +11101,7 @@
 }
 
 755 = {
-	name = "saraid"
+	name = "Saraid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11127,12 +11112,12 @@
 		death = 366.1.1
 	}
 	dynasty = 138
-	mother = 748
-	father = 747
+	mother = 748.0
+	father = 747.0
 }
 
 756 = {
-	name = "patrick"
+	name = "Patrick"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -11145,7 +11130,7 @@
 }
 
 757 = {
-	name = "patrick"
+	name = "Patrick"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -11155,12 +11140,12 @@
 		death = 368.1.1
 	}
 	dynasty = 138
-	mother = 748
-	father = 747
+	mother = 748.0
+	father = 747.0
 }
 
 758 = {
-	name = "ian"
+	name = "Ian"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -11170,12 +11155,12 @@
 		death = 366.1.1
 	}
 	dynasty = 138
-	mother = 750
-	father = 749
+	mother = 750.0
+	father = 749.0
 }
 
 759 = {
-	name = "cathal"
+	name = "Cathal"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -11185,12 +11170,12 @@
 		death = 368.1.1
 	}
 	dynasty = 138
-	mother = 750
-	father = 749
+	mother = 750.0
+	father = 749.0
 }
 
 760 = {
-	name = "rosalin"
+	name = "Rosalin"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11201,12 +11186,12 @@
 		death = 370.1.1
 	}
 	dynasty = 138
-	mother = 750
-	father = 749
+	mother = 750.0
+	father = 749.0
 }
 
 761 = {
-	name = "alastair"
+	name = "Alastair"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -11216,12 +11201,12 @@
 		death = 389.1.1
 	}
 	dynasty = 138
-	mother = 752
-	father = 751
+	mother = 752.0
+	father = 751.0
 }
 
 762 = {
-	name = "calidh"
+	name = "Calidh"
 	culture = english
 	religion = cathar
 	291.1.1 = {
@@ -11231,12 +11216,12 @@
 		death = 391.1.1
 	}
 	dynasty = 138
-	mother = 752
-	father = 751
+	mother = 752.0
+	father = 751.0
 }
 
 763 = {
-	name = "arnhelm"
+	name = "Arnhelm"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -11246,12 +11231,12 @@
 		death = 393.1.1
 	}
 	dynasty = 138
-	mother = 752
-	father = 751
+	mother = 752.0
+	father = 751.0
 }
 
 764 = {
-	name = "greer"
+	name = "Greer"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11262,12 +11247,12 @@
 		death = 395.1.1
 	}
 	dynasty = 138
-	mother = 752
-	father = 751
+	mother = 752.0
+	father = 751.0
 }
 
 765 = {
-	name = "fiona"
+	name = "Fiona"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11278,12 +11263,12 @@
 		death = 397.1.1
 	}
 	dynasty = 138
-	mother = 752
-	father = 751
+	mother = 752.0
+	father = 751.0
 }
 
 766 = {
-	name = "natharia"
+	name = "Natharia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11294,12 +11279,12 @@
 		death = 390.1.1
 	}
 	dynasty = 138
-	mother = 754
-	father = 753
+	mother = 754.0
+	father = 753.0
 }
 
 767 = {
-	name = "finnidh"
+	name = "Finnidh"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -11309,12 +11294,12 @@
 		death = 393.1.1
 	}
 	dynasty = 138
-	mother = 754
-	father = 753
+	mother = 754.0
+	father = 753.0
 }
 
 768 = {
-	name = "cillian"
+	name = "Cillian"
 	culture = english
 	religion = cathar
 	295.1.1 = {
@@ -11324,12 +11309,12 @@
 		death = 395.1.1
 	}
 	dynasty = 139
-	mother = 755
-	father = 756
+	mother = 755.0
+	father = 756.0
 }
 
 769 = {
-	name = "robard"
+	name = "Robard"
 	culture = english
 	religion = cathar
 	299.1.1 = {
@@ -11339,11 +11324,11 @@
 		death = 399.1.1
 	}
 	dynasty = 138
-	father = 758
+	father = 758.0
 }
 
 770 = {
-	name = "meridath"
+	name = "Meridath"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11354,11 +11339,11 @@
 		death = 402.1.1
 	}
 	dynasty = 138
-	father = 758
+	father = 758.0
 }
 
 771 = {
-	name = "emeric"
+	name = "Emeric"
 	culture = english
 	religion = cathar
 	220.1.1 = {
@@ -11371,7 +11356,7 @@
 }
 
 772 = {
-	name = "nathan"
+	name = "Nathan"
 	culture = english
 	religion = cathar
 	256.1.1 = {
@@ -11384,7 +11369,7 @@
 }
 
 773 = {
-	name = "lyonel"
+	name = "Lyonel"
 	culture = english
 	religion = cathar
 	281.1.1 = {
@@ -11394,11 +11379,11 @@
 		death = 381.1.1
 	}
 	dynasty = 140
-	father = 772
+	father = 772.0
 }
 
 774 = {
-	name = "arianne"
+	name = "Arianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11409,11 +11394,11 @@
 		death = 307.1.1
 	}
 	dynasty = 140
-	father = 772
+	father = 772.0
 }
 
 775 = {
-	name = "matei"
+	name = "Matei"
 	culture = english
 	religion = cathar
 	237.1.1 = {
@@ -11426,7 +11411,7 @@
 }
 
 776 = {
-	name = "costin"
+	name = "Costin"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -11439,7 +11424,7 @@
 }
 
 777 = {
-	name = "marie"
+	name = "Marie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11450,11 +11435,11 @@
 		death = 350.1.1
 	}
 	dynasty = 117
-	father = 776
+	father = 776.0
 }
 
 778 = {
-	name = "pavel"
+	name = "Pavel"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -11464,11 +11449,11 @@
 		death = 365.1.1
 	}
 	dynasty = 141
-	father = 775
+	father = 775.0
 }
 
 779 = {
-	name = "katarina"
+	name = "Katarina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11479,12 +11464,12 @@
 		death = 391.1.1
 	}
 	dynasty = 117
-	mother = 777
-	father = 778
+	mother = 777.0
+	father = 778.0
 }
 
 780 = {
-	name = "acelina"
+	name = "Acelina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11495,12 +11480,12 @@
 		death = 395.1.1
 	}
 	dynasty = 117
-	mother = 777
-	father = 778
+	mother = 777.0
+	father = 778.0
 }
 
 781 = {
-	name = "ivonn"
+	name = "Ivonn"
 	culture = english
 	religion = cathar
 	301.1.1 = {
@@ -11510,12 +11495,12 @@
 		death = 401.1.1
 	}
 	dynasty = 117
-	mother = 777
-	father = 778
+	mother = 777.0
+	father = 778.0
 }
 
 782 = {
-	name = "beatrix"
+	name = "Beatrix"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11526,11 +11511,11 @@
 		death = 373.1.1
 	}
 	dynasty = 141
-	father = 775
+	father = 775.0
 }
 
 783 = {
-	name = "ambrus"
+	name = "Ambrus"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -11543,7 +11528,7 @@
 }
 
 784 = {
-	name = "fredek"
+	name = "Fredek"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -11553,12 +11538,12 @@
 		death = 393.1.1
 	}
 	dynasty = 142
-	mother = 782
-	father = 783
+	mother = 782.0
+	father = 783.0
 }
 
 785 = {
-	name = "lukacs"
+	name = "Lukacs"
 	culture = english
 	religion = cathar
 	295.1.1 = {
@@ -11568,12 +11553,12 @@
 		death = 395.1.1
 	}
 	dynasty = 142
-	mother = 782
-	father = 783
+	mother = 782.0
+	father = 783.0
 }
 
 786 = {
-	name = "sabina"
+	name = "Sabina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11584,11 +11569,11 @@
 		death = 375.1.1
 	}
 	dynasty = 117
-	father = 776
+	father = 776.0
 }
 
 787 = {
-	name = "cristian"
+	name = "Cristian"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -11601,7 +11586,7 @@
 }
 
 788 = {
-	name = "elicia"
+	name = "Elicia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11612,12 +11597,12 @@
 		death = 397.1.1
 	}
 	dynasty = 117
-	mother = 786
-	father = 787
+	mother = 786.0
+	father = 787.0
 }
 
 789 = {
-	name = "corina"
+	name = "Corina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11628,12 +11613,12 @@
 		death = 398.1.1
 	}
 	dynasty = 117
-	mother = 786
-	father = 787
+	mother = 786.0
+	father = 787.0
 }
 
 790 = {
-	name = "petre"
+	name = "Petre"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -11643,11 +11628,11 @@
 		death = 383.1.1
 	}
 	dynasty = 117
-	father = 776
+	father = 776.0
 }
 
 791 = {
-	name = "mihaela"
+	name = "Mihaela"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11658,11 +11643,11 @@
 		death = 387.1.1
 	}
 	dynasty = 117
-	father = 776
+	father = 776.0
 }
 
 792 = {
-	name = "ragnar"
+	name = "Ragnar"
 	culture = english
 	religion = cathar
 	313.1.1 = {
@@ -11672,12 +11657,12 @@
 		death = 413.1.1
 	}
 	dynasty = 113
-	mother = 623
-	father = 621
+	mother = 623.0
+	father = 621.0
 }
 
 793 = {
-	name = "kerastellar"
+	name = "Kerastellar"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11688,12 +11673,12 @@
 		death = 298.1.1
 	}
 	dynasty = 113
-	mother = 618
-	father = 617
+	mother = 618.0
+	father = 617.0
 }
 
 794 = {
-	name = "nadia"
+	name = "Nadia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11707,7 +11692,7 @@
 }
 
 795 = {
-	name = "lovid"
+	name = "Lovid"
 	culture = english
 	religion = cathar
 	312.1.1 = {
@@ -11717,12 +11702,12 @@
 		death = 412.1.1
 	}
 	dynasty = 113
-	mother = 794
-	father = 627
+	mother = 794.0
+	father = 627.0
 }
 
 796 = {
-	name = "solveig"
+	name = "Solveig"
 	culture = english
 	religion = cathar
 	313.1.1 = {
@@ -11732,12 +11717,12 @@
 		death = 413.1.1
 	}
 	dynasty = 113
-	mother = 794
-	father = 627
+	mother = 794.0
+	father = 627.0
 }
 
 797 = {
-	name = "siselle"
+	name = "Siselle"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11751,7 +11736,7 @@
 }
 
 798 = {
-	name = "gunnar"
+	name = "Gunnar"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -11764,7 +11749,7 @@
 }
 
 799 = {
-	name = "kerastellar"
+	name = "Kerastellar"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11775,12 +11760,12 @@
 		death = 300.1.1
 	}
 	dynasty = 113
-	mother = 618
-	father = 617
+	mother = 618.0
+	father = 617.0
 }
 
 800 = {
-	name = "morten"
+	name = "Morten"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -11790,11 +11775,11 @@
 		death = 310.1.1
 	}
 	dynasty = 146
-	father = 798
+	father = 798.0
 }
 
 801 = {
-	name = "garth"
+	name = "Garth"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -11804,12 +11789,12 @@
 		death = 387.1.1
 	}
 	dynasty = 113
-	mother = 799
-	father = 800
+	mother = 799.0
+	father = 800.0
 }
 
 802 = {
-	name = "thelka"
+	name = "Thelka"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11820,11 +11805,11 @@
 		death = 367.1.1
 	}
 	dynasty = 146
-	father = 798
+	father = 798.0
 }
 
 803 = {
-	name = "godtfred"
+	name = "Godtfred"
 	culture = english
 	religion = cathar
 	262.1.1 = {
@@ -11837,7 +11822,7 @@
 }
 
 804 = {
-	name = "johanne"
+	name = "Johanne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11848,12 +11833,12 @@
 		death = 390.1.1
 	}
 	dynasty = 148
-	mother = 802
-	father = 803
+	mother = 802.0
+	father = 803.0
 }
 
 805 = {
-	name = "arvid"
+	name = "Arvid"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -11863,12 +11848,12 @@
 		death = 392.1.1
 	}
 	dynasty = 148
-	mother = 802
-	father = 803
+	mother = 802.0
+	father = 803.0
 }
 
 806 = {
-	name = "hartvik"
+	name = "Hartvik"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -11878,12 +11863,12 @@
 		death = 393.1.1
 	}
 	dynasty = 148
-	mother = 802
-	father = 803
+	mother = 802.0
+	father = 803.0
 }
 
 807 = {
-	name = "eydis"
+	name = "Eydis"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11894,12 +11879,12 @@
 		death = 395.1.1
 	}
 	dynasty = 148
-	mother = 802
-	father = 803
+	mother = 802.0
+	father = 803.0
 }
 
 808 = {
-	name = "ylva"
+	name = "Ylva"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11910,12 +11895,12 @@
 		death = 396.1.1
 	}
 	dynasty = 148
-	mother = 802
-	father = 803
+	mother = 802.0
+	father = 803.0
 }
 
 809 = {
-	name = "mavleina"
+	name = "Mavleina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11929,7 +11914,7 @@
 }
 
 810 = {
-	name = "sif"
+	name = "Sif"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11940,12 +11925,12 @@
 		death = 415.1.1
 	}
 	dynasty = 15
-	mother = 10
-	father = 801
+	mother = 10.0
+	father = 801.0
 }
 
 811 = {
-	name = "vaenya"
+	name = "Vaenya"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11959,7 +11944,7 @@
 }
 
 812 = {
-	name = "cerynlo"
+	name = "Cerynlo"
 	culture = english
 	religion = cathar
 	180.1.1 = {
@@ -11972,7 +11957,7 @@
 }
 
 813 = {
-	name = "tesvmalo"
+	name = "Tesvmalo"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11983,12 +11968,12 @@
 		death = 278.1.1
 	}
 	dynasty = 152
-	mother = 811
-	father = 812
+	mother = 811.0
+	father = 812.0
 }
 
 814 = {
-	name = "eash-llo"
+	name = "Eash Llo"
 	culture = english
 	religion = cathar
 	198.1.1 = {
@@ -12001,7 +11986,7 @@
 }
 
 815 = {
-	name = "serlay'ufol"
+	name = "Serlay'ufol"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12012,12 +11997,12 @@
 		death = 295.1.1
 	}
 	dynasty = 152
-	mother = 813
-	father = 814
+	mother = 813.0
+	father = 814.0
 }
 
 816 = {
-	name = "abelhard"
+	name = "Abelhard"
 	culture = english
 	religion = cathar
 	242.1.1 = {
@@ -12027,11 +12012,11 @@
 		death = 350.1.1
 	}
 	dynasty = 154
-	mother = 815
+	mother = 815.0
 }
 
 817 = {
-	name = "avox"
+	name = "Avox"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12042,11 +12027,11 @@
 		death = 392.1.1
 	}
 	dynasty = 154
-	father = 816
+	father = 816.0
 }
 
 818 = {
-	name = "tol-ay"
+	name = "Tol Ay"
 	culture = english
 	religion = cathar
 	223.1.1 = {
@@ -12056,12 +12041,12 @@
 		death = 303.1.1
 	}
 	dynasty = 152
-	mother = 813
-	father = 814
+	mother = 813.0
+	father = 814.0
 }
 
 819 = {
-	name = "sylvia"
+	name = "Sylvia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12072,12 +12057,12 @@
 		death = 305.1.1
 	}
 	dynasty = 152
-	mother = 813
-	father = 814
+	mother = 813.0
+	father = 814.0
 }
 
 820 = {
-	name = "jurgen"
+	name = "Jurgen"
 	culture = english
 	religion = cathar
 	224.1.1 = {
@@ -12090,7 +12075,7 @@
 }
 
 821 = {
-	name = "katrin"
+	name = "Katrin"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12101,12 +12086,12 @@
 		death = 350.1.1
 	}
 	dynasty = 156
-	mother = 819
-	father = 820
+	mother = 819.0
+	father = 820.0
 }
 
 822 = {
-	name = "ul-ayom"
+	name = "Ul Ayom"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12117,12 +12102,12 @@
 		death = 283.1.1
 	}
 	dynasty = 152
-	mother = 811
-	father = 812
+	mother = 811.0
+	father = 812.0
 }
 
 823 = {
-	name = "telryllo"
+	name = "Telryllo"
 	culture = english
 	religion = cathar
 	200.1.1 = {
@@ -12135,7 +12120,7 @@
 }
 
 824 = {
-	name = "lluitalen"
+	name = "Lluitalen"
 	culture = english
 	religion = cathar
 	222.1.1 = {
@@ -12145,12 +12130,12 @@
 		death = 299.1.1
 	}
 	dynasty = 152
-	mother = 822
-	father = 823
+	mother = 822.0
+	father = 823.0
 }
 
 825 = {
-	name = "junia"
+	name = "Junia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12164,7 +12149,7 @@
 }
 
 826 = {
-	name = "adrastos"
+	name = "Adrastos"
 	culture = english
 	religion = cathar
 	247.1.1 = {
@@ -12174,12 +12159,12 @@
 		death = 347.1.1
 	}
 	dynasty = 152
-	mother = 825
-	father = 824
+	mother = 825.0
+	father = 824.0
 }
 
 827 = {
-	name = "tebryn"
+	name = "Tebryn"
 	culture = english
 	religion = cathar
 	249.1.1 = {
@@ -12189,12 +12174,12 @@
 		death = 349.1.1
 	}
 	dynasty = 152
-	mother = 825
-	father = 824
+	mother = 825.0
+	father = 824.0
 }
 
 828 = {
-	name = "emmeline"
+	name = "Emmeline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12205,12 +12190,12 @@
 		death = 352.1.1
 	}
 	dynasty = 152
-	mother = 825
-	father = 824
+	mother = 825.0
+	father = 824.0
 }
 
 829 = {
-	name = "rievein"
+	name = "Rievein"
 	culture = english
 	religion = cathar
 	226.1.1 = {
@@ -12220,12 +12205,12 @@
 		death = 305.1.1
 	}
 	dynasty = 152
-	mother = 822
-	father = 823
+	mother = 822.0
+	father = 823.0
 }
 
 830 = {
-	name = "madeline"
+	name = "Madeline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12239,7 +12224,7 @@
 }
 
 831 = {
-	name = "fleur"
+	name = "Fleur"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12250,12 +12235,12 @@
 		death = 355.1.1
 	}
 	dynasty = 152
-	mother = 830
-	father = 829
+	mother = 830.0
+	father = 829.0
 }
 
 832 = {
-	name = "acelina"
+	name = "Acelina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12266,12 +12251,12 @@
 		death = 358.1.1
 	}
 	dynasty = 152
-	mother = 830
-	father = 829
+	mother = 830.0
+	father = 829.0
 }
 
 833 = {
-	name = "lucienne"
+	name = "Lucienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12282,12 +12267,12 @@
 		death = 309.1.1
 	}
 	dynasty = 160
-	mother = 840
-	father = 843
+	mother = 840.0
+	father = 843.0
 }
 
 834 = {
-	name = "stefan"
+	name = "Stefan"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -12300,7 +12285,7 @@
 }
 
 835 = {
-	name = "florentine"
+	name = "Florentine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12311,12 +12296,12 @@
 		death = 383.1.1
 	}
 	dynasty = 160
-	mother = 833
-	father = 834
+	mother = 833.0
+	father = 834.0
 }
 
 836 = {
-	name = "auriane"
+	name = "Auriane"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12327,12 +12312,12 @@
 		death = 385.1.1
 	}
 	dynasty = 160
-	mother = 833
-	father = 834
+	mother = 833.0
+	father = 834.0
 }
 
 837 = {
-	name = "timothee"
+	name = "Timothee"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -12342,12 +12327,12 @@
 		death = 389.1.1
 	}
 	dynasty = 160
-	mother = 833
-	father = 834
+	mother = 833.0
+	father = 834.0
 }
 
 838 = {
-	name = "elarir"
+	name = "Elarir"
 	culture = english
 	religion = cathar
 	261.1.1 = {
@@ -12360,7 +12345,7 @@
 }
 
 839 = {
-	name = "neomie"
+	name = "Neomie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12371,12 +12356,12 @@
 		death = 398.1.1
 	}
 	dynasty = 160
-	mother = 833
-	father = 838
+	mother = 833.0
+	father = 838.0
 }
 
 840 = {
-	name = "renee"
+	name = "Renee"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12387,12 +12372,12 @@
 		death = 292.1.1
 	}
 	dynasty = 160
-	mother = 841
-	father = 849
+	mother = 841.0
+	father = 849.0
 }
 
 841 = {
-	name = "isabeau"
+	name = "Isabeau"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12403,12 +12388,12 @@
 		death = 270.1.1
 	}
 	dynasty = 160
-	mother = 842
-	father = 844
+	mother = 842.0
+	father = 844.0
 }
 
 842 = {
-	name = "genevieve"
+	name = "Genevieve"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12419,12 +12404,12 @@
 		death = 240.1.1
 	}
 	dynasty = 160
-	mother = 845
-	father = 846
+	mother = 845.0
+	father = 846.0
 }
 
 843 = {
-	name = "louis"
+	name = "Louis"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -12437,7 +12422,7 @@
 }
 
 844 = {
-	name = "etienne"
+	name = "Etienne"
 	culture = english
 	religion = cathar
 	176.1.1 = {
@@ -12450,7 +12435,7 @@
 }
 
 845 = {
-	name = "claire"
+	name = "Claire"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12461,12 +12446,12 @@
 		death = 211.1.1
 	}
 	dynasty = 160
-	mother = 847
-	father = 848
+	mother = 847.0
+	father = 848.0
 }
 
 846 = {
-	name = "bastien"
+	name = "Bastien"
 	culture = english
 	religion = cathar
 	147.1.1 = {
@@ -12479,7 +12464,7 @@
 }
 
 847 = {
-	name = "veronique"
+	name = "Veronique"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12493,7 +12478,7 @@
 }
 
 848 = {
-	name = "andrien"
+	name = "Andrien"
 	culture = english
 	religion = cathar
 	118.1.1 = {
@@ -12506,7 +12491,7 @@
 }
 
 849 = {
-	name = "philippe"
+	name = "Philippe"
 	culture = english
 	religion = cathar
 	202.1.1 = {
@@ -12519,7 +12504,7 @@
 }
 
 850 = {
-	name = "carl"
+	name = "Carl"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -12529,12 +12514,12 @@
 		death = 366.1.1
 	}
 	dynasty = 167
-	mother = 854
-	father = 853
+	mother = 854.0
+	father = 853.0
 }
 
 851 = {
-	name = "isidore"
+	name = "Isidore"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12545,12 +12530,12 @@
 		death = 390.1.1
 	}
 	dynasty = 167
-	mother = 162
-	father = 850
+	mother = 162.0
+	father = 850.0
 }
 
 852 = {
-	name = "ulvira"
+	name = "Ulvira"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12561,12 +12546,12 @@
 		death = 392.1.1
 	}
 	dynasty = 167
-	mother = 162
-	father = 850
+	mother = 162.0
+	father = 850.0
 }
 
 853 = {
-	name = "otto"
+	name = "Otto"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -12576,12 +12561,12 @@
 		death = 283.1.1
 	}
 	dynasty = 167
-	mother = 858
-	father = 859
+	mother = 858.0
+	father = 859.0
 }
 
 854 = {
-	name = "helene"
+	name = "Helene"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12595,7 +12580,7 @@
 }
 
 855 = {
-	name = "friedrich"
+	name = "Friedrich"
 	culture = english
 	religion = cathar
 	212.1.1 = {
@@ -12608,7 +12593,7 @@
 }
 
 856 = {
-	name = "elisabet"
+	name = "Elisabet"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12622,7 +12607,7 @@
 }
 
 857 = {
-	name = "gerhard"
+	name = "Gerhard"
 	culture = english
 	religion = cathar
 	185.1.1 = {
@@ -12635,7 +12620,7 @@
 }
 
 858 = {
-	name = "magdalena"
+	name = "Magdalena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12649,7 +12634,7 @@
 }
 
 859 = {
-	name = "ulrich"
+	name = "Ulrich"
 	culture = english
 	religion = cathar
 	188.1.1 = {
@@ -12662,7 +12647,7 @@
 }
 
 860 = {
-	name = "ruzgar"
+	name = "Ruzgar"
 	culture = english
 	religion = cathar
 	277.1.1 = {
@@ -12675,7 +12660,7 @@
 }
 
 861 = {
-	name = "clarissa"
+	name = "Clarissa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12689,7 +12674,7 @@
 }
 
 862 = {
-	name = "edmund"
+	name = "Edmund"
 	culture = english
 	religion = cathar
 	228.1.1 = {
@@ -12702,7 +12687,7 @@
 }
 
 863 = {
-	name = "thurnolf"
+	name = "Thurnolf"
 	culture = english
 	religion = cathar
 	253.1.1 = {
@@ -12712,12 +12697,12 @@
 		death = 353.1.1
 	}
 	dynasty = 173
-	mother = 861
-	father = 862
+	mother = 861.0
+	father = 862.0
 }
 
 864 = {
-	name = "maessa"
+	name = "Maessa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12731,7 +12716,7 @@
 }
 
 865 = {
-	name = "theadora"
+	name = "Theadora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12742,12 +12727,12 @@
 		death = 378.1.1
 	}
 	dynasty = 173
-	mother = 864
-	father = 863
+	mother = 864.0
+	father = 863.0
 }
 
 866 = {
-	name = "abelhard"
+	name = "Abelhard"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -12757,12 +12742,12 @@
 		death = 379.1.1
 	}
 	dynasty = 173
-	mother = 864
-	father = 863
+	mother = 864.0
+	father = 863.0
 }
 
 867 = {
-	name = "esther"
+	name = "Esther"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12773,11 +12758,11 @@
 		death = 411.1.1
 	}
 	dynasty = 173
-	father = 866
+	father = 866.0
 }
 
 868 = {
-	name = "aelfric"
+	name = "Aelfric"
 	culture = english
 	religion = cathar
 	309.1.1 = {
@@ -12787,11 +12772,11 @@
 		death = 409.1.1
 	}
 	dynasty = 173
-	father = 866
+	father = 866.0
 }
 
 869 = {
-	name = "leopold"
+	name = "Leopold"
 	culture = english
 	religion = cathar
 	280.1.1 = {
@@ -12801,12 +12786,12 @@
 		death = 380.1.1
 	}
 	dynasty = 173
-	mother = 864
-	father = 863
+	mother = 864.0
+	father = 863.0
 }
 
 870 = {
-	name = "caspian"
+	name = "Caspian"
 	culture = english
 	religion = cathar
 	299.1.1 = {
@@ -12816,11 +12801,11 @@
 		death = 399.1.1
 	}
 	dynasty = 173
-	father = 869
+	father = 869.0
 }
 
 871 = {
-	name = "georgina-ruth"
+	name = "Georgina Ruth"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12831,12 +12816,12 @@
 		death = 395.1.1
 	}
 	dynasty = 173
-	mother = 864
-	father = 863
+	mother = 864.0
+	father = 863.0
 }
 
 872 = {
-	name = "james-charles"
+	name = "James Charles"
 	culture = english
 	religion = cathar
 	281.1.1 = {
@@ -12846,12 +12831,12 @@
 		death = 301.1.1
 	}
 	dynasty = 173
-	mother = 864
-	father = 863
+	mother = 864.0
+	father = 863.0
 }
 
 873 = {
-	name = "lars-alexander"
+	name = "Lars Alexander"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -12861,12 +12846,12 @@
 		death = 383.1.1
 	}
 	dynasty = 173
-	mother = 864
-	father = 863
+	mother = 864.0
+	father = 863.0
 }
 
 874 = {
-	name = "ida-mae"
+	name = "Ida Mae"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12877,12 +12862,12 @@
 		death = 396.1.1
 	}
 	dynasty = 173
-	mother = 864
-	father = 863
+	mother = 864.0
+	father = 863.0
 }
 
 875 = {
-	name = "karina"
+	name = "Karina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12893,12 +12878,12 @@
 		death = 385.1.1
 	}
 	dynasty = 173
-	mother = 864
-	father = 863
+	mother = 864.0
+	father = 863.0
 }
 
 876 = {
-	name = "frederick"
+	name = "Frederick"
 	culture = english
 	religion = cathar
 	264.1.1 = {
@@ -12908,12 +12893,12 @@
 		death = 364.1.1
 	}
 	dynasty = 173
-	mother = 861
-	father = 862
+	mother = 861.0
+	father = 862.0
 }
 
 877 = {
-	name = "bernadette"
+	name = "Bernadette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12927,7 +12912,7 @@
 }
 
 878 = {
-	name = "william"
+	name = "William"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -12937,12 +12922,12 @@
 		death = 358.1.1
 	}
 	dynasty = 173
-	mother = 861
-	father = 862
+	mother = 861.0
+	father = 862.0
 }
 
 879 = {
-	name = "thomas"
+	name = "Thomas"
 	culture = english
 	religion = cathar
 	278.1.1 = {
@@ -12952,12 +12937,12 @@
 		death = 378.1.1
 	}
 	dynasty = 173
-	mother = 877
-	father = 878
+	mother = 877.0
+	father = 878.0
 }
 
 880 = {
-	name = "alexandra"
+	name = "Alexandra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12968,12 +12953,12 @@
 		death = 385.1.1
 	}
 	dynasty = 173
-	mother = 877
-	father = 878
+	mother = 877.0
+	father = 878.0
 }
 
 881 = {
-	name = "bethany"
+	name = "Bethany"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12984,12 +12969,12 @@
 		death = 389.1.1
 	}
 	dynasty = 173
-	mother = 877
-	father = 878
+	mother = 877.0
+	father = 878.0
 }
 
 882 = {
-	name = "isaac"
+	name = "Isaac"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -12999,12 +12984,12 @@
 		death = 392.1.1
 	}
 	dynasty = 173
-	mother = 877
-	father = 878
+	mother = 877.0
+	father = 878.0
 }
 
 883 = {
-	name = "beatrice"
+	name = "Beatrice"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13018,7 +13003,7 @@
 }
 
 884 = {
-	name = "luther"
+	name = "Luther"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -13028,12 +13013,12 @@
 		death = 305.1.1
 	}
 	dynasty = 173
-	mother = 861
-	father = 862
+	mother = 861.0
+	father = 862.0
 }
 
 885 = {
-	name = "peter"
+	name = "Peter"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -13043,12 +13028,12 @@
 		death = 387.1.1
 	}
 	dynasty = 173
-	mother = 883
-	father = 884
+	mother = 883.0
+	father = 884.0
 }
 
 886 = {
-	name = "colleen"
+	name = "Colleen"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13059,12 +13044,12 @@
 		death = 390.1.1
 	}
 	dynasty = 173
-	mother = 883
-	father = 884
+	mother = 883.0
+	father = 884.0
 }
 
 887 = {
-	name = "michael"
+	name = "Michael"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -13074,12 +13059,12 @@
 		death = 393.1.1
 	}
 	dynasty = 173
-	mother = 883
-	father = 884
+	mother = 883.0
+	father = 884.0
 }
 
 888 = {
-	name = "agustine"
+	name = "Agustine"
 	culture = english
 	religion = cathar
 	267.1.1 = {
@@ -13089,12 +13074,12 @@
 		death = 367.1.1
 	}
 	dynasty = 173
-	mother = 861
-	father = 862
+	mother = 861.0
+	father = 862.0
 }
 
 889 = {
-	name = "robert"
+	name = "Robert"
 	culture = english
 	religion = cathar
 	299.1.1 = {
@@ -13104,11 +13089,11 @@
 		death = 399.1.1
 	}
 	dynasty = 173
-	father = 888
+	father = 888.0
 }
 
 890 = {
-	name = "verger"
+	name = "Verger"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -13121,7 +13106,7 @@
 }
 
 891 = {
-	name = "lisette"
+	name = "Lisette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13135,7 +13120,7 @@
 }
 
 892 = {
-	name = "sophia"
+	name = "Sophia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13149,7 +13134,7 @@
 }
 
 893 = {
-	name = "sigfrid"
+	name = "Sigfrid"
 	culture = english
 	religion = cathar
 	275.1.1 = {
@@ -13162,7 +13147,7 @@
 }
 
 894 = {
-	name = "izel"
+	name = "Izel"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13176,7 +13161,7 @@
 }
 
 895 = {
-	name = "charles"
+	name = "Charles"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -13189,7 +13174,7 @@
 }
 
 896 = {
-	name = "nadiya"
+	name = "Nadiya"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13203,7 +13188,7 @@
 }
 
 897 = {
-	name = "charles"
+	name = "Charles"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -13216,7 +13201,7 @@
 }
 
 898 = {
-	name = "krieger"
+	name = "Krieger"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -13229,7 +13214,7 @@
 }
 
 899 = {
-	name = "jannick"
+	name = "Jannick"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -13242,7 +13227,7 @@
 }
 
 900 = {
-	name = "suvitril"
+	name = "Suvitril"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13256,7 +13241,7 @@
 }
 
 901 = {
-	name = "severus"
+	name = "Severus"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -13269,7 +13254,7 @@
 }
 
 902 = {
-	name = "victoire"
+	name = "Victoire"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13283,7 +13268,7 @@
 }
 
 903 = {
-	name = "theodric"
+	name = "Theodric"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -13296,7 +13281,7 @@
 }
 
 904 = {
-	name = "almar"
+	name = "Almar"
 	culture = english
 	religion = cathar
 	281.1.1 = {
@@ -13309,7 +13294,7 @@
 }
 
 905 = {
-	name = "kalu"
+	name = "Kalu"
 	culture = english
 	religion = cathar
 	296.1.1 = {
@@ -13322,7 +13307,7 @@
 }
 
 906 = {
-	name = "amber"
+	name = "Amber"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13336,7 +13321,7 @@
 }
 
 907 = {
-	name = "nefertath"
+	name = "Nefertath"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13350,7 +13335,7 @@
 }
 
 908 = {
-	name = "roulain"
+	name = "Roulain"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -13363,7 +13348,7 @@
 }
 
 909 = {
-	name = "nefer"
+	name = "Nefer"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -13376,7 +13361,7 @@
 }
 
 910 = {
-	name = "fiora"
+	name = "Fiora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13390,7 +13375,7 @@
 }
 
 911 = {
-	name = "francisca"
+	name = "Francisca"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13404,7 +13389,7 @@
 }
 
 912 = {
-	name = "marak"
+	name = "Marak"
 	culture = english
 	religion = cathar
 	282.1.1 = {
@@ -13417,7 +13402,7 @@
 }
 
 913 = {
-	name = "yahra"
+	name = "Yahra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13431,7 +13416,7 @@
 }
 
 914 = {
-	name = "lao"
+	name = "Lao"
 	culture = english
 	religion = cathar
 	248.1.1 = {
@@ -13444,7 +13429,7 @@
 }
 
 915 = {
-	name = "jocelyn"
+	name = "Jocelyn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13458,7 +13443,7 @@
 }
 
 916 = {
-	name = "lieven"
+	name = "Lieven"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -13471,7 +13456,7 @@
 }
 
 917 = {
-	name = "wilhelm"
+	name = "Wilhelm"
 	culture = english
 	religion = cathar
 	274.1.1 = {
@@ -13484,7 +13469,7 @@
 }
 
 918 = {
-	name = "hera"
+	name = "Hera"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13495,11 +13480,11 @@
 		death = 390.1.1
 	}
 	dynasty = 205
-	father = 397
+	father = 397.0
 }
 
 919 = {
-	name = "bonavent"
+	name = "Bonavent"
 	culture = english
 	religion = cathar
 	286.1.1 = {
@@ -13512,7 +13497,7 @@
 }
 
 920 = {
-	name = "madelyn"
+	name = "Madelyn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13526,7 +13511,7 @@
 }
 
 921 = {
-	name = "virathus"
+	name = "Virathus"
 	culture = english
 	religion = cathar
 	286.1.1 = {
@@ -13539,7 +13524,7 @@
 }
 
 922 = {
-	name = "dorothios"
+	name = "Dorothios"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -13552,7 +13537,7 @@
 }
 
 923 = {
-	name = "halewise"
+	name = "Halewise"
 	culture = english
 	religion = cathar
 	280.1.1 = {
@@ -13565,7 +13550,7 @@
 }
 
 924 = {
-	name = "mariella"
+	name = "Mariella"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13579,7 +13564,7 @@
 }
 
 925 = {
-	name = "lamont"
+	name = "Lamont"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -13592,7 +13577,7 @@
 }
 
 926 = {
-	name = "willem"
+	name = "Willem"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -13605,7 +13590,7 @@
 }
 
 927 = {
-	name = "thomas"
+	name = "Thomas"
 	culture = english
 	religion = cathar
 	248.1.1 = {
@@ -13618,7 +13603,7 @@
 }
 
 928 = {
-	name = "lucien"
+	name = "Lucien"
 	culture = english
 	religion = cathar
 	242.1.1 = {
@@ -13631,7 +13616,7 @@
 }
 
 929 = {
-	name = "pierre"
+	name = "Pierre"
 	culture = english
 	religion = cathar
 	237.1.1 = {
@@ -13644,7 +13629,7 @@
 }
 
 930 = {
-	name = "aerandir"
+	name = "Aerandir"
 	culture = english
 	religion = cathar
 	259.1.1 = {
@@ -13657,7 +13642,7 @@
 }
 
 931 = {
-	name = "hendrik"
+	name = "Hendrik"
 	culture = english
 	religion = cathar
 	233.1.1 = {
@@ -13670,7 +13655,7 @@
 }
 
 932 = {
-	name = "thalion"
+	name = "Thalion"
 	culture = english
 	religion = cathar
 	251.1.1 = {
@@ -13683,7 +13668,7 @@
 }
 
 933 = {
-	name = "calenor"
+	name = "Calenor"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -13696,7 +13681,7 @@
 }
 
 934 = {
-	name = "joris"
+	name = "Joris"
 	culture = english
 	religion = cathar
 	226.1.1 = {
@@ -13709,7 +13694,7 @@
 }
 
 935 = {
-	name = "erik"
+	name = "Erik"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -13722,7 +13707,7 @@
 }
 
 936 = {
-	name = "milan"
+	name = "Milan"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -13735,7 +13720,7 @@
 }
 
 937 = {
-	name = "alistair"
+	name = "Alistair"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -13748,7 +13733,7 @@
 }
 
 938 = {
-	name = "nikolas"
+	name = "Nikolas"
 	culture = english
 	religion = cathar
 	256.1.1 = {
@@ -13761,7 +13746,7 @@
 }
 
 939 = {
-	name = "oleg"
+	name = "Oleg"
 	culture = english
 	religion = cathar
 	229.1.1 = {
@@ -13774,7 +13759,7 @@
 }
 
 940 = {
-	name = "edward"
+	name = "Edward"
 	culture = english
 	religion = cathar
 	247.1.1 = {
@@ -13787,7 +13772,7 @@
 }
 
 941 = {
-	name = "robert"
+	name = "Robert"
 	culture = english
 	religion = cathar
 	220.1.1 = {
@@ -13800,7 +13785,7 @@
 }
 
 942 = {
-	name = "cormac"
+	name = "Cormac"
 	culture = english
 	religion = cathar
 	252.1.1 = {
@@ -13813,7 +13798,7 @@
 }
 
 943 = {
-	name = "henry"
+	name = "Henry"
 	culture = english
 	religion = cathar
 	234.1.1 = {
@@ -13826,7 +13811,7 @@
 }
 
 944 = {
-	name = "james"
+	name = "James"
 	culture = english
 	religion = cathar
 	245.1.1 = {
@@ -13839,7 +13824,7 @@
 }
 
 945 = {
-	name = "viktor"
+	name = "Viktor"
 	culture = english
 	religion = cathar
 	222.1.1 = {
@@ -13852,7 +13837,7 @@
 }
 
 946 = {
-	name = "lukas"
+	name = "Lukas"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -13865,7 +13850,7 @@
 }
 
 947 = {
-	name = "fergus"
+	name = "Fergus"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -13878,7 +13863,7 @@
 }
 
 948 = {
-	name = "andreas"
+	name = "Andreas"
 	culture = english
 	religion = cathar
 	249.1.1 = {
@@ -13891,7 +13876,7 @@
 }
 
 949 = {
-	name = "richard"
+	name = "Richard"
 	culture = english
 	religion = cathar
 	224.1.1 = {
@@ -13904,7 +13889,7 @@
 }
 
 950 = {
-	name = "samuel"
+	name = "Samuel"
 	culture = english
 	religion = cathar
 	253.1.1 = {
@@ -13917,7 +13902,7 @@
 }
 
 951 = {
-	name = "daniel"
+	name = "Daniel"
 	culture = english
 	religion = cathar
 	239.1.1 = {
@@ -13930,7 +13915,7 @@
 }
 
 952 = {
-	name = "bjorn"
+	name = "Bjorn"
 	culture = english
 	religion = cathar
 	227.1.1 = {
@@ -13943,7 +13928,7 @@
 }
 
 953 = {
-	name = "mateo"
+	name = "Mateo"
 	culture = english
 	religion = cathar
 	241.1.1 = {
@@ -13956,7 +13941,7 @@
 }
 
 954 = {
-	name = "ronan"
+	name = "Ronan"
 	culture = english
 	religion = cathar
 	232.1.1 = {
@@ -13969,7 +13954,7 @@
 }
 
 955 = {
-	name = "joao"
+	name = "Joao"
 	culture = english
 	religion = cathar
 	255.1.1 = {
@@ -13982,7 +13967,7 @@
 }
 
 956 = {
-	name = "leonidas"
+	name = "Leonidas"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -13995,7 +13980,7 @@
 }
 
 957 = {
-	name = "theron"
+	name = "Theron"
 	culture = english
 	religion = cathar
 	221.1.1 = {
@@ -14008,7 +13993,7 @@
 }
 
 958 = {
-	name = "arthur"
+	name = "Arthur"
 	culture = english
 	religion = cathar
 	250.1.1 = {
@@ -14021,7 +14006,7 @@
 }
 
 959 = {
-	name = "marcus"
+	name = "Marcus"
 	culture = english
 	religion = cathar
 	237.1.1 = {
@@ -14034,7 +14019,7 @@
 }
 
 960 = {
-	name = "stephen"
+	name = "Stephen"
 	culture = english
 	religion = cathar
 	243.1.1 = {
@@ -14047,7 +14032,7 @@
 }
 
 961 = {
-	name = "martin"
+	name = "Martin"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -14060,7 +14045,7 @@
 }
 
 962 = {
-	name = "amadou"
+	name = "Amadou"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -14073,7 +14058,7 @@
 }
 
 963 = {
-	name = "boubacar"
+	name = "Boubacar"
 	culture = english
 	religion = cathar
 	228.1.1 = {
@@ -14086,7 +14071,7 @@
 }
 
 964 = {
-	name = "hroldin"
+	name = "Hroldin"
 	culture = english
 	religion = cathar
 	219.1.1 = {
@@ -14099,7 +14084,7 @@
 }
 
 965 = {
-	name = "edwin"
+	name = "Edwin"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -14112,7 +14097,7 @@
 }
 
 966 = {
-	name = "edemere"
+	name = "Edemere"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -14125,7 +14110,7 @@
 }
 
 967 = {
-	name = "karim"
+	name = "Karim"
 	culture = english
 	religion = cathar
 	233.1.1 = {
@@ -14138,7 +14123,7 @@
 }
 
 968 = {
-	name = "rashid"
+	name = "Rashid"
 	culture = english
 	religion = cathar
 	226.1.1 = {
@@ -14151,7 +14136,7 @@
 }
 
 969 = {
-	name = "nathaniel"
+	name = "Nathaniel"
 	culture = english
 	religion = cathar
 	248.1.1 = {
@@ -14164,7 +14149,7 @@
 }
 
 970 = {
-	name = "oliver"
+	name = "Oliver"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -14177,7 +14162,7 @@
 }
 
 971 = {
-	name = "faelar"
+	name = "Faelar"
 	culture = english
 	religion = cathar
 	259.1.1 = {
@@ -14190,7 +14175,7 @@
 }
 
 972 = {
-	name = "edward"
+	name = "Edward"
 	culture = english
 	religion = cathar
 	235.1.1 = {
@@ -14203,7 +14188,7 @@
 }
 
 973 = {
-	name = "william"
+	name = "William"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -14216,7 +14201,7 @@
 }
 
 974 = {
-	name = "marcel"
+	name = "Marcel"
 	culture = english
 	religion = cathar
 	223.1.1 = {
@@ -14229,7 +14214,7 @@
 }
 
 975 = {
-	name = "antoine"
+	name = "Antoine"
 	culture = english
 	religion = cathar
 	252.1.1 = {
@@ -14242,7 +14227,7 @@
 }
 
 976 = {
-	name = "elarion"
+	name = "Elarion"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -14255,7 +14240,7 @@
 }
 
 977 = {
-	name = "pieter"
+	name = "Pieter"
 	culture = english
 	religion = cathar
 	229.1.1 = {
@@ -14268,7 +14253,7 @@
 }
 
 978 = {
-	name = "lorandel"
+	name = "Lorandel"
 	culture = english
 	religion = cathar
 	247.1.1 = {
@@ -14281,7 +14266,7 @@
 }
 
 979 = {
-	name = "vaelis"
+	name = "Vaelis"
 	culture = english
 	religion = cathar
 	241.1.1 = {
@@ -14294,7 +14279,7 @@
 }
 
 980 = {
-	name = "maarten"
+	name = "Maarten"
 	culture = english
 	religion = cathar
 	234.1.1 = {
@@ -14307,7 +14292,7 @@
 }
 
 981 = {
-	name = "soren"
+	name = "Soren"
 	culture = english
 	religion = cathar
 	255.1.1 = {
@@ -14320,7 +14305,7 @@
 }
 
 982 = {
-	name = "radek"
+	name = "Radek"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -14333,7 +14318,7 @@
 }
 
 983 = {
-	name = "duncan"
+	name = "Duncan"
 	culture = english
 	religion = cathar
 	222.1.1 = {
@@ -14346,7 +14331,7 @@
 }
 
 984 = {
-	name = "alexandros"
+	name = "Alexandros"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -14359,7 +14344,7 @@
 }
 
 985 = {
-	name = "taras"
+	name = "Taras"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -14372,7 +14357,7 @@
 }
 
 986 = {
-	name = "charles"
+	name = "Charles"
 	culture = english
 	religion = cathar
 	249.1.1 = {
@@ -14385,7 +14370,7 @@
 }
 
 987 = {
-	name = "gregory"
+	name = "Gregory"
 	culture = english
 	religion = cathar
 	221.1.1 = {
@@ -14398,7 +14383,7 @@
 }
 
 988 = {
-	name = "seamus"
+	name = "Seamus"
 	culture = english
 	religion = cathar
 	253.1.1 = {
@@ -14411,7 +14396,7 @@
 }
 
 989 = {
-	name = "philip"
+	name = "Philip"
 	culture = english
 	religion = cathar
 	239.1.1 = {
@@ -14424,7 +14409,7 @@
 }
 
 990 = {
-	name = "andrew"
+	name = "Andrew"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -14437,7 +14422,7 @@
 }
 
 991 = {
-	name = "mykola"
+	name = "Mykola"
 	culture = english
 	religion = cathar
 	227.1.1 = {
@@ -14450,7 +14435,7 @@
 }
 
 992 = {
-	name = "matthias"
+	name = "Matthias"
 	culture = english
 	religion = cathar
 	256.1.1 = {
@@ -14463,7 +14448,7 @@
 }
 
 993 = {
-	name = "callum"
+	name = "Callum"
 	culture = english
 	religion = cathar
 	235.1.1 = {
@@ -14476,7 +14461,7 @@
 }
 
 994 = {
-	name = "demetrios"
+	name = "Demetrios"
 	culture = english
 	religion = cathar
 	248.1.1 = {
@@ -14489,7 +14474,7 @@
 }
 
 995 = {
-	name = "jonathan"
+	name = "Jonathan"
 	culture = english
 	religion = cathar
 	224.1.1 = {
@@ -14502,7 +14487,7 @@
 }
 
 996 = {
-	name = "benjamin"
+	name = "Benjamin"
 	culture = english
 	religion = cathar
 	252.1.1 = {
@@ -14515,7 +14500,7 @@
 }
 
 997 = {
-	name = "matthew"
+	name = "Matthew"
 	culture = english
 	religion = cathar
 	237.1.1 = {
@@ -14528,7 +14513,7 @@
 }
 
 998 = {
-	name = "torvald"
+	name = "Torvald"
 	culture = english
 	religion = cathar
 	220.1.1 = {
@@ -14541,7 +14526,7 @@
 }
 
 999 = {
-	name = "diego"
+	name = "Diego"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -14554,7 +14539,7 @@
 }
 
 1000 = {
-	name = "fionn"
+	name = "Fionn"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -14567,7 +14552,7 @@
 }
 
 1001 = {
-	name = "miguel"
+	name = "Miguel"
 	culture = english
 	religion = cathar
 	245.1.1 = {
@@ -14580,7 +14565,7 @@
 }
 
 1002 = {
-	name = "stephanos"
+	name = "Stephanos"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -14593,7 +14578,7 @@
 }
 
 1003 = {
-	name = "kyros"
+	name = "Kyros"
 	culture = english
 	religion = cathar
 	226.1.1 = {
@@ -14606,7 +14591,7 @@
 }
 
 1004 = {
-	name = "harold"
+	name = "Harold"
 	culture = english
 	religion = cathar
 	249.1.1 = {
@@ -14619,7 +14604,7 @@
 }
 
 1005 = {
-	name = "victor"
+	name = "Victor"
 	culture = english
 	religion = cathar
 	233.1.1 = {
@@ -14632,7 +14617,7 @@
 }
 
 1006 = {
-	name = "leonard"
+	name = "Leonard"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -14645,7 +14630,7 @@
 }
 
 1007 = {
-	name = "stefan"
+	name = "Stefan"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -14658,7 +14643,7 @@
 }
 
 1008 = {
-	name = "mamadou"
+	name = "Mamadou"
 	culture = english
 	religion = cathar
 	222.1.1 = {
@@ -14671,7 +14656,7 @@
 }
 
 1009 = {
-	name = "issa"
+	name = "Issa"
 	culture = english
 	religion = cathar
 	251.1.1 = {
@@ -14684,7 +14669,7 @@
 }
 
 1010 = {
-	name = "brottin"
+	name = "Brottin"
 	culture = english
 	religion = cathar
 	229.1.1 = {
@@ -14697,7 +14682,7 @@
 }
 
 1011 = {
-	name = "simon"
+	name = "Simon"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -14710,7 +14695,7 @@
 }
 
 1012 = {
-	name = "mareda"
+	name = "Mareda"
 	culture = english
 	religion = cathar
 	235.1.1 = {
@@ -14723,7 +14708,7 @@
 }
 
 1013 = {
-	name = "youssef"
+	name = "Youssef"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -14736,7 +14721,7 @@
 }
 
 1014 = {
-	name = "hassan"
+	name = "Hassan"
 	culture = english
 	religion = cathar
 	241.1.1 = {
@@ -14749,7 +14734,7 @@
 }
 
 1015 = {
-	name = "elias"
+	name = "Elias"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -14762,7 +14747,7 @@
 }
 
 1016 = {
-	name = "thomas"
+	name = "Thomas"
 	culture = english
 	religion = cathar
 	252.1.1 = {
@@ -14775,7 +14760,7 @@
 }
 
 1017 = {
-	name = "sylvaren"
+	name = "Sylvaren"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -14788,7 +14773,7 @@
 }
 
 1018 = {
-	name = "jan"
+	name = "Jan"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -14801,7 +14786,7 @@
 }
 
 1019 = {
-	name = "anna"
+	name = "Anna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -14815,7 +14800,7 @@
 }
 
 1020 = {
-	name = "pieter"
+	name = "Pieter"
 	culture = english
 	religion = cathar
 	264.1.1 = {
@@ -14828,7 +14813,7 @@
 }
 
 1021 = {
-	name = "hendrik"
+	name = "Hendrik"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -14841,7 +14826,7 @@
 }
 
 1022 = {
-	name = "katrijn"
+	name = "Katrijn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -14855,7 +14840,7 @@
 }
 
 1023 = {
-	name = "erik"
+	name = "Erik"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -14868,7 +14853,7 @@
 }
 
 1024 = {
-	name = "leif"
+	name = "Leif"
 	culture = english
 	religion = cathar
 	272.1.1 = {
@@ -14881,7 +14866,7 @@
 }
 
 1025 = {
-	name = "harald"
+	name = "Harald"
 	culture = english
 	religion = cathar
 	274.1.1 = {
@@ -14894,7 +14879,7 @@
 }
 
 1026 = {
-	name = "ingrid"
+	name = "Ingrid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -14908,7 +14893,7 @@
 }
 
 1027 = {
-	name = "sigrid"
+	name = "Sigrid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -14919,4 +14904,19 @@
 		death = 378.1.1
 	}
 	dynasty = 313
+}
+
+1028 = {
+	name = "Jovanka"
+	culture = english
+	religion = cathar
+	female = yes
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 59
+	father = 372.0
 }
