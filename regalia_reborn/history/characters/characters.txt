@@ -1,5 +1,5 @@
 1 = {
-	name = alexander
+	name = "alexander"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -14,7 +14,7 @@
 }
 
 2 = {
-	name = svanhild
+	name = "svanhild"
 	culture = english
 	religion = cathar
 	female = yes
@@ -28,7 +28,7 @@
 }
 
 3 = {
-	name = adalradr
+	name = "adalradr"
 	culture = english
 	religion = cathar
 	196.1.1 = {
@@ -41,7 +41,7 @@
 }
 
 4 = {
-	name = leona
+	name = "leona"
 	culture = english
 	religion = cathar
 	female = yes
@@ -57,7 +57,7 @@
 }
 
 5 = {
-	name = inga
+	name = "inga"
 	culture = english
 	religion = cathar
 	female = yes
@@ -71,7 +71,7 @@
 }
 
 6 = {
-	name = aron
+	name = "aron"
 	culture = english
 	religion = cathar
 	264.1.1 = {
@@ -86,7 +86,7 @@
 }
 
 7 = {
-	name = enok
+	name = "enok"
 	culture = english
 	religion = cathar
 	262.1.1 = {
@@ -101,7 +101,7 @@
 }
 
 8 = {
-	name = arnbjorg
+	name = "arnbjorg"
 	culture = english
 	religion = cathar
 	female = yes
@@ -117,7 +117,7 @@
 }
 
 9 = {
-	name = ani
+	name = "ani"
 	culture = english
 	religion = cathar
 	female = yes
@@ -133,7 +133,7 @@
 }
 
 10 = {
-	name = katrin
+	name = "katrin"
 	culture = english
 	religion = cathar
 	female = yes
@@ -149,7 +149,7 @@
 }
 
 11 = {
-	name = vulmar
+	name = "vulmar"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -164,7 +164,7 @@
 }
 
 12 = {
-	name = medard
+	name = "medard"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -179,7 +179,7 @@
 }
 
 13 = {
-	name = konstanze
+	name = "konstanze"
 	culture = english
 	religion = cathar
 	female = yes
@@ -194,7 +194,7 @@
 }
 
 14 = {
-	name = rolf
+	name = "rolf"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -207,7 +207,7 @@
 }
 
 15 = {
-	name = rued
+	name = "rued"
 	culture = english
 	religion = cathar
 	209.1.1 = {
@@ -220,7 +220,7 @@
 }
 
 16 = {
-	name = erwald
+	name = "erwald"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -235,7 +235,7 @@
 }
 
 17 = {
-	name = vicelin
+	name = "vicelin"
 	culture = english
 	religion = cathar
 	290.1.1 = {
@@ -249,7 +249,7 @@
 }
 
 18 = {
-	name = fury
+	name = "fury"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -262,7 +262,7 @@
 }
 
 19 = {
-	name = riccard
+	name = "riccard"
 	culture = english
 	religion = cathar
 	261.1.1 = {
@@ -276,7 +276,7 @@
 }
 
 20 = {
-	name = alette
+	name = "alette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -291,7 +291,7 @@
 }
 
 21 = {
-	name = viktor
+	name = "viktor"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -306,7 +306,7 @@
 }
 
 22 = {
-	name = charlotte
+	name = "charlotte"
 	culture = english
 	religion = cathar
 	female = yes
@@ -320,7 +320,7 @@
 }
 
 23 = {
-	name = anton
+	name = "anton"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -335,7 +335,7 @@
 }
 
 24 = {
-	name = sybille
+	name = "sybille"
 	culture = english
 	religion = cathar
 	female = yes
@@ -350,7 +350,7 @@
 }
 
 25 = {
-	name = karel
+	name = "karel"
 	culture = english
 	religion = cathar
 	239.1.1 = {
@@ -364,7 +364,7 @@
 }
 
 26 = {
-	name = riccard
+	name = "riccard"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -379,7 +379,7 @@
 }
 
 27 = {
-	name = auddriana
+	name = "auddriana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -393,7 +393,7 @@
 }
 
 28 = {
-	name = helena
+	name = "helena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -409,7 +409,7 @@
 }
 
 29 = {
-	name = parzival
+	name = "parzival"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -424,7 +424,7 @@
 }
 
 30 = {
-	name = xavier
+	name = "xavier"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -439,7 +439,7 @@
 }
 
 31 = {
-	name = adelaide
+	name = "adelaide"
 	culture = english
 	religion = cathar
 	female = yes
@@ -453,7 +453,7 @@
 }
 
 32 = {
-	name = cecile
+	name = "cecile"
 	culture = english
 	religion = cathar
 	female = yes
@@ -469,7 +469,7 @@
 }
 
 33 = {
-	name = jean-luc
+	name = "jean-luc"
 	culture = english
 	religion = cathar
 	297.1.1 = {
@@ -484,7 +484,7 @@
 }
 
 34 = {
-	name = eleonore
+	name = "eleonore"
 	culture = english
 	religion = cathar
 	female = yes
@@ -500,7 +500,7 @@
 }
 
 35 = {
-	name = riccard
+	name = "riccard"
 	culture = english
 	religion = cathar
 	286.1.1 = {
@@ -515,7 +515,7 @@
 }
 
 36 = {
-	name = regine
+	name = "regine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -529,7 +529,7 @@
 }
 
 37 = {
-	name = aldrich
+	name = "aldrich"
 	culture = english
 	religion = cathar
 	132.1.1 = {
@@ -542,7 +542,7 @@
 }
 
 38 = {
-	name = niven
+	name = "niven"
 	culture = english
 	religion = cathar
 	162.1.1 = {
@@ -556,7 +556,7 @@
 }
 
 39 = {
-	name = helene marie
+	name = "helene marie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -571,7 +571,7 @@
 }
 
 40 = {
-	name = gerhard iii
+	name = "gerhard iii"
 	culture = english
 	religion = cathar
 	185.1.1 = {
@@ -586,7 +586,7 @@
 }
 
 41 = {
-	name = ottokar
+	name = "ottokar"
 	culture = english
 	religion = cathar
 	191.1.1 = {
@@ -601,7 +601,7 @@
 }
 
 42 = {
-	name = laurenz
+	name = "laurenz"
 	culture = english
 	religion = cathar
 	224.1.1 = {
@@ -615,7 +615,7 @@
 }
 
 43 = {
-	name = hadrian
+	name = "hadrian"
 	culture = english
 	religion = cathar
 	206.1.1 = {
@@ -629,7 +629,7 @@
 }
 
 44 = {
-	name = theodon
+	name = "theodon"
 	culture = english
 	religion = cathar
 	243.1.1 = {
@@ -643,7 +643,7 @@
 }
 
 45 = {
-	name = albrecht
+	name = "albrecht"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -657,7 +657,7 @@
 }
 
 46 = {
-	name = rudolph
+	name = "rudolph"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -671,7 +671,7 @@
 }
 
 47 = {
-	name = maximillian
+	name = "maximillian"
 	culture = english
 	religion = cathar
 	261.1.1 = {
@@ -685,7 +685,7 @@
 }
 
 48 = {
-	name = ulrich
+	name = "ulrich"
 	culture = english
 	religion = cathar
 	251.1.1 = {
@@ -700,7 +700,7 @@
 }
 
 49 = {
-	name = klaus
+	name = "klaus"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -715,7 +715,7 @@
 }
 
 50 = {
-	name = reynold
+	name = "reynold"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -730,7 +730,7 @@
 }
 
 51 = {
-	name = lydia
+	name = "lydia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -746,7 +746,7 @@
 }
 
 52 = {
-	name = thoron
+	name = "thoron"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -761,7 +761,7 @@
 }
 
 53 = {
-	name = reinhardt
+	name = "reinhardt"
 	culture = english
 	religion = cathar
 	278.1.1 = {
@@ -775,7 +775,7 @@
 }
 
 54 = {
-	name = cecillie
+	name = "cecillie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -790,7 +790,7 @@
 }
 
 55 = {
-	name = roland
+	name = "roland"
 	culture = english
 	religion = cathar
 	296.1.1 = {
@@ -804,7 +804,7 @@
 }
 
 56 = {
-	name = aolderich
+	name = "aolderich"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -818,7 +818,7 @@
 }
 
 57 = {
-	name = elrik
+	name = "elrik"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -832,7 +832,7 @@
 }
 
 58 = {
-	name = jaekor
+	name = "jaekor"
 	culture = english
 	religion = cathar
 	274.1.1 = {
@@ -846,7 +846,7 @@
 }
 
 59 = {
-	name = riane
+	name = "riane"
 	culture = english
 	religion = cathar
 	female = yes
@@ -861,7 +861,7 @@
 }
 
 60 = {
-	name = reimar
+	name = "reimar"
 	culture = english
 	religion = cathar
 	295.1.1 = {
@@ -875,7 +875,7 @@
 }
 
 61 = {
-	name = josephine
+	name = "josephine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -891,7 +891,7 @@
 }
 
 62 = {
-	name = rianne
+	name = "rianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -906,7 +906,7 @@
 }
 
 63 = {
-	name = caldomir
+	name = "caldomir"
 	culture = english
 	religion = cathar
 	6.1.1 = {
@@ -919,7 +919,7 @@
 }
 
 64 = {
-	name = aldomir
+	name = "aldomir"
 	culture = english
 	religion = cathar
 	22.1.1 = {
@@ -933,7 +933,7 @@
 }
 
 65 = {
-	name = eotranna
+	name = "eotranna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -948,7 +948,7 @@
 }
 
 66 = {
-	name = tedromar
+	name = "tedromar"
 	culture = english
 	religion = cathar
 	24.1.1 = {
@@ -962,7 +962,7 @@
 }
 
 67 = {
-	name = dwalmar
+	name = "dwalmar"
 	culture = english
 	religion = cathar
 	26.1.1 = {
@@ -976,7 +976,7 @@
 }
 
 68 = {
-	name = arnold
+	name = "arnold"
 	culture = english
 	religion = cathar
 	28.1.1 = {
@@ -990,7 +990,7 @@
 }
 
 70 = {
-	name = kattemeis
+	name = "kattemeis"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1004,7 +1004,7 @@
 }
 
 69 = {
-	name = betheoric
+	name = "betheoric"
 	culture = english
 	religion = cathar
 	38.1.1 = {
@@ -1019,7 +1019,7 @@
 }
 
 71 = {
-	name = betheoric
+	name = "betheoric"
 	culture = english
 	religion = cathar
 	54.1.1 = {
@@ -1034,7 +1034,7 @@
 }
 
 72 = {
-	name = maenarra
+	name = "maenarra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1048,7 +1048,7 @@
 }
 
 73 = {
-	name = ellenore
+	name = "ellenore"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1064,7 +1064,7 @@
 }
 
 74 = {
-	name = tarnan
+	name = "tarnan"
 	culture = english
 	religion = cathar
 	93.1.1 = {
@@ -1078,7 +1078,7 @@
 }
 
 75 = {
-	name = sarvan
+	name = "sarvan"
 	culture = english
 	religion = cathar
 	94.1.1 = {
@@ -1092,7 +1092,7 @@
 }
 
 76 = {
-	name = beatrix
+	name = "beatrix"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1108,7 +1108,7 @@
 }
 
 77 = {
-	name = arnold
+	name = "arnold"
 	culture = english
 	religion = cathar
 	79.1.1 = {
@@ -1121,7 +1121,7 @@
 }
 
 78 = {
-	name = nikolaas (nicholas)
+	name = "nikolaas (nicholas)"
 	culture = english
 	religion = cathar
 	103.1.1 = {
@@ -1136,7 +1136,7 @@
 }
 
 79 = {
-	name = kassandra
+	name = "kassandra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1152,7 +1152,7 @@
 }
 
 80 = {
-	name = melissa
+	name = "melissa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1168,7 +1168,7 @@
 }
 
 81 = {
-	name = elenoor
+	name = "elenoor"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1184,7 +1184,7 @@
 }
 
 82 = {
-	name = fienne
+	name = "fienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1200,7 +1200,7 @@
 }
 
 83 = {
-	name = trixa
+	name = "trixa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1216,7 +1216,7 @@
 }
 
 84 = {
-	name = celemora
+	name = "celemora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1232,7 +1232,7 @@
 }
 
 85 = {
-	name = arnold
+	name = "arnold"
 	culture = english
 	religion = cathar
 	150.1.1 = {
@@ -1246,7 +1246,7 @@
 }
 
 86 = {
-	name = ingrid
+	name = "ingrid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1260,7 +1260,7 @@
 }
 
 87 = {
-	name = erik
+	name = "erik"
 	culture = english
 	religion = cathar
 	153.1.1 = {
@@ -1274,7 +1274,7 @@
 }
 
 88 = {
-	name = karel
+	name = "karel"
 	culture = english
 	religion = cathar
 	155.1.1 = {
@@ -1288,7 +1288,7 @@
 }
 
 89 = {
-	name = theomar
+	name = "theomar"
 	culture = english
 	religion = cathar
 	159.1.1 = {
@@ -1302,7 +1302,7 @@
 }
 
 90 = {
-	name = loesinne
+	name = "loesinne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1317,7 +1317,7 @@
 }
 
 91 = {
-	name = leona
+	name = "leona"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1333,7 +1333,7 @@
 }
 
 92 = {
-	name = alexander
+	name = "alexander"
 	culture = english
 	religion = cathar
 	172.1.1 = {
@@ -1348,7 +1348,7 @@
 }
 
 93 = {
-	name = kedmir
+	name = "kedmir"
 	culture = english
 	religion = cathar
 	173.1.1 = {
@@ -1363,7 +1363,7 @@
 }
 
 94 = {
-	name = suzanne
+	name = "suzanne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1377,7 +1377,7 @@
 }
 
 95 = {
-	name = dalmer
+	name = "dalmer"
 	culture = english
 	religion = cathar
 	190.1.1 = {
@@ -1392,7 +1392,7 @@
 }
 
 96 = {
-	name = morgenkroon
+	name = "morgenkroon"
 	culture = english
 	religion = cathar
 	201.1.1 = {
@@ -1407,7 +1407,7 @@
 }
 
 97 = {
-	name = normen
+	name = "normen"
 	culture = english
 	religion = cathar
 	218.1.1 = {
@@ -1421,7 +1421,7 @@
 }
 
 98 = {
-	name = morgannan
+	name = "morgannan"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1435,7 +1435,7 @@
 }
 
 99 = {
-	name = jacilla
+	name = "jacilla"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1450,7 +1450,7 @@
 }
 
 100 = {
-	name = moorak
+	name = "moorak"
 	culture = english
 	religion = cathar
 	205.1.1 = {
@@ -1463,7 +1463,7 @@
 }
 
 101 = {
-	name = bellatrix
+	name = "bellatrix"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1477,7 +1477,7 @@
 }
 
 102 = {
-	name = aliandre
+	name = "aliandre"
 	culture = english
 	religion = cathar
 	219.1.1 = {
@@ -1491,7 +1491,7 @@
 }
 
 103 = {
-	name = terijin
+	name = "terijin"
 	culture = english
 	religion = cathar
 	223.1.1 = {
@@ -1505,7 +1505,7 @@
 }
 
 104 = {
-	name = willem
+	name = "willem"
 	culture = english
 	religion = cathar
 	225.1.1 = {
@@ -1519,7 +1519,7 @@
 }
 
 105 = {
-	name = walmar
+	name = "walmar"
 	culture = english
 	religion = cathar
 	233.1.1 = {
@@ -1533,7 +1533,7 @@
 }
 
 106 = {
-	name = moriart
+	name = "moriart"
 	culture = english
 	religion = cathar
 	234.1.1 = {
@@ -1548,7 +1548,7 @@
 }
 
 107 = {
-	name = allianne
+	name = "allianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1564,7 +1564,7 @@
 }
 
 108 = {
-	name = marie
+	name = "marie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1578,7 +1578,7 @@
 }
 
 109 = {
-	name = albert-stijn
+	name = "albert-stijn"
 	culture = english
 	religion = cathar
 	300.1.1 = {
@@ -1593,7 +1593,7 @@
 }
 
 110 = {
-	name = francis
+	name = "francis"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -1608,7 +1608,7 @@
 }
 
 111 = {
-	name = maximillian
+	name = "maximillian"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -1623,7 +1623,7 @@
 }
 
 112 = {
-	name = elizabet
+	name = "elizabet"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1637,7 +1637,7 @@
 }
 
 113 = {
-	name = willem-friso
+	name = "willem-friso"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -1652,7 +1652,7 @@
 }
 
 114 = {
-	name = konstantijn
+	name = "konstantijn"
 	culture = english
 	religion = cathar
 	274.1.1 = {
@@ -1667,7 +1667,7 @@
 }
 
 115 = {
-	name = justiniaan
+	name = "justiniaan"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -1682,7 +1682,7 @@
 }
 
 116 = {
-	name = sheila-manon
+	name = "sheila-manon"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1698,7 +1698,7 @@
 }
 
 117 = {
-	name = gloriane
+	name = "gloriane"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1714,7 +1714,7 @@
 }
 
 118 = {
-	name = beatrix
+	name = "beatrix"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1730,7 +1730,7 @@
 }
 
 119 = {
-	name = hetrijin
+	name = "hetrijin"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -1743,7 +1743,7 @@
 }
 
 120 = {
-	name = daan
+	name = "daan"
 	culture = english
 	religion = cathar
 	278.1.1 = {
@@ -1758,7 +1758,7 @@
 }
 
 121 = {
-	name = laurent
+	name = "laurent"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -1773,7 +1773,7 @@
 }
 
 122 = {
-	name = edwine
+	name = "edwine"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -1788,7 +1788,7 @@
 }
 
 123 = {
-	name = esme
+	name = "esme"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1804,7 +1804,7 @@
 }
 
 124 = {
-	name = aliandra
+	name = "aliandra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1820,7 +1820,7 @@
 }
 
 125 = {
-	name = anton
+	name = "anton"
 	culture = english
 	religion = cathar
 	243.1.1 = {
@@ -1833,7 +1833,7 @@
 }
 
 126 = {
-	name = remon
+	name = "remon"
 	culture = english
 	religion = cathar
 	261.1.1 = {
@@ -1847,7 +1847,7 @@
 }
 
 127 = {
-	name = desmon
+	name = "desmon"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -1861,7 +1861,7 @@
 }
 
 128 = {
-	name = arianne
+	name = "arianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1876,7 +1876,7 @@
 }
 
 129 = {
-	name = hendrik
+	name = "hendrik"
 	culture = english
 	religion = cathar
 	271.1.1 = {
@@ -1890,7 +1890,7 @@
 }
 
 130 = {
-	name = roena
+	name = "roena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1906,7 +1906,7 @@
 }
 
 131 = {
-	name = jozua
+	name = "jozua"
 	culture = english
 	religion = cathar
 	275.1.1 = {
@@ -1921,7 +1921,7 @@
 }
 
 132 = {
-	name = goderol
+	name = "goderol"
 	culture = english
 	religion = cathar
 	274.1.1 = {
@@ -1936,7 +1936,7 @@
 }
 
 133 = {
-	name = godfried
+	name = "godfried"
 	culture = english
 	religion = cathar
 	276.1.1 = {
@@ -1951,7 +1951,7 @@
 }
 
 134 = {
-	name = antonie
+	name = "antonie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -1967,7 +1967,7 @@
 }
 
 135 = {
-	name = karlo
+	name = "karlo"
 	culture = english
 	religion = cathar
 	281.1.1 = {
@@ -1982,7 +1982,7 @@
 }
 
 136 = {
-	name = willem
+	name = "willem"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -1997,7 +1997,7 @@
 }
 
 137 = {
-	name = eloise
+	name = "eloise"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2013,7 +2013,7 @@
 }
 
 138 = {
-	name = alexander
+	name = "alexander"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -2028,7 +2028,7 @@
 }
 
 139 = {
-	name = tamara
+	name = "tamara"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2042,7 +2042,7 @@
 }
 
 140 = {
-	name = reinoud
+	name = "reinoud"
 	culture = english
 	religion = cathar
 	276.1.1 = {
@@ -2057,7 +2057,7 @@
 }
 
 141 = {
-	name = frederik
+	name = "frederik"
 	culture = english
 	religion = cathar
 	278.1.1 = {
@@ -2072,7 +2072,7 @@
 }
 
 142 = {
-	name = raymond
+	name = "raymond"
 	culture = english
 	religion = cathar
 	280.1.1 = {
@@ -2087,7 +2087,7 @@
 }
 
 143 = {
-	name = robbert
+	name = "robbert"
 	culture = english
 	religion = cathar
 	300.1.1 = {
@@ -2102,7 +2102,7 @@
 }
 
 144 = {
-	name = moriart
+	name = "moriart"
 	culture = english
 	religion = cathar
 	295.1.1 = {
@@ -2117,7 +2117,7 @@
 }
 
 145 = {
-	name = vohemond
+	name = "vohemond"
 	culture = english
 	religion = cathar
 	310.1.1 = {
@@ -2132,7 +2132,7 @@
 }
 
 146 = {
-	name = edouard
+	name = "edouard"
 	culture = english
 	religion = cathar
 	309.1.1 = {
@@ -2147,7 +2147,7 @@
 }
 
 147 = {
-	name = carlos
+	name = "carlos"
 	culture = english
 	religion = cathar
 	308.1.1 = {
@@ -2162,7 +2162,7 @@
 }
 
 148 = {
-	name = yvonne
+	name = "yvonne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2178,7 +2178,7 @@
 }
 
 149 = {
-	name = jezeme
+	name = "jezeme"
 	culture = english
 	religion = cathar
 	305.1.1 = {
@@ -2193,7 +2193,7 @@
 }
 
 150 = {
-	name = juliana
+	name = "juliana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2207,7 +2207,7 @@
 }
 
 151 = {
-	name = tomas
+	name = "tomas"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -2222,7 +2222,7 @@
 }
 
 152 = {
-	name = rosalia
+	name = "rosalia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2236,7 +2236,7 @@
 }
 
 153 = {
-	name = duncan
+	name = "duncan"
 	culture = english
 	religion = cathar
 	276.1.1 = {
@@ -2251,7 +2251,7 @@
 }
 
 154 = {
-	name = valentijn
+	name = "valentijn"
 	culture = english
 	religion = cathar
 	277.1.1 = {
@@ -2266,7 +2266,7 @@
 }
 
 155 = {
-	name = noor
+	name = "noor"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2282,7 +2282,7 @@
 }
 
 156 = {
-	name = juliana
+	name = "juliana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2298,7 +2298,7 @@
 }
 
 157 = {
-	name = jasper
+	name = "jasper"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -2313,7 +2313,7 @@
 }
 
 158 = {
-	name = darryl
+	name = "darryl"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -2328,7 +2328,7 @@
 }
 
 159 = {
-	name = alderik
+	name = "alderik"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -2343,7 +2343,7 @@
 }
 
 160 = {
-	name = dominique
+	name = "dominique"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -2358,7 +2358,7 @@
 }
 
 161 = {
-	name = cedromar
+	name = "cedromar"
 	culture = english
 	religion = cathar
 	267.1.1 = {
@@ -2373,7 +2373,7 @@
 }
 
 162 = {
-	name = amalia
+	name = "amalia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2389,7 +2389,7 @@
 }
 
 163 = {
-	name = taddeus
+	name = "taddeus"
 	culture = english
 	religion = cathar
 	275.1.1 = {
@@ -2404,7 +2404,7 @@
 }
 
 164 = {
-	name = floorance
+	name = "floorance"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2420,7 +2420,7 @@
 }
 
 165 = {
-	name = evelienne
+	name = "evelienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2436,7 +2436,7 @@
 }
 
 166 = {
-	name = xavier
+	name = "xavier"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -2451,7 +2451,7 @@
 }
 
 167 = {
-	name = xander
+	name = "xander"
 	culture = english
 	religion = cathar
 	284.1.1 = {
@@ -2466,7 +2466,7 @@
 }
 
 168 = {
-	name = heloise
+	name = "heloise"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2481,7 +2481,7 @@
 }
 
 169 = {
-	name = michiel
+	name = "michiel"
 	culture = english
 	religion = cathar
 	299.1.1 = {
@@ -2496,7 +2496,7 @@
 }
 
 170 = {
-	name = marjike
+	name = "marjike"
 	culture = english
 	religion = cathar
 	300.1.1 = {
@@ -2511,7 +2511,7 @@
 }
 
 171 = {
-	name = quinn
+	name = "quinn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2525,7 +2525,7 @@
 }
 
 172 = {
-	name = valentijn
+	name = "valentijn"
 	culture = english
 	religion = cathar
 	306.1.1 = {
@@ -2540,7 +2540,7 @@
 }
 
 173 = {
-	name = wouter
+	name = "wouter"
 	culture = english
 	religion = cathar
 	307.1.1 = {
@@ -2555,7 +2555,7 @@
 }
 
 174 = {
-	name = leonie
+	name = "leonie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2571,7 +2571,7 @@
 }
 
 175 = {
-	name = yvonne
+	name = "yvonne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2587,7 +2587,7 @@
 }
 
 176 = {
-	name = therese
+	name = "therese"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2603,7 +2603,7 @@
 }
 
 177 = {
-	name = femke-flien
+	name = "femke-flien"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2619,7 +2619,7 @@
 }
 
 178 = {
-	name = olenya
+	name = "olenya"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2634,7 +2634,7 @@
 }
 
 179 = {
-	name = xay
+	name = "xay"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2650,7 +2650,7 @@
 }
 
 180 = {
-	name = oleia
+	name = "oleia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2666,7 +2666,7 @@
 }
 
 181 = {
-	name = saam
+	name = "saam"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2682,7 +2682,7 @@
 }
 
 182 = {
-	name = willard
+	name = "willard"
 	culture = english
 	religion = cathar
 	228.1.1 = {
@@ -2697,7 +2697,7 @@
 }
 
 183 = {
-	name = guinevere
+	name = "guinevere"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2712,7 +2712,7 @@
 }
 
 184 = {
-	name = osric
+	name = "osric"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -2727,7 +2727,7 @@
 }
 
 185 = {
-	name = jehenna
+	name = "jehenna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2742,7 +2742,7 @@
 }
 
 186 = {
-	name = wilvahelm
+	name = "wilvahelm"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -2757,7 +2757,7 @@
 }
 
 187 = {
-	name = milahme
+	name = "milahme"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2773,7 +2773,7 @@
 }
 
 188 = {
-	name = rodderick
+	name = "rodderick"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -2788,7 +2788,7 @@
 }
 
 189 = {
-	name = aldwynn
+	name = "aldwynn"
 	culture = english
 	religion = cathar
 	281.1.1 = {
@@ -2803,7 +2803,7 @@
 }
 
 190 = {
-	name = genevieve
+	name = "genevieve"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2818,7 +2818,7 @@
 }
 
 191 = {
-	name = celianna
+	name = "celianna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2834,7 +2834,7 @@
 }
 
 192 = {
-	name = tommen
+	name = "tommen"
 	culture = english
 	religion = cathar
 	280.1.1 = {
@@ -2849,7 +2849,7 @@
 }
 
 193 = {
-	name = rosalina
+	name = "rosalina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2865,7 +2865,7 @@
 }
 
 194 = {
-	name = ylva
+	name = "ylva"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2881,7 +2881,7 @@
 }
 
 195 = {
-	name = lillian
+	name = "lillian"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2897,7 +2897,7 @@
 }
 
 196 = {
-	name = alferic
+	name = "alferic"
 	culture = english
 	religion = cathar
 	298.1.1 = {
@@ -2912,7 +2912,7 @@
 }
 
 197 = {
-	name = oswald
+	name = "oswald"
 	culture = english
 	religion = cathar
 	299.1.1 = {
@@ -2927,7 +2927,7 @@
 }
 
 198 = {
-	name = talla
+	name = "talla"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2943,7 +2943,7 @@
 }
 
 199 = {
-	name = coreenne
+	name = "coreenne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2957,7 +2957,7 @@
 }
 
 200 = {
-	name = morden
+	name = "morden"
 	culture = english
 	religion = cathar
 	191.1.1 = {
@@ -2972,7 +2972,7 @@
 }
 
 201 = {
-	name = angelica
+	name = "angelica"
 	culture = english
 	religion = cathar
 	female = yes
@@ -2988,7 +2988,7 @@
 }
 
 202 = {
-	name = mordred
+	name = "mordred"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -3003,7 +3003,7 @@
 }
 
 203 = {
-	name = roselyne
+	name = "roselyne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3019,7 +3019,7 @@
 }
 
 204 = {
-	name = warren
+	name = "warren"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -3034,7 +3034,7 @@
 }
 
 205 = {
-	name = dianne
+	name = "dianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3050,7 +3050,7 @@
 }
 
 206 = {
-	name = christopher
+	name = "christopher"
 	culture = english
 	religion = cathar
 	269.1.1 = {
@@ -3064,7 +3064,7 @@
 }
 
 207 = {
-	name = wulfric
+	name = "wulfric"
 	culture = english
 	religion = cathar
 	306.1.1 = {
@@ -3079,7 +3079,7 @@
 }
 
 208 = {
-	name = minisa
+	name = "minisa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3093,7 +3093,7 @@
 }
 
 209 = {
-	name = ondrew
+	name = "ondrew"
 	culture = english
 	religion = cathar
 	166.1.1 = {
@@ -3108,7 +3108,7 @@
 }
 
 210 = {
-	name = bastien
+	name = "bastien"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -3123,7 +3123,7 @@
 }
 
 211 = {
-	name = erena
+	name = "erena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3138,7 +3138,7 @@
 }
 
 212 = {
-	name = torrhen
+	name = "torrhen"
 	culture = english
 	religion = cathar
 	138.1.1 = {
@@ -3151,7 +3151,7 @@
 }
 
 213 = {
-	name = vagild
+	name = "vagild"
 	culture = english
 	religion = cathar
 	170.1.1 = {
@@ -3166,7 +3166,7 @@
 }
 
 214 = {
-	name = sybelle
+	name = "sybelle"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3180,7 +3180,7 @@
 }
 
 215 = {
-	name = tatfrid
+	name = "tatfrid"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -3195,7 +3195,7 @@
 }
 
 216 = {
-	name = aethelred
+	name = "aethelred"
 	culture = english
 	religion = cathar
 	237.1.1 = {
@@ -3210,7 +3210,7 @@
 }
 
 217 = {
-	name = rothgair
+	name = "rothgair"
 	culture = english
 	religion = cathar
 	235.1.1 = {
@@ -3225,7 +3225,7 @@
 }
 
 218 = {
-	name = randulf
+	name = "randulf"
 	culture = english
 	religion = cathar
 	251.1.1 = {
@@ -3239,7 +3239,7 @@
 }
 
 219 = {
-	name = brydon
+	name = "brydon"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -3253,7 +3253,7 @@
 }
 
 220 = {
-	name = violetta
+	name = "violetta"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3268,7 +3268,7 @@
 }
 
 221 = {
-	name = mellisandre
+	name = "mellisandre"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3284,7 +3284,7 @@
 }
 
 222 = {
-	name = devona
+	name = "devona"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3299,7 +3299,7 @@
 }
 
 223 = {
-	name = edmure
+	name = "edmure"
 	culture = english
 	religion = cathar
 	261.1.1 = {
@@ -3313,7 +3313,7 @@
 }
 
 224 = {
-	name = gunthard
+	name = "gunthard"
 	culture = english
 	religion = cathar
 	211.1.1 = {
@@ -3327,7 +3327,7 @@
 }
 
 225 = {
-	name = reinhardt
+	name = "reinhardt"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -3341,7 +3341,7 @@
 }
 
 226 = {
-	name = brunhilda
+	name = "brunhilda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3355,7 +3355,7 @@
 }
 
 227 = {
-	name = dietrich
+	name = "dietrich"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -3370,7 +3370,7 @@
 }
 
 228 = {
-	name = harald
+	name = "harald"
 	culture = english
 	religion = cathar
 	255.1.1 = {
@@ -3385,7 +3385,7 @@
 }
 
 229 = {
-	name = ludwig
+	name = "ludwig"
 	culture = english
 	religion = cathar
 	281.1.1 = {
@@ -3400,7 +3400,7 @@
 }
 
 230 = {
-	name = matilda
+	name = "matilda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3416,7 +3416,7 @@
 }
 
 231 = {
-	name = kristoph
+	name = "kristoph"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -3431,7 +3431,7 @@
 }
 
 232 = {
-	name = adela
+	name = "adela"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3447,7 +3447,7 @@
 }
 
 233 = {
-	name = franzl
+	name = "franzl"
 	culture = english
 	religion = cathar
 	291.1.1 = {
@@ -3462,7 +3462,7 @@
 }
 
 234 = {
-	name = eldrich
+	name = "eldrich"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -3477,7 +3477,7 @@
 }
 
 235 = {
-	name = marie-anne
+	name = "marie-anne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3493,7 +3493,7 @@
 }
 
 236 = {
-	name = wufrich
+	name = "wufrich"
 	culture = english
 	religion = cathar
 	309.1.1 = {
@@ -3508,7 +3508,7 @@
 }
 
 237 = {
-	name = johannes
+	name = "johannes"
 	culture = english
 	religion = cathar
 	310.1.1 = {
@@ -3523,7 +3523,7 @@
 }
 
 238 = {
-	name = wulfrich iii
+	name = "wulfrich iii"
 	culture = english
 	religion = cathar
 	181.1.1 = {
@@ -3537,7 +3537,7 @@
 }
 
 239 = {
-	name = wulfrich
+	name = "wulfrich"
 	culture = english
 	religion = cathar
 	133.1.1 = {
@@ -3551,7 +3551,7 @@
 }
 
 240 = {
-	name = wulfrich
+	name = "wulfrich"
 	culture = english
 	religion = cathar
 	114.1.1 = {
@@ -3566,7 +3566,7 @@
 }
 
 241 = {
-	name = hildmar iii
+	name = "hildmar iii"
 	culture = english
 	religion = cathar
 	85.1.1 = {
@@ -3579,7 +3579,7 @@
 }
 
 242 = {
-	name = matilde
+	name = "matilde"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3594,7 +3594,7 @@
 }
 
 243 = {
-	name = reinhart
+	name = "reinhart"
 	culture = english
 	religion = cathar
 	113.1.1 = {
@@ -3609,7 +3609,7 @@
 }
 
 244 = {
-	name = eldrich
+	name = "eldrich"
 	culture = english
 	religion = cathar
 	130.1.1 = {
@@ -3623,7 +3623,7 @@
 }
 
 245 = {
-	name = ludwig
+	name = "ludwig"
 	culture = english
 	religion = cathar
 	1.1.1 = {
@@ -3636,7 +3636,7 @@
 }
 
 246 = {
-	name = hildrebrand
+	name = "hildrebrand"
 	culture = english
 	religion = cathar
 	34.1.1 = {
@@ -3650,7 +3650,7 @@
 }
 
 247 = {
-	name = eberhard
+	name = "eberhard"
 	culture = english
 	religion = cathar
 	55.1.1 = {
@@ -3664,7 +3664,7 @@
 }
 
 248 = {
-	name = eberhard
+	name = "eberhard"
 	culture = english
 	religion = cathar
 	78.1.1 = {
@@ -3678,7 +3678,7 @@
 }
 
 249 = {
-	name = marie-anne
+	name = "marie-anne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3693,7 +3693,7 @@
 }
 
 250 = {
-	name = heinrich
+	name = "heinrich"
 	culture = english
 	religion = cathar
 	115.1.1 = {
@@ -3707,7 +3707,7 @@
 }
 
 251 = {
-	name = heinrich
+	name = "heinrich"
 	culture = english
 	religion = cathar
 	148.1.1 = {
@@ -3721,7 +3721,7 @@
 }
 
 252 = {
-	name = marie-anne
+	name = "marie-anne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3736,7 +3736,7 @@
 }
 
 253 = {
-	name = elia
+	name = "elia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3751,7 +3751,7 @@
 }
 
 254 = {
-	name = nikolaus
+	name = "nikolaus"
 	culture = english
 	religion = cathar
 	85.1.1 = {
@@ -3765,7 +3765,7 @@
 }
 
 255 = {
-	name = nikolaus
+	name = "nikolaus"
 	culture = english
 	religion = cathar
 	124.1.1 = {
@@ -3779,7 +3779,7 @@
 }
 
 256 = {
-	name = anais
+	name = "anais"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3793,7 +3793,7 @@
 }
 
 257 = {
-	name = katriane
+	name = "katriane"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3808,7 +3808,7 @@
 }
 
 258 = {
-	name = emmeline
+	name = "emmeline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3823,7 +3823,7 @@
 }
 
 259 = {
-	name = louis
+	name = "louis"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -3837,7 +3837,7 @@
 }
 
 260 = {
-	name = marceau
+	name = "marceau"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -3851,7 +3851,7 @@
 }
 
 261 = {
-	name = ottilie
+	name = "ottilie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3866,7 +3866,7 @@
 }
 
 262 = {
-	name = adeline
+	name = "adeline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3881,7 +3881,7 @@
 }
 
 263 = {
-	name = renee
+	name = "renee"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3896,7 +3896,7 @@
 }
 
 264 = {
-	name = nicolette
+	name = "nicolette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3911,7 +3911,7 @@
 }
 
 265 = {
-	name = guiscard
+	name = "guiscard"
 	culture = english
 	religion = cathar
 	275.1.1 = {
@@ -3925,7 +3925,7 @@
 }
 
 266 = {
-	name = brawen
+	name = "brawen"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3939,7 +3939,7 @@
 }
 
 267 = {
-	name = maeve
+	name = "maeve"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3954,7 +3954,7 @@
 }
 
 268 = {
-	name = nessaria
+	name = "nessaria"
 	culture = english
 	religion = cathar
 	female = yes
@@ -3969,7 +3969,7 @@
 }
 
 269 = {
-	name = theomar
+	name = "theomar"
 	culture = english
 	religion = cathar
 	1.1.1 = {
@@ -3982,7 +3982,7 @@
 }
 
 270 = {
-	name = lilienmar
+	name = "lilienmar"
 	culture = english
 	religion = cathar
 	17.1.1 = {
@@ -3996,7 +3996,7 @@
 }
 
 271 = {
-	name = lilienmar
+	name = "lilienmar"
 	culture = english
 	religion = cathar
 	38.1.1 = {
@@ -4010,7 +4010,7 @@
 }
 
 272 = {
-	name = rihonlar
+	name = "rihonlar"
 	culture = english
 	religion = cathar
 	42.1.1 = {
@@ -4024,7 +4024,7 @@
 }
 
 273 = {
-	name = henri
+	name = "henri"
 	culture = english
 	religion = cathar
 	58.1.1 = {
@@ -4038,7 +4038,7 @@
 }
 
 274 = {
-	name = leomar
+	name = "leomar"
 	culture = english
 	religion = cathar
 	74.1.1 = {
@@ -4053,7 +4053,7 @@
 }
 
 275 = {
-	name = maxelle
+	name = "maxelle"
 	culture = english
 	religion = cathar
 	77.1.1 = {
@@ -4068,7 +4068,7 @@
 }
 
 276 = {
-	name = carvallais
+	name = "carvallais"
 	culture = english
 	religion = cathar
 	79.1.1 = {
@@ -4083,7 +4083,7 @@
 }
 
 277 = {
-	name = bartolomeux
+	name = "bartolomeux"
 	culture = english
 	religion = cathar
 	81.1.1 = {
@@ -4098,7 +4098,7 @@
 }
 
 278 = {
-	name = henri
+	name = "henri"
 	culture = english
 	religion = cathar
 	93.1.1 = {
@@ -4112,7 +4112,7 @@
 }
 
 279 = {
-	name = justeux
+	name = "justeux"
 	culture = english
 	religion = cathar
 	96.1.1 = {
@@ -4126,7 +4126,7 @@
 }
 
 280 = {
-	name = heinrich iii
+	name = "heinrich iii"
 	culture = english
 	religion = cathar
 	111.1.1 = {
@@ -4140,7 +4140,7 @@
 }
 
 281 = {
-	name = allamar
+	name = "allamar"
 	culture = english
 	religion = cathar
 	130.1.1 = {
@@ -4154,7 +4154,7 @@
 }
 
 282 = {
-	name = handorien
+	name = "handorien"
 	culture = english
 	religion = cathar
 	152.1.1 = {
@@ -4168,7 +4168,7 @@
 }
 
 283 = {
-	name = lilienmar iii
+	name = "lilienmar iii"
 	culture = english
 	religion = cathar
 	135.1.1 = {
@@ -4182,7 +4182,7 @@
 }
 
 284 = {
-	name = yvonne
+	name = "yvonne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4197,7 +4197,7 @@
 }
 
 285 = {
-	name = nouin
+	name = "nouin"
 	culture = english
 	religion = cathar
 	167.1.1 = {
@@ -4210,7 +4210,7 @@
 }
 
 286 = {
-	name = pepin
+	name = "pepin"
 	culture = english
 	religion = cathar
 	185.1.1 = {
@@ -4224,7 +4224,7 @@
 }
 
 287 = {
-	name = handorien iii
+	name = "handorien iii"
 	culture = english
 	religion = cathar
 	131.1.1 = {
@@ -4237,7 +4237,7 @@
 }
 
 288 = {
-	name = handorien iv
+	name = "handorien iv"
 	culture = english
 	religion = cathar
 	148.1.1 = {
@@ -4251,7 +4251,7 @@
 }
 
 289 = {
-	name = allestrain iii
+	name = "allestrain iii"
 	culture = english
 	religion = cathar
 	168.1.1 = {
@@ -4265,7 +4265,7 @@
 }
 
 290 = {
-	name = vilgermar
+	name = "vilgermar"
 	culture = english
 	religion = cathar
 	192.1.1 = {
@@ -4279,7 +4279,7 @@
 }
 
 291 = {
-	name = ottomar
+	name = "ottomar"
 	culture = english
 	religion = cathar
 	211.1.1 = {
@@ -4293,7 +4293,7 @@
 }
 
 292 = {
-	name = balthezar
+	name = "balthezar"
 	culture = english
 	religion = cathar
 	205.1.1 = {
@@ -4307,7 +4307,7 @@
 }
 
 293 = {
-	name = handorien v
+	name = "handorien v"
 	culture = english
 	religion = cathar
 	222.1.1 = {
@@ -4321,7 +4321,7 @@
 }
 
 294 = {
-	name = emerite
+	name = "emerite"
 	culture = english
 	religion = cathar
 	184.1.1 = {
@@ -4335,7 +4335,7 @@
 }
 
 295 = {
-	name = rollo
+	name = "rollo"
 	culture = english
 	religion = cathar
 	200.1.1 = {
@@ -4349,7 +4349,7 @@
 }
 
 296 = {
-	name = allestrain
+	name = "allestrain"
 	culture = english
 	religion = cathar
 	226.1.1 = {
@@ -4363,7 +4363,7 @@
 }
 
 297 = {
-	name = lisette-ponne
+	name = "lisette-ponne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4378,7 +4378,7 @@
 }
 
 298 = {
-	name = handorien
+	name = "handorien"
 	culture = english
 	religion = cathar
 	146.1.1 = {
@@ -4392,7 +4392,7 @@
 }
 
 299 = {
-	name = allestrain
+	name = "allestrain"
 	culture = english
 	religion = cathar
 	166.1.1 = {
@@ -4406,7 +4406,7 @@
 }
 
 300 = {
-	name = filipe
+	name = "filipe"
 	culture = english
 	religion = cathar
 	146.1.1 = {
@@ -4419,7 +4419,7 @@
 }
 
 301 = {
-	name = handorien
+	name = "handorien"
 	culture = english
 	religion = cathar
 	175.1.1 = {
@@ -4433,7 +4433,7 @@
 }
 
 302 = {
-	name = justinian
+	name = "justinian"
 	culture = english
 	religion = cathar
 	200.1.1 = {
@@ -4447,7 +4447,7 @@
 }
 
 303 = {
-	name = justinian
+	name = "justinian"
 	culture = english
 	religion = cathar
 	210.1.1 = {
@@ -4461,7 +4461,7 @@
 }
 
 304 = {
-	name = auguste
+	name = "auguste"
 	culture = english
 	religion = cathar
 	245.1.1 = {
@@ -4475,7 +4475,7 @@
 }
 
 305 = {
-	name = juvinois
+	name = "juvinois"
 	culture = english
 	religion = cathar
 	247.1.1 = {
@@ -4489,7 +4489,7 @@
 }
 
 306 = {
-	name = therinois
+	name = "therinois"
 	culture = english
 	religion = cathar
 	251.1.1 = {
@@ -4503,7 +4503,7 @@
 }
 
 307 = {
-	name = laraiselle-clarisse
+	name = "laraiselle-clarisse"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4517,7 +4517,7 @@
 }
 
 308 = {
-	name = charlerois
+	name = "charlerois"
 	culture = english
 	religion = cathar
 	212.1.1 = {
@@ -4531,7 +4531,7 @@
 }
 
 309 = {
-	name = callaire
+	name = "callaire"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4546,7 +4546,7 @@
 }
 
 310 = {
-	name = harlon
+	name = "harlon"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -4559,7 +4559,7 @@
 }
 
 311 = {
-	name = adelheid ivrae de sange
+	name = "adelheid ivrae de sange"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4575,7 +4575,7 @@
 }
 
 312 = {
-	name = attenaise
+	name = "attenaise"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4591,7 +4591,7 @@
 }
 
 313 = {
-	name = frederique
+	name = "frederique"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4607,7 +4607,7 @@
 }
 
 314 = {
-	name = antoine
+	name = "antoine"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -4622,7 +4622,7 @@
 }
 
 315 = {
-	name = soledad
+	name = "soledad"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4638,7 +4638,7 @@
 }
 
 316 = {
-	name = valerie
+	name = "valerie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4654,7 +4654,7 @@
 }
 
 317 = {
-	name = travis
+	name = "travis"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -4668,7 +4668,7 @@
 }
 
 318 = {
-	name = alistair
+	name = "alistair"
 	culture = english
 	religion = cathar
 	186.1.1 = {
@@ -4681,7 +4681,7 @@
 }
 
 319 = {
-	name = gwendolyn
+	name = "gwendolyn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4697,7 +4697,7 @@
 }
 
 320 = {
-	name = arthur
+	name = "arthur"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -4712,7 +4712,7 @@
 }
 
 321 = {
-	name = william
+	name = "william"
 	culture = english
 	religion = cathar
 	296.1.1 = {
@@ -4727,7 +4727,7 @@
 }
 
 322 = {
-	name = angelina
+	name = "angelina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4743,7 +4743,7 @@
 }
 
 323 = {
-	name = rioen
+	name = "rioen"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -4758,7 +4758,7 @@
 }
 
 324 = {
-	name = lucia
+	name = "lucia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4772,7 +4772,7 @@
 }
 
 325 = {
-	name = francine emilie
+	name = "francine emilie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4786,7 +4786,7 @@
 }
 
 326 = {
-	name = geoffroy lambert
+	name = "geoffroy lambert"
 	culture = english
 	religion = cathar
 	215.1.1 = {
@@ -4800,7 +4800,7 @@
 }
 
 327 = {
-	name = mariliene roselle
+	name = "mariliene roselle"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4815,7 +4815,7 @@
 }
 
 328 = {
-	name = madeleine fabienne
+	name = "madeleine fabienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4831,7 +4831,7 @@
 }
 
 329 = {
-	name = michael
+	name = "michael"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -4844,7 +4844,7 @@
 }
 
 330 = {
-	name = daniel
+	name = "daniel"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -4857,7 +4857,7 @@
 }
 
 331 = {
-	name = nicolette laurine
+	name = "nicolette laurine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4872,7 +4872,7 @@
 }
 
 332 = {
-	name = bastian
+	name = "bastian"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -4887,7 +4887,7 @@
 }
 
 333 = {
-	name = mathieu
+	name = "mathieu"
 	culture = english
 	religion = cathar
 	294.1.1 = {
@@ -4902,7 +4902,7 @@
 }
 
 334 = {
-	name = vivienne
+	name = "vivienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4918,7 +4918,7 @@
 }
 
 335 = {
-	name = wilifred jourdain
+	name = "wilifred jourdain"
 	culture = english
 	religion = cathar
 	272.1.1 = {
@@ -4933,7 +4933,7 @@
 }
 
 336 = {
-	name = nicolas francois
+	name = "nicolas francois"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -4948,7 +4948,7 @@
 }
 
 337 = {
-	name = trevor
+	name = "trevor"
 	culture = english
 	religion = cathar
 	276.1.1 = {
@@ -4962,7 +4962,7 @@
 }
 
 338 = {
-	name = eloise valerie
+	name = "eloise valerie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4976,7 +4976,7 @@
 }
 
 339 = {
-	name = lola aimee
+	name = "lola aimee"
 	culture = english
 	religion = cathar
 	female = yes
@@ -4992,7 +4992,7 @@
 }
 
 340 = {
-	name = baptiste florence
+	name = "baptiste florence"
 	culture = english
 	religion = cathar
 	248.1.1 = {
@@ -5006,7 +5006,7 @@
 }
 
 341 = {
-	name = valeriane
+	name = "valeriane"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5020,7 +5020,7 @@
 }
 
 342 = {
-	name = lucas menetries
+	name = "lucas menetries"
 	culture = english
 	religion = cathar
 	278.1.1 = {
@@ -5035,7 +5035,7 @@
 }
 
 343 = {
-	name = jaqueline georgette
+	name = "jaqueline georgette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5051,7 +5051,7 @@
 }
 
 344 = {
-	name = gabriel godefroy
+	name = "gabriel godefroy"
 	culture = english
 	religion = cathar
 	296.1.1 = {
@@ -5066,7 +5066,7 @@
 }
 
 345 = {
-	name = kaya
+	name = "kaya"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5080,7 +5080,7 @@
 }
 
 346 = {
-	name = viggo
+	name = "viggo"
 	culture = english
 	religion = cathar
 	284.1.1 = {
@@ -5094,7 +5094,7 @@
 }
 
 347 = {
-	name = sivrid
+	name = "sivrid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5109,7 +5109,7 @@
 }
 
 348 = {
-	name = sigurd
+	name = "sigurd"
 	culture = english
 	religion = cathar
 	241.1.1 = {
@@ -5122,7 +5122,7 @@
 }
 
 349 = {
-	name = tristan
+	name = "tristan"
 	culture = english
 	religion = cathar
 	272.1.1 = {
@@ -5137,7 +5137,7 @@
 }
 
 350 = {
-	name = audrei
+	name = "audrei"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5151,7 +5151,7 @@
 }
 
 351 = {
-	name = thadeo
+	name = "thadeo"
 	culture = english
 	religion = cathar
 	247.1.1 = {
@@ -5165,7 +5165,7 @@
 }
 
 352 = {
-	name = riccaro
+	name = "riccaro"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -5179,7 +5179,7 @@
 }
 
 353 = {
-	name = orazzio
+	name = "orazzio"
 	culture = english
 	religion = cathar
 	120.1.1 = {
@@ -5192,7 +5192,7 @@
 }
 
 354 = {
-	name = allegra
+	name = "allegra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5207,7 +5207,7 @@
 }
 
 355 = {
-	name = francesco
+	name = "francesco"
 	culture = english
 	religion = cathar
 	170.1.1 = {
@@ -5222,7 +5222,7 @@
 }
 
 356 = {
-	name = giulia
+	name = "giulia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5236,7 +5236,7 @@
 }
 
 357 = {
-	name = leone
+	name = "leone"
 	culture = english
 	religion = cathar
 	205.1.1 = {
@@ -5251,7 +5251,7 @@
 }
 
 358 = {
-	name = beatrice
+	name = "beatrice"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5265,7 +5265,7 @@
 }
 
 359 = {
-	name = ruggiero
+	name = "ruggiero"
 	culture = english
 	religion = cathar
 	226.1.1 = {
@@ -5280,7 +5280,7 @@
 }
 
 360 = {
-	name = georgiana
+	name = "georgiana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5296,7 +5296,7 @@
 }
 
 361 = {
-	name = bernardo
+	name = "bernardo"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -5311,7 +5311,7 @@
 }
 
 362 = {
-	name = piero
+	name = "piero"
 	culture = english
 	religion = cathar
 	248.1.1 = {
@@ -5326,7 +5326,7 @@
 }
 
 363 = {
-	name = bernardo gabriel
+	name = "bernardo gabriel"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -5341,7 +5341,7 @@
 }
 
 364 = {
-	name = vincenza
+	name = "vincenza"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5357,7 +5357,7 @@
 }
 
 365 = {
-	name = simona
+	name = "simona"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5373,7 +5373,7 @@
 }
 
 366 = {
-	name = luigi
+	name = "luigi"
 	culture = english
 	religion = cathar
 	276.1.1 = {
@@ -5388,7 +5388,7 @@
 }
 
 367 = {
-	name = terenzo
+	name = "terenzo"
 	culture = english
 	religion = cathar
 	282.1.1 = {
@@ -5403,7 +5403,7 @@
 }
 
 368 = {
-	name = ana
+	name = "ana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5419,7 +5419,7 @@
 }
 
 369 = {
-	name = isabella
+	name = "isabella"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5435,7 +5435,7 @@
 }
 
 370 = {
-	name = angelo
+	name = "angelo"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -5448,7 +5448,7 @@
 }
 
 371 = {
-	name = fiorino
+	name = "fiorino"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -5463,7 +5463,7 @@
 }
 
 372 = {
-	name = pellegrino
+	name = "pellegrino"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -5477,7 +5477,7 @@
 }
 
 373 = {
-	name = isotta
+	name = "isotta"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5493,7 +5493,7 @@
 }
 
 374 = {
-	name = stella
+	name = "stella"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5508,7 +5508,7 @@
 }
 
 375 = {
-	name = silvestro
+	name = "silvestro"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -5523,7 +5523,7 @@
 }
 
 376 = {
-	name = edoardo
+	name = "edoardo"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -5538,7 +5538,7 @@
 }
 
 377 = {
-	name = alessandro
+	name = "alessandro"
 	culture = english
 	religion = cathar
 	294.1.1 = {
@@ -5553,7 +5553,7 @@
 }
 
 378 = {
-	name = capriana
+	name = "capriana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5569,7 +5569,7 @@
 }
 
 379 = {
-	name = alessa
+	name = "alessa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5583,7 +5583,7 @@
 }
 
 380 = {
-	name = francesco rauol
+	name = "francesco rauol"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -5598,7 +5598,7 @@
 }
 
 382 = {
-	name = lorenzo
+	name = "lorenzo"
 	culture = english
 	religion = cathar
 	232.1.1 = {
@@ -5613,7 +5613,7 @@
 }
 
 383 = {
-	name = caterina
+	name = "caterina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5627,7 +5627,7 @@
 }
 
 384 = {
-	name = camilla
+	name = "camilla"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5642,7 +5642,7 @@
 }
 
 384 = {
-	name = jovanka
+	name = "jovanka"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5657,7 +5657,7 @@
 }
 
 385 = {
-	name = siena
+	name = "siena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5672,7 +5672,7 @@
 }
 
 386 = {
-	name = zappacosta
+	name = "zappacosta"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -5686,7 +5686,7 @@
 }
 
 387 = {
-	name = gabriel
+	name = "gabriel"
 	culture = english
 	religion = cathar
 	205.1.1 = {
@@ -5699,7 +5699,7 @@
 }
 
 388 = {
-	name = isabella
+	name = "isabella"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5713,7 +5713,7 @@
 }
 
 389 = {
-	name = giovanni
+	name = "giovanni"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -5726,7 +5726,7 @@
 }
 
 390 = {
-	name = eadric
+	name = "eadric"
 	culture = english
 	religion = cathar
 	190.1.1 = {
@@ -5739,7 +5739,7 @@
 }
 
 391 = {
-	name = hildwyn
+	name = "hildwyn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5753,7 +5753,7 @@
 }
 
 392 = {
-	name = elric
+	name = "elric"
 	culture = english
 	religion = cathar
 	234.1.1 = {
@@ -5768,7 +5768,7 @@
 }
 
 393 = {
-	name = roswitha
+	name = "roswitha"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5782,7 +5782,7 @@
 }
 
 394 = {
-	name = acwald
+	name = "acwald"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -5797,7 +5797,7 @@
 }
 
 395 = {
-	name = mathilda
+	name = "mathilda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5812,7 +5812,7 @@
 }
 
 396 = {
-	name = aethelric
+	name = "aethelric"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -5827,7 +5827,7 @@
 }
 
 397 = {
-	name = hengest
+	name = "hengest"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -5842,7 +5842,7 @@
 }
 
 398 = {
-	name = egbert
+	name = "egbert"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -5857,7 +5857,7 @@
 }
 
 399 = {
-	name = inga
+	name = "inga"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5873,7 +5873,7 @@
 }
 
 400 = {
-	name = matthjis
+	name = "matthjis"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -5888,7 +5888,7 @@
 }
 
 401 = {
-	name = wulfric
+	name = "wulfric"
 	culture = english
 	religion = cathar
 	269.1.1 = {
@@ -5903,7 +5903,7 @@
 }
 
 402 = {
-	name = godwyna
+	name = "godwyna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5919,7 +5919,7 @@
 }
 
 403 = {
-	name = wynstan
+	name = "wynstan"
 	culture = english
 	religion = cathar
 	272.1.1 = {
@@ -5934,7 +5934,7 @@
 }
 
 404 = {
-	name = cwynthryth
+	name = "cwynthryth"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5950,7 +5950,7 @@
 }
 
 405 = {
-	name = agatha
+	name = "agatha"
 	culture = english
 	religion = cathar
 	female = yes
@@ -5965,7 +5965,7 @@
 }
 
 406 = {
-	name = eadwald
+	name = "eadwald"
 	culture = english
 	religion = cathar
 	303.1.1 = {
@@ -5979,7 +5979,7 @@
 }
 
 407 = {
-	name = aethelric
+	name = "aethelric"
 	culture = english
 	religion = cathar
 	306.1.1 = {
@@ -5993,7 +5993,7 @@
 }
 
 408 = {
-	name = vicenna
+	name = "vicenna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6008,7 +6008,7 @@
 }
 
 409 = {
-	name = aedilhild
+	name = "aedilhild"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6024,7 +6024,7 @@
 }
 
 410 = {
-	name = athelric
+	name = "athelric"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -6039,7 +6039,7 @@
 }
 
 411 = {
-	name = sebastienne
+	name = "sebastienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6053,7 +6053,7 @@
 }
 
 412 = {
-	name = pierres
+	name = "pierres"
 	culture = english
 	religion = cathar
 	199.1.1 = {
@@ -6067,7 +6067,7 @@
 }
 
 413 = {
-	name = aurelie
+	name = "aurelie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6081,7 +6081,7 @@
 }
 
 414 = {
-	name = timothee yvon
+	name = "timothee yvon"
 	culture = english
 	religion = cathar
 	196.1.1 = {
@@ -6094,7 +6094,7 @@
 }
 
 415 = {
-	name = apolline
+	name = "apolline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6108,7 +6108,7 @@
 }
 
 416 = {
-	name = mathieu luc
+	name = "mathieu luc"
 	culture = english
 	religion = cathar
 	191.1.1 = {
@@ -6121,7 +6121,7 @@
 }
 
 417 = {
-	name = celine
+	name = "celine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6135,7 +6135,7 @@
 }
 
 418 = {
-	name = adrien
+	name = "adrien"
 	culture = english
 	religion = cathar
 	200.1.1 = {
@@ -6148,7 +6148,7 @@
 }
 
 419 = {
-	name = blanche
+	name = "blanche"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6164,7 +6164,7 @@
 }
 
 420 = {
-	name = estienne
+	name = "estienne"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -6177,7 +6177,7 @@
 }
 
 421 = {
-	name = lenora marie
+	name = "lenora marie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6193,7 +6193,7 @@
 }
 
 422 = {
-	name = gregoire
+	name = "gregoire"
 	culture = english
 	religion = cathar
 	215.1.1 = {
@@ -6208,7 +6208,7 @@
 }
 
 423 = {
-	name = angelique
+	name = "angelique"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6224,7 +6224,7 @@
 }
 
 424 = {
-	name = laurent
+	name = "laurent"
 	culture = english
 	religion = cathar
 	221.1.1 = {
@@ -6239,7 +6239,7 @@
 }
 
 425 = {
-	name = domitille
+	name = "domitille"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6255,7 +6255,7 @@
 }
 
 426 = {
-	name = leander
+	name = "leander"
 	culture = english
 	religion = cathar
 	253.1.1 = {
@@ -6270,7 +6270,7 @@
 }
 
 427 = {
-	name = julienne flore
+	name = "julienne flore"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6286,7 +6286,7 @@
 }
 
 428 = {
-	name = hadrien
+	name = "hadrien"
 	culture = english
 	religion = cathar
 	247.1.1 = {
@@ -6301,7 +6301,7 @@
 }
 
 429 = {
-	name = adira
+	name = "adira"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6315,7 +6315,7 @@
 }
 
 430 = {
-	name = sebastien edouard
+	name = "sebastien edouard"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -6330,7 +6330,7 @@
 }
 
 431 = {
-	name = stephan
+	name = "stephan"
 	culture = english
 	religion = cathar
 	269.1.1 = {
@@ -6345,7 +6345,7 @@
 }
 
 432 = {
-	name = victoria s.
+	name = "victoria s."
 	culture = english
 	religion = cathar
 	female = yes
@@ -6361,7 +6361,7 @@
 }
 
 433 = {
-	name = mathieux-dureau
+	name = "mathieux-dureau"
 	culture = english
 	religion = cathar
 	277.1.1 = {
@@ -6376,7 +6376,7 @@
 }
 
 434 = {
-	name = mercia
+	name = "mercia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6391,7 +6391,7 @@
 }
 
 435 = {
-	name = francois
+	name = "francois"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -6406,7 +6406,7 @@
 }
 
 436 = {
-	name = melodie
+	name = "melodie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6420,7 +6420,7 @@
 }
 
 437 = {
-	name = reita
+	name = "reita"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6434,7 +6434,7 @@
 }
 
 438 = {
-	name = claudine
+	name = "claudine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6450,7 +6450,7 @@
 }
 
 439 = {
-	name = augustin
+	name = "augustin"
 	culture = english
 	religion = cathar
 	278.1.1 = {
@@ -6465,7 +6465,7 @@
 }
 
 440 = {
-	name = gabriel louie
+	name = "gabriel louie"
 	culture = english
 	religion = cathar
 	296.1.1 = {
@@ -6480,7 +6480,7 @@
 }
 
 441 = {
-	name = gabrielle evelyne
+	name = "gabrielle evelyne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6496,7 +6496,7 @@
 }
 
 442 = {
-	name = gustave stephan
+	name = "gustave stephan"
 	culture = english
 	religion = cathar
 	304.1.1 = {
@@ -6511,7 +6511,7 @@
 }
 
 443 = {
-	name = eloise chloe
+	name = "eloise chloe"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6527,7 +6527,7 @@
 }
 
 444 = {
-	name = adolphus
+	name = "adolphus"
 	culture = english
 	religion = cathar
 	172.1.1 = {
@@ -6540,7 +6540,7 @@
 }
 
 445 = {
-	name = wilhelmina
+	name = "wilhelmina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6555,7 +6555,7 @@
 }
 
 446 = {
-	name = leopold
+	name = "leopold"
 	culture = english
 	religion = cathar
 	195.1.1 = {
@@ -6570,7 +6570,7 @@
 }
 
 447 = {
-	name = clara
+	name = "clara"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6585,7 +6585,7 @@
 }
 
 448 = {
-	name = frederick
+	name = "frederick"
 	culture = english
 	religion = cathar
 	218.1.1 = {
@@ -6600,7 +6600,7 @@
 }
 
 449 = {
-	name = helena
+	name = "helena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6614,7 +6614,7 @@
 }
 
 450 = {
-	name = aldobert
+	name = "aldobert"
 	culture = english
 	religion = cathar
 	242.1.1 = {
@@ -6629,7 +6629,7 @@
 }
 
 451 = {
-	name = adalgisa
+	name = "adalgisa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6643,7 +6643,7 @@
 }
 
 452 = {
-	name = theobold
+	name = "theobold"
 	culture = english
 	religion = cathar
 	245.1.1 = {
@@ -6658,7 +6658,7 @@
 }
 
 453 = {
-	name = leyna
+	name = "leyna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6672,7 +6672,7 @@
 }
 
 454 = {
-	name = mathilda
+	name = "mathilda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6686,7 +6686,7 @@
 }
 
 455 = {
-	name = aldobert
+	name = "aldobert"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -6701,7 +6701,7 @@
 }
 
 456 = {
-	name = ademaro
+	name = "ademaro"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -6716,7 +6716,7 @@
 }
 
 457 = {
-	name = fronika
+	name = "fronika"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6732,7 +6732,7 @@
 }
 
 458 = {
-	name = bartisch
+	name = "bartisch"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -6745,7 +6745,7 @@
 }
 
 459 = {
-	name = petra
+	name = "petra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6759,7 +6759,7 @@
 }
 
 460 = {
-	name = howland
+	name = "howland"
 	culture = english
 	religion = cathar
 	276.1.1 = {
@@ -6774,7 +6774,7 @@
 }
 
 461 = {
-	name = brunhilde
+	name = "brunhilde"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6790,7 +6790,7 @@
 }
 
 462 = {
-	name = rayleine
+	name = "rayleine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6806,7 +6806,7 @@
 }
 
 463 = {
-	name = frieda
+	name = "frieda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6822,7 +6822,7 @@
 }
 
 464 = {
-	name = eldwin
+	name = "eldwin"
 	culture = english
 	religion = cathar
 	290.1.1 = {
@@ -6837,7 +6837,7 @@
 }
 
 465 = {
-	name = ermina
+	name = "ermina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6853,7 +6853,7 @@
 }
 
 466 = {
-	name = otto
+	name = "otto"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -6868,7 +6868,7 @@
 }
 
 467 = {
-	name = greta
+	name = "greta"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6884,7 +6884,7 @@
 }
 
 468 = {
-	name = gherardo
+	name = "gherardo"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -6898,7 +6898,7 @@
 }
 
 469 = {
-	name = leontio
+	name = "leontio"
 	culture = english
 	religion = cathar
 	211.1.1 = {
@@ -6911,7 +6911,7 @@
 }
 
 470 = {
-	name = leah
+	name = "leah"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6926,7 +6926,7 @@
 }
 
 471 = {
-	name = elisabeth
+	name = "elisabeth"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6940,7 +6940,7 @@
 }
 
 472 = {
-	name = diederik
+	name = "diederik"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -6955,7 +6955,7 @@
 }
 
 473 = {
-	name = erica
+	name = "erica"
 	culture = english
 	religion = cathar
 	female = yes
@@ -6971,7 +6971,7 @@
 }
 
 474 = {
-	name = frederick
+	name = "frederick"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -6986,7 +6986,7 @@
 }
 
 475 = {
-	name = leopold
+	name = "leopold"
 	culture = english
 	religion = cathar
 	249.1.1 = {
@@ -7001,7 +7001,7 @@
 }
 
 476 = {
-	name = marianne
+	name = "marianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7017,7 +7017,7 @@
 }
 
 477 = {
-	name = brandt
+	name = "brandt"
 	culture = english
 	religion = cathar
 	298.1.1 = {
@@ -7032,7 +7032,7 @@
 }
 
 478 = {
-	name = gunther
+	name = "gunther"
 	culture = english
 	religion = cathar
 	178.1.1 = {
@@ -7046,7 +7046,7 @@
 }
 
 479 = {
-	name = josephine
+	name = "josephine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7062,7 +7062,7 @@
 }
 
 480 = {
-	name = wulfric
+	name = "wulfric"
 	culture = english
 	religion = cathar
 	190.1.1 = {
@@ -7075,7 +7075,7 @@
 }
 
 481 = {
-	name = helena
+	name = "helena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7090,7 +7090,7 @@
 }
 
 482 = {
-	name = alexander
+	name = "alexander"
 	culture = english
 	religion = cathar
 	221.1.1 = {
@@ -7105,7 +7105,7 @@
 }
 
 483 = {
-	name = melisende
+	name = "melisende"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7119,7 +7119,7 @@
 }
 
 484 = {
-	name = carlo
+	name = "carlo"
 	culture = english
 	religion = cathar
 	156.1.1 = {
@@ -7133,7 +7133,7 @@
 }
 
 485 = {
-	name = blanche
+	name = "blanche"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7149,7 +7149,7 @@
 }
 
 486 = {
-	name = lothair isengrim
+	name = "lothair isengrim"
 	culture = english
 	religion = cathar
 	255.1.1 = {
@@ -7164,7 +7164,7 @@
 }
 
 487 = {
-	name = swanheid
+	name = "swanheid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7180,7 +7180,7 @@
 }
 
 488 = {
-	name = gotfrid
+	name = "gotfrid"
 	culture = english
 	religion = cathar
 	259.1.1 = {
@@ -7195,7 +7195,7 @@
 }
 
 489 = {
-	name = perrine
+	name = "perrine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7211,7 +7211,7 @@
 }
 
 490 = {
-	name = gregore
+	name = "gregore"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -7226,7 +7226,7 @@
 }
 
 491 = {
-	name = willem heidbert
+	name = "willem heidbert"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -7240,7 +7240,7 @@
 }
 
 492 = {
-	name = aldrick telesphore
+	name = "aldrick telesphore"
 	culture = english
 	religion = cathar
 	280.1.1 = {
@@ -7254,7 +7254,7 @@
 }
 
 493 = {
-	name = laurence
+	name = "laurence"
 	culture = english
 	religion = cathar
 	222.1.1 = {
@@ -7269,7 +7269,7 @@
 }
 
 494 = {
-	name = ameline
+	name = "ameline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7285,7 +7285,7 @@
 }
 
 495 = {
-	name = willem
+	name = "willem"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -7299,7 +7299,7 @@
 }
 
 496 = {
-	name = carolin
+	name = "carolin"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7314,7 +7314,7 @@
 }
 
 497 = {
-	name = wulfric
+	name = "wulfric"
 	culture = english
 	religion = cathar
 	250.1.1 = {
@@ -7328,7 +7328,7 @@
 }
 
 498 = {
-	name = humaira
+	name = "humaira"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7343,7 +7343,7 @@
 }
 
 499 = {
-	name = alaric
+	name = "alaric"
 	culture = english
 	religion = cathar
 	150.1.1 = {
@@ -7357,7 +7357,7 @@
 }
 
 500 = {
-	name = esteban
+	name = "esteban"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -7370,7 +7370,7 @@
 }
 
 501 = {
-	name = loretta
+	name = "loretta"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7386,7 +7386,7 @@
 }
 
 502 = {
-	name = atilio
+	name = "atilio"
 	culture = english
 	religion = cathar
 	264.1.1 = {
@@ -7401,7 +7401,7 @@
 }
 
 503 = {
-	name = lorea
+	name = "lorea"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7416,7 +7416,7 @@
 }
 
 504 = {
-	name = cesare
+	name = "cesare"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -7431,7 +7431,7 @@
 }
 
 505 = {
-	name = bianca
+	name = "bianca"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7447,7 +7447,7 @@
 }
 
 506 = {
-	name = apollonia
+	name = "apollonia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7461,7 +7461,7 @@
 }
 
 507 = {
-	name = florence
+	name = "florence"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7477,7 +7477,7 @@
 }
 
 508 = {
-	name = ezmeralda
+	name = "ezmeralda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7493,7 +7493,7 @@
 }
 
 509 = {
-	name = adrian
+	name = "adrian"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -7508,7 +7508,7 @@
 }
 
 510 = {
-	name = andrea
+	name = "andrea"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7523,7 +7523,7 @@
 }
 
 511 = {
-	name = celine
+	name = "celine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7538,7 +7538,7 @@
 }
 
 512 = {
-	name = dante
+	name = "dante"
 	culture = english
 	religion = cathar
 	291.1.1 = {
@@ -7552,7 +7552,7 @@
 }
 
 513 = {
-	name = alphonse
+	name = "alphonse"
 	culture = english
 	religion = cathar
 	193.1.1 = {
@@ -7565,7 +7565,7 @@
 }
 
 514 = {
-	name = colette
+	name = "colette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7580,7 +7580,7 @@
 }
 
 515 = {
-	name = aurore
+	name = "aurore"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7595,7 +7595,7 @@
 }
 
 516 = {
-	name = isabeau
+	name = "isabeau"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7610,7 +7610,7 @@
 }
 
 517 = {
-	name = lucienne
+	name = "lucienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7625,7 +7625,7 @@
 }
 
 518 = {
-	name = marc
+	name = "marc"
 	culture = english
 	religion = cathar
 	175.1.1 = {
@@ -7639,7 +7639,7 @@
 }
 
 519 = {
-	name = michel
+	name = "michel"
 	culture = english
 	religion = cathar
 	208.1.1 = {
@@ -7653,7 +7653,7 @@
 }
 
 520 = {
-	name = gilles
+	name = "gilles"
 	culture = english
 	religion = cathar
 	140.1.1 = {
@@ -7667,7 +7667,7 @@
 }
 
 521 = {
-	name = jean-luc
+	name = "jean-luc"
 	culture = english
 	religion = cathar
 	112.1.1 = {
@@ -7680,7 +7680,7 @@
 }
 
 522 = {
-	name = arahael
+	name = "arahael"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -7695,7 +7695,7 @@
 }
 
 523 = {
-	name = gwenyth
+	name = "gwenyth"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7709,7 +7709,7 @@
 }
 
 524 = {
-	name = florance tannis
+	name = "florance tannis"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7725,7 +7725,7 @@
 }
 
 525 = {
-	name = laurent raaf
+	name = "laurent raaf"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7741,7 +7741,7 @@
 }
 
 526 = {
-	name = valerie
+	name = "valerie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7757,7 +7757,7 @@
 }
 
 527 = {
-	name = leufred
+	name = "leufred"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7773,7 +7773,7 @@
 }
 
 528 = {
-	name = rowena cavia
+	name = "rowena cavia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7789,7 +7789,7 @@
 }
 
 529 = {
-	name = rhion
+	name = "rhion"
 	culture = english
 	religion = cathar
 	296.1.1 = {
@@ -7804,7 +7804,7 @@
 }
 
 530 = {
-	name = elara
+	name = "elara"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7819,7 +7819,7 @@
 }
 
 531 = {
-	name = bastien
+	name = "bastien"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -7834,7 +7834,7 @@
 }
 
 532 = {
-	name = samala
+	name = "samala"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7848,7 +7848,7 @@
 }
 
 533 = {
-	name = godric
+	name = "godric"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -7861,7 +7861,7 @@
 }
 
 534 = {
-	name = marie
+	name = "marie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7876,7 +7876,7 @@
 }
 
 535 = {
-	name = aloys
+	name = "aloys"
 	culture = english
 	religion = cathar
 	110.1.1 = {
@@ -7889,7 +7889,7 @@
 }
 
 536 = {
-	name = lillianna
+	name = "lillianna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7903,7 +7903,7 @@
 }
 
 537 = {
-	name = valentin
+	name = "valentin"
 	culture = english
 	religion = cathar
 	140.1.1 = {
@@ -7918,7 +7918,7 @@
 }
 
 538 = {
-	name = eleonora
+	name = "eleonora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7934,7 +7934,7 @@
 }
 
 539 = {
-	name = maximillienne
+	name = "maximillienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7948,7 +7948,7 @@
 }
 
 540 = {
-	name = marcoul
+	name = "marcoul"
 	culture = english
 	religion = cathar
 	170.1.1 = {
@@ -7963,7 +7963,7 @@
 }
 
 541 = {
-	name = rosaline
+	name = "rosaline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7979,7 +7979,7 @@
 }
 
 542 = {
-	name = camille
+	name = "camille"
 	culture = english
 	religion = cathar
 	female = yes
@@ -7995,7 +7995,7 @@
 }
 
 543 = {
-	name = heinrich
+	name = "heinrich"
 	culture = english
 	religion = cathar
 	170.1.1 = {
@@ -8008,7 +8008,7 @@
 }
 
 544 = {
-	name = veronica
+	name = "veronica"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8024,7 +8024,7 @@
 }
 
 545 = {
-	name = maximilien
+	name = "maximilien"
 	culture = english
 	religion = cathar
 	197.1.1 = {
@@ -8039,7 +8039,7 @@
 }
 
 546 = {
-	name = sabine
+	name = "sabine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8053,7 +8053,7 @@
 }
 
 547 = {
-	name = leonard
+	name = "leonard"
 	culture = english
 	religion = cathar
 	202.1.1 = {
@@ -8068,7 +8068,7 @@
 }
 
 548 = {
-	name = laurent
+	name = "laurent"
 	culture = english
 	religion = cathar
 	204.1.1 = {
@@ -8083,7 +8083,7 @@
 }
 
 549 = {
-	name = alban
+	name = "alban"
 	culture = english
 	religion = cathar
 	206.1.1 = {
@@ -8098,7 +8098,7 @@
 }
 
 550 = {
-	name = elle
+	name = "elle"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8114,7 +8114,7 @@
 }
 
 551 = {
-	name = pierre
+	name = "pierre"
 	culture = english
 	religion = cathar
 	210.1.1 = {
@@ -8129,7 +8129,7 @@
 }
 
 552 = {
-	name = rianne
+	name = "rianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8143,7 +8143,7 @@
 }
 
 553 = {
-	name = laudus
+	name = "laudus"
 	culture = english
 	religion = cathar
 	234.1.1 = {
@@ -8158,7 +8158,7 @@
 }
 
 554 = {
-	name = valentina
+	name = "valentina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8172,7 +8172,7 @@
 }
 
 555 = {
-	name = isabelle
+	name = "isabelle"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8188,7 +8188,7 @@
 }
 
 556 = {
-	name = victoria
+	name = "victoria"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8204,7 +8204,7 @@
 }
 
 557 = {
-	name = henri
+	name = "henri"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -8219,7 +8219,7 @@
 }
 
 558 = {
-	name = julienne
+	name = "julienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8234,7 +8234,7 @@
 }
 
 559 = {
-	name = marian
+	name = "marian"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8248,7 +8248,7 @@
 }
 
 560 = {
-	name = reinault
+	name = "reinault"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -8263,7 +8263,7 @@
 }
 
 561 = {
-	name = achille
+	name = "achille"
 	culture = english
 	religion = cathar
 	262.1.1 = {
@@ -8277,7 +8277,7 @@
 }
 
 562 = {
-	name = roul
+	name = "roul"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -8291,7 +8291,7 @@
 }
 
 563 = {
-	name = manon
+	name = "manon"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8306,7 +8306,7 @@
 }
 
 564 = {
-	name = aguste
+	name = "aguste"
 	culture = english
 	religion = cathar
 	205.1.1 = {
@@ -8319,7 +8319,7 @@
 }
 
 565 = {
-	name = eleonore
+	name = "eleonore"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8335,7 +8335,7 @@
 }
 
 566 = {
-	name = niels
+	name = "niels"
 	culture = english
 	religion = cathar
 	228.1.1 = {
@@ -8348,7 +8348,7 @@
 }
 
 567 = {
-	name = octavia
+	name = "octavia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8362,7 +8362,7 @@
 }
 
 568 = {
-	name = eloise
+	name = "eloise"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8378,7 +8378,7 @@
 }
 
 569 = {
-	name = noemie
+	name = "noemie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8394,7 +8394,7 @@
 }
 
 570 = {
-	name = natalie
+	name = "natalie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8408,7 +8408,7 @@
 }
 
 571 = {
-	name = francis
+	name = "francis"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -8423,7 +8423,7 @@
 }
 
 572 = {
-	name = florence
+	name = "florence"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8438,7 +8438,7 @@
 }
 
 573 = {
-	name = milena
+	name = "milena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8454,7 +8454,7 @@
 }
 
 574 = {
-	name = constanze
+	name = "constanze"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8470,7 +8470,7 @@
 }
 
 575 = {
-	name = michel
+	name = "michel"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -8485,7 +8485,7 @@
 }
 
 576 = {
-	name = corina
+	name = "corina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8499,7 +8499,7 @@
 }
 
 577 = {
-	name = fabienne
+	name = "fabienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8515,7 +8515,7 @@
 }
 
 578 = {
-	name = herbert
+	name = "herbert"
 	culture = english
 	religion = cathar
 	150.1.1 = {
@@ -8528,7 +8528,7 @@
 }
 
 579 = {
-	name = lorraine
+	name = "lorraine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8544,7 +8544,7 @@
 }
 
 580 = {
-	name = ingrid
+	name = "ingrid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8560,7 +8560,7 @@
 }
 
 581 = {
-	name = leif
+	name = "leif"
 	culture = english
 	religion = cathar
 	255.1.1 = {
@@ -8575,7 +8575,7 @@
 }
 
 582 = {
-	name = julia
+	name = "julia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8591,7 +8591,7 @@
 }
 
 583 = {
-	name = viveca
+	name = "viveca"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8607,7 +8607,7 @@
 }
 
 584 = {
-	name = lucinda
+	name = "lucinda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8623,7 +8623,7 @@
 }
 
 585 = {
-	name = vidar
+	name = "vidar"
 	culture = english
 	religion = cathar
 	269.1.1 = {
@@ -8638,7 +8638,7 @@
 }
 
 586 = {
-	name = calder
+	name = "calder"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -8653,7 +8653,7 @@
 }
 
 587 = {
-	name = osric
+	name = "osric"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -8668,7 +8668,7 @@
 }
 
 588 = {
-	name = elric
+	name = "elric"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -8683,7 +8683,7 @@
 }
 
 589 = {
-	name = torbin
+	name = "torbin"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -8698,7 +8698,7 @@
 }
 
 590 = {
-	name = leonzio
+	name = "leonzio"
 	culture = english
 	religion = cathar
 	284.1.1 = {
@@ -8711,7 +8711,7 @@
 }
 
 591 = {
-	name = raoul
+	name = "raoul"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -8724,7 +8724,7 @@
 }
 
 592 = {
-	name = alonso
+	name = "alonso"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -8737,7 +8737,7 @@
 }
 
 593 = {
-	name = sarena
+	name = "sarena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8752,7 +8752,7 @@
 }
 
 594 = {
-	name = benjamin
+	name = "benjamin"
 	culture = english
 	religion = cathar
 	290.1.1 = {
@@ -8767,7 +8767,7 @@
 }
 
 595 = {
-	name = henri
+	name = "henri"
 	culture = english
 	religion = cathar
 	291.1.1 = {
@@ -8782,7 +8782,7 @@
 }
 
 596 = {
-	name = catalina
+	name = "catalina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8798,7 +8798,7 @@
 }
 
 597 = {
-	name = ophelia
+	name = "ophelia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8814,7 +8814,7 @@
 }
 
 598 = {
-	name = kendric
+	name = "kendric"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -8829,7 +8829,7 @@
 }
 
 599 = {
-	name = lucia
+	name = "lucia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8845,7 +8845,7 @@
 }
 
 600 = {
-	name = fernanda
+	name = "fernanda"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8861,7 +8861,7 @@
 }
 
 601 = {
-	name = lautaro
+	name = "lautaro"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -8876,7 +8876,7 @@
 }
 
 602 = {
-	name = javier
+	name = "javier"
 	culture = english
 	religion = cathar
 	295.1.1 = {
@@ -8891,7 +8891,7 @@
 }
 
 603 = {
-	name = thyra
+	name = "thyra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8907,7 +8907,7 @@
 }
 
 604 = {
-	name = sylvia
+	name = "sylvia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8923,7 +8923,7 @@
 }
 
 605 = {
-	name = isidora
+	name = "isidora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8938,7 +8938,7 @@
 }
 
 606 = {
-	name = julia
+	name = "julia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8954,7 +8954,7 @@
 }
 
 607 = {
-	name = pietro
+	name = "pietro"
 	culture = english
 	religion = cathar
 	302.1.1 = {
@@ -8969,7 +8969,7 @@
 }
 
 608 = {
-	name = thomas
+	name = "thomas"
 	culture = english
 	religion = cathar
 	280.1.1 = {
@@ -8982,7 +8982,7 @@
 }
 
 609 = {
-	name = honora
+	name = "honora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -8998,7 +8998,7 @@
 }
 
 610 = {
-	name = arbec
+	name = "arbec"
 	culture = english
 	religion = cathar
 	298.1.1 = {
@@ -9013,7 +9013,7 @@
 }
 
 611 = {
-	name = kensley
+	name = "kensley"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9029,7 +9029,7 @@
 }
 
 612 = {
-	name = juliette
+	name = "juliette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9043,7 +9043,7 @@
 }
 
 613 = {
-	name = astrid
+	name = "astrid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9057,7 +9057,7 @@
 }
 
 614 = {
-	name = hakon
+	name = "hakon"
 	culture = english
 	religion = cathar
 	232.1.1 = {
@@ -9070,7 +9070,7 @@
 }
 
 615 = {
-	name = halvard
+	name = "halvard"
 	culture = english
 	religion = cathar
 	210.1.1 = {
@@ -9083,7 +9083,7 @@
 }
 
 616 = {
-	name = solveig
+	name = "solveig"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9097,7 +9097,7 @@
 }
 
 617 = {
-	name = leugel
+	name = "leugel"
 	culture = english
 	religion = cathar
 	239.1.1 = {
@@ -9112,7 +9112,7 @@
 }
 
 618 = {
-	name = toverata
+	name = "toverata"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9126,7 +9126,7 @@
 }
 
 619 = {
-	name = nora
+	name = "nora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9142,7 +9142,7 @@
 }
 
 620 = {
-	name = roffe
+	name = "roffe"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -9155,7 +9155,7 @@
 }
 
 621 = {
-	name = ardige
+	name = "ardige"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -9170,7 +9170,7 @@
 }
 
 622 = {
-	name = karin
+	name = "karin"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9184,7 +9184,7 @@
 }
 
 623 = {
-	name = aurora
+	name = "aurora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9200,7 +9200,7 @@
 }
 
 624 = {
-	name = marikka
+	name = "marikka"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9214,7 +9214,7 @@
 }
 
 625 = {
-	name = yngvarr
+	name = "yngvarr"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -9229,7 +9229,7 @@
 }
 
 626 = {
-	name = erobrsonn
+	name = "erobrsonn"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -9244,7 +9244,7 @@
 }
 
 627 = {
-	name = frejnir
+	name = "frejnir"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -9259,7 +9259,7 @@
 }
 
 628 = {
-	name = aksel
+	name = "aksel"
 	culture = english
 	religion = cathar
 	290.1.1 = {
@@ -9274,7 +9274,7 @@
 }
 
 629 = {
-	name = tuija
+	name = "tuija"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9290,7 +9290,7 @@
 }
 
 630 = {
-	name = sa'alia
+	name = "sa'alia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9304,7 +9304,7 @@
 }
 
 631 = {
-	name = shalhreia
+	name = "shalhreia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9319,7 +9319,7 @@
 }
 
 632 = {
-	name = auiamey
+	name = "auiamey"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9335,7 +9335,7 @@
 }
 
 633 = {
-	name = saelleia
+	name = "saelleia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9350,7 +9350,7 @@
 }
 
 634 = {
-	name = lleoveyn
+	name = "lleoveyn"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -9364,7 +9364,7 @@
 }
 
 635 = {
-	name = suzenvaela
+	name = "suzenvaela"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9379,7 +9379,7 @@
 }
 
 636 = {
-	name = esmedara
+	name = "esmedara"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9394,7 +9394,7 @@
 }
 
 637 = {
-	name = myirannir
+	name = "myirannir"
 	culture = english
 	religion = cathar
 	295.1.1 = {
@@ -9408,7 +9408,7 @@
 }
 
 638 = {
-	name = jolieyta
+	name = "jolieyta"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9423,7 +9423,7 @@
 }
 
 639 = {
-	name = carlos
+	name = "carlos"
 	culture = english
 	religion = cathar
 	218.1.1 = {
@@ -9436,7 +9436,7 @@
 }
 
 640 = {
-	name = oriandor
+	name = "oriandor"
 	culture = english
 	religion = cathar
 	175.1.1 = {
@@ -9450,7 +9450,7 @@
 }
 
 641 = {
-	name = samila
+	name = "samila"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9465,7 +9465,7 @@
 }
 
 642 = {
-	name = eandrel
+	name = "eandrel"
 	culture = english
 	religion = cathar
 	203.1.1 = {
@@ -9479,7 +9479,7 @@
 }
 
 643 = {
-	name = lusyas
+	name = "lusyas"
 	culture = english
 	religion = cathar
 	228.1.1 = {
@@ -9493,7 +9493,7 @@
 }
 
 644 = {
-	name = salia
+	name = "salia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9508,7 +9508,7 @@
 }
 
 645 = {
-	name = isaveyl
+	name = "isaveyl"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9523,7 +9523,7 @@
 }
 
 646 = {
-	name = noveyn
+	name = "noveyn"
 	culture = english
 	religion = cathar
 	255.1.1 = {
@@ -9537,7 +9537,7 @@
 }
 
 647 = {
-	name = malsayn
+	name = "malsayn"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -9552,7 +9552,7 @@
 }
 
 648 = {
-	name = eyra
+	name = "eyra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9568,7 +9568,7 @@
 }
 
 649 = {
-	name = alistair
+	name = "alistair"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -9581,7 +9581,7 @@
 }
 
 650 = {
-	name = yvette
+	name = "yvette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9595,7 +9595,7 @@
 }
 
 651 = {
-	name = alexandria
+	name = "alexandria"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9611,7 +9611,7 @@
 }
 
 652 = {
-	name = alex
+	name = "alex"
 	culture = english
 	religion = cathar
 	305.1.1 = {
@@ -9626,7 +9626,7 @@
 }
 
 653 = {
-	name = alejandro
+	name = "alejandro"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -9640,7 +9640,7 @@
 }
 
 654 = {
-	name = theresa
+	name = "theresa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9656,7 +9656,7 @@
 }
 
 655 = {
-	name = matheo
+	name = "matheo"
 	culture = english
 	religion = cathar
 	275.1.1 = {
@@ -9670,7 +9670,7 @@
 }
 
 656 = {
-	name = alondra
+	name = "alondra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9685,7 +9685,7 @@
 }
 
 657 = {
-	name = camila
+	name = "camila"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9700,7 +9700,7 @@
 }
 
 658 = {
-	name = gustavo
+	name = "gustavo"
 	culture = english
 	religion = cathar
 	267.1.1 = {
@@ -9714,7 +9714,7 @@
 }
 
 659 = {
-	name = andrieu
+	name = "andrieu"
 	culture = english
 	religion = cathar
 	256.1.1 = {
@@ -9728,7 +9728,7 @@
 }
 
 660 = {
-	name = andrea
+	name = "andrea"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9743,7 +9743,7 @@
 }
 
 661 = {
-	name = madelyn
+	name = "madelyn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9757,7 +9757,7 @@
 }
 
 662 = {
-	name = valarosta
+	name = "valarosta"
 	culture = english
 	religion = cathar
 	235.1.1 = {
@@ -9770,7 +9770,7 @@
 }
 
 663 = {
-	name = jean-yves
+	name = "jean-yves"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -9783,7 +9783,7 @@
 }
 
 664 = {
-	name = sylvie
+	name = "sylvie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9798,7 +9798,7 @@
 }
 
 665 = {
-	name = lucien
+	name = "lucien"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -9813,7 +9813,7 @@
 }
 
 666 = {
-	name = florian
+	name = "florian"
 	culture = english
 	religion = cathar
 	286.1.1 = {
@@ -9828,7 +9828,7 @@
 }
 
 667 = {
-	name = emeric
+	name = "emeric"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -9843,7 +9843,7 @@
 }
 
 668 = {
-	name = lucrece
+	name = "lucrece"
 	culture = english
 	religion = cathar
 	290.1.1 = {
@@ -9858,7 +9858,7 @@
 }
 
 669 = {
-	name = fabio
+	name = "fabio"
 	culture = english
 	religion = cathar
 	184.1.1 = {
@@ -9872,7 +9872,7 @@
 }
 
 670 = {
-	name = amaury
+	name = "amaury"
 	culture = english
 	religion = cathar
 	312.1.1 = {
@@ -9887,7 +9887,7 @@
 }
 
 671 = {
-	name = celine
+	name = "celine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9901,7 +9901,7 @@
 }
 
 672 = {
-	name = laerilas
+	name = "laerilas"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -9915,7 +9915,7 @@
 }
 
 673 = {
-	name = sancia
+	name = "sancia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9930,7 +9930,7 @@
 }
 
 674 = {
-	name = savnella
+	name = "savnella"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9945,7 +9945,7 @@
 }
 
 675 = {
-	name = orlen
+	name = "orlen"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -9959,7 +9959,7 @@
 }
 
 676 = {
-	name = salia
+	name = "salia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -9974,7 +9974,7 @@
 }
 
 677 = {
-	name = lusyas
+	name = "lusyas"
 	culture = english
 	religion = cathar
 	250.1.1 = {
@@ -9988,7 +9988,7 @@
 }
 
 678 = {
-	name = noveyn
+	name = "noveyn"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -10002,7 +10002,7 @@
 }
 
 679 = {
-	name = pablo
+	name = "pablo"
 	culture = english
 	religion = cathar
 	217.1.1 = {
@@ -10016,7 +10016,7 @@
 }
 
 680 = {
-	name = malsayn
+	name = "malsayn"
 	culture = english
 	religion = cathar
 	223.1.1 = {
@@ -10031,7 +10031,7 @@
 }
 
 681 = {
-	name = alosso
+	name = "alosso"
 	culture = english
 	religion = cathar
 	180.1.1 = {
@@ -10044,7 +10044,7 @@
 }
 
 682 = {
-	name = liliath
+	name = "liliath"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10058,7 +10058,7 @@
 }
 
 683 = {
-	name = hithaellon
+	name = "hithaellon"
 	culture = english
 	religion = cathar
 	170.1.1 = {
@@ -10071,7 +10071,7 @@
 }
 
 684 = {
-	name = tasallon
+	name = "tasallon"
 	culture = english
 	religion = cathar
 	200.1.1 = {
@@ -10085,7 +10085,7 @@
 }
 
 685 = {
-	name = hin'sala
+	name = "hin'sala"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10101,7 +10101,7 @@
 }
 
 686 = {
-	name = finarhen
+	name = "finarhen"
 	culture = english
 	religion = cathar
 	232.1.1 = {
@@ -10116,7 +10116,7 @@
 }
 
 687 = {
-	name = malcarno
+	name = "malcarno"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -10131,7 +10131,7 @@
 }
 
 688 = {
-	name = liravella
+	name = "liravella"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10147,7 +10147,7 @@
 }
 
 689 = {
-	name = caswyn
+	name = "caswyn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10162,7 +10162,7 @@
 }
 
 690 = {
-	name = enalle
+	name = "enalle"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -10175,7 +10175,7 @@
 }
 
 691 = {
-	name = viviana
+	name = "viviana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10190,7 +10190,7 @@
 }
 
 692 = {
-	name = tehrathel
+	name = "tehrathel"
 	culture = english
 	religion = cathar
 	256.1.1 = {
@@ -10204,7 +10204,7 @@
 }
 
 693 = {
-	name = alonzo
+	name = "alonzo"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -10218,7 +10218,7 @@
 }
 
 694 = {
-	name = faell'veia
+	name = "faell'veia"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -10232,7 +10232,7 @@
 }
 
 695 = {
-	name = hin'sulain
+	name = "hin'sulain"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10247,7 +10247,7 @@
 }
 
 696 = {
-	name = laenyra
+	name = "laenyra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10263,7 +10263,7 @@
 }
 
 697 = {
-	name = rhantallion
+	name = "rhantallion"
 	culture = english
 	religion = cathar
 	241.1.1 = {
@@ -10278,7 +10278,7 @@
 }
 
 698 = {
-	name = elarien
+	name = "elarien"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10293,7 +10293,7 @@
 }
 
 699 = {
-	name = thalanor
+	name = "thalanor"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -10306,7 +10306,7 @@
 }
 
 700 = {
-	name = calenwe
+	name = "calenwe"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10322,7 +10322,7 @@
 }
 
 701 = {
-	name = nimriel
+	name = "nimriel"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10338,7 +10338,7 @@
 }
 
 702 = {
-	name = selithra
+	name = "selithra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10352,7 +10352,7 @@
 }
 
 703 = {
-	name = tharion
+	name = "tharion"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -10367,7 +10367,7 @@
 }
 
 704 = {
-	name = alariel
+	name = "alariel"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10383,7 +10383,7 @@
 }
 
 705 = {
-	name = nymerith
+	name = "nymerith"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10399,7 +10399,7 @@
 }
 
 706 = {
-	name = vaelion
+	name = "vaelion"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -10414,7 +10414,7 @@
 }
 
 707 = {
-	name = lireth
+	name = "lireth"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10428,7 +10428,7 @@
 }
 
 708 = {
-	name = thalindra
+	name = "thalindra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10444,7 +10444,7 @@
 }
 
 709 = {
-	name = faendir
+	name = "faendir"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -10459,7 +10459,7 @@
 }
 
 710 = {
-	name = elendir
+	name = "elendir"
 	culture = english
 	religion = cathar
 	180.1.1 = {
@@ -10472,7 +10472,7 @@
 }
 
 711 = {
-	name = samwea
+	name = "samwea"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10487,7 +10487,7 @@
 }
 
 712 = {
-	name = larethian
+	name = "larethian"
 	culture = english
 	religion = cathar
 	150.1.1 = {
@@ -10500,7 +10500,7 @@
 }
 
 713 = {
-	name = laurent
+	name = "laurent"
 	culture = english
 	religion = cathar
 	200.1.1 = {
@@ -10513,7 +10513,7 @@
 }
 
 714 = {
-	name = solenne
+	name = "solenne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10527,7 +10527,7 @@
 }
 
 715 = {
-	name = estienne
+	name = "estienne"
 	culture = english
 	religion = cathar
 	245.1.1 = {
@@ -10542,7 +10542,7 @@
 }
 
 716 = {
-	name = aurelia
+	name = "aurelia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10557,7 +10557,7 @@
 }
 
 717 = {
-	name = etienne
+	name = "etienne"
 	culture = english
 	religion = cathar
 	264.1.1 = {
@@ -10572,7 +10572,7 @@
 }
 
 718 = {
-	name = noemie
+	name = "noemie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10586,7 +10586,7 @@
 }
 
 719 = {
-	name = amelina
+	name = "amelina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10602,7 +10602,7 @@
 }
 
 720 = {
-	name = eilaria
+	name = "eilaria"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10618,7 +10618,7 @@
 }
 
 721 = {
-	name = lancel
+	name = "lancel"
 	culture = english
 	religion = cathar
 	313.1.1 = {
@@ -10633,7 +10633,7 @@
 }
 
 722 = {
-	name = yvea
+	name = "yvea"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10649,7 +10649,7 @@
 }
 
 723 = {
-	name = emmon
+	name = "emmon"
 	culture = english
 	religion = cathar
 	304.1.1 = {
@@ -10664,7 +10664,7 @@
 }
 
 724 = {
-	name = narcissa
+	name = "narcissa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10680,7 +10680,7 @@
 }
 
 725 = {
-	name = ludovic
+	name = "ludovic"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -10695,7 +10695,7 @@
 }
 
 726 = {
-	name = ghyslaine
+	name = "ghyslaine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10709,7 +10709,7 @@
 }
 
 727 = {
-	name = maeva
+	name = "maeva"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10725,7 +10725,7 @@
 }
 
 728 = {
-	name = baldrick
+	name = "baldrick"
 	culture = english
 	religion = cathar
 	298.1.1 = {
@@ -10740,7 +10740,7 @@
 }
 
 729 = {
-	name = myria
+	name = "myria"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10756,7 +10756,7 @@
 }
 
 730 = {
-	name = odette
+	name = "odette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10772,7 +10772,7 @@
 }
 
 731 = {
-	name = julius
+	name = "julius"
 	culture = english
 	religion = cathar
 	307.1.1 = {
@@ -10786,7 +10786,7 @@
 }
 
 732 = {
-	name = jean
+	name = "jean"
 	culture = english
 	religion = cathar
 	220.1.1 = {
@@ -10799,7 +10799,7 @@
 }
 
 733 = {
-	name = malcolm
+	name = "malcolm"
 	culture = english
 	religion = cathar
 	301.1.1 = {
@@ -10814,7 +10814,7 @@
 }
 
 734 = {
-	name = dario
+	name = "dario"
 	culture = english
 	religion = cathar
 	130.1.1 = {
@@ -10828,7 +10828,7 @@
 }
 
 735 = {
-	name = fabricio
+	name = "fabricio"
 	culture = english
 	religion = cathar
 	105.1.1 = {
@@ -10841,7 +10841,7 @@
 }
 
 736 = {
-	name = vicario
+	name = "vicario"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -10856,7 +10856,7 @@
 }
 
 737 = {
-	name = marie
+	name = "marie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10871,7 +10871,7 @@
 }
 
 738 = {
-	name = amelie
+	name = "amelie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10885,7 +10885,7 @@
 }
 
 739 = {
-	name = audrey
+	name = "audrey"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10900,7 +10900,7 @@
 }
 
 740 = {
-	name = osorio
+	name = "osorio"
 	culture = english
 	religion = cathar
 	291.1.1 = {
@@ -10914,7 +10914,7 @@
 }
 
 741 = {
-	name = francine
+	name = "francine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10928,7 +10928,7 @@
 }
 
 742 = {
-	name = phillipe
+	name = "phillipe"
 	culture = english
 	religion = cathar
 	205.1.1 = {
@@ -10942,7 +10942,7 @@
 }
 
 743 = {
-	name = alastair
+	name = "alastair"
 	culture = english
 	religion = cathar
 	198.1.1 = {
@@ -10955,7 +10955,7 @@
 }
 
 744 = {
-	name = allia
+	name = "allia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10969,7 +10969,7 @@
 }
 
 745 = {
-	name = brandon
+	name = "brandon"
 	culture = english
 	religion = cathar
 	220.1.1 = {
@@ -10984,7 +10984,7 @@
 }
 
 746 = {
-	name = lilliana
+	name = "lilliana"
 	culture = english
 	religion = cathar
 	female = yes
@@ -10998,7 +10998,7 @@
 }
 
 747 = {
-	name = arden
+	name = "arden"
 	culture = english
 	religion = cathar
 	242.1.1 = {
@@ -11013,7 +11013,7 @@
 }
 
 748 = {
-	name = saoirse
+	name = "saoirse"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11028,7 +11028,7 @@
 }
 
 749 = {
-	name = vilhelm
+	name = "vilhelm"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -11043,7 +11043,7 @@
 }
 
 750 = {
-	name = heidie
+	name = "heidie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11058,7 +11058,7 @@
 }
 
 751 = {
-	name = eddair
+	name = "eddair"
 	culture = english
 	religion = cathar
 	262.1.1 = {
@@ -11073,7 +11073,7 @@
 }
 
 752 = {
-	name = edina
+	name = "edina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11087,7 +11087,7 @@
 }
 
 753 = {
-	name = wilmair
+	name = "wilmair"
 	culture = english
 	religion = cathar
 	264.1.1 = {
@@ -11102,7 +11102,7 @@
 }
 
 754 = {
-	name = addilin
+	name = "addilin"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11116,7 +11116,7 @@
 }
 
 755 = {
-	name = saraid
+	name = "saraid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11132,7 +11132,7 @@
 }
 
 756 = {
-	name = patrick
+	name = "patrick"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -11145,7 +11145,7 @@
 }
 
 757 = {
-	name = patrick
+	name = "patrick"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -11160,7 +11160,7 @@
 }
 
 758 = {
-	name = ian
+	name = "ian"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -11175,7 +11175,7 @@
 }
 
 759 = {
-	name = cathal
+	name = "cathal"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -11190,7 +11190,7 @@
 }
 
 760 = {
-	name = rosalin
+	name = "rosalin"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11206,7 +11206,7 @@
 }
 
 761 = {
-	name = alastair
+	name = "alastair"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -11221,7 +11221,7 @@
 }
 
 762 = {
-	name = calidh
+	name = "calidh"
 	culture = english
 	religion = cathar
 	291.1.1 = {
@@ -11236,7 +11236,7 @@
 }
 
 763 = {
-	name = arnhelm
+	name = "arnhelm"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -11251,7 +11251,7 @@
 }
 
 764 = {
-	name = greer
+	name = "greer"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11267,7 +11267,7 @@
 }
 
 765 = {
-	name = fiona
+	name = "fiona"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11283,7 +11283,7 @@
 }
 
 766 = {
-	name = natharia
+	name = "natharia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11299,7 +11299,7 @@
 }
 
 767 = {
-	name = finnidh
+	name = "finnidh"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -11314,7 +11314,7 @@
 }
 
 768 = {
-	name = cillian
+	name = "cillian"
 	culture = english
 	religion = cathar
 	295.1.1 = {
@@ -11329,7 +11329,7 @@
 }
 
 769 = {
-	name = robard
+	name = "robard"
 	culture = english
 	religion = cathar
 	299.1.1 = {
@@ -11343,7 +11343,7 @@
 }
 
 770 = {
-	name = meridath
+	name = "meridath"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11358,7 +11358,7 @@
 }
 
 771 = {
-	name = emeric
+	name = "emeric"
 	culture = english
 	religion = cathar
 	220.1.1 = {
@@ -11371,7 +11371,7 @@
 }
 
 772 = {
-	name = nathan
+	name = "nathan"
 	culture = english
 	religion = cathar
 	256.1.1 = {
@@ -11384,7 +11384,7 @@
 }
 
 773 = {
-	name = lyonel
+	name = "lyonel"
 	culture = english
 	religion = cathar
 	281.1.1 = {
@@ -11398,7 +11398,7 @@
 }
 
 774 = {
-	name = arianne
+	name = "arianne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11413,7 +11413,7 @@
 }
 
 775 = {
-	name = matei
+	name = "matei"
 	culture = english
 	religion = cathar
 	237.1.1 = {
@@ -11426,7 +11426,7 @@
 }
 
 776 = {
-	name = costin
+	name = "costin"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -11439,7 +11439,7 @@
 }
 
 777 = {
-	name = marie
+	name = "marie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11454,7 +11454,7 @@
 }
 
 778 = {
-	name = pavel
+	name = "pavel"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -11468,7 +11468,7 @@
 }
 
 779 = {
-	name = katarina
+	name = "katarina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11484,7 +11484,7 @@
 }
 
 780 = {
-	name = acelina
+	name = "acelina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11500,7 +11500,7 @@
 }
 
 781 = {
-	name = ivonn
+	name = "ivonn"
 	culture = english
 	religion = cathar
 	301.1.1 = {
@@ -11515,7 +11515,7 @@
 }
 
 782 = {
-	name = beatrix
+	name = "beatrix"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11530,7 +11530,7 @@
 }
 
 783 = {
-	name = ambrus
+	name = "ambrus"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -11543,7 +11543,7 @@
 }
 
 784 = {
-	name = fredek
+	name = "fredek"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -11558,7 +11558,7 @@
 }
 
 785 = {
-	name = lukacs
+	name = "lukacs"
 	culture = english
 	religion = cathar
 	295.1.1 = {
@@ -11573,7 +11573,7 @@
 }
 
 786 = {
-	name = sabina
+	name = "sabina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11588,7 +11588,7 @@
 }
 
 787 = {
-	name = cristian
+	name = "cristian"
 	culture = english
 	religion = cathar
 	273.1.1 = {
@@ -11601,7 +11601,7 @@
 }
 
 788 = {
-	name = elicia
+	name = "elicia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11617,7 +11617,7 @@
 }
 
 789 = {
-	name = corina
+	name = "corina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11633,7 +11633,7 @@
 }
 
 790 = {
-	name = petre
+	name = "petre"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -11647,7 +11647,7 @@
 }
 
 791 = {
-	name = mihaela
+	name = "mihaela"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11662,7 +11662,7 @@
 }
 
 792 = {
-	name = ragnar
+	name = "ragnar"
 	culture = english
 	religion = cathar
 	313.1.1 = {
@@ -11677,7 +11677,7 @@
 }
 
 793 = {
-	name = kerastellar
+	name = "kerastellar"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11693,7 +11693,7 @@
 }
 
 794 = {
-	name = nadia
+	name = "nadia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11707,7 +11707,7 @@
 }
 
 795 = {
-	name = lovid
+	name = "lovid"
 	culture = english
 	religion = cathar
 	312.1.1 = {
@@ -11722,7 +11722,7 @@
 }
 
 796 = {
-	name = solveig
+	name = "solveig"
 	culture = english
 	religion = cathar
 	313.1.1 = {
@@ -11737,7 +11737,7 @@
 }
 
 797 = {
-	name = siselle
+	name = "siselle"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11751,7 +11751,7 @@
 }
 
 798 = {
-	name = gunnar
+	name = "gunnar"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -11764,7 +11764,7 @@
 }
 
 799 = {
-	name = kerastellar
+	name = "kerastellar"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11780,7 +11780,7 @@
 }
 
 800 = {
-	name = morten
+	name = "morten"
 	culture = english
 	religion = cathar
 	265.1.1 = {
@@ -11794,7 +11794,7 @@
 }
 
 801 = {
-	name = garth
+	name = "garth"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -11809,7 +11809,7 @@
 }
 
 802 = {
-	name = thelka
+	name = "thelka"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11824,7 +11824,7 @@
 }
 
 803 = {
-	name = godtfred
+	name = "godtfred"
 	culture = english
 	religion = cathar
 	262.1.1 = {
@@ -11837,7 +11837,7 @@
 }
 
 804 = {
-	name = johanne
+	name = "johanne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11853,7 +11853,7 @@
 }
 
 805 = {
-	name = arvid
+	name = "arvid"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -11868,7 +11868,7 @@
 }
 
 806 = {
-	name = hartvik
+	name = "hartvik"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -11883,7 +11883,7 @@
 }
 
 807 = {
-	name = eydis
+	name = "eydis"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11899,7 +11899,7 @@
 }
 
 808 = {
-	name = ylva
+	name = "ylva"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11915,7 +11915,7 @@
 }
 
 809 = {
-	name = mavleina
+	name = "mavleina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11929,7 +11929,7 @@
 }
 
 810 = {
-	name = sif
+	name = "sif"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11945,7 +11945,7 @@
 }
 
 811 = {
-	name = vaenya
+	name = "vaenya"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11959,7 +11959,7 @@
 }
 
 812 = {
-	name = cerynlo
+	name = "cerynlo"
 	culture = english
 	religion = cathar
 	180.1.1 = {
@@ -11972,7 +11972,7 @@
 }
 
 813 = {
-	name = tesvmalo
+	name = "tesvmalo"
 	culture = english
 	religion = cathar
 	female = yes
@@ -11988,7 +11988,7 @@
 }
 
 814 = {
-	name = eash-llo
+	name = "eash-llo"
 	culture = english
 	religion = cathar
 	198.1.1 = {
@@ -12001,7 +12001,7 @@
 }
 
 815 = {
-	name = serlay'ufol
+	name = "serlay'ufol"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12017,7 +12017,7 @@
 }
 
 816 = {
-	name = abelhard
+	name = "abelhard"
 	culture = english
 	religion = cathar
 	242.1.1 = {
@@ -12031,7 +12031,7 @@
 }
 
 817 = {
-	name = avox
+	name = "avox"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12046,7 +12046,7 @@
 }
 
 818 = {
-	name = tol-ay
+	name = "tol-ay"
 	culture = english
 	religion = cathar
 	223.1.1 = {
@@ -12061,7 +12061,7 @@
 }
 
 819 = {
-	name = sylvia
+	name = "sylvia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12077,7 +12077,7 @@
 }
 
 820 = {
-	name = jurgen
+	name = "jurgen"
 	culture = english
 	religion = cathar
 	224.1.1 = {
@@ -12090,7 +12090,7 @@
 }
 
 821 = {
-	name = katrin
+	name = "katrin"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12106,7 +12106,7 @@
 }
 
 822 = {
-	name = ul-ayom
+	name = "ul-ayom"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12122,7 +12122,7 @@
 }
 
 823 = {
-	name = telryllo
+	name = "telryllo"
 	culture = english
 	religion = cathar
 	200.1.1 = {
@@ -12135,7 +12135,7 @@
 }
 
 824 = {
-	name = lluitalen
+	name = "lluitalen"
 	culture = english
 	religion = cathar
 	222.1.1 = {
@@ -12150,7 +12150,7 @@
 }
 
 825 = {
-	name = junia
+	name = "junia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12164,7 +12164,7 @@
 }
 
 826 = {
-	name = adrastos
+	name = "adrastos"
 	culture = english
 	religion = cathar
 	247.1.1 = {
@@ -12179,7 +12179,7 @@
 }
 
 827 = {
-	name = tebryn
+	name = "tebryn"
 	culture = english
 	religion = cathar
 	249.1.1 = {
@@ -12194,7 +12194,7 @@
 }
 
 828 = {
-	name = emmeline
+	name = "emmeline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12210,7 +12210,7 @@
 }
 
 829 = {
-	name = rievein
+	name = "rievein"
 	culture = english
 	religion = cathar
 	226.1.1 = {
@@ -12225,7 +12225,7 @@
 }
 
 830 = {
-	name = madeline
+	name = "madeline"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12239,7 +12239,7 @@
 }
 
 831 = {
-	name = fleur
+	name = "fleur"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12255,7 +12255,7 @@
 }
 
 832 = {
-	name = acelina
+	name = "acelina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12271,7 +12271,7 @@
 }
 
 833 = {
-	name = lucienne
+	name = "lucienne"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12287,7 +12287,7 @@
 }
 
 834 = {
-	name = stefan
+	name = "stefan"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -12300,7 +12300,7 @@
 }
 
 835 = {
-	name = florentine
+	name = "florentine"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12316,7 +12316,7 @@
 }
 
 836 = {
-	name = auriane
+	name = "auriane"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12332,7 +12332,7 @@
 }
 
 837 = {
-	name = timothee
+	name = "timothee"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -12347,7 +12347,7 @@
 }
 
 838 = {
-	name = elarir
+	name = "elarir"
 	culture = english
 	religion = cathar
 	261.1.1 = {
@@ -12360,7 +12360,7 @@
 }
 
 839 = {
-	name = neomie
+	name = "neomie"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12376,7 +12376,7 @@
 }
 
 840 = {
-	name = renee
+	name = "renee"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12392,7 +12392,7 @@
 }
 
 841 = {
-	name = isabeau
+	name = "isabeau"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12408,7 +12408,7 @@
 }
 
 842 = {
-	name = genevieve
+	name = "genevieve"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12424,7 +12424,7 @@
 }
 
 843 = {
-	name = louis
+	name = "louis"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -12437,7 +12437,7 @@
 }
 
 844 = {
-	name = etienne
+	name = "etienne"
 	culture = english
 	religion = cathar
 	176.1.1 = {
@@ -12450,7 +12450,7 @@
 }
 
 845 = {
-	name = claire
+	name = "claire"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12466,7 +12466,7 @@
 }
 
 846 = {
-	name = bastien
+	name = "bastien"
 	culture = english
 	religion = cathar
 	147.1.1 = {
@@ -12479,7 +12479,7 @@
 }
 
 847 = {
-	name = veronique
+	name = "veronique"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12493,7 +12493,7 @@
 }
 
 848 = {
-	name = andrien
+	name = "andrien"
 	culture = english
 	religion = cathar
 	118.1.1 = {
@@ -12506,7 +12506,7 @@
 }
 
 849 = {
-	name = philippe
+	name = "philippe"
 	culture = english
 	religion = cathar
 	202.1.1 = {
@@ -12519,7 +12519,7 @@
 }
 
 850 = {
-	name = carl
+	name = "carl"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -12534,7 +12534,7 @@
 }
 
 851 = {
-	name = isidore
+	name = "isidore"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12550,7 +12550,7 @@
 }
 
 852 = {
-	name = ulvira
+	name = "ulvira"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12566,7 +12566,7 @@
 }
 
 853 = {
-	name = otto
+	name = "otto"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -12581,7 +12581,7 @@
 }
 
 854 = {
-	name = helene
+	name = "helene"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12595,7 +12595,7 @@
 }
 
 855 = {
-	name = friedrich
+	name = "friedrich"
 	culture = english
 	religion = cathar
 	212.1.1 = {
@@ -12608,7 +12608,7 @@
 }
 
 856 = {
-	name = elisabet
+	name = "elisabet"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12622,7 +12622,7 @@
 }
 
 857 = {
-	name = gerhard
+	name = "gerhard"
 	culture = english
 	religion = cathar
 	185.1.1 = {
@@ -12635,7 +12635,7 @@
 }
 
 858 = {
-	name = magdalena
+	name = "magdalena"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12649,7 +12649,7 @@
 }
 
 859 = {
-	name = ulrich
+	name = "ulrich"
 	culture = english
 	religion = cathar
 	188.1.1 = {
@@ -12662,7 +12662,7 @@
 }
 
 860 = {
-	name = ruzgar
+	name = "ruzgar"
 	culture = english
 	religion = cathar
 	277.1.1 = {
@@ -12675,7 +12675,7 @@
 }
 
 861 = {
-	name = clarissa
+	name = "clarissa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12689,7 +12689,7 @@
 }
 
 862 = {
-	name = edmund
+	name = "edmund"
 	culture = english
 	religion = cathar
 	228.1.1 = {
@@ -12702,7 +12702,7 @@
 }
 
 863 = {
-	name = thurnolf
+	name = "thurnolf"
 	culture = english
 	religion = cathar
 	253.1.1 = {
@@ -12717,7 +12717,7 @@
 }
 
 864 = {
-	name = maessa
+	name = "maessa"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12731,7 +12731,7 @@
 }
 
 865 = {
-	name = theadora
+	name = "theadora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12747,7 +12747,7 @@
 }
 
 866 = {
-	name = abelhard
+	name = "abelhard"
 	culture = english
 	religion = cathar
 	279.1.1 = {
@@ -12762,7 +12762,7 @@
 }
 
 867 = {
-	name = esther
+	name = "esther"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12777,7 +12777,7 @@
 }
 
 868 = {
-	name = aelfric
+	name = "aelfric"
 	culture = english
 	religion = cathar
 	309.1.1 = {
@@ -12791,7 +12791,7 @@
 }
 
 869 = {
-	name = leopold
+	name = "leopold"
 	culture = english
 	religion = cathar
 	280.1.1 = {
@@ -12806,7 +12806,7 @@
 }
 
 870 = {
-	name = caspian
+	name = "caspian"
 	culture = english
 	religion = cathar
 	299.1.1 = {
@@ -12820,7 +12820,7 @@
 }
 
 871 = {
-	name = georgina-ruth
+	name = "georgina-ruth"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12836,7 +12836,7 @@
 }
 
 872 = {
-	name = james-charles
+	name = "james-charles"
 	culture = english
 	religion = cathar
 	281.1.1 = {
@@ -12851,7 +12851,7 @@
 }
 
 873 = {
-	name = lars-alexander
+	name = "lars-alexander"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -12866,7 +12866,7 @@
 }
 
 874 = {
-	name = ida-mae
+	name = "ida-mae"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12882,7 +12882,7 @@
 }
 
 875 = {
-	name = karina
+	name = "karina"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12898,7 +12898,7 @@
 }
 
 876 = {
-	name = frederick
+	name = "frederick"
 	culture = english
 	religion = cathar
 	264.1.1 = {
@@ -12913,7 +12913,7 @@
 }
 
 877 = {
-	name = bernadette
+	name = "bernadette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12927,7 +12927,7 @@
 }
 
 878 = {
-	name = william
+	name = "william"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -12942,7 +12942,7 @@
 }
 
 879 = {
-	name = thomas
+	name = "thomas"
 	culture = english
 	religion = cathar
 	278.1.1 = {
@@ -12957,7 +12957,7 @@
 }
 
 880 = {
-	name = alexandra
+	name = "alexandra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12973,7 +12973,7 @@
 }
 
 881 = {
-	name = bethany
+	name = "bethany"
 	culture = english
 	religion = cathar
 	female = yes
@@ -12989,7 +12989,7 @@
 }
 
 882 = {
-	name = isaac
+	name = "isaac"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -13004,7 +13004,7 @@
 }
 
 883 = {
-	name = beatrice
+	name = "beatrice"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13018,7 +13018,7 @@
 }
 
 884 = {
-	name = luther
+	name = "luther"
 	culture = english
 	religion = cathar
 	263.1.1 = {
@@ -13033,7 +13033,7 @@
 }
 
 885 = {
-	name = peter
+	name = "peter"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -13048,7 +13048,7 @@
 }
 
 886 = {
-	name = colleen
+	name = "colleen"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13064,7 +13064,7 @@
 }
 
 887 = {
-	name = michael
+	name = "michael"
 	culture = english
 	religion = cathar
 	293.1.1 = {
@@ -13079,7 +13079,7 @@
 }
 
 888 = {
-	name = agustine
+	name = "agustine"
 	culture = english
 	religion = cathar
 	267.1.1 = {
@@ -13094,7 +13094,7 @@
 }
 
 889 = {
-	name = robert
+	name = "robert"
 	culture = english
 	religion = cathar
 	299.1.1 = {
@@ -13108,7 +13108,7 @@
 }
 
 890 = {
-	name = verger
+	name = "verger"
 	culture = english
 	religion = cathar
 	268.1.1 = {
@@ -13121,7 +13121,7 @@
 }
 
 891 = {
-	name = lisette
+	name = "lisette"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13135,7 +13135,7 @@
 }
 
 892 = {
-	name = sophia
+	name = "sophia"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13149,7 +13149,7 @@
 }
 
 893 = {
-	name = sigfrid
+	name = "sigfrid"
 	culture = english
 	religion = cathar
 	275.1.1 = {
@@ -13162,7 +13162,7 @@
 }
 
 894 = {
-	name = izel
+	name = "izel"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13176,7 +13176,7 @@
 }
 
 895 = {
-	name = charles
+	name = "charles"
 	culture = english
 	religion = cathar
 	288.1.1 = {
@@ -13189,7 +13189,7 @@
 }
 
 896 = {
-	name = nadiya
+	name = "nadiya"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13203,7 +13203,7 @@
 }
 
 897 = {
-	name = charles
+	name = "charles"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -13216,7 +13216,7 @@
 }
 
 898 = {
-	name = krieger
+	name = "krieger"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -13229,7 +13229,7 @@
 }
 
 899 = {
-	name = jannick
+	name = "jannick"
 	culture = english
 	religion = cathar
 	292.1.1 = {
@@ -13242,7 +13242,7 @@
 }
 
 900 = {
-	name = suvitril
+	name = "suvitril"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13256,7 +13256,7 @@
 }
 
 901 = {
-	name = severus
+	name = "severus"
 	culture = english
 	religion = cathar
 	283.1.1 = {
@@ -13269,7 +13269,7 @@
 }
 
 902 = {
-	name = victoire
+	name = "victoire"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13283,7 +13283,7 @@
 }
 
 903 = {
-	name = theodric
+	name = "theodric"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -13296,7 +13296,7 @@
 }
 
 904 = {
-	name = almar
+	name = "almar"
 	culture = english
 	religion = cathar
 	281.1.1 = {
@@ -13309,7 +13309,7 @@
 }
 
 905 = {
-	name = kalu
+	name = "kalu"
 	culture = english
 	religion = cathar
 	296.1.1 = {
@@ -13322,7 +13322,7 @@
 }
 
 906 = {
-	name = amber
+	name = "amber"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13336,7 +13336,7 @@
 }
 
 907 = {
-	name = nefertath
+	name = "nefertath"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13350,7 +13350,7 @@
 }
 
 908 = {
-	name = roulain
+	name = "roulain"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -13363,7 +13363,7 @@
 }
 
 909 = {
-	name = nefer
+	name = "nefer"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -13376,7 +13376,7 @@
 }
 
 910 = {
-	name = fiora
+	name = "fiora"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13390,7 +13390,7 @@
 }
 
 911 = {
-	name = francisca
+	name = "francisca"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13404,7 +13404,7 @@
 }
 
 912 = {
-	name = marak
+	name = "marak"
 	culture = english
 	religion = cathar
 	282.1.1 = {
@@ -13417,7 +13417,7 @@
 }
 
 913 = {
-	name = yahra
+	name = "yahra"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13431,7 +13431,7 @@
 }
 
 914 = {
-	name = lao
+	name = "lao"
 	culture = english
 	religion = cathar
 	248.1.1 = {
@@ -13444,7 +13444,7 @@
 }
 
 915 = {
-	name = jocelyn
+	name = "jocelyn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13458,7 +13458,7 @@
 }
 
 916 = {
-	name = lieven
+	name = "lieven"
 	culture = english
 	religion = cathar
 	285.1.1 = {
@@ -13471,7 +13471,7 @@
 }
 
 917 = {
-	name = wilhelm
+	name = "wilhelm"
 	culture = english
 	religion = cathar
 	274.1.1 = {
@@ -13484,7 +13484,7 @@
 }
 
 918 = {
-	name = hera
+	name = "hera"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13499,7 +13499,7 @@
 }
 
 919 = {
-	name = bonavent
+	name = "bonavent"
 	culture = english
 	religion = cathar
 	286.1.1 = {
@@ -13512,7 +13512,7 @@
 }
 
 920 = {
-	name = madelyn
+	name = "madelyn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13526,7 +13526,7 @@
 }
 
 921 = {
-	name = virathus
+	name = "virathus"
 	culture = english
 	religion = cathar
 	286.1.1 = {
@@ -13539,7 +13539,7 @@
 }
 
 922 = {
-	name = dorothios
+	name = "dorothios"
 	culture = english
 	religion = cathar
 	289.1.1 = {
@@ -13552,7 +13552,7 @@
 }
 
 923 = {
-	name = halewise
+	name = "halewise"
 	culture = english
 	religion = cathar
 	280.1.1 = {
@@ -13565,7 +13565,7 @@
 }
 
 924 = {
-	name = mariella
+	name = "mariella"
 	culture = english
 	religion = cathar
 	female = yes
@@ -13579,7 +13579,7 @@
 }
 
 925 = {
-	name = lamont
+	name = "lamont"
 	culture = english
 	religion = cathar
 	287.1.1 = {
@@ -13592,7 +13592,7 @@
 }
 
 926 = {
-	name = willem
+	name = "willem"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -13605,7 +13605,7 @@
 }
 
 927 = {
-	name = thomas
+	name = "thomas"
 	culture = english
 	religion = cathar
 	248.1.1 = {
@@ -13618,7 +13618,7 @@
 }
 
 928 = {
-	name = lucien
+	name = "lucien"
 	culture = english
 	religion = cathar
 	242.1.1 = {
@@ -13631,7 +13631,7 @@
 }
 
 929 = {
-	name = pierre
+	name = "pierre"
 	culture = english
 	religion = cathar
 	237.1.1 = {
@@ -13644,7 +13644,7 @@
 }
 
 930 = {
-	name = aerandir
+	name = "aerandir"
 	culture = english
 	religion = cathar
 	259.1.1 = {
@@ -13657,7 +13657,7 @@
 }
 
 931 = {
-	name = hendrik
+	name = "hendrik"
 	culture = english
 	religion = cathar
 	233.1.1 = {
@@ -13670,7 +13670,7 @@
 }
 
 932 = {
-	name = thalion
+	name = "thalion"
 	culture = english
 	religion = cathar
 	251.1.1 = {
@@ -13683,7 +13683,7 @@
 }
 
 933 = {
-	name = calenor
+	name = "calenor"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -13696,7 +13696,7 @@
 }
 
 934 = {
-	name = joris
+	name = "joris"
 	culture = english
 	religion = cathar
 	226.1.1 = {
@@ -13709,7 +13709,7 @@
 }
 
 935 = {
-	name = erik
+	name = "erik"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -13722,7 +13722,7 @@
 }
 
 936 = {
-	name = milan
+	name = "milan"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -13735,7 +13735,7 @@
 }
 
 937 = {
-	name = alistair
+	name = "alistair"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -13748,7 +13748,7 @@
 }
 
 938 = {
-	name = nikolas
+	name = "nikolas"
 	culture = english
 	religion = cathar
 	256.1.1 = {
@@ -13761,7 +13761,7 @@
 }
 
 939 = {
-	name = oleg
+	name = "oleg"
 	culture = english
 	religion = cathar
 	229.1.1 = {
@@ -13774,7 +13774,7 @@
 }
 
 940 = {
-	name = edward
+	name = "edward"
 	culture = english
 	religion = cathar
 	247.1.1 = {
@@ -13787,7 +13787,7 @@
 }
 
 941 = {
-	name = robert
+	name = "robert"
 	culture = english
 	religion = cathar
 	220.1.1 = {
@@ -13800,7 +13800,7 @@
 }
 
 942 = {
-	name = cormac
+	name = "cormac"
 	culture = english
 	religion = cathar
 	252.1.1 = {
@@ -13813,7 +13813,7 @@
 }
 
 943 = {
-	name = henry
+	name = "henry"
 	culture = english
 	religion = cathar
 	234.1.1 = {
@@ -13826,7 +13826,7 @@
 }
 
 944 = {
-	name = james
+	name = "james"
 	culture = english
 	religion = cathar
 	245.1.1 = {
@@ -13839,7 +13839,7 @@
 }
 
 945 = {
-	name = viktor
+	name = "viktor"
 	culture = english
 	religion = cathar
 	222.1.1 = {
@@ -13852,7 +13852,7 @@
 }
 
 946 = {
-	name = lukas
+	name = "lukas"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -13865,7 +13865,7 @@
 }
 
 947 = {
-	name = fergus
+	name = "fergus"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -13878,7 +13878,7 @@
 }
 
 948 = {
-	name = andreas
+	name = "andreas"
 	culture = english
 	religion = cathar
 	249.1.1 = {
@@ -13891,7 +13891,7 @@
 }
 
 949 = {
-	name = richard
+	name = "richard"
 	culture = english
 	religion = cathar
 	224.1.1 = {
@@ -13904,7 +13904,7 @@
 }
 
 950 = {
-	name = samuel
+	name = "samuel"
 	culture = english
 	religion = cathar
 	253.1.1 = {
@@ -13917,7 +13917,7 @@
 }
 
 951 = {
-	name = daniel
+	name = "daniel"
 	culture = english
 	religion = cathar
 	239.1.1 = {
@@ -13930,7 +13930,7 @@
 }
 
 952 = {
-	name = bjorn
+	name = "bjorn"
 	culture = english
 	religion = cathar
 	227.1.1 = {
@@ -13943,7 +13943,7 @@
 }
 
 953 = {
-	name = mateo
+	name = "mateo"
 	culture = english
 	religion = cathar
 	241.1.1 = {
@@ -13956,7 +13956,7 @@
 }
 
 954 = {
-	name = ronan
+	name = "ronan"
 	culture = english
 	religion = cathar
 	232.1.1 = {
@@ -13969,7 +13969,7 @@
 }
 
 955 = {
-	name = joao
+	name = "joao"
 	culture = english
 	religion = cathar
 	255.1.1 = {
@@ -13982,7 +13982,7 @@
 }
 
 956 = {
-	name = leonidas
+	name = "leonidas"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -13995,7 +13995,7 @@
 }
 
 957 = {
-	name = theron
+	name = "theron"
 	culture = english
 	religion = cathar
 	221.1.1 = {
@@ -14008,7 +14008,7 @@
 }
 
 958 = {
-	name = arthur
+	name = "arthur"
 	culture = english
 	religion = cathar
 	250.1.1 = {
@@ -14021,7 +14021,7 @@
 }
 
 959 = {
-	name = marcus
+	name = "marcus"
 	culture = english
 	religion = cathar
 	237.1.1 = {
@@ -14034,7 +14034,7 @@
 }
 
 960 = {
-	name = stephen
+	name = "stephen"
 	culture = english
 	religion = cathar
 	243.1.1 = {
@@ -14047,7 +14047,7 @@
 }
 
 961 = {
-	name = martin
+	name = "martin"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -14060,7 +14060,7 @@
 }
 
 962 = {
-	name = amadou
+	name = "amadou"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -14073,7 +14073,7 @@
 }
 
 963 = {
-	name = boubacar
+	name = "boubacar"
 	culture = english
 	religion = cathar
 	228.1.1 = {
@@ -14086,7 +14086,7 @@
 }
 
 964 = {
-	name = hroldin
+	name = "hroldin"
 	culture = english
 	religion = cathar
 	219.1.1 = {
@@ -14099,7 +14099,7 @@
 }
 
 965 = {
-	name = edwin
+	name = "edwin"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -14112,7 +14112,7 @@
 }
 
 966 = {
-	name = edemere
+	name = "edemere"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -14125,7 +14125,7 @@
 }
 
 967 = {
-	name = karim
+	name = "karim"
 	culture = english
 	religion = cathar
 	233.1.1 = {
@@ -14138,7 +14138,7 @@
 }
 
 968 = {
-	name = rashid
+	name = "rashid"
 	culture = english
 	religion = cathar
 	226.1.1 = {
@@ -14151,7 +14151,7 @@
 }
 
 969 = {
-	name = nathaniel
+	name = "nathaniel"
 	culture = english
 	religion = cathar
 	248.1.1 = {
@@ -14164,7 +14164,7 @@
 }
 
 970 = {
-	name = oliver
+	name = "oliver"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -14177,7 +14177,7 @@
 }
 
 971 = {
-	name = faelar
+	name = "faelar"
 	culture = english
 	religion = cathar
 	259.1.1 = {
@@ -14190,7 +14190,7 @@
 }
 
 972 = {
-	name = edward
+	name = "edward"
 	culture = english
 	religion = cathar
 	235.1.1 = {
@@ -14203,7 +14203,7 @@
 }
 
 973 = {
-	name = william
+	name = "william"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -14216,7 +14216,7 @@
 }
 
 974 = {
-	name = marcel
+	name = "marcel"
 	culture = english
 	religion = cathar
 	223.1.1 = {
@@ -14229,7 +14229,7 @@
 }
 
 975 = {
-	name = antoine
+	name = "antoine"
 	culture = english
 	religion = cathar
 	252.1.1 = {
@@ -14242,7 +14242,7 @@
 }
 
 976 = {
-	name = elarion
+	name = "elarion"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -14255,7 +14255,7 @@
 }
 
 977 = {
-	name = pieter
+	name = "pieter"
 	culture = english
 	religion = cathar
 	229.1.1 = {
@@ -14268,7 +14268,7 @@
 }
 
 978 = {
-	name = lorandel
+	name = "lorandel"
 	culture = english
 	religion = cathar
 	247.1.1 = {
@@ -14281,7 +14281,7 @@
 }
 
 979 = {
-	name = vaelis
+	name = "vaelis"
 	culture = english
 	religion = cathar
 	241.1.1 = {
@@ -14294,7 +14294,7 @@
 }
 
 980 = {
-	name = maarten
+	name = "maarten"
 	culture = english
 	religion = cathar
 	234.1.1 = {
@@ -14307,7 +14307,7 @@
 }
 
 981 = {
-	name = soren
+	name = "soren"
 	culture = english
 	religion = cathar
 	255.1.1 = {
@@ -14320,7 +14320,7 @@
 }
 
 982 = {
-	name = radek
+	name = "radek"
 	culture = english
 	religion = cathar
 	236.1.1 = {
@@ -14333,7 +14333,7 @@
 }
 
 983 = {
-	name = duncan
+	name = "duncan"
 	culture = english
 	religion = cathar
 	222.1.1 = {
@@ -14346,7 +14346,7 @@
 }
 
 984 = {
-	name = alexandros
+	name = "alexandros"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -14359,7 +14359,7 @@
 }
 
 985 = {
-	name = taras
+	name = "taras"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -14372,7 +14372,7 @@
 }
 
 986 = {
-	name = charles
+	name = "charles"
 	culture = english
 	religion = cathar
 	249.1.1 = {
@@ -14385,7 +14385,7 @@
 }
 
 987 = {
-	name = gregory
+	name = "gregory"
 	culture = english
 	religion = cathar
 	221.1.1 = {
@@ -14398,7 +14398,7 @@
 }
 
 988 = {
-	name = seamus
+	name = "seamus"
 	culture = english
 	religion = cathar
 	253.1.1 = {
@@ -14411,7 +14411,7 @@
 }
 
 989 = {
-	name = philip
+	name = "philip"
 	culture = english
 	religion = cathar
 	239.1.1 = {
@@ -14424,7 +14424,7 @@
 }
 
 990 = {
-	name = andrew
+	name = "andrew"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -14437,7 +14437,7 @@
 }
 
 991 = {
-	name = mykola
+	name = "mykola"
 	culture = english
 	religion = cathar
 	227.1.1 = {
@@ -14450,7 +14450,7 @@
 }
 
 992 = {
-	name = matthias
+	name = "matthias"
 	culture = english
 	religion = cathar
 	256.1.1 = {
@@ -14463,7 +14463,7 @@
 }
 
 993 = {
-	name = callum
+	name = "callum"
 	culture = english
 	religion = cathar
 	235.1.1 = {
@@ -14476,7 +14476,7 @@
 }
 
 994 = {
-	name = demetrios
+	name = "demetrios"
 	culture = english
 	religion = cathar
 	248.1.1 = {
@@ -14489,7 +14489,7 @@
 }
 
 995 = {
-	name = jonathan
+	name = "jonathan"
 	culture = english
 	religion = cathar
 	224.1.1 = {
@@ -14502,7 +14502,7 @@
 }
 
 996 = {
-	name = benjamin
+	name = "benjamin"
 	culture = english
 	religion = cathar
 	252.1.1 = {
@@ -14515,7 +14515,7 @@
 }
 
 997 = {
-	name = matthew
+	name = "matthew"
 	culture = english
 	religion = cathar
 	237.1.1 = {
@@ -14528,7 +14528,7 @@
 }
 
 998 = {
-	name = torvald
+	name = "torvald"
 	culture = english
 	religion = cathar
 	220.1.1 = {
@@ -14541,7 +14541,7 @@
 }
 
 999 = {
-	name = diego
+	name = "diego"
 	culture = english
 	religion = cathar
 	254.1.1 = {
@@ -14554,7 +14554,7 @@
 }
 
 1000 = {
-	name = fionn
+	name = "fionn"
 	culture = english
 	religion = cathar
 	231.1.1 = {
@@ -14567,7 +14567,7 @@
 }
 
 1001 = {
-	name = miguel
+	name = "miguel"
 	culture = english
 	religion = cathar
 	245.1.1 = {
@@ -14580,7 +14580,7 @@
 }
 
 1002 = {
-	name = stephanos
+	name = "stephanos"
 	culture = english
 	religion = cathar
 	238.1.1 = {
@@ -14593,7 +14593,7 @@
 }
 
 1003 = {
-	name = kyros
+	name = "kyros"
 	culture = english
 	religion = cathar
 	226.1.1 = {
@@ -14606,7 +14606,7 @@
 }
 
 1004 = {
-	name = harold
+	name = "harold"
 	culture = english
 	religion = cathar
 	249.1.1 = {
@@ -14619,7 +14619,7 @@
 }
 
 1005 = {
-	name = victor
+	name = "victor"
 	culture = english
 	religion = cathar
 	233.1.1 = {
@@ -14632,7 +14632,7 @@
 }
 
 1006 = {
-	name = leonard
+	name = "leonard"
 	culture = english
 	religion = cathar
 	257.1.1 = {
@@ -14645,7 +14645,7 @@
 }
 
 1007 = {
-	name = stefan
+	name = "stefan"
 	culture = english
 	religion = cathar
 	240.1.1 = {
@@ -14658,7 +14658,7 @@
 }
 
 1008 = {
-	name = mamadou
+	name = "mamadou"
 	culture = english
 	religion = cathar
 	222.1.1 = {
@@ -14671,7 +14671,7 @@
 }
 
 1009 = {
-	name = issa
+	name = "issa"
 	culture = english
 	religion = cathar
 	251.1.1 = {
@@ -14684,7 +14684,7 @@
 }
 
 1010 = {
-	name = brottin
+	name = "brottin"
 	culture = english
 	religion = cathar
 	229.1.1 = {
@@ -14697,7 +14697,7 @@
 }
 
 1011 = {
-	name = simon
+	name = "simon"
 	culture = english
 	religion = cathar
 	246.1.1 = {
@@ -14710,7 +14710,7 @@
 }
 
 1012 = {
-	name = mareda
+	name = "mareda"
 	culture = english
 	religion = cathar
 	235.1.1 = {
@@ -14723,7 +14723,7 @@
 }
 
 1013 = {
-	name = youssef
+	name = "youssef"
 	culture = english
 	religion = cathar
 	258.1.1 = {
@@ -14736,7 +14736,7 @@
 }
 
 1014 = {
-	name = hassan
+	name = "hassan"
 	culture = english
 	religion = cathar
 	241.1.1 = {
@@ -14749,7 +14749,7 @@
 }
 
 1015 = {
-	name = elias
+	name = "elias"
 	culture = english
 	religion = cathar
 	230.1.1 = {
@@ -14762,7 +14762,7 @@
 }
 
 1016 = {
-	name = thomas
+	name = "thomas"
 	culture = english
 	religion = cathar
 	252.1.1 = {
@@ -14775,7 +14775,7 @@
 }
 
 1017 = {
-	name = sylvaren
+	name = "sylvaren"
 	culture = english
 	religion = cathar
 	244.1.1 = {
@@ -14788,7 +14788,7 @@
 }
 
 1018 = {
-	name = jan
+	name = "jan"
 	culture = english
 	religion = cathar
 	260.1.1 = {
@@ -14801,7 +14801,7 @@
 }
 
 1019 = {
-	name = anna
+	name = "anna"
 	culture = english
 	religion = cathar
 	female = yes
@@ -14815,7 +14815,7 @@
 }
 
 1020 = {
-	name = pieter
+	name = "pieter"
 	culture = english
 	religion = cathar
 	264.1.1 = {
@@ -14828,7 +14828,7 @@
 }
 
 1021 = {
-	name = hendrik
+	name = "hendrik"
 	culture = english
 	religion = cathar
 	266.1.1 = {
@@ -14841,7 +14841,7 @@
 }
 
 1022 = {
-	name = katrijn
+	name = "katrijn"
 	culture = english
 	religion = cathar
 	female = yes
@@ -14855,7 +14855,7 @@
 }
 
 1023 = {
-	name = erik
+	name = "erik"
 	culture = english
 	religion = cathar
 	270.1.1 = {
@@ -14868,7 +14868,7 @@
 }
 
 1024 = {
-	name = leif
+	name = "leif"
 	culture = english
 	religion = cathar
 	272.1.1 = {
@@ -14881,7 +14881,7 @@
 }
 
 1025 = {
-	name = harald
+	name = "harald"
 	culture = english
 	religion = cathar
 	274.1.1 = {
@@ -14894,7 +14894,7 @@
 }
 
 1026 = {
-	name = ingrid
+	name = "ingrid"
 	culture = english
 	religion = cathar
 	female = yes
@@ -14908,7 +14908,7 @@
 }
 
 1027 = {
-	name = sigrid
+	name = "sigrid"
 	culture = english
 	religion = cathar
 	female = yes
