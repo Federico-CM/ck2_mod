@@ -12,6 +12,7 @@ GOD_THEOMAR;Theomar;;;;;;;;;;;;;x
 GOD_NESS;Ness;;;;;;;;;;;;;x
 GOD_BELIALUS;Belialus;;;;;;;;;;;;;x
 GOD_GRACE;Grace;;;;;;;;;;;;;x
+GOD_NOLVEN;Nolven;;;;;;;;;;;;;x
 GOD_ALLEST;Allest;;;;;;;;;;;;;x
 GOD_CAAN;Caan;;;;;;;;;;;;;x
 GOD_ELIA;Elia;;;;;;;;;;;;;x
@@ -29,7 +30,7 @@ estelley_adj;Estelley;;;;;;;;;;;;;x
 estel_group;Estelley;;;;;;;;;;;;;x
 ORDVAAN;Ordvaan;;;;;;;;;;;;;x
 THE_WALKING_TALES;The Walking Tales;;;;;;;;;;;;;x
-GOD_ESTEL;Estel;;;;;;;;;;;;;x
+ESTEL;Estel;;;;;;;;;;;;;x
 GOD_TALEA;Talea;;;;;;;;;;;;;x
 GOD_CEMAAN;Cemaan;;;;;;;;;;;;;x
 GOD_SAPPHORA;Sapphora;;;;;;;;;;;;;x
@@ -74,7 +75,7 @@ fornoss;Fornoss;;;;;;;;;;;;;x
 fornoss_adj;Fornoss;;;;;;;;;;;;;x
 fornoss_group;Fornoss;;;;;;;;;;;;;x
 THE_OLD_LEGENDS;The Old Legends;;;;;;;;;;;;;x
-GOD_THE_OLD_GODS;The Unified Pantheon;;;;;;;;;;;;;x
+GOD_OLD_GODS;The Unified Pantheon;;;;;;;;;;;;;x
 GOD_BARD;Bard;;;;;;;;;;;;;x
 GOD_TADHG;Tadhg;;;;;;;;;;;;;x
 GOD_NORN;Norn;;;;;;;;;;;;;x
