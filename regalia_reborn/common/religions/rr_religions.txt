@@ -23,7 +23,7 @@ unionism_group = {
 		graphical_culture = westerngfx
 		icon = 1
 
-		color = { 242 0 25 }
+		color = { 0.8 0.8 0.6 }
 
 		crusade_name = CRUSADE
 		scripture_name = THE_CREED
