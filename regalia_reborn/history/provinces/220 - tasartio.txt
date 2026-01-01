@@ -1,6 +1,6 @@
 title = c_tasartio
 max_settlements = 2
 culture = allar
-religion = cathar
+religion = unionism
 b_tasartio = tribal
 b_tasartio2 = temple

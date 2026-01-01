@@ -1,6 +1,6 @@
 title = c_sobradol
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_sobradol = tribal
 b_sobradol2 = temple

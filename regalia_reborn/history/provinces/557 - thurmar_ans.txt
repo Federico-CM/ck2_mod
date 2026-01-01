@@ -1,6 +1,6 @@
 title = c_thurmar_ans
 max_settlements = 2
 culture = aontaithe
-religion = cathar
+religion = fornoss
 b_thurmar_ans = tribal
 b_thurmar_ans2 = temple

@@ -1,6 +1,6 @@
 title = c_elfenbos
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = draconism
 b_elfenbos = tribal
 b_elfenbos2 = temple

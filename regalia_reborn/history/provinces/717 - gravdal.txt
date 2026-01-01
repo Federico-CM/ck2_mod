@@ -1,6 +1,6 @@
 title = c_gravdal
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_gravdal = tribal
 b_gravdal2 = temple

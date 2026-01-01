@@ -1,6 +1,6 @@
 title = c_sameret
 max_settlements = 2
 culture = asha
-religion = cathar
+religion = khama
 b_sameret = tribal
 b_sameret2 = temple

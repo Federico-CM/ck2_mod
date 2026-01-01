@@ -1,6 +1,6 @@
 title = c_noordrije
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_noordrije = tribal
 b_noordrije2 = temple

@@ -1,6 +1,6 @@
 title = c_essen
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_essen = tribal
 b_essen2 = temple

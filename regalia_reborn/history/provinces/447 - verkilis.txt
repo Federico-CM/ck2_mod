@@ -1,6 +1,6 @@
 title = c_verkilis
 max_settlements = 2
 culture = etosian
-religion = cathar
+religion = evintarian
 b_verkilis = tribal
 b_verkilis2 = temple

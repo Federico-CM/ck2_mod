@@ -1,6 +1,6 @@
 title = c_twyntyr
 max_settlements = 2
 culture = breizh
-religion = cathar
+religion = unionism
 b_twyntyr = tribal
 b_twyntyr2 = temple

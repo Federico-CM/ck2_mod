@@ -1,6 +1,6 @@
 title = c_nienburg
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_nienburg = tribal
 b_nienburg2 = temple

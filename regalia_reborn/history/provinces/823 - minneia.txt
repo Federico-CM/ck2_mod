@@ -1,6 +1,6 @@
 title = c_minneia
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = estelley
 b_minneia = tribal
 b_minneia2 = temple

@@ -1,6 +1,6 @@
 title = c_severinburg
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_severinburg = tribal
 b_severinburg2 = temple

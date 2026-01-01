@@ -1,6 +1,6 @@
 title = c_maz_zyaka
 max_settlements = 2
 culture = szabadok
-religion = cathar
+religion = unionism
 b_maz_zyaka = tribal
 b_maz_zyaka2 = temple

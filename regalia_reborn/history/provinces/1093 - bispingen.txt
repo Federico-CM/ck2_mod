@@ -1,6 +1,6 @@
 title = c_bispingen
 max_settlements = 2
 culture = hoglander
-religion = cathar
+religion = unionism
 b_bispingen = tribal
 b_bispingen2 = temple

@@ -1,6 +1,6 @@
 title = c_ais_surgenne
 max_settlements = 2
 culture = ithanian
-religion = cathar
+religion = unionism
 b_ais_surgenne = tribal
 b_ais_surgenne2 = temple

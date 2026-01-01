@@ -1,6 +1,6 @@
 title = c_nykesund
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_nykesund = tribal
 b_nykesund2 = temple

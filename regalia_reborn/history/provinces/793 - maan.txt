@@ -1,6 +1,6 @@
 title = c_maan
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = estelley
 b_maan = tribal
 b_maan2 = temple

@@ -1,6 +1,6 @@
 title = c_grotklooster
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_grotklooster = tribal
 b_grotklooster2 = temple

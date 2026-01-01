@@ -1,6 +1,6 @@
 title = c_salen
 max_settlements = 2
 culture = gallovian
-religion = cathar
+religion = fornoss
 b_salen = tribal
 b_salen2 = temple

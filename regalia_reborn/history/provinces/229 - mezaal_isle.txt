@@ -1,6 +1,6 @@
 title = c_mezaal_isle
 max_settlements = 2
 culture = asha
-religion = cathar
+religion = khama
 b_mezaal_isle = tribal
 b_mezaal_isle2 = temple

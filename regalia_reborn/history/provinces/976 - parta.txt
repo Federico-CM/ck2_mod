@@ -1,6 +1,6 @@
 title = c_parta
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_parta = tribal
 b_parta2 = temple

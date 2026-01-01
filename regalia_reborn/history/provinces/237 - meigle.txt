@@ -1,6 +1,6 @@
 title = c_meigle
 max_settlements = 2
 culture = gallovian
-religion = cathar
+religion = fornoss
 b_meigle = tribal
 b_meigle2 = temple

@@ -1,6 +1,6 @@
 title = c_callari
 max_settlements = 2
 culture = azzizzari
-religion = cathar
+religion = unionism
 b_callari = tribal
 b_callari2 = temple

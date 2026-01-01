@@ -1,6 +1,6 @@
 title = c_allat
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = estelley
 b_allat = tribal
 b_allat2 = temple

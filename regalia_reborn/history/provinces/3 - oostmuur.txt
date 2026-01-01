@@ -1,6 +1,6 @@
 title = c_oostmuur
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_oostmuur = tribal
 b_oostmuur2 = temple

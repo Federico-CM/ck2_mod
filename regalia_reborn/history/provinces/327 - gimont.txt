@@ -1,6 +1,6 @@
 title = c_gimont
 max_settlements = 2
 culture = ithanian
-religion = cathar
+religion = unionism
 b_gimont = tribal
 b_gimont2 = temple

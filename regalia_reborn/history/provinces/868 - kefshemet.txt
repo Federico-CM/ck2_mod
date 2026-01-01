@@ -1,6 +1,6 @@
 title = c_kefshemet
 max_settlements = 2
 culture = asha
-religion = cathar
+religion = khama
 b_kefshemet = tribal
 b_kefshemet2 = temple

@@ -1,6 +1,6 @@
 title = c_chambery
 max_settlements = 2
 culture = ithanian
-religion = cathar
+religion = unionism
 b_chambery = tribal
 b_chambery2 = temple

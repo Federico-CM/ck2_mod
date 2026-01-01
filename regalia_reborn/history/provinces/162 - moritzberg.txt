@@ -1,6 +1,6 @@
 title = c_moritzberg
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_moritzberg = tribal
 b_moritzberg2 = temple

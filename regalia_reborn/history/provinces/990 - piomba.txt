@@ -1,6 +1,6 @@
 title = c_piomba
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_piomba = tribal
 b_piomba2 = temple

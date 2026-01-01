@@ -1,6 +1,6 @@
 title = c_sastorvik
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_sastorvik = tribal
 b_sastorvik2 = temple

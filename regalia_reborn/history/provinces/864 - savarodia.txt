@@ -1,6 +1,6 @@
 title = c_savarodia
 max_settlements = 2
 culture = selvath
-religion = cathar
+religion = estelley
 b_savarodia = tribal
 b_savarodia2 = temple

@@ -1,6 +1,6 @@
 title = c_vierenpoort
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_vierenpoort = tribal
 b_vierenpoort2 = temple

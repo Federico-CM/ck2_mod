@@ -1,6 +1,6 @@
 title = c_egbertswaarden
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_egbertswaarden = tribal
 b_egbertswaarden2 = temple

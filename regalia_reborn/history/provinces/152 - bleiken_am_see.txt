@@ -1,6 +1,6 @@
 title = c_bleiken_am_see
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_bleiken_am_see = tribal
 b_bleiken_am_see2 = temple

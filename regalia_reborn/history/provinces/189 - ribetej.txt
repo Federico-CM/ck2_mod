@@ -1,6 +1,6 @@
 title = c_ribetej
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_ribetej = tribal
 b_ribetej2 = temple

@@ -1,6 +1,6 @@
 title = c_solmer
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = draconism
 b_solmer = tribal
 b_solmer2 = temple

@@ -1,6 +1,6 @@
 title = c_overbos
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_overbos = tribal
 b_overbos2 = temple

@@ -1,6 +1,6 @@
 title = c_pachnor
 max_settlements = 2
 culture = dunbrae
-religion = cathar
+religion = unionism
 b_pachnor = tribal
 b_pachnor2 = temple

@@ -1,6 +1,6 @@
 title = c_savolakan
 max_settlements = 2
 culture = tarkin
-religion = cathar
+religion = fornoss
 b_savolakan = tribal
 b_savolakan2 = temple

@@ -1,6 +1,6 @@
 title = c_narran_isles
 max_settlements = 2
-culture = dragonkin
-religion = cathar
+culture = draconismkin
+religion = draconism
 b_narran_isles = tribal
 b_narran_isles2 = temple

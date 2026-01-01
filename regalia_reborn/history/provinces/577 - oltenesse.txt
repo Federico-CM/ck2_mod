@@ -1,6 +1,6 @@
 title = c_oltenesse
 max_settlements = 2
 culture = llasada
-religion = cathar
+religion = estelley
 b_oltenesse = tribal
 b_oltenesse2 = temple

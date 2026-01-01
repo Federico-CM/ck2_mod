@@ -1,6 +1,6 @@
 title = c_vierheere
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_vierheere = tribal
 b_vierheere2 = temple

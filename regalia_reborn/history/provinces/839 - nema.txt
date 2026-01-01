@@ -1,6 +1,6 @@
 title = c_nema
 max_settlements = 2
 culture = etosian
-religion = cathar
+religion = draconism
 b_nema = tribal
 b_nema2 = temple

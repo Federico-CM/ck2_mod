@@ -1,6 +1,6 @@
 title = c_heerepolder
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_heerepolder = tribal
 b_heerepolder2 = temple

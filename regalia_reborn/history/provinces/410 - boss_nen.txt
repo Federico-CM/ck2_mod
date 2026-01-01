@@ -1,6 +1,6 @@
 title = c_boss_nen
 max_settlements = 2
 culture = dvala
-religion = cathar
+religion = evintarian
 b_boss_nen = tribal
 b_boss_nen2 = temple

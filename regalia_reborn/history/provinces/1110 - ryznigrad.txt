@@ -1,6 +1,6 @@
 title = c_ryznigrad
 max_settlements = 2
 culture = krainivaya
-religion = cathar
+religion = fornoss
 b_ryznigrad = tribal
 b_ryznigrad2 = temple

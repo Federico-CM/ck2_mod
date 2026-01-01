@@ -1,6 +1,6 @@
 title = c_kotheim
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_kotheim = tribal
 b_kotheim2 = temple

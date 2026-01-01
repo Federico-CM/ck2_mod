@@ -1,6 +1,6 @@
 title = c_sallfarm
 max_settlements = 2
 culture = dunbrae
-religion = cathar
+religion = unionism
 b_sallfarm = tribal
 b_sallfarm2 = temple

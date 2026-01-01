@@ -1,6 +1,6 @@
 title = c_ozurgheti
 max_settlements = 2
 culture = krainivaya
-religion = cathar
+religion = evintarian
 b_ozurgheti = tribal
 b_ozurgheti2 = temple

@@ -1,6 +1,6 @@
 title = c_strathynhide
 max_settlements = 2
 culture = gallovian
-religion = cathar
+religion = fornoss
 b_strathynhide = tribal
 b_strathynhide2 = temple

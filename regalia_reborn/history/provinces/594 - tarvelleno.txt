@@ -1,6 +1,6 @@
 title = c_tarvelleno
 max_settlements = 2
 culture = finul
-religion = cathar
+religion = estelley
 b_tarvelleno = tribal
 b_tarvelleno2 = temple

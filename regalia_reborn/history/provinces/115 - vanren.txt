@@ -1,6 +1,6 @@
 title = c_vanren
 max_settlements = 2
 culture = leutz_vixe
-religion = cathar
+religion = unionism
 b_vanren = tribal
 b_vanren2 = temple

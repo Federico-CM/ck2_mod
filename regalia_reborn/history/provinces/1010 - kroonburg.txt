@@ -1,6 +1,6 @@
 title = c_kroonburg
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_kroonburg = tribal
 b_kroonburg2 = temple

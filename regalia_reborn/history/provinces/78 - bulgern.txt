@@ -1,6 +1,6 @@
 title = c_bulgern
 max_settlements = 2
 culture = genevaud
-religion = cathar
+religion = unionism
 b_bulgern = tribal
 b_bulgern2 = temple

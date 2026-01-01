@@ -1,6 +1,6 @@
 title = c_radicofani
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_radicofani = tribal
 b_radicofani2 = temple

@@ -1,6 +1,6 @@
 title = c_olvoor_moor
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = unionism
 b_olvoor_moor = tribal
 b_olvoor_moor2 = temple

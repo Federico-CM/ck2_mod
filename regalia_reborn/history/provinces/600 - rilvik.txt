@@ -1,6 +1,6 @@
 title = c_rilvik
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_rilvik = tribal
 b_rilvik2 = temple

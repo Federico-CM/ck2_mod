@@ -1,6 +1,6 @@
 title = c_ferrol
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_ferrol = tribal
 b_ferrol2 = temple

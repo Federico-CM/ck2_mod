@@ -1,6 +1,6 @@
 title = c_hollifarland
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_hollifarland = tribal
 b_hollifarland2 = temple

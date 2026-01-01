@@ -1,6 +1,6 @@
 title = c_belfort
 max_settlements = 2
 culture = leutz_vixe
-religion = cathar
+religion = unionism
 b_belfort = tribal
 b_belfort2 = temple

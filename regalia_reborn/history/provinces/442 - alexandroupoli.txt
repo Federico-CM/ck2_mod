@@ -1,6 +1,6 @@
 title = c_alexandroupoli
 max_settlements = 2
 culture = etosian
-religion = cathar
+religion = evintarian
 b_alexandroupoli = tribal
 b_alexandroupoli2 = temple

@@ -1,6 +1,6 @@
 title = c_muntcopse
 max_settlements = 2
 culture = gallovian
-religion = cathar
+religion = unionism
 b_muntcopse = tribal
 b_muntcopse2 = temple

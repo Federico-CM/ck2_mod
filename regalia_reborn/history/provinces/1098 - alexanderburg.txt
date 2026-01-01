@@ -1,6 +1,6 @@
 title = c_alexanderburg
 max_settlements = 2
 culture = wruclav
-religion = cathar
+religion = unionism
 b_alexanderburg = tribal
 b_alexanderburg2 = temple

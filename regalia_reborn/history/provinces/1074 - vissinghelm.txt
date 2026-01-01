@@ -1,6 +1,6 @@
 title = c_vissinghelm
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_vissinghelm = tribal
 b_vissinghelm2 = temple

@@ -1,6 +1,6 @@
 title = c_nordeme
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = draconism
 b_nordeme = tribal
 b_nordeme2 = temple

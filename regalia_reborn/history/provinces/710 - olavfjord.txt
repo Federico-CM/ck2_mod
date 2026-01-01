@@ -1,6 +1,6 @@
 title = c_olavfjord
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_olavfjord = tribal
 b_olavfjord2 = temple

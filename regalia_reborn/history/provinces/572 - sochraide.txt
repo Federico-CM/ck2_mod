@@ -1,6 +1,6 @@
 title = c_sochraide
 max_settlements = 2
 culture = aontaithe
-religion = cathar
+religion = fornoss
 b_sochraide = tribal
 b_sochraide2 = temple

@@ -1,6 +1,6 @@
 title = c_eerste_hoogweg
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_eerste_hoogweg = tribal
 b_eerste_hoogweg2 = temple

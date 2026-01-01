@@ -1,6 +1,6 @@
 title = c_plasencia
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_plasencia = tribal
 b_plasencia2 = temple

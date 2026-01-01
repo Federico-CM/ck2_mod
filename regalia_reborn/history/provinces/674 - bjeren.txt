@@ -1,6 +1,6 @@
 title = c_bjeren
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_bjeren = tribal
 b_bjeren2 = temple

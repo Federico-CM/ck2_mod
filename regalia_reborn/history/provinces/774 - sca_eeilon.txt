@@ -1,6 +1,6 @@
 title = c_sca_eeilon
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = estelley
 b_sca_eeilon = tribal
 b_sca_eeilon2 = temple

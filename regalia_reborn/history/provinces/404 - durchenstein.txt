@@ -1,6 +1,6 @@
 title = c_durchenstein
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_durchenstein = tribal
 b_durchenstein2 = temple

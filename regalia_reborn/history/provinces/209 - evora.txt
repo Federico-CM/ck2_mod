@@ -1,6 +1,6 @@
 title = c_evora
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_evora = tribal
 b_evora2 = temple

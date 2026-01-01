@@ -1,6 +1,6 @@
 title = c_peremhu
 max_settlements = 2
 culture = asha
-religion = cathar
+religion = khama
 b_peremhu = tribal
 b_peremhu2 = temple

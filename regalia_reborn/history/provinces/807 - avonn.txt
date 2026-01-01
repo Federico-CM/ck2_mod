@@ -1,6 +1,6 @@
 title = c_avonn
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = estelley
 b_avonn = tribal
 b_avonn2 = temple

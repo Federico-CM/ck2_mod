@@ -1,6 +1,6 @@
 title = c_essire
 max_settlements = 2
 culture = leutz_vixe
-religion = cathar
+religion = unionism
 b_essire = tribal
 b_essire2 = temple

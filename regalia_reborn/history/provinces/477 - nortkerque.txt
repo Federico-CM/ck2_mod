@@ -1,6 +1,6 @@
 title = c_nortkerque
 max_settlements = 2
 culture = burdigala
-religion = cathar
+religion = unionism
 b_nortkerque = tribal
 b_nortkerque2 = temple

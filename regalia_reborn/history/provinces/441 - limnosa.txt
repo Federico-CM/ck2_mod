@@ -1,6 +1,6 @@
 title = c_limnosa
 max_settlements = 2
 culture = etosian
-religion = cathar
+religion = evintarian
 b_limnosa = tribal
 b_limnosa2 = temple

@@ -1,6 +1,6 @@
 title = c_hestlund
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_hestlund = tribal
 b_hestlund2 = temple

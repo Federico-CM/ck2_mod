@@ -1,6 +1,6 @@
 title = c_maid_crno
 max_settlements = 2
 culture = byala
-religion = cathar
+religion = evintarian
 b_maid_crno = tribal
 b_maid_crno2 = temple

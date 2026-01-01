@@ -1,6 +1,6 @@
 title = c_holgerne
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_holgerne = tribal
 b_holgerne2 = temple

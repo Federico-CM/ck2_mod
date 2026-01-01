@@ -1,6 +1,6 @@
 title = c_alhandra
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_alhandra = tribal
 b_alhandra2 = temple

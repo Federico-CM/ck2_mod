@@ -1,6 +1,6 @@
 title = c_tonavera
 max_settlements = 2
 culture = selvath
-religion = cathar
+religion = estelley
 b_tonavera = tribal
 b_tonavera2 = temple

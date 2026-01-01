@@ -1,6 +1,6 @@
 title = c_kjerulf
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_kjerulf = tribal
 b_kjerulf2 = temple

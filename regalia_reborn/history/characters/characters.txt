@@ -1,7 +1,7 @@
 1 = {
 	name = "Alexander"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	257.1.1 = {
 		birth = 257.1.1
 	}
@@ -16,7 +16,7 @@
 2 = {
 	name = "Svanhild"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	206.1.1 = {
 		birth = 206.1.1
@@ -30,7 +30,7 @@
 3 = {
 	name = "Adalradr"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	196.1.1 = {
 		birth = 196.1.1
 	}
@@ -43,7 +43,7 @@
 4 = {
 	name = "Leona"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	268.1.1 = {
 		birth = 268.1.1
@@ -59,7 +59,7 @@
 5 = {
 	name = "Inga"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	243.1.1 = {
 		birth = 243.1.1
@@ -73,7 +73,7 @@
 6 = {
 	name = "Aron"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	264.1.1 = {
 		birth = 264.1.1
 	}
@@ -88,7 +88,7 @@
 7 = {
 	name = "Enok"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	262.1.1 = {
 		birth = 262.1.1
 	}
@@ -103,7 +103,7 @@
 8 = {
 	name = "Arnbjorg"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	284.1.1 = {
 		birth = 284.1.1
@@ -119,7 +119,7 @@
 9 = {
 	name = "Ani"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	263.1.1 = {
 		birth = 263.1.1
@@ -135,7 +135,7 @@
 10 = {
 	name = "Katrin"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	282.1.1 = {
 		birth = 282.1.1
@@ -151,7 +151,7 @@
 11 = {
 	name = "Vulmar"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	283.1.1 = {
 		birth = 283.1.1
 	}
@@ -166,7 +166,7 @@
 12 = {
 	name = "Medard"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	268.1.1 = {
 		birth = 268.1.1
 	}
@@ -181,7 +181,7 @@
 13 = {
 	name = "Konstanze"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	249.1.1 = {
 		birth = 249.1.1
@@ -196,7 +196,7 @@
 14 = {
 	name = "Rolf"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	240.1.1 = {
 		birth = 240.1.1
 	}
@@ -209,7 +209,7 @@
 15 = {
 	name = "Rued"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	209.1.1 = {
 		birth = 209.1.1
 	}
@@ -222,7 +222,7 @@
 16 = {
 	name = "Erwald"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	279.1.1 = {
 		birth = 279.1.1
 	}
@@ -237,7 +237,7 @@
 17 = {
 	name = "Vicelin"
 	culture = leutz_vixe
-	religion = cathar
+	religion = unionism
 	290.1.1 = {
 		birth = 290.1.1
 	}
@@ -251,7 +251,7 @@
 18 = {
 	name = "Fury"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	240.1.1 = {
 		birth = 240.1.1
 	}
@@ -264,7 +264,7 @@
 19 = {
 	name = "Riccard"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	261.1.1 = {
 		birth = 261.1.1
 	}
@@ -278,7 +278,7 @@
 20 = {
 	name = "Alette"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	235.1.1 = {
 		birth = 235.1.1
@@ -293,7 +293,7 @@
 21 = {
 	name = "Viktor"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	288.1.1 = {
 		birth = 288.1.1
 	}
@@ -308,7 +308,7 @@
 22 = {
 	name = "Charlotte"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	260.1.1 = {
 		birth = 260.1.1
@@ -322,7 +322,7 @@
 23 = {
 	name = "Anton"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	266.1.1 = {
 		birth = 266.1.1
 	}
@@ -337,7 +337,7 @@
 24 = {
 	name = "Sybille"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	249.1.1 = {
 		birth = 249.1.1
@@ -352,7 +352,7 @@
 25 = {
 	name = "Karel"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	239.1.1 = {
 		birth = 239.1.1
 	}
@@ -366,7 +366,7 @@
 26 = {
 	name = "Riccard"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	292.1.1 = {
 		birth = 292.1.1
 	}
@@ -381,7 +381,7 @@
 27 = {
 	name = "Auddriana"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
@@ -395,7 +395,7 @@
 28 = {
 	name = "Helena"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	294.1.1 = {
 		birth = 294.1.1
@@ -411,7 +411,7 @@
 29 = {
 	name = "Parzival"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
 	}
@@ -426,7 +426,7 @@
 30 = {
 	name = "Xavier"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	283.1.1 = {
 		birth = 283.1.1
 	}
@@ -441,7 +441,7 @@
 31 = {
 	name = "Adelaide"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	263.1.1 = {
 		birth = 263.1.1
@@ -455,7 +455,7 @@
 32 = {
 	name = "Cecile"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	282.1.1 = {
 		birth = 282.1.1
@@ -471,7 +471,7 @@
 33 = {
 	name = "Jean Luc"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	297.1.1 = {
 		birth = 297.1.1
 	}
@@ -486,7 +486,7 @@
 34 = {
 	name = "Eleonore"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	289.1.1 = {
 		birth = 289.1.1
@@ -502,7 +502,7 @@
 35 = {
 	name = "Riccard"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	286.1.1 = {
 		birth = 286.1.1
 	}
@@ -517,7 +517,7 @@
 36 = {
 	name = "Regine"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	259.1.1 = {
 		birth = 259.1.1
@@ -531,7 +531,7 @@
 37 = {
 	name = "Aldrich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	132.1.1 = {
 		birth = 132.1.1
 	}
@@ -544,7 +544,7 @@
 38 = {
 	name = "Niven"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	162.1.1 = {
 		birth = 162.1.1
 	}
@@ -558,7 +558,7 @@
 39 = {
 	name = "Helene Marie"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	164.1.1 = {
 		birth = 164.1.1
@@ -573,7 +573,7 @@
 40 = {
 	name = "Gerhard"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	185.1.1 = {
 		birth = 185.1.1
 	}
@@ -588,7 +588,7 @@
 41 = {
 	name = "Ottokar"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	191.1.1 = {
 		birth = 191.1.1
 	}
@@ -603,7 +603,7 @@
 42 = {
 	name = "Laurenz"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	224.1.1 = {
 		birth = 224.1.1
 	}
@@ -617,7 +617,7 @@
 43 = {
 	name = "Hadrian"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	206.1.1 = {
 		birth = 206.1.1
 	}
@@ -631,7 +631,7 @@
 44 = {
 	name = "Theodon"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	243.1.1 = {
 		birth = 243.1.1
 	}
@@ -645,7 +645,7 @@
 45 = {
 	name = "Albrecht"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	263.1.1 = {
 		birth = 263.1.1
 	}
@@ -659,7 +659,7 @@
 46 = {
 	name = "Rudolph"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	260.1.1 = {
 		birth = 260.1.1
 	}
@@ -673,7 +673,7 @@
 47 = {
 	name = "Maximillian"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	261.1.1 = {
 		birth = 261.1.1
 	}
@@ -687,7 +687,7 @@
 48 = {
 	name = "Ulrich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	251.1.1 = {
 		birth = 251.1.1
 	}
@@ -702,7 +702,7 @@
 49 = {
 	name = "Klaus"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	287.1.1 = {
 		birth = 287.1.1
 	}
@@ -717,7 +717,7 @@
 50 = {
 	name = "Reynold"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	279.1.1 = {
 		birth = 279.1.1
 	}
@@ -732,7 +732,7 @@
 51 = {
 	name = "Lydia"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	286.1.1 = {
 		birth = 286.1.1
@@ -748,7 +748,7 @@
 52 = {
 	name = "Thoron"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	254.1.1 = {
 		birth = 254.1.1
 	}
@@ -763,7 +763,7 @@
 53 = {
 	name = "Reinhardt"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	278.1.1 = {
 		birth = 278.1.1
 	}
@@ -777,7 +777,7 @@
 54 = {
 	name = "Cecillie"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
@@ -792,7 +792,7 @@
 55 = {
 	name = "Roland"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	296.1.1 = {
 		birth = 296.1.1
 	}
@@ -806,7 +806,7 @@
 56 = {
 	name = "Aolderich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	273.1.1 = {
 		birth = 273.1.1
 	}
@@ -820,7 +820,7 @@
 57 = {
 	name = "Elrik"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	279.1.1 = {
 		birth = 279.1.1
 	}
@@ -834,7 +834,7 @@
 58 = {
 	name = "Jaekor"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	274.1.1 = {
 		birth = 274.1.1
 	}
@@ -848,7 +848,7 @@
 59 = {
 	name = "Riane"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	276.1.1 = {
 		birth = 276.1.1
@@ -863,7 +863,7 @@
 60 = {
 	name = "Reimar"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	295.1.1 = {
 		birth = 295.1.1
 	}
@@ -877,7 +877,7 @@
 61 = {
 	name = "Josephine"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	284.1.1 = {
 		birth = 284.1.1
@@ -893,7 +893,7 @@
 62 = {
 	name = "Rianne"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	20.1.1 = {
 		birth = 20.1.1
@@ -908,7 +908,7 @@
 63 = {
 	name = "Caldomir"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	6.1.1 = {
 		birth = 6.1.1
 	}
@@ -921,7 +921,7 @@
 64 = {
 	name = "Aldomir"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	22.1.1 = {
 		birth = 22.1.1
 	}
@@ -935,7 +935,7 @@
 65 = {
 	name = "Eotranna"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	23.1.1 = {
 		birth = 23.1.1
@@ -950,7 +950,7 @@
 66 = {
 	name = "Tedromar"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	24.1.1 = {
 		birth = 24.1.1
 	}
@@ -964,7 +964,7 @@
 67 = {
 	name = "Dwalmar"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	26.1.1 = {
 		birth = 26.1.1
 	}
@@ -978,7 +978,7 @@
 68 = {
 	name = "Arnold"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	28.1.1 = {
 		birth = 28.1.1
 	}
@@ -992,7 +992,7 @@
 70 = {
 	name = "Kattemeis"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	18.1.1 = {
 		birth = 18.1.1
@@ -1006,7 +1006,7 @@
 69 = {
 	name = "Betheoric"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	38.1.1 = {
 		birth = 38.1.1
 	}
@@ -1021,7 +1021,7 @@
 71 = {
 	name = "Betheoric"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	54.1.1 = {
 		birth = 54.1.1
 	}
@@ -1036,7 +1036,7 @@
 72 = {
 	name = "Maenarra"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	51.1.1 = {
 		birth = 51.1.1
@@ -1050,7 +1050,7 @@
 73 = {
 	name = "Ellenore"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	71.1.1 = {
 		birth = 71.1.1
@@ -1066,7 +1066,7 @@
 74 = {
 	name = "Tarnan"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	93.1.1 = {
 		birth = 93.1.1
 	}
@@ -1080,7 +1080,7 @@
 75 = {
 	name = "Sarvan"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	94.1.1 = {
 		birth = 94.1.1
 	}
@@ -1094,7 +1094,7 @@
 76 = {
 	name = "Beatrix"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	80.1.1 = {
 		birth = 80.1.1
@@ -1110,7 +1110,7 @@
 77 = {
 	name = "Arnold"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	79.1.1 = {
 		birth = 79.1.1
 	}
@@ -1123,7 +1123,7 @@
 78 = {
 	name = "Nikolaas (nicholas)"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	103.1.1 = {
 		birth = 103.1.1
 	}
@@ -1138,7 +1138,7 @@
 79 = {
 	name = "Kassandra"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	107.1.1 = {
 		birth = 107.1.1
@@ -1154,7 +1154,7 @@
 80 = {
 	name = "Melissa"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	110.1.1 = {
 		birth = 110.1.1
@@ -1170,7 +1170,7 @@
 81 = {
 	name = "Elenoor"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	111.1.1 = {
 		birth = 111.1.1
@@ -1186,7 +1186,7 @@
 82 = {
 	name = "Fienne"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	116.1.1 = {
 		birth = 116.1.1
@@ -1202,7 +1202,7 @@
 83 = {
 	name = "Trixa"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	120.1.1 = {
 		birth = 120.1.1
@@ -1218,7 +1218,7 @@
 84 = {
 	name = "Celemora"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	121.1.1 = {
 		birth = 121.1.1
@@ -1234,7 +1234,7 @@
 85 = {
 	name = "Arnold"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	150.1.1 = {
 		birth = 150.1.1
 	}
@@ -1248,7 +1248,7 @@
 86 = {
 	name = "Ingrid"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	155.1.1 = {
 		birth = 155.1.1
@@ -1262,7 +1262,7 @@
 87 = {
 	name = "Erik"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	153.1.1 = {
 		birth = 153.1.1
 	}
@@ -1276,7 +1276,7 @@
 88 = {
 	name = "Karel"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	155.1.1 = {
 		birth = 155.1.1
 	}
@@ -1290,7 +1290,7 @@
 89 = {
 	name = "Theomar"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	159.1.1 = {
 		birth = 159.1.1
 	}
@@ -1304,7 +1304,7 @@
 90 = {
 	name = "Loesinne"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	163.1.1 = {
 		birth = 163.1.1
@@ -1319,7 +1319,7 @@
 91 = {
 	name = "Leona"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	174.1.1 = {
 		birth = 174.1.1
@@ -1335,7 +1335,7 @@
 92 = {
 	name = "Alexander"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	172.1.1 = {
 		birth = 172.1.1
 	}
@@ -1350,7 +1350,7 @@
 93 = {
 	name = "Kedmir"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	173.1.1 = {
 		birth = 173.1.1
 	}
@@ -1365,7 +1365,7 @@
 94 = {
 	name = "Suzanne"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	170.1.1 = {
 		birth = 170.1.1
@@ -1379,7 +1379,7 @@
 95 = {
 	name = "Dalmer"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	190.1.1 = {
 		birth = 190.1.1
 	}
@@ -1394,7 +1394,7 @@
 96 = {
 	name = "Morgenkroon"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	201.1.1 = {
 		birth = 201.1.1
 	}
@@ -1409,7 +1409,7 @@
 97 = {
 	name = "Normen"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	218.1.1 = {
 		birth = 218.1.1
 	}
@@ -1423,7 +1423,7 @@
 98 = {
 	name = "Morgannan"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	207.1.1 = {
 		birth = 207.1.1
@@ -1437,7 +1437,7 @@
 99 = {
 	name = "Jacilla"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	226.1.1 = {
 		birth = 226.1.1
@@ -1452,7 +1452,7 @@
 100 = {
 	name = "Moorak"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	205.1.1 = {
 		birth = 205.1.1
 	}
@@ -1465,7 +1465,7 @@
 101 = {
 	name = "Bellatrix"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	198.1.1 = {
 		birth = 198.1.1
@@ -1479,7 +1479,7 @@
 102 = {
 	name = "Aliandre"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	219.1.1 = {
 		birth = 219.1.1
 	}
@@ -1493,7 +1493,7 @@
 103 = {
 	name = "Terijin"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	223.1.1 = {
 		birth = 223.1.1
 	}
@@ -1507,7 +1507,7 @@
 104 = {
 	name = "Willem"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	225.1.1 = {
 		birth = 225.1.1
 	}
@@ -1521,7 +1521,7 @@
 105 = {
 	name = "Walmar"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	233.1.1 = {
 		birth = 233.1.1
 	}
@@ -1535,7 +1535,7 @@
 106 = {
 	name = "Moriart"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	234.1.1 = {
 		birth = 234.1.1
 	}
@@ -1550,7 +1550,7 @@
 107 = {
 	name = "Allianne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	241.1.1 = {
 		birth = 241.1.1
@@ -1566,7 +1566,7 @@
 108 = {
 	name = "Marie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	280.1.1 = {
 		birth = 280.1.1
@@ -1580,7 +1580,7 @@
 109 = {
 	name = "Albert Stijn"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	300.1.1 = {
 		birth = 300.1.1
 	}
@@ -1595,7 +1595,7 @@
 110 = {
 	name = "Francis"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	257.1.1 = {
 		birth = 257.1.1
 	}
@@ -1610,7 +1610,7 @@
 111 = {
 	name = "Maximillian"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	236.1.1 = {
 		birth = 236.1.1
 	}
@@ -1625,7 +1625,7 @@
 112 = {
 	name = "Elizabet"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	241.1.1 = {
 		birth = 241.1.1
@@ -1639,7 +1639,7 @@
 113 = {
 	name = "Willem Friso"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	260.1.1 = {
 		birth = 260.1.1
 	}
@@ -1654,7 +1654,7 @@
 114 = {
 	name = "Konstantijn"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	274.1.1 = {
 		birth = 274.1.1
 	}
@@ -1669,7 +1669,7 @@
 115 = {
 	name = "Justiniaan"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	244.1.1 = {
 		birth = 244.1.1
 	}
@@ -1684,7 +1684,7 @@
 116 = {
 	name = "Sheila Manon"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	245.1.1 = {
 		birth = 245.1.1
@@ -1700,7 +1700,7 @@
 117 = {
 	name = "Gloriane"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	247.1.1 = {
 		birth = 247.1.1
@@ -1716,7 +1716,7 @@
 118 = {
 	name = "Beatrix"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	249.1.1 = {
 		birth = 249.1.1
@@ -1732,7 +1732,7 @@
 119 = {
 	name = "Hetrijin"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	231.1.1 = {
 		birth = 231.1.1
 	}
@@ -1745,7 +1745,7 @@
 120 = {
 	name = "Daan"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	278.1.1 = {
 		birth = 278.1.1
 	}
@@ -1760,7 +1760,7 @@
 121 = {
 	name = "Laurent"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	283.1.1 = {
 		birth = 283.1.1
 	}
@@ -1775,7 +1775,7 @@
 122 = {
 	name = "Edwine"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	285.1.1 = {
 		birth = 285.1.1
 	}
@@ -1790,7 +1790,7 @@
 123 = {
 	name = "Esme"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	288.1.1 = {
 		birth = 288.1.1
@@ -1806,7 +1806,7 @@
 124 = {
 	name = "Aliandra"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	250.1.1 = {
 		birth = 250.1.1
@@ -1822,7 +1822,7 @@
 125 = {
 	name = "Anton"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	243.1.1 = {
 		birth = 243.1.1
 	}
@@ -1835,7 +1835,7 @@
 126 = {
 	name = "Remon"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	261.1.1 = {
 		birth = 261.1.1
 	}
@@ -1849,7 +1849,7 @@
 127 = {
 	name = "Desmon"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	268.1.1 = {
 		birth = 268.1.1
 	}
@@ -1863,7 +1863,7 @@
 128 = {
 	name = "Arianne"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	266.1.1 = {
 		birth = 266.1.1
@@ -1878,7 +1878,7 @@
 129 = {
 	name = "Hendrik"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	271.1.1 = {
 		birth = 271.1.1
 	}
@@ -1892,7 +1892,7 @@
 130 = {
 	name = "Roena"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	279.1.1 = {
 		birth = 279.1.1
@@ -1908,7 +1908,7 @@
 131 = {
 	name = "Jozua"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	275.1.1 = {
 		birth = 275.1.1
 	}
@@ -1923,7 +1923,7 @@
 132 = {
 	name = "Goderol"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	274.1.1 = {
 		birth = 274.1.1
 	}
@@ -1938,7 +1938,7 @@
 133 = {
 	name = "Godfried"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	276.1.1 = {
 		birth = 276.1.1
 	}
@@ -1953,7 +1953,7 @@
 134 = {
 	name = "Antonie"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	279.1.1 = {
 		birth = 279.1.1
@@ -1969,7 +1969,7 @@
 135 = {
 	name = "Karlo"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	281.1.1 = {
 		birth = 281.1.1
 	}
@@ -1984,7 +1984,7 @@
 136 = {
 	name = "Willem"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	285.1.1 = {
 		birth = 285.1.1
 	}
@@ -1999,7 +1999,7 @@
 137 = {
 	name = "Eloise"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	260.1.1 = {
 		birth = 260.1.1
@@ -2015,7 +2015,7 @@
 138 = {
 	name = "Alexander"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	257.1.1 = {
 		birth = 257.1.1
 	}
@@ -2030,7 +2030,7 @@
 139 = {
 	name = "Tamara"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	274.1.1 = {
 		birth = 274.1.1
@@ -2044,7 +2044,7 @@
 140 = {
 	name = "Reinoud"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	276.1.1 = {
 		birth = 276.1.1
 	}
@@ -2059,7 +2059,7 @@
 141 = {
 	name = "Frederik"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	278.1.1 = {
 		birth = 278.1.1
 	}
@@ -2074,7 +2074,7 @@
 142 = {
 	name = "Raymond"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	280.1.1 = {
 		birth = 280.1.1
 	}
@@ -2089,7 +2089,7 @@
 143 = {
 	name = "Robbert"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	300.1.1 = {
 		birth = 300.1.1
 	}
@@ -2104,7 +2104,7 @@
 144 = {
 	name = "Moriart"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	295.1.1 = {
 		birth = 295.1.1
 	}
@@ -2119,7 +2119,7 @@
 145 = {
 	name = "Vohemond"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	310.1.1 = {
 		birth = 310.1.1
 	}
@@ -2134,7 +2134,7 @@
 146 = {
 	name = "Edouard"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	309.1.1 = {
 		birth = 309.1.1
 	}
@@ -2149,7 +2149,7 @@
 147 = {
 	name = "Carlos"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	308.1.1 = {
 		birth = 308.1.1
 	}
@@ -2164,7 +2164,7 @@
 148 = {
 	name = "Yvonne"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	307.1.1 = {
 		birth = 307.1.1
@@ -2180,7 +2180,7 @@
 149 = {
 	name = "Jezeme"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	305.1.1 = {
 		birth = 305.1.1
 	}
@@ -2195,7 +2195,7 @@
 150 = {
 	name = "Juliana"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	279.1.1 = {
 		birth = 279.1.1
@@ -2209,7 +2209,7 @@
 151 = {
 	name = "Tomas"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	258.1.1 = {
 		birth = 258.1.1
 	}
@@ -2224,7 +2224,7 @@
 152 = {
 	name = "Rosalia"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	260.1.1 = {
 		birth = 260.1.1
@@ -2238,7 +2238,7 @@
 153 = {
 	name = "Duncan"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	276.1.1 = {
 		birth = 276.1.1
 	}
@@ -2253,7 +2253,7 @@
 154 = {
 	name = "Valentijn"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	277.1.1 = {
 		birth = 277.1.1
 	}
@@ -2268,7 +2268,7 @@
 155 = {
 	name = "Noor"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	278.1.1 = {
 		birth = 278.1.1
@@ -2284,7 +2284,7 @@
 156 = {
 	name = "Juliana"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	282.1.1 = {
 		birth = 282.1.1
@@ -2300,7 +2300,7 @@
 157 = {
 	name = "Jasper"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	285.1.1 = {
 		birth = 285.1.1
 	}
@@ -2315,7 +2315,7 @@
 158 = {
 	name = "Darryl"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	288.1.1 = {
 		birth = 288.1.1
 	}
@@ -2330,7 +2330,7 @@
 159 = {
 	name = "Alderik"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	258.1.1 = {
 		birth = 258.1.1
 	}
@@ -2345,7 +2345,7 @@
 160 = {
 	name = "Dominique"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	260.1.1 = {
 		birth = 260.1.1
 	}
@@ -2360,7 +2360,7 @@
 161 = {
 	name = "Cedromar"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	267.1.1 = {
 		birth = 267.1.1
 	}
@@ -2375,7 +2375,7 @@
 162 = {
 	name = "Amalia"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	269.1.1 = {
 		birth = 269.1.1
@@ -2391,7 +2391,7 @@
 163 = {
 	name = "Taddeus"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	275.1.1 = {
 		birth = 275.1.1
 	}
@@ -2406,7 +2406,7 @@
 164 = {
 	name = "Floorance"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	279.1.1 = {
 		birth = 279.1.1
@@ -2422,7 +2422,7 @@
 165 = {
 	name = "Evelienne"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	282.1.1 = {
 		birth = 282.1.1
@@ -2438,7 +2438,7 @@
 166 = {
 	name = "Xavier"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	283.1.1 = {
 		birth = 283.1.1
 	}
@@ -2453,7 +2453,7 @@
 167 = {
 	name = "Xander"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	284.1.1 = {
 		birth = 284.1.1
 	}
@@ -2468,7 +2468,7 @@
 168 = {
 	name = "Heloise"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	272.1.1 = {
 		birth = 272.1.1
@@ -2483,7 +2483,7 @@
 169 = {
 	name = "Michiel"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	299.1.1 = {
 		birth = 299.1.1
 	}
@@ -2498,7 +2498,7 @@
 170 = {
 	name = "Marjike"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	300.1.1 = {
 		birth = 300.1.1
 	}
@@ -2513,7 +2513,7 @@
 171 = {
 	name = "Quinn"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	290.1.1 = {
 		birth = 290.1.1
@@ -2527,7 +2527,7 @@
 172 = {
 	name = "Valentijn"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	306.1.1 = {
 		birth = 306.1.1
 	}
@@ -2542,7 +2542,7 @@
 173 = {
 	name = "Wouter"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	307.1.1 = {
 		birth = 307.1.1
 	}
@@ -2557,7 +2557,7 @@
 174 = {
 	name = "Leonie"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	308.1.1 = {
 		birth = 308.1.1
@@ -2573,7 +2573,7 @@
 175 = {
 	name = "Yvonne"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	309.1.1 = {
 		birth = 309.1.1
@@ -2589,7 +2589,7 @@
 176 = {
 	name = "Therese"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	311.1.1 = {
 		birth = 311.1.1
@@ -2605,7 +2605,7 @@
 177 = {
 	name = "Femke Flien"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	312.1.1 = {
 		birth = 312.1.1
@@ -2621,7 +2621,7 @@
 178 = {
 	name = "Olenya"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	200.1.1 = {
 		birth = 200.1.1
@@ -2636,7 +2636,7 @@
 179 = {
 	name = "Xay"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	229.1.1 = {
 		birth = 229.1.1
@@ -2652,7 +2652,7 @@
 180 = {
 	name = "Oleia"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	231.1.1 = {
 		birth = 231.1.1
@@ -2668,7 +2668,7 @@
 181 = {
 	name = "Saam"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	234.1.1 = {
 		birth = 234.1.1
@@ -2684,7 +2684,7 @@
 182 = {
 	name = "Willard"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	228.1.1 = {
 		birth = 228.1.1
 	}
@@ -2699,7 +2699,7 @@
 183 = {
 	name = "Guinevere"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	235.1.1 = {
 		birth = 235.1.1
@@ -2714,7 +2714,7 @@
 184 = {
 	name = "Osric"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	258.1.1 = {
 		birth = 258.1.1
 	}
@@ -2729,7 +2729,7 @@
 185 = {
 	name = "Jehenna"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	258.1.1 = {
 		birth = 258.1.1
@@ -2744,7 +2744,7 @@
 186 = {
 	name = "Wilvahelm"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	254.1.1 = {
 		birth = 254.1.1
 	}
@@ -2759,7 +2759,7 @@
 187 = {
 	name = "Milahme"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	265.1.1 = {
 		birth = 265.1.1
@@ -2775,7 +2775,7 @@
 188 = {
 	name = "Rodderick"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	279.1.1 = {
 		birth = 279.1.1
 	}
@@ -2790,7 +2790,7 @@
 189 = {
 	name = "Aldwynn"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	281.1.1 = {
 		birth = 281.1.1
 	}
@@ -2805,7 +2805,7 @@
 190 = {
 	name = "Genevieve"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	283.1.1 = {
 		birth = 283.1.1
@@ -2820,7 +2820,7 @@
 191 = {
 	name = "Celianna"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	284.1.1 = {
 		birth = 284.1.1
@@ -2836,7 +2836,7 @@
 192 = {
 	name = "Tommen"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	280.1.1 = {
 		birth = 280.1.1
 	}
@@ -2851,7 +2851,7 @@
 193 = {
 	name = "Rosalina"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	287.1.1 = {
 		birth = 287.1.1
@@ -2867,7 +2867,7 @@
 194 = {
 	name = "Ylva"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
@@ -2883,7 +2883,7 @@
 195 = {
 	name = "Lillian"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	288.1.1 = {
 		birth = 288.1.1
@@ -2899,7 +2899,7 @@
 196 = {
 	name = "Alferic"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	298.1.1 = {
 		birth = 298.1.1
 	}
@@ -2914,7 +2914,7 @@
 197 = {
 	name = "Oswald"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	299.1.1 = {
 		birth = 299.1.1
 	}
@@ -2929,7 +2929,7 @@
 198 = {
 	name = "Talla"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	302.1.1 = {
 		birth = 302.1.1
@@ -2945,7 +2945,7 @@
 199 = {
 	name = "Coreenne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	200.1.1 = {
 		birth = 200.1.1
@@ -2959,7 +2959,7 @@
 200 = {
 	name = "Morden"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	191.1.1 = {
 		birth = 191.1.1
 	}
@@ -2974,7 +2974,7 @@
 201 = {
 	name = "Angelica"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	288.1.1 = {
 		birth = 288.1.1
@@ -2990,7 +2990,7 @@
 202 = {
 	name = "Mordred"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	266.1.1 = {
 		birth = 266.1.1
 	}
@@ -3005,7 +3005,7 @@
 203 = {
 	name = "Roselyne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	269.1.1 = {
 		birth = 269.1.1
@@ -3021,7 +3021,7 @@
 204 = {
 	name = "Warren"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	260.1.1 = {
 		birth = 260.1.1
 	}
@@ -3036,7 +3036,7 @@
 205 = {
 	name = "Dianne"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
@@ -3052,7 +3052,7 @@
 206 = {
 	name = "Christopher"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	269.1.1 = {
 		birth = 269.1.1
 	}
@@ -3066,7 +3066,7 @@
 207 = {
 	name = "Wulfric"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	306.1.1 = {
 		birth = 306.1.1
 	}
@@ -3081,7 +3081,7 @@
 208 = {
 	name = "Minisa"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	172.1.1 = {
 		birth = 172.1.1
@@ -3095,7 +3095,7 @@
 209 = {
 	name = "Ondrew"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	166.1.1 = {
 		birth = 166.1.1
 	}
@@ -3110,7 +3110,7 @@
 210 = {
 	name = "Bastien"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
 	}
@@ -3125,7 +3125,7 @@
 211 = {
 	name = "Erena"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	143.1.1 = {
 		birth = 143.1.1
@@ -3140,7 +3140,7 @@
 212 = {
 	name = "Torrhen"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	138.1.1 = {
 		birth = 138.1.1
 	}
@@ -3153,7 +3153,7 @@
 213 = {
 	name = "Vagild"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	170.1.1 = {
 		birth = 170.1.1
 	}
@@ -3168,7 +3168,7 @@
 214 = {
 	name = "Sybelle"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	215.1.1 = {
 		birth = 215.1.1
@@ -3182,7 +3182,7 @@
 215 = {
 	name = "Tatfrid"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	240.1.1 = {
 		birth = 240.1.1
 	}
@@ -3197,7 +3197,7 @@
 216 = {
 	name = "Aethelred"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	237.1.1 = {
 		birth = 237.1.1
 	}
@@ -3212,7 +3212,7 @@
 217 = {
 	name = "Rothgair"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	235.1.1 = {
 		birth = 235.1.1
 	}
@@ -3227,7 +3227,7 @@
 218 = {
 	name = "Randulf"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	251.1.1 = {
 		birth = 251.1.1
 	}
@@ -3241,7 +3241,7 @@
 219 = {
 	name = "Brydon"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	254.1.1 = {
 		birth = 254.1.1
 	}
@@ -3255,7 +3255,7 @@
 220 = {
 	name = "Violetta"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	258.1.1 = {
 		birth = 258.1.1
@@ -3270,7 +3270,7 @@
 221 = {
 	name = "Mellisandre"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	234.1.1 = {
 		birth = 234.1.1
@@ -3286,7 +3286,7 @@
 222 = {
 	name = "Devona"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	258.1.1 = {
 		birth = 258.1.1
@@ -3301,7 +3301,7 @@
 223 = {
 	name = "Edmure"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	261.1.1 = {
 		birth = 261.1.1
 	}
@@ -3315,7 +3315,7 @@
 224 = {
 	name = "Gunthard"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	211.1.1 = {
 		birth = 211.1.1
 	}
@@ -3329,7 +3329,7 @@
 225 = {
 	name = "Reinhardt"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	230.1.1 = {
 		birth = 230.1.1
 	}
@@ -3343,7 +3343,7 @@
 226 = {
 	name = "Brunhilda"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	236.1.1 = {
 		birth = 236.1.1
@@ -3357,7 +3357,7 @@
 227 = {
 	name = "Dietrich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	254.1.1 = {
 		birth = 254.1.1
 	}
@@ -3372,7 +3372,7 @@
 228 = {
 	name = "Harald"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	255.1.1 = {
 		birth = 255.1.1
 	}
@@ -3387,7 +3387,7 @@
 229 = {
 	name = "Ludwig"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	281.1.1 = {
 		birth = 281.1.1
 	}
@@ -3402,7 +3402,7 @@
 230 = {
 	name = "Matilda"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	284.1.1 = {
 		birth = 284.1.1
@@ -3418,7 +3418,7 @@
 231 = {
 	name = "Kristoph"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	285.1.1 = {
 		birth = 285.1.1
 	}
@@ -3433,7 +3433,7 @@
 232 = {
 	name = "Adela"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	286.1.1 = {
 		birth = 286.1.1
@@ -3449,7 +3449,7 @@
 233 = {
 	name = "Franzl"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	291.1.1 = {
 		birth = 291.1.1
 	}
@@ -3464,7 +3464,7 @@
 234 = {
 	name = "Eldrich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	279.1.1 = {
 		birth = 279.1.1
 	}
@@ -3479,7 +3479,7 @@
 235 = {
 	name = "Marie Anne"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	308.1.1 = {
 		birth = 308.1.1
@@ -3495,7 +3495,7 @@
 236 = {
 	name = "Wufrich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	309.1.1 = {
 		birth = 309.1.1
 	}
@@ -3510,7 +3510,7 @@
 237 = {
 	name = "Johannes"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	310.1.1 = {
 		birth = 310.1.1
 	}
@@ -3525,7 +3525,7 @@
 238 = {
 	name = "Wulfrich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	181.1.1 = {
 		birth = 181.1.1
 	}
@@ -3539,7 +3539,7 @@
 239 = {
 	name = "Wulfrich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	133.1.1 = {
 		birth = 133.1.1
 	}
@@ -3553,7 +3553,7 @@
 240 = {
 	name = "Wulfrich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	114.1.1 = {
 		birth = 114.1.1
 	}
@@ -3568,7 +3568,7 @@
 241 = {
 	name = "Hildmar"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	85.1.1 = {
 		birth = 85.1.1
 	}
@@ -3581,7 +3581,7 @@
 242 = {
 	name = "Matilde"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	97.1.1 = {
 		birth = 97.1.1
@@ -3596,7 +3596,7 @@
 243 = {
 	name = "Reinhart"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	113.1.1 = {
 		birth = 113.1.1
 	}
@@ -3611,7 +3611,7 @@
 244 = {
 	name = "Eldrich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	130.1.1 = {
 		birth = 130.1.1
 	}
@@ -3625,7 +3625,7 @@
 245 = {
 	name = "Ludwig"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	1.1.1 = {
 		birth = 1.1.1
 	}
@@ -3638,7 +3638,7 @@
 246 = {
 	name = "Hildrebrand"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	34.1.1 = {
 		birth = 34.1.1
 	}
@@ -3652,7 +3652,7 @@
 247 = {
 	name = "Eberhard"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	55.1.1 = {
 		birth = 55.1.1
 	}
@@ -3666,7 +3666,7 @@
 248 = {
 	name = "Eberhard"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	78.1.1 = {
 		birth = 78.1.1
 	}
@@ -3680,7 +3680,7 @@
 249 = {
 	name = "Marie Anne"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	94.1.1 = {
 		birth = 94.1.1
@@ -3695,7 +3695,7 @@
 250 = {
 	name = "Heinrich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	115.1.1 = {
 		birth = 115.1.1
 	}
@@ -3709,7 +3709,7 @@
 251 = {
 	name = "Heinrich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	148.1.1 = {
 		birth = 148.1.1
 	}
@@ -3723,7 +3723,7 @@
 252 = {
 	name = "Marie Anne"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	168.1.1 = {
 		birth = 168.1.1
@@ -3738,7 +3738,7 @@
 253 = {
 	name = "Elia"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	170.1.1 = {
 		birth = 170.1.1
@@ -3753,7 +3753,7 @@
 254 = {
 	name = "Nikolaus"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	85.1.1 = {
 		birth = 85.1.1
 	}
@@ -3767,7 +3767,7 @@
 255 = {
 	name = "Nikolaus"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	124.1.1 = {
 		birth = 124.1.1
 	}
@@ -3781,7 +3781,7 @@
 256 = {
 	name = "Anais"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	215.1.1 = {
 		birth = 215.1.1
@@ -3795,7 +3795,7 @@
 257 = {
 	name = "Katriane"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	245.1.1 = {
 		birth = 245.1.1
@@ -3810,7 +3810,7 @@
 258 = {
 	name = "Emmeline"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	279.1.1 = {
 		birth = 279.1.1
@@ -3825,7 +3825,7 @@
 259 = {
 	name = "Louis"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	266.1.1 = {
 		birth = 266.1.1
 	}
@@ -3839,7 +3839,7 @@
 260 = {
 	name = "Marceau"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	285.1.1 = {
 		birth = 285.1.1
 	}
@@ -3853,7 +3853,7 @@
 261 = {
 	name = "Ottilie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
@@ -3868,7 +3868,7 @@
 262 = {
 	name = "Adeline"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	284.1.1 = {
 		birth = 284.1.1
@@ -3883,7 +3883,7 @@
 263 = {
 	name = "Renee"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	286.1.1 = {
 		birth = 286.1.1
@@ -3898,7 +3898,7 @@
 264 = {
 	name = "Nicolette"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	301.1.1 = {
 		birth = 301.1.1
@@ -3913,7 +3913,7 @@
 265 = {
 	name = "Guiscard"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	275.1.1 = {
 		birth = 275.1.1
 	}
@@ -3927,7 +3927,7 @@
 266 = {
 	name = "Brawen"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	11.1.1 = {
 		birth = 11.1.1
@@ -3941,7 +3941,7 @@
 267 = {
 	name = "Maeve"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	27.1.1 = {
 		birth = 27.1.1
@@ -3956,7 +3956,7 @@
 268 = {
 	name = "Nessaria"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	54.1.1 = {
 		birth = 54.1.1
@@ -3971,7 +3971,7 @@
 269 = {
 	name = "Theomar"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	1.1.1 = {
 		birth = 1.1.1
 	}
@@ -3984,7 +3984,7 @@
 270 = {
 	name = "Lilienmar"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	17.1.1 = {
 		birth = 17.1.1
 	}
@@ -3998,7 +3998,7 @@
 271 = {
 	name = "Lilienmar"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	38.1.1 = {
 		birth = 38.1.1
 	}
@@ -4012,7 +4012,7 @@
 272 = {
 	name = "Rihonlar"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	42.1.1 = {
 		birth = 42.1.1
 	}
@@ -4026,7 +4026,7 @@
 273 = {
 	name = "Henri"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	58.1.1 = {
 		birth = 58.1.1
 	}
@@ -4040,7 +4040,7 @@
 274 = {
 	name = "Leomar"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	74.1.1 = {
 		birth = 74.1.1
 	}
@@ -4055,7 +4055,7 @@
 275 = {
 	name = "Maxelle"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	77.1.1 = {
 		birth = 77.1.1
 	}
@@ -4070,7 +4070,7 @@
 276 = {
 	name = "Carvallais"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	79.1.1 = {
 		birth = 79.1.1
 	}
@@ -4085,7 +4085,7 @@
 277 = {
 	name = "Bartolomeux"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	81.1.1 = {
 		birth = 81.1.1
 	}
@@ -4100,7 +4100,7 @@
 278 = {
 	name = "Henri"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	93.1.1 = {
 		birth = 93.1.1
 	}
@@ -4114,7 +4114,7 @@
 279 = {
 	name = "Justeux"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	96.1.1 = {
 		birth = 96.1.1
 	}
@@ -4128,7 +4128,7 @@
 280 = {
 	name = "Heinrich"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	111.1.1 = {
 		birth = 111.1.1
 	}
@@ -4142,7 +4142,7 @@
 281 = {
 	name = "Allamar"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	130.1.1 = {
 		birth = 130.1.1
 	}
@@ -4156,7 +4156,7 @@
 282 = {
 	name = "Handorien"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	152.1.1 = {
 		birth = 152.1.1
 	}
@@ -4170,7 +4170,7 @@
 283 = {
 	name = "Lilienmar"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	135.1.1 = {
 		birth = 135.1.1
 	}
@@ -4184,7 +4184,7 @@
 284 = {
 	name = "Yvonne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	131.1.1 = {
 		birth = 131.1.1
@@ -4199,7 +4199,7 @@
 285 = {
 	name = "Nouin"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	167.1.1 = {
 		birth = 167.1.1
 	}
@@ -4212,7 +4212,7 @@
 286 = {
 	name = "Pepin"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	185.1.1 = {
 		birth = 185.1.1
 	}
@@ -4226,7 +4226,7 @@
 287 = {
 	name = "Handorien"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	131.1.1 = {
 		birth = 131.1.1
 	}
@@ -4239,7 +4239,7 @@
 288 = {
 	name = "Handorien"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	148.1.1 = {
 		birth = 148.1.1
 	}
@@ -4253,7 +4253,7 @@
 289 = {
 	name = "Allestrain"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	168.1.1 = {
 		birth = 168.1.1
 	}
@@ -4267,7 +4267,7 @@
 290 = {
 	name = "Vilgermar"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	192.1.1 = {
 		birth = 192.1.1
 	}
@@ -4281,7 +4281,7 @@
 291 = {
 	name = "Ottomar"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	211.1.1 = {
 		birth = 211.1.1
 	}
@@ -4295,7 +4295,7 @@
 292 = {
 	name = "Balthezar"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	205.1.1 = {
 		birth = 205.1.1
 	}
@@ -4309,7 +4309,7 @@
 293 = {
 	name = "Handorien"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	222.1.1 = {
 		birth = 222.1.1
 	}
@@ -4323,7 +4323,7 @@
 294 = {
 	name = "Emerite"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	184.1.1 = {
 		birth = 184.1.1
 	}
@@ -4337,7 +4337,7 @@
 295 = {
 	name = "Rollo"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	200.1.1 = {
 		birth = 200.1.1
 	}
@@ -4351,7 +4351,7 @@
 296 = {
 	name = "Allestrain"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	226.1.1 = {
 		birth = 226.1.1
 	}
@@ -4365,7 +4365,7 @@
 297 = {
 	name = "Lisette Ponne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	243.1.1 = {
 		birth = 243.1.1
@@ -4380,7 +4380,7 @@
 298 = {
 	name = "Handorien"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	146.1.1 = {
 		birth = 146.1.1
 	}
@@ -4394,7 +4394,7 @@
 299 = {
 	name = "Allestrain"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	166.1.1 = {
 		birth = 166.1.1
 	}
@@ -4408,7 +4408,7 @@
 300 = {
 	name = "Filipe"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	146.1.1 = {
 		birth = 146.1.1
 	}
@@ -4421,7 +4421,7 @@
 301 = {
 	name = "Handorien"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	175.1.1 = {
 		birth = 175.1.1
 	}
@@ -4435,7 +4435,7 @@
 302 = {
 	name = "Justinian"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	200.1.1 = {
 		birth = 200.1.1
 	}
@@ -4449,7 +4449,7 @@
 303 = {
 	name = "Justinian"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	210.1.1 = {
 		birth = 210.1.1
 	}
@@ -4463,7 +4463,7 @@
 304 = {
 	name = "Auguste"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	245.1.1 = {
 		birth = 245.1.1
 	}
@@ -4477,7 +4477,7 @@
 305 = {
 	name = "Juvinois"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	247.1.1 = {
 		birth = 247.1.1
 	}
@@ -4491,7 +4491,7 @@
 306 = {
 	name = "Therinois"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	251.1.1 = {
 		birth = 251.1.1
 	}
@@ -4505,7 +4505,7 @@
 307 = {
 	name = "Laraiselle Clarisse"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	215.1.1 = {
 		birth = 215.1.1
@@ -4519,7 +4519,7 @@
 308 = {
 	name = "Charlerois"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	212.1.1 = {
 		birth = 212.1.1
 	}
@@ -4533,7 +4533,7 @@
 309 = {
 	name = "Callaire"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	213.1.1 = {
 		birth = 213.1.1
@@ -4548,7 +4548,7 @@
 310 = {
 	name = "Harlon"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	231.1.1 = {
 		birth = 231.1.1
 	}
@@ -4561,7 +4561,7 @@
 311 = {
 	name = "Adelheid Ivrae De Sange"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	230.1.1 = {
 		birth = 230.1.1
@@ -4577,7 +4577,7 @@
 312 = {
 	name = "Attenaise"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	250.1.1 = {
 		birth = 250.1.1
@@ -4593,7 +4593,7 @@
 313 = {
 	name = "Frederique"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	256.1.1 = {
 		birth = 256.1.1
@@ -4609,7 +4609,7 @@
 314 = {
 	name = "Antoine"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	258.1.1 = {
 		birth = 258.1.1
 	}
@@ -4624,7 +4624,7 @@
 315 = {
 	name = "Soledad"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	273.1.1 = {
 		birth = 273.1.1
@@ -4640,7 +4640,7 @@
 316 = {
 	name = "Valerie"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	276.1.1 = {
 		birth = 276.1.1
@@ -4656,7 +4656,7 @@
 317 = {
 	name = "Travis"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	230.1.1 = {
 		birth = 230.1.1
 	}
@@ -4670,7 +4670,7 @@
 318 = {
 	name = "Alistair"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	186.1.1 = {
 		birth = 186.1.1
 	}
@@ -4683,7 +4683,7 @@
 319 = {
 	name = "Gwendolyn"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	291.1.1 = {
 		birth = 291.1.1
@@ -4699,7 +4699,7 @@
 320 = {
 	name = "Arthur"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	293.1.1 = {
 		birth = 293.1.1
 	}
@@ -4714,7 +4714,7 @@
 321 = {
 	name = "William"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	296.1.1 = {
 		birth = 296.1.1
 	}
@@ -4729,7 +4729,7 @@
 322 = {
 	name = "Angelina"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	297.1.1 = {
 		birth = 297.1.1
@@ -4745,7 +4745,7 @@
 323 = {
 	name = "Rioen"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	289.1.1 = {
 		birth = 289.1.1
 	}
@@ -4760,7 +4760,7 @@
 324 = {
 	name = "Lucia"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	226.1.1 = {
 		birth = 226.1.1
@@ -4774,7 +4774,7 @@
 325 = {
 	name = "Francine Emilie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	215.1.1 = {
 		birth = 215.1.1
@@ -4788,7 +4788,7 @@
 326 = {
 	name = "Geoffroy Lambert"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	215.1.1 = {
 		birth = 215.1.1
 	}
@@ -4802,7 +4802,7 @@
 327 = {
 	name = "Mariliene Roselle"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	235.1.1 = {
 		birth = 235.1.1
@@ -4817,7 +4817,7 @@
 328 = {
 	name = "Madeleine Fabienne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	252.1.1 = {
 		birth = 252.1.1
@@ -4833,7 +4833,7 @@
 329 = {
 	name = "Michael"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	244.1.1 = {
 		birth = 244.1.1
 	}
@@ -4846,7 +4846,7 @@
 330 = {
 	name = "Daniel"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	268.1.1 = {
 		birth = 268.1.1
 	}
@@ -4859,7 +4859,7 @@
 331 = {
 	name = "Nicolette Laurine"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	288.1.1 = {
 		birth = 288.1.1
@@ -4874,7 +4874,7 @@
 332 = {
 	name = "Bastian"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	293.1.1 = {
 		birth = 293.1.1
 	}
@@ -4889,7 +4889,7 @@
 333 = {
 	name = "Mathieu"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	294.1.1 = {
 		birth = 294.1.1
 	}
@@ -4904,7 +4904,7 @@
 334 = {
 	name = "Vivienne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	295.1.1 = {
 		birth = 295.1.1
@@ -4920,7 +4920,7 @@
 335 = {
 	name = "Wilifred Jourdain"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	272.1.1 = {
 		birth = 272.1.1
 	}
@@ -4935,7 +4935,7 @@
 336 = {
 	name = "Nicolas Francois"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	270.1.1 = {
 		birth = 270.1.1
 	}
@@ -4950,7 +4950,7 @@
 337 = {
 	name = "Trevor"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	276.1.1 = {
 		birth = 276.1.1
 	}
@@ -4964,7 +4964,7 @@
 338 = {
 	name = "Eloise Valerie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	283.1.1 = {
 		birth = 283.1.1
@@ -4978,7 +4978,7 @@
 339 = {
 	name = "Lola Aimee"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	275.1.1 = {
 		birth = 275.1.1
@@ -4994,7 +4994,7 @@
 340 = {
 	name = "Baptiste Florence"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	248.1.1 = {
 		birth = 248.1.1
 	}
@@ -5008,7 +5008,7 @@
 341 = {
 	name = "Valeriane"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	261.1.1 = {
 		birth = 261.1.1
@@ -5022,7 +5022,7 @@
 342 = {
 	name = "Lucas Menetries"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	278.1.1 = {
 		birth = 278.1.1
 	}
@@ -5037,7 +5037,7 @@
 343 = {
 	name = "Jaqueline Georgette"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	291.1.1 = {
 		birth = 291.1.1
@@ -5053,7 +5053,7 @@
 344 = {
 	name = "Gabriel Godefroy"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	296.1.1 = {
 		birth = 296.1.1
 	}
@@ -5068,7 +5068,7 @@
 345 = {
 	name = "Kaya"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	289.1.1 = {
 		birth = 289.1.1
@@ -5082,7 +5082,7 @@
 346 = {
 	name = "Viggo"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	284.1.1 = {
 		birth = 284.1.1
 	}
@@ -5096,7 +5096,7 @@
 347 = {
 	name = "Sivrid"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	286.1.1 = {
 		birth = 286.1.1
@@ -5111,7 +5111,7 @@
 348 = {
 	name = "Sigurd"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	241.1.1 = {
 		birth = 241.1.1
 	}
@@ -5124,7 +5124,7 @@
 349 = {
 	name = "Tristan"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	272.1.1 = {
 		birth = 272.1.1
 	}
@@ -5139,7 +5139,7 @@
 350 = {
 	name = "Audrei"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	250.1.1 = {
 		birth = 250.1.1
@@ -5153,7 +5153,7 @@
 351 = {
 	name = "Thadeo"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	247.1.1 = {
 		birth = 247.1.1
 	}
@@ -5167,7 +5167,7 @@
 352 = {
 	name = "Riccaro"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	288.1.1 = {
 		birth = 288.1.1
 	}
@@ -5181,7 +5181,7 @@
 353 = {
 	name = "Orazzio"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	120.1.1 = {
 		birth = 120.1.1
 	}
@@ -5194,7 +5194,7 @@
 354 = {
 	name = "Allegra"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	132.1.1 = {
 		birth = 132.1.1
@@ -5209,7 +5209,7 @@
 355 = {
 	name = "Francesco"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	170.1.1 = {
 		birth = 170.1.1
 	}
@@ -5224,7 +5224,7 @@
 356 = {
 	name = "Giulia"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	174.1.1 = {
 		birth = 174.1.1
@@ -5238,7 +5238,7 @@
 357 = {
 	name = "Leone"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	205.1.1 = {
 		birth = 205.1.1
 	}
@@ -5253,7 +5253,7 @@
 358 = {
 	name = "Beatrice"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	209.1.1 = {
 		birth = 209.1.1
@@ -5267,7 +5267,7 @@
 359 = {
 	name = "Ruggiero"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	226.1.1 = {
 		birth = 226.1.1
 	}
@@ -5282,7 +5282,7 @@
 360 = {
 	name = "Georgiana"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	228.1.1 = {
 		birth = 228.1.1
@@ -5298,7 +5298,7 @@
 361 = {
 	name = "Bernardo"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	246.1.1 = {
 		birth = 246.1.1
 	}
@@ -5313,7 +5313,7 @@
 362 = {
 	name = "Piero"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	248.1.1 = {
 		birth = 248.1.1
 	}
@@ -5328,7 +5328,7 @@
 363 = {
 	name = "Bernardo Gabriel"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	260.1.1 = {
 		birth = 260.1.1
 	}
@@ -5343,7 +5343,7 @@
 364 = {
 	name = "Vincenza"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	256.1.1 = {
 		birth = 256.1.1
@@ -5359,7 +5359,7 @@
 365 = {
 	name = "Simona"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	248.1.1 = {
 		birth = 248.1.1
@@ -5375,7 +5375,7 @@
 366 = {
 	name = "Luigi"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	276.1.1 = {
 		birth = 276.1.1
 	}
@@ -5390,7 +5390,7 @@
 367 = {
 	name = "Terenzo"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	282.1.1 = {
 		birth = 282.1.1
 	}
@@ -5405,7 +5405,7 @@
 368 = {
 	name = "Ana"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	287.1.1 = {
 		birth = 287.1.1
@@ -5421,7 +5421,7 @@
 369 = {
 	name = "Isabella"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	290.1.1 = {
 		birth = 290.1.1
@@ -5437,7 +5437,7 @@
 370 = {
 	name = "Angelo"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	254.1.1 = {
 		birth = 254.1.1
 	}
@@ -5450,7 +5450,7 @@
 371 = {
 	name = "Fiorino"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	279.1.1 = {
 		birth = 279.1.1
 	}
@@ -5465,7 +5465,7 @@
 372 = {
 	name = "Pellegrino"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	260.1.1 = {
 		birth = 260.1.1
 	}
@@ -5479,7 +5479,7 @@
 373 = {
 	name = "Isotta"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	286.1.1 = {
 		birth = 286.1.1
@@ -5495,7 +5495,7 @@
 374 = {
 	name = "Stella"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	264.1.1 = {
 		birth = 264.1.1
@@ -5510,7 +5510,7 @@
 375 = {
 	name = "Silvestro"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	266.1.1 = {
 		birth = 266.1.1
 	}
@@ -5525,7 +5525,7 @@
 376 = {
 	name = "Edoardo"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	292.1.1 = {
 		birth = 292.1.1
 	}
@@ -5540,7 +5540,7 @@
 377 = {
 	name = "Alessandro"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	294.1.1 = {
 		birth = 294.1.1
 	}
@@ -5555,7 +5555,7 @@
 378 = {
 	name = "Capriana"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	299.1.1 = {
 		birth = 299.1.1
@@ -5571,7 +5571,7 @@
 379 = {
 	name = "Alessa"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	248.1.1 = {
 		birth = 248.1.1
@@ -5585,7 +5585,7 @@
 380 = {
 	name = "Francesco Rauol"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	289.1.1 = {
 		birth = 289.1.1
 	}
@@ -5600,7 +5600,7 @@
 382 = {
 	name = "Lorenzo"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	232.1.1 = {
 		birth = 232.1.1
 	}
@@ -5615,7 +5615,7 @@
 383 = {
 	name = "Caterina"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	236.1.1 = {
 		birth = 236.1.1
@@ -5629,7 +5629,7 @@
 384 = {
 	name = "Camilla"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	281.1.1 = {
 		birth = 281.1.1
@@ -5644,7 +5644,7 @@
 385 = {
 	name = "Siena"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	293.1.1 = {
 		birth = 293.1.1
@@ -5659,7 +5659,7 @@
 386 = {
 	name = "Zappacosta"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	236.1.1 = {
 		birth = 236.1.1
 	}
@@ -5673,7 +5673,7 @@
 387 = {
 	name = "Gabriel"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	205.1.1 = {
 		birth = 205.1.1
 	}
@@ -5686,7 +5686,7 @@
 388 = {
 	name = "Isabella"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	208.1.1 = {
 		birth = 208.1.1
@@ -5700,7 +5700,7 @@
 389 = {
 	name = "Giovanni"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	230.1.1 = {
 		birth = 230.1.1
 	}
@@ -5713,7 +5713,7 @@
 390 = {
 	name = "Eadric"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	190.1.1 = {
 		birth = 190.1.1
 	}
@@ -5726,7 +5726,7 @@
 391 = {
 	name = "Hildwyn"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	210.1.1 = {
 		birth = 210.1.1
@@ -5740,7 +5740,7 @@
 392 = {
 	name = "Elric"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	234.1.1 = {
 		birth = 234.1.1
 	}
@@ -5755,7 +5755,7 @@
 393 = {
 	name = "Roswitha"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	242.1.1 = {
 		birth = 242.1.1
@@ -5769,7 +5769,7 @@
 394 = {
 	name = "Acwald"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	246.1.1 = {
 		birth = 246.1.1
 	}
@@ -5784,7 +5784,7 @@
 395 = {
 	name = "Mathilda"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	240.1.1 = {
 		birth = 240.1.1
@@ -5799,7 +5799,7 @@
 396 = {
 	name = "Aethelric"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	258.1.1 = {
 		birth = 258.1.1
 	}
@@ -5814,7 +5814,7 @@
 397 = {
 	name = "Hengest"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	263.1.1 = {
 		birth = 263.1.1
 	}
@@ -5829,7 +5829,7 @@
 398 = {
 	name = "Egbert"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	266.1.1 = {
 		birth = 266.1.1
 	}
@@ -5844,7 +5844,7 @@
 399 = {
 	name = "Inga"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	267.1.1 = {
 		birth = 267.1.1
@@ -5860,7 +5860,7 @@
 400 = {
 	name = "Matthjis"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	268.1.1 = {
 		birth = 268.1.1
 	}
@@ -5875,7 +5875,7 @@
 401 = {
 	name = "Wulfric"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	269.1.1 = {
 		birth = 269.1.1
 	}
@@ -5890,7 +5890,7 @@
 402 = {
 	name = "Godwyna"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	272.1.1 = {
 		birth = 272.1.1
@@ -5906,7 +5906,7 @@
 403 = {
 	name = "Wynstan"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	272.1.1 = {
 		birth = 272.1.1
 	}
@@ -5921,7 +5921,7 @@
 404 = {
 	name = "Cwynthryth"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	311.1.1 = {
 		birth = 311.1.1
@@ -5937,7 +5937,7 @@
 405 = {
 	name = "Agatha"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	283.1.1 = {
 		birth = 283.1.1
@@ -5952,7 +5952,7 @@
 406 = {
 	name = "Eadwald"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	303.1.1 = {
 		birth = 303.1.1
 	}
@@ -5966,7 +5966,7 @@
 407 = {
 	name = "Aethelric"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	306.1.1 = {
 		birth = 306.1.1
 	}
@@ -5980,7 +5980,7 @@
 408 = {
 	name = "Vicenna"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	304.1.1 = {
 		birth = 304.1.1
@@ -5995,7 +5995,7 @@
 409 = {
 	name = "Aedilhild"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
@@ -6011,7 +6011,7 @@
 410 = {
 	name = "Athelric"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	268.1.1 = {
 		birth = 268.1.1
 	}
@@ -6026,7 +6026,7 @@
 411 = {
 	name = "Sebastienne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	200.1.1 = {
 		birth = 200.1.1
@@ -6040,7 +6040,7 @@
 412 = {
 	name = "Pierres"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	199.1.1 = {
 		birth = 199.1.1
 	}
@@ -6054,7 +6054,7 @@
 413 = {
 	name = "Aurelie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	197.1.1 = {
 		birth = 197.1.1
@@ -6068,7 +6068,7 @@
 414 = {
 	name = "Timothee Yvon"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	196.1.1 = {
 		birth = 196.1.1
 	}
@@ -6081,7 +6081,7 @@
 415 = {
 	name = "Apolline"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	198.1.1 = {
 		birth = 198.1.1
@@ -6095,7 +6095,7 @@
 416 = {
 	name = "Mathieu Luc"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	191.1.1 = {
 		birth = 191.1.1
 	}
@@ -6108,7 +6108,7 @@
 417 = {
 	name = "Celine"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	204.1.1 = {
 		birth = 204.1.1
@@ -6122,7 +6122,7 @@
 418 = {
 	name = "Adrien"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	200.1.1 = {
 		birth = 200.1.1
 	}
@@ -6135,7 +6135,7 @@
 419 = {
 	name = "Blanche"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	226.1.1 = {
 		birth = 226.1.1
@@ -6151,7 +6151,7 @@
 420 = {
 	name = "Estienne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	231.1.1 = {
 		birth = 231.1.1
 	}
@@ -6164,7 +6164,7 @@
 421 = {
 	name = "Lenora Marie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	222.1.1 = {
 		birth = 222.1.1
@@ -6180,7 +6180,7 @@
 422 = {
 	name = "Gregoire"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	215.1.1 = {
 		birth = 215.1.1
 	}
@@ -6195,7 +6195,7 @@
 423 = {
 	name = "Angelique"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	225.1.1 = {
 		birth = 225.1.1
@@ -6211,7 +6211,7 @@
 424 = {
 	name = "Laurent"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	221.1.1 = {
 		birth = 221.1.1
 	}
@@ -6226,7 +6226,7 @@
 425 = {
 	name = "Domitille"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	255.1.1 = {
 		birth = 255.1.1
@@ -6242,7 +6242,7 @@
 426 = {
 	name = "Leander"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	253.1.1 = {
 		birth = 253.1.1
 	}
@@ -6257,7 +6257,7 @@
 427 = {
 	name = "Julienne Flore"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	250.1.1 = {
 		birth = 250.1.1
@@ -6273,7 +6273,7 @@
 428 = {
 	name = "Hadrien"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	247.1.1 = {
 		birth = 247.1.1
 	}
@@ -6288,7 +6288,7 @@
 429 = {
 	name = "Adira"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	274.1.1 = {
 		birth = 274.1.1
@@ -6302,7 +6302,7 @@
 430 = {
 	name = "Sebastien Edouard"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	270.1.1 = {
 		birth = 270.1.1
 	}
@@ -6317,7 +6317,7 @@
 431 = {
 	name = "Stephan"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	269.1.1 = {
 		birth = 269.1.1
 	}
@@ -6332,7 +6332,7 @@
 432 = {
 	name = "Victoria"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	272.1.1 = {
 		birth = 272.1.1
@@ -6348,7 +6348,7 @@
 433 = {
 	name = "Mathieux Dureau"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	277.1.1 = {
 		birth = 277.1.1
 	}
@@ -6363,7 +6363,7 @@
 434 = {
 	name = "Mercia"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	276.1.1 = {
 		birth = 276.1.1
@@ -6378,7 +6378,7 @@
 435 = {
 	name = "Francois"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	273.1.1 = {
 		birth = 273.1.1
 	}
@@ -6393,7 +6393,7 @@
 436 = {
 	name = "Melodie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	282.1.1 = {
 		birth = 282.1.1
@@ -6407,7 +6407,7 @@
 437 = {
 	name = "Reita"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	275.1.1 = {
 		birth = 275.1.1
@@ -6421,7 +6421,7 @@
 438 = {
 	name = "Claudine"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	296.1.1 = {
 		birth = 296.1.1
@@ -6437,7 +6437,7 @@
 439 = {
 	name = "Augustin"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	278.1.1 = {
 		birth = 278.1.1
 	}
@@ -6452,7 +6452,7 @@
 440 = {
 	name = "Gabriel Louie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	296.1.1 = {
 		birth = 296.1.1
 	}
@@ -6467,7 +6467,7 @@
 441 = {
 	name = "Gabrielle Evelyne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	294.1.1 = {
 		birth = 294.1.1
@@ -6483,7 +6483,7 @@
 442 = {
 	name = "Gustave Stephan"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	304.1.1 = {
 		birth = 304.1.1
 	}
@@ -6498,7 +6498,7 @@
 443 = {
 	name = "Eloise Chloe"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	305.1.1 = {
 		birth = 305.1.1
@@ -6514,7 +6514,7 @@
 444 = {
 	name = "Adolphus"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	172.1.1 = {
 		birth = 172.1.1
 	}
@@ -6527,7 +6527,7 @@
 445 = {
 	name = "Wilhelmina"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	174.1.1 = {
 		birth = 174.1.1
@@ -6542,7 +6542,7 @@
 446 = {
 	name = "Leopold"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	195.1.1 = {
 		birth = 195.1.1
 	}
@@ -6557,7 +6557,7 @@
 447 = {
 	name = "Clara"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	197.1.1 = {
 		birth = 197.1.1
@@ -6572,7 +6572,7 @@
 448 = {
 	name = "Frederick"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	218.1.1 = {
 		birth = 218.1.1
 	}
@@ -6587,7 +6587,7 @@
 449 = {
 	name = "Helena"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	220.1.1 = {
 		birth = 220.1.1
@@ -6601,7 +6601,7 @@
 450 = {
 	name = "Aldobert"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	242.1.1 = {
 		birth = 242.1.1
 	}
@@ -6616,7 +6616,7 @@
 451 = {
 	name = "Adalgisa"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	246.1.1 = {
 		birth = 246.1.1
@@ -6630,7 +6630,7 @@
 452 = {
 	name = "Theobold"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	245.1.1 = {
 		birth = 245.1.1
 	}
@@ -6645,7 +6645,7 @@
 453 = {
 	name = "Leyna"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	247.1.1 = {
 		birth = 247.1.1
@@ -6659,7 +6659,7 @@
 454 = {
 	name = "Mathilda"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	244.1.1 = {
 		birth = 244.1.1
@@ -6673,7 +6673,7 @@
 455 = {
 	name = "Aldobert"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	270.1.1 = {
 		birth = 270.1.1
 	}
@@ -6688,7 +6688,7 @@
 456 = {
 	name = "Ademaro"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	273.1.1 = {
 		birth = 273.1.1
 	}
@@ -6703,7 +6703,7 @@
 457 = {
 	name = "Fronika"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	265.1.1 = {
 		birth = 265.1.1
@@ -6719,7 +6719,7 @@
 458 = {
 	name = "Bartisch"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	263.1.1 = {
 		birth = 263.1.1
 	}
@@ -6732,7 +6732,7 @@
 459 = {
 	name = "Petra"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	279.1.1 = {
 		birth = 279.1.1
@@ -6746,7 +6746,7 @@
 460 = {
 	name = "Howland"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	276.1.1 = {
 		birth = 276.1.1
 	}
@@ -6761,7 +6761,7 @@
 461 = {
 	name = "Brunhilde"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	282.1.1 = {
 		birth = 282.1.1
@@ -6777,7 +6777,7 @@
 462 = {
 	name = "Rayleine"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	284.1.1 = {
 		birth = 284.1.1
@@ -6793,7 +6793,7 @@
 463 = {
 	name = "Frieda"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	287.1.1 = {
 		birth = 287.1.1
@@ -6809,7 +6809,7 @@
 464 = {
 	name = "Eldwin"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	290.1.1 = {
 		birth = 290.1.1
 	}
@@ -6824,7 +6824,7 @@
 465 = {
 	name = "Ermina"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	278.1.1 = {
 		birth = 278.1.1
@@ -6840,7 +6840,7 @@
 466 = {
 	name = "Otto"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	292.1.1 = {
 		birth = 292.1.1
 	}
@@ -6855,7 +6855,7 @@
 467 = {
 	name = "Greta"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	295.1.1 = {
 		birth = 295.1.1
@@ -6871,7 +6871,7 @@
 468 = {
 	name = "Gherardo"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	231.1.1 = {
 		birth = 231.1.1
 	}
@@ -6885,7 +6885,7 @@
 469 = {
 	name = "Leontio"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	211.1.1 = {
 		birth = 211.1.1
 	}
@@ -6898,7 +6898,7 @@
 470 = {
 	name = "Leah"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
@@ -6913,7 +6913,7 @@
 471 = {
 	name = "Elisabeth"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	252.1.1 = {
 		birth = 252.1.1
@@ -6927,7 +6927,7 @@
 472 = {
 	name = "Diederik"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	289.1.1 = {
 		birth = 289.1.1
 	}
@@ -6942,7 +6942,7 @@
 473 = {
 	name = "Erica"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	265.1.1 = {
 		birth = 265.1.1
@@ -6958,7 +6958,7 @@
 474 = {
 	name = "Frederick"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	246.1.1 = {
 		birth = 246.1.1
 	}
@@ -6973,7 +6973,7 @@
 475 = {
 	name = "Leopold"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	249.1.1 = {
 		birth = 249.1.1
 	}
@@ -6988,7 +6988,7 @@
 476 = {
 	name = "Marianne"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	296.1.1 = {
 		birth = 296.1.1
@@ -7004,7 +7004,7 @@
 477 = {
 	name = "Brandt"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	298.1.1 = {
 		birth = 298.1.1
 	}
@@ -7019,7 +7019,7 @@
 478 = {
 	name = "Gunther"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	178.1.1 = {
 		birth = 178.1.1
 	}
@@ -7033,7 +7033,7 @@
 479 = {
 	name = "Josephine"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	250.1.1 = {
 		birth = 250.1.1
@@ -7049,7 +7049,7 @@
 480 = {
 	name = "Wulfric"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	190.1.1 = {
 		birth = 190.1.1
 	}
@@ -7062,7 +7062,7 @@
 481 = {
 	name = "Helena"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	191.1.1 = {
 		birth = 191.1.1
@@ -7077,7 +7077,7 @@
 482 = {
 	name = "Alexander"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	221.1.1 = {
 		birth = 221.1.1
 	}
@@ -7092,7 +7092,7 @@
 483 = {
 	name = "Melisende"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	229.1.1 = {
 		birth = 229.1.1
@@ -7106,7 +7106,7 @@
 484 = {
 	name = "Carlo"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	156.1.1 = {
 		birth = 156.1.1
 	}
@@ -7120,7 +7120,7 @@
 485 = {
 	name = "Blanche"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	283.1.1 = {
 		birth = 283.1.1
@@ -7136,7 +7136,7 @@
 486 = {
 	name = "Lothair Isengrim"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	255.1.1 = {
 		birth = 255.1.1
 	}
@@ -7151,7 +7151,7 @@
 487 = {
 	name = "Swanheid"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	254.1.1 = {
 		birth = 254.1.1
@@ -7167,7 +7167,7 @@
 488 = {
 	name = "Gotfrid"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	259.1.1 = {
 		birth = 259.1.1
 	}
@@ -7182,7 +7182,7 @@
 489 = {
 	name = "Perrine"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	260.1.1 = {
 		birth = 260.1.1
@@ -7198,7 +7198,7 @@
 490 = {
 	name = "Gregore"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	263.1.1 = {
 		birth = 263.1.1
 	}
@@ -7213,7 +7213,7 @@
 491 = {
 	name = "Willem Heidbert"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	279.1.1 = {
 		birth = 279.1.1
 	}
@@ -7227,7 +7227,7 @@
 492 = {
 	name = "Aldrick Telesphore"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	280.1.1 = {
 		birth = 280.1.1
 	}
@@ -7241,7 +7241,7 @@
 493 = {
 	name = "Laurence"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	222.1.1 = {
 		birth = 222.1.1
 	}
@@ -7256,7 +7256,7 @@
 494 = {
 	name = "Ameline"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	223.1.1 = {
 		birth = 223.1.1
@@ -7272,7 +7272,7 @@
 495 = {
 	name = "Willem"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	246.1.1 = {
 		birth = 246.1.1
 	}
@@ -7286,7 +7286,7 @@
 496 = {
 	name = "Carolin"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	248.1.1 = {
 		birth = 248.1.1
@@ -7301,7 +7301,7 @@
 497 = {
 	name = "Wulfric"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	250.1.1 = {
 		birth = 250.1.1
 	}
@@ -7315,7 +7315,7 @@
 498 = {
 	name = "Humaira"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	278.1.1 = {
 		birth = 278.1.1
@@ -7330,7 +7330,7 @@
 499 = {
 	name = "Alaric"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	150.1.1 = {
 		birth = 150.1.1
 	}
@@ -7344,7 +7344,7 @@
 500 = {
 	name = "Esteban"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	231.1.1 = {
 		birth = 231.1.1
 	}
@@ -7357,7 +7357,7 @@
 501 = {
 	name = "Loretta"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	246.1.1 = {
 		birth = 246.1.1
@@ -7373,7 +7373,7 @@
 502 = {
 	name = "Atilio"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	264.1.1 = {
 		birth = 264.1.1
 	}
@@ -7388,7 +7388,7 @@
 503 = {
 	name = "Lorea"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	273.1.1 = {
 		birth = 273.1.1
@@ -7403,7 +7403,7 @@
 504 = {
 	name = "Cesare"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	289.1.1 = {
 		birth = 289.1.1
 	}
@@ -7418,7 +7418,7 @@
 505 = {
 	name = "Bianca"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	295.1.1 = {
 		birth = 295.1.1
@@ -7434,7 +7434,7 @@
 506 = {
 	name = "Apollonia"
 	culture = etosian
-	religion = cathar
+	religion = unionism
 	female = yes
 	256.1.1 = {
 		birth = 256.1.1
@@ -7448,7 +7448,7 @@
 507 = {
 	name = "Florence"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	281.1.1 = {
 		birth = 281.1.1
@@ -7464,7 +7464,7 @@
 508 = {
 	name = "Ezmeralda"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
@@ -7480,7 +7480,7 @@
 509 = {
 	name = "Adrian"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	268.1.1 = {
 		birth = 268.1.1
 	}
@@ -7495,7 +7495,7 @@
 510 = {
 	name = "Andrea"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	292.1.1 = {
 		birth = 292.1.1
@@ -7510,7 +7510,7 @@
 511 = {
 	name = "Celine"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	293.1.1 = {
 		birth = 293.1.1
@@ -7525,7 +7525,7 @@
 512 = {
 	name = "Dante"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	291.1.1 = {
 		birth = 291.1.1
 	}
@@ -7539,7 +7539,7 @@
 513 = {
 	name = "Alphonse"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	193.1.1 = {
 		birth = 193.1.1
 	}
@@ -7552,7 +7552,7 @@
 514 = {
 	name = "Colette"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	210.1.1 = {
 		birth = 210.1.1
@@ -7567,7 +7567,7 @@
 515 = {
 	name = "Aurore"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	231.1.1 = {
 		birth = 231.1.1
@@ -7582,7 +7582,7 @@
 516 = {
 	name = "Isabeau"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	253.1.1 = {
 		birth = 253.1.1
@@ -7597,7 +7597,7 @@
 517 = {
 	name = "Lucienne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	274.1.1 = {
 		birth = 274.1.1
@@ -7612,7 +7612,7 @@
 518 = {
 	name = "Marc"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	175.1.1 = {
 		birth = 175.1.1
 	}
@@ -7626,7 +7626,7 @@
 519 = {
 	name = "Michel"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	208.1.1 = {
 		birth = 208.1.1
 	}
@@ -7640,7 +7640,7 @@
 520 = {
 	name = "Gilles"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	140.1.1 = {
 		birth = 140.1.1
 	}
@@ -7654,7 +7654,7 @@
 521 = {
 	name = "Jean Luc"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	112.1.1 = {
 		birth = 112.1.1
 	}
@@ -7667,7 +7667,7 @@
 522 = {
 	name = "Arahael"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	257.1.1 = {
 		birth = 257.1.1
 	}
@@ -7682,7 +7682,7 @@
 523 = {
 	name = "Gwenyth"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	255.1.1 = {
 		birth = 255.1.1
@@ -7696,7 +7696,7 @@
 524 = {
 	name = "Florance Tannis"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	286.1.1 = {
 		birth = 286.1.1
@@ -7712,7 +7712,7 @@
 525 = {
 	name = "Laurent Raaf"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
@@ -7728,7 +7728,7 @@
 526 = {
 	name = "Valerie"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	287.1.1 = {
 		birth = 287.1.1
@@ -7744,7 +7744,7 @@
 527 = {
 	name = "Leufred"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	288.1.1 = {
 		birth = 288.1.1
@@ -7760,7 +7760,7 @@
 528 = {
 	name = "Rowena Cavia"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	294.1.1 = {
 		birth = 294.1.1
@@ -7776,7 +7776,7 @@
 529 = {
 	name = "Rhion"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	296.1.1 = {
 		birth = 296.1.1
 	}
@@ -7791,7 +7791,7 @@
 530 = {
 	name = "Elara"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	272.1.1 = {
 		birth = 272.1.1
@@ -7806,7 +7806,7 @@
 531 = {
 	name = "Bastien"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
 	}
@@ -7821,7 +7821,7 @@
 532 = {
 	name = "Samala"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	241.1.1 = {
 		birth = 241.1.1
@@ -7835,7 +7835,7 @@
 533 = {
 	name = "Godric"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	236.1.1 = {
 		birth = 236.1.1
 	}
@@ -7848,7 +7848,7 @@
 534 = {
 	name = "Marie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	292.1.1 = {
 		birth = 292.1.1
@@ -7863,7 +7863,7 @@
 535 = {
 	name = "Aloys"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	110.1.1 = {
 		birth = 110.1.1
 	}
@@ -7876,7 +7876,7 @@
 536 = {
 	name = "Lillianna"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	115.1.1 = {
 		birth = 115.1.1
@@ -7890,7 +7890,7 @@
 537 = {
 	name = "Valentin"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	140.1.1 = {
 		birth = 140.1.1
 	}
@@ -7905,7 +7905,7 @@
 538 = {
 	name = "Eleonora"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	142.1.1 = {
 		birth = 142.1.1
@@ -7921,7 +7921,7 @@
 539 = {
 	name = "Maximillienne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	145.1.1 = {
 		birth = 145.1.1
@@ -7935,7 +7935,7 @@
 540 = {
 	name = "Marcoul"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	170.1.1 = {
 		birth = 170.1.1
 	}
@@ -7950,7 +7950,7 @@
 541 = {
 	name = "Rosaline"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	172.1.1 = {
 		birth = 172.1.1
@@ -7966,7 +7966,7 @@
 542 = {
 	name = "Camille"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	174.1.1 = {
 		birth = 174.1.1
@@ -7982,7 +7982,7 @@
 543 = {
 	name = "Heinrich"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	170.1.1 = {
 		birth = 170.1.1
 	}
@@ -7995,7 +7995,7 @@
 544 = {
 	name = "Veronica"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	195.1.1 = {
 		birth = 195.1.1
@@ -8011,7 +8011,7 @@
 545 = {
 	name = "Maximilien"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	197.1.1 = {
 		birth = 197.1.1
 	}
@@ -8026,7 +8026,7 @@
 546 = {
 	name = "Sabine"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	174.1.1 = {
 		birth = 174.1.1
@@ -8040,7 +8040,7 @@
 547 = {
 	name = "Leonard"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	202.1.1 = {
 		birth = 202.1.1
 	}
@@ -8055,7 +8055,7 @@
 548 = {
 	name = "Laurent"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	204.1.1 = {
 		birth = 204.1.1
 	}
@@ -8070,7 +8070,7 @@
 549 = {
 	name = "Alban"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	206.1.1 = {
 		birth = 206.1.1
 	}
@@ -8085,7 +8085,7 @@
 550 = {
 	name = "Elle"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	208.1.1 = {
 		birth = 208.1.1
@@ -8101,7 +8101,7 @@
 551 = {
 	name = "Pierre"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	210.1.1 = {
 		birth = 210.1.1
 	}
@@ -8116,7 +8116,7 @@
 552 = {
 	name = "Rianne"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	210.1.1 = {
 		birth = 210.1.1
@@ -8130,7 +8130,7 @@
 553 = {
 	name = "Laudus"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	234.1.1 = {
 		birth = 234.1.1
 	}
@@ -8145,7 +8145,7 @@
 554 = {
 	name = "Valentina"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	238.1.1 = {
 		birth = 238.1.1
@@ -8159,7 +8159,7 @@
 555 = {
 	name = "Isabelle"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	260.1.1 = {
 		birth = 260.1.1
@@ -8175,7 +8175,7 @@
 556 = {
 	name = "Victoria"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	262.1.1 = {
 		birth = 262.1.1
@@ -8191,7 +8191,7 @@
 557 = {
 	name = "Henri"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
 	}
@@ -8206,7 +8206,7 @@
 558 = {
 	name = "Julienne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	210.1.1 = {
 		birth = 210.1.1
@@ -8221,7 +8221,7 @@
 559 = {
 	name = "Marian"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	215.1.1 = {
 		birth = 215.1.1
@@ -8235,7 +8235,7 @@
 560 = {
 	name = "Reinault"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	238.1.1 = {
 		birth = 238.1.1
 	}
@@ -8250,7 +8250,7 @@
 561 = {
 	name = "Achille"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	262.1.1 = {
 		birth = 262.1.1
 	}
@@ -8264,7 +8264,7 @@
 562 = {
 	name = "Roul"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
 	}
@@ -8278,7 +8278,7 @@
 563 = {
 	name = "Manon"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	268.1.1 = {
 		birth = 268.1.1
@@ -8293,7 +8293,7 @@
 564 = {
 	name = "Aguste"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	205.1.1 = {
 		birth = 205.1.1
 	}
@@ -8306,7 +8306,7 @@
 565 = {
 	name = "Eleonore"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	230.1.1 = {
 		birth = 230.1.1
@@ -8322,7 +8322,7 @@
 566 = {
 	name = "Niels"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	228.1.1 = {
 		birth = 228.1.1
 	}
@@ -8335,7 +8335,7 @@
 567 = {
 	name = "Octavia"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	232.1.1 = {
 		birth = 232.1.1
@@ -8349,7 +8349,7 @@
 568 = {
 	name = "Eloise"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	255.1.1 = {
 		birth = 255.1.1
@@ -8365,7 +8365,7 @@
 569 = {
 	name = "Noemie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	257.1.1 = {
 		birth = 257.1.1
@@ -8381,7 +8381,7 @@
 570 = {
 	name = "Natalie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	205.1.1 = {
 		birth = 205.1.1
@@ -8395,7 +8395,7 @@
 571 = {
 	name = "Francis"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	230.1.1 = {
 		birth = 230.1.1
 	}
@@ -8410,7 +8410,7 @@
 572 = {
 	name = "Florence"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	233.1.1 = {
 		birth = 233.1.1
@@ -8425,7 +8425,7 @@
 573 = {
 	name = "Milena"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	256.1.1 = {
 		birth = 256.1.1
@@ -8441,7 +8441,7 @@
 574 = {
 	name = "Constanze"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	259.1.1 = {
 		birth = 259.1.1
@@ -8457,7 +8457,7 @@
 575 = {
 	name = "Michel"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	257.1.1 = {
 		birth = 257.1.1
 	}
@@ -8472,7 +8472,7 @@
 576 = {
 	name = "Corina"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	259.1.1 = {
 		birth = 259.1.1
@@ -8486,7 +8486,7 @@
 577 = {
 	name = "Fabienne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	282.1.1 = {
 		birth = 282.1.1
@@ -8502,7 +8502,7 @@
 578 = {
 	name = "Herbert"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	150.1.1 = {
 		birth = 150.1.1
 	}
@@ -8515,7 +8515,7 @@
 579 = {
 	name = "Lorraine"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	284.1.1 = {
 		birth = 284.1.1
@@ -8531,7 +8531,7 @@
 580 = {
 	name = "Ingrid"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
@@ -8547,7 +8547,7 @@
 581 = {
 	name = "Leif"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	255.1.1 = {
 		birth = 255.1.1
 	}
@@ -8562,7 +8562,7 @@
 582 = {
 	name = "Julia"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	257.1.1 = {
 		birth = 257.1.1
@@ -8578,7 +8578,7 @@
 583 = {
 	name = "Viveca"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	261.1.1 = {
 		birth = 261.1.1
@@ -8594,7 +8594,7 @@
 584 = {
 	name = "Lucinda"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	267.1.1 = {
 		birth = 267.1.1
@@ -8610,7 +8610,7 @@
 585 = {
 	name = "Vidar"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	269.1.1 = {
 		birth = 269.1.1
 	}
@@ -8625,7 +8625,7 @@
 586 = {
 	name = "Calder"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	287.1.1 = {
 		birth = 287.1.1
 	}
@@ -8640,7 +8640,7 @@
 587 = {
 	name = "Osric"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	289.1.1 = {
 		birth = 289.1.1
 	}
@@ -8655,7 +8655,7 @@
 588 = {
 	name = "Elric"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	283.1.1 = {
 		birth = 283.1.1
 	}
@@ -8670,7 +8670,7 @@
 589 = {
 	name = "Torbin"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	292.1.1 = {
 		birth = 292.1.1
 	}
@@ -8685,7 +8685,7 @@
 590 = {
 	name = "Leonzio"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	284.1.1 = {
 		birth = 284.1.1
 	}
@@ -8698,7 +8698,7 @@
 591 = {
 	name = "Raoul"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	273.1.1 = {
 		birth = 273.1.1
 	}
@@ -8711,7 +8711,7 @@
 592 = {
 	name = "Alonso"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
 	}
@@ -8724,7 +8724,7 @@
 593 = {
 	name = "Sarena"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	271.1.1 = {
 		birth = 271.1.1
@@ -8739,7 +8739,7 @@
 594 = {
 	name = "Benjamin"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	290.1.1 = {
 		birth = 290.1.1
 	}
@@ -8754,7 +8754,7 @@
 595 = {
 	name = "Henri"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	291.1.1 = {
 		birth = 291.1.1
 	}
@@ -8769,7 +8769,7 @@
 596 = {
 	name = "Catalina"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	294.1.1 = {
 		birth = 294.1.1
@@ -8785,7 +8785,7 @@
 597 = {
 	name = "Ophelia"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	281.1.1 = {
 		birth = 281.1.1
@@ -8801,7 +8801,7 @@
 598 = {
 	name = "Kendric"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	283.1.1 = {
 		birth = 283.1.1
 	}
@@ -8816,7 +8816,7 @@
 599 = {
 	name = "Lucia"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	288.1.1 = {
 		birth = 288.1.1
@@ -8832,7 +8832,7 @@
 600 = {
 	name = "Fernanda"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	289.1.1 = {
 		birth = 289.1.1
@@ -8848,7 +8848,7 @@
 601 = {
 	name = "Lautaro"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	293.1.1 = {
 		birth = 293.1.1
 	}
@@ -8863,7 +8863,7 @@
 602 = {
 	name = "Javier"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	295.1.1 = {
 		birth = 295.1.1
 	}
@@ -8878,7 +8878,7 @@
 603 = {
 	name = "Thyra"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	292.1.1 = {
 		birth = 292.1.1
@@ -8894,7 +8894,7 @@
 604 = {
 	name = "Sylvia"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	294.1.1 = {
 		birth = 294.1.1
@@ -8910,7 +8910,7 @@
 605 = {
 	name = "Isidora"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
@@ -8925,7 +8925,7 @@
 606 = {
 	name = "Julia"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	301.1.1 = {
 		birth = 301.1.1
@@ -8941,7 +8941,7 @@
 607 = {
 	name = "Pietro"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	302.1.1 = {
 		birth = 302.1.1
 	}
@@ -8956,7 +8956,7 @@
 608 = {
 	name = "Thomas"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	280.1.1 = {
 		birth = 280.1.1
 	}
@@ -8969,7 +8969,7 @@
 609 = {
 	name = "Honora"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	297.1.1 = {
 		birth = 297.1.1
@@ -8985,7 +8985,7 @@
 610 = {
 	name = "Arbec"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	298.1.1 = {
 		birth = 298.1.1
 	}
@@ -9000,7 +9000,7 @@
 611 = {
 	name = "Kensley"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	300.1.1 = {
 		birth = 300.1.1
@@ -9016,7 +9016,7 @@
 612 = {
 	name = "Juliette"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	294.1.1 = {
 		birth = 294.1.1
@@ -9030,7 +9030,7 @@
 613 = {
 	name = "Astrid"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	234.1.1 = {
 		birth = 234.1.1
@@ -9044,7 +9044,7 @@
 614 = {
 	name = "Hakon"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	232.1.1 = {
 		birth = 232.1.1
 	}
@@ -9057,7 +9057,7 @@
 615 = {
 	name = "Halvard"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	210.1.1 = {
 		birth = 210.1.1
 	}
@@ -9070,7 +9070,7 @@
 616 = {
 	name = "Solveig"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	214.1.1 = {
 		birth = 214.1.1
@@ -9084,7 +9084,7 @@
 617 = {
 	name = "Leugel"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	239.1.1 = {
 		birth = 239.1.1
 	}
@@ -9099,7 +9099,7 @@
 618 = {
 	name = "Toverata"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	241.1.1 = {
 		birth = 241.1.1
@@ -9113,7 +9113,7 @@
 619 = {
 	name = "Nora"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	243.1.1 = {
 		birth = 243.1.1
@@ -9129,7 +9129,7 @@
 620 = {
 	name = "Roffe"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	238.1.1 = {
 		birth = 238.1.1
 	}
@@ -9142,7 +9142,7 @@
 621 = {
 	name = "Ardige"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	263.1.1 = {
 		birth = 263.1.1
 	}
@@ -9157,7 +9157,7 @@
 622 = {
 	name = "Karin"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	265.1.1 = {
 		birth = 265.1.1
@@ -9171,7 +9171,7 @@
 623 = {
 	name = "Aurora"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	female = yes
 	297.1.1 = {
 		birth = 297.1.1
@@ -9187,7 +9187,7 @@
 624 = {
 	name = "Marikka"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	269.1.1 = {
 		birth = 269.1.1
@@ -9201,7 +9201,7 @@
 625 = {
 	name = "Yngvarr"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	266.1.1 = {
 		birth = 266.1.1
 	}
@@ -9216,7 +9216,7 @@
 626 = {
 	name = "Erobrsonn"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	285.1.1 = {
 		birth = 285.1.1
 	}
@@ -9231,7 +9231,7 @@
 627 = {
 	name = "Frejnir"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	288.1.1 = {
 		birth = 288.1.1
 	}
@@ -9246,7 +9246,7 @@
 628 = {
 	name = "Aksel"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	290.1.1 = {
 		birth = 290.1.1
 	}
@@ -9261,7 +9261,7 @@
 629 = {
 	name = "Tuija"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	293.1.1 = {
 		birth = 293.1.1
@@ -9277,7 +9277,7 @@
 630 = {
 	name = "Sa'alia"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	149.1.1 = {
 		birth = 149.1.1
@@ -9291,7 +9291,7 @@
 631 = {
 	name = "Shalhreia"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	184.1.1 = {
 		birth = 184.1.1
@@ -9306,7 +9306,7 @@
 632 = {
 	name = "Auiamey"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	219.1.1 = {
 		birth = 219.1.1
@@ -9322,7 +9322,7 @@
 633 = {
 	name = "Saelleia"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	254.1.1 = {
 		birth = 254.1.1
@@ -9337,7 +9337,7 @@
 634 = {
 	name = "Lleoveyn"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	289.1.1 = {
 		birth = 289.1.1
 	}
@@ -9351,7 +9351,7 @@
 635 = {
 	name = "Suzenvaela"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	290.1.1 = {
 		birth = 290.1.1
@@ -9366,7 +9366,7 @@
 636 = {
 	name = "Esmedara"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	292.1.1 = {
 		birth = 292.1.1
@@ -9381,7 +9381,7 @@
 637 = {
 	name = "Myirannir"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	295.1.1 = {
 		birth = 295.1.1
 	}
@@ -9395,7 +9395,7 @@
 638 = {
 	name = "Jolieyta"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	296.1.1 = {
 		birth = 296.1.1
@@ -9410,7 +9410,7 @@
 639 = {
 	name = "Carlos"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	218.1.1 = {
 		birth = 218.1.1
 	}
@@ -9423,7 +9423,7 @@
 640 = {
 	name = "Oriandor"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	175.1.1 = {
 		birth = 175.1.1
 	}
@@ -9437,7 +9437,7 @@
 641 = {
 	name = "Samila"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	201.1.1 = {
 		birth = 201.1.1
@@ -9452,7 +9452,7 @@
 642 = {
 	name = "Eandrel"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	203.1.1 = {
 		birth = 203.1.1
 	}
@@ -9466,7 +9466,7 @@
 643 = {
 	name = "Lusyas"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	228.1.1 = {
 		birth = 228.1.1
 	}
@@ -9480,7 +9480,7 @@
 644 = {
 	name = "Salia"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	230.1.1 = {
 		birth = 230.1.1
@@ -9495,7 +9495,7 @@
 645 = {
 	name = "Isaveyl"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	247.1.1 = {
 		birth = 247.1.1
@@ -9510,7 +9510,7 @@
 646 = {
 	name = "Noveyn"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	255.1.1 = {
 		birth = 255.1.1
 	}
@@ -9524,7 +9524,7 @@
 647 = {
 	name = "Malsayn"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	273.1.1 = {
 		birth = 273.1.1
 	}
@@ -9539,7 +9539,7 @@
 648 = {
 	name = "Eyra"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	275.1.1 = {
 		birth = 275.1.1
@@ -9555,7 +9555,7 @@
 649 = {
 	name = "Alistair"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	288.1.1 = {
 		birth = 288.1.1
 	}
@@ -9568,7 +9568,7 @@
 650 = {
 	name = "Yvette"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
@@ -9582,7 +9582,7 @@
 651 = {
 	name = "Alexandria"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	307.1.1 = {
 		birth = 307.1.1
@@ -9598,7 +9598,7 @@
 652 = {
 	name = "Alex"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	305.1.1 = {
 		birth = 305.1.1
 	}
@@ -9613,7 +9613,7 @@
 653 = {
 	name = "Alejandro"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	260.1.1 = {
 		birth = 260.1.1
 	}
@@ -9627,7 +9627,7 @@
 654 = {
 	name = "Theresa"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	238.1.1 = {
 		birth = 238.1.1
@@ -9643,7 +9643,7 @@
 655 = {
 	name = "Matheo"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	275.1.1 = {
 		birth = 275.1.1
 	}
@@ -9657,7 +9657,7 @@
 656 = {
 	name = "Alondra"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	277.1.1 = {
 		birth = 277.1.1
@@ -9672,7 +9672,7 @@
 657 = {
 	name = "Camila"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	283.1.1 = {
 		birth = 283.1.1
@@ -9687,7 +9687,7 @@
 658 = {
 	name = "Gustavo"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	267.1.1 = {
 		birth = 267.1.1
 	}
@@ -9701,7 +9701,7 @@
 659 = {
 	name = "Andrieu"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	256.1.1 = {
 		birth = 256.1.1
 	}
@@ -9715,7 +9715,7 @@
 660 = {
 	name = "Andrea"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	284.1.1 = {
 		birth = 284.1.1
@@ -9730,7 +9730,7 @@
 661 = {
 	name = "Madelyn"
 	culture = suvial
-	religion = cathar
+	religion = unionism
 	female = yes
 	278.1.1 = {
 		birth = 278.1.1
@@ -9744,7 +9744,7 @@
 662 = {
 	name = "Valarosta"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	235.1.1 = {
 		birth = 235.1.1
 	}
@@ -9757,7 +9757,7 @@
 663 = {
 	name = "Jean Yves"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	230.1.1 = {
 		birth = 230.1.1
 	}
@@ -9770,7 +9770,7 @@
 664 = {
 	name = "Sylvie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	258.1.1 = {
 		birth = 258.1.1
@@ -9785,7 +9785,7 @@
 665 = {
 	name = "Lucien"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	263.1.1 = {
 		birth = 263.1.1
 	}
@@ -9800,7 +9800,7 @@
 666 = {
 	name = "Florian"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	286.1.1 = {
 		birth = 286.1.1
 	}
@@ -9815,7 +9815,7 @@
 667 = {
 	name = "Emeric"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	288.1.1 = {
 		birth = 288.1.1
 	}
@@ -9830,7 +9830,7 @@
 668 = {
 	name = "Lucrece"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	290.1.1 = {
 		birth = 290.1.1
 	}
@@ -9845,7 +9845,7 @@
 669 = {
 	name = "Fabio"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	184.1.1 = {
 		birth = 184.1.1
 	}
@@ -9859,7 +9859,7 @@
 670 = {
 	name = "Amaury"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	312.1.1 = {
 		birth = 312.1.1
 	}
@@ -9874,7 +9874,7 @@
 671 = {
 	name = "Celine"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	female = yes
 	222.1.1 = {
 		birth = 222.1.1
@@ -9888,7 +9888,7 @@
 672 = {
 	name = "Laerilas"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	240.1.1 = {
 		birth = 240.1.1
 	}
@@ -9902,7 +9902,7 @@
 673 = {
 	name = "Sancia"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
@@ -9917,7 +9917,7 @@
 674 = {
 	name = "Savnella"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	258.1.1 = {
 		birth = 258.1.1
@@ -9932,7 +9932,7 @@
 675 = {
 	name = "Orlen"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	270.1.1 = {
 		birth = 270.1.1
 	}
@@ -9946,7 +9946,7 @@
 676 = {
 	name = "Salia"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	265.1.1 = {
 		birth = 265.1.1
@@ -9961,7 +9961,7 @@
 677 = {
 	name = "Lusyas"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	250.1.1 = {
 		birth = 250.1.1
 	}
@@ -9975,7 +9975,7 @@
 678 = {
 	name = "Noveyn"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	260.1.1 = {
 		birth = 260.1.1
 	}
@@ -9989,7 +9989,7 @@
 679 = {
 	name = "Pablo"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	217.1.1 = {
 		birth = 217.1.1
 	}
@@ -10003,7 +10003,7 @@
 680 = {
 	name = "Malsayn"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	223.1.1 = {
 		birth = 223.1.1
 	}
@@ -10018,7 +10018,7 @@
 681 = {
 	name = "Alosso"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	180.1.1 = {
 		birth = 180.1.1
 	}
@@ -10031,7 +10031,7 @@
 682 = {
 	name = "Liliath"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	180.1.1 = {
 		birth = 180.1.1
@@ -10045,7 +10045,7 @@
 683 = {
 	name = "Hithaellon"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	170.1.1 = {
 		birth = 170.1.1
 	}
@@ -10058,7 +10058,7 @@
 684 = {
 	name = "Tasallon"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	200.1.1 = {
 		birth = 200.1.1
 	}
@@ -10072,7 +10072,7 @@
 685 = {
 	name = "Hin'sala"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	204.1.1 = {
 		birth = 204.1.1
@@ -10088,7 +10088,7 @@
 686 = {
 	name = "Finarhen"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	232.1.1 = {
 		birth = 232.1.1
 	}
@@ -10103,7 +10103,7 @@
 687 = {
 	name = "Malcarno"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	236.1.1 = {
 		birth = 236.1.1
 	}
@@ -10118,7 +10118,7 @@
 688 = {
 	name = "Liravella"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	240.1.1 = {
 		birth = 240.1.1
@@ -10134,7 +10134,7 @@
 689 = {
 	name = "Caswyn"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	264.1.1 = {
 		birth = 264.1.1
@@ -10149,7 +10149,7 @@
 690 = {
 	name = "Enalle"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	238.1.1 = {
 		birth = 238.1.1
 	}
@@ -10162,7 +10162,7 @@
 691 = {
 	name = "Viviana"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	254.1.1 = {
 		birth = 254.1.1
@@ -10177,7 +10177,7 @@
 692 = {
 	name = "Tehrathel"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	256.1.1 = {
 		birth = 256.1.1
 	}
@@ -10191,7 +10191,7 @@
 693 = {
 	name = "Alonzo"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	236.1.1 = {
 		birth = 236.1.1
 	}
@@ -10205,7 +10205,7 @@
 694 = {
 	name = "Faell'veia"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	260.1.1 = {
 		birth = 260.1.1
 	}
@@ -10219,7 +10219,7 @@
 695 = {
 	name = "Hin'sulain"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	262.1.1 = {
 		birth = 262.1.1
@@ -10234,7 +10234,7 @@
 696 = {
 	name = "Laenyra"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	266.1.1 = {
 		birth = 266.1.1
@@ -10250,7 +10250,7 @@
 697 = {
 	name = "Rhantallion"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	241.1.1 = {
 		birth = 241.1.1
 	}
@@ -10265,7 +10265,7 @@
 698 = {
 	name = "Elarien"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	265.1.1 = {
 		birth = 265.1.1
@@ -10280,7 +10280,7 @@
 699 = {
 	name = "Thalanor"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	263.1.1 = {
 		birth = 263.1.1
 	}
@@ -10293,7 +10293,7 @@
 700 = {
 	name = "Calenwe"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	287.1.1 = {
 		birth = 287.1.1
@@ -10309,7 +10309,7 @@
 701 = {
 	name = "Nimriel"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	289.1.1 = {
 		birth = 289.1.1
@@ -10325,7 +10325,7 @@
 702 = {
 	name = "Selithra"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	244.1.1 = {
 		birth = 244.1.1
@@ -10339,7 +10339,7 @@
 703 = {
 	name = "Tharion"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	263.1.1 = {
 		birth = 263.1.1
 	}
@@ -10354,7 +10354,7 @@
 704 = {
 	name = "Alariel"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	266.1.1 = {
 		birth = 266.1.1
@@ -10370,7 +10370,7 @@
 705 = {
 	name = "Nymerith"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	269.1.1 = {
 		birth = 269.1.1
@@ -10386,7 +10386,7 @@
 706 = {
 	name = "Vaelion"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	273.1.1 = {
 		birth = 273.1.1
 	}
@@ -10401,7 +10401,7 @@
 707 = {
 	name = "Lireth"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	265.1.1 = {
 		birth = 265.1.1
@@ -10415,7 +10415,7 @@
 708 = {
 	name = "Thalindra"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	284.1.1 = {
 		birth = 284.1.1
@@ -10431,7 +10431,7 @@
 709 = {
 	name = "Faendir"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	288.1.1 = {
 		birth = 288.1.1
 	}
@@ -10446,7 +10446,7 @@
 710 = {
 	name = "Elendir"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	180.1.1 = {
 		birth = 180.1.1
 	}
@@ -10459,7 +10459,7 @@
 711 = {
 	name = "Samwea"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	182.1.1 = {
 		birth = 182.1.1
@@ -10474,7 +10474,7 @@
 712 = {
 	name = "Larethian"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	150.1.1 = {
 		birth = 150.1.1
 	}
@@ -10487,7 +10487,7 @@
 713 = {
 	name = "Laurent"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	200.1.1 = {
 		birth = 200.1.1
 	}
@@ -10500,7 +10500,7 @@
 714 = {
 	name = "Solenne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	205.1.1 = {
 		birth = 205.1.1
@@ -10514,7 +10514,7 @@
 715 = {
 	name = "Estienne"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	245.1.1 = {
 		birth = 245.1.1
 	}
@@ -10529,7 +10529,7 @@
 716 = {
 	name = "Aurelia"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	247.1.1 = {
 		birth = 247.1.1
@@ -10544,7 +10544,7 @@
 717 = {
 	name = "Etienne"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	264.1.1 = {
 		birth = 264.1.1
 	}
@@ -10559,7 +10559,7 @@
 718 = {
 	name = "Noemie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	262.1.1 = {
 		birth = 262.1.1
@@ -10573,7 +10573,7 @@
 719 = {
 	name = "Amelina"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	280.1.1 = {
 		birth = 280.1.1
@@ -10589,7 +10589,7 @@
 720 = {
 	name = "Eilaria"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	297.1.1 = {
 		birth = 297.1.1
@@ -10605,7 +10605,7 @@
 721 = {
 	name = "Lancel"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	313.1.1 = {
 		birth = 313.1.1
 	}
@@ -10620,7 +10620,7 @@
 722 = {
 	name = "Yvea"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	302.1.1 = {
 		birth = 302.1.1
@@ -10636,7 +10636,7 @@
 723 = {
 	name = "Emmon"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	304.1.1 = {
 		birth = 304.1.1
 	}
@@ -10651,7 +10651,7 @@
 724 = {
 	name = "Narcissa"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	301.1.1 = {
 		birth = 301.1.1
@@ -10667,7 +10667,7 @@
 725 = {
 	name = "Ludovic"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
 	}
@@ -10682,7 +10682,7 @@
 726 = {
 	name = "Ghyslaine"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	264.1.1 = {
 		birth = 264.1.1
@@ -10696,7 +10696,7 @@
 727 = {
 	name = "Maeva"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
@@ -10712,7 +10712,7 @@
 728 = {
 	name = "Baldrick"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	298.1.1 = {
 		birth = 298.1.1
 	}
@@ -10727,7 +10727,7 @@
 729 = {
 	name = "Myria"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	300.1.1 = {
 		birth = 300.1.1
@@ -10743,7 +10743,7 @@
 730 = {
 	name = "Odette"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	303.1.1 = {
 		birth = 303.1.1
@@ -10759,7 +10759,7 @@
 731 = {
 	name = "Julius"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	307.1.1 = {
 		birth = 307.1.1
 	}
@@ -10773,7 +10773,7 @@
 732 = {
 	name = "Jean"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	220.1.1 = {
 		birth = 220.1.1
 	}
@@ -10786,7 +10786,7 @@
 733 = {
 	name = "Malcolm"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	301.1.1 = {
 		birth = 301.1.1
 	}
@@ -10801,7 +10801,7 @@
 734 = {
 	name = "Dario"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	130.1.1 = {
 		birth = 130.1.1
 	}
@@ -10815,7 +10815,7 @@
 735 = {
 	name = "Fabricio"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	105.1.1 = {
 		birth = 105.1.1
 	}
@@ -10828,7 +10828,7 @@
 736 = {
 	name = "Vicario"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	270.1.1 = {
 		birth = 270.1.1
 	}
@@ -10843,7 +10843,7 @@
 737 = {
 	name = "Marie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	251.1.1 = {
 		birth = 251.1.1
@@ -10858,7 +10858,7 @@
 738 = {
 	name = "Amelie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	207.1.1 = {
 		birth = 207.1.1
@@ -10872,7 +10872,7 @@
 739 = {
 	name = "Audrey"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	231.1.1 = {
 		birth = 231.1.1
@@ -10887,7 +10887,7 @@
 740 = {
 	name = "Osorio"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	291.1.1 = {
 		birth = 291.1.1
 	}
@@ -10901,7 +10901,7 @@
 741 = {
 	name = "Francine"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	182.1.1 = {
 		birth = 182.1.1
@@ -10915,7 +10915,7 @@
 742 = {
 	name = "Phillipe"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	205.1.1 = {
 		birth = 205.1.1
 	}
@@ -10929,7 +10929,7 @@
 743 = {
 	name = "Alastair"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	198.1.1 = {
 		birth = 198.1.1
 	}
@@ -10942,7 +10942,7 @@
 744 = {
 	name = "Allia"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	200.1.1 = {
 		birth = 200.1.1
@@ -10956,7 +10956,7 @@
 745 = {
 	name = "Brandon"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	220.1.1 = {
 		birth = 220.1.1
 	}
@@ -10971,7 +10971,7 @@
 746 = {
 	name = "Lilliana"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	222.1.1 = {
 		birth = 222.1.1
@@ -10985,7 +10985,7 @@
 747 = {
 	name = "Arden"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	242.1.1 = {
 		birth = 242.1.1
 	}
@@ -11000,7 +11000,7 @@
 748 = {
 	name = "Saoirse"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	244.1.1 = {
 		birth = 244.1.1
@@ -11015,7 +11015,7 @@
 749 = {
 	name = "Vilhelm"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	244.1.1 = {
 		birth = 244.1.1
 	}
@@ -11030,7 +11030,7 @@
 750 = {
 	name = "Heidie"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	246.1.1 = {
 		birth = 246.1.1
@@ -11045,7 +11045,7 @@
 751 = {
 	name = "Eddair"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	262.1.1 = {
 		birth = 262.1.1
 	}
@@ -11060,7 +11060,7 @@
 752 = {
 	name = "Edina"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
@@ -11074,7 +11074,7 @@
 753 = {
 	name = "Wilmair"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	264.1.1 = {
 		birth = 264.1.1
 	}
@@ -11089,7 +11089,7 @@
 754 = {
 	name = "Addilin"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
@@ -11103,7 +11103,7 @@
 755 = {
 	name = "Saraid"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	266.1.1 = {
 		birth = 266.1.1
@@ -11119,7 +11119,7 @@
 756 = {
 	name = "Patrick"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
 	}
@@ -11132,7 +11132,7 @@
 757 = {
 	name = "Patrick"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	268.1.1 = {
 		birth = 268.1.1
 	}
@@ -11147,7 +11147,7 @@
 758 = {
 	name = "Ian"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	266.1.1 = {
 		birth = 266.1.1
 	}
@@ -11162,7 +11162,7 @@
 759 = {
 	name = "Cathal"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	268.1.1 = {
 		birth = 268.1.1
 	}
@@ -11177,7 +11177,7 @@
 760 = {
 	name = "Rosalin"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
@@ -11193,7 +11193,7 @@
 761 = {
 	name = "Alastair"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	289.1.1 = {
 		birth = 289.1.1
 	}
@@ -11208,7 +11208,7 @@
 762 = {
 	name = "Calidh"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	291.1.1 = {
 		birth = 291.1.1
 	}
@@ -11223,7 +11223,7 @@
 763 = {
 	name = "Arnhelm"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	293.1.1 = {
 		birth = 293.1.1
 	}
@@ -11238,7 +11238,7 @@
 764 = {
 	name = "Greer"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	295.1.1 = {
 		birth = 295.1.1
@@ -11254,7 +11254,7 @@
 765 = {
 	name = "Fiona"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	297.1.1 = {
 		birth = 297.1.1
@@ -11270,7 +11270,7 @@
 766 = {
 	name = "Natharia"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	290.1.1 = {
 		birth = 290.1.1
@@ -11286,7 +11286,7 @@
 767 = {
 	name = "Finnidh"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	293.1.1 = {
 		birth = 293.1.1
 	}
@@ -11301,7 +11301,7 @@
 768 = {
 	name = "Cillian"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	295.1.1 = {
 		birth = 295.1.1
 	}
@@ -11316,7 +11316,7 @@
 769 = {
 	name = "Robard"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	299.1.1 = {
 		birth = 299.1.1
 	}
@@ -11330,7 +11330,7 @@
 770 = {
 	name = "Meridath"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	female = yes
 	302.1.1 = {
 		birth = 302.1.1
@@ -11345,7 +11345,7 @@
 771 = {
 	name = "Emeric"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	220.1.1 = {
 		birth = 220.1.1
 	}
@@ -11358,7 +11358,7 @@
 772 = {
 	name = "Nathan"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	256.1.1 = {
 		birth = 256.1.1
 	}
@@ -11371,7 +11371,7 @@
 773 = {
 	name = "Lyonel"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	281.1.1 = {
 		birth = 281.1.1
 	}
@@ -11385,7 +11385,7 @@
 774 = {
 	name = "Arianne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	282.1.1 = {
 		birth = 282.1.1
@@ -11400,7 +11400,7 @@
 775 = {
 	name = "Matei"
 	culture = ania
-	religion = cathar
+	religion = unionism
 	237.1.1 = {
 		birth = 237.1.1
 	}
@@ -11413,7 +11413,7 @@
 776 = {
 	name = "Costin"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	236.1.1 = {
 		birth = 236.1.1
 	}
@@ -11426,7 +11426,7 @@
 777 = {
 	name = "Marie"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	female = yes
 	267.1.1 = {
 		birth = 267.1.1
@@ -11441,7 +11441,7 @@
 778 = {
 	name = "Pavel"
 	culture = ania
-	religion = cathar
+	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
 	}
@@ -11455,7 +11455,7 @@
 779 = {
 	name = "Katarina"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	female = yes
 	291.1.1 = {
 		birth = 291.1.1
@@ -11471,7 +11471,7 @@
 780 = {
 	name = "Acelina"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	female = yes
 	295.1.1 = {
 		birth = 295.1.1
@@ -11487,7 +11487,7 @@
 781 = {
 	name = "Ivonn"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	301.1.1 = {
 		birth = 301.1.1
 	}
@@ -11502,7 +11502,7 @@
 782 = {
 	name = "Beatrix"
 	culture = ania
-	religion = cathar
+	religion = unionism
 	female = yes
 	273.1.1 = {
 		birth = 273.1.1
@@ -11517,7 +11517,7 @@
 783 = {
 	name = "Ambrus"
 	culture = szabadok
-	religion = cathar
+	religion = unionism
 	270.1.1 = {
 		birth = 270.1.1
 	}
@@ -11530,7 +11530,7 @@
 784 = {
 	name = "Fredek"
 	culture = szabadok
-	religion = cathar
+	religion = unionism
 	293.1.1 = {
 		birth = 293.1.1
 	}
@@ -11545,7 +11545,7 @@
 785 = {
 	name = "Lukacs"
 	culture = szabadok
-	religion = cathar
+	religion = unionism
 	295.1.1 = {
 		birth = 295.1.1
 	}
@@ -11560,7 +11560,7 @@
 786 = {
 	name = "Sabina"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	female = yes
 	275.1.1 = {
 		birth = 275.1.1
@@ -11575,7 +11575,7 @@
 787 = {
 	name = "Cristian"
 	culture = ania
-	religion = cathar
+	religion = unionism
 	273.1.1 = {
 		birth = 273.1.1
 	}
@@ -11588,7 +11588,7 @@
 788 = {
 	name = "Elicia"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	female = yes
 	297.1.1 = {
 		birth = 297.1.1
@@ -11604,7 +11604,7 @@
 789 = {
 	name = "Corina"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	female = yes
 	298.1.1 = {
 		birth = 298.1.1
@@ -11620,7 +11620,7 @@
 790 = {
 	name = "Petre"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	283.1.1 = {
 		birth = 283.1.1
 	}
@@ -11634,7 +11634,7 @@
 791 = {
 	name = "Mihaela"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	female = yes
 	287.1.1 = {
 		birth = 287.1.1
@@ -11649,7 +11649,7 @@
 792 = {
 	name = "Ragnar"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	313.1.1 = {
 		birth = 313.1.1
 	}
@@ -11664,7 +11664,7 @@
 793 = {
 	name = "Kerastellar"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	265.1.1 = {
 		birth = 265.1.1
@@ -11680,7 +11680,7 @@
 794 = {
 	name = "Nadia"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	female = yes
 	295.1.1 = {
 		birth = 295.1.1
@@ -11694,7 +11694,7 @@
 795 = {
 	name = "Lovid"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	312.1.1 = {
 		birth = 312.1.1
 	}
@@ -11709,7 +11709,7 @@
 796 = {
 	name = "Solveig"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	313.1.1 = {
 		birth = 313.1.1
 	}
@@ -11724,7 +11724,7 @@
 797 = {
 	name = "Siselle"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	295.1.1 = {
 		birth = 295.1.1
@@ -11738,7 +11738,7 @@
 798 = {
 	name = "Gunnar"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	246.1.1 = {
 		birth = 246.1.1
 	}
@@ -11751,7 +11751,7 @@
 799 = {
 	name = "Kerastellar"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	262.1.1 = {
 		birth = 262.1.1
@@ -11767,7 +11767,7 @@
 800 = {
 	name = "Morten"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	265.1.1 = {
 		birth = 265.1.1
 	}
@@ -11781,7 +11781,7 @@
 801 = {
 	name = "Garth"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	287.1.1 = {
 		birth = 287.1.1
 	}
@@ -11796,7 +11796,7 @@
 802 = {
 	name = "Thelka"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	267.1.1 = {
 		birth = 267.1.1
@@ -11811,7 +11811,7 @@
 803 = {
 	name = "Godtfred"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	262.1.1 = {
 		birth = 262.1.1
 	}
@@ -11824,7 +11824,7 @@
 804 = {
 	name = "Johanne"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	290.1.1 = {
 		birth = 290.1.1
@@ -11840,7 +11840,7 @@
 805 = {
 	name = "Arvid"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	292.1.1 = {
 		birth = 292.1.1
 	}
@@ -11855,7 +11855,7 @@
 806 = {
 	name = "Hartvik"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	293.1.1 = {
 		birth = 293.1.1
 	}
@@ -11870,7 +11870,7 @@
 807 = {
 	name = "Eydis"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	295.1.1 = {
 		birth = 295.1.1
@@ -11886,7 +11886,7 @@
 808 = {
 	name = "Ylva"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	296.1.1 = {
 		birth = 296.1.1
@@ -11902,7 +11902,7 @@
 809 = {
 	name = "Mavleina"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	258.1.1 = {
 		birth = 258.1.1
@@ -11916,7 +11916,7 @@
 810 = {
 	name = "Sif"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	350.1.1 = {
 		birth = 350.1.1
@@ -11932,7 +11932,7 @@
 811 = {
 	name = "Vaenya"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	182.1.1 = {
 		birth = 182.1.1
@@ -11946,7 +11946,7 @@
 812 = {
 	name = "Cerynlo"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	180.1.1 = {
 		birth = 180.1.1
 	}
@@ -11959,7 +11959,7 @@
 813 = {
 	name = "Tesvmalo"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	200.1.1 = {
 		birth = 200.1.1
@@ -11975,7 +11975,7 @@
 814 = {
 	name = "Eash Llo"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	198.1.1 = {
 		birth = 198.1.1
 	}
@@ -11988,7 +11988,7 @@
 815 = {
 	name = "Serlay'ufol"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	220.1.1 = {
 		birth = 220.1.1
@@ -12004,7 +12004,7 @@
 816 = {
 	name = "Abelhard"
 	culture = etosian
-	religion = cathar
+	religion = unionism
 	242.1.1 = {
 		birth = 242.1.1
 	}
@@ -12018,7 +12018,7 @@
 817 = {
 	name = "Avox"
 	culture = etosian
-	religion = cathar
+	religion = unionism
 	female = yes
 	292.1.1 = {
 		birth = 292.1.1
@@ -12033,7 +12033,7 @@
 818 = {
 	name = "Tol Ay"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	223.1.1 = {
 		birth = 223.1.1
 	}
@@ -12048,7 +12048,7 @@
 819 = {
 	name = "Sylvia"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	226.1.1 = {
 		birth = 226.1.1
@@ -12064,7 +12064,7 @@
 820 = {
 	name = "Jurgen"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	224.1.1 = {
 		birth = 224.1.1
 	}
@@ -12077,7 +12077,7 @@
 821 = {
 	name = "Katrin"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	250.1.1 = {
 		birth = 250.1.1
@@ -12093,7 +12093,7 @@
 822 = {
 	name = "Ul Ayom"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	202.1.1 = {
 		birth = 202.1.1
@@ -12109,7 +12109,7 @@
 823 = {
 	name = "Telryllo"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	200.1.1 = {
 		birth = 200.1.1
 	}
@@ -12122,7 +12122,7 @@
 824 = {
 	name = "Lluitalen"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	222.1.1 = {
 		birth = 222.1.1
 	}
@@ -12137,7 +12137,7 @@
 825 = {
 	name = "Junia"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	225.1.1 = {
 		birth = 225.1.1
@@ -12151,7 +12151,7 @@
 826 = {
 	name = "Adrastos"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	247.1.1 = {
 		birth = 247.1.1
 	}
@@ -12166,7 +12166,7 @@
 827 = {
 	name = "Tebryn"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	249.1.1 = {
 		birth = 249.1.1
 	}
@@ -12181,7 +12181,7 @@
 828 = {
 	name = "Emmeline"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	252.1.1 = {
 		birth = 252.1.1
@@ -12197,7 +12197,7 @@
 829 = {
 	name = "Rievein"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	226.1.1 = {
 		birth = 226.1.1
 	}
@@ -12212,7 +12212,7 @@
 830 = {
 	name = "Madeline"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	230.1.1 = {
 		birth = 230.1.1
@@ -12226,7 +12226,7 @@
 831 = {
 	name = "Fleur"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	255.1.1 = {
 		birth = 255.1.1
@@ -12242,7 +12242,7 @@
 832 = {
 	name = "Acelina"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	258.1.1 = {
 		birth = 258.1.1
@@ -12258,7 +12258,7 @@
 833 = {
 	name = "Lucienne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	259.1.1 = {
 		birth = 259.1.1
@@ -12274,7 +12274,7 @@
 834 = {
 	name = "Stefan"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	257.1.1 = {
 		birth = 257.1.1
 	}
@@ -12287,7 +12287,7 @@
 835 = {
 	name = "Florentine"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	283.1.1 = {
 		birth = 283.1.1
@@ -12303,7 +12303,7 @@
 836 = {
 	name = "Auriane"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
@@ -12319,7 +12319,7 @@
 837 = {
 	name = "Timothee"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	289.1.1 = {
 		birth = 289.1.1
 	}
@@ -12334,7 +12334,7 @@
 838 = {
 	name = "Elarir"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	261.1.1 = {
 		birth = 261.1.1
 	}
@@ -12347,7 +12347,7 @@
 839 = {
 	name = "Neomie"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	298.1.1 = {
 		birth = 298.1.1
@@ -12363,7 +12363,7 @@
 840 = {
 	name = "Renee"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	233.1.1 = {
 		birth = 233.1.1
@@ -12379,7 +12379,7 @@
 841 = {
 	name = "Isabeau"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	204.1.1 = {
 		birth = 204.1.1
@@ -12395,7 +12395,7 @@
 842 = {
 	name = "Genevieve"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	174.1.1 = {
 		birth = 174.1.1
@@ -12411,7 +12411,7 @@
 843 = {
 	name = "Louis"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	231.1.1 = {
 		birth = 231.1.1
 	}
@@ -12424,7 +12424,7 @@
 844 = {
 	name = "Etienne"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	176.1.1 = {
 		birth = 176.1.1
 	}
@@ -12437,7 +12437,7 @@
 845 = {
 	name = "Claire"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	145.1.1 = {
 		birth = 145.1.1
@@ -12453,7 +12453,7 @@
 846 = {
 	name = "Bastien"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	147.1.1 = {
 		birth = 147.1.1
 	}
@@ -12466,7 +12466,7 @@
 847 = {
 	name = "Veronique"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	116.1.1 = {
 		birth = 116.1.1
@@ -12480,7 +12480,7 @@
 848 = {
 	name = "Andrien"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	118.1.1 = {
 		birth = 118.1.1
 	}
@@ -12493,7 +12493,7 @@
 849 = {
 	name = "Philippe"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	202.1.1 = {
 		birth = 202.1.1
 	}
@@ -12506,7 +12506,7 @@
 850 = {
 	name = "Carl"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	266.1.1 = {
 		birth = 266.1.1
 	}
@@ -12521,7 +12521,7 @@
 851 = {
 	name = "Isidore"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	290.1.1 = {
 		birth = 290.1.1
@@ -12537,7 +12537,7 @@
 852 = {
 	name = "Ulvira"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	292.1.1 = {
 		birth = 292.1.1
@@ -12553,7 +12553,7 @@
 853 = {
 	name = "Otto"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	238.1.1 = {
 		birth = 238.1.1
 	}
@@ -12568,7 +12568,7 @@
 854 = {
 	name = "Helene"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	242.1.1 = {
 		birth = 242.1.1
@@ -12582,7 +12582,7 @@
 855 = {
 	name = "Friedrich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	212.1.1 = {
 		birth = 212.1.1
 	}
@@ -12595,7 +12595,7 @@
 856 = {
 	name = "Elisabet"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	189.1.1 = {
 		birth = 189.1.1
@@ -12609,7 +12609,7 @@
 857 = {
 	name = "Gerhard"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	185.1.1 = {
 		birth = 185.1.1
 	}
@@ -12622,7 +12622,7 @@
 858 = {
 	name = "Magdalena"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	214.1.1 = {
 		birth = 214.1.1
@@ -12636,7 +12636,7 @@
 859 = {
 	name = "Ulrich"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	188.1.1 = {
 		birth = 188.1.1
 	}
@@ -12649,7 +12649,7 @@
 860 = {
 	name = "Ruzgar"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	277.1.1 = {
 		birth = 277.1.1
 	}
@@ -12662,7 +12662,7 @@
 861 = {
 	name = "Clarissa"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	231.1.1 = {
 		birth = 231.1.1
@@ -12676,7 +12676,7 @@
 862 = {
 	name = "Edmund"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	228.1.1 = {
 		birth = 228.1.1
 	}
@@ -12689,7 +12689,7 @@
 863 = {
 	name = "Thurnolf"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	253.1.1 = {
 		birth = 253.1.1
 	}
@@ -12704,7 +12704,7 @@
 864 = {
 	name = "Maessa"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	253.1.1 = {
 		birth = 253.1.1
@@ -12718,7 +12718,7 @@
 865 = {
 	name = "Theadora"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	278.1.1 = {
 		birth = 278.1.1
@@ -12734,7 +12734,7 @@
 866 = {
 	name = "Abelhard"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	279.1.1 = {
 		birth = 279.1.1
 	}
@@ -12749,7 +12749,7 @@
 867 = {
 	name = "Esther"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	311.1.1 = {
 		birth = 311.1.1
@@ -12764,7 +12764,7 @@
 868 = {
 	name = "Aelfric"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	309.1.1 = {
 		birth = 309.1.1
 	}
@@ -12778,7 +12778,7 @@
 869 = {
 	name = "Leopold"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	280.1.1 = {
 		birth = 280.1.1
 	}
@@ -12793,7 +12793,7 @@
 870 = {
 	name = "Caspian"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	299.1.1 = {
 		birth = 299.1.1
 	}
@@ -12807,7 +12807,7 @@
 871 = {
 	name = "Georgina Ruth"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	295.1.1 = {
 		birth = 295.1.1
@@ -12823,7 +12823,7 @@
 872 = {
 	name = "James Charles"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	281.1.1 = {
 		birth = 281.1.1
 	}
@@ -12838,7 +12838,7 @@
 873 = {
 	name = "Lars Alexander"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	283.1.1 = {
 		birth = 283.1.1
 	}
@@ -12853,7 +12853,7 @@
 874 = {
 	name = "Ida Mae"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	296.1.1 = {
 		birth = 296.1.1
@@ -12869,7 +12869,7 @@
 875 = {
 	name = "Karina"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
@@ -12885,7 +12885,7 @@
 876 = {
 	name = "Frederick"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	264.1.1 = {
 		birth = 264.1.1
 	}
@@ -12900,7 +12900,7 @@
 877 = {
 	name = "Bernadette"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	251.1.1 = {
 		birth = 251.1.1
@@ -12914,7 +12914,7 @@
 878 = {
 	name = "William"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	258.1.1 = {
 		birth = 258.1.1
 	}
@@ -12929,7 +12929,7 @@
 879 = {
 	name = "Thomas"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	278.1.1 = {
 		birth = 278.1.1
 	}
@@ -12944,7 +12944,7 @@
 880 = {
 	name = "Alexandra"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
@@ -12960,7 +12960,7 @@
 881 = {
 	name = "Bethany"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	289.1.1 = {
 		birth = 289.1.1
@@ -12976,7 +12976,7 @@
 882 = {
 	name = "Isaac"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	292.1.1 = {
 		birth = 292.1.1
 	}
@@ -12991,7 +12991,7 @@
 883 = {
 	name = "Beatrice"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	263.1.1 = {
 		birth = 263.1.1
@@ -13005,7 +13005,7 @@
 884 = {
 	name = "Luther"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	263.1.1 = {
 		birth = 263.1.1
 	}
@@ -13020,7 +13020,7 @@
 885 = {
 	name = "Peter"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	287.1.1 = {
 		birth = 287.1.1
 	}
@@ -13035,7 +13035,7 @@
 886 = {
 	name = "Colleen"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	female = yes
 	290.1.1 = {
 		birth = 290.1.1
@@ -13051,7 +13051,7 @@
 887 = {
 	name = "Michael"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	293.1.1 = {
 		birth = 293.1.1
 	}
@@ -13066,7 +13066,7 @@
 888 = {
 	name = "Agustine"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	267.1.1 = {
 		birth = 267.1.1
 	}
@@ -13081,7 +13081,7 @@
 889 = {
 	name = "Robert"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	299.1.1 = {
 		birth = 299.1.1
 	}
@@ -13095,7 +13095,7 @@
 890 = {
 	name = "Verger"
 	culture = eronidas
-	religion = cathar
+	religion = draconism
 	268.1.1 = {
 		birth = 268.1.1
 	}
@@ -13108,7 +13108,7 @@
 891 = {
 	name = "Lisette"
 	culture = leutz_vixe
-	religion = cathar
+	religion = unionism
 	female = yes
 	286.1.1 = {
 		birth = 286.1.1
@@ -13122,7 +13122,7 @@
 892 = {
 	name = "Sophia"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	286.1.1 = {
 		birth = 286.1.1
@@ -13136,7 +13136,7 @@
 893 = {
 	name = "Sigfrid"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	275.1.1 = {
 		birth = 275.1.1
 	}
@@ -13149,7 +13149,7 @@
 894 = {
 	name = "Izel"
 	culture = selvath
-	religion = cathar
+	religion = estelley
 	female = yes
 	286.1.1 = {
 		birth = 286.1.1
@@ -13163,7 +13163,7 @@
 895 = {
 	name = "Charles"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	288.1.1 = {
 		birth = 288.1.1
 	}
@@ -13176,7 +13176,7 @@
 896 = {
 	name = "Nadiya"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	female = yes
 	290.1.1 = {
 		birth = 290.1.1
@@ -13190,7 +13190,7 @@
 897 = {
 	name = "Charles"
 	culture = leutz_vixe
-	religion = cathar
+	religion = unionism
 	289.1.1 = {
 		birth = 289.1.1
 	}
@@ -13203,7 +13203,7 @@
 898 = {
 	name = "Krieger"
 	culture = leutz_vixe
-	religion = cathar
+	religion = unionism
 	289.1.1 = {
 		birth = 289.1.1
 	}
@@ -13216,7 +13216,7 @@
 899 = {
 	name = "Jannick"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	292.1.1 = {
 		birth = 292.1.1
 	}
@@ -13229,7 +13229,7 @@
 900 = {
 	name = "Suvitril"
 	culture = krainivaya
-	religion = cathar
+	religion = unionism
 	female = yes
 	253.1.1 = {
 		birth = 253.1.1
@@ -13243,7 +13243,7 @@
 901 = {
 	name = "Severus"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	283.1.1 = {
 		birth = 283.1.1
 	}
@@ -13256,7 +13256,7 @@
 902 = {
 	name = "Victoire"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	female = yes
 	293.1.1 = {
 		birth = 293.1.1
@@ -13270,7 +13270,7 @@
 903 = {
 	name = "Theodric"
 	culture = ceaerden
-	religion = cathar
+	religion = unionism
 	287.1.1 = {
 		birth = 287.1.1
 	}
@@ -13283,7 +13283,7 @@
 904 = {
 	name = "Almar"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	281.1.1 = {
 		birth = 281.1.1
 	}
@@ -13296,7 +13296,7 @@
 905 = {
 	name = "Kalu"
 	culture = skyborn
-	religion = cathar
+	religion = unionism
 	296.1.1 = {
 		birth = 296.1.1
 	}
@@ -13309,7 +13309,7 @@
 906 = {
 	name = "Amber"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	291.1.1 = {
 		birth = 291.1.1
@@ -13323,7 +13323,7 @@
 907 = {
 	name = "Nefertath"
 	culture = tierravera
-	religion = cathar
+	religion = khama
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
@@ -13337,7 +13337,7 @@
 908 = {
 	name = "Roulain"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	287.1.1 = {
 		birth = 287.1.1
 	}
@@ -13350,7 +13350,7 @@
 909 = {
 	name = "Nefer"
 	culture = asha
-	religion = cathar
+	religion = khama
 	285.1.1 = {
 		birth = 285.1.1
 	}
@@ -13363,7 +13363,7 @@
 910 = {
 	name = "Fiora"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	282.1.1 = {
 		birth = 282.1.1
@@ -13377,7 +13377,7 @@
 911 = {
 	name = "Francisca"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	282.1.1 = {
 		birth = 282.1.1
@@ -13391,7 +13391,7 @@
 912 = {
 	name = "Marak"
 	culture = allar
-	religion = cathar
+	religion = draconism
 	282.1.1 = {
 		birth = 282.1.1
 	}
@@ -13403,8 +13403,8 @@
 
 913 = {
 	name = "Yahra"
-	culture = dragonkin
-	religion = cathar
+	culture = draconismkin
+	religion = draconism
 	female = yes
 	293.1.1 = {
 		birth = 293.1.1
@@ -13418,7 +13418,7 @@
 914 = {
 	name = "Lao"
 	culture = sihai
-	religion = cathar
+	religion = draconism
 	248.1.1 = {
 		birth = 248.1.1
 	}
@@ -13431,7 +13431,7 @@
 915 = {
 	name = "Jocelyn"
 	culture = sihai
-	religion = cathar
+	religion = draconism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
@@ -13445,7 +13445,7 @@
 916 = {
 	name = "Lieven"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	285.1.1 = {
 		birth = 285.1.1
 	}
@@ -13458,7 +13458,7 @@
 917 = {
 	name = "Wilhelm"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	274.1.1 = {
 		birth = 274.1.1
 	}
@@ -13471,7 +13471,7 @@
 918 = {
 	name = "Hera"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	female = yes
 	290.1.1 = {
 		birth = 290.1.1
@@ -13486,7 +13486,7 @@
 919 = {
 	name = "Bonavent"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	286.1.1 = {
 		birth = 286.1.1
 	}
@@ -13499,7 +13499,7 @@
 920 = {
 	name = "Madelyn"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	278.1.1 = {
 		birth = 278.1.1
@@ -13513,7 +13513,7 @@
 921 = {
 	name = "Virathus"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	286.1.1 = {
 		birth = 286.1.1
 	}
@@ -13526,7 +13526,7 @@
 922 = {
 	name = "Dorothios"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	289.1.1 = {
 		birth = 289.1.1
 	}
@@ -13539,7 +13539,7 @@
 923 = {
 	name = "Halewise"
 	culture = breizh
-	religion = cathar
+	religion = unionism
 	280.1.1 = {
 		birth = 280.1.1
 	}
@@ -13552,7 +13552,7 @@
 924 = {
 	name = "Mariella"
 	culture = ithanian
-	religion = cathar
+	religion = draconism
 	female = yes
 	287.1.1 = {
 		birth = 287.1.1
@@ -13566,7 +13566,7 @@
 925 = {
 	name = "Lamont"
 	culture = gallovian
-	religion = cathar
+	religion = fornoss
 	287.1.1 = {
 		birth = 287.1.1
 	}
@@ -13579,7 +13579,7 @@
 926 = {
 	name = "Willem"
 	culture = anglian
-	religion = cathar
+	religion = draconism
 	254.1.1 = {
 		birth = 254.1.1
 	}
@@ -13592,7 +13592,7 @@
 927 = {
 	name = "Thomas"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	248.1.1 = {
 		birth = 248.1.1
 	}
@@ -13605,7 +13605,7 @@
 928 = {
 	name = "Lucien"
 	culture = ithanian
-	religion = cathar
+	religion = estelley
 	242.1.1 = {
 		birth = 242.1.1
 	}
@@ -13618,7 +13618,7 @@
 929 = {
 	name = "Pierre"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	237.1.1 = {
 		birth = 237.1.1
 	}
@@ -13631,7 +13631,7 @@
 930 = {
 	name = "Aerandir"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	259.1.1 = {
 		birth = 259.1.1
 	}
@@ -13644,7 +13644,7 @@
 931 = {
 	name = "Hendrik"
 	culture = eronidas
-	religion = cathar
+	religion = draconism
 	233.1.1 = {
 		birth = 233.1.1
 	}
@@ -13657,7 +13657,7 @@
 932 = {
 	name = "Thalion"
 	culture = solvaan
-	religion = cathar
+	religion = unionism
 	251.1.1 = {
 		birth = 251.1.1
 	}
@@ -13670,7 +13670,7 @@
 933 = {
 	name = "Calenor"
 	culture = kathar
-	religion = cathar
+	religion = evolism
 	240.1.1 = {
 		birth = 240.1.1
 	}
@@ -13683,7 +13683,7 @@
 934 = {
 	name = "Joris"
 	culture = eronidas
-	religion = cathar
+	religion = unionism
 	226.1.1 = {
 		birth = 226.1.1
 	}
@@ -13696,7 +13696,7 @@
 935 = {
 	name = "Erik"
 	culture = url
-	religion = cathar
+	religion = unionism
 	244.1.1 = {
 		birth = 244.1.1
 	}
@@ -13709,7 +13709,7 @@
 936 = {
 	name = "Milan"
 	culture = wruclav
-	religion = cathar
+	religion = unionism
 	238.1.1 = {
 		birth = 238.1.1
 	}
@@ -13722,7 +13722,7 @@
 937 = {
 	name = "Alistair"
 	culture = dunbrae
-	religion = cathar
+	religion = fornoss
 	231.1.1 = {
 		birth = 231.1.1
 	}
@@ -13735,7 +13735,7 @@
 938 = {
 	name = "Nikolas"
 	culture = etosian
-	religion = cathar
+	religion = evintarian
 	256.1.1 = {
 		birth = 256.1.1
 	}
@@ -13748,7 +13748,7 @@
 939 = {
 	name = "Oleg"
 	culture = krainivaya
-	religion = cathar
+	religion = evintarian
 	229.1.1 = {
 		birth = 229.1.1
 	}
@@ -13761,7 +13761,7 @@
 940 = {
 	name = "Edward"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	247.1.1 = {
 		birth = 247.1.1
 	}
@@ -13774,7 +13774,7 @@
 941 = {
 	name = "Robert"
 	culture = tarkin
-	religion = cathar
+	religion = fornoss
 	220.1.1 = {
 		birth = 220.1.1
 	}
@@ -13787,7 +13787,7 @@
 942 = {
 	name = "Cormac"
 	culture = aontaithe
-	religion = cathar
+	religion = fornoss
 	252.1.1 = {
 		birth = 252.1.1
 	}
@@ -13800,7 +13800,7 @@
 943 = {
 	name = "Henry"
 	culture = gallovian
-	religion = cathar
+	religion = fornoss
 	234.1.1 = {
 		birth = 234.1.1
 	}
@@ -13813,7 +13813,7 @@
 944 = {
 	name = "James"
 	culture = calderliga
-	religion = cathar
+	religion = unionism
 	245.1.1 = {
 		birth = 245.1.1
 	}
@@ -13826,7 +13826,7 @@
 945 = {
 	name = "Viktor"
 	culture = krainivaya
-	religion = cathar
+	religion = fornoss
 	222.1.1 = {
 		birth = 222.1.1
 	}
@@ -13839,7 +13839,7 @@
 946 = {
 	name = "Lukas"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	258.1.1 = {
 		birth = 258.1.1
 	}
@@ -13852,7 +13852,7 @@
 947 = {
 	name = "Fergus"
 	culture = dunbrae
-	religion = cathar
+	religion = unionism
 	236.1.1 = {
 		birth = 236.1.1
 	}
@@ -13865,7 +13865,7 @@
 948 = {
 	name = "Andreas"
 	culture = tsalqvanes
-	religion = cathar
+	religion = evintarian
 	249.1.1 = {
 		birth = 249.1.1
 	}
@@ -13878,7 +13878,7 @@
 949 = {
 	name = "Richard"
 	culture = anglian
-	religion = cathar
+	religion = evolism
 	224.1.1 = {
 		birth = 224.1.1
 	}
@@ -13891,7 +13891,7 @@
 950 = {
 	name = "Samuel"
 	culture = leutz_vixe
-	religion = cathar
+	religion = unionism
 	253.1.1 = {
 		birth = 253.1.1
 	}
@@ -13904,7 +13904,7 @@
 951 = {
 	name = "Daniel"
 	culture = breizh
-	religion = cathar
+	religion = unionism
 	239.1.1 = {
 		birth = 239.1.1
 	}
@@ -13917,7 +13917,7 @@
 952 = {
 	name = "Bjorn"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	227.1.1 = {
 		birth = 227.1.1
 	}
@@ -13930,7 +13930,7 @@
 953 = {
 	name = "Mateo"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	241.1.1 = {
 		birth = 241.1.1
 	}
@@ -13943,7 +13943,7 @@
 954 = {
 	name = "Ronan"
 	culture = aontaithe
-	religion = cathar
+	religion = draconism
 	232.1.1 = {
 		birth = 232.1.1
 	}
@@ -13956,7 +13956,7 @@
 955 = {
 	name = "Joao"
 	culture = bragacao
-	religion = cathar
+	religion = unionism
 	255.1.1 = {
 		birth = 255.1.1
 	}
@@ -13969,7 +13969,7 @@
 956 = {
 	name = "Leonidas"
 	culture = byala
-	religion = cathar
+	religion = evintarian
 	246.1.1 = {
 		birth = 246.1.1
 	}
@@ -13982,7 +13982,7 @@
 957 = {
 	name = "Theron"
 	culture = etosian
-	religion = cathar
+	religion = draconism
 	221.1.1 = {
 		birth = 221.1.1
 	}
@@ -13995,7 +13995,7 @@
 958 = {
 	name = "Arthur"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	250.1.1 = {
 		birth = 250.1.1
 	}
@@ -14008,7 +14008,7 @@
 959 = {
 	name = "Marcus"
 	culture = dvala
-	religion = cathar
+	religion = evintarian
 	237.1.1 = {
 		birth = 237.1.1
 	}
@@ -14021,7 +14021,7 @@
 960 = {
 	name = "Stephen"
 	culture = allar
-	religion = cathar
+	religion = unionism
 	243.1.1 = {
 		birth = 243.1.1
 	}
@@ -14034,7 +14034,7 @@
 961 = {
 	name = "Martin"
 	culture = genevaud
-	religion = cathar
+	religion = unionism
 	230.1.1 = {
 		birth = 230.1.1
 	}
@@ -14046,8 +14046,8 @@
 
 962 = {
 	name = "Amadou"
-	culture = dragonkin
-	religion = cathar
+	culture = draconismkin
+	religion = unionism
 	254.1.1 = {
 		birth = 254.1.1
 	}
@@ -14059,8 +14059,8 @@
 
 963 = {
 	name = "Boubacar"
-	culture = dragonkin
-	religion = cathar
+	culture = draconismkin
+	religion = draconism
 	228.1.1 = {
 		birth = 228.1.1
 	}
@@ -14073,7 +14073,7 @@
 964 = {
 	name = "Hroldin"
 	culture = dwarven
-	religion = cathar
+	religion = fornoss
 	219.1.1 = {
 		birth = 219.1.1
 	}
@@ -14086,7 +14086,7 @@
 965 = {
 	name = "Edwin"
 	culture = finul
-	religion = cathar
+	religion = estelley
 	257.1.1 = {
 		birth = 257.1.1
 	}
@@ -14099,7 +14099,7 @@
 966 = {
 	name = "Edemere"
 	culture = selvath
-	religion = cathar
+	religion = estelley
 	244.1.1 = {
 		birth = 244.1.1
 	}
@@ -14112,7 +14112,7 @@
 967 = {
 	name = "Karim"
 	culture = asha
-	religion = cathar
+	religion = unionism
 	233.1.1 = {
 		birth = 233.1.1
 	}
@@ -14125,7 +14125,7 @@
 968 = {
 	name = "Rashid"
 	culture = asha
-	religion = cathar
+	religion = khama
 	226.1.1 = {
 		birth = 226.1.1
 	}
@@ -14138,7 +14138,7 @@
 969 = {
 	name = "Nathaniel"
 	culture = skyborn
-	religion = cathar
+	religion = unionism
 	248.1.1 = {
 		birth = 248.1.1
 	}
@@ -14151,7 +14151,7 @@
 970 = {
 	name = "Oliver"
 	culture = llasada
-	religion = cathar
+	religion = estelley
 	240.1.1 = {
 		birth = 240.1.1
 	}
@@ -14164,7 +14164,7 @@
 971 = {
 	name = "Faelar"
 	culture = yanar
-	religion = cathar
+	religion = estelley
 	259.1.1 = {
 		birth = 259.1.1
 	}
@@ -14177,7 +14177,7 @@
 972 = {
 	name = "Edward"
 	culture = anglian
-	religion = cathar
+	religion = draconism
 	235.1.1 = {
 		birth = 235.1.1
 	}
@@ -14190,7 +14190,7 @@
 973 = {
 	name = "William"
 	culture = anglian
-	religion = cathar
+	religion = unionism
 	246.1.1 = {
 		birth = 246.1.1
 	}
@@ -14203,7 +14203,7 @@
 974 = {
 	name = "Marcel"
 	culture = ithanian
-	religion = cathar
+	religion = estelley
 	223.1.1 = {
 		birth = 223.1.1
 	}
@@ -14216,7 +14216,7 @@
 975 = {
 	name = "Antoine"
 	culture = ithanian
-	religion = cathar
+	religion = unionism
 	252.1.1 = {
 		birth = 252.1.1
 	}
@@ -14229,7 +14229,7 @@
 976 = {
 	name = "Elarion"
 	culture = solvaan
-	religion = cathar
+	religion = estelley
 	238.1.1 = {
 		birth = 238.1.1
 	}
@@ -14242,7 +14242,7 @@
 977 = {
 	name = "Pieter"
 	culture = eronidas
-	religion = cathar
+	religion = draconism
 	229.1.1 = {
 		birth = 229.1.1
 	}
@@ -14255,7 +14255,7 @@
 978 = {
 	name = "Lorandel"
 	culture = solvaan
-	religion = cathar
+	religion = unionism
 	247.1.1 = {
 		birth = 247.1.1
 	}
@@ -14268,7 +14268,7 @@
 979 = {
 	name = "Vaelis"
 	culture = kathar
-	religion = cathar
+	religion = evolism
 	241.1.1 = {
 		birth = 241.1.1
 	}
@@ -14281,7 +14281,7 @@
 980 = {
 	name = "Maarten"
 	culture = eronidas
-	religion = cathar
+	religion = unionism
 	234.1.1 = {
 		birth = 234.1.1
 	}
@@ -14294,7 +14294,7 @@
 981 = {
 	name = "Soren"
 	culture = url
-	religion = cathar
+	religion = unionism
 	255.1.1 = {
 		birth = 255.1.1
 	}
@@ -14307,7 +14307,7 @@
 982 = {
 	name = "Radek"
 	culture = wruclav
-	religion = cathar
+	religion = unionism
 	236.1.1 = {
 		birth = 236.1.1
 	}
@@ -14320,7 +14320,7 @@
 983 = {
 	name = "Duncan"
 	culture = dunbrae
-	religion = cathar
+	religion = fornoss
 	222.1.1 = {
 		birth = 222.1.1
 	}
@@ -14333,7 +14333,7 @@
 984 = {
 	name = "Alexandros"
 	culture = etosian
-	religion = cathar
+	religion = evintarian
 	258.1.1 = {
 		birth = 258.1.1
 	}
@@ -14346,7 +14346,7 @@
 985 = {
 	name = "Taras"
 	culture = krainivaya
-	religion = cathar
+	religion = evintarian
 	230.1.1 = {
 		birth = 230.1.1
 	}
@@ -14359,7 +14359,7 @@
 986 = {
 	name = "Charles"
 	culture = gallovian
-	religion = cathar
+	religion = unionism
 	249.1.1 = {
 		birth = 249.1.1
 	}
@@ -14372,7 +14372,7 @@
 987 = {
 	name = "Gregory"
 	culture = tarkin
-	religion = cathar
+	religion = fornoss
 	221.1.1 = {
 		birth = 221.1.1
 	}
@@ -14385,7 +14385,7 @@
 988 = {
 	name = "Seamus"
 	culture = aontaithe
-	religion = cathar
+	religion = fornoss
 	253.1.1 = {
 		birth = 253.1.1
 	}
@@ -14398,7 +14398,7 @@
 989 = {
 	name = "Philip"
 	culture = gallovian
-	religion = cathar
+	religion = fornoss
 	239.1.1 = {
 		birth = 239.1.1
 	}
@@ -14411,7 +14411,7 @@
 990 = {
 	name = "Andrew"
 	culture = calderliga
-	religion = cathar
+	religion = unionism
 	244.1.1 = {
 		birth = 244.1.1
 	}
@@ -14424,7 +14424,7 @@
 991 = {
 	name = "Mykola"
 	culture = krainivaya
-	religion = cathar
+	religion = fornoss
 	227.1.1 = {
 		birth = 227.1.1
 	}
@@ -14437,7 +14437,7 @@
 992 = {
 	name = "Matthias"
 	culture = wirtem
-	religion = cathar
+	religion = unionism
 	256.1.1 = {
 		birth = 256.1.1
 	}
@@ -14450,7 +14450,7 @@
 993 = {
 	name = "Callum"
 	culture = dunbrae
-	religion = cathar
+	religion = unionism
 	235.1.1 = {
 		birth = 235.1.1
 	}
@@ -14463,7 +14463,7 @@
 994 = {
 	name = "Demetrios"
 	culture = tsalqvanes
-	religion = cathar
+	religion = evintarian
 	248.1.1 = {
 		birth = 248.1.1
 	}
@@ -14476,7 +14476,7 @@
 995 = {
 	name = "Jonathan"
 	culture = anglian
-	religion = cathar
+	religion = evolism
 	224.1.1 = {
 		birth = 224.1.1
 	}
@@ -14489,7 +14489,7 @@
 996 = {
 	name = "Benjamin"
 	culture = leutz_vixe
-	religion = cathar
+	religion = unionism
 	252.1.1 = {
 		birth = 252.1.1
 	}
@@ -14502,7 +14502,7 @@
 997 = {
 	name = "Matthew"
 	culture = breizh
-	religion = cathar
+	religion = unionism
 	237.1.1 = {
 		birth = 237.1.1
 	}
@@ -14515,7 +14515,7 @@
 998 = {
 	name = "Torvald"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	220.1.1 = {
 		birth = 220.1.1
 	}
@@ -14528,7 +14528,7 @@
 999 = {
 	name = "Diego"
 	culture = tierravera
-	religion = cathar
+	religion = unionism
 	254.1.1 = {
 		birth = 254.1.1
 	}
@@ -14541,7 +14541,7 @@
 1000 = {
 	name = "Fionn"
 	culture = aontaithe
-	religion = cathar
+	religion = draconism
 	231.1.1 = {
 		birth = 231.1.1
 	}
@@ -14554,7 +14554,7 @@
 1001 = {
 	name = "Miguel"
 	culture = bragacao
-	religion = cathar
+	religion = unionism
 	245.1.1 = {
 		birth = 245.1.1
 	}
@@ -14567,7 +14567,7 @@
 1002 = {
 	name = "Stephanos"
 	culture = byala
-	religion = cathar
+	religion = evintarian
 	238.1.1 = {
 		birth = 238.1.1
 	}
@@ -14580,7 +14580,7 @@
 1003 = {
 	name = "Kyros"
 	culture = etosian
-	religion = cathar
+	religion = draconism
 	226.1.1 = {
 		birth = 226.1.1
 	}
@@ -14593,7 +14593,7 @@
 1004 = {
 	name = "Harold"
 	culture = cearden
-	religion = cathar
+	religion = unionism
 	249.1.1 = {
 		birth = 249.1.1
 	}
@@ -14606,7 +14606,7 @@
 1005 = {
 	name = "Victor"
 	culture = dvala
-	religion = cathar
+	religion = evintarian
 	233.1.1 = {
 		birth = 233.1.1
 	}
@@ -14619,7 +14619,7 @@
 1006 = {
 	name = "Leonard"
 	culture = allar
-	religion = cathar
+	religion = unionism
 	257.1.1 = {
 		birth = 257.1.1
 	}
@@ -14632,7 +14632,7 @@
 1007 = {
 	name = "Stefan"
 	culture = genevaud
-	religion = cathar
+	religion = unionism
 	240.1.1 = {
 		birth = 240.1.1
 	}
@@ -14644,8 +14644,8 @@
 
 1008 = {
 	name = "Mamadou"
-	culture = dragonkin
-	religion = cathar
+	culture = draconismkin
+	religion = unionism
 	222.1.1 = {
 		birth = 222.1.1
 	}
@@ -14657,8 +14657,8 @@
 
 1009 = {
 	name = "Issa"
-	culture = dragonkin
-	religion = cathar
+	culture = draconismkin
+	religion = draconism
 	251.1.1 = {
 		birth = 251.1.1
 	}
@@ -14671,7 +14671,7 @@
 1010 = {
 	name = "Brottin"
 	culture = dwarven
-	religion = cathar
+	religion = fornoss
 	229.1.1 = {
 		birth = 229.1.1
 	}
@@ -14684,7 +14684,7 @@
 1011 = {
 	name = "Simon"
 	culture = finul
-	religion = cathar
+	religion = estelley
 	246.1.1 = {
 		birth = 246.1.1
 	}
@@ -14697,7 +14697,7 @@
 1012 = {
 	name = "Mareda"
 	culture = selvath
-	religion = cathar
+	religion = estelley
 	235.1.1 = {
 		birth = 235.1.1
 	}
@@ -14710,7 +14710,7 @@
 1013 = {
 	name = "Youssef"
 	culture = asha
-	religion = cathar
+	religion = unionism
 	258.1.1 = {
 		birth = 258.1.1
 	}
@@ -14723,7 +14723,7 @@
 1014 = {
 	name = "Hassan"
 	culture = asha
-	religion = cathar
+	religion = khama
 	241.1.1 = {
 		birth = 241.1.1
 	}
@@ -14736,7 +14736,7 @@
 1015 = {
 	name = "Elias"
 	culture = skyborn
-	religion = cathar
+	religion = unionism
 	230.1.1 = {
 		birth = 230.1.1
 	}
@@ -14749,7 +14749,7 @@
 1016 = {
 	name = "Thomas"
 	culture = llasada
-	religion = cathar
+	religion = estelley
 	252.1.1 = {
 		birth = 252.1.1
 	}
@@ -14762,7 +14762,7 @@
 1017 = {
 	name = "Sylvaren"
 	culture = yanar
-	religion = cathar
+	religion = estelley
 	244.1.1 = {
 		birth = 244.1.1
 	}
@@ -14775,7 +14775,7 @@
 1018 = {
 	name = "Jan"
 	culture = anglian
-	religion = cathar
+	religion = draconism
 	260.1.1 = {
 		birth = 260.1.1
 	}
@@ -14788,7 +14788,7 @@
 1019 = {
 	name = "Anna"
 	culture = anglian
-	religion = cathar
+	religion = draconism
 	female = yes
 	262.1.1 = {
 		birth = 262.1.1
@@ -14802,7 +14802,7 @@
 1020 = {
 	name = "Pieter"
 	culture = anglian
-	religion = cathar
+	religion = draconism
 	264.1.1 = {
 		birth = 264.1.1
 	}
@@ -14815,7 +14815,7 @@
 1021 = {
 	name = "Hendrik"
 	culture = anglian
-	religion = cathar
+	religion = draconism
 	266.1.1 = {
 		birth = 266.1.1
 	}
@@ -14828,7 +14828,7 @@
 1022 = {
 	name = "Katrijn"
 	culture = anglian
-	religion = cathar
+	religion = draconism
 	female = yes
 	268.1.1 = {
 		birth = 268.1.1
@@ -14842,7 +14842,7 @@
 1023 = {
 	name = "Erik"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	270.1.1 = {
 		birth = 270.1.1
 	}
@@ -14855,7 +14855,7 @@
 1024 = {
 	name = "Leif"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	272.1.1 = {
 		birth = 272.1.1
 	}
@@ -14868,7 +14868,7 @@
 1025 = {
 	name = "Harald"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	274.1.1 = {
 		birth = 274.1.1
 	}
@@ -14881,7 +14881,7 @@
 1026 = {
 	name = "Ingrid"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	276.1.1 = {
 		birth = 276.1.1
@@ -14895,7 +14895,7 @@
 1027 = {
 	name = "Sigrid"
 	culture = velheim
-	religion = cathar
+	religion = fornoss
 	female = yes
 	278.1.1 = {
 		birth = 278.1.1
@@ -14909,7 +14909,7 @@
 1028 = {
 	name = "Jovanka"
 	culture = cantaluna
-	religion = cathar
+	religion = unionism
 	female = yes
 	292.1.1 = {
 		birth = 292.1.1

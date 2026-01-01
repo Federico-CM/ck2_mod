@@ -1,6 +1,6 @@
 title = c_forriesta_sul
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_forriesta_sul = tribal
 b_forriesta_sul2 = temple

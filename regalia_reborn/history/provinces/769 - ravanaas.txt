@@ -1,6 +1,6 @@
 title = c_ravanaas
 max_settlements = 2
 culture = kathar
-religion = cathar
+religion = evolism
 b_ravanaas = tribal
 b_ravanaas2 = temple

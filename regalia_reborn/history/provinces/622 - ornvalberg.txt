@@ -1,6 +1,6 @@
 title = c_ornvalberg
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_ornvalberg = tribal
 b_ornvalberg2 = temple

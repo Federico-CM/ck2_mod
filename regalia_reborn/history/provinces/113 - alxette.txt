@@ -1,6 +1,6 @@
 title = c_alxette
 max_settlements = 2
 culture = leutz_vixe
-religion = cathar
+religion = unionism
 b_alxette = tribal
 b_alxette2 = temple

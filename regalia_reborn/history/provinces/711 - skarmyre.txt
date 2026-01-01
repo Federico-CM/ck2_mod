@@ -1,6 +1,6 @@
 title = c_skarmyre
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_skarmyre = tribal
 b_skarmyre2 = temple

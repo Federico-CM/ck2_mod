@@ -1,6 +1,6 @@
 title = c_ettelbrueck
 max_settlements = 2
 culture = leutz_vixe
-religion = cathar
+religion = unionism
 b_ettelbrueck = tribal
 b_ettelbrueck2 = temple

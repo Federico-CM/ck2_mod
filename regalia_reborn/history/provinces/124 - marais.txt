@@ -1,6 +1,6 @@
 title = c_marais
 max_settlements = 2
 culture = leutz_vixe
-religion = cathar
+religion = unionism
 b_marais = tribal
-b_marais2 = temple
+b_du_brierust = temple

@@ -1,6 +1,6 @@
 title = c_pansala
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_pansala = tribal
 b_pansala2 = temple

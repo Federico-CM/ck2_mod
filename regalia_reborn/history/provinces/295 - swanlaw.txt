@@ -1,6 +1,6 @@
 title = c_swanlaw
 max_settlements = 2
 culture = dunbrae
-religion = cathar
+religion = unionism
 b_swanlaw = tribal
 b_swanlaw2 = temple

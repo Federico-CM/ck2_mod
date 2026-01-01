@@ -1,6 +1,6 @@
 title = c_voortzee
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_voortzee = tribal
 b_voortzee2 = temple

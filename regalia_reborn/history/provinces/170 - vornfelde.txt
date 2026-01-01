@@ -1,6 +1,6 @@
 title = c_vornfelde
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_vornfelde = tribal
 b_vornfelde2 = temple

@@ -1,6 +1,6 @@
 title = c_hintenberg
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_hintenberg = tribal
 b_hintenberg2 = temple

@@ -1,6 +1,6 @@
 title = c_athal_salen
 max_settlements = 2
 culture = ithanian
-religion = cathar
+religion = estelley
 b_athal_salen = tribal
 b_athal_salen2 = temple

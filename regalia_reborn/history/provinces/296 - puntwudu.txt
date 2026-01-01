@@ -1,6 +1,6 @@
 title = c_puntwudu
 max_settlements = 2
 culture = dunbrae
-religion = cathar
+religion = unionism
 b_puntwudu = tribal
 b_puntwudu2 = temple

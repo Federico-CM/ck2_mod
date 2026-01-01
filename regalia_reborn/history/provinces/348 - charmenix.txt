@@ -1,6 +1,6 @@
 title = c_charmenix
 max_settlements = 2
 culture = ithanian
-religion = cathar
+religion = unionism
 b_charmenix = tribal
 b_charmenix2 = temple

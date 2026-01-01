@@ -1,6 +1,6 @@
 title = c_schaffhausen
 max_settlements = 2
 culture = genevaud
-religion = cathar
+religion = unionism
 b_schaffhausen = tribal
 b_schaffhausen2 = temple

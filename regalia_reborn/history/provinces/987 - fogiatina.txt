@@ -1,6 +1,6 @@
 title = c_fogiatina
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_fogiatina = tribal
 b_fogiatina2 = temple

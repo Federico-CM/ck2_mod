@@ -1,6 +1,6 @@
 title = c_monastiri
 max_settlements = 2
 culture = etosian
-religion = cathar
+religion = evintarian
 b_monastiri = tribal
 b_monastiri2 = temple

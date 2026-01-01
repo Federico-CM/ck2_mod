@@ -1,6 +1,6 @@
 title = c_syra
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_syra = tribal
 b_syra2 = temple

@@ -1,6 +1,6 @@
 title = c_seravelle
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = estelley
 b_seravelle = tribal
 b_seravelle2 = temple

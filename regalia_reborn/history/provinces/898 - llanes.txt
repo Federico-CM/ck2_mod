@@ -1,6 +1,6 @@
 title = c_llanes
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_llanes = tribal
 b_llanes2 = temple

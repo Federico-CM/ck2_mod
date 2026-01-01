@@ -1,6 +1,6 @@
 title = c_cupermill
 max_settlements = 2
 culture = gallovian
-religion = cathar
+religion = fornoss
 b_cupermill = tribal
 b_cupermill2 = temple

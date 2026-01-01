@@ -1,6 +1,6 @@
 title = c_beylagan
 max_settlements = 2
 culture = etosian
-religion = cathar
+religion = evintarian
 b_beylagan = tribal
 b_beylagan2 = temple

@@ -1,6 +1,6 @@
 title = c_oosterschen
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_oosterschen = tribal
 b_oosterschen2 = temple

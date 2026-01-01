@@ -1,6 +1,6 @@
 title = c_ara
 max_settlements = 2
 culture = breizh
-religion = cathar
+religion = unionism
 b_ara = tribal
 b_ara2 = temple

@@ -1,6 +1,6 @@
 title = c_las_palmas
 max_settlements = 2
 culture = allar
-religion = cathar
+religion = unionism
 b_las_palmas = tribal
 b_las_palmas2 = temple

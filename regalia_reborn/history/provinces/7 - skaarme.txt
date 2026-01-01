@@ -1,6 +1,6 @@
 title = c_skaarme
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_skaarme = tribal
 b_skaarme2 = temple

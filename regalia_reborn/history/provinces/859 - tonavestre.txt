@@ -1,6 +1,6 @@
 title = c_tonavestre
 max_settlements = 2
 culture = selvath
-religion = cathar
+religion = estelley
 b_tonavestre = tribal
 b_tonavestre2 = temple

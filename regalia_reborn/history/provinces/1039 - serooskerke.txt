@@ -1,6 +1,6 @@
 title = c_serooskerke
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_serooskerke = tribal
 b_serooskerke2 = temple

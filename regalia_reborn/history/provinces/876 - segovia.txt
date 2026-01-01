@@ -1,6 +1,6 @@
 title = c_segovia
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_segovia = tribal
 b_segovia2 = temple

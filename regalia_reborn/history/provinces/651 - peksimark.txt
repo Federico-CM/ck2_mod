@@ -1,6 +1,6 @@
 title = c_peksimark
 max_settlements = 2
 culture = tarkin
-religion = cathar
+religion = fornoss
 b_peksimark = tribal
 b_peksimark2 = temple

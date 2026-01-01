@@ -1,6 +1,6 @@
 title = c_hrzadan
 max_settlements = 2
 culture = tsalqvanes
-religion = cathar
+religion = evintarian
 b_hrzadan = tribal
 b_hrzadan2 = temple

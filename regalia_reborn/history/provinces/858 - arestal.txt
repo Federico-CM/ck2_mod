@@ -1,6 +1,6 @@
 title = c_arestal
 max_settlements = 2
 culture = yanar
-religion = cathar
+religion = estelley
 b_arestal = tribal
 b_arestal2 = temple

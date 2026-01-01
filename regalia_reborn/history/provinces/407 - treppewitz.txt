@@ -1,6 +1,6 @@
 title = c_treppewitz
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_treppewitz = tribal
 b_treppewitz2 = temple

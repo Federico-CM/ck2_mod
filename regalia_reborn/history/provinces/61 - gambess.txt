@@ -1,6 +1,6 @@
 title = c_gambess
 max_settlements = 2
 culture = breizh
-religion = cathar
+religion = unionism
 b_gambess = tribal
 b_gambess2 = temple

@@ -1,6 +1,6 @@
 title = c_codwulf
 max_settlements = 2
 culture = ceaerden
-religion = cathar
+religion = unionism
 b_codwulf = tribal
 b_codwulf2 = temple

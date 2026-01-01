@@ -1,6 +1,6 @@
 title = c_aonair
 max_settlements = 2
 culture = aontaithe
-religion = cathar
+religion = fornoss
 b_aonair = tribal
 b_aonair2 = temple

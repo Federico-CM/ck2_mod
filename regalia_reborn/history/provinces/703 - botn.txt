@@ -1,6 +1,6 @@
 title = c_botn
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_botn = tribal
 b_botn2 = temple

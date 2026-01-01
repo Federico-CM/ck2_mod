@@ -1,6 +1,6 @@
 title = c_tollstiberg
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_tollstiberg = tribal
 b_tollstiberg2 = temple

@@ -1,6 +1,6 @@
 title = c_kogelgat
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_kogelgat = tribal
 b_kogelgat2 = temple

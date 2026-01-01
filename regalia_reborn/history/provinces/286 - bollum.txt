@@ -1,6 +1,6 @@
 title = c_bollum
 max_settlements = 2
 culture = dunbrae
-religion = cathar
+religion = unionism
 b_bollum = tribal
 b_bollum2 = temple

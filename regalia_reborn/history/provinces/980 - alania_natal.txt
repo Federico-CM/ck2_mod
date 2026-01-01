@@ -1,6 +1,6 @@
 title = c_alania_natal
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_alania_natal = tribal
 b_alania_natal2 = temple

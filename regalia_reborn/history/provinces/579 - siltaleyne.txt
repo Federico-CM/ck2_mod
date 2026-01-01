@@ -1,6 +1,6 @@
 title = c_siltaleyne
 max_settlements = 2
 culture = finul
-religion = cathar
+religion = estelley
 b_siltaleyne = tribal
 b_siltaleyne2 = temple

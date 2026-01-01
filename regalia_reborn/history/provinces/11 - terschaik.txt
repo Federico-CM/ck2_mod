@@ -1,6 +1,6 @@
 title = c_terschaik
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_terschaik = tribal
 b_terschaik2 = temple

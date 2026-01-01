@@ -1,6 +1,6 @@
 title = c_ostenteyn
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_ostenteyn = tribal
 b_ostenteyn2 = temple

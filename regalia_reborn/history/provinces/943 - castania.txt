@@ -1,6 +1,6 @@
 title = c_castania
 max_settlements = 2
 culture = azzizzari
-religion = cathar
+religion = unionism
 b_castania = tribal
 b_castania2 = temple

@@ -1,6 +1,6 @@
 title = c_silavenda
 max_settlements = 2
 culture = selvath
-religion = cathar
+religion = estelley
 b_silavenda = tribal
 b_silavenda2 = temple

@@ -1,6 +1,6 @@
 title = c_tzkalaitsa
 max_settlements = 2
 culture = krainivaya
-religion = cathar
+religion = evintarian
 b_tzkalaitsa = tribal
 b_tzkalaitsa2 = temple

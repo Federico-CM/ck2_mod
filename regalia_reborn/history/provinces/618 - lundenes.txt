@@ -1,6 +1,6 @@
 title = c_lundenes
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_lundenes = tribal
 b_lundenes2 = temple

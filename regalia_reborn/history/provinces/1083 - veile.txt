@@ -1,6 +1,6 @@
 title = c_veile
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_veile = tribal
 b_veile2 = temple

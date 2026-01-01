@@ -1,6 +1,6 @@
 title = c_omaraade
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_omaraade = tribal
 b_omaraade2 = temple

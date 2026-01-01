@@ -1,6 +1,6 @@
 title = c_gernegraab
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_gernegraab = tribal
 b_gernegraab2 = temple

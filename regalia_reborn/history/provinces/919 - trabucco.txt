@@ -1,6 +1,6 @@
 title = c_trabucco
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_trabucco = tribal
 b_trabucco2 = temple

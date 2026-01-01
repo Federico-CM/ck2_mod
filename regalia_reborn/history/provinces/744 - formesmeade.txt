@@ -1,6 +1,6 @@
 title = c_formesmeade
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_formesmeade = tribal
 b_formesmeade2 = temple

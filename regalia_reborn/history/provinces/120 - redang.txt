@@ -1,6 +1,6 @@
 title = c_redang
 max_settlements = 2
 culture = leutz_vixe
-religion = cathar
+religion = unionism
 b_redang = tribal
 b_redang2 = temple

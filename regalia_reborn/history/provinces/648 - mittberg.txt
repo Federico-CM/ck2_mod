@@ -1,6 +1,6 @@
 title = c_mittberg
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_mittberg = tribal
 b_mittberg2 = temple

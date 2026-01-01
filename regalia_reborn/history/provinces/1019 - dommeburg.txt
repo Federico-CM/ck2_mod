@@ -1,6 +1,6 @@
 title = c_dommeburg
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_dommeburg = tribal
 b_dommeburg2 = temple

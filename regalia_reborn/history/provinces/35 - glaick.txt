@@ -1,6 +1,6 @@
 title = c_glaick
 max_settlements = 2
 culture = dunbrae
-religion = cathar
+religion = unionism
 b_glaick = tribal
 b_glaick2 = temple

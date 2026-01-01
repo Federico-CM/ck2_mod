@@ -1,6 +1,6 @@
 title = c_caldrinburg
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_caldrinburg = tribal
 b_caldrinburg2 = temple

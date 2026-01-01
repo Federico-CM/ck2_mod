@@ -1,6 +1,6 @@
 title = c_risoyhamn
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_risoyhamn = tribal
 b_risoyhamn2 = temple

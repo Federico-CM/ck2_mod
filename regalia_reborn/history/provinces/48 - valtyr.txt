@@ -1,6 +1,6 @@
 title = c_valtyr
 max_settlements = 2
 culture = breizh
-religion = cathar
+religion = unionism
 b_valtyr = tribal
 b_valtyr2 = temple

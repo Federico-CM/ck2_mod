@@ -1,6 +1,6 @@
 title = c_scheiere
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_scheiere = tribal
 b_scheiere2 = temple

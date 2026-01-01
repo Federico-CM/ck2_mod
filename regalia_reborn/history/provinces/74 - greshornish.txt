@@ -1,6 +1,6 @@
 title = c_greshornish
 max_settlements = 2
 culture = url
-religion = cathar
+religion = unionism
 b_greshornish = tribal
 b_greshornish2 = temple

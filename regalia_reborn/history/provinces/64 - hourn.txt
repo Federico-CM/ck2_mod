@@ -1,6 +1,6 @@
 title = c_hourn
 max_settlements = 2
 culture = dunbrae
-religion = cathar
+religion = fornoss
 b_hourn = tribal
 b_hourn2 = temple

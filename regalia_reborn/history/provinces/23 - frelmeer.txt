@@ -1,6 +1,6 @@
 title = c_frelmeer
 max_settlements = 2
 culture = eronidas
-religion = cathar
+religion = unionism
 b_frelmeer = tribal
 b_frelmeer2 = temple

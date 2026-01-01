@@ -1,6 +1,6 @@
 title = c_caelaerre
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = estelley
 b_caelaerre = tribal
 b_caelaerre2 = temple

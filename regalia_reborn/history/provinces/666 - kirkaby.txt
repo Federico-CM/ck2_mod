@@ -1,6 +1,6 @@
 title = c_kirkaby
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_kirkaby = tribal
 b_kirkaby2 = temple

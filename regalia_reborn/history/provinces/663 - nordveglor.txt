@@ -1,6 +1,6 @@
 title = c_nordveglor
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_nordveglor = tribal
 b_nordveglor2 = temple

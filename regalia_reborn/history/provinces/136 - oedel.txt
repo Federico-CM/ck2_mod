@@ -1,6 +1,6 @@
 title = c_oedel
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_oedel = tribal
 b_oedel2 = temple

@@ -1,6 +1,6 @@
 title = c_campa_vasta
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_campa_vasta = tribal
 b_campa_vasta2 = temple

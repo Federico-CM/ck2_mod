@@ -1,6 +1,6 @@
 title = c_capualla
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_capualla = tribal
 b_capualla2 = temple

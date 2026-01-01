@@ -1,6 +1,6 @@
 title = c_plauenmeer
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_plauenmeer = tribal
 b_plauenmeer2 = temple

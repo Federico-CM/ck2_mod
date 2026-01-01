@@ -1,6 +1,6 @@
 title = c_prinsendeur
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_prinsendeur = tribal
 b_prinsendeur2 = temple

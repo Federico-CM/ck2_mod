@@ -1,6 +1,6 @@
 title = c_pellegrino
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_pellegrino = tribal
 b_pellegrino2 = temple

@@ -1,6 +1,6 @@
 title = c_fergh
 max_settlements = 2
 culture = genevaud
-religion = cathar
+religion = unionism
 b_fergh = tribal
 b_fergh2 = temple

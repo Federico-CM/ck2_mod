@@ -1,6 +1,6 @@
 title = c_wurthingenburgh
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_wurthingenburgh = tribal
 b_wurthingenburgh2 = temple

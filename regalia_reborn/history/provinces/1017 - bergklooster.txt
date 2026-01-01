@@ -1,6 +1,6 @@
 title = c_bergklooster
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_bergklooster = tribal
 b_bergklooster2 = temple

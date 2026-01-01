@@ -1,6 +1,6 @@
 title = c_luthol
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_luthol = tribal
 b_luthol2 = temple

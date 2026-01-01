@@ -1,6 +1,6 @@
 title = c_hoogfryse
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_hoogfryse = tribal
 b_hoogfryse2 = temple

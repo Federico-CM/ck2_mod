@@ -1,6 +1,6 @@
 title = c_formeby
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_formeby = tribal
 b_formeby2 = temple

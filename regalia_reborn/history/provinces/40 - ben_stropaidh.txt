@@ -1,6 +1,6 @@
 title = c_ben_stropaidh
 max_settlements = 2
 culture = dunbrae
-religion = cathar
+religion = unionism
 b_ben_stropaidh = tribal
 b_ben_stropaidh2 = temple

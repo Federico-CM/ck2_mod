@@ -1,6 +1,6 @@
 title = c_la_orvienta
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_la_orvienta = tribal
 b_la_orvienta2 = temple

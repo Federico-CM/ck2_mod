@@ -1,6 +1,6 @@
 title = c_sundland
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_sundland = tribal
 b_sundland2 = temple

@@ -1,6 +1,6 @@
 title = c_rotstein
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_rotstein = tribal
 b_rotstein2 = temple

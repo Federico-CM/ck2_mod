@@ -1,6 +1,6 @@
 title = c_firingerfjord
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_firingerfjord = tribal
 b_firingerfjord2 = temple

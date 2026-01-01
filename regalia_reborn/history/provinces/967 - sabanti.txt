@@ -1,6 +1,6 @@
 title = c_sabanti
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_sabanti = tribal
 b_sabanti2 = temple

@@ -1,6 +1,6 @@
 title = c_reguengos_de_murao
 max_settlements = 2
 culture = bragacao
-religion = cathar
+religion = unionism
 b_reguengos_de_murao = tribal
 b_reguengos_de_murao2 = temple

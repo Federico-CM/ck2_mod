@@ -1,6 +1,6 @@
 title = c_droitwich
 max_settlements = 2
 culture = ceaerden
-religion = cathar
+religion = unionism
 b_droitwich = tribal
 b_droitwich2 = temple

@@ -1,6 +1,6 @@
 title = c_nest_olovhamm
 max_settlements = 2
 culture = dwarven
-religion = cathar
+religion = fornoss
 b_nest_olovhamm = tribal
 b_nest_olovhamm2 = temple

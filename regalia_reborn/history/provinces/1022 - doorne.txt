@@ -1,6 +1,6 @@
 title = c_doorne
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_doorne = tribal
 b_doorne2 = temple

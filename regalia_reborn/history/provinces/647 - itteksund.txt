@@ -1,6 +1,6 @@
 title = c_itteksund
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_itteksund = tribal
 b_itteksund2 = temple

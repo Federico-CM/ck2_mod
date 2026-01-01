@@ -1,6 +1,6 @@
 title = c_costa_talar
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_costa_talar = tribal
 b_costa_talar2 = temple

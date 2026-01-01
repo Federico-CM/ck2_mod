@@ -1,6 +1,6 @@
 title = c_torissene
 max_settlements = 2
 culture = finul
-religion = cathar
+religion = estelley
 b_torissene = tribal
 b_torissene2 = temple

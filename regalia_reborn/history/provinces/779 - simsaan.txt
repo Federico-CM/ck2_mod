@@ -1,6 +1,6 @@
 title = c_simsaan
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = estelley
 b_simsaan = tribal
 b_simsaan2 = temple

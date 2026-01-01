@@ -1,6 +1,6 @@
 title = c_scheldplatz
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_scheldplatz = tribal
 b_scheldplatz2 = temple

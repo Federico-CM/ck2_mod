@@ -1,6 +1,6 @@
 title = c_sepulvosh
 max_settlements = 2
 culture = krainivaya
-religion = cathar
+religion = fornoss
 b_sepulvosh = tribal
 b_sepulvosh2 = temple

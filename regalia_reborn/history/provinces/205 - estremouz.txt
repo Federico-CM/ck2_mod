@@ -1,6 +1,6 @@
 title = c_estremouz
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_estremouz = tribal
 b_estremouz2 = temple

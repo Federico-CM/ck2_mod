@@ -1,6 +1,6 @@
 title = c_passenaar
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_passenaar = tribal
 b_passenaar2 = temple

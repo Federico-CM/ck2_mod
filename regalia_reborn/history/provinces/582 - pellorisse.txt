@@ -1,6 +1,6 @@
 title = c_pellorisse
 max_settlements = 2
 culture = llasada
-religion = cathar
+religion = estelley
 b_pellorisse = tribal
 b_pellorisse2 = temple

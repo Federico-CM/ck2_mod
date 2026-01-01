@@ -1,6 +1,6 @@
 title = c_ventone
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_ventone = tribal
 b_ventone2 = temple

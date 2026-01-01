@@ -1,6 +1,6 @@
 title = c_holy_hills
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_holy_hills = tribal
 b_holy_hills2 = temple

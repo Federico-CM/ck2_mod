@@ -1,6 +1,6 @@
 title = c_cahecho
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_cahecho = tribal
 b_cahecho2 = temple

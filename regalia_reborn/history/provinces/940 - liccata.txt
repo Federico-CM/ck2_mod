@@ -1,6 +1,6 @@
 title = c_liccata
 max_settlements = 2
 culture = azzizzari
-religion = cathar
+religion = unionism
 b_liccata = tribal
 b_liccata2 = temple

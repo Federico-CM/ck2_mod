@@ -1,6 +1,6 @@
 title = c_atherdin
 max_settlements = 2
 culture = dunbrae
-religion = cathar
+religion = unionism
 b_atherdin = tribal
 b_atherdin2 = temple

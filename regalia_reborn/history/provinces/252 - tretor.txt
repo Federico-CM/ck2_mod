@@ -1,6 +1,6 @@
 title = c_tretor
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_tretor = tribal
 b_tretor2 = temple

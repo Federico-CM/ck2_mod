@@ -1,6 +1,6 @@
 title = c_milthousebridge
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_milthousebridge = tribal
 b_milthousebridge2 = temple

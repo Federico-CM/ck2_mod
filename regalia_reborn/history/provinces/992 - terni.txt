@@ -1,6 +1,6 @@
 title = c_terni
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_terni = tribal
 b_terni2 = temple

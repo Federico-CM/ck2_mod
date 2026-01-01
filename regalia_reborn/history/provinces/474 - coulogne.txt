@@ -1,6 +1,6 @@
 title = c_coulogne
 max_settlements = 2
 culture = burdigala
-religion = cathar
+religion = unionism
 b_coulogne = tribal
 b_coulogne2 = temple

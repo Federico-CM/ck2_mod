@@ -1,6 +1,6 @@
 title = c_rollum
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = draconism
 b_rollum = tribal
 b_rollum2 = temple

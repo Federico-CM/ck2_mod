@@ -1,6 +1,6 @@
 title = c_bruecke
 max_settlements = 2
 culture = leutz_vixe
-religion = cathar
+religion = unionism
 b_bruecke = tribal
 b_bruecke2 = temple

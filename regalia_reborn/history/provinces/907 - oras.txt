@@ -1,6 +1,6 @@
 title = c_oras
 max_settlements = 2
 culture = suvial
-religion = cathar
+religion = unionism
 b_oras = tribal
 b_oras2 = temple

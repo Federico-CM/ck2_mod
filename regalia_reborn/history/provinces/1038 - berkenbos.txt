@@ -1,6 +1,6 @@
 title = c_berkenbos
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_berkenbos = tribal
 b_berkenbos2 = temple

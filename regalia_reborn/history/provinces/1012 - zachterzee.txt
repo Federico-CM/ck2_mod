@@ -1,6 +1,6 @@
 title = c_zachterzee
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_zachterzee = tribal
 b_zachterzee2 = temple

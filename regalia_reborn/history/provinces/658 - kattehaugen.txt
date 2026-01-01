@@ -1,6 +1,6 @@
 title = c_kattehaugen
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_kattehaugen = tribal
 b_kattehaugen2 = temple

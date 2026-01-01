@@ -1,6 +1,6 @@
 title = c_bulvakia
 max_settlements = 2
 culture = byala
-religion = cathar
+religion = evintarian
 b_bulvakia = tribal
 b_bulvakia2 = temple

@@ -1,6 +1,6 @@
 title = c_milaan_sora
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = estelley
 b_milaan_sora = tribal
 b_milaan_sora2 = temple

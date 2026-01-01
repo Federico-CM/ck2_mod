@@ -1,6 +1,6 @@
 title = c_abeelskerke
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_abeelskerke = tribal
 b_abeelskerke2 = temple

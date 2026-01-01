@@ -1,6 +1,6 @@
 title = c_sardes
 max_settlements = 2
 culture = tsalqvanes
-religion = cathar
+religion = evintarian
 b_sardes = tribal
 b_sardes2 = temple

@@ -1,6 +1,6 @@
 title = c_aden
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_aden = tribal
 b_aden2 = temple

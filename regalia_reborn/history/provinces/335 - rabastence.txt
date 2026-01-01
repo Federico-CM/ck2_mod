@@ -1,6 +1,6 @@
 title = c_rabastence
 max_settlements = 2
 culture = ithanian
-religion = cathar
+religion = unionism
 b_rabastence = tribal
 b_rabastence2 = temple

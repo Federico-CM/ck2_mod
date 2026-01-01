@@ -1,6 +1,6 @@
 title = c_gallenberg
 max_settlements = 2
 culture = genevaud
-religion = cathar
+religion = unionism
 b_gallenberg = tribal
 b_gallenberg2 = temple

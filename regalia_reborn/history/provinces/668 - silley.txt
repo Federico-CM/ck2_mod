@@ -1,6 +1,6 @@
 title = c_silley
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_silley = tribal
 b_silley2 = temple

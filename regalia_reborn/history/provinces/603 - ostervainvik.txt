@@ -1,6 +1,6 @@
 title = c_ostervainvik
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_ostervainvik = tribal
 b_ostervainvik2 = temple

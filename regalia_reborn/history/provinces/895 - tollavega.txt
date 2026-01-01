@@ -1,6 +1,6 @@
 title = c_tollavega
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_tollavega = tribal
 b_tollavega2 = temple

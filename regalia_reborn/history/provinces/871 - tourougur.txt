@@ -1,6 +1,6 @@
 title = c_tourougur
 max_settlements = 2
 culture = skyborn
-religion = cathar
+religion = unionism
 b_tourougur = tribal
 b_tourougur2 = temple

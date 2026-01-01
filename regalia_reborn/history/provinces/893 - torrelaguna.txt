@@ -1,6 +1,6 @@
 title = c_torrelaguna
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_torrelaguna = tribal
 b_torrelaguna2 = temple

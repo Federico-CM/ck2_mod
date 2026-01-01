@@ -1,6 +1,6 @@
 title = c_rivere_ise
 max_settlements = 2
 culture = ithanian
-religion = cathar
+religion = unionism
 b_rivere_ise = tribal
 b_rivere_ise2 = temple

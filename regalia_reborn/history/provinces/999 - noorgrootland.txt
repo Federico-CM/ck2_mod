@@ -1,6 +1,6 @@
 title = c_noorgrootland
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = draconism
 b_noorgrootland = tribal
 b_noorgrootland2 = temple

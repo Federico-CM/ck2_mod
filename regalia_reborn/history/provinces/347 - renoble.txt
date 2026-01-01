@@ -1,6 +1,6 @@
 title = c_renoble
 max_settlements = 2
 culture = ithanian
-religion = cathar
+religion = unionism
 b_renoble = tribal
 b_renoble2 = temple

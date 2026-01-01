@@ -1,6 +1,6 @@
 title = c_savarolesta
 max_settlements = 2
 culture = cantaluna
-religion = cathar
+religion = unionism
 b_savarolesta = tribal
 b_savarolesta2 = temple

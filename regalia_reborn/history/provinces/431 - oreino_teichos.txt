@@ -1,6 +1,6 @@
 title = c_oreino_teichos
 max_settlements = 2
 culture = etosian
-religion = cathar
+religion = evintarian
 b_oreino_teichos = tribal
 b_oreino_teichos2 = temple

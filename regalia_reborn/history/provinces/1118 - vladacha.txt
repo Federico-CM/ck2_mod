@@ -1,6 +1,6 @@
 title = c_vladacha
 max_settlements = 2
 culture = krainivaya
-religion = cathar
+religion = fornoss
 b_vladacha = tribal
 b_vladacha2 = temple

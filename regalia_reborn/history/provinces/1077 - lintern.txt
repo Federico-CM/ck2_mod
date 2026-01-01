@@ -1,6 +1,6 @@
 title = c_lintern
 max_settlements = 2
 culture = calderliga
-religion = cathar
+religion = unionism
 b_lintern = tribal
 b_lintern2 = temple

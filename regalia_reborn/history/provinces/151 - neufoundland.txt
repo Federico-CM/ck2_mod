@@ -1,6 +1,6 @@
 title = c_neufoundland
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_neufoundland = tribal
 b_neufoundland2 = temple

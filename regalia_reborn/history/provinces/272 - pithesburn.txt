@@ -1,6 +1,6 @@
 title = c_pithesburn
 max_settlements = 2
 culture = ceaerden
-religion = cathar
+religion = unionism
 b_pithesburn = tribal
 b_pithesburn2 = temple

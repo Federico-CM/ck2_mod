@@ -1,6 +1,6 @@
 title = c_washing
 max_settlements = 2
 culture = ceaerden
-religion = cathar
+religion = unionism
 b_washing = tribal
 b_washing2 = temple

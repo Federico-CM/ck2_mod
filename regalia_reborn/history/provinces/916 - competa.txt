@@ -1,6 +1,6 @@
 title = c_competa
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_competa = tribal
 b_competa2 = temple

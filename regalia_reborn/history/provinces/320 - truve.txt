@@ -1,6 +1,6 @@
 title = c_truve
 max_settlements = 2
 culture = ithanian
-religion = cathar
+religion = unionism
 b_truve = tribal
 b_truve2 = temple

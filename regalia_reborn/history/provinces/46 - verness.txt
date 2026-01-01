@@ -1,6 +1,6 @@
 title = c_verness
 max_settlements = 2
 culture = dunbrae
-religion = cathar
+religion = unionism
 b_verness = tribal
 b_verness2 = temple

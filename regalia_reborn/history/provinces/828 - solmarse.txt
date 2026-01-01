@@ -1,6 +1,6 @@
 title = c_solmarse
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = estelley
 b_solmarse = tribal
 b_solmarse2 = temple

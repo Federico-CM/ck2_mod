@@ -1,6 +1,6 @@
 title = c_alevik
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_alevik = tribal
 b_alevik2 = temple

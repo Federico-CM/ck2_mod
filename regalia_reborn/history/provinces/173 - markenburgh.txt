@@ -1,6 +1,6 @@
 title = c_markenburgh
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_markenburgh = tribal
 b_markenburgh2 = temple

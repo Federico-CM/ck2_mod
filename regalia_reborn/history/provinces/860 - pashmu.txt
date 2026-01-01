@@ -1,6 +1,6 @@
 title = c_pashmu
 max_settlements = 2
 culture = asha
-religion = cathar
+religion = khama
 b_pashmu = tribal
 b_pashmu2 = temple

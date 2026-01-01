@@ -1,6 +1,6 @@
 title = c_orriondas
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_orriondas = tribal
 b_orriondas2 = temple

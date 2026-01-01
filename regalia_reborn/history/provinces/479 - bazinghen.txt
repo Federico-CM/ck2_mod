@@ -1,6 +1,6 @@
 title = c_bazinghen
 max_settlements = 2
 culture = burdigala
-religion = cathar
+religion = unionism
 b_bazinghen = tribal
 b_bazinghen2 = temple

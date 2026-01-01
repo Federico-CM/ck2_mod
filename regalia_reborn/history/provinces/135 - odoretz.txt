@@ -1,6 +1,6 @@
 title = c_odoretz
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_odoretz = tribal
 b_odoretz2 = temple

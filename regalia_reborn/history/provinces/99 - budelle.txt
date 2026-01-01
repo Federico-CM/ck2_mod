@@ -1,6 +1,6 @@
 title = c_budelle
 max_settlements = 2
 culture = leutz_vixe
-religion = cathar
+religion = unionism
 b_budelle = tribal
 b_budelle2 = temple

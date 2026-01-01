@@ -1,6 +1,6 @@
 title = c_olaze
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_olaze = tribal
 b_olaze2 = temple

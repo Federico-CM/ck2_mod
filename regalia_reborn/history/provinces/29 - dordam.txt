@@ -1,6 +1,6 @@
 title = c_dordam
 max_settlements = 2
 culture = eronidas
-religion = cathar
+religion = unionism
 b_dordam = tribal
 b_dordam2 = temple

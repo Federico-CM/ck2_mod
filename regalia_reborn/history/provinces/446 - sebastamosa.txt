@@ -1,6 +1,6 @@
 title = c_sebastamosa
 max_settlements = 2
 culture = etosian
-religion = cathar
+religion = evintarian
 b_sebastamosa = tribal
 b_sebastamosa2 = temple

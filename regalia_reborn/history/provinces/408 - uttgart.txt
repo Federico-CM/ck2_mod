@@ -1,6 +1,6 @@
 title = c_uttgart
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_uttgart = tribal
 b_uttgart2 = temple

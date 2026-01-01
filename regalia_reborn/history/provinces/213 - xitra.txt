@@ -1,6 +1,6 @@
 title = c_xitra
 max_settlements = 2
 culture = bragacao
-religion = cathar
+religion = unionism
 b_xitra = tribal
 b_xitra2 = temple

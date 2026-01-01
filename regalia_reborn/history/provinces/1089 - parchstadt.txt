@@ -1,6 +1,6 @@
 title = c_parchstadt
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_parchstadt = tribal
 b_parchstadt2 = temple

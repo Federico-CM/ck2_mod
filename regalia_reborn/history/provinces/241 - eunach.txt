@@ -1,6 +1,6 @@
 title = c_eunach
 max_settlements = 2
 culture = gallovian
-religion = cathar
+religion = fornoss
 b_eunach = tribal
 b_eunach2 = temple

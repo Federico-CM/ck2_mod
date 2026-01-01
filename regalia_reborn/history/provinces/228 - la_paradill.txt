@@ -1,6 +1,6 @@
 title = c_la_paradill
 max_settlements = 2
 culture = allar
-religion = cathar
+religion = unionism
 b_la_paradill = tribal
 b_la_paradill2 = temple

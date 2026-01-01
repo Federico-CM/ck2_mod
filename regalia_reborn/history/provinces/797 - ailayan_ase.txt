@@ -1,6 +1,6 @@
 title = c_ailayan_ase
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = estelley
 b_ailayan_ase = tribal
 b_ailayan_ase2 = temple

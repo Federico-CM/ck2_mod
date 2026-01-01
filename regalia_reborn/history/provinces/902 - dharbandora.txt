@@ -1,6 +1,6 @@
 title = c_dharbandora
 max_settlements = 2
 culture = suvial
-religion = cathar
+religion = estelley
 b_dharbandora = tribal
 b_dharbandora2 = temple

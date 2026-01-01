@@ -1,6 +1,6 @@
 title = c_magde
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_magde = tribal
 b_magde2 = temple

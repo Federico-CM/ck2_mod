@@ -1,6 +1,6 @@
 title = c_pozzuoli
 max_settlements = 2
 culture = azzizzari
-religion = cathar
+religion = unionism
 b_pozzuoli = tribal
 b_pozzuoli2 = temple

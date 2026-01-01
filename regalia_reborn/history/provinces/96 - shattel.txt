@@ -1,6 +1,6 @@
 title = c_shattel
 max_settlements = 2
 culture = leutz_vixe
-religion = cathar
+religion = unionism
 b_shattel = tribal
 b_shattel2 = temple

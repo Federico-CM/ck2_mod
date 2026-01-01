@@ -1,6 +1,6 @@
 title = c_kinderswijk
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_kinderswijk = tribal
 b_kinderswijk2 = temple

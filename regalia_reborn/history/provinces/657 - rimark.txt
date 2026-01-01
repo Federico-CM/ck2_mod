@@ -1,6 +1,6 @@
 title = c_rimark
 max_settlements = 2
 culture = velheim
-religion = cathar
+religion = fornoss
 b_rimark = tribal
 b_rimark2 = temple

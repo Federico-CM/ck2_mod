@@ -1,6 +1,6 @@
 title = c_yorston
 max_settlements = 2
 culture = ceaerden
-religion = cathar
+religion = unionism
 b_yorston = tribal
 b_yorston2 = temple

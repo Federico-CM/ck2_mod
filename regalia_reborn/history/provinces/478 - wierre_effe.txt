@@ -1,6 +1,6 @@
 title = c_wierre_effe
 max_settlements = 2
 culture = burdigala
-religion = cathar
+religion = unionism
 b_wierre_effe = tribal
 b_wierre_effe2 = temple

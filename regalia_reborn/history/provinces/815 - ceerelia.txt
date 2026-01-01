@@ -1,6 +1,6 @@
 title = c_ceerelia
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = estelley
 b_ceerelia = tribal
 b_ceerelia2 = temple

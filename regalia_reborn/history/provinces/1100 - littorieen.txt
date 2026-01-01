@@ -1,6 +1,6 @@
 title = c_littorieen
 max_settlements = 2
 culture = zvorun
-religion = cathar
+religion = fornoss
 b_littorieen = tribal
 b_littorieen2 = temple

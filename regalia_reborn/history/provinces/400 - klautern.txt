@@ -1,6 +1,6 @@
 title = c_klautern
 max_settlements = 2
 culture = wirtem
-religion = cathar
+religion = unionism
 b_klautern = tribal
 b_klautern2 = temple

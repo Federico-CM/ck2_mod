@@ -1,6 +1,6 @@
 title = c_dioran_isles
 max_settlements = 2
-culture = dragonkin
-religion = cathar
+culture = draconismkin
+religion = unionism
 b_dioran_isles = tribal
 b_dioran_isles2 = temple

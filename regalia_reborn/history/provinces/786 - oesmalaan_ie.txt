@@ -1,6 +1,6 @@
 title = c_oesmalaan_ie
 max_settlements = 2
 culture = solvaan
-religion = cathar
+religion = estelley
 b_oesmalaan_ie = tribal
 b_oesmalaan_ie2 = temple

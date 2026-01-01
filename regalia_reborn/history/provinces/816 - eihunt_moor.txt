@@ -1,6 +1,6 @@
 title = c_eihunt_moor
 max_settlements = 2
 culture = anglian
-religion = cathar
+religion = unionism
 b_eihunt_moor = tribal
 b_eihunt_moor2 = temple

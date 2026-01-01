@@ -1,6 +1,6 @@
 title = c_petrola
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_petrola = tribal
 b_petrola2 = temple

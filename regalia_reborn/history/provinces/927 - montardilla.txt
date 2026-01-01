@@ -1,6 +1,6 @@
 title = c_montardilla
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_montardilla = tribal
 b_montardilla2 = temple

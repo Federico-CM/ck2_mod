@@ -1,6 +1,6 @@
 title = c_rzepin
 max_settlements = 2
 culture = wruclav
-religion = cathar
+religion = unionism
 b_rzepin = tribal
 b_rzepin2 = temple

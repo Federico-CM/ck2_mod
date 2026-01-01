@@ -1,6 +1,6 @@
 title = c_lbertade
 max_settlements = 2
 culture = tierravera
-religion = cathar
+religion = unionism
 b_lbertade = tribal
 b_lbertade2 = temple

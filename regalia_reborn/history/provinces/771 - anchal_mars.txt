@@ -1,6 +1,6 @@
 title = c_anchal_mars
 max_settlements = 2
 culture = kathar
-religion = cathar
+religion = evolism
 b_anchal_mars = tribal
 b_anchal_mars2 = temple

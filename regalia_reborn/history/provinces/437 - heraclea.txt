@@ -1,6 +1,6 @@
 title = c_heraclea
 max_settlements = 2
 culture = etosian
-religion = cathar
+religion = evintarian
 b_heraclea = tribal
 b_heraclea2 = temple
