@@ -1,0 +1,1383 @@
+e_windland = {
+    color = { 133 129 162 }
+    color2 = { 133 129 162 }
+    capital = 998
+    k_angelland = {
+        color = { 133 129 162 }
+        color2 = { 133 129 162 }
+        capital = 998
+        d_drackenrust = {
+            color = { 133 129 162 }
+            color2 = { 133 129 162 }
+            capital = 998
+            c_drackenrust = {
+                b_drackenrust = {
+                    title = baron
+                    title_female = baron
+                }
+                b_drackenrust2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 153 123 153 }
+                color2 = { 153 123 153 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_hoogfryse = {
+                b_hoogfryse = {
+                    title = baron
+                    title_female = baron
+                }
+                b_hoogfryse2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 133 129 162 }
+                color2 = { 133 129 162 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_noorgrootland = {
+                b_noorgrootland = {
+                    title = baron
+                    title_female = baron
+                }
+                b_noorgrootland2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 142 131 170 }
+                color2 = { 142 131 170 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_hinderlande = {
+            color = { 139 127 159 }
+            color2 = { 139 127 159 }
+            capital = 1001
+            c_hinderlande = {
+                b_hinderlande = {
+                    title = baron
+                    title_female = baron
+                }
+                b_hinderlande2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 139 139 169 }
+                color2 = { 139 139 169 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_middeland_aan_zee = {
+                b_middeland_aan_zee = {
+                    title = baron
+                    title_female = baron
+                }
+                b_middeland_aan_zee2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 139 127 159 }
+                color2 = { 139 127 159 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_voortzee = {
+                b_voortzee = {
+                    title = baron
+                    title_female = baron
+                }
+                b_voortzee2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 141 124 181 }
+                color2 = { 141 124 181 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_zuiderhoek = {
+                b_zuiderhoek = {
+                    title = baron
+                    title_female = baron
+                }
+                b_zuiderhoek2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 140 132 162 }
+                color2 = { 140 132 162 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_hoogberge = {
+            color = { 139 134 164 }
+            color2 = { 139 134 164 }
+            capital = 1005
+            c_dorpengat = {
+                b_dorpengat = {
+                    title = baron
+                    title_female = baron
+                }
+                b_dorpengat2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 150 129 155 }
+                color2 = { 150 129 155 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_hoogberge = {
+                b_hoogberge = {
+                    title = baron
+                    title_female = baron
+                }
+                b_hoogberge2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 142 138 166 }
+                color2 = { 142 138 166 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_keizerplat = {
+                b_keizerplat = {
+                    title = baron
+                    title_female = baron
+                }
+                b_keizerplat2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 155 138 151 }
+                color2 = { 155 138 151 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_zuidhoekland = {
+                b_zuidhoekland = {
+                    title = baron
+                    title_female = baron
+                }
+                b_zuidhoekland2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 139 134 164 }
+                color2 = { 139 134 164 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_kroonburg = {
+            color = { 125 130 151 }
+            color2 = { 125 130 151 }
+            capital = 1009
+            c_eerste_hoogweg = {
+                b_eerste_hoogweg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_eerste_hoogweg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 145 135 171 }
+                color2 = { 145 135 171 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_kroonburg = {
+                b_kroonburg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kroonburg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 130 133 172 }
+                color2 = { 130 133 172 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_scheldplatz = {
+                b_scheldplatz = {
+                    title = baron
+                    title_female = baron
+                }
+                b_scheldplatz2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 125 130 151 }
+                color2 = { 125 130 151 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_zachterzee = {
+                b_zachterzee = {
+                    title = baron
+                    title_female = baron
+                }
+                b_zachterzee2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 148 143 164 }
+                color2 = { 148 143 164 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        culture = anglian
+        title = king
+        title_female = king
+    }
+    k_door_inner = {
+        color = { 114 140 146 }
+        color2 = { 114 140 146 }
+        capital = 1013
+        d_honderburg = {
+            color = { 114 140 146 }
+            color2 = { 114 140 146 }
+            capital = 1013
+            c_eismeer = {
+                b_eismeer = {
+                    title = baron
+                    title_female = baron
+                }
+                b_eismeer2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 115 139 152 }
+                color2 = { 115 139 152 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_schatmeer = {
+                b_schatmeer = {
+                    title = baron
+                    title_female = baron
+                }
+                b_schatmeer2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 127 148 185 }
+                color2 = { 127 148 185 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_scherkezuil = {
+                b_scherkezuil = {
+                    title = baron
+                    title_female = baron
+                }
+                b_scherkezuil2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 114 140 146 }
+                color2 = { 114 140 146 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_zuidmeer = {
+                b_zuidmeer = {
+                    title = baron
+                    title_female = baron
+                }
+                b_zuidmeer2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 121 131 181 }
+                color2 = { 121 131 181 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_riddere = {
+            color = { 108 118 166 }
+            color2 = { 108 118 166 }
+            capital = 1017
+            c_bergklooster = {
+                b_bergklooster = {
+                    title = baron
+                    title_female = baron
+                }
+                b_bergklooster2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 108 118 166 }
+                color2 = { 108 118 166 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_dommeburg = {
+                b_dommeburg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_dommeburg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 129 131 151 }
+                color2 = { 129 131 151 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_kogelgat = {
+                b_kogelgat = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kogelgat2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 126 113 155 }
+                color2 = { 126 113 155 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_riddere = {
+                b_riddere = {
+                    title = baron
+                    title_female = baron
+                }
+                b_riddere2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 134 116 174 }
+                color2 = { 134 116 174 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_stuur = {
+                b_stuur = {
+                    title = baron
+                    title_female = baron
+                }
+                b_stuur2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 131 150 182 }
+                color2 = { 131 150 182 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_tempelmuur = {
+            color = { 112 140 170 }
+            color2 = { 112 140 170 }
+            capital = 1022
+            c_doorne = {
+                b_doorne = {
+                    title = baron
+                    title_female = baron
+                }
+                b_doorne2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 112 140 170 }
+                color2 = { 112 140 170 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_grotklooster = {
+                b_grotklooster = {
+                    title = baron
+                    title_female = baron
+                }
+                b_grotklooster2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 135 120 171 }
+                color2 = { 135 120 171 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_ine_hart = {
+                b_ine_hart = {
+                    title = baron
+                    title_female = baron
+                }
+                b_ine_hart2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 117 132 158 }
+                color2 = { 117 132 158 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_tempelmuur = {
+                b_tempelmuur = {
+                    title = baron
+                    title_female = baron
+                }
+                b_tempelmuur2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 135 128 152 }
+                color2 = { 135 128 152 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        culture = anglian
+        title = king
+        title_female = king
+    }
+    k_eldringen = {
+        color = { 102 122 151 }
+        color2 = { 102 122 151 }
+        capital = 1026
+        d_bosseburgh = {
+            color = { 102 122 151 }
+            color2 = { 102 122 151 }
+            capital = 1026
+            c_arendskerke = {
+                b_arendskerke = {
+                    title = baron
+                    title_female = baron
+                }
+                b_arendskerke2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 102 122 151 }
+                color2 = { 102 122 151 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_bosseburgh = {
+                b_bosseburgh = {
+                    title = baron
+                    title_female = baron
+                }
+                b_bosseburgh2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 127 132 164 }
+                color2 = { 127 132 164 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_heerepolder = {
+            color = { 118 133 162 }
+            color2 = { 118 133 162 }
+            capital = 1028
+            c_heerepolder = {
+                b_heerepolder = {
+                    title = baron
+                    title_female = baron
+                }
+                b_heerepolder2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 118 133 162 }
+                color2 = { 118 133 162 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_kinderswijk = {
+                b_kinderswijk = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kinderswijk2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 132 136 135 }
+                color2 = { 132 136 135 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_mieddelkerke = {
+                b_mieddelkerke = {
+                    title = baron
+                    title_female = baron
+                }
+                b_mieddelkerke2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 141 132 162 }
+                color2 = { 141 132 162 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_vrouwepolder = {
+                b_vrouwepolder = {
+                    title = baron
+                    title_female = baron
+                }
+                b_vrouwepolder2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 142 124 143 }
+                color2 = { 142 124 143 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_huilendom = {
+            color = { 103 132 142 }
+            color2 = { 103 132 142 }
+            capital = 1032
+            c_abeelskerke = {
+                b_abeelskerke = {
+                    title = baron
+                    title_female = baron
+                }
+                b_abeelskerke2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 103 132 142 }
+                color2 = { 103 132 142 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_eikenbos = {
+                b_eikenbos = {
+                    title = baron
+                    title_female = baron
+                }
+                b_eikenbos2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 130 121 163 }
+                color2 = { 130 121 163 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_huilendom = {
+                b_huilendom = {
+                    title = baron
+                    title_female = baron
+                }
+                b_huilendom2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 137 129 138 }
+                color2 = { 137 129 138 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_kortgene = {
+                b_kortgene = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kortgene2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 117 123 150 }
+                color2 = { 117 123 150 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_zierikzee = {
+                b_zierikzee = {
+                    title = baron
+                    title_female = baron
+                }
+                b_zierikzee2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 122 133 149 }
+                color2 = { 122 133 149 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_serooskerke = {
+            color = { 102 114 151 }
+            color2 = { 102 114 151 }
+            capital = 1037
+            c_berkenbos = {
+                b_berkenbos = {
+                    title = baron
+                    title_female = baron
+                }
+                b_berkenbos2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 105 121 133 }
+                color2 = { 105 121 133 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_coli_jnsplaats = {
+                b_coli_jnsplaats = {
+                    title = baron
+                    title_female = baron
+                }
+                b_coli_jnsplaats2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 102 114 151 }
+                color2 = { 102 114 151 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_serooskerke = {
+                b_serooskerke = {
+                    title = baron
+                    title_female = baron
+                }
+                b_serooskerke2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 136 147 127 }
+                color2 = { 136 147 127 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        culture = anglian
+        title = king
+        title_female = king
+    }
+    k_harteland = {
+        color = { 125 135 160 }
+        color2 = { 125 135 160 }
+        capital = 1040
+        d_aklsfoort = {
+            color = { 125 135 160 }
+            color2 = { 125 135 160 }
+            capital = 1040
+            c_goudgat = {
+                b_goudgat = {
+                    title = baron
+                    title_female = baron
+                }
+                b_goudgat2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 125 135 160 }
+                color2 = { 125 135 160 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_platzaak = {
+                b_platzaak = {
+                    title = baron
+                    title_female = baron
+                }
+                b_platzaak2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 130 162 165 }
+                color2 = { 130 162 165 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_hondeburg = {
+            color = { 121 130 188 }
+            color2 = { 121 130 188 }
+            capital = 1042
+            c_gekkedom = {
+                b_gekkedom = {
+                    title = baron
+                    title_female = baron
+                }
+                b_gekkedom2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 121 150 157 }
+                color2 = { 121 150 157 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_hondeburg = {
+                b_hondeburg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_hondeburg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 150 156 175 }
+                color2 = { 150 156 175 }
+                culture = ceaerden
+                title = count
+                title_female = count
+            }
+            c_kattenburg = {
+                b_kattenburg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kattenburg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 146 137 167 }
+                color2 = { 146 137 167 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_meere = {
+                b_meere = {
+                    title = baron
+                    title_female = baron
+                }
+                b_meere2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 128 167 157 }
+                color2 = { 128 167 157 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_vortzee = {
+                b_vortzee = {
+                    title = baron
+                    title_female = baron
+                }
+                b_vortzee2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 121 130 188 }
+                color2 = { 121 130 188 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_turaal = {
+            color = { 122 129 165 }
+            color2 = { 122 129 165 }
+            capital = 1047
+            c_bombeburg = {
+                b_bombeburg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_bombeburg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 150 163 190 }
+                color2 = { 150 163 190 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_duizenzwaarde = {
+                b_duizenzwaarde = {
+                    title = baron
+                    title_female = baron
+                }
+                b_duizenzwaarde2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 123 162 190 }
+                color2 = { 123 162 190 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_midburg = {
+                b_midburg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_midburg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 122 129 165 }
+                color2 = { 122 129 165 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_noordrije = {
+                b_noordrije = {
+                    title = baron
+                    title_female = baron
+                }
+                b_noordrije2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 126 139 173 }
+                color2 = { 126 139 173 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_turaal = {
+                b_turaal = {
+                    title = baron
+                    title_female = baron
+                }
+                b_turaal2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 145 134 179 }
+                color2 = { 145 134 179 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        culture = anglian
+        title = king
+        title_female = king
+    }
+    k_hoogeland = {
+        color = { 135 176 201 }
+        color2 = { 135 176 201 }
+        capital = 1052
+        d_belfryse = {
+            color = { 135 176 201 }
+            color2 = { 135 176 201 }
+            capital = 1052
+            c_annaparochie = {
+                b_annaparochie = {
+                    title = baron
+                    title_female = baron
+                }
+                b_annaparochie2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 135 176 201 }
+                color2 = { 135 176 201 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_belfryse = {
+                b_belfryse = {
+                    title = baron
+                    title_female = baron
+                }
+                b_belfryse2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 139 157 195 }
+                color2 = { 139 157 195 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_goedvelde = {
+                b_goedvelde = {
+                    title = baron
+                    title_female = baron
+                }
+                b_goedvelde2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 143 170 187 }
+                color2 = { 143 170 187 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_goudvelde = {
+                b_goudvelde = {
+                    title = baron
+                    title_female = baron
+                }
+                b_goudvelde2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 138 144 210 }
+                color2 = { 138 144 210 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_vilesprong = {
+                b_vilesprong = {
+                    title = baron
+                    title_female = baron
+                }
+                b_vilesprong2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 145 153 202 }
+                color2 = { 145 153 202 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_kleaster = {
+            color = { 131 150 179 }
+            color2 = { 131 150 179 }
+            capital = 1057
+            c_drachten = {
+                b_drachten = {
+                    title = baron
+                    title_female = baron
+                }
+                b_drachten2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 134 165 205 }
+                color2 = { 134 165 205 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_egbertswaarden = {
+                b_egbertswaarden = {
+                    title = baron
+                    title_female = baron
+                }
+                b_egbertswaarden2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 141 158 202 }
+                color2 = { 141 158 202 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_noarden = {
+                b_noarden = {
+                    title = baron
+                    title_female = baron
+                }
+                b_noarden2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 131 150 179 }
+                color2 = { 131 150 179 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_zuidwaart = {
+                b_zuidwaart = {
+                    title = baron
+                    title_female = baron
+                }
+                b_zuidwaart2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 145 166 200 }
+                color2 = { 145 166 200 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_verremuur = {
+            color = { 133 145 172 }
+            color2 = { 133 145 172 }
+            capital = 1061
+            c_gorredijk = {
+                b_gorredijk = {
+                    title = baron
+                    title_female = baron
+                }
+                b_gorredijk2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 135 173 185 }
+                color2 = { 135 173 185 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_kiezersdorp = {
+                b_kiezersdorp = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kiezersdorp2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 133 145 172 }
+                color2 = { 133 145 172 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_prinsendeur = {
+                b_prinsendeur = {
+                    title = baron
+                    title_female = baron
+                }
+                b_prinsendeur2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 134 151 188 }
+                color2 = { 134 151 188 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_wortelgeldt = {
+                b_wortelgeldt = {
+                    title = baron
+                    title_female = baron
+                }
+                b_wortelgeldt2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 158 142 198 }
+                color2 = { 158 142 198 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        culture = anglian
+        title = king
+        title_female = king
+    }
+    k_lokkenland = {
+        color = { 114 103 145 }
+        color2 = { 114 103 145 }
+        capital = 1065
+        d_kassel = {
+            color = { 114 103 145 }
+            color2 = { 114 103 145 }
+            capital = 1065
+            c_kachelwaard = {
+                b_kachelwaard = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kachelwaard2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 117 139 163 }
+                color2 = { 117 139 163 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_verleysteyn = {
+                b_verleysteyn = {
+                    title = baron
+                    title_female = baron
+                }
+                b_verleysteyn2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 126 110 157 }
+                color2 = { 126 110 157 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_westerhal = {
+                b_westerhal = {
+                    title = baron
+                    title_female = baron
+                }
+                b_westerhal2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 114 103 145 }
+                color2 = { 114 103 145 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_keelburg = {
+            color = { 100 137 160 }
+            color2 = { 100 137 160 }
+            capital = 1068
+            c_barlowe = {
+                b_barlowe = {
+                    title = baron
+                    title_female = baron
+                }
+                b_barlowe2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 100 137 160 }
+                color2 = { 100 137 160 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_keelburg = {
+                b_keelburg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_keelburg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 101 112 154 }
+                color2 = { 101 112 154 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_kotenburg = {
+                b_kotenburg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kotenburg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 112 112 168 }
+                color2 = { 112 112 168 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_maarde = {
+                b_maarde = {
+                    title = baron
+                    title_female = baron
+                }
+                b_maarde2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 129 132 156 }
+                color2 = { 129 132 156 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_omaraade = {
+                b_omaraade = {
+                    title = baron
+                    title_female = baron
+                }
+                b_omaraade2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 126 114 148 }
+                color2 = { 126 114 148 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_ostenteyn = {
+                b_ostenteyn = {
+                    title = baron
+                    title_female = baron
+                }
+                b_ostenteyn2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 120 111 145 }
+                color2 = { 120 111 145 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        d_kuide = {
+            color = { 111 110 143 }
+            color2 = { 111 110 143 }
+            capital = 1074
+            c_huidenhuide = {
+                b_huidenhuide = {
+                    title = baron
+                    title_female = baron
+                }
+                b_huidenhuide2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 134 116 147 }
+                color2 = { 134 116 147 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_vissinghelm = {
+                b_vissinghelm = {
+                    title = baron
+                    title_female = baron
+                }
+                b_vissinghelm2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 111 110 143 }
+                color2 = { 111 110 143 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            culture = anglian
+            title = duke
+            title_female = duke
+        }
+        culture = anglian
+        title = king
+        title_female = king
+    }
+}

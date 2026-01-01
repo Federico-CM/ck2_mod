@@ -1,0 +1,1072 @@
+e_nordskag = {
+    color = { 160 222 180 }
+    color2 = { 160 222 180 }
+    capital = 598
+    k_agerik = {
+        color = { 160 222 180 }
+        color2 = { 160 222 180 }
+        capital = 598
+        d_billund = {
+            color = { 160 222 180 }
+            color2 = { 160 222 180 }
+            capital = 598
+            c_billund = {
+                b_billund = {
+                    title = baron
+                    title_female = baron
+                }
+                b_billund2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 186 235 176 }
+                color2 = { 186 235 176 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_irvandvik = {
+                b_irvandvik = {
+                    title = baron
+                    title_female = baron
+                }
+                b_irvandvik2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 181 213 178 }
+                color2 = { 181 213 178 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_ostervainvik = {
+                b_ostervainvik = {
+                    title = baron
+                    title_female = baron
+                }
+                b_ostervainvik2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 187 228 185 }
+                color2 = { 187 228 185 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_rilvik = {
+                b_rilvik = {
+                    title = baron
+                    title_female = baron
+                }
+                b_rilvik2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 177 212 208 }
+                color2 = { 177 212 208 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_solavik = {
+                b_solavik = {
+                    title = baron
+                    title_female = baron
+                }
+                b_solavik2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 160 222 180 }
+                color2 = { 160 222 180 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_strandvik = {
+                b_strandvik = {
+                    title = baron
+                    title_female = baron
+                }
+                b_strandvik2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 171 233 180 }
+                color2 = { 171 233 180 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            culture = velheim
+            title = duke
+            title_female = duke
+        }
+        d_mannerdrepland = {
+            color = { 157 197 196 }
+            color2 = { 157 197 196 }
+            capital = 604
+            c_alevik = {
+                b_alevik = {
+                    title = baron
+                    title_female = baron
+                }
+                b_alevik2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 157 197 196 }
+                color2 = { 157 197 196 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_frederik = {
+                b_frederik = {
+                    title = baron
+                    title_female = baron
+                }
+                b_frederik2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 157 218 169 }
+                color2 = { 157 218 169 }
+                culture = fridurfolk
+                title = count
+                title_female = count
+            }
+            c_kongmordland = {
+                b_kongmordland = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kongmordland2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 179 218 170 }
+                color2 = { 179 218 170 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_mannelund = {
+                b_mannelund = {
+                    title = baron
+                    title_female = baron
+                }
+                b_mannelund2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 173 200 195 }
+                color2 = { 173 200 195 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            culture = velheim
+            title = duke
+            title_female = duke
+        }
+        d_medelpad = {
+            color = { 161 198 194 }
+            color2 = { 161 198 194 }
+            capital = 608
+            c_kjerulf = {
+                b_kjerulf = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kjerulf2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 166 216 184 }
+                color2 = { 166 216 184 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_medelpad = {
+                b_medelpad = {
+                    title = baron
+                    title_female = baron
+                }
+                b_medelpad2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 173 207 205 }
+                color2 = { 173 207 205 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_savorvik = {
+                b_savorvik = {
+                    title = baron
+                    title_female = baron
+                }
+                b_savorvik2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 161 198 194 }
+                color2 = { 161 198 194 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_stralsund = {
+                b_stralsund = {
+                    title = baron
+                    title_female = baron
+                }
+                b_stralsund2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 174 203 184 }
+                color2 = { 174 203 184 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_uppland = {
+                b_uppland = {
+                    title = baron
+                    title_female = baron
+                }
+                b_uppland2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 174 204 168 }
+                color2 = { 174 204 168 }
+                culture = hoglander
+                title = count
+                title_female = count
+            }
+            culture = velheim
+            title = duke
+            title_female = duke
+        }
+        culture = velheim
+        title = king
+        title_female = king
+    }
+    k_bergeland = {
+        color = { 134 217 177 }
+        color2 = { 134 217 177 }
+        capital = 613
+        d_bergenhav = {
+            color = { 134 217 177 }
+            color2 = { 134 217 177 }
+            capital = 613
+            c_bergenhav = {
+                b_bergenhav = {
+                    title = baron
+                    title_female = baron
+                }
+                b_bergenhav2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 148 221 169 }
+                color2 = { 148 221 169 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_langeland = {
+                b_langeland = {
+                    title = baron
+                    title_female = baron
+                }
+                b_langeland2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 134 217 177 }
+                color2 = { 134 217 177 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_talvikvass = {
+                b_talvikvass = {
+                    title = baron
+                    title_female = baron
+                }
+                b_talvikvass2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 162 209 190 }
+                color2 = { 162 209 190 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_vidvagfjord = {
+                b_vidvagfjord = {
+                    title = baron
+                    title_female = baron
+                }
+                b_vidvagfjord2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 157 210 172 }
+                color2 = { 157 210 172 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            culture = velheim
+            title = duke
+            title_female = duke
+        }
+        d_lundenes = {
+            color = { 131 206 173 }
+            color2 = { 131 206 173 }
+            capital = 617
+            c_hylgeberg = {
+                b_hylgeberg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_hylgeberg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 159 206 169 }
+                color2 = { 159 206 169 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_lundenes = {
+                b_lundenes = {
+                    title = baron
+                    title_female = baron
+                }
+                b_lundenes2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 133 198 169 }
+                color2 = { 133 198 169 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_sterkberg = {
+                b_sterkberg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_sterkberg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 131 206 173 }
+                color2 = { 131 206 173 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_svensberg = {
+                b_svensberg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_svensberg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 145 192 157 }
+                color2 = { 145 192 157 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            culture = velheim
+            title = duke
+            title_female = duke
+        }
+        d_rodsand = {
+            color = { 131 205 189 }
+            color2 = { 131 205 189 }
+            capital = 621
+            c_hurvaldberg = {
+                b_hurvaldberg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_hurvaldberg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 146 204 183 }
+                color2 = { 146 204 183 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_kvenbotn = {
+                b_kvenbotn = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kvenbotn2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 131 205 189 }
+                color2 = { 131 205 189 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_norrland = {
+                b_norrland = {
+                    title = baron
+                    title_female = baron
+                }
+                b_norrland2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 140 219 168 }
+                color2 = { 140 219 168 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_ornvalberg = {
+                b_ornvalberg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_ornvalberg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 135 200 153 }
+                color2 = { 135 200 153 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_rundehaugen = {
+                b_rundehaugen = {
+                    title = baron
+                    title_female = baron
+                }
+                b_rundehaugen2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 158 218 173 }
+                color2 = { 158 218 173 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_sastorvik = {
+                b_sastorvik = {
+                    title = baron
+                    title_female = baron
+                }
+                b_sastorvik2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 147 197 163 }
+                color2 = { 147 197 163 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            culture = velheim
+            title = duke
+            title_female = duke
+        }
+        d_tormyr = {
+            color = { 164 219 172 }
+            color2 = { 164 219 172 }
+            capital = 627
+            c_halsberg = {
+                b_halsberg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_halsberg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 164 219 172 }
+                color2 = { 164 219 172 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            culture = velheim
+            title = duke
+            title_female = duke
+        }
+        culture = velheim
+        title = king
+        title_female = king
+    }
+    k_fjordeland = {
+        color = { 133 206 180 }
+        color2 = { 133 206 180 }
+        capital = 628
+        d_fylkesund = {
+            color = { 133 206 180 }
+            color2 = { 133 206 180 }
+            capital = 628
+            c_fylkesund = {
+                b_fylkesund = {
+                    title = baron
+                    title_female = baron
+                }
+                b_fylkesund2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 135 198 156 }
+                color2 = { 135 198 156 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_hestlund = {
+                b_hestlund = {
+                    title = baron
+                    title_female = baron
+                }
+                b_hestlund2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 133 206 180 }
+                color2 = { 133 206 180 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_tollstiberg = {
+                b_tollstiberg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_tollstiberg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 134 180 171 }
+                color2 = { 134 180 171 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            culture = velheim
+            title = duke
+            title_female = duke
+        }
+        d_garangerfjorden = {
+            color = { 148 211 165 }
+            color2 = { 148 211 165 }
+            capital = 631
+            c_firingerfjord = {
+                b_firingerfjord = {
+                    title = baron
+                    title_female = baron
+                }
+                b_firingerfjord2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 149 206 177 }
+                color2 = { 149 206 177 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_geirangerfjord = {
+                b_geirangerfjord = {
+                    title = baron
+                    title_female = baron
+                }
+                b_geirangerfjord2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 148 211 165 }
+                color2 = { 148 211 165 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_nystadfjord = {
+                b_nystadfjord = {
+                    title = baron
+                    title_female = baron
+                }
+                b_nystadfjord2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 150 184 165 }
+                color2 = { 150 184 165 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            culture = velheim
+            title = duke
+            title_female = duke
+        }
+        d_norrveneoya = {
+            color = { 136 207 156 }
+            color2 = { 136 207 156 }
+            capital = 634
+            c_kerilfjord = {
+                b_kerilfjord = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kerilfjord2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 139 215 171 }
+                color2 = { 139 215 171 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_kjetilfjord = {
+                b_kjetilfjord = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kjetilfjord2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 167 185 185 }
+                color2 = { 167 185 185 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_norveney = {
+                b_norveney = {
+                    title = baron
+                    title_female = baron
+                }
+                b_norveney2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 161 183 156 }
+                color2 = { 161 183 156 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_sundfjorden = {
+                b_sundfjorden = {
+                    title = baron
+                    title_female = baron
+                }
+                b_sundfjorden2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 136 207 156 }
+                color2 = { 136 207 156 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            culture = velheim
+            title = duke
+            title_female = duke
+        }
+        d_osrenoy = {
+            color = { 136 192 154 }
+            color2 = { 136 192 154 }
+            capital = 638
+            c_ingeney = {
+                b_ingeney = {
+                    title = baron
+                    title_female = baron
+                }
+                b_ingeney2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 163 176 172 }
+                color2 = { 163 176 172 }
+                culture = breizh
+                title = count
+                title_female = count
+            }
+            c_ingentey = {
+                b_ingentey = {
+                    title = baron
+                    title_female = baron
+                }
+                b_ingentey2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 165 179 152 }
+                color2 = { 165 179 152 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_kirkland = {
+                b_kirkland = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kirkland2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 155 179 148 }
+                color2 = { 155 179 148 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_kreney = {
+                b_kreney = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kreney2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 145 182 174 }
+                color2 = { 145 182 174 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_osreney = {
+                b_osreney = {
+                    title = baron
+                    title_female = baron
+                }
+                b_osreney2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 144 192 152 }
+                color2 = { 144 192 152 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_prekestland = {
+                b_prekestland = {
+                    title = baron
+                    title_female = baron
+                }
+                b_prekestland2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 136 192 154 }
+                color2 = { 136 192 154 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            culture = velheim
+            title = duke
+            title_female = duke
+        }
+        culture = velheim
+        title = king
+        title_female = king
+    }
+    k_heikeland = {
+        color = { 136 200 168 }
+        color2 = { 136 200 168 }
+        capital = 644
+        d_kankaanpaeae = {
+            color = { 136 200 168 }
+            color2 = { 136 200 168 }
+            capital = 644
+            c_helsund = {
+                b_helsund = {
+                    title = baron
+                    title_female = baron
+                }
+                b_helsund2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 138 176 150 }
+                color2 = { 138 176 150 }
+                culture = tarkin
+                title = count
+                title_female = count
+            }
+            c_kankanvik = {
+                b_kankanvik = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kankanvik2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 138 190 171 }
+                color2 = { 138 190 171 }
+                culture = tarkin
+                title = count
+                title_female = count
+            }
+            c_kautokinn = {
+                b_kautokinn = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kautokinn2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 136 200 168 }
+                color2 = { 136 200 168 }
+                culture = tarkin
+                title = count
+                title_female = count
+            }
+            culture = tarkin
+            title = duke
+            title_female = duke
+        }
+        d_peltola = {
+            color = { 140 180 161 }
+            color2 = { 140 180 161 }
+            capital = 647
+            c_itteksund = {
+                b_itteksund = {
+                    title = baron
+                    title_female = baron
+                }
+                b_itteksund2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 140 180 161 }
+                color2 = { 140 180 161 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_mittberg = {
+                b_mittberg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_mittberg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 148 182 159 }
+                color2 = { 148 182 159 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_peltola = {
+                b_peltola = {
+                    title = baron
+                    title_female = baron
+                }
+                b_peltola2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 160 179 169 }
+                color2 = { 160 179 169 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            culture = velheim
+            title = duke
+            title_female = duke
+        }
+        d_pieksimaksi = {
+            color = { 131 184 158 }
+            color2 = { 131 184 158 }
+            capital = 650
+            c_angermann = {
+                b_angermann = {
+                    title = baron
+                    title_female = baron
+                }
+                b_angermann2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 156 179 164 }
+                color2 = { 156 179 164 }
+                culture = tarkin
+                title = count
+                title_female = count
+            }
+            c_mikslund = {
+                b_mikslund = {
+                    title = baron
+                    title_female = baron
+                }
+                b_mikslund2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 131 184 158 }
+                color2 = { 131 184 158 }
+                culture = tarkin
+                title = count
+                title_female = count
+            }
+            c_peksimark = {
+                b_peksimark = {
+                    title = baron
+                    title_female = baron
+                }
+                b_peksimark2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 132 199 168 }
+                color2 = { 132 199 168 }
+                culture = tarkin
+                title = count
+                title_female = count
+            }
+            c_savolakan = {
+                b_savolakan = {
+                    title = baron
+                    title_female = baron
+                }
+                b_savolakan2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 153 175 146 }
+                color2 = { 153 175 146 }
+                culture = tarkin
+                title = count
+                title_female = count
+            }
+            culture = tarkin
+            title = duke
+            title_female = duke
+        }
+        d_vileikenes = {
+            color = { 120 204 153 }
+            color2 = { 120 204 153 }
+            capital = 654
+            c_isheim = {
+                b_isheim = {
+                    title = baron
+                    title_female = baron
+                }
+                b_isheim2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 120 204 153 }
+                color2 = { 120 204 153 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_karmarvik = {
+                b_karmarvik = {
+                    title = baron
+                    title_female = baron
+                }
+                b_karmarvik2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 131 176 165 }
+                color2 = { 131 176 165 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_kattehaugen = {
+                b_kattehaugen = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kattehaugen2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 150 184 157 }
+                color2 = { 150 184 157 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_pansala = {
+                b_pansala = {
+                    title = baron
+                    title_female = baron
+                }
+                b_pansala2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 131 173 158 }
+                color2 = { 131 173 158 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_rimark = {
+                b_rimark = {
+                    title = baron
+                    title_female = baron
+                }
+                b_rimark2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 144 175 154 }
+                color2 = { 144 175 154 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            culture = velheim
+            title = duke
+            title_female = duke
+        }
+        culture = tarkin
+        title = king
+        title_female = king
+    }
+}

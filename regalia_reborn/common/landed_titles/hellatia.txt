@@ -1,0 +1,951 @@
+e_helletia = {
+    color = { 168 175 145 }
+    color2 = { 168 175 145 }
+    capital = 409
+    k_bladmark = {
+        color = { 168 175 145 }
+        color2 = { 168 175 145 }
+        capital = 409
+        d_boss_herze = {
+            color = { 168 175 145 }
+            color2 = { 168 175 145 }
+            capital = 409
+            c_boss_herze = {
+                b_boss_herze = {
+                    title = baron
+                    title_female = baron
+                }
+                b_boss_herze2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 192 169 153 }
+                color2 = { 192 169 153 }
+                culture = dvala
+                title = count
+                title_female = count
+            }
+            c_boss_nen = {
+                b_boss_nen = {
+                    title = baron
+                    title_female = baron
+                }
+                b_boss_nen2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 189 173 130 }
+                color2 = { 189 173 130 }
+                culture = dvala
+                title = count
+                title_female = count
+            }
+            c_ust_esverh = {
+                b_ust_esverh = {
+                    title = baron
+                    title_female = baron
+                }
+                b_ust_esverh2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 168 175 145 }
+                color2 = { 168 175 145 }
+                culture = szabadok
+                title = count
+                title_female = count
+            }
+            culture = szabadok
+            title = duke
+            title_female = duke
+        }
+        d_rhodokia = {
+            color = { 158 150 132 }
+            color2 = { 158 150 132 }
+            capital = 412
+            c_allachia = {
+                b_allachia = {
+                    title = baron
+                    title_female = baron
+                }
+                b_allachia2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 158 150 132 }
+                color2 = { 158 150 132 }
+                culture = ania
+                title = count
+                title_female = count
+            }
+            c_morvinda = {
+                b_morvinda = {
+                    title = baron
+                    title_female = baron
+                }
+                b_morvinda2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 194 159 153 }
+                color2 = { 194 159 153 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_rhodokia = {
+                b_rhodokia = {
+                    title = baron
+                    title_female = baron
+                }
+                b_rhodokia2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 158 150 140 }
+                color2 = { 158 150 140 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            culture = ania
+            title = duke
+            title_female = duke
+        }
+        d_rumvalia = {
+            color = { 160 173 142 }
+            color2 = { 160 173 142 }
+            capital = 415
+            c_bulvakia = {
+                b_bulvakia = {
+                    title = baron
+                    title_female = baron
+                }
+                b_bulvakia2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 160 173 142 }
+                color2 = { 160 173 142 }
+                culture = byala
+                title = count
+                title_female = count
+            }
+            c_maz_zyaka = {
+                b_maz_zyaka = {
+                    title = baron
+                    title_female = baron
+                }
+                b_maz_zyaka2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 193 163 127 }
+                color2 = { 193 163 127 }
+                culture = szabadok
+                title = count
+                title_female = count
+            }
+            c_rumvalia = {
+                b_rumvalia = {
+                    title = baron
+                    title_female = baron
+                }
+                b_rumvalia2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 180 178 153 }
+                color2 = { 180 178 153 }
+                culture = ania
+                title = count
+                title_female = count
+            }
+            c_virgoviste = {
+                b_virgoviste = {
+                    title = baron
+                    title_female = baron
+                }
+                b_virgoviste2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 189 147 130 }
+                color2 = { 189 147 130 }
+                culture = ania
+                title = count
+                title_female = count
+            }
+            culture = byala
+            title = duke
+            title_female = duke
+        }
+        d_sarve = {
+            color = { 172 142 122 }
+            color2 = { 172 142 122 }
+            capital = 419
+            c_boss_sarve = {
+                b_boss_sarve = {
+                    title = baron
+                    title_female = baron
+                }
+                b_boss_sarve2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 184 173 132 }
+                color2 = { 184 173 132 }
+                culture = dvala
+                title = count
+                title_female = count
+            }
+            c_epirania = {
+                b_epirania = {
+                    title = baron
+                    title_female = baron
+                }
+                b_epirania2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 178 176 152 }
+                color2 = { 178 176 152 }
+                culture = byala
+                title = count
+                title_female = count
+            }
+            c_maid_crno = {
+                b_maid_crno = {
+                    title = baron
+                    title_female = baron
+                }
+                b_maid_crno2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 172 142 122 }
+                color2 = { 172 142 122 }
+                culture = byala
+                title = count
+                title_female = count
+            }
+            c_morelle = {
+                b_morelle = {
+                    title = baron
+                    title_female = baron
+                }
+                b_morelle2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 176 173 136 }
+                color2 = { 176 173 136 }
+                culture = dvala
+                title = count
+                title_female = count
+            }
+            culture = byala
+            title = duke
+            title_female = duke
+        }
+        culture = szabadok
+        title = king
+        title_female = king
+    }
+    k_hellatos = {
+        color = { 103 162 147 }
+        color2 = { 103 162 147 }
+        capital = 423
+        d_megara = {
+            color = { 103 162 147 }
+            color2 = { 103 162 147 }
+            capital = 423
+            c_athenai_nisia = {
+                b_athenai_nisia = {
+                    title = baron
+                    title_female = baron
+                }
+                b_athenai_nisia2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 103 162 147 }
+                color2 = { 103 162 147 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_kriti = {
+                b_kriti = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kriti2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 141 143 137 }
+                color2 = { 141 143 137 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_limnos_nisia = {
+                b_limnos_nisia = {
+                    title = baron
+                    title_female = baron
+                }
+                b_limnos_nisia2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 134 141 142 }
+                color2 = { 134 141 142 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_megara = {
+                b_megara = {
+                    title = baron
+                    title_female = baron
+                }
+                b_megara2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 129 135 146 }
+                color2 = { 129 135 146 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_monastiri = {
+                b_monastiri = {
+                    title = baron
+                    title_female = baron
+                }
+                b_monastiri2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 116 149 147 }
+                color2 = { 116 149 147 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_nisidia = {
+                b_nisidia = {
+                    title = baron
+                    title_female = baron
+                }
+                b_nisidia2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 115 132 163 }
+                color2 = { 115 132 163 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            culture = etosian
+            title = duke
+            title_female = duke
+        }
+        d_tessoliki = {
+            color = { 103 128 135 }
+            color2 = { 103 128 135 }
+            capital = 429
+            c_athous = {
+                b_athous = {
+                    title = baron
+                    title_female = baron
+                }
+                b_athous2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 110 155 148 }
+                color2 = { 110 155 148 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_ioannina = {
+                b_ioannina = {
+                    title = baron
+                    title_female = baron
+                }
+                b_ioannina2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 143 150 167 }
+                color2 = { 143 150 167 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_oreino_teichos = {
+                b_oreino_teichos = {
+                    title = baron
+                    title_female = baron
+                }
+                b_oreino_teichos2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 134 151 143 }
+                color2 = { 134 151 143 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_tessoliki = {
+                b_tessoliki = {
+                    title = baron
+                    title_female = baron
+                }
+                b_tessoliki2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 103 128 135 }
+                color2 = { 103 128 135 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            culture = etosian
+            title = duke
+            title_female = duke
+        }
+        d_therma = {
+            color = { 108 138 153 }
+            color2 = { 108 138 153 }
+            capital = 433
+            c_karpenissi = {
+                b_karpenissi = {
+                    title = baron
+                    title_female = baron
+                }
+                b_karpenissi2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 131 138 134 }
+                color2 = { 131 138 134 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_therma = {
+                b_therma = {
+                    title = baron
+                    title_female = baron
+                }
+                b_therma2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 108 138 153 }
+                color2 = { 108 138 153 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            culture = etosian
+            title = duke
+            title_female = duke
+        }
+        culture = etosian
+        title = king
+        title_female = king
+    }
+    k_kappados = {
+        color = { 156 186 186 }
+        color2 = { 156 186 186 }
+        capital = 435
+        d_heraclea = {
+            color = { 156 186 186 }
+            color2 = { 156 186 186 }
+            capital = 435
+            c_esmira = {
+                b_esmira = {
+                    title = baron
+                    title_female = baron
+                }
+                b_esmira2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 158 195 211 }
+                color2 = { 158 195 211 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_heraclea = {
+                b_heraclea = {
+                    title = baron
+                    title_female = baron
+                }
+                b_heraclea2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 159 195 196 }
+                color2 = { 159 195 196 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_kataion = {
+                b_kataion = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kataion2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 168 195 184 }
+                color2 = { 168 195 184 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_rakkai = {
+                b_rakkai = {
+                    title = baron
+                    title_female = baron
+                }
+                b_rakkai2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 156 186 186 }
+                color2 = { 156 186 186 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            culture = etosian
+            title = duke
+            title_female = duke
+        }
+        d_limnosa = {
+            color = { 151 180 186 }
+            color2 = { 151 180 186 }
+            capital = 439
+            c_alexandroupoli = {
+                b_alexandroupoli = {
+                    title = baron
+                    title_female = baron
+                }
+                b_alexandroupoli2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 164 169 201 }
+                color2 = { 164 169 201 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_anakion = {
+                b_anakion = {
+                    title = baron
+                    title_female = baron
+                }
+                b_anakion2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 183 178 213 }
+                color2 = { 183 178 213 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_arzabzon = {
+                b_arzabzon = {
+                    title = baron
+                    title_female = baron
+                }
+                b_arzabzon2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 153 183 174 }
+                color2 = { 153 183 174 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_atolia = {
+                b_atolia = {
+                    title = baron
+                    title_female = baron
+                }
+                b_atolia2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 172 176 213 }
+                color2 = { 172 176 213 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_erzina = {
+                b_erzina = {
+                    title = baron
+                    title_female = baron
+                }
+                b_erzina2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 151 180 186 }
+                color2 = { 151 180 186 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_limnosa = {
+                b_limnosa = {
+                    title = baron
+                    title_female = baron
+                }
+                b_limnosa2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 160 192 187 }
+                color2 = { 160 192 187 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            culture = etosian
+            title = duke
+            title_female = duke
+        }
+        d_tzakazvilis = {
+            color = { 153 172 184 }
+            color2 = { 153 172 184 }
+            capital = 445
+            c_sardes = {
+                b_sardes = {
+                    title = baron
+                    title_female = baron
+                }
+                b_sardes2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 153 172 184 }
+                color2 = { 153 172 184 }
+                culture = tsalqvanes
+                title = count
+                title_female = count
+            }
+            c_sebastamosa = {
+                b_sebastamosa = {
+                    title = baron
+                    title_female = baron
+                }
+                b_sebastamosa2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 166 207 174 }
+                color2 = { 166 207 174 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_tzakazvilis = {
+                b_tzakazvilis = {
+                    title = baron
+                    title_female = baron
+                }
+                b_tzakazvilis2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 184 178 189 }
+                color2 = { 184 178 189 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_verkilis = {
+                b_verkilis = {
+                    title = baron
+                    title_female = baron
+                }
+                b_verkilis2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 180 190 202 }
+                color2 = { 180 190 202 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            culture = tsalqvanes
+            title = duke
+            title_female = duke
+        }
+        culture = etosian
+        title = king
+        title_female = king
+    }
+    k_rustvani = {
+        color = { 128 163 183 }
+        color2 = { 128 163 183 }
+        capital = 449
+        d_beylagan = {
+            color = { 128 163 183 }
+            color2 = { 128 163 183 }
+            capital = 449
+            c_akhalakaio = {
+                b_akhalakaio = {
+                    title = baron
+                    title_female = baron
+                }
+                b_akhalakaio2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 128 163 183 }
+                color2 = { 128 163 183 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_beylagan = {
+                b_beylagan = {
+                    title = baron
+                    title_female = baron
+                }
+                b_beylagan2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 156 176 159 }
+                color2 = { 156 176 159 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_karsatin = {
+                b_karsatin = {
+                    title = baron
+                    title_female = baron
+                }
+                b_karsatin2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 142 147 171 }
+                color2 = { 142 147 171 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            c_shekit_khachmaz = {
+                b_shekit_khachmaz = {
+                    title = baron
+                    title_female = baron
+                }
+                b_shekit_khachmaz2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 150 174 189 }
+                color2 = { 150 174 189 }
+                culture = etosian
+                title = count
+                title_female = count
+            }
+            culture = etosian
+            title = duke
+            title_female = duke
+        }
+        d_hrzavdanda = {
+            color = { 130 170 189 }
+            color2 = { 130 170 189 }
+            capital = 453
+            c_alverdishvan = {
+                b_alverdishvan = {
+                    title = baron
+                    title_female = baron
+                }
+                b_alverdishvan2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 151 169 163 }
+                color2 = { 151 169 163 }
+                culture = tsalqvanes
+                title = count
+                title_female = count
+            }
+            c_hrzadan = {
+                b_hrzadan = {
+                    title = baron
+                    title_female = baron
+                }
+                b_hrzadan2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 164 147 154 }
+                color2 = { 164 147 154 }
+                culture = tsalqvanes
+                title = count
+                title_female = count
+            }
+            c_ozurgheti = {
+                b_ozurgheti = {
+                    title = baron
+                    title_female = baron
+                }
+                b_ozurgheti2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 130 170 189 }
+                color2 = { 130 170 189 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_stepanavan = {
+                b_stepanavan = {
+                    title = baron
+                    title_female = baron
+                }
+                b_stepanavan2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 142 153 178 }
+                color2 = { 142 153 178 }
+                culture = tsalqvanes
+                title = count
+                title_female = count
+            }
+            culture = krainivaya
+            title = duke
+            title_female = duke
+        }
+        d_tsaikvansu = {
+            color = { 129 173 188 }
+            color2 = { 129 173 188 }
+            capital = 457
+            c_anaklia = {
+                b_anaklia = {
+                    title = baron
+                    title_female = baron
+                }
+                b_anaklia2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 164 176 175 }
+                color2 = { 164 176 175 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_derbentyurt = {
+                b_derbentyurt = {
+                    title = baron
+                    title_female = baron
+                }
+                b_derbentyurt2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 132 163 155 }
+                color2 = { 132 163 155 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_khazavyurt = {
+                b_khazavyurt = {
+                    title = baron
+                    title_female = baron
+                }
+                b_khazavyurt2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 144 171 178 }
+                color2 = { 144 171 178 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_kizlyar = {
+                b_kizlyar = {
+                    title = baron
+                    title_female = baron
+                }
+                b_kizlyar2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 161 157 187 }
+                color2 = { 161 157 187 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_martvili = {
+                b_martvili = {
+                    title = baron
+                    title_female = baron
+                }
+                b_martvili2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 129 173 188 }
+                color2 = { 129 173 188 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_tzkalaitsa = {
+                b_tzkalaitsa = {
+                    title = baron
+                    title_female = baron
+                }
+                b_tzkalaitsa2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 133 156 180 }
+                color2 = { 133 156 180 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            culture = krainivaya
+            title = duke
+            title_female = duke
+        }
+        culture = etosian
+        title = king
+        title_female = king
+    }
+}

@@ -1,0 +1,36 @@
+e_regalia = {
+    color = { 128 73 124 }
+    color2 = { 128 73 124 }
+    capital = 1
+    k_regalia = {
+        color = { 128 73 124 }
+        color2 = { 128 73 124 }
+        capital = 1
+        d_regalia = {
+            color = { 128 73 124 }
+            color2 = { 128 73 124 }
+            capital = 1
+            c_regalia = {
+                b_regalia = {
+                    title = baron
+                    title_female = baron
+                }
+                b_regalia2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 128 73 124 }
+                color2 = { 128 73 124 }
+                culture = ceaerden
+                title = count
+                title_female = count
+            }
+            culture = ceaerden
+            title = duke
+            title_female = duke
+        }
+        culture = ceaerden
+        title = king
+        title_female = king
+    }
+}
