@@ -7870,7 +7870,7 @@
 	185.1.1 = {
 		death = 185.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 }
 
 536 = {
@@ -7897,7 +7897,7 @@
 	215.1.1 = {
 		death = 215.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 536
 	father = 535
 }
@@ -7913,7 +7913,7 @@
 	217.1.1 = {
 		death = 217.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 536
 	father = 535
 }
@@ -7942,7 +7942,7 @@
 	245.1.1 = {
 		death = 245.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 539
 	father = 537
 }
@@ -7958,7 +7958,7 @@
 	247.1.1 = {
 		death = 247.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 539
 	father = 537
 }
@@ -7974,7 +7974,7 @@
 	249.1.1 = {
 		death = 249.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 539
 	father = 537
 }
@@ -8047,7 +8047,7 @@
 	277.1.1 = {
 		death = 277.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 546
 	father = 540
 }
@@ -8062,7 +8062,7 @@
 	279.1.1 = {
 		death = 279.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 546
 	father = 540
 }
@@ -8077,7 +8077,7 @@
 	281.1.1 = {
 		death = 281.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 546
 	father = 540
 }
@@ -8093,7 +8093,7 @@
 	283.1.1 = {
 		death = 283.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 546
 	father = 540
 }
@@ -8108,7 +8108,7 @@
 	285.1.1 = {
 		death = 285.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 546
 	father = 540
 }
@@ -8137,7 +8137,7 @@
 	309.1.1 = {
 		death = 309.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 552
 	father = 548
 }
@@ -8167,7 +8167,7 @@
 	360.1.1 = {
 		death = 360.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 554
 	father = 553
 }
@@ -8183,7 +8183,7 @@
 	362.1.1 = {
 		death = 362.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 554
 	father = 553
 }
@@ -8198,7 +8198,7 @@
 	365.1.1 = {
 		death = 365.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 554
 	father = 553
 }
@@ -8242,7 +8242,7 @@
 	313.1.1 = {
 		death = 313.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 558
 	father = 549
 }
@@ -8257,7 +8257,7 @@
 	362.1.1 = {
 		death = 362.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	father = 560
 }
 
@@ -8271,7 +8271,7 @@
 	365.1.1 = {
 		death = 365.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	father = 560
 }
 
@@ -8286,7 +8286,7 @@
 	368.1.1 = {
 		death = 368.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	father = 560
 }
 
@@ -8314,7 +8314,7 @@
 	305.1.1 = {
 		death = 305.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 550
 	father = 564
 }
@@ -8357,7 +8357,7 @@
 	355.1.1 = {
 		death = 355.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 567
 	father = 551
 }
@@ -8373,7 +8373,7 @@
 	357.1.1 = {
 		death = 357.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 567
 	father = 551
 }
@@ -8402,7 +8402,7 @@
 	305.1.1 = {
 		death = 305.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 570
 	father = 547
 }
@@ -8449,7 +8449,7 @@
 	359.1.1 = {
 		death = 359.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 572
 	father = 571
 }
@@ -8464,7 +8464,7 @@
 	357.1.1 = {
 		death = 357.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 572
 	father = 571
 }
@@ -8494,7 +8494,7 @@
 	382.1.1 = {
 		death = 382.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 576
 	father = 575
 }
@@ -8523,7 +8523,7 @@
 	384.1.1 = {
 		death = 384.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 576
 	father = 575
 }
@@ -8539,7 +8539,7 @@
 	385.1.1 = {
 		death = 385.1.1
 	}
-	dynasty = 95
+	dynasty = 314
 	mother = 576
 	father = 575
 }

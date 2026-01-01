@@ -1552,3 +1552,7 @@
 	culture = velheim
 }
 
+314 = {
+	name = "du Brierust"
+	culture = ithanian
+}
