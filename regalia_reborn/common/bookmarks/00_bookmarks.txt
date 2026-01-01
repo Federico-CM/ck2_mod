@@ -1,15 +1,12 @@
 bm_alexander315 = { 
-	                    name = "BM_CHARLEMAGNE768"
+	name = "BM_ALEXANDER_ERA"
+	desc = "BM_ALEXANDER_ERA_DESC"
+	date = 315.9.15
 
-                        desc = "BM_BM_CHARLEMAGNE_DESC768"
+	era = yes						## Will be shown on Era screen.
+	picture = GFX_pick_era_image_1
 
-                        date = 315.9.15
-
-
-                                    era = yes						## Will be shown on Era screen.
-	                                picture = GFX_pick_era_image_1
-
-                                }
+}
 
 
 
