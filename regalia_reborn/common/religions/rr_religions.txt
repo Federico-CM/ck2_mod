@@ -23,7 +23,7 @@ unionism_group = {
 		graphical_culture = westerngfx
 		icon = 1
 
-		color = { 0.8 0.3 0.1 }
+		color = { 242 0 25 }
 
 		crusade_name = CRUSADE
 		scripture_name = THE_CREED
@@ -32,7 +32,7 @@ unionism_group = {
 		high_god_name = GOD_THE_EVERWATCHER
 
 		god_names = {
-			GOD_THEOMAR
+			GOD_THEOMAR GOD_NESS GOD_GRACE GOD_ALLEST GOD_CAAN GOD_ELIA GOD_NOLVEN GOD_JUVIN GOD_MENDES GOD_AL_ASIR GOD_CRYSEON GOD_NIMOR GOD_ZALINA
 		}
 
 		evil_god_names = {
@@ -56,7 +56,7 @@ unionism_group = {
 		graphical_culture = westerngfx
 		icon = 7
 
-		color = { 0.8 0.3 0.1 }
+		color = { 255 0 255 }
 
 		crusade_name = CRUSADE
 		scripture_name = THE_CREED
@@ -65,7 +65,7 @@ unionism_group = {
 		high_god_name = GOD_THE_EVERWATCHER
 
 		god_names = {
-			GOD_THEOMAR
+			GOD_THEOMAR GOD_NESS GOD_BELIALUS GOD_ALLEST GOD_CAAN GOD_ELIA GOD_NOLVEN GOD_JUVIN GOD_MENDES GOD_AL_ASIR GOD_CRYSEON GOD_NIMOR GOD_ZALINA
 		}
 
 		evil_god_names = {
@@ -107,16 +107,16 @@ estel_group = {
 		graphical_culture = westerngfx
 		icon = 2
 
-		color = { 0.8 0.3 0.1 }
+		color = { 64 224 208 }
 
 		crusade_name = CRUSADE
-		scripture_name = THE_CREED
-		priest_title = ORDOVAN
+		scripture_name = THE_WALKING_TALES
+		priest_title = ORDVAAN
 
 		high_god_name = ESTEL
 
 		god_names = {
-			GOD_TALEA GOD_CEMAAN GOD_SAPPHORA 
+			GOD_TALEA GOD_CEMAAN GOD_SAPPHORA GOD_GILAN GOD_MANA GOD_SOMA GOD_ASEIA GOD_LEYON GOD_SINNAVEI GOD_VYRE GOD_MELCA GOD_MORSARON GOD_AVIRNA GOD_AVINLA GOD_SUELLON
 		}
 
 		evil_god_names = {
@@ -157,16 +157,16 @@ draconism_group = {
 		graphical_culture = westerngfx
 		icon = 3
 
-		color = { 0.8 0.3 0.1 }
+		color = { 96 31 158 }
 
 		crusade_name = CRUSADE
-		scripture_name = THE_CREED
+		scripture_name = THE_MANTLE_OF_CREATION
 		priest_title = PRIEST
 
-		high_god_name = GOD_THE_TWO_COURTS
+		high_god_name = GOD_REGULUS
 
 		god_names = {
-			GOD_REGULUS GOD_TRITON 
+			GOD_REGULUS GOD_TRITON GOD_MARIK GOD_GAIA GOD_SILAS GOD_SEVERENA GOD_AURORA GOD_NOX GOD_ORION GOD_JULIANUS GOD_DAIANA GOD_CINERIUS GOD_UMBRA GOD_FELICULA GOD_ARMINA GOD_XERADON GOD_CHRYSATOR
 		}
 
 		evil_god_names = {
@@ -207,16 +207,16 @@ fornoss_group = {
 		graphical_culture = westerngfx
 		icon = 4
 
-		color = { 0.8 0.3 0.1 }
+		color = { 79 121 66 }
 
 		crusade_name = CRUSADE
-		scripture_name = THE_CREED
+		scripture_name = THE_OLD_LEGENDS
 		priest_title = PRIEST
 
 		high_god_name = GOD_OLD_GODS
 
 		god_names = {
-			GOD_BARD GOD_TADGH
+			GOD_BARD GOD_KAEL GOD_TADHG GOD_NORN GOD_FENRA GOD_LEIF GOD_DAWIN GOD_MAEVRID GOD_HALFVEL GOD_EIRNY GOD_HURRON GOD_SHARNEL GOD_THIRUN GOD_NYXIL GOD_ADDAN GOD_VHARUN GOD_ROKKAN GOD_HELVARD GOD_BLODRUNA GOD_TARAN
 		}
 
 		evil_god_names = {
@@ -257,20 +257,20 @@ evolism_group = {
 		graphical_culture = westerngfx
 		icon = 5
 
-		color = { 0.8 0.3 0.1 }
+		color = { 136 8 8 }
 
 		crusade_name = CRUSADE
-		scripture_name = THE_CREED
+		scripture_name = THE_COSMIC_TRUTHS
 		priest_title = NUMERAN
 
-		high_god_name = GOD_THE_PANTHEON
+		high_god_name = GOD_RYGHION
 
 		god_names = {
-			GOD_GAHAN GOD_ONU
+			GOD_RYGHION GOD_ONU GOD_INTALOS GOD_KAZZAN GOD_MORRLOND GOD_GRIMKIN GOD_VYRMOR GOD_SAVANAX GOD_LYMORA GOD_AYLINA GOD_VENTRA
 		}
 
 		evil_god_names = {
-			GOD_THE_DARK_GODS
+			GOD_THE_DEATH_GODS GOD_PURISM
 		}
 
 		priests_can_marry = no
@@ -307,20 +307,20 @@ khama_group = {
 		graphical_culture = westerngfx
 		icon = 6
 
-		color = { 0.8 0.3 0.1 }
+		color = { 216 160 27 }
 
-		crusade_name = CRUSADE
-		scripture_name = THE_CREED
-		priest_title = PRIEST
+		crusade_name = RECLAMATION
+		scripture_name = THE_KARMIC_CODES
+		priest_title = DIVINER
 
 		high_god_name = GOD_TJAFAR
 
 		god_names = {
-			GOD_AKHET GOD_KHANNAR
+			GOD_TJAFAR GOD_AKHET GOD_KHANNAR GOD_DIVI GOD_MAUTHEK GOD_ZARET GOD_ATHETIS GOD_QADRETI GOD_SEFRUAT GOD_ANKHETI GOD_RAMUT GOD_PAHTIA GOD_GAHAN GOD_KAZHERON GOD_NEPHKA
 		}
 
 		evil_god_names = {
-			GOD_GAHAN
+			GOD_THE_DARK_GODS GOD_CEMAAN GOD_TALEA
 		}
 
 		priests_can_marry = no

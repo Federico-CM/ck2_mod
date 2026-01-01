@@ -1,54 +1,141 @@
-unionism_DESC;Dogmatic Unionism is a religion that venerates the divinely guided Regalian emperors and integrates the gods of conquered peoples to promote order and stability.;;;;;;;;;;;;;x
-unionism;Dogmatic Unionist;;;;;;;;;;;;;x
-unionism_adj;Dogmatic Unionist;;;;;;;;;;;;;x
+unionism_DESC;Unionism is the world’s second-largest religion, trailing only behind Estelley. It is speculated that Unionism will become the largest religion within a century, largely due to the Ailor people’s religious diversity. At its core, Unionism is a global unification movement that proclaims the benevolence of the divinely inspired Emperors of the Regalian Empire to bring order, stability, and law to a world filled with chaos and strife. Unionism uniquely incorporates the gods of subjugated or annexed peoples, preserving their cultures and traditions as part of a larger collective.;;;;;;;;;;;;;x
+unionism;Dogmatic;;;;;;;;;;;;;x
+unionism_adj;Dogmatic;;;;;;;;;;;;;x
 unionism_group;Unionist;;;;;;;;;;;;;x
-evintarian_DESC;Evintarian Unionism is a religion that venerates the divinely guided Regalian emperors and integrates the gods of conquered peoples to promote order and stability.;;;;;;;;;;;;;x
-evintarian;Evintarian Unionist;;;;;;;;;;;;;x
-evintarian_adj;Evintarian Unionist;;;;;;;;;;;;;x
+evintarian_DESC;The Evintarians broke away from traditional Unionism after their exile from the First Conclave, during which their predecessors had argued that the body was born flawed and could be improved with everything from meditative exercise to engagement with Demons. Exiled to Etosil, the Evintarians learned to embrace Demons and magic in a manner considered appalling to the other Unionists. In the present day, the Evintarians have been welcomed back into the Unionist Divine by Emperor Alexander, though they continue to feud over some doctrinal differences.;;;;;;;;;;;;;x
+evintarian;Evintarian;;;;;;;;;;;;;x
+evintarian_adj;Evintarian;;;;;;;;;;;;;x
 THE_CREED;the Creed;;;;;;;;;;;;;x
-CELATE;celate;;;;;;;;;;;;;x
+CELATE;Celate;;;;;;;;;;;;;x
 GOD_THE_EVERWATCHER;the Everwatcher;;;;;;;;;;;;;x
 GOD_THEOMAR;Theomar;;;;;;;;;;;;;x
-GOD_THE_DARK_GODS;the dark gods;;;;;;;;;;;;;x
+GOD_NESS;Ness;;;;;;;;;;;;;x
+GOD_BELIALUS;Belialus;;;;;;;;;;;;;x
+GOD_GRACE;Grace;;;;;;;;;;;;;x
+GOD_ALLEST;Allest;;;;;;;;;;;;;x
+GOD_CAAN;Caan;;;;;;;;;;;;;x
+GOD_ELIA;Elia;;;;;;;;;;;;;x
+GOD_JUVIN;Juvin;;;;;;;;;;;;;x
+GOD_MENDES;Mendes;;;;;;;;;;;;;x
+GOD_AL_ASIR;Al-Asir;;;;;;;;;;;;;x
+GOD_CRYSEON;Cryseon;;;;;;;;;;;;;x
+GOD_NIMOR;Nimor;;;;;;;;;;;;;x
+GOD_ZALINA;Zalina;;;;;;;;;;;;;x
+GOD_THE_DARK_GODS;The Dark Gods;;;;;;;;;;;;;x
 
-estelley_DESC;Estelley is a predominantly elven religion centered on self-betterment, personal spiritual growth under the guidance of its empress goddesses.;;;;;;;;;;;;;x
+estelley_DESC;Estelley is the world's largest religion, due to its popularity among Elves. It is a moralizing religion that asks the worshiper to become the best version of themselves that they can be. Despite the long shadow it casts across history, Estelley has no explicit political or material demands. It concerns itself mostly with the kingdom of the heart, which only an individual can ever truly know. It proclaims the guidance of three Empress Goddesses, who founded the faith and wrote its holy books in antiquity, but has acquired many, many more over the ages. Though some Elven peoples have left it, Estelley is the for-Elves, by-Elves religion of Aloria, and will always remain so.;;;;;;;;;;;;;x
 estelley;Estelley;;;;;;;;;;;;;x
 estelley_adj;Estelley;;;;;;;;;;;;;x
 estel_group;Estelley;;;;;;;;;;;;;x
-ORDOVAN;ordovan;;;;;;;;;;;;;x
+ORDVAAN;Ordvaan;;;;;;;;;;;;;x
+THE_WALKING_TALES;The Walking Tales;;;;;;;;;;;;;x
 GOD_ESTEL;Estel;;;;;;;;;;;;;x
 GOD_TALEA;Talea;;;;;;;;;;;;;x
-GOD_CEMAAN;Ceman;;;;;;;;;;;;;x
+GOD_CEMAAN;Cemaan;;;;;;;;;;;;;x
+GOD_SAPPHORA;Sapphora;;;;;;;;;;;;;x
+GOD_GILAN;Gilan;;;;;;;;;;;;;x
+GOD_MANA;Mana;;;;;;;;;;;;;x
+GOD_SOMA;Soma;;;;;;;;;;;;;x
+GOD_ASEIA;Aseia;;;;;;;;;;;;;x
+GOD_LEYON;Leyon;;;;;;;;;;;;;x
+GOD_SINNAVEI;Sinnavei;;;;;;;;;;;;;x
+GOD_VYRE;Vyre;;;;;;;;;;;;;x
+GOD_MELCA;Melca;;;;;;;;;;;;;x
+GOD_MORSARON;Morsaron;;;;;;;;;;;;;x
+GOD_AVIRNA;Avirna;;;;;;;;;;;;;x
+GOD_AVINLA;Avinla;;;;;;;;;;;;;x
+GOD_SUELLON;Suellon;;;;;;;;;;;;;x
 
-draconism_DESC;Draconism is a faith devoted to dragons, immortal, world-maintaining beings, whose worship centers less on moral doctrine and more on accompanying these dragons in sustaining and protecting the world.;;;;;;;;;;;;;x
+draconism_DESC;Draconism as a religion represents an organized faith that worships dragons. Dragons are a specific class of being, somewhere in between an ancient civilization of immortals, and technicians who keep the basic functions of the world running. While many other Religions are about the Gods teaching mortals virtues and sins and guiding them to live a good life in worship and being, Dragons are less sentimental about worship and rather take mortals on a journey with them in the operation of the world and preservation of life against outside foes.;;;;;;;;;;;;;x
 draconism;Draconism;;;;;;;;;;;;;x
 draconism_adj;Draconism;;;;;;;;;;;;;x
 draconism_group;Draconism;;;;;;;;;;;;;x
-GOD_THE_TWO_COURTS;the two courts;;;;;;;;;;;;;x
+THE_MANTLE_OF_CREATION;The Mantle of Creation;;;;;;;;;;;;;x
 GOD_REGULUS;Regulus;;;;;;;;;;;;;x
 GOD_TRITON;Triton;;;;;;;;;;;;;x
+GOD_MARIK;Marik;;;;;;;;;;;;;x
+GOD_GAIA;Gaia;;;;;;;;;;;;;x
+GOD_SILAS;Silas;;;;;;;;;;;;;x
+GOD_SEVERENA;Severena;;;;;;;;;;;;;x
+GOD_AURORA;Aurora;;;;;;;;;;;;;x
+GOD_NOX;Nox;;;;;;;;;;;;;x
+GOD_ORION;Orion;;;;;;;;;;;;;x
+GOD_JULIANUS;Julianus;;;;;;;;;;;;;x
+GOD_DAIANA;Daiana;;;;;;;;;;;;;x
+GOD_CINERIUS;Cinerius;;;;;;;;;;;;;x
+GOD_UMBRA;Umbra;;;;;;;;;;;;;x
+GOD_FELICULA;Felicula;;;;;;;;;;;;;x
+GOD_ARMINA;Armina;;;;;;;;;;;;;x
+GOD_XERADON;Xeradon;;;;;;;;;;;;;x
+GOD_CHRYSATOR;Chrysator;;;;;;;;;;;;;x
 
-fornoss_DESC;Fornoss is a religion that venerates deities tied to ancestral survival and identity. Honor plays an important part of this religion.;;;;;;;;;;;;;x
+fornoss_DESC;Fornoss is one of the earliest Religions of the Ailor that survived thousands of years of conversion by other religions and attempts to be eradicated by various nations, proving exceptionally resilient. The Fornoss faith has a large following, particularly among Velheim and Gallovian Ailor, though a large number of Urlan, Dwarves, and some Ashaven Eronidas also follow it, meaning it is not limited in scope to just Ailor. Fornoss is sometimes called the Old Gods religion, but this is not historically correct. The Gods are not old from a purely chronological perspective and it is not the oldest religion in Aloria. This term was mostly popularized by the Ailor, who when reviewing only their history, can see Fornoss as the oldest Religion, but when taking the totality of the world's history, Fornoss is a more accurate term, which roughly translates to "ancient us," an homage to its survival through the ages.;;;;;;;;;;;;;x
 fornoss;Fornoss;;;;;;;;;;;;;x
 fornoss_adj;Fornoss;;;;;;;;;;;;;x
 fornoss_group;Fornoss;;;;;;;;;;;;;x
-GOD_THE_OLD_GODS;the old gods;;;;;;;;;;;;;x
-GOD_BARD;Regulus;;;;;;;;;;;;;x
-GOD_TADGH;Tadgh;;;;;;;;;;;;;x
+THE_OLD_LEGENDS;The Old Legends;;;;;;;;;;;;;x
+GOD_THE_OLD_GODS;The Unified Pantheon;;;;;;;;;;;;;x
+GOD_BARD;Bard;;;;;;;;;;;;;x
+GOD_TADHG;Tadhg;;;;;;;;;;;;;x
+GOD_NORN;Norn;;;;;;;;;;;;;x
+GOD_FENRA;Fenra;;;;;;;;;;;;;x
+GOD_LEIF;Leif;;;;;;;;;;;;;x
+GOD_DAWIN;Dawin;;;;;;;;;;;;;x
+GOD_MAEVRID;Maevrid;;;;;;;;;;;;;x
+GOD_HALFVEL;Halfvel;;;;;;;;;;;;;x
+GOD_EIRNY;Eirny;;;;;;;;;;;;;x
+GOD_HURRON;Hurron;;;;;;;;;;;;;x
+GOD_KAEL;Kael;;;;;;;;;;;;;x
+GOD_SHARNEL;Sharnel;;;;;;;;;;;;;x
+GOD_THIRUN;Thirun;;;;;;;;;;;;;x
+GOD_NYXIL;Nyxil;;;;;;;;;;;;;x
+GOD_ADDAN;Addan;;;;;;;;;;;;;x
+GOD_VHARUN;Vharun;;;;;;;;;;;;;x
+GOD_ROKKAN;Rokkan;;;;;;;;;;;;;x
+GOD_HELVARD;Helvard;;;;;;;;;;;;;x
+GOD_BLODRUNA;Blodruna;;;;;;;;;;;;;x
+GOD_TARAN;Taran;;;;;;;;;;;;;x
 
-evolism_DESC;Evolism is a faith devoted to powerful, alignment-transcending dark gods from other realms who teach harsh cosmic truths and urge followers to pursue self-serving transformation into a higher form through magic.;;;;;;;;;;;;;x
+evolism_DESC;Evolism as a religion represents an organized faith that worships the Dark Gods, or gods specifically from other Magic Realms that have come to Aloria or reached into Aloria to seek followers of their gospel. Evolist Gods all started as Demons or entities from different realms, meaning they all technically had an original alignment. However, all have consumed so much power over the millennia that they have accumulated a bit of every dimensional alignment. The Evolist Gods are not interested in virtues or vices; rather, they teach the faithful absolute truths about the world and encourage the faithful to live as brutally honest and self-serving as they can, as Evolism is about evolving into a better self in a terrible world.;;;;;;;;;;;;;x
 evolism;Evolist;;;;;;;;;;;;;x
 evolism_adj;Evolist;;;;;;;;;;;;;x
 evolism_group;Evolist;;;;;;;;;;;;;x
-NUMERAN;numeran;;;;;;;;;;;;;x
-GOD_GAHAN;Gahan;;;;;;;;;;;;;x
+NUMERAN;Numeran;;;;;;;;;;;;;x
+THE_COSMIC_TRUTHS;The Cosmic Truths;;;;;;;;;;;;;x
+GOD_RYGHION;Ryghion;;;;;;;;;;;;;x
 GOD_ONU;Onu;;;;;;;;;;;;;x
+GOD_INTALOS;Intalos;;;;;;;;;;;;;x
+GOD_KAZZAN;Kazzan;;;;;;;;;;;;;x
+GOD_MORRLOND;Morrlond;;;;;;;;;;;;;x
+GOD_GRIMKIN;Grimkin;;;;;;;;;;;;;x
+GOD_VYRMOR;Vyrmor;;;;;;;;;;;;;x
+GOD_SAVANAX;Savanax;;;;;;;;;;;;;x
+GOD_LYMORA;Lymora;;;;;;;;;;;;;x
+GOD_AYLINA;Aylina;;;;;;;;;;;;;x
+GOD_VENTRA;Ventra;;;;;;;;;;;;;x
+GOD_THE_DEATH_GODS;The Death Gods;;;;;;;;;;;;;x
+GOD_PURISM;Purism;;;;;;;;;;;;;x
 
-khama_DESC;Khama is an ancient polytheistic faith originating in the Dewamenet empire. It teaches karmic balance and dutiful service to its gods.;;;;;;;;;;;;;x
+khama_DESC;Khama is one of the oldest Religions in the world, dating back to the days of the Dewamenet Empire nearly 15,000 years. Originally starting as a Dewa-Asha ethnoreligion, Khama is a polytheistic Religion centered around serving the Gods as loyal subjects and living a life with karmic rightness, teaching that the world is a confluence of actions and consequences that affect the cycle of life and death for its worshipers. Khama is considered an incomplete Religion that is undergoing changes in the modern era, because of the rebirth of some of the Gods.;;;;;;;;;;;;;x
 khama;Khama;;;;;;;;;;;;;x
-Khama_adj;Khama;;;;;;;;;;;;;x
-Khama_group;Khama;;;;;;;;;;;;;x
+khama_adj;Khama;;;;;;;;;;;;;x
+khama_group;Khama;;;;;;;;;;;;;x
+DIVINER;Diviner;;;;;;;;;;;;;x
+THE_KARMIC_CODES;The Karmic Codes;;;;;;;;;;;x
+RECLAMATION;Reclamation;;;;;;;;;;;x
 GOD_TJAFAR;Tjafar;;;;;;;;;;;;;x
 GOD_AKHET;Akhet;;;;;;;;;;;x
-GOD_KHANNAR;Khanar;;;;;;;;;;;x
+GOD_GAHAN;Gahan;;;;;;;;;;;;;x
+GOD_KHANNAR;Khannar;;;;;;;;;;;x
+GOD_DIVI;Divi;;;;;;;;;;;x
+GOD_MAUTHEK;Mauthek;;;;;;;;;;;x
+GOD_ZARET;Zaret;;;;;;;;;;;x
+GOD_ATHETIS;Athetis;;;;;;;;;;;x
+GOD_QADRETI;Qadreti;;;;;;;;;;;x
+GOD_SEFRUAT;Sefruat;;;;;;;;;;;x
+GOD_ANKHETI;Ankheti;;;;;;;;;;;x
+GOD_RAMUT;Ramut;;;;;;;;;;;x
+GOD_PAHTIA;Pahtia;;;;;;;;;;;x
+GOD_KAZHERON;Kazheron;;;;;;;;;;;x
+GOD_NEPHKA;Nephka;;;;;;;;;;;x
  
