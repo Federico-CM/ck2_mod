@@ -1,6 +1,6 @@
 title = c_bovrington
 max_settlements = 2
-culture = ceaerden
+culture = cearden
 religion = unionism
 b_bovrington = tribal
 b_bovrington2 = temple

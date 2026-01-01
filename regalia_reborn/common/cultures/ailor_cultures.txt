@@ -221,7 +221,7 @@ ailor_group = {
         mother_name_chance = 5
     }
 
-    ceaerden = {
+    cearden = {
         graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }

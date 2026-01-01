@@ -1,6 +1,6 @@
 title = c_holbeach
 max_settlements = 2
-culture = ceaerden
+culture = cearden
 religion = unionism
 b_holbeach = tribal
 b_holbeach2 = temple

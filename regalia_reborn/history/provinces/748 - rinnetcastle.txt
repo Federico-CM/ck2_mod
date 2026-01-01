@@ -1,6 +1,6 @@
 title = c_rinnetcastle
 max_settlements = 2
-culture = ceaerden
+culture = cearden
 religion = unionism
 b_rinnetcastle = tribal
 b_rinnetcastle2 = temple

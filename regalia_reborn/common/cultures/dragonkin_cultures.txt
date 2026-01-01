@@ -1,7 +1,7 @@
-dragonkind_group = {
+dragonkin_group = {
     graphical_cultures = { westerngfx }
 
-    dragonkind = {
+    dragonkin = {
         graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }

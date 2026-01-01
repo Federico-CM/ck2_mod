@@ -1,6 +1,6 @@
 title = c_north_tawton
 max_settlements = 2
-culture = ceaerden
+culture = cearden
 religion = unionism
 b_north_tawton = tribal
 b_north_tawton2 = temple

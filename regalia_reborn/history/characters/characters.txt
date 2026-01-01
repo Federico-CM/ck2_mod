@@ -13269,7 +13269,7 @@
 
 903 = {
 	name = "Theodric"
-	culture = ceaerden
+	culture = cearden
 	religion = unionism
 	287.1.1 = {
 		birth = 287.1.1
@@ -13403,7 +13403,7 @@
 
 913 = {
 	name = "Yahra"
-	culture = draconismkin
+	culture = dragonkin
 	religion = draconism
 	female = yes
 	293.1.1 = {
@@ -14046,7 +14046,7 @@
 
 962 = {
 	name = "Amadou"
-	culture = draconismkin
+	culture = dragonkin
 	religion = unionism
 	254.1.1 = {
 		birth = 254.1.1
@@ -14059,7 +14059,7 @@
 
 963 = {
 	name = "Boubacar"
-	culture = draconismkin
+	culture = dragonkin
 	religion = draconism
 	228.1.1 = {
 		birth = 228.1.1
@@ -14644,7 +14644,7 @@
 
 1008 = {
 	name = "Mamadou"
-	culture = draconismkin
+	culture = dragonkin
 	religion = unionism
 	222.1.1 = {
 		birth = 222.1.1
@@ -14657,7 +14657,7 @@
 
 1009 = {
 	name = "Issa"
-	culture = draconismkin
+	culture = dragonkin
 	religion = draconism
 	251.1.1 = {
 		birth = 251.1.1

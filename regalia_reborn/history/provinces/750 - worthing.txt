@@ -1,6 +1,6 @@
 title = c_worthing
 max_settlements = 2
-culture = ceaerden
+culture = cearden
 religion = unionism
 b_worthing = tribal
 b_worthing2 = temple

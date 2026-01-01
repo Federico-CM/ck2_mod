@@ -1,6 +1,6 @@
 title = c_sutton
 max_settlements = 2
-culture = ceaerden
+culture = cearden
 religion = unionism
 b_sutton = tribal
 b_sutton2 = temple

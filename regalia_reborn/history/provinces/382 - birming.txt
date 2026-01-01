@@ -1,6 +1,6 @@
 title = c_birming
 max_settlements = 2
-culture = ceaerden
+culture = cearden
 religion = unionism
 b_birming = tribal
 b_birming2 = temple

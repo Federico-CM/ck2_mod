@@ -1,6 +1,6 @@
 title = c_southdale
 max_settlements = 2
-culture = ceaerden
+culture = cearden
 religion = unionism
 b_southdale = tribal
 b_southdale2 = temple
