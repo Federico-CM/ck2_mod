@@ -18,6 +18,6 @@ seasons = "seasons.txt"
 
 sea_zones = { 1125 1271 }
 
-ocean_region = {{	# Inner Regalian seas
-	sea_zones = {{ 1 }}
-}}
+ocean_region = {	# Inner Regalian seas
+	sea_zones = { 1 }
+}
