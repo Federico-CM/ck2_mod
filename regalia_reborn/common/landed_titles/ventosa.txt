@@ -59,29 +59,6 @@ e_ventosa = {
             title = duke
             title_female = duke
         }
-        d_gimont = {
-            color = { 197 187 152 }
-            color2 = { 197 187 152 }
-            capital = 182
-            c_vila_franca = {
-                b_vila_franca = {
-                    title = baron
-                    title_female = baron
-                }
-                b_vila_franca2 = {
-                    title = baron
-                    title_female = baron
-                }
-                color = { 197 187 152 }
-                color2 = { 197 187 152 }
-                culture = bragacao
-                title = count
-                title_female = count
-            }
-            culture = bragacao
-            title = duke
-            title_female = duke
-        }
         d_odivelas = {
             color = { 189 195 137 }
             color2 = { 189 195 137 }
@@ -248,6 +225,21 @@ e_ventosa = {
                 }
                 color = { 193 194 133 }
                 color2 = { 193 194 133 }
+                culture = bragacao
+                title = count
+                title_female = count
+            }
+            c_vila_franca = {
+                b_vila_franca = {
+                    title = baron
+                    title_female = baron
+                }
+                b_vila_franca2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 197 187 152 }
+                color2 = { 197 187 152 }
                 culture = bragacao
                 title = count
                 title_female = count
