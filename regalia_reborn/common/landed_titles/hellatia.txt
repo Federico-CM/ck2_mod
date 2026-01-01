@@ -1,4 +1,4 @@
-e_helletia = {
+e_hellatia = {
     color = { 168 175 145 }
     color2 = { 168 175 145 }
     capital = 409

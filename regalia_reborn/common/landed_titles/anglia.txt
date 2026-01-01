@@ -1,4 +1,4 @@
-e_windland = {
+e_anglia = {
     color = { 133 129 162 }
     color2 = { 133 129 162 }
     capital = 998

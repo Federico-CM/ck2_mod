@@ -1,4 +1,4 @@
-e_nordskag = {
+e_drixagh = {
     color = { 160 222 180 }
     color2 = { 160 222 180 }
     capital = 598

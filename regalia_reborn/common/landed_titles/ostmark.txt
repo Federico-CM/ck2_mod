@@ -1,4 +1,4 @@
-e_bergland = {
+e_ostmark = {
     color = { 191 201 138 }
     color2 = { 191 201 138 }
     capital = 77

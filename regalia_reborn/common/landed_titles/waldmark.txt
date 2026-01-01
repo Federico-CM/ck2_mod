@@ -1,4 +1,4 @@
-e_heartland = {
+e_waldmark = {
     color = { 199 121 118 }
     color2 = { 199 121 118 }
     capital = 355

@@ -1,4 +1,4 @@
-e_terralibre = {
+e_girobalda = {
     color = { 186 188 160 }
     color2 = { 186 188 160 }
     capital = 872

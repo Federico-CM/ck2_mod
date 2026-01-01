@@ -1,4 +1,4 @@
-e_hacaria = {
+e_couronne = {
     color = { 167 156 173 }
     color2 = { 167 156 173 }
     capital = 299

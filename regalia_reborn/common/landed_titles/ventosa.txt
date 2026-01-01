@@ -1,4 +1,4 @@
-e_eerstwald = {
+e_ventosa = {
     color = { 202 211 135 }
     color2 = { 202 211 135 }
     capital = 179
