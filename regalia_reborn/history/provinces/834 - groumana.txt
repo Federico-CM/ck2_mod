@@ -1,6 +1,6 @@
 title = c_groumana
 max_settlements = 2
-culture = draconismkin
+culture = dragonkin
 religion = unionism
 b_groumana = tribal
 b_groumana2 = temple

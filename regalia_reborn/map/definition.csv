@@ -237,7 +237,7 @@ province;red;green;blue;x;x
 236;151;160;204;cupermill;x
 237;164;157;178;meigle;x
 238;170;157;186;creach;x
-239;183;165;203;talham;x
+239;146;125;170;talham;x
 240;183;165;203;glassey;x
 241;176;164;204;eunach;x
 242;154;142;186;perlmig;x
@@ -250,7 +250,7 @@ province;red;green;blue;x;x
 249;169;155;193;fintry;x
 250;153;155;173;tulliemet;x
 251;167;153;182;mageross;x
-252;131;192;143;tretor;x
+252;156;211;166;tretor;x
 253;127;161;152;garelania;x
 254;147;162;151;sigetorn;x
 255;131;192;143;stenvar;x
@@ -263,7 +263,7 @@ province;red;green;blue;x;x
 262;131;159;175;ottaholm;x
 263;129;181;161;nest_olovhamm;x
 264;121;174;140;nest_grebor;x
-265;146;189;154;nest_aldruin;x
+265;115;193;171;nest_aldruin;x
 266;148;173;160;nest_ruin;x
 267;146;189;154;beory;x
 268;127;147;187;coctenford;x
@@ -271,11 +271,11 @@ province;red;green;blue;x;x
 270;150;140;183;withenworth;x
 271;160;115;171;circmor;x
 272;133;117;188;pithesburn;x
-273;133;117;188;codwulf;x
+273;183;125;212;codwulf;x
 274;138;111;185;pikesbourne;x
 275;166;130;185;hindeswade;x
 276;166;128;157;garelan;x
-277;166;128;157;yaxleyliede;x
+277;146;116;172;yaxleyliede;x
 278;166;145;164;corkwell;x
 279;154;142;173;fosclif;x
 280;163;125;158;beewall;x
@@ -287,7 +287,7 @@ province;red;green;blue;x;x
 286;158;155;197;bollum;x
 287;167;127;205;blebsen;x
 288;143;151;202;sallfarm;x
-289;177;154;181;ceorsholt;x
+289;168;125;163;ceorsholt;x
 290;164;121;187;pacsilden;x
 291;151;158;180;lydnburh;x
 292;177;154;181;cherscol;x
@@ -677,7 +677,7 @@ province;red;green;blue;x;x
 676;118;141;148;heggenes;x
 677;138;153;154;vervik;x
 678;111;153;158;iseney;x
-679;135;140;136;milslund;x
+679;140;169;152;milslund;x
 680;133;169;151;buldarey;x
 681;135;140;136;sandvik;x
 682;111;150;141;raundey;x

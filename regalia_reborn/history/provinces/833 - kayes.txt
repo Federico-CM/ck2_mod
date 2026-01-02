@@ -1,6 +1,6 @@
 title = c_kayes
 max_settlements = 2
-culture = draconismkin
+culture = dragonkin
 religion = unionism
 b_kayes = tribal
 b_kayes2 = temple

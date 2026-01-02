@@ -132,7 +132,7 @@ e_gallovia = {
                     title = baron
                     title_female = baron
                 }
-                color = { 183 165 203 }
+                color = { 146 125 170 }
                 color2 = { 183 165 203 }
                 culture = gallovian
                 title = count
@@ -745,7 +745,7 @@ e_gallovia = {
                     title = baron
                     title_female = baron
                 }
-                color = { 166 128 157 }
+                color = { 146 116 172 }
                 color2 = { 166 128 157 }
                 culture = ceaerden
                 title = count

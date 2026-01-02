@@ -1,6 +1,6 @@
 title = c_shamiya_isles
 max_settlements = 2
-culture = draconismkin
+culture = dragonkin
 religion = draconism
 b_shamiya_isles = tribal
 b_shamiya_isles2 = temple
