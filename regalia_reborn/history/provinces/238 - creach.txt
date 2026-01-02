@@ -1,6 +1,6 @@
 title = c_creach
 max_settlements = 2
-culture = gallovian
-religion = fornoss
+culture = aber
+religion = evolism
 b_creach = tribal
 b_creach2 = temple

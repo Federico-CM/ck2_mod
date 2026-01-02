@@ -1,6 +1,6 @@
 title = c_tulliemet
 max_settlements = 2
-culture = gallovian
-religion = fornoss
+culture = aber
+religion = evolism
 b_tulliemet = tribal
 b_tulliemet2 = temple
