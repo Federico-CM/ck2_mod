@@ -686,6 +686,9 @@ e_solleria = {
                 }
                 color = { 168 203 191 }
                 color2 = { 168 203 191 }
+
+		holy_site = estelley
+
                 culture = solvaan
                 title = count
                 title_female = count
@@ -1215,6 +1218,9 @@ e_solleria = {
                 }
                 color = { 164 200 199 }
                 color2 = { 164 200 199 }
+
+		holy_site = estelley #sinnavei lives here
+
                 culture = solvaan
                 title = count
                 title_female = count

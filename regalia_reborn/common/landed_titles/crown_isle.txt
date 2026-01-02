@@ -21,6 +21,9 @@ e_regalia = {
                 }
                 color = { 128 73 124 }
                 color2 = { 128 73 124 }
+
+		holy_site = draconism
+
                 culture = ceaerden
                 title = count
                 title_female = count

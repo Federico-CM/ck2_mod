@@ -612,6 +612,9 @@ e_mineria = {
                 }
                 color = { 107 120 146 }
                 color2 = { 107 120 146 }
+
+		holy_site = estelley
+
                 culture = finul
                 title = count
                 title_female = count
@@ -839,6 +842,9 @@ e_mineria = {
                 }
                 color = { 147 126 143 }
                 color2 = { 147 126 143 }
+
+		holy_site = estelley
+
                 culture = finul
                 title = count
                 title_female = count

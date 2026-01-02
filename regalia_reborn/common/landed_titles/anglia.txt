@@ -1,15 +1,15 @@
 e_anglia = {
     color = { 133 129 162 }
     color2 = { 133 129 162 }
-    capital = 998
+    capital = 1044 #Axenfoord
     k_angelland = {
         color = { 133 129 162 }
         color2 = { 133 129 162 }
-        capital = 998
+        capital = 1000 #Drackenrust
         d_drackenrust = {
             color = { 133 129 162 }
             color2 = { 133 129 162 }
-            capital = 998
+            capital = 1000
             c_drackenrust = {
                 b_drackenrust = {
                     title = baron
@@ -21,6 +21,9 @@ e_anglia = {
                 }
                 color = { 153 123 153 }
                 color2 = { 153 123 153 }
+
+		holy_site = draconism
+
                 culture = anglian
                 title = count
                 title_female = count
@@ -130,7 +133,7 @@ e_anglia = {
         d_hoogberge = {
             color = { 139 134 164 }
             color2 = { 139 134 164 }
-            capital = 1005
+            capital = 1006
             c_dorpengat = {
                 b_dorpengat = {
                     title = baron
@@ -198,7 +201,7 @@ e_anglia = {
         d_kroonburg = {
             color = { 125 130 151 }
             color2 = { 125 130 151 }
-            capital = 1009
+            capital = 1010
             c_eerste_hoogweg = {
                 b_eerste_hoogweg = {
                     title = baron
@@ -342,7 +345,7 @@ e_anglia = {
         d_riddere = {
             color = { 108 118 166 }
             color2 = { 108 118 166 }
-            capital = 1017
+            capital = 1021
             c_bergklooster = {
                 b_bergklooster = {
                     title = baron
@@ -425,7 +428,7 @@ e_anglia = {
         d_tempelmuur = {
             color = { 112 140 170 }
             color2 = { 112 140 170 }
-            capital = 1022
+            capital = 1025
             c_doorne = {
                 b_doorne = {
                     title = baron
@@ -482,6 +485,9 @@ e_anglia = {
                 }
                 color = { 135 128 152 }
                 color2 = { 135 128 152 }
+
+		holy_site = draconism
+
                 culture = anglian
                 title = count
                 title_female = count
@@ -501,7 +507,7 @@ e_anglia = {
         d_bosseburgh = {
             color = { 102 122 151 }
             color2 = { 102 122 151 }
-            capital = 1026
+            capital = 1027
             c_arendskerke = {
                 b_arendskerke = {
                     title = baron
@@ -517,6 +523,21 @@ e_anglia = {
                 title = count
                 title_female = count
             }
+            c_omaraade = {
+                b_omaraade = {
+                    title = baron
+                    title_female = baron
+                }
+                b_omaraade2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 126 114 148 }
+                color2 = { 126 114 148 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
             c_bosseburgh = {
                 b_bosseburgh = {
                     title = baron
@@ -528,6 +549,9 @@ e_anglia = {
                 }
                 color = { 127 132 164 }
                 color2 = { 127 132 164 }
+
+		holy_site = draconism #central area for moeraslander arrival
+
                 culture = anglian
                 title = count
                 title_female = count
@@ -607,7 +631,7 @@ e_anglia = {
         d_huilendom = {
             color = { 103 132 142 }
             color2 = { 103 132 142 }
-            capital = 1032
+            capital = 1036
             c_abeelskerke = {
                 b_abeelskerke = {
                     title = baron
@@ -690,7 +714,7 @@ e_anglia = {
         d_serooskerke = {
             color = { 102 114 151 }
             color2 = { 102 114 151 }
-            capital = 1037
+            capital = 1039
             c_berkenbos = {
                 b_berkenbos = {
                     title = baron
@@ -747,11 +771,29 @@ e_anglia = {
     k_harteland = {
         color = { 125 135 160 }
         color2 = { 125 135 160 }
-        capital = 1040
+        capital = 1044 #Axenfoord
         d_aklsfoort = {
             color = { 125 135 160 }
             color2 = { 125 135 160 }
-            capital = 1040
+            capital = 1044 #Axenfoord
+            c_axenfoord = {
+                b_axenfoord1 = {
+                    title = baron
+                    title_female = baron
+                }
+                b_axenfoord2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 128 167 157 }
+                color2 = { 128 167 157 }
+
+		holy_site = draconism
+
+                culture = anglian
+                title = count
+                title_female = count
+            }
             c_goudgat = {
                 b_goudgat = {
                     title = baron
@@ -763,6 +805,21 @@ e_anglia = {
                 }
                 color = { 125 135 160 }
                 color2 = { 125 135 160 }
+                culture = anglian
+                title = count
+                title_female = count
+            }
+            c_gekkedom = {
+                b_gekkedom = {
+                    title = baron
+                    title_female = baron
+                }
+                b_gekkedom2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 121 150 157 }
+                color2 = { 121 150 157 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -789,22 +846,8 @@ e_anglia = {
         d_hondeburg = {
             color = { 121 130 188 }
             color2 = { 121 130 188 }
-            capital = 1042
-            c_gekkedom = {
-                b_gekkedom = {
-                    title = baron
-                    title_female = baron
-                }
-                b_gekkedom2 = {
-                    title = baron
-                    title_female = baron
-                }
-                color = { 121 150 157 }
-                color2 = { 121 150 157 }
-                culture = anglian
-                title = count
-                title_female = count
-            }
+            capital = 1046
+
             c_hondeburg = {
                 b_hondeburg = {
                     title = baron
@@ -835,21 +878,6 @@ e_anglia = {
                 title = count
                 title_female = count
             }
-            c_meere = {
-                b_meere = {
-                    title = baron
-                    title_female = baron
-                }
-                b_meere2 = {
-                    title = baron
-                    title_female = baron
-                }
-                color = { 128 167 157 }
-                color2 = { 128 167 157 }
-                culture = anglian
-                title = count
-                title_female = count
-            }
             c_vortzee = {
                 b_vortzee = {
                     title = baron
@@ -872,7 +900,7 @@ e_anglia = {
         d_turaal = {
             color = { 122 129 165 }
             color2 = { 122 129 165 }
-            capital = 1047
+            capital = 1050
             c_bombeburg = {
                 b_bombeburg = {
                     title = baron
@@ -959,11 +987,11 @@ e_anglia = {
     k_hoogeland = {
         color = { 135 176 201 }
         color2 = { 135 176 201 }
-        capital = 1052
+        capital = 1054
         d_belfryse = {
             color = { 135 176 201 }
             color2 = { 135 176 201 }
-            capital = 1052
+            capital = 1054
             c_annaparochie = {
                 b_annaparochie = {
                     title = baron
@@ -1243,7 +1271,7 @@ e_anglia = {
         d_keelburg = {
             color = { 100 137 160 }
             color2 = { 100 137 160 }
-            capital = 1068
+            capital = 1069
             c_barlowe = {
                 b_barlowe = {
                     title = baron
@@ -1300,21 +1328,6 @@ e_anglia = {
                 }
                 color = { 129 132 156 }
                 color2 = { 129 132 156 }
-                culture = anglian
-                title = count
-                title_female = count
-            }
-            c_omaraade = {
-                b_omaraade = {
-                    title = baron
-                    title_female = baron
-                }
-                b_omaraade2 = {
-                    title = baron
-                    title_female = baron
-                }
-                color = { 126 114 148 }
-                color2 = { 126 114 148 }
                 culture = anglian
                 title = count
                 title_female = count

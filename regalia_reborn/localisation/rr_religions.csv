@@ -142,3 +142,14 @@ GOD_PAHTIA;Pahtia;;;;;;;;;;;x
 GOD_KAZHERON;Kazheron;;;;;;;;;;;x
 GOD_NEPHKA;Nephka;;;;;;;;;;;x
  
+mortis_group;Mortis Cult;;;;;;;;;;;x
+mortis_cult;Mortis Cult;;;;;;;;;;;x
+mortis_cult_desc;The Mortis Faith, also known as Death Worship or the Death Faith, is a completely un-nuanced and un-complicated Religion, where the main focus is the worship of the concept of death and a revulsion and hatred of all things living. It is considered the polar opposite of Draconism which is thought to be a Religion of Life, and the Gods within the Mortis Faith seek to generally extinguish all life on Aloria, a goal that is shared by their followers who seek to create a permanent state of un-life or un-death in the world. The exact method by which the Gods achieve this goal differs from patron to patron, and even among the Death Gods, there is a modicum of competition or mutual strife. While The Malefica is considered the pantheon's leader, The Machinist and Consigner alike occasionally sabotage The Malefica's work to protect their own influence and power. There is no Afterlife for the Mortis Faith and no vices or virtues. There is a singular focuses on the extinguishment of all life under the will of The Malefica, with The Consigner and Machinst only adding additional steps as all three feed on the souls of the living.;;;;;;;;;;;x
+ANNIHILATION;Annihilation War;;;;;;;;;;;x
+THE_DEATH_RITES;The Death Rites;;;;;;;;;;;x
+GOD_MALEFICA;The Malefica;;;;;;;;;;;x
+GOD_MACHINIST;The Machinist;;;;;;;;;;;x
+GOD_CONSIGNER;The Consigner;;;;;;;;;;;x
+GOD_THE_HOLLOW;The Hollow;;;;;;;;;;;x
+GOD_THE_DRAGONS;The Dragons;;;;;;;;;;;x
+GOD_LIFE;All Life;;;;;;;;;;;x

@@ -718,6 +718,9 @@ e_sudland = {
                 }
                 color = { 190 166 127 }
                 color2 = { 190 166 127 }
+
+		holy_site = estelley
+
                 culture = selvath
                 title = count
                 title_female = count
