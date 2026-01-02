@@ -9417,7 +9417,7 @@
 	282.1.1 = {
 		death = 282.1.1
 	}
-	dynasty = 120
+	dynasty = 89
 }
 
 640 = {
@@ -9620,7 +9620,7 @@
 	301.1.1 = {
 		death = 301.1.1
 	}
-	dynasty = 120
+	dynasty = 89
 	mother = 654
 }
 
@@ -9708,7 +9708,7 @@
 	301.1.1 = {
 		death = 301.1.1
 	}
-	dynasty = 120
+	dynasty = 89
 	mother = 654
 }
 
@@ -14920,3 +14920,18 @@
 	dynasty = 59
 	father = 372
 }
+
+1029 = {
+	name = "Imira"
+	culture = selvath
+	religion = estelley
+	female = yes
+	298.1.1 = {
+		birth = 298.1.1
+	}
+	398.1.1 = {
+		death = 398.1.1
+	}
+	dynasty = 120
+}
+

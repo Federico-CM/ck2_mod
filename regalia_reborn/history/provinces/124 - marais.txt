@@ -3,4 +3,4 @@ max_settlements = 2
 culture = leutz_vixe
 religion = unionism
 b_marais = tribal
-b_du_brierust = temple
+b_marais2 = temple

@@ -588,8 +588,8 @@
 }
 
 120 = {
-	name = "Aanahera"
-	culture = tierravera
+	name = "Delaianur"
+	culture = selvath
 }
 
 121 = {
