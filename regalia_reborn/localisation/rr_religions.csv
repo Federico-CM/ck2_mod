@@ -1,10 +1,16 @@
+unionism_group;Unionist;;;;;;;;;;;;;x
 unionism_DESC;Unionism is the world’s second-largest religion, trailing only behind Estelley. It is speculated that Unionism will become the largest religion within a century, largely due to the Ailor people’s religious diversity. At its core, Unionism is a global unification movement that proclaims the benevolence of the divinely inspired Emperors of the Regalian Empire to bring order, stability, and law to a world filled with chaos and strife. Unionism uniquely incorporates the gods of subjugated or annexed peoples, preserving their cultures and traditions as part of a larger collective.;;;;;;;;;;;;;x
 unionism;Dogmatic;;;;;;;;;;;;;x
 unionism_adj;Dogmatic;;;;;;;;;;;;;x
-unionism_group;Unionist;;;;;;;;;;;;;x
+diviner_sect_DESC;Among the darkest chapters of Unionism's history was the rise of the Diviner Sect, a heretical cult of Unionists who believed themselves capable of speaking directly to the Everwatcher through visions. Not only did this blaspheme against the Emperor's role as the Everwatcher's host and mouthpiece, but the Diviners also began to practice ritual sacrifice and embrace powers gifted by the Dark Gods. Although they were largely eradicated by the Herebrand Order, the Diviners continue to perpetuate their blasphemous ways, having refused to join the rest of the Unionist community.;;;;;;;;;;;;;x
+diviner_sect;Diviner;;;;;;;;;;;;;x
+diviner_sect_adj;Diviner;;;;;;;;;;;;;x
 evintarian_DESC;The Evintarians broke away from traditional Unionism after their exile from the First Conclave, during which their predecessors had argued that the body was born flawed and could be improved with everything from meditative exercise to engagement with Demons. Exiled to Etosil, the Evintarians learned to embrace Demons and magic in a manner considered appalling to the other Unionists. In the present day, the Evintarians have been welcomed back into the Unionist Divine by Emperor Alexander, though they continue to feud over some doctrinal differences.;;;;;;;;;;;;;x
 evintarian;Evintarian;;;;;;;;;;;;;x
 evintarian_adj;Evintarian;;;;;;;;;;;;;x
+amended_DESC;Also known as Guided Unionism or Supremoclast Unionism, stems from a late Schism around 250 AC where several sects of Unionism diverged on ideological grounds. This included the Dogartan orders who disagreed with the wealth of the Unionist church and advocated asceticism, the Vultarin church who turned against the indisputable divine right of nobility and priesthood, and the Anglian guided church which favored lay priesthood. These smaller church bodies united in their dissent to the role of clerical and feudal leadership as it was, and was violently surpressed for a short period of time until the Supremoclast treaties allowed it to exist in relative peace in Vultaro.;;;;;;;;;;;;;x
+amended;Amended;;;;;;;;;;;;;x
+amended_adj;Amended;;;;;;;;;;;;;x
 THE_CREED;The Creed;;;;;;;;;;;;;x
 CELATE;Celate;;;;;;;;;;;;;x
 GOD_THE_EVERWATCHER;The Everwatcher;;;;;;;;;;;;;x
