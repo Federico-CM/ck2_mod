@@ -357,7 +357,7 @@ mortis_group = {
 		graphical_culture = westerngfx
 		icon = 6
 
-		color = { 216 160 27 }
+		color = { 0 0 0 }
 
 		crusade_name = ANNIHILATION
 		scripture_name = THE_DEATH_RITES
