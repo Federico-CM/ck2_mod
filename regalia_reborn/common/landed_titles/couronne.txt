@@ -815,6 +815,21 @@ e_couronne = {
                 title = count
                 title_female = count
             }
+            c_montelune = {
+                b_montelune = {
+                    title = baron
+                    title_female = baron
+                }
+                b_montelune2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 187 105 154 }
+                color2 = { 176 139 147 }
+                culture = ithanian
+                title = count
+                title_female = count
+            }
             c_pied_de_montagne = {
                 b_pied_de_montagne = {
                     title = baron

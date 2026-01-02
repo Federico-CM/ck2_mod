@@ -341,7 +341,7 @@ province;red;green;blue;x;x
 340;191;122;146;lombez_trois;x
 341;176;139;147;des_ecrins;x
 342;183;118;147;pied_de_montagne;x
-343;187;105;154;des_ecrins;x
+343;187;105;154;montelune;x
 344;205;129;155;chambery;x
 345;177;139;146;montelmar;x
 346;185;112;167;orne;x
@@ -1132,7 +1132,7 @@ province;red;green;blue;x;x
 1131;208;231;208;darkwater;x
 1132;211;221;209;silverdeep;x
 1133;211;233;223;stormwake;x
-1134;211;237;237;blueveil;x
+1134;211;237;237;ironcurrent;x
 1135;212;218;218;dreadsea;x
 1136;214;214;214;sunken_blue;x
 1137;214;215;238;nightmere;x
@@ -1194,7 +1194,7 @@ province;red;green;blue;x;x
 1193;225;219;229;stormmere;x
 1194;225;221;214;ghostdeep;x
 1195;225;229;207;emberdeep;x
-1196;225;230;221;bluefall;x
+1196;225;230;221;tidegrave;x
 1197;225;236;245;stilldeep;x
 1198;225;243;243;starsea;x
 1199;226;243;243;blackwater;x
@@ -1213,7 +1213,7 @@ province;red;green;blue;x;x
 1212;230;246;246;shadowsea;x
 1213;231;216;237;ironwake;x
 1214;231;238;229;mistsea;x
-1215;232;213;233;sunwake;x
+1215;232;213;233;dreadflow;x
 1216;232;217;235;grimsea;x
 1217;233;217;228;darkmere;x
 1218;233;237;247;bluewake;x
@@ -1251,11 +1251,11 @@ province;red;green;blue;x;x
 1250;227;184;232;ashfall;x
 1251;232;226;184;stormveil;x
 1252;185;235;184;colddeep;x
-1253;180;197;233;starwake;x
+1253;180;197;233;coldrift;x
 1254;180;188;233;ironveil;x
 1255;200;209;249;palewake;x
 1256;173;217;233;grimwake;x
-1257;182;229;175;frostwake;x
+1257;182;229;175;starwash;x
 1258;199;164;223;darkfoam;x
 1259;224;229;177;sunwake;x
 1260;177;221;229;voidwake;x
