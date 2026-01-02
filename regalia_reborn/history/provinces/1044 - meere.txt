@@ -1,6 +1,0 @@
-title = c_meere
-max_settlements = 2
-culture = anglian
-religion = unionism
-b_meere = tribal
-b_meere2 = temple

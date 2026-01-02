@@ -1,0 +1,6 @@
+title = c_axenfoord
+max_settlements = 2
+culture = anglian
+religion = unionism
+b_axenfoord1 = tribal
+b_axenfoord2 = temple
