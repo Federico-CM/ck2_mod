@@ -1,5 +1,16 @@
 ###########Cultures###########
-ailor_group;Ailor;;;;;;;;;;;;;x
+sihai_group;Sihai;;;;;;;;;;;;;x
+anglian_group;Anglian;;;;;;;;;;;;;x
+etosian_group;Aetosian;;;;;;;;;;;;;x
+ithanian_group;Ithanian;;;;;;;;;;;;;x
+wirtem_group;Wirtem;;;;;;;;;;;;;x
+velheim_group;Velheim;;;;;;;;;;;;;x
+pre_empire_group;Pre-Empire;;;;;;;;;;;;;x
+old_ceardian_group;Old Cearden;;;;;;;;;;;;;x
+cantaluna_group;Cantaluna;;;;;;;;;;;;;x
+baldmark_group;Baldmarker;;;;;;;;;;;;;x
+gallovian_group;Gallovian;;;;;;;;;;;;;x
+oltaric_group;Oltaric;;;;;;;;;;;;;x
 anglian;Anglian;;;;;;;;;;;;;x
 etosian;Etosian;;;;;;;;;;;;;x
 ithanian;Ithanian;;;;;;;;;;;;;x
@@ -17,7 +28,7 @@ cearden;Cearden;;;;;;;;;;;;;x
 azzizzari;Azzizzari;;;;;;;;;;;;;x
 tarkin;Tarkin;;;;;;;;;;;;;x
 aontaithe;Aos Sinnedh;;;;;;;;;;;;;x
-zvorun;Zvorun;;;;;;;;;;;;;x
+zvorun;Sarnan;;;;;;;;;;;;;x
 hoglander;Hoglander;;;;;;;;;;;;;x
 calderliga;Meerlander;;;;;;;;;;;;;x
 tsalqvanes;Tsaiqvanes;;;;;;;;;;;;;x

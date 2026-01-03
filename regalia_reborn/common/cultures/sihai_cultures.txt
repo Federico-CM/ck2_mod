@@ -1,8 +1,7 @@
-url_group = {
-    graphical_cultures = { westerngfx }
+sihai_group = {
 
-    url = {
-        graphical_cultures = { norsegfx }
+    sihai = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         

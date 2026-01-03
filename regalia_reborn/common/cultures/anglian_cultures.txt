@@ -1,8 +1,8 @@
-url_group = {
-    graphical_cultures = { westerngfx }
+anglian_group = {
+	graphical_cultures = { westerngfx }
 
-    url = {
-        graphical_cultures = { norsegfx }
+    anglian = {
+        graphical_cultures = { englishgfx }
         
         color = { 0.8 0.2 0.2 }
         
@@ -20,5 +20,4 @@ url_group = {
         mat_grm_name_chance = 40
         mother_name_chance = 5
     }
-
 }
