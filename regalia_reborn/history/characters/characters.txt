@@ -2620,7 +2620,7 @@
 
 178 = {
 	name = "Olenya"
-	culture = ithanian
+	culture = solvaan
 	religion = unionism
 	female = yes
 	200.1.1 = {
@@ -2629,14 +2629,14 @@
 	281.1.1 = {
 		death = 281.1.1
 	}
-	dynasty = 33
+	dynasty = 34
 	father = 640
 }
 
 179 = {
 	name = "Xay"
-	culture = wirtem
-	religion = unionism
+	culture = solvaan
+	religion = estelley
 	female = yes
 	229.1.1 = {
 		birth = 229.1.1
@@ -2651,8 +2651,8 @@
 
 180 = {
 	name = "Oleia"
-	culture = wirtem
-	religion = unionism
+	culture = solvaan
+	religion = estelley
 	female = yes
 	231.1.1 = {
 		birth = 231.1.1
@@ -2667,8 +2667,8 @@
 
 181 = {
 	name = "Saam"
-	culture = wirtem
-	religion = unionism
+	culture = solvaan
+	religion = estelley
 	female = yes
 	234.1.1 = {
 		birth = 234.1.1
@@ -4841,6 +4841,7 @@
 		death = 344.1.1
 	}
 	dynasty = 22
+	mother = 1042
 }
 
 330 = {
@@ -9422,8 +9423,8 @@
 
 640 = {
 	name = "Oriandor"
-	culture = ithanian
-	religion = unionism
+	culture = solvaan
+	religion = estelley
 	175.1.1 = {
 		birth = 175.1.1
 	}
@@ -9436,8 +9437,8 @@
 
 641 = {
 	name = "Samila"
-	culture = ithanian
-	religion = unionism
+	culture = solvaan
+	religion = estelley
 	female = yes
 	201.1.1 = {
 		birth = 201.1.1
@@ -9451,8 +9452,8 @@
 
 642 = {
 	name = "Eandrel"
-	culture = ithanian
-	religion = unionism
+	culture = solvaan
+	religion = estelley
 	203.1.1 = {
 		birth = 203.1.1
 	}
@@ -9465,8 +9466,8 @@
 
 643 = {
 	name = "Lusyas"
-	culture = ithanian
-	religion = unionism
+	culture = solvaan
+	religion = estelley
 	228.1.1 = {
 		birth = 228.1.1
 	}
@@ -9479,8 +9480,8 @@
 
 644 = {
 	name = "Salia"
-	culture = ithanian
-	religion = unionism
+	culture = solvaan
+	religion = estelley
 	female = yes
 	230.1.1 = {
 		birth = 230.1.1
@@ -9494,8 +9495,8 @@
 
 645 = {
 	name = "Isaveyl"
-	culture = ithanian
-	religion = unionism
+	culture = solvaan
+	religion = estelley
 	female = yes
 	247.1.1 = {
 		birth = 247.1.1
@@ -9509,8 +9510,8 @@
 
 646 = {
 	name = "Noveyn"
-	culture = ithanian
-	religion = unionism
+	culture = solvaan
+	religion = estelley
 	255.1.1 = {
 		birth = 255.1.1
 	}
@@ -9523,8 +9524,8 @@
 
 647 = {
 	name = "Malsayn"
-	culture = ithanian
-	religion = unionism
+	culture = solvaan
+	religion = estelley
 	273.1.1 = {
 		birth = 273.1.1
 	}
@@ -9538,11 +9539,11 @@
 
 648 = {
 	name = "Eyra"
-	culture = ithanian
-	religion = unionism
+	culture = solvaan
+	religion = estelley
 	female = yes
-	275.1.1 = {
-		birth = 275.1.1
+	278.1.1 = {
+		birth = 278.1.1
 	}
 	375.1.1 = {
 		death = 375.1.1
@@ -10040,6 +10041,7 @@
 		death = 260.1.1
 	}
 	dynasty = 33
+    father = 712
 }
 
 683 = {
@@ -11945,8 +11947,8 @@
 
 812 = {
 	name = "Cerynlo"
-	culture = cearden
-	religion = unionism
+	culture = selvath
+	religion = estelley
 	180.1.1 = {
 		birth = 180.1.1
 	}
@@ -11958,8 +11960,8 @@
 
 813 = {
 	name = "Tesvmalo"
-	culture = cearden
-	religion = unionism
+	culture = selvath
+	religion = evintarian
 	female = yes
 	200.1.1 = {
 		birth = 200.1.1
@@ -11987,8 +11989,8 @@
 
 815 = {
 	name = "Serlay'ufol"
-	culture = cearden
-	religion = unionism
+	culture = selvath
+	religion = evintarian
 	female = yes
 	220.1.1 = {
 		birth = 220.1.1
@@ -12004,7 +12006,7 @@
 816 = {
 	name = "Abelhard"
 	culture = etosian
-	religion = unionism
+	religion = evintarian
 	242.1.1 = {
 		birth = 242.1.1
 	}
@@ -12032,8 +12034,8 @@
 
 818 = {
 	name = "Tol Ay"
-	culture = cearden
-	religion = unionism
+	culture = selvath
+	religion = evintarian
 	223.1.1 = {
 		birth = 223.1.1
 	}
@@ -12047,8 +12049,8 @@
 
 819 = {
 	name = "Sylvia"
-	culture = cearden
-	religion = unionism
+	culture = selvath
+	religion = evintarian
 	female = yes
 	226.1.1 = {
 		birth = 226.1.1
@@ -12092,8 +12094,8 @@
 
 822 = {
 	name = "Ul Ayom"
-	culture = cearden
-	religion = unionism
+	culture = selvath
+	religion = estelley
 	female = yes
 	202.1.1 = {
 		birth = 202.1.1
@@ -12121,8 +12123,8 @@
 
 824 = {
 	name = "Lluitalen"
-	culture = cearden
-	religion = unionism
+	culture = selvath
+	religion = evintarian
 	222.1.1 = {
 		birth = 222.1.1
 	}
@@ -12150,8 +12152,8 @@
 
 826 = {
 	name = "Adrastos"
-	culture = cearden
-	religion = unionism
+	culture = selvath
+	religion = evintarian
 	247.1.1 = {
 		birth = 247.1.1
 	}
@@ -12165,8 +12167,8 @@
 
 827 = {
 	name = "Tebryn"
-	culture = cearden
-	religion = unionism
+	culture = selvath
+	religion = evintarian
 	249.1.1 = {
 		birth = 249.1.1
 	}
@@ -12180,8 +12182,8 @@
 
 828 = {
 	name = "Emmeline"
-	culture = cearden
-	religion = unionism
+	culture = sevath
+	religion = evintarian
 	female = yes
 	252.1.1 = {
 		birth = 252.1.1
@@ -12196,8 +12198,8 @@
 
 829 = {
 	name = "Rievein"
-	culture = cearden
-	religion = unionism
+	culture = selvath
+	religion = estelley
 	226.1.1 = {
 		birth = 226.1.1
 	}
@@ -12225,8 +12227,8 @@
 
 831 = {
 	name = "Fleur"
-	culture = cearden
-	religion = unionism
+	culture = selvath
+	religion = estelley
 	female = yes
 	255.1.1 = {
 		birth = 255.1.1
@@ -12241,8 +12243,8 @@
 
 832 = {
 	name = "Acelina"
-	culture = cearden
-	religion = unionism
+	culture = selvath
+	religion = estelley
 	female = yes
 	258.1.1 = {
 		birth = 258.1.1
@@ -14935,3 +14937,208 @@
 	dynasty = 120
 }
 
+1030 = {
+	name = "Ippolito"
+	culture = cantaluna
+	religion = unionism
+	200.1.1 = {
+		birth = 200.1.1
+	}
+	279.1.1 = {
+		death = 279.1.1
+	}
+	dynasty = 315
+}
+
+1031 = {
+	name = "Felice"
+	culture = cantaluna
+	religion = unionism
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	295.1.1 = {
+		death = 295.1.1
+	}
+	dynasty = 315
+	father = 1030
+}
+
+1032 = {
+	name = "Vieri"
+	culture = cantaluna
+	religion = unionism
+	270.1.1 = {
+		birth = 270.1.1
+	}
+	370.1.1 = {
+		death = 370.1.1
+	}
+	dynasty = 315
+	father = 1030
+}
+
+1033 = {
+	name = "Tedeschi"
+	culture = cantaluna
+	religion = unionism
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 315
+	father = 1032
+}
+
+1034 = {
+	name = "Pietra"
+	culture = cantaluna
+	religion = unionism
+	female = yes
+	291.1.1 = {
+		birth = 291.1.1
+	}
+	391.1.1 = {
+		death = 391.1.1
+	}
+	dynasty = 315
+	father = 1032
+}
+
+1035 = {
+	name = "Rizieri"
+	culture = cantaluna
+	religion = unionism
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 315
+	father = 1032
+}
+
+1036 = {
+	name = "Nerio"
+	culture = cantaluna
+	religion = unionism
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 315
+	father = 1031
+    mother = 1039
+}
+
+
+1037 = {
+	name = "Artemisa"
+	culture = cantaluna
+	religion = unionism
+	female = yes
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 315
+	father = 1031
+    mother = 1039
+}
+
+1038 = {
+	name = "Placido"
+	culture = cantaluna
+	religion = unionism
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 315
+	father = 1031
+    mother = 1039
+}
+
+1039 = {
+	name = "Sabrina"
+	female = yes
+	culture = ithanian
+	religion = unionism
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 215
+	father = 929
+}
+
+
+1040 = {
+	name = "Alban"
+	culture = ithanian
+	religion = unionism
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 215
+	father = 929
+}
+
+
+1041 = {
+	name = "Francine"
+	culture = ithanian
+	religion = unionism
+	female = yes
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 215
+    mother = 1040
+}
+
+1042 = {
+	name = "Josephine"
+	culture = ithanian
+	religion = unionism
+	female = yes
+	226.1.1 = {
+		birth = 226.1.1
+	}
+	312.1.1 = {
+		death = 312.1.1
+	}
+	dynasty = 22
+    mother = 101
+}
+
+1043 = {
+	name = "Olivier"
+	culture = ithanian
+	religion = unionism
+	246.1.1 = {
+		birth = 246.1.1
+	}
+	311.1.1 = {
+		death = 311.1.1
+	}
+	dynasty = 22
+	mother = 1042
+}

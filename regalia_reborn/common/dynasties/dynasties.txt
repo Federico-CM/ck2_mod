@@ -154,12 +154,13 @@
 }
 
 33 = {
-	culture = ithanian
+	name = "bel Avaal Moor"
+	culture = solvaan
 }
 
 34 = {
 	name = "Kade Neylade"
-	culture = wirtem
+	culture = solvaan
 }
 
 35 = {
@@ -744,7 +745,7 @@
 
 152 = {
 	name = "Latimer"
-	culture = cearden
+	culture = selvath
 }
 
 153 = {
@@ -1555,4 +1556,9 @@
 314 = {
 	name = "du Brierust"
 	culture = ithanian
+}
+
+315 = {
+	name = "de Paganelli"
+	culture = cantaluna
 }
