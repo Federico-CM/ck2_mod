@@ -49,7 +49,7 @@ wirtem_group = {
     calderliga = {
         graphical_cultures = { germangfx }
         
-        color = { 0.6 0.6 0.8 }
+        color = { 0.6 0.8 0.6 }
         
 		male_names = {
 			Adalbero_Adalbero Adalbert_Albert Adalhard_Adalhard Adam_Adam Ademar_Adémar Adolf_Adolf Alarich_Alaric Alberich_Aubrey Albrecht_Albert Aldrich_Aldric
@@ -94,7 +94,7 @@ wirtem_group = {
     leutz_vixe = {
         graphical_cultures = { germangfx frankishgfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 38 211 255 }
         
 		male_names = {
 			Abraham_Abraham Adam_Adam Adrien_Adrian Albert_Albert Alexandre_Alexander Alfons_Alphonse Amédée_Amadeus André_Andrew Anton_Anthony Arnold_Arnold Artur_Arthur Auguste_August Axel_Axel 
@@ -146,7 +146,7 @@ wirtem_group = {
 			Wilhelmina_Wilhelmina
 			Zoe_Zoe
 		}
-		from_dynasty_prefix = "vun "
+		from_dynasty_prefix = "von "
 		feminist = yes	
 
 
@@ -163,7 +163,7 @@ wirtem_group = {
     genevaud = {
         graphical_cultures = { germangfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 229 91 114 }
         
 		male_names = {
 			Adalharté_Adalhard Adam_Adam Adémario_Ademar Adlbréht_Albert Alariqiér_Alaric Alberiqué_Aubrey Aldriqué_Aldric Alessandér_Alexander Alfonsé_Alphonse Amadeüs_Amadeus Amalricco_Amalric Andréa_Andrew Anselmiano_Anselm Antoiné_Anthony Arnaudo_Arnold Arnulé_Arnulf Aronné_Aaron Aujustain_Augustine Axél_Axel 
