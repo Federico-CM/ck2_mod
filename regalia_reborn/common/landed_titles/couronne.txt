@@ -974,7 +974,7 @@ e_couronne = {
             color = { 179 137 168 }
             color2 = { 179 137 168 }
             capital = 352
-            c_loiree_haute = {
+            c_loiree_haute = { #Couronne
                 b_loiree_haute = {
                     title = baron
                     title_female = baron
@@ -985,6 +985,7 @@ e_couronne = {
                 }
                 color = { 186 131 151 }
                 color2 = { 186 131 151 }
+
                 culture = ithanian
                 title = count
                 title_female = count

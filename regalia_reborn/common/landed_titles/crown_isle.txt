@@ -22,7 +22,9 @@ e_regalia = {
                 color = { 128 73 124 }
                 color2 = { 128 73 124 }
 
+		holy_site = unionism
 		holy_site = draconism
+		holy_site = amended
 		holy_site = warda
 
                 culture = ceaerden

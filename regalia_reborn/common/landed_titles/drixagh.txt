@@ -1069,4 +1069,269 @@ e_drixagh = {
         title = king
         title_female = king
     }
+    k_vladnovolgar = {
+        color = { 131 136 134 }
+        color2 = { 131 136 134 }
+        capital = 1110
+        d_mosokovo = {
+            color = { 131 136 134 }
+            color2 = { 131 136 134 }
+            capital = 1110
+            c_mosokovo = {
+                b_mosokovo = {
+                    title = baron
+                    title_female = baron
+                }
+                b_mosokovo2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 165 138 114 }
+                color2 = { 165 138 114 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_petrograd = {
+                b_petrograd = {
+                    title = baron
+                    title_female = baron
+                }
+                b_petrograd2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 154 133 133 }
+                color2 = { 154 133 133 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_ryznigrad = {
+                b_ryznigrad = {
+                    title = baron
+                    title_female = baron
+                }
+                b_ryznigrad2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 131 136 134 }
+                color2 = { 131 136 134 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_saransk = {
+                b_saransk = {
+                    title = baron
+                    title_female = baron
+                }
+                b_saransk2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 149 157 122 }
+                color2 = { 149 157 122 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            culture = krainivaya
+            title = duke
+            title_female = duke
+        }
+        d_muromorsk = {
+            color = { 129 131 110 }
+            color2 = { 129 131 110 }
+            capital = 1114
+            c_beloyarsk = {
+                b_beloyarsk = {
+                    title = baron
+                    title_female = baron
+                }
+                b_beloyarsk2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 158 143 121 }
+                color2 = { 158 143 121 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_breznigrad = {
+                b_breznigrad = {
+                    title = baron
+                    title_female = baron
+                }
+                b_breznigrad2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 164 162 128 }
+                color2 = { 164 162 128 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
+            c_muromorsk = {
+                b_muromorsk = {
+                    title = baron
+                    title_female = baron
+                }
+                b_muromorsk2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 129 131 110 }
+                color2 = { 129 131 110 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            culture = krainivaya
+            title = duke
+            title_female = duke
+        }
+        d_novigrad = {
+            color = { 136 141 112 }
+            color2 = { 136 141 112 }
+            capital = 1117
+            c_archalskgrad = {
+                b_archalskgrad = {
+                    title = baron
+                    title_female = baron
+                }
+                b_archalskgrad2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 145 125 144 }
+                color2 = { 145 125 144 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_novigrad = {
+                b_novigrad = {
+                    title = baron
+                    title_female = baron
+                }
+                b_novigrad2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 136 141 112 }
+                color2 = { 136 141 112 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_novyabinsk = {
+                b_novyabinsk = {
+                    title = baron
+                    title_female = baron
+                }
+                b_novyabinsk2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 163 159 110 }
+                color2 = { 163 159 110 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_pyoltograd = {
+                b_pyoltograd = {
+                    title = baron
+                    title_female = baron
+                }
+                b_pyoltograd2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 147 139 138 }
+                color2 = { 147 139 138 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_vladacha = {
+                b_vladacha = {
+                    title = baron
+                    title_female = baron
+                }
+                b_vladacha2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 142 158 117 }
+                color2 = { 142 158 117 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            culture = krainivaya
+            title = duke
+            title_female = duke
+        }
+        d_novolgar = {
+            color = { 136 131 144 }
+            color2 = { 136 131 144 }
+            capital = 1122
+            c_novolgar = {
+                b_novolgar = {
+                    title = baron
+                    title_female = baron
+                }
+                b_novolgar2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 136 131 144 }
+                color2 = { 136 131 144 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_sepulvosh = {
+                b_sepulvosh = {
+                    title = baron
+                    title_female = baron
+                }
+                b_sepulvosh2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 147 157 135 }
+                color2 = { 147 157 135 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            c_voskresensk = {
+                b_voskresensk = {
+                    title = baron
+                    title_female = baron
+                }
+                b_voskresensk2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 164 131 121 }
+                color2 = { 164 131 121 }
+                culture = krainivaya
+                title = count
+                title_female = count
+            }
+            culture = krainivaya
+            title = duke
+            title_female = duke
+        }
+        culture = krainivaya
+        title = king
+        title_female = king
+    }
 }

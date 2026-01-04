@@ -1,7 +1,7 @@
 e_vultar = {
     color = { 139 158 124 }
     color2 = { 139 158 124 }
-    capital = 939
+    capital = 985 #Lampeport / c_campa_vasta
     k_chiaria = {
         color = { 139 158 124 }
         color2 = { 139 158 124 }
@@ -550,6 +550,9 @@ e_vultar = {
                 }
                 color = { 117 151 113 }
                 color2 = { 117 151 113 }
+
+		holy_site = amended
+
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -784,7 +787,7 @@ e_vultar = {
     k_vultaro = {
         color = { 152 173 112 }
         color2 = { 152 173 112 }
-        capital = 984
+        capital = 985 #Lampeport / c_campa_vasta
         d_fogiatina = {
             color = { 152 173 112 }
             color2 = { 152 173 112 }
@@ -800,21 +803,6 @@ e_vultar = {
                 }
                 color = { 181 201 110 }
                 color2 = { 181 201 110 }
-                culture = cantaluna
-                title = count
-                title_female = count
-            }
-            c_campa_vasta = {
-                b_campa_vasta = {
-                    title = baron
-                    title_female = baron
-                }
-                b_campa_vasta2 = {
-                    title = baron
-                    title_female = baron
-                }
-                color = { 163 207 140 }
-                color2 = { 163 207 140 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -871,7 +859,26 @@ e_vultar = {
         d_lampeport = {
             color = { 159 186 110 }
             color2 = { 159 186 110 }
-            capital = 989
+            capital = 985 #Lampeport / c_campa_vasta
+            c_campa_vasta = { #Lampeport
+                b_campa_vasta = {
+                    title = baron
+                    title_female = baron
+                }
+                b_campa_vasta2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 163 207 140 }
+                color2 = { 163 207 140 }
+
+		holy_site = unionism #where the vultaran heresy nearly broke the faith
+		holy_site = amended
+
+                culture = cantaluna
+                title = count
+                title_female = count
+            }
             c_epostella = {
                 b_epostella = {
                     title = baron

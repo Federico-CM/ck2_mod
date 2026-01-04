@@ -23,6 +23,7 @@ e_anglia = {
                 color2 = { 153 123 153 }
 
 		holy_site = draconism
+		holy_site = amended
 
                 culture = anglian
                 title = count
@@ -789,6 +790,8 @@ e_anglia = {
                 color = { 128 167 157 }
                 color2 = { 128 167 157 }
 
+		holy_site = unionism
+		holy_site = amended
 		holy_site = draconism
 
                 culture = anglian
