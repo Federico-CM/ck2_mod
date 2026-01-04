@@ -7667,7 +7667,7 @@
 
 522 = {
 	name = "Arahael"
-	culture = cearden
+	culture = isldar
 	religion = unionism
 	257.1.1 = {
 		birth = 257.1.1
@@ -7696,7 +7696,7 @@
 
 524 = {
 	name = "Florance Tannis"
-	culture = cearden
+	culture = isldar
 	religion = unionism
 	female = yes
 	286.1.1 = {
@@ -7728,7 +7728,7 @@
 
 526 = {
 	name = "Valerie"
-	culture = cearden
+	culture = isldar
 	religion = unionism
 	female = yes
 	287.1.1 = {
@@ -7760,7 +7760,7 @@
 
 528 = {
 	name = "Rowena Cavia"
-	culture = cearden
+	culture = isldar
 	religion = unionism
 	female = yes
 	294.1.1 = {
@@ -7806,7 +7806,7 @@
 
 531 = {
 	name = "Bastien"
-	culture = cearden
+	culture = isldar
 	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
@@ -8302,6 +8302,7 @@
 		death = 280.1.1
 	}
 	dynasty = 103
+    father = 1045
 }
 
 565 = {
@@ -13800,9 +13801,9 @@
 }
 
 943 = {
-	name = "Henry"
-	culture = gallovian
-	religion = fornoss
+	name = "Caltram"
+	culture = aber
+	religion = evolism
 	234.1.1 = {
 		birth = 234.1.1
 	}
@@ -15142,3 +15143,87 @@
 	dynasty = 22
 	mother = 1042
 }
+
+1044 = {
+	name = "Avilio"
+	culture = tierravera
+	religion = unionism
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 315
+}
+
+1045 = {
+	name = "Andrew"
+	culture = cearden
+	religion = unionism
+	203.1.1 = {
+		birth = 203.1.1
+	}
+	280.1.1 = {
+		death = 280.1.1
+	}
+	dynasty = 103
+}
+
+
+1046 = {
+	name = "Lambert"
+	culture = cearden
+	religion = unionism
+	232.1.1 = {
+		birth = 232.1.1
+	}
+	280.1.1 = {
+		death = 280.1.1
+	}
+	dynasty = 103
+	father = 1045
+}
+
+1047 = {
+	name = "Walter"
+	culture = cearden
+	religion = unionism
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 103
+	father = 1046
+}
+
+1048 = {
+	name = "Stephen"
+	culture = cearden
+	religion = unionism
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	354.1.1 = {
+		death = 354.1.1
+	}
+	dynasty = 103
+	father = 1047
+}
+
+1049 = {
+	name = "Francis"
+	culture = cearden
+	religion = unionism
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	354.1.1 = {
+		death = 354.1.1
+	}
+	dynasty = 103
+	father = 1047
+}
+

@@ -445,7 +445,7 @@
 
 91 = {
 	name = "Bancroft"
-	culture = cearden
+	culture = isldar
 }
 
 92 = {
@@ -1129,8 +1129,8 @@
 }
 
 229 = {
-	name = "Whitcombe"
-	culture = gallovian
+	name = "Uindacos"
+	culture = aber
 }
 
 230 = {
@@ -1561,4 +1561,9 @@
 315 = {
 	name = "de Paganelli"
 	culture = cantaluna
+}
+
+315 = {
+	name = "Cienfuegos"
+	culture = tierravera
 }
