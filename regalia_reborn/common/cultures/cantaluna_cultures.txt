@@ -2,14 +2,42 @@ cantaluna_group = {
 	graphical_cultures = { italiangfx }
 
     cantaluna = {
-        graphical_cultures = { italiangfx southerngfx }
+        graphical_cultures = { italiangfx southerngfx westerngfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 0.95 0.95 0.75 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Abbondanzio Abbondio Abelardo_Abelard Abelino Achille Adalberto_Albert Adelfo Adelmio_Adelmo Adelmo_Adelmo Adone Adriano_Adrian Agapito Agostino_Augustine Aimone Alamanno Alarico_Alaric
+			Albano Alberico Alberto_Albert Albino Alboino_Alwin Alcide Aldobrandino Aleardo Aleramo Alessandro_Alexander Alessio_Alexis Alighiero Alvise Ambrogio_Ambrosius Amedeo Anastasio_Anastasius Andrea_Andrew Angelo_Angel Annibale Anselmo_Anselm Antonino_Antoninus Antonio_Antonius Antoniotto Arcibaldo_Archibald Arderico Armando_Armand Arnolfo_Arnulf Arrigo Arsenio Artemio Ascanio Astorre
+			Atenolfo_Atenulf Attilio Augusto_August Aurelio_Aurelius Ausilio Ausonio Averado Azzo Azzone Baldassarre Baldovino_Baldwin Barnaba_Barnabas Bartolomeo_Bartolomeus Basilio_Basil Bassiano Basso
+			Battista Beltrano_Bertrand Benedetto_Benedict Benvenuto Berardo Bernabò_Barnabas Bernardo_Bernard Berto Bertoldo_Berthold Biagio Bonaventura Bonifacio_Bonifacius Borso Bruno_Bruno Bruto Buonconte
+			Buoso Callisto_Callistus Camillo_Camillus Candido Cangrande Carlo_Charles Cassio Castore Cataldo Catone Cecco Cesare_Caesar Chiaffredo Chiano Ciro Ciuccio Claudio_Claudius Clemente_Clement
+			Comita Conone Cornelio_Cornelius Corradino Corrado_Konrad Cosimo Cosma_Cosmas Costante_Constans Costantino_Constantine Costanzo_Constantius Cristoforo_Christopher Damiano_Damian Davide_David Demetrio_Demetrius Dioniso_Dionysus Doménico_Dominic
+			Durante Eduardo_Edward Elio Emmanuele_Manuel Ennio Enrico_Henry Enzio Enzo Ercole_Heracles Eriprando Ermenegildo Ettore_Hector Eugenio_Eugene Ezio Ezzelino Fabrizio Fausto_Faustus Federigo_Frederick
+			Felice_Felix Ferdinando_Ferdinand Ferruccio Filippo_Philip Fiorello Flavio Folco_Folke Fortunato Fosco Francesco_Francis Fresco Gabriele_Gabriel Gabrino Gaetano Galasso Galeazzo
+			Galeotto Gaspare_Caspar Gastone_Gaston Gelasio Gentile Geraldo_Gerald Gerardo_Gerard Germano_Germanus Gerolamo Gherardo_Gerard Giacinto_Hyacinth Giacomo_Jacob Gian_John Gianfranco Gianleone Giano_John
+			Giberto Gilberto_Gilbert Giolio_Julius Giordano_Jordan Giorgio_George Giovanni_John Giulio_Julius Giuseppe_Joseph Goffredo_Godfrey Gregorio_Gregory Gualtiero_Walter Guarnito Guerrino Guglielmo_William Guido_Guy Guidone_Guy
+			Guigliadore Iacopo_Jacob Igino Innocenzo_Innocent Ippolito_Hippolytus Isnardo Jacopo_Jacob Lamberto_Lambert Landolfo_Landolf Landone Lanfranco Lattanzio Lazzarino Lazzaro_Lazarus
+			Lealdo Leonardo_Leonard Leone_Leo Leonello_Lionel Leopoldo_Leopold Libero Lionello_Lionel Livio Lodovico_Louis Lorenzo_Laurence Luca_Luke Luchino Lucio_Lucius Luigi_Louis Malacresta Manfredo Manuele_Manuel
+			Marco_Marcus Mariano_Marius Marino_Marinus Mario_Marius Marsiglio Martino_Martin Massimo_Maximus Mastino Matteo_Matthew Merigo Michelangelo Michele_Michael  Napoleone Nazareno Nestore Niccolò_Nicholas Nicola_Nicholas
+			Nino Nolfo Oberto Obizzino Obizzo Oddone Omero Onorio Oreste Orlando Ottavio_Octavius Ottobono Ottone_Otto Pagano_Pagan Pancrazio_Pancras Pandolfo_Randolph Paolo_Paul Pasquale_Pascal
+			Patrizio_Patrick Pellegrino Pericle Pietro_Peter Pio Prospero Rafaello_Raphael Radul Raimondo_Raymond Rainero_Rainer Raineri_Rainer Riccardo_Richard Rinaldo_Reinhold Rizzardo Roberto_Robert Rodolfo_Ralph Rolando_Roland
+			Rosso Ruggiero Salinguerra Salvatore_Salvador Salvestro_Silvester Sante_Sancho Saverio Sciarra Sebastiano_Sebastian Secondotto Serafino_Seraphin Sergio_Sergius Sesto_Sextus Settimio_Septimus Severino_Severin Severo_Severus
+			Silvano Silvestro_Silvester Simone_Simon Simonetto Sinibaldo Sinucello Sozzo Spinetto Stefano_Stephen Stentore Taddeo Tedaldo Tedice Teodoro_Theodore Tibaldo_Theobald Tiziano Tommaso_Thomas
+			Torgodorio Torquato Ubaldo Uberto_Hubert Ugo_Hugh Ugoccione Ugolino Umberto_Humbert Urbano_Urban Valentino_Valentin Valerio_Valerius Vincentello Vincenzo_Vincent Virginio Vitale Vittore_Victor Vittorio_Victor Zaccaria_Zachary
+		}
+		female_names = {
+			Abelina Adalberta Adalgisa Adelaida_Adelaide Adelasia Adelia_Adela Adriana_Adriana Agalina Agnese_Agnes Agostina Albina Alda Alessandra Alfonsina Alisia_Alice Aloisia
+			Amalia_Amelia Ambrosia Anastasia_Anastasia Anna_Anna Antonella Antonia_Antonia Argentina Augusta Aurelia_Aurelia Ausilia Ausonia Beatrice_Beatrice Benedetta_Benedicta Benilde Berenice
+			Berta_Bertha Bianca_Blanche Bona_Bonne Brunilde_Brunhilda Camilla_Camilla Candida Caracosa Carla Carola Caterina_Catherine Cecilia_Cecilia Clara_Clara Claudia Clorinda 
+			Clotilde_Clotilde Constanza_Constance Cornelia_Cornelia Delinda Dora Edda Elena_Helen Eleonora_Eleanor Elisa_Elizabeth Elisabetta_Elizabeth Ermenegilda_Ermengilda Eudossia Eugenia
+			Fausta Felicia_Felicia Felicita Filippa_Philippa Filomena Flavia Flora_Flora Fortunata Fosca Francesca_Francesca Froizza Giacinta_Hyacintha Ginevra_Guinevere Giovanna_Joan Giuditta Giulia_Julia
+			Giuseppa_Josepha Ippolita Isabella_Elizabeth Joscella Laura_Laura Lavinia Leonide Letizia Lidia Livia Lodovica Lucia_Lucia Lucinetta Lucrezia Maddalena_Magdalena Marcella_Marcella 
+			Margherita_Margaret Maria_Maria Mariana_Mariana Marietta Martina Matilda_Matilda Micaela Nunzia Paola_Paula Patrizia_Patricia Renata Ricciarda_Ricarda Silvana
+			Sofia_Sophia Stefania_Stephania Tiziana Tomasina Valentina Violante_Yolanda Virginia
+		}
+		from_dynasty_prefix = "di "
+		feminist = yes
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
@@ -24,12 +52,51 @@ cantaluna_group = {
     azzizzari = {
         graphical_cultures = { italiangfx southerngfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 0.85 0.75 0.05 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Abbramu_Abraham Achilli_Achilles Adriano_Adrian Alberto_Albert Alessio_Alexis Alfio_Alphaeus Alfonso_Alphonse Alissandru_Alexander Ambroggiu_Ambrose Anastasiu_Anastasius Angelo_Angel Andrìa_Andrew Annibbali_Hannibal Antonio_Anthony Antuninu_Antoninus Arcadiu_Arcadius Arrammundu_Raymond Aronni_Aaron Augustu_Augustus Aurelio_Aurelius
+			Basilèu_Basil Binidittu_Benedict Benvenuto Bernardo_Bernard Biagio_Blaise Bonifacio_Boniface Bruno_Bruno 
+			Calogero Carlo_Charles Carmelo_Carmel Cesare_Caesar Chiaffredo_Theofredus Ciro_Cyrus Clàudiu_Claudius Clemente_Clement Corràdu_Konrad Costantìnu_Constantine Cristòfuru_Christopher Cabbrieli_Gabriel Caiu_Gaius Custanti_Constans
+			Damiano_Damian Dariu_Darius Davide_David Demetriu_Demetrius Diegu_Diaco Domenico_Dominic Diuclezzianu_Diocletian Dumizzianu_Domitian 
+			Eduardo_Edward Elio_Helios Emanuele_Emmanuel Emilio_Emil Enrico_Henry Enzo_Enzo Erculi_Hercules Ettore_Hector Eugenio_Eugene Eziu_Aetius 
+			Fabritziu_Fabrice Fausto_Faustus Federigo_Frederick Ferdinando_Ferdinand Ferruccio Filippo_Phillip Finu Francesco_Francis Fraviu_Flavius
+			Gabriele_Gabriel Gajetànu_Caietanus Gaspare_Caspar Gastone_Gaston Ginnaru_Januarius Gesualdo Giacomo_Jacob Gian_John Gianfranco Gianleone Giano_John Gigi_Louis Gilberto_Gilbert Giordano_Jordan Giorgio_George Giovanni_John Giuliu_Julius Giuseppe_Joseph Giustinianu_Justinian Goffredo_Godfrey Gramigna Gregorio_Gregory Gugghiermu_William Giulianu_Julian Gòsamu_Cosmas Grazzianu_Gratian
+			Ignazio_Ignatius Innocenzo_Innocent Ipàzziu_Hypatius Ireneu_Irenaeus
+			Janu_Sebastian Jeli
+			Kevin_Kevin
+			Làzzaru_Lazarus Leonardo_Leonard Leone_Leo Leopoldo_Leopold Libero Liviu_Livius Ludovico_Louis Larentu_Lawrence Luca_Luke Luciu_Lucius Luigi_Louis Lisciànniru_Alexander
+			Manuele_Emmanuel Marco_Mark Mario_Marius Martino_Martin Màssimu_Maximus Matteo_Matthew Michelangelo_Michelangelo Maumettu_Muhammad Miceli_Michael Mirko_Miroslav
+			Nanni_John Nappa Nicolò_Nicholas Nicola_Nicholas Nino_Antoninus Ntoni_Anthony
+			Ottavio_Octavius Orazziu_Horace Ottavianu_Octavian
+			Paolo_Paul Pasquale_Pascal Peppe_Joseph Peppe-Nappa Pietro_Peter Piu_Pius Pòlitu_Hippolytus
+			Renato_Renatus Riccardo_Richard Roberto_Robert Romano_Roman Ròmulu_Romulus Rosario Rosso Rudrigu_Roderick
+			Salvatore_Salvador Sante_Santo Sarbaturi_Salvador Saverio_Xavier Sebastianu_Sebastian Sergio_Sergius Silvano_Silvanus Silvestro_Silvester Simone_Simon Sòcrati_Socrates Stèfanu_Stephen 
+			Tiòfilu_Theophilus Tommaso_Thomas Turi Turiddu Teodoru_Theodore Teodosiu_Theodosius Tibberiu_Tiberius Tiuduricu_Theodoric Traianu_Trajan Tulliu_Tullius Tulumeu_Ptolemy
+			Ugo_Hugh Umberto_Humbert
+			Valentino_Valentine Valerio_Valerius Vartulumèu_Bartholomew Vincenzo_Vincent Vincislau_Vaclav Vittorio_Victor
+		}
+		female_names = {
+			Adelaidi_Adelaide Adriana_Adriana Àgata_Agatha Agostina_Augustina Alessandra_Alexandra Alice_Alice Alissia_Alexia Amelia_Amelia Anastazia_Anastasia Àncila_Angela Anna_Anna Antonia_Antonia Augusta_Augusta Aurilia_Aurelia Ausilia Atalanta
+			Bàrbara_Barbara Beatrice_Beatrix Benedetta_Benedicta Berenice Bianca_Blanche Bricida_Bridget 
+			Camilla_Camilla Carla_Caroline Catirina_Catherine Cecilia_Cecilia Chiara_Clara Cleopatra Claudia_Claudia Cornelia_Cornelia  
+			Dumìnica_Dominique Durutea_Dorothy
+			Elena_Helen Eleonura_Eleanor Elisa_Elizabeth Elisabetta_Elizabeth Eugenia_Eugenia
+			Fausta_Fausta Filippa_Philippa Fiurenza_Florence Flavia Flora_Flora Fortunata_Fortunata Francesca_Frances 
+			Gabriella_Gabriela Giorgia_Georgia Giovanna_Jane Giulia_Julia
+			Imma_Emma Ireni_Irene Isabella_Elizabeth 
+			Laura_Laura Lavinia Letizia_Letitia Lìa_Leah Lidia_Lydia Livia Lucìa_Lucia 
+			Magdalèna_Madeline Marcella_Marcella Marghirita_Margaret Marìa_Mary Marta_Martha Matilda_Matilda Mònica_Monica 
+			Natalia_Natalie
+			Paola_Paula Patrizia_Patricia Proserpina Pulchera_Pulcheria
+			Renata_Renata Rosa_Rosa 
+			Silvana_Silvana Sufìa_Sophia Stefania_Stephanie 
+			Teresa_Theresa Tiziana_Tatiana Tosca
+			Urrica_Ulrike Ùrsula_Ursula
+			Valentina_Valentina Virginia_Virginia
+		}
+		from_dynasty_prefix = "di "
+		feminist = yes
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30

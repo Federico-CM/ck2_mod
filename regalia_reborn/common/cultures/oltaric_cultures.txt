@@ -1,15 +1,28 @@
 oltaric_group = {
-    graphical_cultures = { westerngfx }
+    graphical_cultures = { easterngfx }
 
     krainivaya = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { easternslavicgfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 0.65 0.8 0.3 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Briachislav_Bretislaus Demid Dobrynia Fedot_Theodat Gleb Igor_Ingvar Iliya Iziaslav Lev_Leo Mitrofan Mstislav_Mstislav
+			Nikita Putiata Radoslav Rodislav Rogvolod Rostislav Ruslan Stanislav_Stanislav Sudislav Svetozar Sviatopolk_Svatopluk Sviatoslav_Sviatoslav Terentiy Trifon Viacheslav_Vaclav Vladimir_Vladimir Vladislav_Vladislav Voislav Volodar Vseslav
+			Vsevolod Vyshata Vysheslav Yaropolk Yaroslav_Jaroslav Yefimiy Yelisey Yeremey Yevstafiy
+		}
+		female_names = {
+			Boleslava Darya Dobrava Dobronega Dobroslava Yefimia_Euphemia Yefrosinia_Euphrosyne Fevronia Gorislava Gradislava Gremislava
+			Liubava Liudmila_Liudmila Malfrida Malusha Maria_Maria Marina_Marine Olena_Helen Olga Pereyaslava Praskovya Praxida Prebrana Predslava
+			Premyslava Pribislava Rogneda Rostislava Sbyslava Sviatoslava Tatyana Ulita Ulyana Varvara Vasilisa Veleslava Verkhoslava
+			Vseslava Viacheslava Yaroslava Zabava Zvenislava
+		}
+		from_dynasty_prefix = "of "
+		
+		male_patronym = "ovich"
+		female_patronym = "ovna"
+		prefix = no
+		feminist = yes
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30

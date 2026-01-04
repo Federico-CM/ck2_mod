@@ -4,12 +4,25 @@ tierravera_group = {
     tierravera = {
         graphical_cultures = { southerngfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 0.95 0.82 0.09 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Alfonso_Alphonse Alonso_Alphonse Álvar_Oliver Álvaro_Oliver Bermudo_Vermudo Diego_Diaco Enrique_Henry Fadrique_Frederick Felipe_Philip Fernando_Ferdinand
+ 			Fruela_Froila García_Garcia Gil_Egidius Gómez_Gomez Gonzalo_Gonzalo Guillén_William Guillermo_William Gutierre_Walter Juan_John Lope_Lupo Luis_Louis
+			Manrique_Amalric Martín_Martin Munio_Munio Nuño_Nuno Ordoño_Ordono Oveco_Obeko Pedro_Peter Pelayo_Pelagius Ramiro_Ramiro Rodrigo_Roderick
+			Salvador_Salvador Sancho_Sancho Suero_Suero Tello Vela_Vela
+		}
+		female_names = {
+			Aldonza_Aldonza Anderquina Beatriz_Beatrice Berenguela_Berengaria Blanca_Blanche Constanza_Constance Elvira_Elvira Estefanía_Stephania Fronilda_Fronilde Gontroda_Gotruda
+			Inés_Agnes Isabel_Elizabeth Jimena_Ximena Juana_Joan Leonor_Eleanor Mafalda_Matilda María_Maria Marina_Marine Mayor_Mayor Mencía_Mencia
+			Milia_Emily Sancha_Sancha Teresa_Teresa Toda_Toda Urraca_Urraca
+		}
+		from_dynasty_prefix = "de "
+		feminist = yes
+
+		male_patronym = "ez"
+		female_patronym = "ez"
+		grammar_transform = spanish
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
@@ -24,12 +37,25 @@ tierravera_group = {
     bragacao = {
         graphical_cultures = { southerngfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 0.75 0.67 0.07 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Afonso_Alphonse Aires Álvaro_Oliver Bermudo_Vermudo Diogo_Diaco Egas Estêvão_Stephen Fernão_Ferdinand Fernando_Ferdinand Garcia_Garcia
+			Gil_Egidius Gomes_Gomez Gonçalo_Gonzalo Guterre_Walter Henrique_Henry Hermígio João_John Lopo_Lupo Lourenço_Laurence Martim_Martin
+			Mem_Mendo Mendo_Mendo Monio_Munio Muno_Munio Nuno_Nuno Paio_Pelagius Pedro_Peter Pero_Peter Pôncio_Pons Rodrigo_Roderick Rui_Roderick
+			Sancho_Sancho Soeiro_Suero Raimundo_Raymond Vasco_Vasco Vicente_Vincent
+		}
+		female_names = {
+			Aldara_Alduara Aldonça_Aldonza Beatriz_Beatrice Berengária_Berengaria Branca_Blanche Constança_Constance Dórdia Elvira_Elvira Estevainha_Stephania Fruilhe_Fronilde
+			Gontinha Gontroda_Gotruda Guiomar Inês_Agnes Joana_Joan Leonor_Eleanor Mafalda_Matilda Margarida_Margaret Maria_Maria Marinha_Marine
+			Mor_Mayor Ouroana Sancha_Sancha Teresa_Teresa Urraca_Urraca
+		}
+		from_dynasty_prefix = "de "
+		feminist = yes
+
+		male_patronym = "es"
+		female_patronym = "es"
+		grammar_transform = spanish
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30

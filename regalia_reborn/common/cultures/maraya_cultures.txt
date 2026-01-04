@@ -11,6 +11,7 @@ maraya_group = {
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
+	feminist = yes
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
         mat_grf_name_chance = 10

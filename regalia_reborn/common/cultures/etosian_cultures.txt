@@ -1,15 +1,32 @@
 etosian_group = {
-	graphical_cultures = { westerngfx }
+	graphical_cultures = { easterngfx }
 
     etosian = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { byzantinegfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 0.8 0.3 0.8 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Adrianos_Adrian Akakios_Acacius Alexandros_Alexander Alexios_Alexis Anastasios_Anastasius Anatolios Andreas_Andrew Andronikos_Andronicus Anthemios Anthimos Antiochos Antonios_Antonius Apollonios Arsenios Artemios Athanasios_Athanasius Bardas
+			Bartholomaios_Bartolomeus Basileios_Basil Belisarios_Belisarius Boethios Bosporios Christophoros_Christopher Chrysanthos Chrysogonos Damianos_Damian Daniel_Daniel David_David Demetrios_Demetrius Diogenes Dionysios_Dionysus Dorotheos Eirenaios Eudoxios Eustratios
+			Eugenios_Eugene Euphemios Eusebios_Eusebius Eustathios_Eustace Evangelos Gabriel_Gabriel Gennadios_Gennadius Georgios_George Gerasimos Germanos_Germanus Gregoras_Gregory Gregorios_Gregory Hektorios_Hector Helias_Elijah Herakleios_Heracles Hierotheos Himerios
+			Hippolytos_Hippolytus Hypatios Iakobos_Jacob Ignatios_Ignatius Innokentios_Innocent Ioannes_John Ioannikios Iordanes_Jordan Ioseph_Joseph Isaakios_Isaac Isaias_Isaiah Isidoros_Isidoros Ioulianos_Julian Ioustinianos_Justinian Ioustinos_Justin Kaisarios_Caesar
+			Kallinikos Kallistos_Callistus Komitas Konstantinos_Constantine Konstantios_Constantius Konstas_Constans Kosmas_Cosmas Kyriakos_Cyriacus Kyrillos_Cyril Kyros Laurentios_Laurence Lazaros_Lazarus Leon_Leo Leontios_Leontius Loukas_Luke Makarios Manuel Markos_Marcus
+			Matthaios_Matthew Maurikios_Maurice Maximos_Maximus Megistos_Magnus Meletios Methodios Michael_Michael Narses Neophytos Nikephoros_Nikephoros Niketas Nikodemos Nikolaos_Nicholas Niphon Orestes Pamphilios Pankratios_Pancras Pantoleon Paschalis_Pascal
+			Pavlos_Paul Pelagios_Pelagius Petros_Peter Philaretos Philippos_Philip Philotheos Phokas Photios Polykarpos Porphyrios Prokopios_Procopius Pyrros Raphail_Raphael Romanos_Roman Sabas Samuel_Samuel Serapion_Seraphin Sebastianos_Sebastian Sergios_Sergius Stephanos_Stephen
+			Staurakios Symeon_Simon Symmachos_Symmachus Theocharistos Theodoros_Theodore Theodosios_Theodosios Theodotos_Theodat Theodoulos Theoktistos Theophanes Theophilos Theophylaktos Thomas_Thomas Tiberios_Tiberius Traianos_Trajan
+			Timotheos_Timothy Tryphon Valerios_Valerius Zacharias_Zachary Zenobios Zenon
+		}
+		female_names = {
+			Adriane_Adriana Agathe_Agatha Agne_Agnes Aikaterine_Catherine Alexandra_Alexandra Alexeia_Alexia Anastasia_Anastasia Anna_Anna Anthe Anthousa Antipatra Antonia_Antonia Apollonia Athanasia Barbara_Barbara Basillike
+			Chrysogone Damiane Demetra Dionysia Dorothea_Dorothy Aigidia Eirene_Irene Elaiodora Epiphania Eudokia_Eudocia Eudoxia_Eudocia Eugenia_Eugenia Eulalia Eunike Euphemia_Euphemia Euphrasia Euphrosyne_Euphrosyne
+			Eupraxia Eusebia Eustathia Evanthia Gabrielia Garyphallia Georgia_Georgia Gregoria Helene_Helen Hypatia Ioanna_Joan Ioulia_Julia Iouliana_Juliana Ioustina_Justina Kale Konstantia_Constantia Konstantine_Constantina Kyra Kyriake_Kyriake
+			Leontia Margarita_Margaret Maria_Maria Markia_Marcia Martha_Martha Melissa_Melisende Nikarete Nikoletta Nonna Parthena Pavlina_Paulina Pelagia Petronia_Petronia Philippa_Philippa Phyllis Pulcheria_Pulcheria Rhodanthe Romane Romylia Sergia_Sergia Sibylla_Sibylla
+			Simonis Sophia_Sophia Stephania_Stephania Thekla Theochariste Theodora_Theodora Theodosia_Theodosia Theognosia Theoktiste Theophano Thomais Valeria_Valeria Viviana_Viviana Xene Zenobia Zoe
+		}
+
+		from_dynasty_prefix = "of "
+		feminist = yes
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
@@ -22,14 +39,22 @@ etosian_group = {
     }
 
     tsalqvanes = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { byzantinegfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 0.5 0.2 0.5 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Abas Abirad Aboughamr Aboulgharib Aleksandr_Alexander Artashes Artashir_Ardeshir Artavazd_Ardabast Arsen Arshak Ashot_Ashot Athom Atrnerseh_Atrnerseh Avag Avedis Bagour_Bagour Bagrat Bedros_Peter Boghos_Paul Davit_David Eshkhan Gagik_Gagik Gevorg_George
+			Gosdantin_Constantine Grigor_Gregory Gurgen_Lupo Hagop Hamazasp Hethum Hovhannes_John Hovsep_Joseph Ishkhan_Ishkhan Ivane_John Kapriel_Gabriel Khachik Khosrov_Khosrau Levon_Leo Malkhas_Malkhas Mamigon Manuel_Manuel Margos_Marcus Melek Mihrdat_Mithridates Mikayel_Michael Mleh Mushegh Mushel Mzhezh
+			Nerseh_Narses Oshin Roupen_Reuben Sahag_Isaac Sarkis_Sergius Sevag Shahanshah_Shahanshah Smbat_Smbat Stepanos_Stephen Tachat Taniel_Daniel Tatoul Tigran Tornik_Tornik Tovmas_Thomas Thoros_Theodore Trdat Vache Vachagan Vagharshak Vahag Vahan Vahram_Bahram Vakhtank Varazdat Vartan Vassak Vesd Vrtanes Zakare_Zachary Zarmihr
+		}
+		female_names = {
+			Aghavni Alitz_Alice Almasd Anahid Anna_Anna Anoush Arda Arevig Arin Baydzar Berjanoush Berjouhi Datevig Dalita Eliz_Eloise Gadar Gorandoukht_Gorandukht Hasmig Houri Hranoush
+			Hripsimeh Keghanoush Keran Khorishah Kohar Latavri Leyli Lousin Mara Margarid_Margaret Maria_Maria Mariyam_Maria Meghranoush Nane Nazani Ovsanna Pounig Razmouhi Rita Satenik_Satinik Seta Siran Sirvart
+			Srpouhi Shoushanig Takouhi Tamar_Tamar Vartanoush Vartouhi Vosgi Yeva Zabel_Elizabeth Zmroukhd
+		}
+		feminist = yes
+		from_dynasty_prefix = "ve "
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30

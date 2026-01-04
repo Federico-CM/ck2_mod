@@ -4,12 +4,37 @@ wirtem_group = {
     wirtem = {
         graphical_cultures = { germangfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 0.4 0.8 0.4 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Adalbero_Adalbero Adalbert_Albert Adalhard_Adalhard Adam_Adam Ademar_Adémar Adolf_Adolf Alarich_Alaric Alberich_Aubrey Albrecht_Albert Aldrich_Aldric
+			Alois_Louis Amadeus_Amadeus Amalrich_Amalric Andreas_Andrew Anselm_Anselm Arnold_Arnold Arnulf_Arnulf Augustin_Augustine Baldarich_Baldric
+			Baldewin_Baldwin Baldomar Baldur_Balder Berengar_Berengar Bernhard_Bernard Berthold_Berthold Burchard_Bouchard Christopher_Christopher
+			Dieter_Dieter Dietmar_Dietmar Dietpold_Dietpold Dietrich_Thierry Dietwin Eberhard_Everard Eginolf Ehrenfried Ekbert_Egbert Ekkehard_Ekkehard Emelrich_Aymeric
+			Emich Emmerich_Aymeric Emund_Emund Engelbert_Engelbert Erich_Erik Ernst_Ernest Ferdinand_Ferdinand Filibert_Filibert Folkhard Folkmar Franz_Francis Friedrich_Frederick
+			Gautselin_Joscelin Gebhard_Gebhard Georg_George Gerhard_Gerard Gerlach_Gerlach Giselbert_Gilbert Gottfried_Godfrey Gotthard Gottschalk_Gottschalk
+			Gotzelo Guntram Gunzelin_Günther Günther_Günther Hans_Hans Hartmann Hartwig Heinrich_Henry Helferich Heribert_Herbert Hermann_Herman Hesso
+			Hugo_Hugh Humbert_Humbert Hupold Jakob_Jacob Johann_John Jürgen_George Karl_Charles Karlmann_Carloman Kaspar_Caspar Konrad_Konrad Kuno_Konrad
+			Lambert_Lambert Landolf_Landolf Leopold_Leopold Liudolf_Ludolf Liutbert_Lutbert Liutbrand Liutpold_Leopold Lothar_Lothair Ludolf_Ludolf Ludwig_Louis Lutbert_Lutbert
+			Magnus_Magnus Manegold Manfred_Manfred Markward_Markward Martin_Martin Matthias_Matthew Meinhard Michael_Michael Nikolaus_Nicholas Norbert_Norbert
+			Otto_Otto Peter_Peter Philipp_Philip Poppo Radbot_Radbot Reinhard_Renard Reinhold_Reinhold Rudolf_Ralph Ruprecht_Robert Rutger_Roger Siegfried_Siegfried
+			Sieghard Siegmund_Sigmund Sigismund_Sigmund Simon_Simon Stefan_Stephen Theodorich_Thierry Thietmar_Dietmar Thomas_Thomas
+			Udalrich_Ulrich Ulrich_Ulrich Viktor_Victor Waldemar_Vladimir Walram_Walram Walther_Walter Welf_Lupo Wenzel_Vaclav Werner_Werner Wido_Guy
+			Wigerich Wilhelm_William Wolfgang Wolfram_Wolfram
+		}
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde_Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia Barbara_Barbara
+			Beatrix_Beatrice Benedicta_Benedicta Berchte Berta_Bertha Binhilde Brunhilde_Brunhilda Cecilie_Cecilia Christine_Christina
+			Cothilda_Clotilde Dorothea_Dorothy Elisabeth_Elizabeth Emma_Emma Engeltraud Ermengard_Ermengarde Eufemia_Euphemia
+			Frida Friedrica_Frederique Gerberga_Gerberga Gerhild Gertrude_Gertrude Gisela_Gisela Gudrun_Gudrun Gunhilda_Gunhild
+			Hedwig_Hedwig Heike Heilwiva Helene_Helen Helga Hemma_Emma Henrike Hildeburg Hildegard_Hildegard Ida_Ida Ilsa Inga_Inge
+			Ingeltrude Irmele Irmeltrud Irmgard_Ermengarde Isentrude Jutta_Judith Karlotte_Caroline Katharina_Catherine Klara_Clara
+			Klementia_Clementia Konstanze_Constance Kriemhild Kunigunde_Kunigunde Luitgard_Luitgard Margarete_Margaret Maria_Maria
+			Mechthild_Matilda Oda Osterhild Richara_Ricarda Richenza_Richeza Richwara Romilda Serhilda_Serhilda Sofie_Sophia Sybille_Sibylla Trude_Gertrude
+			Ulrike Ursula_Ursula Ute_Ute Walpurga Wilhelmina_Wilhelmina Winfrida Wulfhilde_Ulfhild
+		}
+		from_dynasty_prefix = "von "
+		feminist = yes
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
@@ -24,12 +49,37 @@ wirtem_group = {
     calderliga = {
         graphical_cultures = { germangfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 0.6 0.6 0.8 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Adalbero_Adalbero Adalbert_Albert Adalhard_Adalhard Adam_Adam Ademar_Adémar Adolf_Adolf Alarich_Alaric Alberich_Aubrey Albrecht_Albert Aldrich_Aldric
+			Alois_Louis Amadeus_Amadeus Amalrich_Amalric Andreas_Andrew Anselm_Anselm Arnold_Arnold Arnulf_Arnulf Augustin_Augustine Baldarich_Baldric
+			Baldewin_Baldwin Baldomar Baldur_Balder Berengar_Berengar Bernhard_Bernard Berthold_Berthold Burchard_Bouchard Christopher_Christopher
+			Dieter_Dieter Dietmar_Dietmar Dietpold_Dietpold Dietrich_Thierry Dietwin Eberhard_Everard Eginolf Ehrenfried Ekbert_Egbert Ekkehard_Ekkehard Emelrich_Aymeric
+			Emich Emmerich_Aymeric Emund_Emund Engelbert_Engelbert Erich_Erik Ernst_Ernest Ferdinand_Ferdinand Filibert_Filibert Folkhard Folkmar Franz_Francis Friedrich_Frederick
+			Gautselin_Joscelin Gebhard_Gebhard Georg_George Gerhard_Gerard Gerlach_Gerlach Giselbert_Gilbert Gottfried_Godfrey Gotthard Gottschalk_Gottschalk
+			Gotzelo Guntram Gunzelin_Günther Günther_Günther Hans_Hans Hartmann Hartwig Heinrich_Henry Helferich Heribert_Herbert Hermann_Herman Hesso
+			Hugo_Hugh Humbert_Humbert Hupold Jakob_Jacob Johann_John Jürgen_George Karl_Charles Karlmann_Carloman Kaspar_Caspar Konrad_Konrad Kuno_Konrad
+			Lambert_Lambert Landolf_Landolf Leopold_Leopold Liudolf_Ludolf Liutbert_Lutbert Liutbrand Liutpold_Leopold Lothar_Lothair Ludolf_Ludolf Ludwig_Louis Lutbert_Lutbert
+			Magnus_Magnus Manegold Manfred_Manfred Markward_Markward Martin_Martin Matthias_Matthew Meinhard Michael_Michael Nikolaus_Nicholas Norbert_Norbert
+			Otto_Otto Peter_Peter Philipp_Philip Poppo Radbot_Radbot Reinhard_Renard Reinhold_Reinhold Rudolf_Ralph Ruprecht_Robert Rutger_Roger Siegfried_Siegfried
+			Sieghard Siegmund_Sigmund Sigismund_Sigmund Simon_Simon Stefan_Stephen Theodorich_Thierry Thietmar_Dietmar Thomas_Thomas
+			Udalrich_Ulrich Ulrich_Ulrich Viktor_Victor Waldemar_Vladimir Walram_Walram Walther_Walter Welf_Lupo Wenzel_Vaclav Werner_Werner Wido_Guy
+			Wigerich Wilhelm_William Wolfgang Wolfram_Wolfram
+		}
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde_Adelinde Agathe_Agatha Agnes_Agnes Alberade Amalberga Amalie_Amelia Barbara_Barbara
+			Beatrix_Beatrice Benedicta_Benedicta Berchte Berta_Bertha Binhilde Brunhilde_Brunhilda Cecilie_Cecilia Christine_Christina
+			Cothilda_Clotilde Dorothea_Dorothy Elisabeth_Elizabeth Emma_Emma Engeltraud Ermengard_Ermengarde Eufemia_Euphemia
+			Frida Friedrica_Frederique Gerberga_Gerberga Gerhild Gertrude_Gertrude Gisela_Gisela Gudrun_Gudrun Gunhilda_Gunhild
+			Hedwig_Hedwig Heike Heilwiva Helene_Helen Helga Hemma_Emma Henrike Hildeburg Hildegard_Hildegard Ida_Ida Ilsa Inga_Inge
+			Ingeltrude Irmele Irmeltrud Irmgard_Ermengarde Isentrude Jutta_Judith Karlotte_Caroline Katharina_Catherine Klara_Clara
+			Klementia_Clementia Konstanze_Constance Kriemhild Kunigunde_Kunigunde Luitgard_Luitgard Margarete_Margaret Maria_Maria
+			Mechthild_Matilda Oda Osterhild Richara_Ricarda Richenza_Richeza Richwara Romilda Serhilda_Serhilda Sofie_Sophia Sybille_Sibylla Trude_Gertrude
+			Ulrike Ursula_Ursula Ute_Ute Walpurga Wilhelmina_Wilhelmina Winfrida Wulfhilde_Ulfhild
+		}
+		from_dynasty_prefix = "von "
+		feminist = yes
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
@@ -46,10 +96,59 @@ wirtem_group = {
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Abraham_Abraham Adam_Adam Adrien_Adrian Albert_Albert Alexandre_Alexander Alfons_Alphonse Amédée_Amadeus André_Andrew Anton_Anthony Arnold_Arnold Artur_Arthur Auguste_August Axel_Axel 
+			Baudouin_Baldwin Barthélémy_Bartholomew Benedikt_Benedict Bernhard_Bernard Boris_Boris Bruno_Bruno 
+			Casimir_Casimir Charles_Charles Christophe_Christopher Claude_Claudius Conrad_Konrad Cornelius_Cornelius
+			Damien_Damian Daniel_Daniel David_David Dietrich_Theodoric Dimitri_Demetrius Dominik_Dominic
+			Eberhard_Everard Edmond_Edmund Éduard_Edward Egbert_Egbert Egidius_Egidius Émile_Emil Engelbert_Engelbert Éric_Erik Ernst_Ernest Étienne_Stephen Eugen_Eugene
+			Félix_Felix Ferdinand_Ferdinand François_Francis Franz_Francis Frédéric_Frederick
+			Gabriel_Gabriel Georg_George Gérard_Gerard Gerlac_Gerlach Gilbert_Gilbert Gottfried_Godfrey Gregor_Gregory Guido_Guy Guillaume_William Gustav_Gustav
+			Hartmann_Hartmann Henri_Henry Herbert_Herbert Hermann_Herman Hugo_Hugh Humbert_Humbert 
+			Immanuel_Emmanuel Isidore_Isidore
+			Jakob_Jacob Joachim_Joachim Johann_John Jonathan_Jonathan Joseph_Joseph Jules_Julius Julien_Julian
+			Kai_Gaius Karl_Charles Kaspar_Caspar Kevin_Kevin Konstantin_Constantine
+			Ladislaus_Vladislav Lambert_Lambert Laurenz_Lawrence Léon_Leo Léopold_Leopold Lothair_Lothar Louis_Louis Lucas_Luke Lucien_Lucian
+			Marc_Mark Mario_Marius Martin_Martin Matthias_Matthew Maximilian_Maximilian Michel_Michael Maurice_Maurice 
+			Nicolas_Nicholas Noah_Noah Norbert_Norbert
+			Olivier_Oliver Orlando_Roland Oskar_Oscar Otto_Otto 
+			Paul_Paul Patrick_Patrick Philibert_Filibert Philippe_Phillip Pierre_Peter 
+			Rafael_Raphael Raimund_Raymond Reiner_Rayner Reinhold_Reynold René_Renatus Richard_Richard Robert_Robert Roger_Roger Roman_Roman Rudolf_Ralph 
+			Samuel_Samuel Sébastien_Sebastian Sergio_Sergius Severinus_Severinus Siegfried_Siegfried Sigmund_Sigmund Simon_Simon Stefan_Stephen
+			Thierry_Theodoric Thomas_Thomas Théo_Theodore Thorsten_Torsten Tim_Timothy Tobias_Tobias Tristan_Tristan
+			Ulrich_Ulrich 
+			Viktor_Victor Vincent_Vincent Vlad_Vladimir	
+			Walter_Walter Wilhelm_William
+			Xavier_Xavier
+		}
+		female_names = {
+			Adela_Adela Adelheid_Adelaide Adelinde_Adelinde Agathe_Agatha Agnes_Agnes Alexandra_Alexandra Alexia_Alexia Anna_Anna Antonia_Antonia 
+			Barbara_Barbara Beatrix_Beatrix Benedikta_Benedicta Berta_Bertha Bianka_Blanche Brunhilde_Brunhilda 
+			Caroline_Caroline Cecilie_Cecilia Charlotte_Charlotte Christine_Christina Chloé_Chloe
+			Danielle_Daniela Dorothea_Dorothy 
+			Elisabeth_Elizabeth Emilie_Emily Emma_Emma Erika_Erika Eufemia_Euphemia Eva_Eve
+			Fleur_Flora Friederike_Frederique 
+			Gabriela_Gabriela Gerberga_Gerberga Gertrude_Gertrude Gisela_Gisela Gloria_Gloria Gunhilda_Gunhild
+			Hannah_Hannah Hedwig_Hedwig Heike_Henriette Helene_Helen Helga_Helga Hemma_Emma Henrike_Henriette 
+			Ida_Ida Ilsa_Elizabeth Ingrid_Ingrid Irene_Irene 
+			Jasmin_Jasmine Jeannette_Jane Jennifer_Jennifer Jessica_Jessica Johanna_Jane Josephine_Josephine Julie_Julia Juliana_Juliana Jutta_Judith 
+			Karlotte_Charlotte Katharina_Catherine Klara_Clara Klementia_Clementia Konstanze_Constance 
+			Laura_Laura Lea_Leah Louise_Louise Lucia_Lucia
+			Madeleine_Madeline Margot_Margaret Maria_Mary Marine_Marina Martha_Martha Mathilde_Matilda Monika_Monica
+			Natalie_Natalie Nora_Eleanor
+			Olivia_Olivia 
+			Patricia_Patricia Pauline_Paula
+			Rachel_Rachel Rebecca_Rebecca Regina_Regina 
+			Sandra_Alexandra Sara_Sarah Sofie_Sophia Stephanie_Stephanie Suzanne_Susan Sybille_Sibyl 
+			Tamara_Tamar Tatiana_Tatiana Theresa_Theresa Trude_Gertrude
+			Ursula_Ursula
+			Vera_Vera Veronika_Veronica Viktoria_Victoria
+			Wilhelmina_Wilhelmina
+			Zoe_Zoe
+		}
+		from_dynasty_prefix = "vun "
+		feminist = yes	
+
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
@@ -66,10 +165,52 @@ wirtem_group = {
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Adalharté_Adalhard Adam_Adam Adémario_Ademar Adlbréht_Albert Alariqiér_Alaric Alberiqué_Aubrey Aldriqué_Aldric Alessandér_Alexander Alfonsé_Alphonse Amadeüs_Amadeus Amalricco_Amalric Andréa_Andrew Anselmiano_Anselm Antoiné_Anthony Arnaudo_Arnold Arnulé_Arnulf Aronné_Aaron Aujustain_Augustine Axél_Axel 
+			Baldariqué_Baldric Baldéwain_Baldwin Baldur_Balder Bartholomé_Bartholomew Bénito_Benedict Beréngio_Berengar Bernarté_Bernard Burchéaur_Bouchard 
+			Claudé_Claudius
+			Davidé_David Dietéur_Dieter Dietmérto_Dietmar Diétpollian_Dietpold Dietriqué_Theodoric 
+			Ézio_Aetius Everharté_Everard Eginolfo_Eginolf Ecbért_Egbert Eccérhart_Ekkehard Emiccio_Aymeric Ermundé_Emund Engelgardé_Engelhard Eriqué_Erik Ernést_Ernest 
+			Felicé_Felix Ferdinando_Ferdinand Filippé_Phillip Filibért_Filibert Franzisco_Francis Friedriqué_Frederick
+			Gaustélino_Joscelin Géorgio_George Germaino_German Gerlaccio_Gerlach Giordané_Jordan Giorno Giovanné_John Giselbért_Gilbert Giulius_Julius Giustiné_Justin Gottfrié_Godfrey Gottshalqué_Gottschalk Gregoiré_Gregory Gualtiér_Walter Guido_Guy Günthér_Günther
+			Hadriané_Adrian Hanzé_John Hartmané_Hartmann Heinriqué_Henry Halferiqué Heribért_Herbert Hermano_Herman Hessé_Hesso Hieronymé_Jerome Hugo_Hugh 
+			Jerharté_Gerard Jürgén_George 
+			Karlés_Charles Karlémagné_Charlemagne Kasparé_Caspar Kévin_Kevin Klemént_Clement Korrado_Konrad Kosimo_Cosmas Kostantin_Constantine Kristofér_Christopher
+			Lambért_Lambert Landolfo_Landolf Laurénzo_Lawrence Léonard_Leonard Léopold_Leopold Liudolfo_Ludolf Liubért_Lutbert Lorthar_Lothar Ludolfé_Ludolf Luduigé_Louis Lutbért_Lutbert
+			Magné_Magnus Mangeliémo Manfréd_Manfred Manuelé_Emmanuel Marquardé_Markward Martiné_Martin Massimé_Maximus Mattéo_Matthew Micaél_Michael Moustafé_Mustafa 
+			Nathané_Nathan Nikolasé_Nicholas Norbért_Norbert
+			Olivér_Oliver Orlandé_Roland Oscar_Oscar Ottoné_Otto 
+			Paul_Paul Piérro_Peter 
+			Reinoldé_Reynold Rénato_Renatus Rineharté_Renard Rudolfé_Ralph Rüpréct_Robert Rutgér_Roger 
+			Sérgio_Sergius Sigfridé_Siegfried Sigismundo_Sigmund Silvio_Silvius Simon_Simon Stéfan_Stephen 
+			Timothé_Timothy Tito_Titus Theodoriqué_Theodoric Tomassé_Thomas
+			Ualdémar_Vladimir Udalriqué_Ulrich Uélf_Lupo Uenzél_Vaclav Uilhélm_William Ulriqué_Ulrich Umalriqué_Aymeric Umbérto_Humbert Umériqué_Aymeric Urbané_Urban
+			Viktoré_Victor
+			Youséf_Joseph
+		}
+		female_names = {
+			Adéla_Adela Adelhéda_Adelaide Adélinna_Adelinde Agatha_Agatha Agnésa_Agnes Amalbérga Amaléa_Amelia Anna_Anna Antonia_Antonia 
+			Barbara_Barbara Béatrizza_Beatrix Benédicta_Benedicta Berchétta Bértha_Bertha Birgita_Bridget Brünilda_Brunhilda 
+			Ceciliada_Cecilia Christinna_Christina Clara_Clara Cothilda_Clotilde 
+			Diana_Diana Dorothée_Dorothy 
+			Elizabétta_Elizabeth Emma_Emma Erméngarda_Ermengarde Eufémia_Euphemia Eugénia_Eugenia
+			Felicée_Felicia Frida Friédricca_Frederique 
+			Géorgia_Georgia Gerbérga_Gerberga Giséla_Gisela Gloria_Gloria Gunilda_Gunhild
+			Héduig_Hedwig Heiké_Henriette Heléna_Helen Hélga_Helga Hemmé_Emma Henriétta_Henriette Hildégard_Hildegard 
+			Ida_Ida Ilsa_Elizabeth Inga_Inge Isabélla_Elizabeth 
+			Jennifér_Jennifer Juditté_Judith Juliéta_Julia
+			Karlotté_Charlotte Katharina_Catherine Klara_Clara Kleméntia_Clementia Konstanzé_Constance 
+			Laura_Laura Lucia_Lucia Luduiga_Louise 
+			Margaréta_Margaret Maria_Mary Marina_Marina Mectilda_Matilda 
+			Oda_Odelia Ostérilda_Osterhild 
+			Paulina_Paula Pétra_Petra
+			Rebécca_Rebecca Régina_Regina 
+			Sara_Sarah Serilda_Serhilda Sofia_Sophia Suzanna_Susan Sybilla_Sibyl 
+			Tamara_Tamar
+			Uilhélminna_Wilhelmina Ulfhilda_Ulfhild Ursula_Ursula			
+		}
+		from_dynasty_prefix = "den "
+		feminist = yes
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30

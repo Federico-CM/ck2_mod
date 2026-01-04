@@ -1,15 +1,32 @@
 baldmark_group = {
-	graphical_cultures = { westerngfx }
+	graphical_cultures = { easterngfx }
 
     ania = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { serbsouthslavicgfx }
         
-        color = { 0.8 0.2 0.2 }
+		color = { 0.6 0.4 0.4 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Adrian_Adrian Alexandru_Alexander Anghel_Angel Aron_Aaron Bajan Balc Barbat Basarab Bogdan_Bogdan Carol_Charles Ciprian_Cyprianus Ciubar Claudiu_Claudius
+			Corneliu_Cornelius Costin Damjan_Damian Dan Dragos Dumitru_Demetrius Emerik_Aymeric Florin Franjo_Francis Gavril_Gabriel Gheorghe_George Grigore_Gregory Iacob_Jacob
+			Iancu_John Ieremia_Jeremiah Ilie_Elijah Ioan_John Iorghu_George Iosif_Joseph Iuga Janos_John Ladislau_Vladislav Latcu Laurentiu_Laurence Litovoi Lucian_Lucius Marin_Marinus
+			Mihai_Michael Milos_Milosz Mircea Moise_Moses Nicolaie_Nicholas Petre_Peter Pirvu Radovan Radu Roman_Roman Sas Seneslav Sergiu_Sergius Simion_Simon
+			Stefan_Stephen Stelian Teodor_Theodore Tepes Tibor Tihomir Timotei_Timothy Tudor_Theodore Valentin_Valentin Valeriu_Valerius Vasile_Basil Veaceslav_Vaclav
+			Victor_Victor Vilhelm_William Vintila Vlad
+		}
+		female_names = {
+			Adelina_Adeline Adriana_Adriana Afina Alexandra_Alexandra Alexia Ana_Anna Anastasia_Anastasia Angela_Angela Arina_Irene Christina_Christina Clara_Clara Dana Ecatarina_Catherine
+			Elena_Helen Elisabeta_Elizabeth Emilia_Emily Eufroysina_Euphrosyne Felicia_Felicia Floarea_Flora Iacoba_Jacoba Ioana_Joan Ionela Irina_Irene Iulia_Julia Maria_Maria Monica_Monica
+			Natalia_Natalia Olimpia Paraschiva Petra Roxana Ruxandra Smaranda Sophia_Sophia Stana Stefana_Stephania Stefania_Stephania Teodora_Theodora
+			Tereza_Teresa Vasilica_Basilica Violeta_Yolanda Voica Zina
+			
+		}
+		
+		from_dynasty_prefix = "de "
+		
+		male_patronym = "escu"
+		prefix = no
+		feminist = yes
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
@@ -22,14 +39,27 @@ baldmark_group = {
     }
 
     byala = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { serbsouthslavicgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Aleksii_Alexis Balin Bernardin_Bernard Bertalan_Bartolomeus Bogoris_Boris Boril Bozidar_Theodat Braslav Dan Dionisii_Dionysus Dominik_Dominic Dragoman Dragshan Drzislav Evtimii Frujin German_Germanus Grgur_Gregory Hranimir
+			Ioakim_Joakim Ivan_John Jerolim Kalojan Kocelj Kozma_Cosmas Kresimir Kulin Ljubomir Ljutomisl Marko_Marcus Mihail_Michael Mikica Miroslav_Miroslav Momchil Nikola_Nicholas Ognen Petar_Peter 
+			Prijezda Radislav Radu Sava Sermon Slavac Soimir Stracimir Svetislav Tomislav Trpimir Vasilii_Basil Viseslav Vladislav_Vladislav Vojnomir Zdeslav
+		}
+		female_names = {
+			Aleksandra_Alexandra Aleksandrina Bilyana Bisera Bogdana Bogna Borislava Boyana Dana Desislava Donka Elisaveta_Elizabeth Emiliya_Emily Evdokiya_Eudocia Filipa_Philippa Gergana
+			Hristina_Christina Iskra Iva_Joan Ivana_Joan Ivanka_Joan Ivet Lala Lidiya Lilyana_Lillian Lyudmila_Liudmila Maya Nadejda Nevena Nikolina Penka Rada Radka Raina_Raina Raya Rayna_Raina Rosa_Rosa
+			Rositsa Silva Silviya_Silvia Snezhana Stoyanka Tereza_Teresa Todorka Tsveta_Tsvetanka Tsvetanka_Tsvetanka Vasilka_Basilica Violeta_Yolanda Yana_Joan Yoanan_Joan Yordanka Zhivka
+		}
+		
+		from_dynasty_prefix = "ot "
+		
+		male_patronym = "ov"
+		female_patronym = "ova"
+		prefix = no
+		feminist = yes
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
@@ -42,14 +72,34 @@ baldmark_group = {
     }
 
     szabadok = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { magyargfx westerngfx }
         
-        color = { 0.8 0.2 0.2 }
+	color = { 0.5 0.6 0.3 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+
+		male_names = {
+			Ábel_Abel Ádárn Ágoston_Augustine Álmos Árpád Õdön_Otto Alajos Ambrus_Ambrosius András_Andrew Antal Attila Bálint Béla_Albert Balázs Benedek_Benedict Bernát_Bernard Bertók Bertalan_Bartolomeus Boldizsár_Baltasar Bonuslo
+			Borisz_Boris Csák Csaba Csongor Dénes_Denis Dömötör_Demetrius Dezsõ_Desiderius Domoszló Donát_Donatus Elek Elemér Endre_Andrew Ernõ_Ernest Fulöp_Philip Ferenc_Francis Frigyes_Frederick Gábor_Gabriel Gábriel_Gabriel Gáspár_Caspar Géza Gazsi
+			Gellért_Gerard Gergely_Gregory György_George Gyula Imre István_Stephen Izsák_Isaac Jákob_Jacob János_John József_Joseph Jenõ Kálmán Károly_Charles Konrád_Konrad Kornél_Cornelius Kristóf_Christopher László_Vladislav Lázár_Lazarus Lõrinc_Laurence Lajos_Louis
+			Lampert_Lambert Levente Lukács_Luke Márk_Marcus Márton_Martin Máté_Matthew Mátyás_Matthew Móric_Maurice Mózes_Moses Mihály_Michael Miklós_Nicholas Nándor_Ferdinand Orbán_Urban Oszkár_Oscar Pál_Paul Péter_Peter Sámuel_Samuel Sándor_Alexander Salamon_Solomon Saul Soma
+			Szilveszter_Silvester Tádor_Theodore Tacsony Tamás_Thomas Tibor Tivadar Vazul_Basil Vencel_Vaclav Vilmos_William Zoltán Zsigmond_Sigmund Zsolt 
+		}
+		female_names = {
+			Ágnes_Agnes Éva_Eva Adelaida_Adelaide Agáta_Agatha Amália_Amelia Angyalka_Angela Anikó_Anna Aranka_Aurelia Berta_Bertha Borbála_Barbara Csilla_Csilla Csillag_Csilla Czenzi Dorottya_Dorothy Edit_Edith Emõke Emese Erika Erzsébet_Elizabeth Eszter_Esther
+			Etel Euphemia_Euphemia Gizella_Gisela Györgyi_Georgia Hajnal Hedwig_Hedwig Ibolya_Yolanda Ildikó_Hildegard Illona Irén_Irene Jácinta_Hyacintha Józsa_Josepha Júlia_Julia Jolán Judith_Judith Kamilla_Camilla Katalin_Catherine Kinga_Kunigunde Klára_Clara
+			Konstancia_Constance Krisztina_Christina Kunigunda_Kunigunde Luca_Lucia Mária_Maria Márta_Martha Magdolna_Magdalena Margaréta_Margaret Margit_Margaret Matild_Matilda Natália_Natalia Odola Orsolya_Ursula Panni_Anna Piroska_Priscilla Rózsa_Rosa Sára_Sarah Sarolt
+			Skolasztika_Scholastica Sophia_Sophia Tundér Terezia_Teresa Viola_Yolanda Virág Zoltána Zsófia_Sophia Zsanett_Joan Zsuzsa_Susan
+		}
+		
+		dynasty_name_first = yes
+		
+		from_dynasty_prefix = "a "
+		
+		male_patronym = "fi"
+		prefix = no
+		feminist = yes
+
+		allow_looting = yes
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
@@ -62,14 +112,27 @@ baldmark_group = {
     }
 
     dvala = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { serbsouthslavicgfx }
         
-        color = { 0.8 0.2 0.2 }
+		color = { 0.5 0.3 0.3 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Aldimir Asen Berbat Blaz_Blaise Boleslav Borna Branimir Budimir Kosmin Danilo_Daniel Djordje_George Dmitar_Demetrius Dobroslav Dragija Dragos Dragutin Gavrilo_Gabriel Godimir Goran
+			Grgur_Gregory Ilija_Elijah Ivan_John Josif_Joseph Josip_Joseph Jovan_John Kasjan Konstantin_Constantine Krsto_Christopher Lazar_Lazarus Ljudevit Luka_Luke Marko_Marcus Martin_Martin Matija_Matthew Mihailo_Michael Mihovil Milorad Milutin Mircea Miroslav_Miroslav Mislav Nenad Nikodim_Nicodemus Nikola_Nicholas
+			Ninoslav Petar_Peter Porin Prvoslav Radoslav Rastko Ratomir_Ratimir Roman_Roman Serapion_Seraphin Simeon_Simon Sinisa Slavko Slobodan Stefan_Stephen Teodosije_Theodosius Trajan_Trajan Uros Visarion Vladimir_Vladimir Vladislav_Vladislav Vlastimir
+			Vuk_Lupo Vukan Vukasin Vukoman Zoran Zvonimir
+		}
+		female_names = {
+			Agata_Agatha Barbara_Barbara Branimira Desislava Dubravka Elena_Helen Hicela Jelena Karolina_Caroline Keratza Lovorka Marija_Maria Milka Neda Radica Zdenka Andjela Antonija
+			Bastina Biljana Bistrina Bojana Casna Chasna Dejana Dragana Dragoslava Duga Dusica Gordana Grana Grubana Jagoda Jovana Jovanka Karika
+			Ljubica Luka_Lucia Majka Malina Medeni Meki Milinka Miljana Miriti Mirjana Mudary Mudra Nada Nadanje Namena
+		}
+		
+		from_dynasty_prefix = "od "
+		
+		male_patronym = "ic"
+		prefix = no
+		feminist = yes
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30

@@ -4,12 +4,54 @@ pre_empire_group = {
     breizh = {
         graphical_cultures = { celticgfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 0.3 0.6 0.8 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Adda Adgar_Edgar Adran_Adrian Aeddan_Hugh Alan_Alan Aldwr_Aldroenus Algwyn_Alwin Alisander_Alexander Alured_Alfred Alwyn_Alwin Anarawd
+			Andreas_Andrew Aneurin Anlaff_Olaf Anllech Annwn_Antoninus Argad_Arcadius Arod Arthen_Artemius Arthfael Arthfoddw_Arthbodus Arthwr_Arthur
+			Arthws Arthwys_Artorius Asa Asaph Awst_August Bangar Bedwyr Beli_Beli Berthgwyn_Berhtwine Berthwallt_Berthoald Bleddyn_Bleddyn Bledrig_Bledrig
+			Bleiddud_Bleiddud Branwaladr_Branwaladr Bride_Bride Briog_Briog Brochfael_Brogmaglus Brwt_Brutus Brwyn Brychan_Brychan Brân_Bran Cadell Cadeyrn
+			Cadfael Cadfan Cadog_Cadog Cadw_Cadw Cadwal Cadwaladr_Cadwaladr Cadwallon_Cadwallon Cadwared_Cadwared Cadwgan Cadwr_Cadwr Cai_Gaius Caid Cain
+			Caradog_Caradog Casnar Caswallon Cawdaf Cedig_Caedicius Cedwyn Ceneu Ceredig_Caratacus Clydog_Louis Coel Corentin_Corentin Cuhelyn
+			Custennin_Constantine Cwlfyn_Culmin Cwrig_Cyriacus Cydifor Cydrych Cynan_Conan Cynddelw_Cynddelw Cyndyddan_Cyndyddan Cynddylan Cyndeyrn_Kentigern
+			Cynfael_Cynfael Cynfarch_Cynfarch Cynfawr Cynfeddw Cynfelyn_Cynfelyn Cynfran Cynfyn Cyngar_Cyngar Cyngen_Cyngen Cynwallon_Cynwallon Cynwared
+			Cynwrig Cynwyd Cynyr Cysteint_Constans Dafydd_David Deheuwant Deiniol_Daniel Dewi_David Dogfael Drystan_Tristan Dumnagual Dwyfan_Damian
+			Dyfnarth_Donyarth Dyfnwal_Donald Dyfnwallon_Dyfnwallon Dynod_Donatus Dywel_Dywel Edern_Eternus Ednyfed_Ednyfed Ednywain Edryd_Ailred Edwyn_Edwin
+			Edylfred_Aethelfred Einion Elfin_Alwin Elidyr Elis Elisedd Elud Elystan_Alstan Emrys_Ambrosius Enfidaig_Enfidaig Erb_Urban Erclwf_Heracles
+			Eudaf_Octavius Ewyas Ffernfael_Ffernfael Ffilip_Philip Ffriog_Friog Ffwdwr Fragan_Fragan Ffransis_Fransis Fychan Fyrsil Gamon Garmon_Germanus
+			Geraint_Gerontius Gerallt_Gerald Glwyddien Glywys_Claudius Godwyn_Godwin Goronwy Gronw Gruffydd_Ruffinus Grygor_Gregory Guret Gwalchmai_Gavin
+			Gwen Gwenwynwyn Gwerstan_Werestan Gwerthefyr_Vortimer Gwerthern_Vortigern Gwydol_Vitalis Gwydolin_Vitalinus Gwyn_Finn Gwidyr Gwilym_William
+			Gwrfawr_Gwrfawr Gwrfoddw Gwrgant_Fergus Gwrgeneu_Gwrgeneu Gwrgi_Gwrgi Gwriad_Viriathius Harri_Henry Herewallt_Hereweald Huw_Hugh Hywel_Hywel
+			Iago_Jacob Ivor_Ivar Idnerth_Idnerth Idwal_Idwal Idwallon_Idwallon Iestyn_Justin Ieuan_John Ifor_Ivar Io Ioan_John Iolo Iorwerth Ithel_Ithel
+			Lles_Lucius Llew_Leon Llyr Llywarch_Llywarch Llywelyn Macsen_Maximos Madog_Matad Mael_Mael Maelcwn_Malcolm Maelgwn_Melgwn Maenyrch March_Marcus
+			Maredudd_Murdoch Math_Matthew Mawgan_Mawgan Meilyr Meirchion_Marcianus Meiriadog_Meriadoc Meirion_Marianus Merfyn_Merfyn Meurig_Maurice
+			Mihangel_Michael Morfarch_Morfarch Morgan_Morgan Morien_Morgen Morydd Mwyn_Mungo Myrddin_Martin Neithon_Nathan Nowy_Nowy Nynniaw Oswallt_Oswald
+			Owain_Eugene Oucydd_Eochaid Padern Padrig_Patrick Pandoff Pasgen_Pascentius Padarn_Paternus Pawl_Paul Pedr_Peter Peredyr Publig Pyr
+			Rheinallt_Reinhold Rhicert_Richard Rhigeneu_Ricenus Rhirid Rhiwal_Riwal Rhiwallon_Rhiwallon Rhobert_Robert Rhodri_Roderick Rhufon_Roman
+			Rhun_Rucenus Rhydderch_Roderick Rhydog Rhys Riaged_Riacet Richwin_Richwin Sandde_Sanctus Sawyl_Samuel Seferus_Severin Seisyll_Cecil Selyf_Solomon
+			Senyllt Serigi_Sergius Sieffre_Godfrey Sion Sior_George Siwauna Steffen_Stephen Stinian_Justinanius Sulien_Julian Taliesin_Telesinus Tegonwy
+			Tegwyd_Tadg Teilo Teithfalch Teudebur Tewdos_Theodosius Tewdrig_Thierry Tewdwr_Theodore Tomos_Thomas Trahaearn Tudur Tudwal_Tuathal
+			Tudwallon_Tudwallon Tydy Tyfoedd Tysilio Urien_Urbgenius Uthyr_Victor Ynyr_Honorius Ysfael
+		}
+		female_names = {
+			Addiena_Addiena Aelwyd_Aelwyd Aeronwen Aeronwy Afrella_Abrelda Alys_Alice Angharad Annes_Anna Annest_Agnes Annwyl Anowed Arddyn Arianrhod
+			Blodwen Bronwen_Bronwen Catrin_Catherine Ceindrych_Cagintria Ceridwen Cerie Cerys Cicely_Cecilia Clarisant Creirwy_Creirwy Cristin_Christina Danhadlwen
+			Delyth Denis_Denise Dwynwen Dwywai Dyddgu Efa_Eva Effros_Euphrasia Efrddyl_Aurelia Efyrddyl_Aurelia Eiliwedd Elaine_Elaine Elen_Helen Eleri_Hilaria
+			Elinion Elinor_Eleanor Ellyn Enid Essyllt_Hersilia Euronwy Ffelis_Felicia Ffion Fflur_Flora Ffraid_Brigit Glynys Gwen_Gwen Gwenasedd Gwenfrewi_Winifred Gwenhwyfach
+			Gwenhwyfar Gwenllian Gwenwyn Gwerfyl_Gwerfyl Gwladys_Claudia Haer Hawys_Hawise Heledd Hellawes Heulwen Hunydd Hywela Ilud Isabel_Elizabeth
+			Llear_Clara Llecci Lleigy Lleuca_Lucia Lowry Mabyn Maches Madrun_Matrona Maelrys Mair_Maria Mali Mallt Marared_Margaret Marchell_Marcella Margred_Margaret
+			Marwenna Mawd_Matilda Melisant_Melisende Morganna_Morganna Morien_Murron Myfanwy Nest_Agnes Nesta_Agnes Newlyna_Neulenna Non_Nonna
+			Olwen_Olwen Onbrawst Owena_Eugenia Prawst Ragnell_Ragnhild Rhiaindrech_Rioantdrec Rhiainfelt_Regina Rhiannon_Rhiannon Rhonwen Sannant Sara_Sarah
+			Senena Sibyl_Sibylla Sioned_Joan Siwan Siân_Joan Susanna_Susan Tangwystl_Tancostyla Tegla_Thecla Ysbail_Elizabeth Ystradwel
+		}
+		
+		dukes_called_kings = yes
+		feminist = yes
+		
+		from_dynasty_prefix = "de "
+		male_patronym = "ap "
+		female_patronym = "ferch "
+		prefix = yes
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
@@ -22,14 +64,32 @@ pre_empire_group = {
     }
 
     wruclav = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { westernslavicgfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 0.4 0.6 0.55 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Aleksander_Alexander Andrzej_Andrew Bartosz_Bartolomeus Bezprym Boguchwal Bogumil Boleslaw_Boleslav Boncza_Bonifacius Borzyslaw Bozydar_Theodat Borzywoj_Borijov Budziwuj Czcibor_Ctibor Czyrzniech
+			Dalimir Daniel_Daniel Dobieslaw Dobrogost Dobromir Doman Domawuj Dytryk_Thierry Eustachy_Eustace Gaudenty Gierolt_Gerald Gniewomir Gniewosz Gosciwuj Goszczon Henryk_Henry Imram
+			Izbor Józef_Joseph Jacek_Hyacinth Jaksa_Jacob Jakub_Jacob Jakusz Jan_John Janislaw_John Janko_John Janusz_John Jaroslaw_Jaroslav Jerzy_George Karol_Charles Kazimierz_Casimir Konrad_Konrad Krystyn_Christian Krzeslaw Lambert_Lambert Leszek
+			Maciej_Matthew Macko_Matthew Malowuj Marcin_Martin Maslaw Mateusz_Matthew Mieszko Mikolaj_Nicholas Milobrat Milosz_Milosz Miroslaw_Miroslav Msciwoj Mszczuj Nadbor Niezamysl Odon_Otto Pawel_Paul Pelka
+			Piotr_Peter Piskla Prendota Przemyslaw_Premysl Przybor Sambor Sedziej Sedzimir Sieciech Siemomysl Siemowit Skarbimir Snowid Spytko Stanislaw_Stanislav
+			Stefan_Stephen Stoigniew Strasz Sulislaw Sulistryj Swietopelk_Svatopluk Swietoslaw_Sviatoslav Szczesny_Felix Tomasz_Thomas Trojden Twardomir Usciech Waclaw_Vaclav Wanko_Vaclav Wawrzyniec_Laurence
+			Wielislaw Wieslaw Wincenty_Vincent Wit_Guy Witosz Wladyslaw_Vladislav Wojciech_Vojtech Wojuta Wszebor_Vsebor Zbigniew_Zbynek Zbyszko_Zbynek Zegota_Ignatius Zelibrat
+			Zygmunt_Sigmund
+		}
+		female_names = {
+			Adelajda Adleta Agnieszka_Agnes Aldona Anastazja_Anastasia Anna_Anna Beata Bozena Danuta Dobrawa Dobronega Elzbieta_Elizabeth Eufemia_Euphemia Eufrozyna_Euphrosyne Gertruda_Gertrude Grzymislawa
+			Helena_Helen Jadwiga_Hedwig Jolanta_Yolanda Judyta_Judith Katarzyna_Catherine Kazimiera Kenna Kinga_Kunigunde Konstancja_Constance Krystyna_Christina Kunegunda_Kunigunde Lucja_Lucia Ludmila_Liudmila Magdalena_Magdalena Malgorzata Maria_Maria
+			Matylda_Matilda Milena Nadzieja Nawoja Pechna Rycheza_Richeza Ryksa Salomea Samboja Scholastyka_Scholastica Smiechna Stanislawa Swietoslawa Wislawa Wojslawa_Vojslava
+			Wolislawa Wszebora Wszemila Zofia_Sophia Zwinislawa
+		}
+		from_dynasty_prefix = "of "
+		
+		feminist = yes
+		#male_patronym = "owski"
+		#female_patronym = "owska"
+		#prefix = no
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
@@ -42,14 +102,22 @@ pre_empire_group = {
     }
 
     zvorun = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { ugricgfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 0.56 0.55 0.2 }
         
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		male_names = {
+			Algirdas Antanas Antavas Aras Arunas Azuolas Budrys Bukantas Butavas Butigeidis Butvydas Daugvilas Daumantas Dausprungas Dravenis Erdenis Erdvilas Gedigaudas
+			Gediminas Gedivilas Gintaras Gintautas Girdenis Irmantas Jaunutis Jogaila Jovirdas Kantibutas Karijotas Kesgaila Kestutis Korigaila Korybutas
+			Lasukas Lingvenis Liudas Lubartas Lutuveras Merkelis Mindaugas Minigaila Mantvydas Movkoldas Narimantas Povilas Pukuveras Rimantas 
+			Rimgaila Rimvydas Ringaudas Sarunas Skirgaila Songaila Svarnas Svitrigaila Tarvydas Tovtivilas Traidenis Treniotas Vainius Vaisvilkas Valimantas
+			Vidmantas Vingoldas Virmantas Visvaldis Vizgirdas Vykintas Vytautas Vytenis Zivinbudas Zygimantas 
+		}
+		female_names = {
+			Aldona Anele Audra Ausra Birute Dannila Danute Evalda Gaudimante Giedre Gintare Jevna Kenna Laima Mikova Roze Saule Svajone Vida
+		}
+		feminist = yes
+		from_dynasty_prefix = "iš "
 
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
