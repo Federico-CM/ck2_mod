@@ -1,0 +1,6 @@
+title = c_calemberg
+max_settlements = 2
+culture = wirtem
+religion = unionism
+b_calemberg = tribal
+b_calemberg2 = temple

@@ -1123,7 +1123,7 @@ province;red;green;blue;x;x
 1122;136;131;144;novolgar;x
 1123;147;157;135;sepulvosh;x
 1124;164;131;121;voskresensk;x
-1125;199;239;228;ashsea;x
+1125;127;151;120;calemberg;x
 1126;204;216;229;blacktide;x
 1127;205;206;220;starfall;x
 1128;205;209;215;frostmere;x
@@ -1270,4 +1270,4 @@ province;red;green;blue;x;x
 1269;194;212;226;coldveil;x
 1270;190;229;223;starveil;x
 1271;167;221;194;ashveil;x
-
+1272;199;239;228;ashsea;x

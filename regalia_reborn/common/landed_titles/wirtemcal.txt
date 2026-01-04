@@ -207,6 +207,21 @@ e_wirtemcal = {
                 title = count
                 title_female = count
             }
+            c_calemberg = {
+                b_calemberg = {
+                    title = baron
+                    title_female = baron
+                }
+                b_calemberg2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 127 151 120 }
+                color2 = { 136 174 125 }
+                culture = wirtem
+                title = count
+                title_female = count
+            }
             c_plauenmeer = {
                 b_plauenmeer = {
                     title = baron
