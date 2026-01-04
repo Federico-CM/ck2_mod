@@ -487,6 +487,7 @@ e_anglia = {
                 color2 = { 135 128 152 }
 
 		holy_site = draconism
+		holy_site = warda
 
                 culture = anglian
                 title = count

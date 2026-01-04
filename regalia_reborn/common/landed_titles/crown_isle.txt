@@ -23,6 +23,7 @@ e_regalia = {
                 color2 = { 128 73 124 }
 
 		holy_site = draconism
+		holy_site = warda
 
                 culture = ceaerden
                 title = count

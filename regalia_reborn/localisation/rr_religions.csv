@@ -10,6 +10,9 @@ evintarian;Evintarian;;;;;;;;;;;;;x
 evintarian_adj;Evintarian;;;;;;;;;;;;;x
 amended_DESC;Also known as Guided Unionism or Supremoclast Unionism, stems from a late Schism around 250 AC where several sects of Unionism diverged on ideological grounds. This included the Dogartan orders who disagreed with the wealth of the Unionist church and advocated asceticism, the Vultarin church who turned against the indisputable divine right of nobility and priesthood, and the Anglian guided church which favored lay priesthood. These smaller church bodies united in their dissent to the role of clerical and feudal leadership as it was, and was violently surpressed for a short period of time until the Supremoclast treaties allowed it to exist in relative peace in Vultaro.;;;;;;;;;;;;;x
 amended;Amended;;;;;;;;;;;;;x
+warda_DESC;The Breizh people once held a pagan faith that worshiped beings known as the Warda, who were feathered angelic beings that laid the foundations of their culture. Many of these Warda have since joined the Unionist fold under their leader Caan, with only the Justice Warda Tarianog dissenting from this decision. The Breizh still revere the Warda and hold to a particular folk interpretation of Unionism that favors their old ways, including reverence for knights and heroes along with an embrace of magic.;;;;;;;;;;;;;x
+warda_adj;Warda;;;;;;;;;;;;;x
+warda;Warda;;;;;;;;;;;;;x
 amended_adj;Amended;;;;;;;;;;;;;x
 THE_CREED;The Creed;;;;;;;;;;;;;x
 CELATE;Celate;;;;;;;;;;;;;x
@@ -17,6 +20,10 @@ GOD_THE_EVERWATCHER;The Everwatcher;;;;;;;;;;;;;x
 GOD_THEOMAR;Theomar;;;;;;;;;;;;;x
 GOD_NESS;Ness;;;;;;;;;;;;;x
 GOD_BELIALUS;Belialus;;;;;;;;;;;;;x
+GOD_MORGAN;Morgan;;;;;;;;;;;;;x
+GOD_NOOR;Noor;;;;;;;;;;;;;x
+GOD_FINELL;Finell;;;;;;;;;;;;;x
+GOD_THE_WARDA;The Warda;;;;;;;;;;;;;x
 GOD_MILOVAR;Milovar;;;;;;;;;;;;;x
 GOD_KYNOVAR;Kynovar;;;;;;;;;;;;;x
 GOD_GRACE;Grace;;;;;;;;;;;;;x

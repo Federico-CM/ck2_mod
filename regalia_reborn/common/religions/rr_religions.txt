@@ -123,7 +123,7 @@ unionism_group = {
 		graphical_culture = westerngfx
 		icon = 7
 
-		color = { 255 0 255 }
+		color = { 255 127 0 }
 
 		crusade_name = CRUSADE
 		scripture_name = THE_CREED
@@ -132,7 +132,39 @@ unionism_group = {
 		high_god_name = GOD_THE_EVERWATCHER
 
 		god_names = {
-			GOD_THEOMAR GOD_NESS GOD_BELIALUS GOD_MILOVAR GOD_KYNOVAR GOD_ALLEST GOD_CAAN GOD_ELIA GOD_NOLVEN GOD_JUVIN GOD_MENDES GOD_AL_ASIR GOD_CRYSEON GOD_NIMOR GOD_ZALINA
+			GOD_THEOMAR GOD_NESS GOD_GRACE GOD_MORGAN GOD_NOOR GOD_FINELL GOD_ALLEST GOD_CAAN GOD_ELIA GOD_NOLVEN GOD_JUVIN GOD_MENDES GOD_AL_ASIR GOD_CRYSEON GOD_NIMOR GOD_ZALINA
+		}
+
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+
+		priests_can_marry = no
+		allow_rivermovement = no
+		female_temple_holders = no
+		investiture = no
+		can_excommunicate = no
+		can_grant_divorce = no
+		can_grant_claim = no
+		priests_can_inherit = no
+
+		dynamic_cult = no
+		secret_religion = no
+	}
+	warda = { #Breizh flavored Unionism
+		graphical_culture = westerngfx
+		icon = 7
+
+		color = { 0 71 171 }
+
+		crusade_name = CRUSADE
+		scripture_name = THE_CREED
+		priest_title = CELATE
+
+		high_god_name = GOD_THE_EVERWATCHER
+
+		god_names = {
+			GOD_THEOMAR GOD_THE_WARDA GOD_CAAN GOD_NESS GOD_GRACE GOD_ALLEST GOD_ELIA GOD_NOLVEN GOD_JUVIN GOD_MENDES GOD_AL_ASIR GOD_CRYSEON GOD_NIMOR GOD_ZALINA
 		}
 
 		evil_god_names = {

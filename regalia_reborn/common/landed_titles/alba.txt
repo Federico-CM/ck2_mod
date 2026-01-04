@@ -119,6 +119,9 @@ e_alba = {
                 }
                 color = { 159 141 150 }
                 color2 = { 159 141 150 }
+
+		holy_site = warda
+
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -444,6 +447,9 @@ e_alba = {
                 }
                 color = { 174 126 143 }
                 color2 = { 174 126 143 }
+
+		holy_site = warda
+
                 culture = breizh
                 title = count
                 title_female = count

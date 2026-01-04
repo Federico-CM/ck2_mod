@@ -36,6 +36,9 @@ e_kroonstaat = {
                 }
                 color = { 119 153 179 }
                 color2 = { 119 153 179 }
+
+		holy_site = warda
+
                 culture = anglian
                 title = count
                 title_female = count

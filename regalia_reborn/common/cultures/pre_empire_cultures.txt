@@ -2,7 +2,7 @@ pre_empire_group = {
 	graphical_cultures = { westerngfx }
 
     breizh = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { celticgfx }
         
         color = { 0.8 0.2 0.2 }
         
