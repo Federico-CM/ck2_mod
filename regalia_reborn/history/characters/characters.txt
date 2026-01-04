@@ -2013,18 +2013,18 @@
 }
 
 138 = {
-	name = "Alexander"
-	culture = anglian
-	religion = unionism
-	257.1.1 = {
-		birth = 257.1.1
+	name = "Tridrekr"
+	culture = velheim
+	religion = fornoss
+	223.1.1 = {
+		birth = 223.1.1
 	}
-	357.1.1 = {
-		death = 357.1.1
+	389.1.1 = {
+		death = 389.1.1
 	}
-	dynasty = 1
-	mother = 107
-	father = 106
+	dynasty = 15
+	mother = 2
+	father = 3
 }
 
 139 = {
@@ -12182,7 +12182,7 @@
 
 828 = {
 	name = "Emmeline"
-	culture = sevath
+	culture = selvath
 	religion = evintarian
 	female = yes
 	252.1.1 = {
@@ -15111,7 +15111,7 @@
 		death = 387.1.1
 	}
 	dynasty = 215
-    mother = 1040
+    father = 1040
 }
 
 1042 = {
