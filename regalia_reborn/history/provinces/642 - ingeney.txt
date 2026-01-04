@@ -1,6 +1,6 @@
 title = c_ingeney
 max_settlements = 2
 culture = breizh
-religion = fornoss
+religion = warda
 b_ingeney = tribal
 b_ingeney2 = temple

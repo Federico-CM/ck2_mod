@@ -1,6 +1,6 @@
 title = c_machyntyr
 max_settlements = 2
 culture = breizh
-religion = unionism
+religion = warda
 b_machyntyr = tribal
 b_machyntyr2 = temple

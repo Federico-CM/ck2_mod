@@ -1,6 +1,6 @@
 title = c_alstyr
 max_settlements = 2
 culture = breizh
-religion = unionism
+religion = warda
 b_alstyr = tribal
 b_alstyr2 = temple

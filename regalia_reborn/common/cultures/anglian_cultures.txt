@@ -4,7 +4,7 @@ anglian_group = {
     anglian = {
         graphical_cultures = { germangfx saxongfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 0.96 0.39 0.08 }
         
 		male_names = {
 			Adriaen Albrecht_Albert Alwin Ambroos Antoon Arnold_Arnold Arnulf_Arnulf Balderik Barend Barnaerd_Bernard Bartolomeus_Bartolomeus

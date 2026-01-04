@@ -122,7 +122,7 @@ gallovian_group = {
     aontaithe = {
         graphical_cultures = { celticgfx }
         
-        color = { 0.3 0.8 0.8 }
+        color = { 38 191 114 }
         
 		male_names = {
 			Aaron_Aaron Abbán Abner_Abner Abél_Abel Adomnán Áed_Hugh Áedgen Áeducán Áedán_Hugh Áengus_Angus Affiath Ailbe Ailbrend Ailbrenn Ailchú Aildobur Ailgel Áilgenán Ailgus

@@ -1,6 +1,6 @@
 title = c_gaerwen
 max_settlements = 2
 culture = breizh
-religion = unionism
+religion = warda
 b_gaerwen = tribal
 b_gaerwen2 = temple

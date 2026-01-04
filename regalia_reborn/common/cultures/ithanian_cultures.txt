@@ -4,7 +4,7 @@ ithanian_group = {
     ithanian = {
         graphical_cultures = { frankishgfx }
         
-        color = { 0.8 0.8 0.2 }
+        color = { 218 112 214 }
         
 		male_names = {
 			Édouard_Edward Érrard Étienne_Stephen Adalbert_Albert Adémar_Adémar Adrien_Adrian Aimery_Aymeric Alain_Alan Aldebert_Albert Aldéric Alphonse_Alphonse Amaury_Amalric
@@ -44,7 +44,7 @@ ithanian_group = {
     burdigala = {
         graphical_cultures = { frankishgfx }
         
-        color = { 0.9 0.9 0.4 }
+        color = { 128 0 32 }
         
 		male_names = { 
 			Adhémar Acfred_Alfred Aimeric_Aymeric Alberic_Alberic Albert_Albert Aldebert_Albert Alias_Elijah Anfòs_Alphonse Amalric_Amalric Amaneus Ancelmes André_Andrew Archambaut_Archibald Arnaut_Arnold Artau_Artal Aton Audoïn Aymar_Aymeric Aymeric_Aymeric Aznar_Aznar

@@ -41,7 +41,7 @@ baldmark_group = {
     byala = {
         graphical_cultures = { serbsouthslavicgfx }
         
-        color = { 0.8 0.2 0.2 }
+        color = { 12 51 127 }
         
 		male_names = {
 			Aleksii_Alexis Balin Bernardin_Bernard Bertalan_Bartolomeus Bogoris_Boris Boril Bozidar_Theodat Braslav Dan Dionisii_Dionysus Dominik_Dominic Dragoman Dragshan Drzislav Evtimii Frujin German_Germanus Grgur_Gregory Hranimir
@@ -114,7 +114,7 @@ baldmark_group = {
     dvala = {
         graphical_cultures = { serbsouthslavicgfx }
         
-		color = { 0.5 0.3 0.3 }
+		color = { 0.6 0.3 0.6 }
         
 		male_names = {
 			Aldimir Asen Berbat Blaz_Blaise Boleslav Borna Branimir Budimir Kosmin Danilo_Daniel Djordje_George Dmitar_Demetrius Dobroslav Dragija Dragos Dragutin Gavrilo_Gabriel Godimir Goran
