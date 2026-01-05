@@ -1,6 +1,6 @@
 title = c_vicii
 max_settlements = 2
 culture = cantaluna
-religion = unionism
+religion = amended
 b_vicii = tribal
 b_vicii2 = temple

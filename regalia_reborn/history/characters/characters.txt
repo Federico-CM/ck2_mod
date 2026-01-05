@@ -5166,9 +5166,9 @@
 }
 
 352 = {
-	name = "Riccaro"
+	name = "Raffaello"
 	culture = cantaluna
-	religion = unionism
+	religion = amended
 	288.1.1 = {
 		birth = 288.1.1
 	}

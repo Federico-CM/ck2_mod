@@ -1,6 +1,6 @@
 title = c_campa_costiari
 max_settlements = 2
 culture = cantaluna
-religion = unionism
+religion = amended
 b_campa_costiari = tribal
 b_campa_costiari2 = temple

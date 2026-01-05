@@ -1,6 +1,6 @@
 title = c_campa_silacci
 max_settlements = 2
 culture = cantaluna
-religion = unionism
+religion = amended
 b_campa_silacci = tribal
 b_campa_silacci2 = temple

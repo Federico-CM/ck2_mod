@@ -1,6 +1,6 @@
 title = c_isla
 max_settlements = 2
 culture = cantaluna
-religion = unionism
+religion = amended
 b_isla = tribal
 b_isla2 = temple
