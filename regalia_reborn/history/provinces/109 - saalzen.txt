@@ -1,6 +1,6 @@
 title = c_saalzen
 max_settlements = 2
-culture = leutz_vixe
+culture = zemevcel
 religion = unionism
 b_saalzen = tribal
 b_saalzen2 = temple

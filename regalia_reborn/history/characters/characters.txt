@@ -9173,7 +9173,7 @@
 623 = {
 	name = "Aurora"
 	culture = krainivaya
-	religion = evintarian
+	religion = unionism
 	female = yes
 	297.1.1 = {
 		birth = 297.1.1
@@ -13166,7 +13166,7 @@
 895 = {
 	name = "Charles"
 	culture = krainivaya
-	religion = evintarian
+	religion = unionism
 	288.1.1 = {
 		birth = 288.1.1
 	}
@@ -13179,7 +13179,7 @@
 896 = {
 	name = "Nadiya"
 	culture = krainivaya
-	religion = evintarian
+	religion = unionism
 	female = yes
 	290.1.1 = {
 		birth = 290.1.1
@@ -13231,8 +13231,8 @@
 
 900 = {
 	name = "Suvitril"
-	culture = krainivaya
-	religion = evintarian
+	culture = suvial
+	religion = estelley
 	female = yes
 	253.1.1 = {
 		birth = 253.1.1
@@ -13751,7 +13751,7 @@
 939 = {
 	name = "Oleg"
 	culture = krainivaya
-	religion = evintarian
+	religion = unionism
 	229.1.1 = {
 		birth = 229.1.1
 	}
@@ -14349,7 +14349,7 @@
 985 = {
 	name = "Taras"
 	culture = krainivaya
-	religion = evintarian
+	religion = unionism
 	230.1.1 = {
 		birth = 230.1.1
 	}
@@ -14427,7 +14427,7 @@
 991 = {
 	name = "Mykola"
 	culture = krainivaya
-	religion = evintarian
+	religion = unionism
 	227.1.1 = {
 		birth = 227.1.1
 	}
