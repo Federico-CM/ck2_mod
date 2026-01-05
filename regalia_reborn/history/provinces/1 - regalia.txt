@@ -1,6 +1,6 @@
 title = c_regalia
 max_settlements = 2
-culture = cearden
+culture = regal
 religion = unionism
 b_regalia = tribal
 b_regalia2 = temple
