@@ -2641,8 +2641,8 @@
 	229.1.1 = {
 		birth = 229.1.1
 	}
-	286.1.1 = {
-		death = 286.1.1
+	329.1.1 = {
+		death = 329.1.1
 	}
 	dynasty = 34
 	mother = 178
@@ -2657,8 +2657,8 @@
 	231.1.1 = {
 		birth = 231.1.1
 	}
-	276.1.1 = {
-		death = 276.1.1
+	331.1.1 = {
+		death = 331.1.1
 	}
 	dynasty = 34
 	mother = 178
@@ -2673,8 +2673,8 @@
 	234.1.1 = {
 		birth = 234.1.1
 	}
-	288.1.1 = {
-		death = 288.1.1
+	334.1.1 = {
+		death = 334.1.1
 	}
 	dynasty = 34
 	mother = 178
@@ -4175,7 +4175,7 @@
 		birth = 135.1.1
 	}
 	194.1.1 = {
-		death = 194.1.1
+		death = 174.1.1
 	}
 	dynasty = 23
 	father = 280
@@ -4207,6 +4207,7 @@
 		death = 236.1.1
 	}
 	dynasty = 23
+	father = 288
 }
 
 286 = {
@@ -4224,44 +4225,46 @@
 }
 
 287 = {
-	name = "Handorien"
+	name = "Eadric"
 	culture = ithanian
 	religion = unionism
-	131.1.1 = {
-		birth = 131.1.1
+	65.1.1 = {
+		birth = 65.1.1
 	}
-	227.1.1 = {
-		death = 227.1.1
+	110.1.1 = {
+		death = 110.1.1
 	}
 	dynasty = 23
+	father = 272
 }
 
 288 = {
-	name = "Handorien"
+	name = "Cenric"
 	culture = ithanian
 	religion = unionism
-	148.1.1 = {
-		birth = 148.1.1
+	95.1.1 = {
+		birth = 95.1.1
 	}
-	240.1.1 = {
-		death = 240.1.1
+	172.1.1 = {
+		death = 172.1.1
 	}
 	dynasty = 23
 	father = 287
+	add_trait="lustful"
 }
 
 289 = {
 	name = "Allestrain"
 	culture = ithanian
 	religion = unionism
-	168.1.1 = {
-		birth = 168.1.1
+	173.1.1 = {
+		birth = 173.1.1
 	}
 	255.1.1 = {
 		death = 255.1.1
 	}
 	dynasty = 23
-	father = 288
+	father = 282
 }
 
 290 = {
@@ -4275,7 +4278,7 @@
 		death = 269.1.1
 	}
 	dynasty = 23
-	father = 289
+	father = 299
 }
 
 291 = {
@@ -4324,8 +4327,8 @@
 	name = "Emerite"
 	culture = ithanian
 	religion = unionism
-	184.1.1 = {
-		birth = 184.1.1
+	186.1.1 = {
+		birth = 186.1.1
 	}
 	220.1.1 = {
 		death = 220.1.1
@@ -4338,8 +4341,8 @@
 	name = "Rollo"
 	culture = ithanian
 	religion = unionism
-	200.1.1 = {
-		birth = 200.1.1
+	202.1.1 = {
+		birth = 202.1.1
 	}
 	231.1.1 = {
 		death = 231.1.1
@@ -4381,14 +4384,15 @@
 	name = "Handorien"
 	culture = ithanian
 	religion = unionism
-	146.1.1 = {
-		birth = 146.1.1
+	141.1.1 = {
+		birth = 141.1.1
 	}
-	208.1.1 = {
-		death = 208.1.1
+	227.1.1 = {
+		death = 227.1.1
 	}
 	dynasty = 23
-	father = 281
+	father = 300
+	add_trait="lunatic"
 }
 
 299 = {
@@ -4409,41 +4413,43 @@
 	name = "Filipe"
 	culture = ithanian
 	religion = unionism
-	146.1.1 = {
-		birth = 146.1.1
+	126.1.1 = {
+		birth = 126.1.1
 	}
 	220.1.1 = {
 		death = 220.1.1
 	}
 	dynasty = 23
+	father = 288
 }
 
 301 = {
 	name = "Handorien"
 	culture = ithanian
 	religion = unionism
-	175.1.1 = {
-		birth = 175.1.1
+	147.1.1 = {
+		birth = 147.1.1
 	}
-	248.1.1 = {
-		death = 248.1.1
+	219.1.1 = {
+		death = 219.1.1
 	}
 	dynasty = 23
 	father = 300
 }
 
 302 = {
-	name = "Justinian"
-	culture = ithanian
-	religion = unionism
-	200.1.1 = {
-		birth = 200.1.1
+	name = "Esmedara"
+	culture = solvaan
+	religion = estelley
+	female = yes
+	263.1.1 = {
+		birth = 263.1.1
 	}
-	224.1.1 = {
-		death = 224.1.1
+	363.1.1 = {
+		death = 363.1.1
 	}
-	dynasty = 23
-	father = 301
+	dynasty = 34
+	mother = 180
 }
 
 303 = {
@@ -5166,9 +5172,9 @@
 }
 
 352 = {
-	name = "Raffaello"
+	name = "Riccaro"
 	culture = cantaluna
-	religion = amended
+	religion = unionism
 	288.1.1 = {
 		birth = 288.1.1
 	}
@@ -11682,8 +11688,8 @@
 
 794 = {
 	name = "Nadia"
-	culture = solvaan
-	religion = estelley
+	culture = ithanian
+	religion = unionism
 	female = yes
 	295.1.1 = {
 		birth = 295.1.1
@@ -15225,5 +15231,63 @@
 	}
 	dynasty = 103
 	father = 1047
+}
+
+1050 = {
+	name = "Sil"
+	culture = solvaan
+	religion = unionism
+	253.1.1 = {
+		birth = 253.1.1
+	}
+	353.1.1 = {
+		death = 353.1.1
+	}
+	dynasty = 34
+	mother = 180
+}
+
+1051 = {
+	name = "Sil"
+	culture = solvaan
+	religion = unionism
+	275.1.1 = {
+		birth = 275.1.1
+	}
+	375.1.1 = {
+		death = 375.1.1
+	}
+	dynasty = 34
+	mother = 1050
+}
+
+1052 = {
+	name = "Samila"
+	culture = solvaan
+	religion = unionism
+	female = yes
+	301.1.1 = {
+		birth = 301.1.1
+	}
+	401.1.1 = {
+		death = 401.1.1
+	}
+	dynasty = 34
+	mother = 1051
+}
+
+1053 = {
+	name = "Iarina"
+	culture = solvaan
+	religion = unionism
+	female = yes
+	266.1.1 = {
+		birth = 266.1.1
+	}
+	366.1.1 = {
+		death = 366.1.1
+	}
+	dynasty = 34
+	mother = 181
 }
 
