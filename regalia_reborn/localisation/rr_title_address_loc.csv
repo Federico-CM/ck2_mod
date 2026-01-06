@@ -1,0 +1,10 @@
+king;Grand Duke;;;;;;;;;;;;;x
+king_female;Grand Duchess;;;;;;;;;;;;;x
+kingdom_of;Grand Duchy of;;;;;;;;;;;;;x
+emperor;Prince;;;;;;;;;;;;;x
+emperor_female;Princess;;;;;;;;;;;;;x
+empire_of;Principality of;;;;;;;;;;;;;x
+
+## Specific Addresses ##
+REGALIAN_EMPEROR;Emperor;;;;;;;;;;;;;x
+REGALIAN_EMPRESS;Empress;;;;;;;;;;;;;x

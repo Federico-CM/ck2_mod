@@ -5,6 +5,9 @@ e_regalian_empire = {
 
 	capital = 1 #Regalia
 
+	title = "REGALIAN_EMPEROR"
+	title_female = "REGALIAN_EMPRESS"
+
 	culture = regal
 	short_name = yes
 

@@ -1,0 +1,88 @@
+5.1.1 = {
+	holder = 269 # Theomar the Prophet
+}
+67.1.1 = {
+	holder = 270 # Luenmar I
+}
+70.1.1 = {
+	holder = 272 # Theomar II
+}
+79.1.1 = {
+	holder = 271 # Luenmara II
+}
+85.1.1 = {
+	holder = 273 # Hendromar the Pious
+}
+96.1.1 = {
+	holder = 277 # Bartomar I
+}
+96.6.1 = {
+	holder = 276 # Carvomar I
+}
+97.6.1 = {
+	holder = 275 # Maxella I
+}
+99.1.1 = {
+	holder = 274 # Luenmara III
+}
+112.1.1 = {
+	holder = 279 # Justomara I
+}
+114.1.1 = {
+	holder = 278 # Hendromar II
+}
+129.1.1 = {
+	holder = 280 # Justomar II aka Juvin the Sage
+}
+158.1.1 = {
+	holder = 283 # Luenmar IV
+}
+166.1.1 = {
+	holder = 281 # Allamara I the Lawmaker
+}
+180.1.1 = {
+	holder = 282 # Hendromar III
+}
+195.1.1 = {
+	holder = 289 # Allomar I aka Allest the Conqueror
+}
+211.1.1 = {
+	holder = 298 # Hendromar IV
+}
+219.1.1 = {
+	holder = 285 # Justomara III
+}
+224.1.1 = {
+	holder = 301 # Hendromar V
+}
+227.1.1 = {
+	holder = 291 # Ottomar I
+}
+231.1.1 = {
+	holder = 292 # Balthezar I
+}
+235.1.1 = {
+	holder = 293 # Hendromara VI
+}
+240.1.1 = {
+	holder = 286 # Hendromar VII
+}
+244.1.1 = {
+	holder = 299 # Allomar II
+}
+249.1.1 = {
+	holder = 297 # Allomara III
+}
+255.1.1 = {
+	holder = 290 # Vilmarga I
+}
+269.1.1 = {
+	holder = 303 # Justomar IV the Black Swan
+}
+302.1.1 = {
+	holder = 1 # Alexander I
+}
+312.1.1 = {
+	holder = 0 # No new emperor due to Alexander going missing
+}
+	
