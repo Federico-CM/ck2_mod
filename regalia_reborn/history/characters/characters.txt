@@ -4277,6 +4277,7 @@
 	name = "Vilmarga"
 	culture = ithanian
 	religion = unionism
+	female = yes
 	252.1.1 = {
 		birth = 252.1.1
 	}
