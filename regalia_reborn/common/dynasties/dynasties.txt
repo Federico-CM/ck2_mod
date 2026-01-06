@@ -10,7 +10,7 @@
 
 3 = {
 	name = "Ravenstad"
-	culture = wirtem
+	culture = leutz_vixe
 }
 
 4 = {
@@ -614,13 +614,13 @@
 }
 
 125 = {
-	name = "du Poincare"
-	culture = ithanian
+	name = "du Poncaire"
+	culture = leutz_vixe
 }
 
 126 = {
 	name = "Peirgarten"
-	culture = wirtem
+	culture = leutz_vixe
 }
 
 127 = {
@@ -634,7 +634,7 @@
 }
 
 129 = {
-	name = "Avalorn"
+	name = "Avalleia"
 	culture = solvaan
 }
 
@@ -899,7 +899,7 @@
 }
 
 183 = {
-	name = "Petrovich"
+	name = "Petrovych"
 	culture = krainivaya
 }
 
@@ -930,7 +930,7 @@
 
 189 = {
 	name = "Maidment"
-	culture = ithanian
+	culture = cearden
 }
 
 190 = {
@@ -975,7 +975,7 @@
 
 198 = {
 	name = "Altagracia"
-	culture = cantaluna
+	culture = tierravera
 }
 
 199 = {
@@ -1019,8 +1019,8 @@
 }
 
 207 = {
-	name = "de Acoizia"
-	culture = cantaluna
+	name = "de Azcoissia"
+	culture = tierravera
 }
 
 208 = {
