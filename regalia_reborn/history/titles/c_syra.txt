@@ -1,3 +1,4 @@
 315.1.1 = {
-	holder = 352
+	liege = k_vultaro
+	holder = 1038
 }
