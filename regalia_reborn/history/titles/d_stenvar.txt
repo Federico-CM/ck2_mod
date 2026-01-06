@@ -1,5 +1,4 @@
 315.1.1 = {
-	holder = 9
-	law = succ_primogeniture
-	law = agnatic_succession
+	holder = 10
+	liege = k_bergheimr
 }

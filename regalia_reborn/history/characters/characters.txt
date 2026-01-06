@@ -156,11 +156,6 @@
 	282.4.1 = {
 		add_matrilineal_spouse=210
 	}
-
-	287.4.1 = {
-		add_spouse=186
-		#remove_spouse = 210
-	}
 	363.1.1 = {
 		death = 363.1.1
 	}
@@ -176,15 +171,6 @@
 	female = yes
 	282.1.1 = {
 		birth = 282.1.1
-	}
-
-	301.4.1 = {
-		add_spouse=188
-	}
-
-	349.4.1 = {
-		#remove_spouse = 188
-		add_matrilineal_spouse=801
 	}
 	382.1.1 = {
 		death = 382.1.1
@@ -3043,11 +3029,6 @@
 	286.4.1 = {
 		add_spouse=185
 	}
-
-	287.4.1 = {
-		add_spouse=9
-		#remove_spouse = 185
-	}
 	354.1.1 = {
 		death = 354.1.1
 	}
@@ -3078,14 +3059,6 @@
 	religion = unionism
 	279.1.1 = {
 		birth = 279.1.1
-	}
-
-	301.4.1 = {
-		add_spouse=10
-	}
-
-	349.4.1 = {
-		#remove_spouse = 10
 	}
 	379.1.1 = {
 		death = 379.1.1

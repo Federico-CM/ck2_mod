@@ -433,6 +433,21 @@ e_gallovia = {
                 title = count
                 title_female = count
             }
+            c_ottaholm = {
+                b_ottaholm = {
+                    title = baron
+                    title_female = baron
+                }
+                b_ottaholm2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 131 159 175 }
+                color2 = { 131 159 175 }
+                culture = velheim
+                title = count
+                title_female = count
+            }
             culture = velheim
             title = duke
             title_female = duke
@@ -440,7 +455,7 @@ e_gallovia = {
         d_strondal = {
             color = { 139 187 167 }
             color2 = { 139 187 167 }
-            capital = 261
+            capital = 266
             c_enetun = {
                 b_enetun = {
                     title = baron
@@ -456,20 +471,12 @@ e_gallovia = {
                 title = count
                 title_female = count
             }
-            culture = dwarven
-            title = duke
-            title_female = duke
-        }
-        d_torgar = {
-            color = { 131 159 175 }
-            color2 = { 131 159 175 }
-            capital = 262
-            c_beory = {
-                b_beory = {
+            c_nest_aldruin = {
+                b_nest_aldruin = {
                     title = baron
                     title_female = baron
                 }
-                b_beory2 = {
+                b_nest_aldruin2 = {
                     title = baron
                     title_female = baron
                 }
@@ -479,12 +486,35 @@ e_gallovia = {
                 title = count
                 title_female = count
             }
-            c_nest_aldruin = {
-                b_nest_aldruin = {
+            c_nest_ruin = {
+                b_nest_ruin = {
                     title = baron
                     title_female = baron
                 }
-                b_nest_aldruin2 = {
+                b_nest_ruin2 = {
+                    title = baron
+                    title_female = baron
+                }
+                color = { 148 173 160 }
+                color2 = { 148 173 160 }
+                culture = dwarven
+                title = count
+                title_female = count
+            }
+            culture = dwarven
+            title = duke
+            title_female = duke
+        }
+        d_torgar = {
+            color = { 131 159 175 }
+            color2 = { 131 159 175 }
+            capital = 264
+            c_beory = {
+                b_beory = {
+                    title = baron
+                    title_female = baron
+                }
+                b_beory2 = {
                     title = baron
                     title_female = baron
                 }
@@ -520,36 +550,6 @@ e_gallovia = {
                 }
                 color = { 129 181 161 }
                 color2 = { 129 181 161 }
-                culture = dwarven
-                title = count
-                title_female = count
-            }
-            c_nest_ruin = {
-                b_nest_ruin = {
-                    title = baron
-                    title_female = baron
-                }
-                b_nest_ruin2 = {
-                    title = baron
-                    title_female = baron
-                }
-                color = { 148 173 160 }
-                color2 = { 148 173 160 }
-                culture = dwarven
-                title = count
-                title_female = count
-            }
-            c_ottaholm = {
-                b_ottaholm = {
-                    title = baron
-                    title_female = baron
-                }
-                b_ottaholm2 = {
-                    title = baron
-                    title_female = baron
-                }
-                color = { 131 159 175 }
-                color2 = { 131 159 175 }
                 culture = dwarven
                 title = count
                 title_female = count
