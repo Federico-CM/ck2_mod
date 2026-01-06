@@ -1,4 +1,5 @@
-# MassiveCraft: Regalia Reborn — A CK2 Total Conversion
+# MassiveCraft: Regalia Reborn
+A CK2 Total Conversion
 
 This mod represents a full-stack data-engineering effort to reconstruct the MassiveCraft universe as a playable Crusader Kings II experience. Every component of the original game—map, cultures, religions, titles, histories—has been replaced with carefully extracted and structured lore data.
 
