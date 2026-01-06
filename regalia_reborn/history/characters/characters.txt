@@ -6,7 +6,9 @@
 		birth = 257.1.1
 	}
 	357.1.1 = {
-		death = 357.1.1
+		death = {
+			death_reason = death_missing
+		}
 	}
 	dynasty = 1
 	mother = 107
@@ -2042,7 +2044,7 @@
 }
 
 140 = {
-	name = "Reinoud"
+	name = "Reynaud"
 	culture = anglian
 	religion = unionism
 	276.1.1 = {

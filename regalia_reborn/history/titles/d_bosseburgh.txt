@@ -1,5 +1,4 @@
 315.1.1 = {
-	holder = 1
+	holder = 124
 	law = succ_primogeniture
-	law = agnatic_succession
 }
