@@ -2,5 +2,5 @@ title = c_orriondas
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_orriondas = tribal
+b_orriondas = castle
 b_orriondas2 = temple

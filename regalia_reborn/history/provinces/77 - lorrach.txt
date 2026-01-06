@@ -2,5 +2,5 @@ title = c_lorrach
 max_settlements = 2
 culture = genevaud
 religion = unionism
-b_lorrach = tribal
+b_lorrach = castle
 b_lorrach2 = temple

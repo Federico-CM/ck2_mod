@@ -2,5 +2,5 @@ title = c_annaparochie
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_annaparochie = tribal
+b_annaparochie = castle
 b_annaparochie2 = temple

@@ -2,5 +2,5 @@ title = c_arroncha
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_arroncha = tribal
+b_arroncha = castle
 b_arroncha2 = temple

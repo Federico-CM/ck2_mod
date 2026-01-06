@@ -2,5 +2,5 @@ title = c_spa
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_spa = tribal
+b_spa = castle
 b_spa2 = temple

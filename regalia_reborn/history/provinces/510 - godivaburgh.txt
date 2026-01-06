@@ -2,5 +2,5 @@ title = c_godivaburgh
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_godivaburgh = tribal
+b_godivaburgh = castle
 b_godivaburgh2 = temple

@@ -2,5 +2,5 @@ title = c_lacabera
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_lacabera = tribal
+b_lacabera = castle
 b_lacabera2 = temple

@@ -2,5 +2,5 @@ title = c_hames
 max_settlements = 2
 culture = burdigala
 religion = unionism
-b_hames = tribal
+b_hames = castle
 b_hames2 = temple

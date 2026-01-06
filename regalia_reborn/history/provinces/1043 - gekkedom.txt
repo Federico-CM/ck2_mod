@@ -2,5 +2,5 @@ title = c_gekkedom
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_gekkedom = tribal
+b_gekkedom = castle
 b_gekkedom2 = temple

@@ -2,5 +2,5 @@ title = c_landscopse
 max_settlements = 2
 culture = gallovian
 religion = unionism
-b_landscopse = tribal
+b_landscopse = castle
 b_landscopse2 = temple

@@ -2,5 +2,5 @@ title = c_manilon
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_manilon = tribal
+b_manilon = castle
 b_manilon2 = temple

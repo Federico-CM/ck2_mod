@@ -2,5 +2,5 @@ title = c_kidal
 max_settlements = 2
 culture = dragonkin
 religion = unionism
-b_kidal = tribal
+b_kidal = castle
 b_kidal2 = temple

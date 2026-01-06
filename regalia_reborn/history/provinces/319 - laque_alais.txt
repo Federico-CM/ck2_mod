@@ -2,5 +2,5 @@ title = c_laque_alais
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_laque_alais = tribal
+b_laque_alais = castle
 b_laque_alais2 = temple

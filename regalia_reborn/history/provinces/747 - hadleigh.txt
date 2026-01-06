@@ -2,5 +2,5 @@ title = c_hadleigh
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_hadleigh = tribal
+b_hadleigh = castle
 b_hadleigh2 = temple

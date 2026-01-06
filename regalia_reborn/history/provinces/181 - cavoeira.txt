@@ -2,5 +2,5 @@ title = c_cavoeira
 max_settlements = 2
 culture = bragacao
 religion = unionism
-b_cavoeira = tribal
+b_cavoeira = castle
 b_cavoeira2 = temple

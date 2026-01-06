@@ -2,5 +2,5 @@ title = c_alania_siorba
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_alania_siorba = tribal
+b_alania_siorba = castle
 b_alania_siorba2 = temple

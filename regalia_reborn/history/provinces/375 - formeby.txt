@@ -2,5 +2,5 @@ title = c_formeby
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_formeby = tribal
+b_formeby = castle
 b_formeby2 = temple

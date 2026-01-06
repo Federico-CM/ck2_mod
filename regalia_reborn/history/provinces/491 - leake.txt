@@ -2,5 +2,5 @@ title = c_leake
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_leake = tribal
+b_leake = castle
 b_leake2 = temple

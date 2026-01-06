@@ -2,5 +2,5 @@ title = c_elmaigmo
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_elmaigmo = tribal
+b_elmaigmo = castle
 b_elmaigmo2 = temple

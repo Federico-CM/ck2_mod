@@ -2,5 +2,5 @@ title = c_barrsa
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_barrsa = tribal
+b_barrsa = castle
 b_barrsa2 = temple

@@ -2,5 +2,5 @@ title = c_marston
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_marston = tribal
+b_marston = castle
 b_marston2 = temple

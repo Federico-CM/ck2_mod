@@ -2,5 +2,5 @@ title = c_gap_de_dresse
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_gap_de_dresse = tribal
+b_gap_de_dresse = castle
 b_gap_de_dresse2 = temple

@@ -2,5 +2,5 @@ title = c_kooge
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_kooge = tribal
+b_kooge = castle
 b_kooge2 = temple

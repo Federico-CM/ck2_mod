@@ -2,5 +2,5 @@ title = c_hollum
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_hollum = tribal
+b_hollum = castle
 b_hollum2 = temple

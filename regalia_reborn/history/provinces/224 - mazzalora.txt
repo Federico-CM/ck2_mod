@@ -2,5 +2,5 @@ title = c_mazzalora
 max_settlements = 2
 culture = allar
 religion = unionism
-b_mazzalora = tribal
+b_mazzalora = castle
 b_mazzalora2 = temple

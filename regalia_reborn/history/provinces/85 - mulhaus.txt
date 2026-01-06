@@ -2,5 +2,5 @@ title = c_mulhaus
 max_settlements = 2
 culture = genevaud
 religion = unionism
-b_mulhaus = tribal
+b_mulhaus = castle
 b_mulhaus2 = temple

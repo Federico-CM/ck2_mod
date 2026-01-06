@@ -2,5 +2,5 @@ title = c_prekestland
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_prekestland = tribal
+b_prekestland = castle
 b_prekestland2 = temple

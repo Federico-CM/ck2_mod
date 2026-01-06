@@ -2,5 +2,5 @@ title = c_scherkezuil
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_scherkezuil = tribal
+b_scherkezuil = castle
 b_scherkezuil2 = temple

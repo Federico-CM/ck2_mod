@@ -2,5 +2,5 @@ title = c_santomera
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_santomera = tribal
+b_santomera = castle
 b_santomera2 = temple

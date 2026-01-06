@@ -2,5 +2,5 @@ title = c_omaraade
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_omaraade = tribal
+b_omaraade = castle
 b_omaraade2 = temple

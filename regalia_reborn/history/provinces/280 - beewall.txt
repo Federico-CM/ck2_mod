@@ -2,5 +2,5 @@ title = c_beewall
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_beewall = tribal
+b_beewall = castle
 b_beewall2 = temple

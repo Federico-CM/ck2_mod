@@ -2,5 +2,5 @@ title = c_hinterkaernte
 max_settlements = 2
 culture = leutz_vixe
 religion = unionism
-b_hinterkaernte = tribal
+b_hinterkaernte = castle
 b_hinterkaernte2 = temple

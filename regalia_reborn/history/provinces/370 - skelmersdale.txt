@@ -2,5 +2,5 @@ title = c_skelmersdale
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_skelmersdale = tribal
+b_skelmersdale = castle
 b_skelmersdale2 = temple

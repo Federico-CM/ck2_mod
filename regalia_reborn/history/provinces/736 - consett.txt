@@ -2,5 +2,5 @@ title = c_consett
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_consett = tribal
+b_consett = castle
 b_consett2 = temple

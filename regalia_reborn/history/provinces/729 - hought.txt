@@ -2,5 +2,5 @@ title = c_hought
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_hought = tribal
+b_hought = castle
 b_hought2 = temple

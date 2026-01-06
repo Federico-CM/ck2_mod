@@ -2,5 +2,5 @@ title = c_abbinburgh
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_abbinburgh = tribal
+b_abbinburgh = castle
 b_abbinburgh2 = temple

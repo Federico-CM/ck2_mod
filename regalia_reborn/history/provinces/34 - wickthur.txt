@@ -2,5 +2,5 @@ title = c_wickthur
 max_settlements = 2
 culture = dunbrae
 religion = unionism
-b_wickthur = tribal
+b_wickthur = castle
 b_wickthur2 = temple

@@ -2,5 +2,5 @@ title = c_bulvakia
 max_settlements = 2
 culture = byala
 religion = evintarian
-b_bulvakia = tribal
+b_bulvakia = castle
 b_bulvakia2 = temple

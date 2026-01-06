@@ -2,5 +2,5 @@ title = c_gratteham
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_gratteham = tribal
+b_gratteham = castle
 b_gratteham2 = temple

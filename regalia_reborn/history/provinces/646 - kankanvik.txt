@@ -2,5 +2,5 @@ title = c_kankanvik
 max_settlements = 2
 culture = tarkin
 religion = fornoss
-b_kankanvik = tribal
+b_kankanvik = castle
 b_kankanvik2 = temple

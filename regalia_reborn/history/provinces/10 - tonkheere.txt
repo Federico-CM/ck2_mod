@@ -2,5 +2,5 @@ title = c_tonkheere
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_tonkheere = tribal
+b_tonkheere = castle
 b_tonkheere2 = temple

@@ -2,5 +2,5 @@ title = c_gastrikum
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_gastrikum = tribal
+b_gastrikum = castle
 b_gastrikum2 = temple

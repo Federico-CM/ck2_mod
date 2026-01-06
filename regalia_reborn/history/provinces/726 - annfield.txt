@@ -2,5 +2,5 @@ title = c_annfield
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_annfield = tribal
+b_annfield = castle
 b_annfield2 = temple

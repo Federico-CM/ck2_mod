@@ -2,5 +2,5 @@ title = c_kiezersdorp
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_kiezersdorp = tribal
+b_kiezersdorp = castle
 b_kiezersdorp2 = temple

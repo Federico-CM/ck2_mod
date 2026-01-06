@@ -2,5 +2,5 @@ title = c_gerveld
 max_settlements = 2
 culture = eronidas
 religion = unionism
-b_gerveld = tribal
+b_gerveld = castle
 b_gerveld2 = temple

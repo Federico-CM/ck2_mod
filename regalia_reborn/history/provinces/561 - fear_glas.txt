@@ -2,5 +2,5 @@ title = c_fear_glas
 max_settlements = 2
 culture = aontaithe
 religion = fornoss
-b_fear_glas = tribal
+b_fear_glas = castle
 b_fear_glas2 = temple

@@ -2,5 +2,5 @@ title = c_pied_de_montagne
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_pied_de_montagne = tribal
+b_pied_de_montagne = castle
 b_pied_de_montagne2 = temple

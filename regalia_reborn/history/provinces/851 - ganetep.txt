@@ -2,5 +2,5 @@ title = c_ganetep
 max_settlements = 2
 culture = asha
 religion = unionism
-b_ganetep = tribal
+b_ganetep = castle
 b_ganetep2 = temple

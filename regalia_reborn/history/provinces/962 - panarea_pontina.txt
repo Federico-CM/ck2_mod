@@ -2,5 +2,5 @@ title = c_panarea_pontina
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_panarea_pontina = tribal
+b_panarea_pontina = castle
 b_panarea_pontina2 = temple

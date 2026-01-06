@@ -2,5 +2,5 @@ title = c_garsmarket
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_garsmarket = tribal
+b_garsmarket = castle
 b_garsmarket2 = temple

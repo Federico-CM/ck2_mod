@@ -2,5 +2,5 @@ title = c_frederik
 max_settlements = 2
 culture = fridurfolk
 religion = fornoss
-b_frederik = tribal
+b_frederik = castle
 b_frederik2 = temple

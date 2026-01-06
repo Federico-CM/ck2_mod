@@ -2,5 +2,5 @@ title = c_marchena
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_marchena = tribal
+b_marchena = castle
 b_marchena2 = temple

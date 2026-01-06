@@ -2,5 +2,5 @@ title = c_newton_willows
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_newton_willows = tribal
+b_newton_willows = castle
 b_newton_willows2 = temple

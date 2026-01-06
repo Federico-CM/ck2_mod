@@ -2,5 +2,5 @@ title = c_alcavanza
 max_settlements = 2
 culture = bragacao
 religion = unionism
-b_alcavanza = tribal
+b_alcavanza = castle
 b_alcavanza2 = temple

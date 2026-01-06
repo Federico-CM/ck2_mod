@@ -2,5 +2,5 @@ title = c_westbroek
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_westbroek = tribal
+b_westbroek = castle
 b_westbroek2 = temple

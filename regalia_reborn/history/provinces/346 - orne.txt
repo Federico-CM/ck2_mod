@@ -2,5 +2,5 @@ title = c_orne
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_orne = tribal
+b_orne = castle
 b_orne2 = temple

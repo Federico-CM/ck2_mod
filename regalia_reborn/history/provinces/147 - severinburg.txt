@@ -2,5 +2,5 @@ title = c_severinburg
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_severinburg = tribal
+b_severinburg = castle
 b_severinburg2 = temple

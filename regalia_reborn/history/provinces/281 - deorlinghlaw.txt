@@ -2,5 +2,5 @@ title = c_deorlinghlaw
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_deorlinghlaw = tribal
+b_deorlinghlaw = castle
 b_deorlinghlaw2 = temple

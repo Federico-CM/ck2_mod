@@ -2,5 +2,5 @@ title = c_postbridge
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_postbridge = tribal
+b_postbridge = castle
 b_postbridge2 = temple

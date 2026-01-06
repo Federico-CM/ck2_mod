@@ -2,5 +2,5 @@ title = c_nest_ruin
 max_settlements = 2
 culture = dwarven
 religion = fornoss
-b_nest_ruin = tribal
+b_nest_ruin = castle
 b_nest_ruin2 = temple

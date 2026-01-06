@@ -2,5 +2,5 @@ title = c_roose
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_roose = tribal
+b_roose = castle
 b_roose2 = temple

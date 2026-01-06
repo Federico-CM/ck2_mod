@@ -2,5 +2,5 @@ title = c_grisolle
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_grisolle = tribal
+b_grisolle = castle
 b_grisolle2 = temple

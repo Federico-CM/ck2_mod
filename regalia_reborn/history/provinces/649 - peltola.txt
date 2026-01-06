@@ -2,5 +2,5 @@ title = c_peltola
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_peltola = tribal
+b_peltola = castle
 b_peltola2 = temple

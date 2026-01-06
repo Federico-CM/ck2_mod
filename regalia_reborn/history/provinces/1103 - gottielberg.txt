@@ -2,5 +2,5 @@ title = c_gottielberg
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_gottielberg = tribal
+b_gottielberg = castle
 b_gottielberg2 = temple

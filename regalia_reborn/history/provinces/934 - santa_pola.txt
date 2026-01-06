@@ -2,5 +2,5 @@ title = c_santa_pola
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_santa_pola = tribal
+b_santa_pola = castle
 b_santa_pola2 = temple

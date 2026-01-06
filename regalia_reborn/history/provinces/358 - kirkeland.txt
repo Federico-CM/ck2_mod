@@ -2,5 +2,5 @@ title = c_kirkeland
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_kirkeland = tribal
+b_kirkeland = castle
 b_kirkeland2 = temple

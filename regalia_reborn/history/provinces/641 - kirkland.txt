@@ -2,5 +2,5 @@ title = c_kirkland
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_kirkland = tribal
+b_kirkland = castle
 b_kirkland2 = temple

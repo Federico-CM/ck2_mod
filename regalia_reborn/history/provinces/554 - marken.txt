@@ -2,5 +2,5 @@ title = c_marken
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_marken = tribal
+b_marken = castle
 b_marken2 = temple

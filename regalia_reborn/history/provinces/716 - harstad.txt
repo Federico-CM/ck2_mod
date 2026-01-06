@@ -2,5 +2,5 @@ title = c_harstad
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_harstad = tribal
+b_harstad = castle
 b_harstad2 = temple

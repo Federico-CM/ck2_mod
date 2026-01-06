@@ -2,5 +2,5 @@ title = c_megara
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_megara = tribal
+b_megara = castle
 b_megara2 = temple

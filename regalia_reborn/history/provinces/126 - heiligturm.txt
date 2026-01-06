@@ -2,5 +2,5 @@ title = c_heiligturm
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_heiligturm = tribal
+b_heiligturm = castle
 b_heiligturm2 = temple

@@ -2,5 +2,5 @@ title = c_neukirch
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_neukirch = tribal
+b_neukirch = castle
 b_neukirch2 = temple

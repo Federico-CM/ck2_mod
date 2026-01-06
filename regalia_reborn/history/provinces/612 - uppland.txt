@@ -2,5 +2,5 @@ title = c_uppland
 max_settlements = 2
 culture = hoglander
 religion = unionism
-b_uppland = tribal
+b_uppland = castle
 b_uppland2 = temple

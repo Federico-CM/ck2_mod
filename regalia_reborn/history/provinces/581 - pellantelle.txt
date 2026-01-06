@@ -2,5 +2,5 @@ title = c_pellantelle
 max_settlements = 2
 culture = llasada
 religion = estelley
-b_pellantelle = tribal
+b_pellantelle = castle
 b_pellantelle2 = temple

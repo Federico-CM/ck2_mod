@@ -2,5 +2,5 @@ title = c_ennas
 max_settlements = 2
 culture = leutz_vixe
 religion = unionism
-b_ennas = tribal
+b_ennas = castle
 b_ennas2 = temple

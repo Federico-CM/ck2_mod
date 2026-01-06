@@ -2,5 +2,5 @@ title = c_erzina
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_erzina = tribal
+b_erzina = castle
 b_erzina2 = temple

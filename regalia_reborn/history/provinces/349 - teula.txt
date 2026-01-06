@@ -2,5 +2,5 @@ title = c_teula
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_teula = tribal
+b_teula = castle
 b_teula2 = temple

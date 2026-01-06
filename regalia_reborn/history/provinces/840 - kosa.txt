@@ -2,5 +2,5 @@ title = c_kosa
 max_settlements = 2
 culture = dragonkin
 religion = draconism
-b_kosa = tribal
+b_kosa = castle
 b_kosa2 = temple

@@ -2,5 +2,5 @@ title = c_hasa
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_hasa = tribal
+b_hasa = castle
 b_hasa2 = temple

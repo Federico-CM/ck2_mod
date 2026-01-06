@@ -2,5 +2,5 @@ title = c_westerhal
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_westerhal = tribal
+b_westerhal = castle
 b_westerhal2 = temple

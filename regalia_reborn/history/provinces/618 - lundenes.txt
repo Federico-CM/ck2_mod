@@ -2,5 +2,5 @@ title = c_lundenes
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_lundenes = tribal
+b_lundenes = castle
 b_lundenes2 = temple

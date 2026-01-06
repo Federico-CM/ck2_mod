@@ -2,5 +2,5 @@ title = c_estorieen
 max_settlements = 2
 culture = tarkin
 religion = fornoss
-b_estorieen = tribal
+b_estorieen = castle
 b_estorieen2 = temple

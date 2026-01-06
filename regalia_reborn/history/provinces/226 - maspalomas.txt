@@ -2,5 +2,5 @@ title = c_maspalomas
 max_settlements = 2
 culture = allar
 religion = unionism
-b_maspalomas = tribal
+b_maspalomas = castle
 b_maspalomas2 = temple

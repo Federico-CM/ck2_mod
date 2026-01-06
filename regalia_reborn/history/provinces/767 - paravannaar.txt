@@ -2,5 +2,5 @@ title = c_paravannaar
 max_settlements = 2
 culture = kathar
 religion = evolism
-b_paravannaar = tribal
+b_paravannaar = castle
 b_paravannaar2 = temple

@@ -2,5 +2,5 @@ title = c_ennmeia
 max_settlements = 2
 culture = solvaan
 religion = estelley
-b_ennmeia = tribal
+b_ennmeia = castle
 b_ennmeia2 = temple

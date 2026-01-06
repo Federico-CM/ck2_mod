@@ -2,5 +2,5 @@ title = c_karsatin
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_karsatin = tribal
+b_karsatin = castle
 b_karsatin2 = temple

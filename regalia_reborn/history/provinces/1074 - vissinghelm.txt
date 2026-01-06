@@ -2,5 +2,5 @@ title = c_vissinghelm
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_vissinghelm = tribal
+b_vissinghelm = castle
 b_vissinghelm2 = temple

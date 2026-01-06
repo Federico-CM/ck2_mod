@@ -2,5 +2,5 @@ title = c_niccia
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_niccia = tribal
+b_niccia = castle
 b_niccia2 = temple

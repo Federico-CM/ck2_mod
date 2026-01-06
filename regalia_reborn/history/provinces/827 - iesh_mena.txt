@@ -2,5 +2,5 @@ title = c_iesh_mena
 max_settlements = 2
 culture = solvaan
 religion = estelley
-b_iesh_mena = tribal
+b_iesh_mena = castle
 b_iesh_mena2 = temple

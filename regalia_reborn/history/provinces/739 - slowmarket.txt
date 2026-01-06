@@ -2,5 +2,5 @@ title = c_slowmarket
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_slowmarket = tribal
+b_slowmarket = castle
 b_slowmarket2 = temple

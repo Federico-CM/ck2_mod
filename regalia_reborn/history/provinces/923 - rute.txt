@@ -2,5 +2,5 @@ title = c_rute
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_rute = tribal
+b_rute = castle
 b_rute2 = temple

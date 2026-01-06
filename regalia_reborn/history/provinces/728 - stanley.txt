@@ -2,5 +2,5 @@ title = c_stanley
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_stanley = tribal
+b_stanley = castle
 b_stanley2 = temple

@@ -2,5 +2,5 @@ title = c_pol_zwanen
 max_settlements = 2
 culture = eronidas
 religion = draconism
-b_pol_zwanen = tribal
+b_pol_zwanen = castle
 b_pol_zwanen2 = temple

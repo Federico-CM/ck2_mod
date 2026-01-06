@@ -2,5 +2,5 @@ title = c_campa_vallenta
 max_settlements = 2
 culture = cantaluna
 religion = amended
-b_campa_vallenta = tribal
+b_campa_vallenta = castle
 b_campa_vallenta2 = temple

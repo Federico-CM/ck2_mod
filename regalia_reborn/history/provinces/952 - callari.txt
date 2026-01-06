@@ -2,5 +2,5 @@ title = c_callari
 max_settlements = 2
 culture = azzizzari
 religion = unionism
-b_callari = tribal
+b_callari = castle
 b_callari2 = temple

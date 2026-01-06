@@ -2,5 +2,5 @@ title = c_nutbourne
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_nutbourne = tribal
+b_nutbourne = castle
 b_nutbourne2 = temple

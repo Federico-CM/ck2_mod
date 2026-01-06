@@ -2,5 +2,5 @@ title = c_nest_aldruin
 max_settlements = 2
 culture = dwarven
 religion = fornoss
-b_nest_aldruin = tribal
+b_nest_aldruin = castle
 b_nest_aldruin2 = temple

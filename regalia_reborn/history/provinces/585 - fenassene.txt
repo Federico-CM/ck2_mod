@@ -2,5 +2,5 @@ title = c_fenassene
 max_settlements = 2
 culture = llasada
 religion = estelley
-b_fenassene = tribal
+b_fenassene = castle
 b_fenassene2 = temple

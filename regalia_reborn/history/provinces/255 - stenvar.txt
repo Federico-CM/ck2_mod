@@ -2,5 +2,5 @@ title = c_stenvar
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_stenvar = tribal
+b_stenvar = castle
 b_stenvar2 = temple

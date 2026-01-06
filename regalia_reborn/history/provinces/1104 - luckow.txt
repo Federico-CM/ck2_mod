@@ -2,5 +2,5 @@ title = c_luckow
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_luckow = tribal
+b_luckow = castle
 b_luckow2 = temple

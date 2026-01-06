@@ -2,5 +2,5 @@ title = c_vila_raina
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_vila_raina = tribal
+b_vila_raina = castle
 b_vila_raina2 = temple

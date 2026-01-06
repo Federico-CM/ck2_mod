@@ -2,5 +2,5 @@ title = c_tervassene
 max_settlements = 2
 culture = finul
 religion = estelley
-b_tervassene = tribal
+b_tervassene = castle
 b_tervassene2 = temple

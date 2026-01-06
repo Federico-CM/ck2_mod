@@ -2,5 +2,5 @@ title = c_athous
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_athous = tribal
+b_athous = castle
 b_athous2 = temple

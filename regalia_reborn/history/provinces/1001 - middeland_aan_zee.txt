@@ -2,5 +2,5 @@ title = c_middeland_aan_zee
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_middeland_aan_zee = tribal
+b_middeland_aan_zee = castle
 b_middeland_aan_zee2 = temple

@@ -2,5 +2,5 @@ title = c_essen
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_essen = tribal
+b_essen = castle
 b_essen2 = temple

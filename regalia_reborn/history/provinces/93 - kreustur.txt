@@ -2,5 +2,5 @@ title = c_kreustur
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_kreustur = tribal
+b_kreustur = castle
 b_kreustur2 = temple

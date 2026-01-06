@@ -2,5 +2,5 @@ title = c_sernavelle
 max_settlements = 2
 culture = finul
 religion = estelley
-b_sernavelle = tribal
+b_sernavelle = castle
 b_sernavelle2 = temple

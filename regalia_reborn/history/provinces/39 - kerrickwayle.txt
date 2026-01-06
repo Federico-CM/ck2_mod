@@ -2,5 +2,5 @@ title = c_kerrickwayle
 max_settlements = 2
 culture = dunbrae
 religion = unionism
-b_kerrickwayle = tribal
+b_kerrickwayle = castle
 b_kerrickwayle2 = temple

@@ -2,5 +2,5 @@ title = c_dorpengat
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_dorpengat = tribal
+b_dorpengat = castle
 b_dorpengat2 = temple

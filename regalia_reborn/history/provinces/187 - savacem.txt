@@ -2,5 +2,5 @@ title = c_savacem
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_savacem = tribal
+b_savacem = castle
 b_savacem2 = temple

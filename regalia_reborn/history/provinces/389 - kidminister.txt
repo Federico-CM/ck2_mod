@@ -2,5 +2,5 @@ title = c_kidminister
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_kidminister = tribal
+b_kidminister = castle
 b_kidminister2 = temple

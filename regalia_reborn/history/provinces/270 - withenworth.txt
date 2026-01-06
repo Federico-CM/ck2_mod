@@ -2,5 +2,5 @@ title = c_withenworth
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_withenworth = tribal
+b_withenworth = castle
 b_withenworth2 = temple

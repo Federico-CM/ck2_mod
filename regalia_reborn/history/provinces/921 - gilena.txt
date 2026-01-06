@@ -2,5 +2,5 @@ title = c_gilena
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_gilena = tribal
+b_gilena = castle
 b_gilena2 = temple

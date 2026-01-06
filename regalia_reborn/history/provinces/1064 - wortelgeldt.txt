@@ -2,5 +2,5 @@ title = c_wortelgeldt
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_wortelgeldt = tribal
+b_wortelgeldt = castle
 b_wortelgeldt2 = temple

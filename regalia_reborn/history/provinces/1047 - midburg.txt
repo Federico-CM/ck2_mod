@@ -2,5 +2,5 @@ title = c_midburg
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_midburg = tribal
+b_midburg = castle
 b_midburg2 = temple

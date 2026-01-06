@@ -2,5 +2,5 @@ title = c_bolton
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_bolton = tribal
+b_bolton = castle
 b_bolton2 = temple

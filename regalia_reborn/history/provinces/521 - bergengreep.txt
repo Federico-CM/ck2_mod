@@ -2,5 +2,5 @@ title = c_bergengreep
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_bergengreep = tribal
+b_bergengreep = castle
 b_bergengreep2 = temple

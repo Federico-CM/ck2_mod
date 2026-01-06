@@ -2,5 +2,5 @@ title = c_dordovia
 max_settlements = 2
 culture = ania
 religion = unionism
-b_dordovia = tribal
+b_dordovia = castle
 b_dordovia2 = temple

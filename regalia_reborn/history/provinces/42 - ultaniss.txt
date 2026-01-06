@@ -2,5 +2,5 @@ title = c_ultaniss
 max_settlements = 2
 culture = dunbrae
 religion = unionism
-b_ultaniss = tribal
+b_ultaniss = castle
 b_ultaniss2 = temple

@@ -2,5 +2,5 @@ title = c_sundfjorden
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_sundfjorden = tribal
+b_sundfjorden = castle
 b_sundfjorden2 = temple

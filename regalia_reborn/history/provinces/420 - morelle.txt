@@ -2,5 +2,5 @@ title = c_morelle
 max_settlements = 2
 culture = dvala
 religion = evintarian
-b_morelle = tribal
+b_morelle = castle
 b_morelle2 = temple

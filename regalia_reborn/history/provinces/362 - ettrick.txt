@@ -2,5 +2,5 @@ title = c_ettrick
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_ettrick = tribal
+b_ettrick = castle
 b_ettrick2 = temple

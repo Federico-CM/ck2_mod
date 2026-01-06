@@ -2,5 +2,5 @@ title = c_huilendom
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_huilendom = tribal
+b_huilendom = castle
 b_huilendom2 = temple

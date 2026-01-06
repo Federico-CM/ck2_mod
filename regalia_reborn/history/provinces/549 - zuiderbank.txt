@@ -2,5 +2,5 @@ title = c_zuiderbank
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_zuiderbank = tribal
+b_zuiderbank = castle
 b_zuiderbank2 = temple

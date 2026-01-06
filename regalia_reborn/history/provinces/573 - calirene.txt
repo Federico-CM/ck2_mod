@@ -2,5 +2,5 @@ title = c_calirene
 max_settlements = 2
 culture = finul
 religion = estelley
-b_calirene = tribal
+b_calirene = castle
 b_calirene2 = temple

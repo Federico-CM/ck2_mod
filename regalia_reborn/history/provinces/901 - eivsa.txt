@@ -2,5 +2,5 @@ title = c_eivsa
 max_settlements = 2
 culture = suvial
 religion = estelley
-b_eivsa = tribal
+b_eivsa = castle
 b_eivsa2 = temple

@@ -2,5 +2,5 @@ title = c_asterisle
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_asterisle = tribal
+b_asterisle = castle
 b_asterisle2 = temple

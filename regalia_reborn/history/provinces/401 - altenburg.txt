@@ -2,5 +2,5 @@ title = c_altenburg
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_altenburg = tribal
+b_altenburg = castle
 b_altenburg2 = temple

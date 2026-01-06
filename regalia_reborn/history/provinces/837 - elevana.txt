@@ -2,5 +2,5 @@ title = c_elevana
 max_settlements = 2
 culture = etosian
 religion = draconism
-b_elevana = tribal
+b_elevana = castle
 b_elevana2 = temple

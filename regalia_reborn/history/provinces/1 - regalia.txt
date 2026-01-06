@@ -2,5 +2,5 @@ title = c_regalia
 max_settlements = 2
 culture = regal
 religion = unionism
-b_regalia = tribal
+b_regalia = castle
 b_regalia2 = temple

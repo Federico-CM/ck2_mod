@@ -2,5 +2,5 @@ title = c_bluenberg
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_bluenberg = tribal
+b_bluenberg = castle
 b_bluenberg2 = temple

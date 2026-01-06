@@ -2,5 +2,5 @@ title = c_baybridge
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_baybridge = tribal
+b_baybridge = castle
 b_baybridge2 = temple

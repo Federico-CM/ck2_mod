@@ -2,5 +2,5 @@ title = c_londerry
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_londerry = tribal
+b_londerry = castle
 b_londerry2 = temple

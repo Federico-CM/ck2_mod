@@ -2,5 +2,5 @@ title = c_eerste_hoogweg
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_eerste_hoogweg = tribal
+b_eerste_hoogweg = castle
 b_eerste_hoogweg2 = temple

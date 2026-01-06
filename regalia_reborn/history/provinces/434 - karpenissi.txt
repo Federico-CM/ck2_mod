@@ -2,5 +2,5 @@ title = c_karpenissi
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_karpenissi = tribal
+b_karpenissi = castle
 b_karpenissi2 = temple

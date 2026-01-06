@@ -2,5 +2,5 @@ title = c_eismeer
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_eismeer = tribal
+b_eismeer = castle
 b_eismeer2 = temple

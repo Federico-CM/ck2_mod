@@ -2,5 +2,5 @@ title = c_nerieen
 max_settlements = 2
 culture = leutz_vixe
 religion = unionism
-b_nerieen = tribal
+b_nerieen = castle
 b_nerieen2 = temple

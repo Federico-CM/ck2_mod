@@ -2,5 +2,5 @@ title = c_vila_franca
 max_settlements = 2
 culture = bragacao
 religion = unionism
-b_vila_franca = tribal
+b_vila_franca = castle
 b_vila_franca2 = temple

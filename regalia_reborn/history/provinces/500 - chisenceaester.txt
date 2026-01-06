@@ -2,5 +2,5 @@ title = c_chisenceaester
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_chisenceaester = tribal
+b_chisenceaester = castle
 b_chisenceaester2 = temple

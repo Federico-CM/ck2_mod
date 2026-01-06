@@ -2,5 +2,5 @@ title = c_chleirios
 max_settlements = 2
 culture = bragacao
 religion = unionism
-b_chleirios = tribal
+b_chleirios = castle
 b_chleirios2 = temple

@@ -2,5 +2,5 @@ title = c_livorieen
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_livorieen = tribal
+b_livorieen = castle
 b_livorieen2 = temple

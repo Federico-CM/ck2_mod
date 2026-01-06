@@ -2,5 +2,5 @@ title = c_la_rosa
 max_settlements = 2
 culture = allar
 religion = unionism
-b_la_rosa = tribal
+b_la_rosa = castle
 b_la_rosa2 = temple

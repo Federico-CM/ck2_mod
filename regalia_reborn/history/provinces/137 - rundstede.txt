@@ -2,5 +2,5 @@ title = c_rundstede
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_rundstede = tribal
+b_rundstede = castle
 b_rundstede2 = temple

@@ -2,5 +2,5 @@ title = c_compostela
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_compostela = tribal
+b_compostela = castle
 b_compostela2 = temple

@@ -2,5 +2,5 @@ title = c_dinnan
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_dinnan = tribal
+b_dinnan = castle
 b_dinnan2 = temple

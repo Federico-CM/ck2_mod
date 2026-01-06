@@ -2,5 +2,5 @@ title = c_isheim
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_isheim = tribal
+b_isheim = castle
 b_isheim2 = temple

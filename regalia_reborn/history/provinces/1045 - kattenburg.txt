@@ -2,5 +2,5 @@ title = c_kattenburg
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_kattenburg = tribal
+b_kattenburg = castle
 b_kattenburg2 = temple

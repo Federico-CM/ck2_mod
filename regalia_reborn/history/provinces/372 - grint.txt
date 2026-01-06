@@ -2,5 +2,5 @@ title = c_grint
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_grint = tribal
+b_grint = castle
 b_grint2 = temple

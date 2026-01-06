@@ -2,5 +2,5 @@ title = c_escalle
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_escalle = tribal
+b_escalle = castle
 b_escalle2 = temple

@@ -2,5 +2,5 @@ title = c_dee_horn
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_dee_horn = tribal
+b_dee_horn = castle
 b_dee_horn2 = temple

@@ -2,5 +2,5 @@ title = c_vico_cimonio
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_vico_cimonio = tribal
+b_vico_cimonio = castle
 b_vico_cimonio2 = temple

@@ -2,5 +2,5 @@ title = c_funchal
 max_settlements = 2
 culture = allar
 religion = unionism
-b_funchal = tribal
+b_funchal = castle
 b_funchal2 = temple

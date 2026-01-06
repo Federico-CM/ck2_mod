@@ -2,5 +2,5 @@ title = c_ogham
 max_settlements = 2
 culture = gallovian
 religion = fornoss
-b_ogham = tribal
+b_ogham = castle
 b_ogham2 = temple

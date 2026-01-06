@@ -2,5 +2,5 @@ title = c_ringstad
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_ringstad = tribal
+b_ringstad = castle
 b_ringstad2 = temple

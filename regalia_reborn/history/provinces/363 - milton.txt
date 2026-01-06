@@ -2,5 +2,5 @@ title = c_milton
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_milton = tribal
+b_milton = castle
 b_milton2 = temple

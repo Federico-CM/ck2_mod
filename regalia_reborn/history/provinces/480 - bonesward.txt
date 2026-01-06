@@ -2,5 +2,5 @@ title = c_bonesward
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_bonesward = tribal
+b_bonesward = castle
 b_bonesward2 = temple

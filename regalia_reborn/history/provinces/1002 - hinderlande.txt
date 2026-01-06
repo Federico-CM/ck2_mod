@@ -2,5 +2,5 @@ title = c_hinderlande
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_hinderlande = tribal
+b_hinderlande = castle
 b_hinderlande2 = temple

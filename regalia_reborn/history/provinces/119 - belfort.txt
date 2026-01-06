@@ -2,5 +2,5 @@ title = c_belfort
 max_settlements = 2
 culture = zvorun
 religion = unionism
-b_belfort = tribal
+b_belfort = castle
 b_belfort2 = temple

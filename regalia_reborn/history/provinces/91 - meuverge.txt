@@ -2,5 +2,5 @@ title = c_meuverge
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_meuverge = tribal
+b_meuverge = castle
 b_meuverge2 = temple

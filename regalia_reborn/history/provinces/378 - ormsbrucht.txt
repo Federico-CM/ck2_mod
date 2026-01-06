@@ -2,5 +2,5 @@ title = c_ormsbrucht
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_ormsbrucht = tribal
+b_ormsbrucht = castle
 b_ormsbrucht2 = temple

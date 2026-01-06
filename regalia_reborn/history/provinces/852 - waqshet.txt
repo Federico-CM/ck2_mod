@@ -2,5 +2,5 @@ title = c_waqshet
 max_settlements = 2
 culture = asha
 religion = khama
-b_waqshet = tribal
+b_waqshet = castle
 b_waqshet2 = temple

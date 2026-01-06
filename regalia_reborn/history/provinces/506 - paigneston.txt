@@ -2,5 +2,5 @@ title = c_paigneston
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_paigneston = tribal
+b_paigneston = castle
 b_paigneston2 = temple

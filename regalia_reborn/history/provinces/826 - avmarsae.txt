@@ -2,5 +2,5 @@ title = c_avmarsae
 max_settlements = 2
 culture = solvaan
 religion = estelley
-b_avmarsae = tribal
+b_avmarsae = castle
 b_avmarsae2 = temple

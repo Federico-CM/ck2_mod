@@ -2,5 +2,5 @@ title = c_hexenham
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_hexenham = tribal
+b_hexenham = castle
 b_hexenham2 = temple

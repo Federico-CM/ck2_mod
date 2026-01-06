@@ -2,5 +2,5 @@ title = c_galtrick
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_galtrick = tribal
+b_galtrick = castle
 b_galtrick2 = temple

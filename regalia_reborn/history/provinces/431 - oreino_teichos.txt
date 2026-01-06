@@ -2,5 +2,5 @@ title = c_oreino_teichos
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_oreino_teichos = tribal
+b_oreino_teichos = castle
 b_oreino_teichos2 = temple

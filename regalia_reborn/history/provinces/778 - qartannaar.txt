@@ -2,5 +2,5 @@ title = c_qartannaar
 max_settlements = 2
 culture = solvaan
 religion = estelley
-b_qartannaar = tribal
+b_qartannaar = castle
 b_qartannaar2 = temple

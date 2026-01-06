@@ -2,5 +2,5 @@ title = c_lutton_upon_bridgead
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_lutton_upon_bridgead = tribal
+b_lutton_upon_bridgead = castle
 b_lutton_upon_bridgead2 = temple

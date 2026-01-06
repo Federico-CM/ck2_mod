@@ -2,5 +2,5 @@ title = c_kroonburg
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_kroonburg = tribal
+b_kroonburg = castle
 b_kroonburg2 = temple

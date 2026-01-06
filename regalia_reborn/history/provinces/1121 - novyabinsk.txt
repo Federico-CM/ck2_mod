@@ -2,5 +2,5 @@ title = c_novyabinsk
 max_settlements = 2
 culture = krainivaya
 religion = fornoss
-b_novyabinsk = tribal
+b_novyabinsk = castle
 b_novyabinsk2 = temple

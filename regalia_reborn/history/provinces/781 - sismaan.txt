@@ -2,5 +2,5 @@ title = c_sismaan
 max_settlements = 2
 culture = solvaan
 religion = unionism
-b_sismaan = tribal
+b_sismaan = castle
 b_sismaan2 = temple

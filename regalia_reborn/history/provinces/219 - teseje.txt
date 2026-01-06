@@ -2,5 +2,5 @@ title = c_teseje
 max_settlements = 2
 culture = allar
 religion = unionism
-b_teseje = tribal
+b_teseje = castle
 b_teseje2 = temple

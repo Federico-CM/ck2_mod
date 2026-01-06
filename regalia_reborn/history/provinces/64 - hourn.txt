@@ -2,5 +2,5 @@ title = c_hourn
 max_settlements = 2
 culture = dunbrae
 religion = fornoss
-b_hourn = tribal
+b_hourn = castle
 b_hourn2 = temple

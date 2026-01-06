@@ -2,5 +2,5 @@ title = c_bangnac
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_bangnac = tribal
+b_bangnac = castle
 b_bangnac2 = temple

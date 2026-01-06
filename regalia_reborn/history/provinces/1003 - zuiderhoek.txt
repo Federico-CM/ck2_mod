@@ -2,5 +2,5 @@ title = c_zuiderhoek
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_zuiderhoek = tribal
+b_zuiderhoek = castle
 b_zuiderhoek2 = temple

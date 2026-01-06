@@ -2,5 +2,5 @@ title = c_rakkai
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_rakkai = tribal
+b_rakkai = castle
 b_rakkai2 = temple

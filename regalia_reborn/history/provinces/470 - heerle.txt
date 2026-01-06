@@ -2,5 +2,5 @@ title = c_heerle
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_heerle = tribal
+b_heerle = castle
 b_heerle2 = temple

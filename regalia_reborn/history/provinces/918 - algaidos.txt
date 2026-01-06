@@ -2,5 +2,5 @@ title = c_algaidos
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_algaidos = tribal
+b_algaidos = castle
 b_algaidos2 = temple

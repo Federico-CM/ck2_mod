@@ -2,5 +2,5 @@ title = c_koolplaats
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_koolplaats = tribal
+b_koolplaats = castle
 b_koolplaats2 = temple

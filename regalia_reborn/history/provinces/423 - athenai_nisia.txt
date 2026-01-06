@@ -2,5 +2,5 @@ title = c_athenai_nisia
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_athenai_nisia = tribal
+b_athenai_nisia = castle
 b_athenai_nisia2 = temple

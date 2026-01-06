@@ -2,5 +2,5 @@ title = c_overlungwitz
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_overlungwitz = tribal
+b_overlungwitz = castle
 b_overlungwitz2 = temple

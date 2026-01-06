@@ -2,5 +2,5 @@ title = c_ramberg
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_ramberg = tribal
+b_ramberg = castle
 b_ramberg2 = temple

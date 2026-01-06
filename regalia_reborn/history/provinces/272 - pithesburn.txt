@@ -2,5 +2,5 @@ title = c_pithesburn
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_pithesburn = tribal
+b_pithesburn = castle
 b_pithesburn2 = temple

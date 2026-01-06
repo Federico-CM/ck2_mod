@@ -2,5 +2,5 @@ title = c_zirenez
 max_settlements = 2
 culture = bragacao
 religion = unionism
-b_zirenez = tribal
+b_zirenez = castle
 b_zirenez2 = temple

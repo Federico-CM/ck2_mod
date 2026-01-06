@@ -2,5 +2,5 @@ title = c_tenplinburg
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_tenplinburg = tribal
+b_tenplinburg = castle
 b_tenplinburg2 = temple

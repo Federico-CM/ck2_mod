@@ -2,5 +2,5 @@ title = c_vortzee
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_vortzee = tribal
+b_vortzee = castle
 b_vortzee2 = temple

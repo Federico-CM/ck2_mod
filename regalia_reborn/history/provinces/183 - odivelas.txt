@@ -2,5 +2,5 @@ title = c_odivelas
 max_settlements = 2
 culture = bragacao
 religion = unionism
-b_odivelas = tribal
+b_odivelas = castle
 b_odivelas2 = temple

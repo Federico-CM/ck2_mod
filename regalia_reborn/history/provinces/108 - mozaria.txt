@@ -2,5 +2,5 @@ title = c_mozaria
 max_settlements = 2
 culture = zemevcel
 religion = unionism
-b_mozaria = tribal
+b_mozaria = castle
 b_mozaria2 = temple

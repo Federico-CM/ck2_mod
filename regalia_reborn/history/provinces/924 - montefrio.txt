@@ -2,5 +2,5 @@ title = c_montefrio
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_montefrio = tribal
+b_montefrio = castle
 b_montefrio2 = temple

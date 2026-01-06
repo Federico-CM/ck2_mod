@@ -2,5 +2,5 @@ title = c_mittberg
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_mittberg = tribal
+b_mittberg = castle
 b_mittberg2 = temple

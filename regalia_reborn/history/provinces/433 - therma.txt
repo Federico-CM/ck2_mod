@@ -2,5 +2,5 @@ title = c_therma
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_therma = tribal
+b_therma = castle
 b_therma2 = temple

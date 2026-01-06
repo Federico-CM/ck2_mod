@@ -2,5 +2,5 @@ title = c_firingerfjord
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_firingerfjord = tribal
+b_firingerfjord = castle
 b_firingerfjord2 = temple

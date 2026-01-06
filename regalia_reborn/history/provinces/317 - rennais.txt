@@ -2,5 +2,5 @@ title = c_rennais
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_rennais = tribal
+b_rennais = castle
 b_rennais2 = temple
