@@ -5,7 +5,7 @@
 	257.1.1 = {
 		birth = 257.1.1
 	}
-	357.1.1 = {
+	312.1.1 = {
 		death = {
 			death_reason = death_missing
 		}
