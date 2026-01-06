@@ -2,5 +2,5 @@ title = c_mieddelkerke
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_mieddelkerke = tribal
+b_mieddelkerke = castle
 b_mieddelkerke2 = temple

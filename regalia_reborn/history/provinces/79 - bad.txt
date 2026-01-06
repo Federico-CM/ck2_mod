@@ -2,5 +2,5 @@ title = c_bad
 max_settlements = 2
 culture = genevaud
 religion = unionism
-b_bad = tribal
+b_bad = castle
 b_bad2 = temple

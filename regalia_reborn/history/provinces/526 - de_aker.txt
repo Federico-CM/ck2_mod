@@ -2,5 +2,5 @@ title = c_de_aker
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_de_aker = tribal
+b_de_aker = castle
 b_de_aker2 = temple

@@ -2,5 +2,5 @@ title = c_epirania
 max_settlements = 2
 culture = byala
 religion = evintarian
-b_epirania = tribal
+b_epirania = castle
 b_epirania2 = temple

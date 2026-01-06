@@ -2,5 +2,5 @@ title = c_guemps
 max_settlements = 2
 culture = burdigala
 religion = unionism
-b_guemps = tribal
+b_guemps = castle
 b_guemps2 = temple

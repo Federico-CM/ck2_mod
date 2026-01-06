@@ -2,5 +2,5 @@ title = c_alos
 max_settlements = 2
 culture = breizh
 religion = warda
-b_alos = tribal
+b_alos = castle
 b_alos2 = temple

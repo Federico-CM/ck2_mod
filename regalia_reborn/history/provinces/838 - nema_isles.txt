@@ -2,5 +2,5 @@ title = c_nema_isles
 max_settlements = 2
 culture = etosian
 religion = draconism
-b_nema_isles = tribal
+b_nema_isles = castle
 b_nema_isles2 = temple

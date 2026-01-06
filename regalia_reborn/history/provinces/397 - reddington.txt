@@ -2,5 +2,5 @@ title = c_reddington
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_reddington = tribal
+b_reddington = castle
 b_reddington2 = temple

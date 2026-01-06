@@ -2,5 +2,5 @@ title = c_nisidia
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_nisidia = tribal
+b_nisidia = castle
 b_nisidia2 = temple

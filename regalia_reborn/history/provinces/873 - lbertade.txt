@@ -2,5 +2,5 @@ title = c_lbertade
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_lbertade = tribal
+b_lbertade = castle
 b_lbertade2 = temple

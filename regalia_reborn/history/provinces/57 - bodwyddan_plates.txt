@@ -2,5 +2,5 @@ title = c_bodwyddan_plates
 max_settlements = 2
 culture = breizh
 religion = warda
-b_bodwyddan_plates = tribal
+b_bodwyddan_plates = castle
 b_bodwyddan_plates2 = temple

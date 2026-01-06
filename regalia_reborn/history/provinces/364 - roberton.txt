@@ -2,5 +2,5 @@ title = c_roberton
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_roberton = tribal
+b_roberton = castle
 b_roberton2 = temple

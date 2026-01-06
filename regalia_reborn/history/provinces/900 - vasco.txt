@@ -2,5 +2,5 @@ title = c_vasco
 max_settlements = 2
 culture = tierravera
 religion = estelley
-b_vasco = tribal
+b_vasco = castle
 b_vasco2 = temple

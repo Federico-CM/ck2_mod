@@ -2,5 +2,5 @@ title = c_crawlewes
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_crawlewes = tribal
+b_crawlewes = castle
 b_crawlewes2 = temple

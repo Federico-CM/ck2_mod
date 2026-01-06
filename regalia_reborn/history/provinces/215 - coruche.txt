@@ -2,5 +2,5 @@ title = c_coruche
 max_settlements = 2
 culture = bragacao
 religion = unionism
-b_coruche = tribal
+b_coruche = castle
 b_coruche2 = temple

@@ -2,5 +2,5 @@ title = c_valtyr
 max_settlements = 2
 culture = breizh
 religion = warda
-b_valtyr = tribal
+b_valtyr = castle
 b_valtyr2 = temple

@@ -2,5 +2,5 @@ title = c_hondeburg
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_hondeburg = tribal
+b_hondeburg = castle
 b_hondeburg2 = temple

@@ -2,5 +2,5 @@ title = c_akhalakaio
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_akhalakaio = tribal
+b_akhalakaio = castle
 b_akhalakaio2 = temple

@@ -2,5 +2,5 @@ title = c_rigan
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_rigan = tribal
+b_rigan = castle
 b_rigan2 = temple

@@ -2,5 +2,5 @@ title = c_rustington
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_rustington = tribal
+b_rustington = castle
 b_rustington2 = temple

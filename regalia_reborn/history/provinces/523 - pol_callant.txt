@@ -2,5 +2,5 @@ title = c_pol_callant
 max_settlements = 2
 culture = eronidas
 religion = unionism
-b_pol_callant = tribal
+b_pol_callant = castle
 b_pol_callant2 = temple

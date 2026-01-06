@@ -2,5 +2,5 @@ title = c_schatmeer
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_schatmeer = tribal
+b_schatmeer = castle
 b_schatmeer2 = temple

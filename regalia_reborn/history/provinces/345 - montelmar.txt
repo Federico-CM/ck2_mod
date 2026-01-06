@@ -2,5 +2,5 @@ title = c_montelmar
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_montelmar = tribal
+b_montelmar = castle
 b_montelmar2 = temple

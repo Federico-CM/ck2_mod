@@ -2,5 +2,5 @@ title = c_nystadfjord
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_nystadfjord = tribal
+b_nystadfjord = castle
 b_nystadfjord2 = temple

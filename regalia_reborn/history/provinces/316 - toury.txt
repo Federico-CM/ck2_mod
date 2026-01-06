@@ -2,5 +2,5 @@ title = c_toury
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_toury = tribal
+b_toury = castle
 b_toury2 = temple

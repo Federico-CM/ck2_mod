@@ -2,5 +2,5 @@ title = c_holgerne
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_holgerne = tribal
+b_holgerne = castle
 b_holgerne2 = temple

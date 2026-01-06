@@ -2,5 +2,5 @@ title = c_urbanus
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_urbanus = tribal
+b_urbanus = castle
 b_urbanus2 = temple

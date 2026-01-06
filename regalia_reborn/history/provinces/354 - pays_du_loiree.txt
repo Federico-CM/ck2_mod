@@ -2,5 +2,5 @@ title = c_pays_du_loiree
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_pays_du_loiree = tribal
+b_pays_du_loiree = castle
 b_pays_du_loiree2 = temple

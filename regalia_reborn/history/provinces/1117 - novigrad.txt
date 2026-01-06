@@ -2,5 +2,5 @@ title = c_novigrad
 max_settlements = 2
 culture = krainivaya
 religion = fornoss
-b_novigrad = tribal
+b_novigrad = castle
 b_novigrad2 = temple

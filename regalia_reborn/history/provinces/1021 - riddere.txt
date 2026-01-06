@@ -2,5 +2,5 @@ title = c_riddere
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_riddere = tribal
+b_riddere = castle
 b_riddere2 = temple

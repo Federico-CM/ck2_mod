@@ -2,5 +2,5 @@ title = c_nordeme
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_nordeme = tribal
+b_nordeme = castle
 b_nordeme2 = temple

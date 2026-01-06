@@ -2,5 +2,5 @@ title = c_albarn
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_albarn = tribal
+b_albarn = castle
 b_albarn2 = temple

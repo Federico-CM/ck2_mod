@@ -2,5 +2,5 @@ title = c_corkwell
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_corkwell = tribal
+b_corkwell = castle
 b_corkwell2 = temple

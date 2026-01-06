@@ -2,5 +2,5 @@ title = c_lacerion
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_lacerion = tribal
+b_lacerion = castle
 b_lacerion2 = temple

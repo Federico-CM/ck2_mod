@@ -2,5 +2,5 @@ title = c_wilemms
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_wilemms = tribal
+b_wilemms = castle
 b_wilemms2 = temple

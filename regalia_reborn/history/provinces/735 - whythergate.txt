@@ -2,5 +2,5 @@ title = c_whythergate
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_whythergate = tribal
+b_whythergate = castle
 b_whythergate2 = temple

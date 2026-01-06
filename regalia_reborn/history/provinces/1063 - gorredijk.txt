@@ -2,5 +2,5 @@ title = c_gorredijk
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_gorredijk = tribal
+b_gorredijk = castle
 b_gorredijk2 = temple

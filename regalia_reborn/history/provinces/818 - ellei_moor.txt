@@ -2,5 +2,5 @@ title = c_ellei_moor
 max_settlements = 2
 culture = solvaan
 religion = unionism
-b_ellei_moor = tribal
+b_ellei_moor = castle
 b_ellei_moor2 = temple

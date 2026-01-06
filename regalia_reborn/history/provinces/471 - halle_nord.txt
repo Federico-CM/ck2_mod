@@ -2,5 +2,5 @@ title = c_halle_nord
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_halle_nord = tribal
+b_halle_nord = castle
 b_halle_nord2 = temple

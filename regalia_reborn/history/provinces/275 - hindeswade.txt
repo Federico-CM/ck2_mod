@@ -2,5 +2,5 @@ title = c_hindeswade
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_hindeswade = tribal
+b_hindeswade = castle
 b_hindeswade2 = temple

@@ -2,5 +2,5 @@ title = c_talvikvass
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_talvikvass = tribal
+b_talvikvass = castle
 b_talvikvass2 = temple

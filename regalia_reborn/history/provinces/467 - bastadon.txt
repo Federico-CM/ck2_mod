@@ -2,5 +2,5 @@ title = c_bastadon
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_bastadon = tribal
+b_bastadon = castle
 b_bastadon2 = temple

@@ -2,5 +2,5 @@ title = c_gobirston
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_gobirston = tribal
+b_gobirston = castle
 b_gobirston2 = temple

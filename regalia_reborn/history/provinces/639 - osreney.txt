@@ -2,5 +2,5 @@ title = c_osreney
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_osreney = tribal
+b_osreney = castle
 b_osreney2 = temple

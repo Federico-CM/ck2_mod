@@ -2,5 +2,5 @@ title = c_orienburg
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_orienburg = tribal
+b_orienburg = castle
 b_orienburg2 = temple

@@ -2,5 +2,5 @@ title = c_riechstein
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_riechstein = tribal
+b_riechstein = castle
 b_riechstein2 = temple

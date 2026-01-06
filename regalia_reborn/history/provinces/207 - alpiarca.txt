@@ -2,5 +2,5 @@ title = c_alpiarca
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_alpiarca = tribal
+b_alpiarca = castle
 b_alpiarca2 = temple

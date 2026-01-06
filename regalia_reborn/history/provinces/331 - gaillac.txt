@@ -2,5 +2,5 @@ title = c_gaillac
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_gaillac = tribal
+b_gaillac = castle
 b_gaillac2 = temple

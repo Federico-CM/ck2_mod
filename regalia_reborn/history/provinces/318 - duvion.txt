@@ -2,5 +2,5 @@ title = c_duvion
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_duvion = tribal
+b_duvion = castle
 b_duvion2 = temple

@@ -2,5 +2,5 @@ title = c_radicofani
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_radicofani = tribal
+b_radicofani = castle
 b_radicofani2 = temple

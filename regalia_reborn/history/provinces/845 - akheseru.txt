@@ -2,5 +2,5 @@ title = c_akheseru
 max_settlements = 2
 culture = asha
 religion = khama
-b_akheseru = tribal
+b_akheseru = castle
 b_akheseru2 = temple

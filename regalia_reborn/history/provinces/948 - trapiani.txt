@@ -2,5 +2,5 @@ title = c_trapiani
 max_settlements = 2
 culture = azzizzari
 religion = unionism
-b_trapiani = tribal
+b_trapiani = castle
 b_trapiani2 = temple

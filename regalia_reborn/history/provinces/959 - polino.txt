@@ -2,5 +2,5 @@ title = c_polino
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_polino = tribal
+b_polino = castle
 b_polino2 = temple

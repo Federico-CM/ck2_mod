@@ -2,5 +2,5 @@ title = c_goudgat
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_goudgat = tribal
+b_goudgat = castle
 b_goudgat2 = temple

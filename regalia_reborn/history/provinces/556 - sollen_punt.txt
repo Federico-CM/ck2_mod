@@ -2,5 +2,5 @@ title = c_sollen_punt
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_sollen_punt = tribal
+b_sollen_punt = castle
 b_sollen_punt2 = temple

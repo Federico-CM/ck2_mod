@@ -2,5 +2,5 @@ title = c_olloesa
 max_settlements = 2
 culture = solvaan
 religion = estelley
-b_olloesa = tribal
+b_olloesa = castle
 b_olloesa2 = temple

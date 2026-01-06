@@ -2,5 +2,5 @@ title = c_doornmeer
 max_settlements = 2
 culture = eronidas
 religion = unionism
-b_doornmeer = tribal
+b_doornmeer = castle
 b_doornmeer2 = temple

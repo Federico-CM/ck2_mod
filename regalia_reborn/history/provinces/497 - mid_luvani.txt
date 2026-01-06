@@ -2,5 +2,5 @@ title = c_mid_luvani
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_mid_luvani = tribal
+b_mid_luvani = castle
 b_mid_luvani2 = temple

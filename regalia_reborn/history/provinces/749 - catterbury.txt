@@ -2,5 +2,5 @@ title = c_catterbury
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_catterbury = tribal
+b_catterbury = castle
 b_catterbury2 = temple

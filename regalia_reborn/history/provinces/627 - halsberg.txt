@@ -2,5 +2,5 @@ title = c_halsberg
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_halsberg = tribal
+b_halsberg = castle
 b_halsberg2 = temple

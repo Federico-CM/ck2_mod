@@ -2,5 +2,5 @@ title = c_siltcastle
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_siltcastle = tribal
+b_siltcastle = castle
 b_siltcastle2 = temple

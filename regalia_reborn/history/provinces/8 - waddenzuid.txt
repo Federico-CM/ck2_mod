@@ -2,5 +2,5 @@ title = c_waddenzuid
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_waddenzuid = tribal
+b_waddenzuid = castle
 b_waddenzuid2 = temple

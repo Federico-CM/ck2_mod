@@ -2,5 +2,5 @@ title = c_twyntyr
 max_settlements = 2
 culture = breizh
 religion = warda
-b_twyntyr = tribal
+b_twyntyr = castle
 b_twyntyr2 = temple

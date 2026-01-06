@@ -2,5 +2,5 @@ title = c_mildenhal
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_mildenhal = tribal
+b_mildenhal = castle
 b_mildenhal2 = temple

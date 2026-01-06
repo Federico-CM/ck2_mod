@@ -2,5 +2,5 @@ title = c_texellen
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_texellen = tribal
+b_texellen = castle
 b_texellen2 = temple

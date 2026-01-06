@@ -2,5 +2,5 @@ title = c_westwynd
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_westwynd = tribal
+b_westwynd = castle
 b_westwynd2 = temple

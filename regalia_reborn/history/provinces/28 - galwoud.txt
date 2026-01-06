@@ -2,5 +2,5 @@ title = c_galwoud
 max_settlements = 2
 culture = eronidas
 religion = unionism
-b_galwoud = tribal
+b_galwoud = castle
 b_galwoud2 = temple

@@ -2,5 +2,5 @@ title = c_mourinhao
 max_settlements = 2
 culture = bragacao
 religion = unionism
-b_mourinhao = tribal
+b_mourinhao = castle
 b_mourinhao2 = temple

@@ -2,5 +2,5 @@ title = c_corazon
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_corazon = tribal
+b_corazon = castle
 b_corazon2 = temple

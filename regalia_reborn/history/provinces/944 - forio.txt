@@ -2,5 +2,5 @@ title = c_forio
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_forio = tribal
+b_forio = castle
 b_forio2 = temple

@@ -2,5 +2,5 @@ title = c_saint_lume
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_saint_lume = tribal
+b_saint_lume = castle
 b_saint_lume2 = temple

@@ -2,5 +2,5 @@ title = c_callosa
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_callosa = tribal
+b_callosa = castle
 b_callosa2 = temple

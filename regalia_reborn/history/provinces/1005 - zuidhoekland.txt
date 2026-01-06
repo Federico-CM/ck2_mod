@@ -2,5 +2,5 @@ title = c_zuidhoekland
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_zuidhoekland = tribal
+b_zuidhoekland = castle
 b_zuidhoekland2 = temple

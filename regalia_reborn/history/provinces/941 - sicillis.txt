@@ -2,5 +2,5 @@ title = c_sicillis
 max_settlements = 2
 culture = azzizzari
 religion = unionism
-b_sicillis = tribal
+b_sicillis = castle
 b_sicillis2 = temple

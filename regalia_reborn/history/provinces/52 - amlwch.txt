@@ -2,5 +2,5 @@ title = c_amlwch
 max_settlements = 2
 culture = breizh
 religion = warda
-b_amlwch = tribal
+b_amlwch = castle
 b_amlwch2 = temple

@@ -2,5 +2,5 @@ title = c_marner
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_marner = tribal
+b_marner = castle
 b_marner2 = temple

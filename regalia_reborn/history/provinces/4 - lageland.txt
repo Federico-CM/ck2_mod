@@ -2,5 +2,5 @@ title = c_lageland
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_lageland = tribal
+b_lageland = castle
 b_lageland2 = temple

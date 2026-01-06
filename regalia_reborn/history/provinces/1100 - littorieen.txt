@@ -2,5 +2,5 @@ title = c_littorieen
 max_settlements = 2
 culture = tarkin
 religion = fornoss
-b_littorieen = tribal
+b_littorieen = castle
 b_littorieen2 = temple

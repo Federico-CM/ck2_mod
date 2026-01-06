@@ -2,5 +2,5 @@ title = c_reinach
 max_settlements = 2
 culture = genevaud
 religion = unionism
-b_reinach = tribal
+b_reinach = castle
 b_reinach2 = temple

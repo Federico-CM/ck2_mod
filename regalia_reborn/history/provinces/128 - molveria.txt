@@ -2,5 +2,5 @@ title = c_molveria
 max_settlements = 2
 culture = ania
 religion = unionism
-b_molveria = tribal
+b_molveria = castle
 b_molveria2 = temple

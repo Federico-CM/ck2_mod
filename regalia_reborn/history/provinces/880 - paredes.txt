@@ -2,5 +2,5 @@ title = c_paredes
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_paredes = tribal
+b_paredes = castle
 b_paredes2 = temple

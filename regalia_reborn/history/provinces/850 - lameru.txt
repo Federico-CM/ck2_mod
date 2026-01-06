@@ -2,5 +2,5 @@ title = c_lameru
 max_settlements = 2
 culture = asha
 religion = unionism
-b_lameru = tribal
+b_lameru = castle
 b_lameru2 = temple

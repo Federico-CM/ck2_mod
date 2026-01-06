@@ -2,5 +2,5 @@ title = c_corbridge
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_corbridge = tribal
+b_corbridge = castle
 b_corbridge2 = temple

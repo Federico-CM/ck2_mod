@@ -2,5 +2,5 @@ title = c_dundarne
 max_settlements = 2
 culture = dunbrae
 religion = unionism
-b_dundarne = tribal
+b_dundarne = castle
 b_dundarne2 = temple

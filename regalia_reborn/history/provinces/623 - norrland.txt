@@ -2,5 +2,5 @@ title = c_norrland
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_norrland = tribal
+b_norrland = castle
 b_norrland2 = temple

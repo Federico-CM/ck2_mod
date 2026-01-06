@@ -2,5 +2,5 @@ title = c_leerme
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_leerme = tribal
+b_leerme = castle
 b_leerme2 = temple

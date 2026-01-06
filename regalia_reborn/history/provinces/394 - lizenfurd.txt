@@ -2,5 +2,5 @@ title = c_lizenfurd
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_lizenfurd = tribal
+b_lizenfurd = castle
 b_lizenfurd2 = temple

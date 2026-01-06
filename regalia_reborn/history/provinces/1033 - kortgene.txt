@@ -2,5 +2,5 @@ title = c_kortgene
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_kortgene = tribal
+b_kortgene = castle
 b_kortgene2 = temple

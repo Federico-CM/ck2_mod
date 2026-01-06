@@ -2,5 +2,5 @@ title = c_heerepolder
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_heerepolder = tribal
+b_heerepolder = castle
 b_heerepolder2 = temple

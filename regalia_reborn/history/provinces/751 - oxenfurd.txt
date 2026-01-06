@@ -2,5 +2,5 @@ title = c_oxenfurd
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_oxenfurd = tribal
+b_oxenfurd = castle
 b_oxenfurd2 = temple

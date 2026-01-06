@@ -2,5 +2,5 @@ title = c_ulmanaal
 max_settlements = 2
 culture = solvaan
 religion = unionism
-b_ulmanaal = tribal
+b_ulmanaal = castle
 b_ulmanaal2 = temple

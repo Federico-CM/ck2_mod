@@ -2,5 +2,5 @@ title = c_ivormark
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_ivormark = tribal
+b_ivormark = castle
 b_ivormark2 = temple

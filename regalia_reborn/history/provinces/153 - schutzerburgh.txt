@@ -2,5 +2,5 @@ title = c_schutzerburgh
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_schutzerburgh = tribal
+b_schutzerburgh = castle
 b_schutzerburgh2 = temple

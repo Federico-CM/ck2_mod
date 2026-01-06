@@ -2,5 +2,5 @@ title = c_hull
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_hull = tribal
+b_hull = castle
 b_hull2 = temple

@@ -2,5 +2,5 @@ title = c_morvinda
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_morvinda = tribal
+b_morvinda = castle
 b_morvinda2 = temple

@@ -2,5 +2,5 @@ title = c_norrackal
 max_settlements = 2
 culture = dunbrae
 religion = unionism
-b_norrackal = tribal
+b_norrackal = castle
 b_norrackal2 = temple

@@ -2,5 +2,5 @@ title = c_des_ecrins
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_des_ecrins = tribal
+b_des_ecrins = castle
 b_des_ecrins2 = temple

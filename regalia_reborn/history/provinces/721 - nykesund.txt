@@ -2,5 +2,5 @@ title = c_nykesund
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_nykesund = tribal
+b_nykesund = castle
 b_nykesund2 = temple

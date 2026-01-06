@@ -2,5 +2,5 @@ title = c_sciermanna
 max_settlements = 2
 culture = kathar
 religion = evolism
-b_sciermanna = tribal
+b_sciermanna = castle
 b_sciermanna2 = temple

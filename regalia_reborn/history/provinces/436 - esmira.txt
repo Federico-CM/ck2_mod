@@ -2,5 +2,5 @@ title = c_esmira
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_esmira = tribal
+b_esmira = castle
 b_esmira2 = temple

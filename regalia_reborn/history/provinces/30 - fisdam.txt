@@ -2,5 +2,5 @@ title = c_fisdam
 max_settlements = 2
 culture = eronidas
 religion = unionism
-b_fisdam = tribal
+b_fisdam = castle
 b_fisdam2 = temple

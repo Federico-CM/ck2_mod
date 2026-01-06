@@ -2,5 +2,5 @@ title = c_anaklia
 max_settlements = 2
 culture = krainivaya
 religion = evintarian
-b_anaklia = tribal
+b_anaklia = castle
 b_anaklia2 = temple

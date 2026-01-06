@@ -2,5 +2,5 @@ title = c_moduglamura
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_moduglamura = tribal
+b_moduglamura = castle
 b_moduglamura2 = temple

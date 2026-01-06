@@ -2,5 +2,5 @@ title = c_girtenwald_am_see
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_girtenwald_am_see = tribal
+b_girtenwald_am_see = castle
 b_girtenwald_am_see2 = temple

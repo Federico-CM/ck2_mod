@@ -2,5 +2,5 @@ title = c_yaxleyliede
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_yaxleyliede = tribal
+b_yaxleyliede = castle
 b_yaxleyliede2 = temple

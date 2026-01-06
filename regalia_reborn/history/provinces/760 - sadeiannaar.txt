@@ -2,5 +2,5 @@ title = c_sadeiannaar
 max_settlements = 2
 culture = kathar
 religion = evolism
-b_sadeiannaar = tribal
+b_sadeiannaar = castle
 b_sadeiannaar2 = temple

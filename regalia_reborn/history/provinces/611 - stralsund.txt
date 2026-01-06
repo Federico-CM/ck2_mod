@@ -2,5 +2,5 @@ title = c_stralsund
 max_settlements = 2
 culture = velheim
 religion = unionism
-b_stralsund = tribal
+b_stralsund = castle
 b_stralsund2 = temple

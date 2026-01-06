@@ -2,5 +2,5 @@ title = c_mannelund
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_mannelund = tribal
+b_mannelund = castle
 b_mannelund2 = temple

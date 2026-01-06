@@ -2,5 +2,5 @@ title = c_deiscirt
 max_settlements = 2
 culture = aontaithe
 religion = fornoss
-b_deiscirt = tribal
+b_deiscirt = castle
 b_deiscirt2 = temple

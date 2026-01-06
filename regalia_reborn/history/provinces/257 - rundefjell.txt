@@ -2,5 +2,5 @@ title = c_rundefjell
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_rundefjell = tribal
+b_rundefjell = castle
 b_rundefjell2 = temple

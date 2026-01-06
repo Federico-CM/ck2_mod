@@ -2,5 +2,5 @@ title = c_beory
 max_settlements = 2
 culture = dwarven
 religion = fornoss
-b_beory = tribal
+b_beory = castle
 b_beory2 = temple

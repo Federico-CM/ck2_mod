@@ -2,5 +2,5 @@ title = c_epostella
 max_settlements = 2
 culture = cantaluna
 religion = amended
-b_epostella = tribal
+b_epostella = castle
 b_epostella2 = temple

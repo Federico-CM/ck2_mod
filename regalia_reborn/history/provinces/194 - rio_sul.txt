@@ -2,5 +2,5 @@ title = c_rio_sul
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_rio_sul = tribal
+b_rio_sul = castle
 b_rio_sul2 = temple

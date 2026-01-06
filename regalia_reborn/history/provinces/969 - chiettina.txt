@@ -2,5 +2,5 @@ title = c_chiettina
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_chiettina = tribal
+b_chiettina = castle
 b_chiettina2 = temple

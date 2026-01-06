@@ -2,5 +2,5 @@ title = c_rypefjell
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_rypefjell = tribal
+b_rypefjell = castle
 b_rypefjell2 = temple

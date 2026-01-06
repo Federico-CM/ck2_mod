@@ -2,5 +2,5 @@ title = c_drachenwald
 max_settlements = 2
 culture = schwarzwaldler
 religion = unionism
-b_drachenwald = tribal
+b_drachenwald = castle
 b_drachenwald2 = temple

@@ -2,5 +2,5 @@ title = c_grabice
 max_settlements = 2
 culture = wruclav
 religion = unionism
-b_grabice = tribal
+b_grabice = castle
 b_grabice2 = temple

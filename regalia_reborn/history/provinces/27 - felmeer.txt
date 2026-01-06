@@ -2,5 +2,5 @@ title = c_felmeer
 max_settlements = 2
 culture = eronidas
 religion = unionism
-b_felmeer = tribal
+b_felmeer = castle
 b_felmeer2 = temple

@@ -2,5 +2,5 @@ title = c_salzenwald
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_salzenwald = tribal
+b_salzenwald = castle
 b_salzenwald2 = temple

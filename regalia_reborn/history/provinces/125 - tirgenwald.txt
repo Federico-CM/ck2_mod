@@ -2,5 +2,5 @@ title = c_tirgenwald
 max_settlements = 2
 culture = leutz_vixe
 religion = unionism
-b_tirgenwald = tribal
+b_tirgenwald = castle
 b_tirgenwald2 = temple

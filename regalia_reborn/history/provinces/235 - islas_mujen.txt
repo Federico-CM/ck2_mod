@@ -2,5 +2,5 @@ title = c_islas_mujen
 max_settlements = 2
 culture = allar
 religion = unionism
-b_islas_mujen = tribal
+b_islas_mujen = castle
 b_islas_mujen2 = temple

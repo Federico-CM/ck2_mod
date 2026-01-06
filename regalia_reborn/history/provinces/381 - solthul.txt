@@ -2,5 +2,5 @@ title = c_solthul
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_solthul = tribal
+b_solthul = castle
 b_solthul2 = temple

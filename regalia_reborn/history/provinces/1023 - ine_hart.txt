@@ -2,5 +2,5 @@ title = c_ine_hart
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_ine_hart = tribal
+b_ine_hart = castle
 b_ine_hart2 = temple

@@ -2,5 +2,5 @@ title = c_archalskgrad
 max_settlements = 2
 culture = krainivaya
 religion = fornoss
-b_archalskgrad = tribal
+b_archalskgrad = castle
 b_archalskgrad2 = temple

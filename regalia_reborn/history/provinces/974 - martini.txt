@@ -2,5 +2,5 @@ title = c_martini
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_martini = tribal
+b_martini = castle
 b_martini2 = temple

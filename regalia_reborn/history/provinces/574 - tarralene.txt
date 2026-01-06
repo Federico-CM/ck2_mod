@@ -2,5 +2,5 @@ title = c_tarralene
 max_settlements = 2
 culture = finul
 religion = estelley
-b_tarralene = tribal
+b_tarralene = castle
 b_tarralene2 = temple

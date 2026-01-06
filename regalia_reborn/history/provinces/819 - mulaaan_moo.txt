@@ -2,5 +2,5 @@ title = c_mulaaan_moo
 max_settlements = 2
 culture = solvaan
 religion = estelley
-b_mulaaan_moo = tribal
+b_mulaaan_moo = castle
 b_mulaaan_moo2 = temple

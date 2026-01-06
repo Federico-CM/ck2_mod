@@ -2,5 +2,5 @@ title = c_penilla
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_penilla = tribal
+b_penilla = castle
 b_penilla2 = temple

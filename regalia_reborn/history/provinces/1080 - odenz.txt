@@ -2,5 +2,5 @@ title = c_odenz
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_odenz = tribal
+b_odenz = castle
 b_odenz2 = temple

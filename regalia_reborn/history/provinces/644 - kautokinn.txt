@@ -2,5 +2,5 @@ title = c_kautokinn
 max_settlements = 2
 culture = tarkin
 religion = fornoss
-b_kautokinn = tribal
+b_kautokinn = castle
 b_kautokinn2 = temple

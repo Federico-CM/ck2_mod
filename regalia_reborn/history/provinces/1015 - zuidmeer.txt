@@ -2,5 +2,5 @@ title = c_zuidmeer
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_zuidmeer = tribal
+b_zuidmeer = castle
 b_zuidmeer2 = temple

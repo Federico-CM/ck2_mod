@@ -2,5 +2,5 @@ title = c_verleysteyn
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_verleysteyn = tribal
+b_verleysteyn = castle
 b_verleysteyn2 = temple

@@ -2,5 +2,5 @@ title = c_montua
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_montua = tribal
+b_montua = castle
 b_montua2 = temple

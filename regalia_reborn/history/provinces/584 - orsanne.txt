@@ -2,5 +2,5 @@ title = c_orsanne
 max_settlements = 2
 culture = llasada
 religion = estelley
-b_orsanne = tribal
+b_orsanne = castle
 b_orsanne2 = temple

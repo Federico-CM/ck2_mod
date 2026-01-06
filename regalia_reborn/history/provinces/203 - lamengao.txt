@@ -2,5 +2,5 @@ title = c_lamengao
 max_settlements = 2
 culture = bragacao
 religion = unionism
-b_lamengao = tribal
+b_lamengao = castle
 b_lamengao2 = temple

@@ -2,5 +2,5 @@ title = c_sigetorn
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_sigetorn = tribal
+b_sigetorn = castle
 b_sigetorn2 = temple

@@ -2,5 +2,5 @@ title = c_styren
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_styren = tribal
+b_styren = castle
 b_styren2 = temple

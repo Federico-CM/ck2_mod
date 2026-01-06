@@ -2,5 +2,5 @@ title = c_karwar
 max_settlements = 2
 culture = suvial
 religion = estelley
-b_karwar = tribal
+b_karwar = castle
 b_karwar2 = temple

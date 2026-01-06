@@ -2,5 +2,5 @@ title = c_iblei
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_iblei = tribal
+b_iblei = castle
 b_iblei2 = temple

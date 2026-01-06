@@ -2,5 +2,5 @@ title = c_salamaan
 max_settlements = 2
 culture = solvaan
 religion = estelley
-b_salamaan = tribal
+b_salamaan = castle
 b_salamaan2 = temple

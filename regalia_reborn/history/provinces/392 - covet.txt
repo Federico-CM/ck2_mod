@@ -2,5 +2,5 @@ title = c_covet
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_covet = tribal
+b_covet = castle
 b_covet2 = temple

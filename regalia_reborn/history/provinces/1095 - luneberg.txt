@@ -2,5 +2,5 @@ title = c_luneberg
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_luneberg = tribal
+b_luneberg = castle
 b_luneberg2 = temple

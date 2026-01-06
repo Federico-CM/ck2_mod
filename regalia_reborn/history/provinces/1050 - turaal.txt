@@ -2,5 +2,5 @@ title = c_turaal
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_turaal = tribal
+b_turaal = castle
 b_turaal2 = temple

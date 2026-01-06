@@ -2,5 +2,5 @@ title = c_forriesta_natal
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_forriesta_natal = tribal
+b_forriesta_natal = castle
 b_forriesta_natal2 = temple

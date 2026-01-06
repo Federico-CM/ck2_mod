@@ -2,5 +2,5 @@ title = c_keelburg
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_keelburg = tribal
+b_keelburg = castle
 b_keelburg2 = temple

@@ -2,5 +2,5 @@ title = c_campelo
 max_settlements = 2
 culture = bragacao
 religion = unionism
-b_campelo = tribal
+b_campelo = castle
 b_campelo2 = temple

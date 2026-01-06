@@ -2,5 +2,5 @@ title = c_remich
 max_settlements = 2
 culture = leutz_vixe
 religion = unionism
-b_remich = tribal
+b_remich = castle
 b_remich2 = temple

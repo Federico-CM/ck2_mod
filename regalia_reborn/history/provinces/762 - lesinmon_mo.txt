@@ -2,5 +2,5 @@ title = c_lesinmon_mo
 max_settlements = 2
 culture = anglian
 religion = evolism
-b_lesinmon_mo = tribal
+b_lesinmon_mo = castle
 b_lesinmon_mo2 = temple

@@ -2,5 +2,5 @@ title = c_caerwys
 max_settlements = 2
 culture = breizh
 religion = warda
-b_caerwys = tribal
+b_caerwys = castle
 b_caerwys2 = temple

@@ -2,5 +2,5 @@ title = c_bauerland
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_bauerland = tribal
+b_bauerland = castle
 b_bauerland2 = temple

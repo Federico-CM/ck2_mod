@@ -2,5 +2,5 @@ title = c_benedita
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_benedita = tribal
+b_benedita = castle
 b_benedita2 = temple

@@ -2,5 +2,5 @@ title = c_hunneberg
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_hunneberg = tribal
+b_hunneberg = castle
 b_hunneberg2 = temple

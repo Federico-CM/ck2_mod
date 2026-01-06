@@ -2,5 +2,5 @@ title = c_torono
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_torono = tribal
+b_torono = castle
 b_torono2 = temple

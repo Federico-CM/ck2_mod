@@ -2,5 +2,5 @@ title = c_coctenford
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_coctenford = tribal
+b_coctenford = castle
 b_coctenford2 = temple

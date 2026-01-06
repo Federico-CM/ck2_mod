@@ -2,5 +2,5 @@ title = c_mollere_ise
 max_settlements = 2
 culture = solvaan
 religion = unionism
-b_mollere_ise = tribal
+b_mollere_ise = castle
 b_mollere_ise2 = temple

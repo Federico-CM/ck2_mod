@@ -2,5 +2,5 @@ title = c_drachten
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_drachten = tribal
+b_drachten = castle
 b_drachten2 = temple

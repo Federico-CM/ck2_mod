@@ -2,5 +2,5 @@ title = c_herrera
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_herrera = tribal
+b_herrera = castle
 b_herrera2 = temple

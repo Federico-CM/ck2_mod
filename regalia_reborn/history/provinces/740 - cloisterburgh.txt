@@ -2,5 +2,5 @@ title = c_cloisterburgh
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_cloisterburgh = tribal
+b_cloisterburgh = castle
 b_cloisterburgh2 = temple

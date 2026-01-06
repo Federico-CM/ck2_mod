@@ -2,5 +2,5 @@ title = c_ottaholm
 max_settlements = 2
 culture = dwarven
 religion = fornoss
-b_ottaholm = tribal
+b_ottaholm = castle
 b_ottaholm2 = temple

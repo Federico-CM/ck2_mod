@@ -2,5 +2,5 @@ title = c_herrenix
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_herrenix = tribal
+b_herrenix = castle
 b_herrenix2 = temple

@@ -2,5 +2,5 @@ title = c_prester
 max_settlements = 2
 culture = leutz_vixe
 religion = unionism
-b_prester = tribal
+b_prester = castle
 b_prester2 = temple

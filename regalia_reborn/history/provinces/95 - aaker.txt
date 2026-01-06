@@ -2,5 +2,5 @@ title = c_aaker
 max_settlements = 2
 culture = leutz_vixe
 religion = unionism
-b_aaker = tribal
+b_aaker = castle
 b_aaker2 = temple

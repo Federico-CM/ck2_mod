@@ -2,5 +2,5 @@ title = c_avaal_moor
 max_settlements = 2
 culture = solvaan
 religion = unionism
-b_avaal_moor = tribal
+b_avaal_moor = castle
 b_avaal_moor2 = temple

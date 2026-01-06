@@ -2,5 +2,5 @@ title = c_barlowe
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_barlowe = tribal
+b_barlowe = castle
 b_barlowe2 = temple

@@ -2,5 +2,5 @@ title = c_medavirra
 max_settlements = 2
 culture = cantaluna
 religion = unionism
-b_medavirra = tribal
+b_medavirra = castle
 b_medavirra2 = temple

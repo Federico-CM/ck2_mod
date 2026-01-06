@@ -2,5 +2,5 @@ title = c_gorzen
 max_settlements = 2
 culture = zvorun
 religion = unionism
-b_gorzen = tribal
+b_gorzen = castle
 b_gorzen2 = temple

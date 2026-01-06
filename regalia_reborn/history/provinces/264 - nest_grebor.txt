@@ -2,5 +2,5 @@ title = c_nest_grebor
 max_settlements = 2
 culture = dwarven
 religion = fornoss
-b_nest_grebor = tribal
+b_nest_grebor = castle
 b_nest_grebor2 = temple

@@ -2,5 +2,5 @@ title = c_tilletcastle
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_tilletcastle = tribal
+b_tilletcastle = castle
 b_tilletcastle2 = temple

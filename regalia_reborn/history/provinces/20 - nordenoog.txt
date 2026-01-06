@@ -2,5 +2,5 @@ title = c_nordenoog
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_nordenoog = tribal
+b_nordenoog = castle
 b_nordenoog2 = temple

@@ -2,5 +2,5 @@ title = c_parta
 max_settlements = 2
 culture = cantaluna
 religion = amended
-b_parta = tribal
+b_parta = castle
 b_parta2 = temple

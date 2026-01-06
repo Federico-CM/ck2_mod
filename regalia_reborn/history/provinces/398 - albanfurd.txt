@@ -2,5 +2,5 @@ title = c_albanfurd
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_albanfurd = tribal
+b_albanfurd = castle
 b_albanfurd2 = temple

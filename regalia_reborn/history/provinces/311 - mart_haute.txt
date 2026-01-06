@@ -2,5 +2,5 @@ title = c_mart_haute
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_mart_haute = tribal
+b_mart_haute = castle
 b_mart_haute2 = temple

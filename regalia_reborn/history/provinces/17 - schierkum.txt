@@ -2,5 +2,5 @@ title = c_schierkum
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_schierkum = tribal
+b_schierkum = castle
 b_schierkum2 = temple

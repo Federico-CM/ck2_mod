@@ -2,5 +2,5 @@ title = c_dallevald
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_dallevald = tribal
+b_dallevald = castle
 b_dallevald2 = temple

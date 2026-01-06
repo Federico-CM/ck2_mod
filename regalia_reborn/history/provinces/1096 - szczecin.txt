@@ -2,5 +2,5 @@ title = c_szczecin
 max_settlements = 2
 culture = wruclav
 religion = unionism
-b_szczecin = tribal
+b_szczecin = castle
 b_szczecin2 = temple

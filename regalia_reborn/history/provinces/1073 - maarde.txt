@@ -2,5 +2,5 @@ title = c_maarde
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_maarde = tribal
+b_maarde = castle
 b_maarde2 = temple

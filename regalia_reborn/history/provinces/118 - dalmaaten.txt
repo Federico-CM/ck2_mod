@@ -2,5 +2,5 @@ title = c_dalmaaten
 max_settlements = 2
 culture = leutz_vixe
 religion = unionism
-b_dalmaaten = tribal
+b_dalmaaten = castle
 b_dalmaaten2 = temple

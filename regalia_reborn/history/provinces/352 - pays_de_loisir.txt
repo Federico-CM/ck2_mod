@@ -2,5 +2,5 @@ title = c_pays_de_loisir
 max_settlements = 2
 culture = ithanian
 religion = unionism
-b_pays_de_loisir = tribal
+b_pays_de_loisir = castle
 b_pays_de_loisir2 = temple

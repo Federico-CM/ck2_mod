@@ -2,5 +2,5 @@ title = c_wynderwald
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_wynderwald = tribal
+b_wynderwald = castle
 b_wynderwald2 = temple

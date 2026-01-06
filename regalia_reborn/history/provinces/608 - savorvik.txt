@@ -2,5 +2,5 @@ title = c_savorvik
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_savorvik = tribal
+b_savorvik = castle
 b_savorvik2 = temple

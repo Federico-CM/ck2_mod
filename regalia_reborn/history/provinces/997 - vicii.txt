@@ -2,5 +2,5 @@ title = c_vicii
 max_settlements = 2
 culture = cantaluna
 religion = amended
-b_vicii = tribal
+b_vicii = castle
 b_vicii2 = temple

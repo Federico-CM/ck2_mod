@@ -2,5 +2,5 @@ title = c_tessoliki
 max_settlements = 2
 culture = etosian
 religion = evintarian
-b_tessoliki = tribal
+b_tessoliki = castle
 b_tessoliki2 = temple

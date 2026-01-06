@@ -2,5 +2,5 @@ title = c_neuhandelberg
 max_settlements = 2
 culture = velheim
 religion = unionism
-b_neuhandelberg = tribal
+b_neuhandelberg = castle
 b_neuhandelberg2 = temple

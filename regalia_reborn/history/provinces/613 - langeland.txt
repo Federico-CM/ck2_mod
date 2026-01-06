@@ -2,5 +2,5 @@ title = c_langeland
 max_settlements = 2
 culture = velheim
 religion = fornoss
-b_langeland = tribal
+b_langeland = castle
 b_langeland2 = temple

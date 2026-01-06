@@ -2,5 +2,5 @@ title = c_setamru
 max_settlements = 2
 culture = asha
 religion = khama
-b_setamru = tribal
+b_setamru = castle
 b_setamru2 = temple

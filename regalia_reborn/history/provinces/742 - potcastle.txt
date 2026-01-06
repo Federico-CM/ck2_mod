@@ -2,5 +2,5 @@ title = c_potcastle
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_potcastle = tribal
+b_potcastle = castle
 b_potcastle2 = temple

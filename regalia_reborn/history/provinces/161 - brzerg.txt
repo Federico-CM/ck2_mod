@@ -2,5 +2,5 @@ title = c_brzerg
 max_settlements = 2
 culture = wruclav
 religion = unionism
-b_brzerg = tribal
+b_brzerg = castle
 b_brzerg2 = temple

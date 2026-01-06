@@ -2,5 +2,5 @@ title = c_rosaria
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_rosaria = tribal
+b_rosaria = castle
 b_rosaria2 = temple

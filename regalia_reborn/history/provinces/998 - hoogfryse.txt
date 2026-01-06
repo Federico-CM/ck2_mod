@@ -2,5 +2,5 @@ title = c_hoogfryse
 max_settlements = 2
 culture = anglian
 religion = unionism
-b_hoogfryse = tribal
+b_hoogfryse = castle
 b_hoogfryse2 = temple

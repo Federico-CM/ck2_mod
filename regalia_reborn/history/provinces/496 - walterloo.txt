@@ -2,5 +2,5 @@ title = c_walterloo
 max_settlements = 2
 culture = cearden
 religion = unionism
-b_walterloo = tribal
+b_walterloo = castle
 b_walterloo2 = temple

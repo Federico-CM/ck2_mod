@@ -2,5 +2,5 @@ title = c_santa_clara
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_santa_clara = tribal
+b_santa_clara = castle
 b_santa_clara2 = temple

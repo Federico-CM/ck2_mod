@@ -2,5 +2,5 @@ title = c_susollen
 max_settlements = 2
 culture = anglian
 religion = draconism
-b_susollen = tribal
+b_susollen = castle
 b_susollen2 = temple

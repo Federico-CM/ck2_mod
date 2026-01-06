@@ -2,5 +2,5 @@ title = c_quesada
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_quesada = tribal
+b_quesada = castle
 b_quesada2 = temple

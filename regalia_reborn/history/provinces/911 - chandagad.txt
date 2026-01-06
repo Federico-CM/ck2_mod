@@ -2,5 +2,5 @@ title = c_chandagad
 max_settlements = 2
 culture = suvial
 religion = estelley
-b_chandagad = tribal
+b_chandagad = castle
 b_chandagad2 = temple

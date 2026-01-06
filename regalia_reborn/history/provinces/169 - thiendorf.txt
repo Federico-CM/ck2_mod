@@ -2,5 +2,5 @@ title = c_thiendorf
 max_settlements = 2
 culture = wirtem
 religion = unionism
-b_thiendorf = tribal
+b_thiendorf = castle
 b_thiendorf2 = temple

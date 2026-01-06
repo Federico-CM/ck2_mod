@@ -2,5 +2,5 @@ title = c_xitra
 max_settlements = 2
 culture = bragacao
 religion = unionism
-b_xitra = tribal
+b_xitra = castle
 b_xitra2 = temple

@@ -2,5 +2,5 @@ title = c_romera
 max_settlements = 2
 culture = tierravera
 religion = unionism
-b_romera = tribal
+b_romera = castle
 b_romera2 = temple
