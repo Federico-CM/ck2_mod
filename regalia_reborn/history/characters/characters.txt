@@ -1,9 +1,23 @@
-1 = { # Alexander I
-	name = "Alexander"
+1 = {
+	name = "Alexander" # Kade
 	culture = anglian
 	religion = unionism
 	257.1.1 = {
 		birth = 257.1.1
+	}
+
+	279.4.1 = {
+		add_spouse=137
+	}
+
+	299.4.1 = {
+		#remove_spouse = 137
+		add_spouse=139
+	}
+
+	309.4.1 = {
+		#remove_spouse = 139
+		add_spouse=150
 	}
 	312.1.1 = {
 		death = {
@@ -16,12 +30,16 @@
 }
 
 2 = {
-	name = "Svanhild"
+	name = "Svanhild" # Oltorskr
 	culture = velheim
 	religion = fornoss
 	female = yes
 	206.1.1 = {
 		birth = 206.1.1
+	}
+
+	222.4.1 = {
+		add_matrilineal_spouse=3
 	}
 	264.1.1 = {
 		death = 264.1.1
@@ -30,11 +48,15 @@
 }
 
 3 = {
-	name = "Adalradr"
+	name = "Adalradr" # Oltorskr
 	culture = velheim
 	religion = fornoss
 	196.1.1 = {
 		birth = 196.1.1
+	}
+
+	222.4.1 = {
+		add_matrilineal_spouse=2
 	}
 	256.1.1 = {
 		death = 256.1.1
@@ -43,7 +65,7 @@
 }
 
 4 = {
-	name = "Leona"
+	name = "Leona" # Oltorskr
 	culture = velheim
 	religion = fornoss
 	female = yes
@@ -59,12 +81,16 @@
 }
 
 5 = {
-	name = "Inga"
+	name = "Inga" # Haugeby
 	culture = velheim
 	religion = fornoss
 	female = yes
 	243.1.1 = {
 		birth = 243.1.1
+	}
+
+	283.4.1 = {
+		add_spouse=138
 	}
 	343.1.1 = {
 		death = 343.1.1
@@ -73,7 +99,7 @@
 }
 
 6 = {
-	name = "Aron"
+	name = "Aron" # Oltorskr
 	culture = velheim
 	religion = fornoss
 	264.1.1 = {
@@ -88,7 +114,7 @@
 }
 
 7 = {
-	name = "Enok"
+	name = "Enok" # Oltorskr
 	culture = velheim
 	religion = fornoss
 	262.1.1 = {
@@ -103,7 +129,7 @@
 }
 
 8 = {
-	name = "Arnbjorg"
+	name = "Arnbjorg" # Oltorskr
 	culture = velheim
 	religion = fornoss
 	female = yes
@@ -119,12 +145,21 @@
 }
 
 9 = {
-	name = "Ani"
+	name = "Ani" # Oltorskr
 	culture = velheim
 	religion = fornoss
 	female = yes
 	263.1.1 = {
 		birth = 263.1.1
+	}
+
+	282.4.1 = {
+		add_matrilineal_spouse=210
+	}
+
+	287.4.1 = {
+		add_spouse=186
+		#remove_spouse = 210
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -135,12 +170,21 @@
 }
 
 10 = {
-	name = "Katrin"
+	name = "Katrin" # Oltorskr
 	culture = velheim
 	religion = fornoss
 	female = yes
 	282.1.1 = {
 		birth = 282.1.1
+	}
+
+	301.4.1 = {
+		add_spouse=188
+	}
+
+	349.4.1 = {
+		#remove_spouse = 188
+		add_matrilineal_spouse=801
 	}
 	382.1.1 = {
 		death = 382.1.1
@@ -151,7 +195,7 @@
 }
 
 11 = {
-	name = "Vulmar"
+	name = "Vulmar" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	283.1.1 = {
@@ -166,7 +210,7 @@
 }
 
 12 = {
-	name = "Medard"
+	name = "Medard" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	268.1.1 = {
@@ -181,12 +225,16 @@
 }
 
 13 = {
-	name = "Konstanze"
+	name = "Konstanze" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	female = yes
 	249.1.1 = {
 		birth = 249.1.1
+	}
+
+	278.4.1 = {
+		add_matrilineal_spouse=14
 	}
 	308.1.1 = {
 		death = 308.1.1
@@ -196,11 +244,15 @@
 }
 
 14 = {
-	name = "Rolf"
+	name = "Rolf" # Krier
 	culture = wirtem
 	religion = unionism
 	240.1.1 = {
 		birth = 240.1.1
+	}
+
+	278.4.1 = {
+		add_matrilineal_spouse=13
 	}
 	304.1.1 = {
 		death = 304.1.1
@@ -209,7 +261,7 @@
 }
 
 15 = {
-	name = "Rued"
+	name = "Rued" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	209.1.1 = {
@@ -222,7 +274,7 @@
 }
 
 16 = {
-	name = "Erwald"
+	name = "Erwald" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	279.1.1 = {
@@ -237,7 +289,7 @@
 }
 
 17 = {
-	name = "Vicelin"
+	name = "Vicelin" # of Praag
 	culture = leutz_vixe
 	religion = unionism
 	290.1.1 = {
@@ -251,7 +303,7 @@
 }
 
 18 = {
-	name = "Fury"
+	name = "Fury" # Arken
 	culture = velheim
 	religion = fornoss
 	240.1.1 = {
@@ -264,7 +316,7 @@
 }
 
 19 = {
-	name = "Riccard"
+	name = "Riccard" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	261.1.1 = {
@@ -278,12 +330,16 @@
 }
 
 20 = {
-	name = "Alette"
+	name = "Alette" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	female = yes
 	235.1.1 = {
 		birth = 235.1.1
+	}
+
+	253.4.1 = {
+		add_spouse=43
 	}
 	298.1.1 = {
 		death = 298.1.1
@@ -293,7 +349,7 @@
 }
 
 21 = {
-	name = "Viktor"
+	name = "Viktor" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	288.1.1 = {
@@ -308,12 +364,20 @@
 }
 
 22 = {
-	name = "Charlotte"
+	name = "Charlotte" # Mosselberg
 	culture = wirtem
 	religion = unionism
 	female = yes
 	260.1.1 = {
 		birth = 260.1.1
+	}
+
+	287.4.1 = {
+		add_spouse=23
+	}
+
+	293.4.1 = {
+		#remove_spouse = 23
 	}
 	360.1.1 = {
 		death = 360.1.1
@@ -322,11 +386,20 @@
 }
 
 23 = {
-	name = "Anton"
+	name = "Anton" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	266.1.1 = {
 		birth = 266.1.1
+	}
+
+	287.4.1 = {
+		add_spouse=22
+	}
+
+	293.4.1 = {
+		#remove_spouse = 22
+		add_spouse=27
 	}
 	366.1.1 = {
 		death = 366.1.1
@@ -337,12 +410,16 @@
 }
 
 24 = {
-	name = "Sybille"
+	name = "Sybille" # Schauss
 	culture = wirtem
 	religion = unionism
 	female = yes
 	249.1.1 = {
 		birth = 249.1.1
+	}
+
+	265.4.1 = {
+		add_spouse=25
 	}
 	349.1.1 = {
 		death = 349.1.1
@@ -352,11 +429,15 @@
 }
 
 25 = {
-	name = "Karel"
+	name = "Karel" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	239.1.1 = {
 		birth = 239.1.1
+	}
+
+	265.4.1 = {
+		add_spouse=24
 	}
 	339.1.1 = {
 		death = 339.1.1
@@ -366,7 +447,7 @@
 }
 
 26 = {
-	name = "Riccard"
+	name = "Riccard" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	292.1.1 = {
@@ -381,12 +462,16 @@
 }
 
 27 = {
-	name = "Auddriana"
+	name = "Auddriana" # Braquemont
 	culture = ithanian
 	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
+	}
+
+	293.4.1 = {
+		add_spouse=23
 	}
 	370.1.1 = {
 		death = 370.1.1
@@ -395,7 +480,7 @@
 }
 
 28 = {
-	name = "Helena"
+	name = "Helena" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -411,11 +496,15 @@
 }
 
 29 = {
-	name = "Parzival"
+	name = "Parzival" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
+	}
+
+	296.4.1 = {
+		add_spouse=31
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -426,7 +515,7 @@
 }
 
 30 = {
-	name = "Xavier"
+	name = "Xavier" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	283.1.1 = {
@@ -441,12 +530,16 @@
 }
 
 31 = {
-	name = "Adelaide"
+	name = "Adelaide" # Brandebourgh
 	culture = wirtem
 	religion = unionism
 	female = yes
 	263.1.1 = {
 		birth = 263.1.1
+	}
+
+	296.4.1 = {
+		add_spouse=29
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -455,7 +548,7 @@
 }
 
 32 = {
-	name = "Cecile"
+	name = "Cecile" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -471,7 +564,7 @@
 }
 
 33 = {
-	name = "Jean Luc"
+	name = "Jean Luc" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	297.1.1 = {
@@ -486,7 +579,7 @@
 }
 
 34 = {
-	name = "Eleonore"
+	name = "Eleonore" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -502,7 +595,7 @@
 }
 
 35 = {
-	name = "Riccard"
+	name = "Riccard" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	286.1.1 = {
@@ -517,12 +610,16 @@
 }
 
 36 = {
-	name = "Regine"
+	name = "Regine" # von Grunwald
 	culture = wirtem
 	religion = unionism
 	female = yes
 	259.1.1 = {
 		birth = 259.1.1
+	}
+
+	290.4.1 = {
+		add_spouse=227
 	}
 	359.1.1 = {
 		death = 359.1.1
@@ -531,7 +628,7 @@
 }
 
 37 = {
-	name = "Aldrich"
+	name = "Aldrich" # Typhonus
 	culture = wirtem
 	religion = unionism
 	132.1.1 = {
@@ -544,11 +641,15 @@
 }
 
 38 = {
-	name = "Niven"
+	name = "Niven" # Typhonus
 	culture = wirtem
 	religion = unionism
 	162.1.1 = {
 		birth = 162.1.1
+	}
+
+	190.4.1 = {
+		add_spouse=39
 	}
 	230.1.1 = {
 		death = 230.1.1
@@ -558,12 +659,16 @@
 }
 
 39 = {
-	name = "Helene Marie"
+	name = "Helene Marie" # Brunig
 	culture = wirtem
 	religion = unionism
 	female = yes
 	164.1.1 = {
 		birth = 164.1.1
+	}
+
+	190.4.1 = {
+		add_spouse=38
 	}
 	195.1.1 = {
 		death = 195.1.1
@@ -573,7 +678,7 @@
 }
 
 40 = {
-	name = "Gerhard"
+	name = "Gerhard" # Typhonus
 	culture = wirtem
 	religion = unionism
 	185.1.1 = {
@@ -588,7 +693,7 @@
 }
 
 41 = {
-	name = "Ottokar"
+	name = "Ottokar" # Typhonus
 	culture = wirtem
 	religion = unionism
 	191.1.1 = {
@@ -603,7 +708,7 @@
 }
 
 42 = {
-	name = "Laurenz"
+	name = "Laurenz" # Typhonus
 	culture = wirtem
 	religion = unionism
 	224.1.1 = {
@@ -617,11 +722,15 @@
 }
 
 43 = {
-	name = "Hadrian"
+	name = "Hadrian" # Typhonus
 	culture = wirtem
 	religion = unionism
 	206.1.1 = {
 		birth = 206.1.1
+	}
+
+	253.4.1 = {
+		add_spouse=20
 	}
 	271.1.1 = {
 		death = 271.1.1
@@ -631,7 +740,7 @@
 }
 
 44 = {
-	name = "Theodon"
+	name = "Theodon" # Typhonus
 	culture = wirtem
 	religion = unionism
 	243.1.1 = {
@@ -645,11 +754,15 @@
 }
 
 45 = {
-	name = "Albrecht"
+	name = "Albrecht" # Typhonus
 	culture = wirtem
 	religion = unionism
 	263.1.1 = {
 		birth = 263.1.1
+	}
+
+	286.4.1 = {
+		add_spouse=479
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -659,7 +772,7 @@
 }
 
 46 = {
-	name = "Rudolph"
+	name = "Rudolph" # Typhonus
 	culture = wirtem
 	religion = unionism
 	260.1.1 = {
@@ -673,7 +786,7 @@
 }
 
 47 = {
-	name = "Maximillian"
+	name = "Maximillian" # Typhonus
 	culture = wirtem
 	religion = unionism
 	261.1.1 = {
@@ -687,7 +800,7 @@
 }
 
 48 = {
-	name = "Ulrich"
+	name = "Ulrich" # Typhonus
 	culture = wirtem
 	religion = unionism
 	251.1.1 = {
@@ -702,7 +815,7 @@
 }
 
 49 = {
-	name = "Klaus"
+	name = "Klaus" # Typhonus
 	culture = wirtem
 	religion = unionism
 	287.1.1 = {
@@ -717,7 +830,7 @@
 }
 
 50 = {
-	name = "Reynold"
+	name = "Reynold" # Typhonus
 	culture = wirtem
 	religion = unionism
 	279.1.1 = {
@@ -732,7 +845,7 @@
 }
 
 51 = {
-	name = "Lydia"
+	name = "Lydia" # Typhonus
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -748,7 +861,7 @@
 }
 
 52 = {
-	name = "Thoron"
+	name = "Thoron" # Typhonus
 	culture = wirtem
 	religion = unionism
 	254.1.1 = {
@@ -763,7 +876,7 @@
 }
 
 53 = {
-	name = "Reinhardt"
+	name = "Reinhardt" # Typhonus
 	culture = wirtem
 	religion = unionism
 	278.1.1 = {
@@ -777,7 +890,7 @@
 }
 
 54 = {
-	name = "Cecillie"
+	name = "Cecillie" # Typhonus
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -792,7 +905,7 @@
 }
 
 55 = {
-	name = "Roland"
+	name = "Roland" # Typhonus
 	culture = wirtem
 	religion = unionism
 	296.1.1 = {
@@ -806,7 +919,7 @@
 }
 
 56 = {
-	name = "Aolderich"
+	name = "Aolderich" # Typhonus
 	culture = wirtem
 	religion = unionism
 	273.1.1 = {
@@ -820,7 +933,7 @@
 }
 
 57 = {
-	name = "Elrik"
+	name = "Elrik" # Typhonus
 	culture = wirtem
 	religion = unionism
 	279.1.1 = {
@@ -834,7 +947,7 @@
 }
 
 58 = {
-	name = "Jaekor"
+	name = "Jaekor" # Typhonus
 	culture = wirtem
 	religion = unionism
 	274.1.1 = {
@@ -848,12 +961,16 @@
 }
 
 59 = {
-	name = "Riane"
+	name = "Riane" # Typhonus
 	culture = wirtem
 	religion = unionism
 	female = yes
 	276.1.1 = {
 		birth = 276.1.1
+	}
+
+	309.4.1 = {
+		add_spouse=234
 	}
 	376.1.1 = {
 		death = 376.1.1
@@ -863,7 +980,7 @@
 }
 
 60 = {
-	name = "Reimar"
+	name = "Reimar" # Typhonus
 	culture = wirtem
 	religion = unionism
 	295.1.1 = {
@@ -877,7 +994,7 @@
 }
 
 61 = {
-	name = "Josephine"
+	name = "Josephine" # Typhonus
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -893,12 +1010,16 @@
 }
 
 62 = {
-	name = "Rianne"
+	name = "Rianne" # Brunlg
 	culture = wirtem
 	religion = unionism
 	female = yes
 	20.1.1 = {
 		birth = 20.1.1
+	}
+
+	37.4.1 = {
+		add_spouse=64
 	}
 	65.1.1 = {
 		death = 65.1.1
@@ -908,7 +1029,7 @@
 }
 
 63 = {
-	name = "Caldomir"
+	name = "Caldomir" # Kade
 	culture = anglian
 	religion = unionism
 	6.1.1 = {
@@ -921,11 +1042,15 @@
 }
 
 64 = {
-	name = "Aldomir"
+	name = "Aldomir" # Kade
 	culture = anglian
 	religion = unionism
 	22.1.1 = {
 		birth = 22.1.1
+	}
+
+	37.4.1 = {
+		add_spouse=62
 	}
 	75.1.1 = {
 		death = 75.1.1
@@ -935,7 +1060,7 @@
 }
 
 65 = {
-	name = "Eotranna"
+	name = "Eotranna" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -950,7 +1075,7 @@
 }
 
 66 = {
-	name = "Tedromar"
+	name = "Tedromar" # Kade
 	culture = anglian
 	religion = unionism
 	24.1.1 = {
@@ -964,7 +1089,7 @@
 }
 
 67 = {
-	name = "Dwalmar"
+	name = "Dwalmar" # Kade
 	culture = anglian
 	religion = unionism
 	26.1.1 = {
@@ -978,7 +1103,7 @@
 }
 
 68 = {
-	name = "Arnold"
+	name = "Arnold" # Kade
 	culture = anglian
 	religion = unionism
 	28.1.1 = {
@@ -992,12 +1117,16 @@
 }
 
 70 = {
-	name = "Kattemeis"
+	name = "Kattemeis" # ter Uilenburg
 	culture = anglian
 	religion = unionism
 	female = yes
 	18.1.1 = {
 		birth = 18.1.1
+	}
+
+	53.4.1 = {
+		add_spouse=69
 	}
 	56.1.1 = {
 		death = 56.1.1
@@ -1006,11 +1135,15 @@
 }
 
 69 = {
-	name = "Betheoric"
+	name = "Betheoric" # Kade
 	culture = anglian
 	religion = unionism
 	38.1.1 = {
 		birth = 38.1.1
+	}
+
+	53.4.1 = {
+		add_spouse=70
 	}
 	79.1.1 = {
 		death = 79.1.1
@@ -1021,11 +1154,15 @@
 }
 
 71 = {
-	name = "Betheoric"
+	name = "Betheoric" # Kade
 	culture = anglian
 	religion = unionism
 	54.1.1 = {
 		birth = 54.1.1
+	}
+
+	79.4.1 = {
+		add_spouse=72
 	}
 	104.1.1 = {
 		death = 104.1.1
@@ -1036,12 +1173,16 @@
 }
 
 72 = {
-	name = "Maenarra"
+	name = "Maenarra" # Brunlg
 	culture = wirtem
 	religion = unionism
 	female = yes
 	51.1.1 = {
 		birth = 51.1.1
+	}
+
+	79.4.1 = {
+		add_spouse=71
 	}
 	104.1.1 = {
 		death = 104.1.1
@@ -1050,7 +1191,7 @@
 }
 
 73 = {
-	name = "Ellenore"
+	name = "Ellenore" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1066,7 +1207,7 @@
 }
 
 74 = {
-	name = "Tarnan"
+	name = "Tarnan" # Kade
 	culture = anglian
 	religion = unionism
 	93.1.1 = {
@@ -1080,7 +1221,7 @@
 }
 
 75 = {
-	name = "Sarvan"
+	name = "Sarvan" # Kade
 	culture = anglian
 	religion = unionism
 	94.1.1 = {
@@ -1094,12 +1235,16 @@
 }
 
 76 = {
-	name = "Beatrix"
+	name = "Beatrix" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
 	80.1.1 = {
 		birth = 80.1.1
+	}
+
+	120.4.1 = {
+		add_matrilineal_spouse=77
 	}
 	141.1.1 = {
 		death = 141.1.1
@@ -1110,11 +1255,15 @@
 }
 
 77 = {
-	name = "Arnold"
+	name = "Arnold" # van Zuienburg
 	culture = anglian
 	religion = unionism
 	79.1.1 = {
 		birth = 79.1.1
+	}
+
+	120.4.1 = {
+		add_matrilineal_spouse=76
 	}
 	160.1.1 = {
 		death = 160.1.1
@@ -1123,7 +1272,7 @@
 }
 
 78 = {
-	name = "Nikolaas (nicholas)"
+	name = "Nikolaas (nicholas)" # Kade
 	culture = anglian
 	religion = unionism
 	103.1.1 = {
@@ -1138,7 +1287,7 @@
 }
 
 79 = {
-	name = "Kassandra"
+	name = "Kassandra" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1154,7 +1303,7 @@
 }
 
 80 = {
-	name = "Melissa"
+	name = "Melissa" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1170,7 +1319,7 @@
 }
 
 81 = {
-	name = "Elenoor"
+	name = "Elenoor" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1186,7 +1335,7 @@
 }
 
 82 = {
-	name = "Fienne"
+	name = "Fienne" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1202,7 +1351,7 @@
 }
 
 83 = {
-	name = "Trixa"
+	name = "Trixa" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1218,7 +1367,7 @@
 }
 
 84 = {
-	name = "Celemora"
+	name = "Celemora" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1234,11 +1383,15 @@
 }
 
 85 = {
-	name = "Arnold"
+	name = "Arnold" # Kade
 	culture = anglian
 	religion = unionism
 	150.1.1 = {
 		birth = 150.1.1
+	}
+
+	173.4.1 = {
+		add_spouse=86
 	}
 	205.1.1 = {
 		death = 205.1.1
@@ -1248,12 +1401,16 @@
 }
 
 86 = {
-	name = "Ingrid"
+	name = "Ingrid" # Langbergenwald
 	culture = wirtem
 	religion = unionism
 	female = yes
 	155.1.1 = {
 		birth = 155.1.1
+	}
+
+	173.4.1 = {
+		add_spouse=85
 	}
 	215.1.1 = {
 		death = 215.1.1
@@ -1262,7 +1419,7 @@
 }
 
 87 = {
-	name = "Erik"
+	name = "Erik" # Kade
 	culture = anglian
 	religion = unionism
 	153.1.1 = {
@@ -1276,7 +1433,7 @@
 }
 
 88 = {
-	name = "Karel"
+	name = "Karel" # Kade
 	culture = anglian
 	religion = unionism
 	155.1.1 = {
@@ -1290,7 +1447,7 @@
 }
 
 89 = {
-	name = "Theomar"
+	name = "Theomar" # Kade
 	culture = anglian
 	religion = unionism
 	159.1.1 = {
@@ -1304,7 +1461,7 @@
 }
 
 90 = {
-	name = "Loesinne"
+	name = "Loesinne" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1319,7 +1476,7 @@
 }
 
 91 = {
-	name = "Leona"
+	name = "Leona" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1335,7 +1492,7 @@
 }
 
 92 = {
-	name = "Alexander"
+	name = "Alexander" # Kade
 	culture = anglian
 	religion = unionism
 	172.1.1 = {
@@ -1350,11 +1507,15 @@
 }
 
 93 = {
-	name = "Kedmir"
+	name = "Kedmir" # Kade
 	culture = anglian
 	religion = unionism
 	173.1.1 = {
 		birth = 173.1.1
+	}
+
+	200.4.1 = {
+		add_spouse=94
 	}
 	216.1.1 = {
 		death = 216.1.1
@@ -1365,12 +1526,16 @@
 }
 
 94 = {
-	name = "Suzanne"
+	name = "Suzanne" # ter Apellenburg
 	culture = anglian
 	religion = unionism
 	female = yes
 	170.1.1 = {
 		birth = 170.1.1
+	}
+
+	200.4.1 = {
+		add_spouse=93
 	}
 	210.1.1 = {
 		death = 210.1.1
@@ -1379,7 +1544,7 @@
 }
 
 95 = {
-	name = "Dalmer"
+	name = "Dalmer" # Kade
 	culture = anglian
 	religion = unionism
 	190.1.1 = {
@@ -1394,11 +1559,15 @@
 }
 
 96 = {
-	name = "Morgenkroon"
+	name = "Morgenkroon" # Kade
 	culture = anglian
 	religion = unionism
 	201.1.1 = {
 		birth = 201.1.1
+	}
+
+	233.4.1 = {
+		add_matrilineal_spouse=178
 	}
 	256.1.1 = {
 		death = 256.1.1
@@ -1409,11 +1578,15 @@
 }
 
 97 = {
-	name = "Normen"
+	name = "Normen" # Kade
 	culture = anglian
 	religion = unionism
 	218.1.1 = {
 		birth = 218.1.1
+	}
+
+	249.4.1 = {
+		add_spouse=98
 	}
 	272.1.1 = {
 		death = 272.1.1
@@ -1423,12 +1596,16 @@
 }
 
 98 = {
-	name = "Morgannan"
+	name = "Morgannan" # van Elst
 	culture = anglian
 	religion = unionism
 	female = yes
 	207.1.1 = {
 		birth = 207.1.1
+	}
+
+	249.4.1 = {
+		add_spouse=97
 	}
 	307.1.1 = {
 		death = 307.1.1
@@ -1437,7 +1614,7 @@
 }
 
 99 = {
-	name = "Jacilla"
+	name = "Jacilla" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1452,7 +1629,7 @@
 }
 
 100 = {
-	name = "Moorak"
+	name = "Moorak" # van Polsterwerk
 	culture = anglian
 	religion = unionism
 	205.1.1 = {
@@ -1465,7 +1642,7 @@
 }
 
 101 = {
-	name = "Bellatrix"
+	name = "Bellatrix" # sur Mont
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -1479,7 +1656,7 @@
 }
 
 102 = {
-	name = "Aliandre"
+	name = "Aliandre" # Kade
 	culture = anglian
 	religion = unionism
 	219.1.1 = {
@@ -1493,7 +1670,7 @@
 }
 
 103 = {
-	name = "Terijin"
+	name = "Terijin" # Kade
 	culture = anglian
 	religion = unionism
 	223.1.1 = {
@@ -1507,7 +1684,7 @@
 }
 
 104 = {
-	name = "Willem"
+	name = "Willem" # Kade
 	culture = anglian
 	religion = unionism
 	225.1.1 = {
@@ -1521,7 +1698,7 @@
 }
 
 105 = {
-	name = "Walmar"
+	name = "Walmar" # Kade
 	culture = anglian
 	religion = unionism
 	233.1.1 = {
@@ -1535,11 +1712,15 @@
 }
 
 106 = {
-	name = "Moriart"
+	name = "Moriart" # Kade
 	culture = anglian
 	religion = unionism
 	234.1.1 = {
 		birth = 234.1.1
+	}
+
+	283.4.1 = {
+		add_spouse=107
 	}
 	303.1.1 = {
 		death = 303.1.1
@@ -1550,12 +1731,16 @@
 }
 
 107 = {
-	name = "Allianne"
+	name = "Allianne" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	female = yes
 	241.1.1 = {
 		birth = 241.1.1
+	}
+
+	283.4.1 = {
+		add_spouse=106
 	}
 	341.1.1 = {
 		death = 341.1.1
@@ -1566,12 +1751,16 @@
 }
 
 108 = {
-	name = "Marie"
+	name = "Marie" # Delurite
 	culture = ithanian
 	religion = unionism
 	female = yes
 	280.1.1 = {
 		birth = 280.1.1
+	}
+
+	299.4.1 = {
+		add_spouse=110
 	}
 	380.1.1 = {
 		death = 380.1.1
@@ -1580,7 +1769,7 @@
 }
 
 109 = {
-	name = "Albert Stijn"
+	name = "Albert Stijn" # Kade
 	culture = anglian
 	religion = unionism
 	300.1.1 = {
@@ -1595,11 +1784,15 @@
 }
 
 110 = {
-	name = "Francis"
+	name = "Francis" # Kade
 	culture = anglian
 	religion = unionism
 	257.1.1 = {
 		birth = 257.1.1
+	}
+
+	299.4.1 = {
+		add_spouse=108
 	}
 	357.1.1 = {
 		death = 357.1.1
@@ -1610,11 +1803,15 @@
 }
 
 111 = {
-	name = "Maximillian"
+	name = "Maximillian" # Kade
 	culture = anglian
 	religion = unionism
 	236.1.1 = {
 		birth = 236.1.1
+	}
+
+	273.4.1 = {
+		add_spouse=112
 	}
 	336.1.1 = {
 		death = 336.1.1
@@ -1625,12 +1822,16 @@
 }
 
 112 = {
-	name = "Elizabet"
+	name = "Elizabet" # van Voldemeer
 	culture = anglian
 	religion = unionism
 	female = yes
 	241.1.1 = {
 		birth = 241.1.1
+	}
+
+	273.4.1 = {
+		add_spouse=111
 	}
 	341.1.1 = {
 		death = 341.1.1
@@ -1639,7 +1840,7 @@
 }
 
 113 = {
-	name = "Willem Friso"
+	name = "Willem Friso" # Kade
 	culture = anglian
 	religion = unionism
 	260.1.1 = {
@@ -1654,7 +1855,7 @@
 }
 
 114 = {
-	name = "Konstantijn"
+	name = "Konstantijn" # Kade
 	culture = anglian
 	religion = unionism
 	274.1.1 = {
@@ -1669,7 +1870,7 @@
 }
 
 115 = {
-	name = "Justiniaan"
+	name = "Justiniaan" # Kade
 	culture = anglian
 	religion = unionism
 	244.1.1 = {
@@ -1684,7 +1885,7 @@
 }
 
 116 = {
-	name = "Sheila Manon"
+	name = "Sheila Manon" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1700,7 +1901,7 @@
 }
 
 117 = {
-	name = "Gloriane"
+	name = "Gloriane" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1716,12 +1917,16 @@
 }
 
 118 = {
-	name = "Beatrix"
+	name = "Beatrix" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
 	249.1.1 = {
 		birth = 249.1.1
+	}
+
+	288.4.1 = {
+		add_matrilineal_spouse=119
 	}
 	310.1.1 = {
 		death = 310.1.1
@@ -1732,11 +1937,15 @@
 }
 
 119 = {
-	name = "Hetrijin"
+	name = "Hetrijin" # Etterburgh
 	culture = anglian
 	religion = unionism
 	231.1.1 = {
 		birth = 231.1.1
+	}
+
+	288.4.1 = {
+		add_matrilineal_spouse=118
 	}
 	331.1.1 = {
 		death = 331.1.1
@@ -1745,7 +1954,7 @@
 }
 
 120 = {
-	name = "Daan"
+	name = "Daan" # Kade
 	culture = anglian
 	religion = unionism
 	278.1.1 = {
@@ -1760,7 +1969,7 @@
 }
 
 121 = {
-	name = "Laurent"
+	name = "Laurent" # Kade
 	culture = anglian
 	religion = unionism
 	283.1.1 = {
@@ -1775,7 +1984,7 @@
 }
 
 122 = {
-	name = "Edwine"
+	name = "Edwine" # Kade
 	culture = anglian
 	religion = unionism
 	285.1.1 = {
@@ -1790,7 +1999,7 @@
 }
 
 123 = {
-	name = "Esme"
+	name = "Esme" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1806,12 +2015,16 @@
 }
 
 124 = {
-	name = "Aliandra"
+	name = "Aliandra" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
 	250.1.1 = {
 		birth = 250.1.1
+	}
+
+	284.4.1 = {
+		add_matrilineal_spouse=125
 	}
 	350.1.1 = {
 		death = 350.1.1
@@ -1822,11 +2035,15 @@
 }
 
 125 = {
-	name = "Anton"
+	name = "Anton" # Viraine
 	culture = ithanian
 	religion = unionism
 	243.1.1 = {
 		birth = 243.1.1
+	}
+
+	284.4.1 = {
+		add_matrilineal_spouse=124
 	}
 	343.1.1 = {
 		death = 343.1.1
@@ -1835,7 +2052,7 @@
 }
 
 126 = {
-	name = "Remon"
+	name = "Remon" # Kade
 	culture = anglian
 	religion = unionism
 	261.1.1 = {
@@ -1849,7 +2066,7 @@
 }
 
 127 = {
-	name = "Desmon"
+	name = "Desmon" # Kade
 	culture = anglian
 	religion = unionism
 	268.1.1 = {
@@ -1863,7 +2080,7 @@
 }
 
 128 = {
-	name = "Arianne"
+	name = "Arianne" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1878,7 +2095,7 @@
 }
 
 129 = {
-	name = "Hendrik"
+	name = "Hendrik" # Kade
 	culture = anglian
 	religion = unionism
 	271.1.1 = {
@@ -1892,7 +2109,7 @@
 }
 
 130 = {
-	name = "Roena"
+	name = "Roena" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1908,7 +2125,7 @@
 }
 
 131 = {
-	name = "Jozua"
+	name = "Jozua" # Kade
 	culture = anglian
 	religion = unionism
 	275.1.1 = {
@@ -1923,7 +2140,7 @@
 }
 
 132 = {
-	name = "Goderol"
+	name = "Goderol" # Kade
 	culture = anglian
 	religion = unionism
 	274.1.1 = {
@@ -1938,7 +2155,7 @@
 }
 
 133 = {
-	name = "Godfried"
+	name = "Godfried" # Kade
 	culture = anglian
 	religion = unionism
 	276.1.1 = {
@@ -1953,7 +2170,7 @@
 }
 
 134 = {
-	name = "Antonie"
+	name = "Antonie" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -1969,7 +2186,7 @@
 }
 
 135 = {
-	name = "Karlo"
+	name = "Karlo" # Kade
 	culture = anglian
 	religion = unionism
 	281.1.1 = {
@@ -1984,7 +2201,7 @@
 }
 
 136 = {
-	name = "Willem"
+	name = "Willem" # Kade
 	culture = anglian
 	religion = unionism
 	285.1.1 = {
@@ -1999,12 +2216,16 @@
 }
 
 137 = {
-	name = "Eloise"
+	name = "Eloise" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	female = yes
 	260.1.1 = {
 		birth = 260.1.1
+	}
+
+	279.4.1 = {
+		add_spouse=1
 	}
 	291.1.1 = {
 		death = 291.1.1
@@ -2012,14 +2233,22 @@
 	dynasty = 23
 	mother = 311
 	father = 310
+
+	299.4.1 = {
+		#remove_spouse = 1
+	}
 }
 
 138 = {
-	name = "Tridrekr"
+	name = "Tridrekr" # Oltorskr
 	culture = velheim
 	religion = fornoss
 	223.1.1 = {
 		birth = 223.1.1
+	}
+
+	283.4.1 = {
+		add_spouse=5
 	}
 	389.1.1 = {
 		death = 389.1.1
@@ -2030,25 +2259,37 @@
 }
 
 139 = {
-	name = "Tamara"
+	name = "Tamara" # Vorlinderburgh
 	culture = anglian
 	religion = unionism
 	female = yes
 	274.1.1 = {
 		birth = 274.1.1
 	}
+
+	299.4.1 = {
+		add_spouse=1
+	}
 	300.1.1 = {
 		death = 300.1.1
 	}
 	dynasty = 28
+
+	309.4.1 = {
+		#remove_spouse = 1
+	}
 }
 
 140 = {
-	name = "Reynaud"
+	name = "Reynaud" # Kade
 	culture = anglian
 	religion = unionism
 	276.1.1 = {
 		birth = 276.1.1
+	}
+
+	299.4.1 = {
+		add_spouse=168
 	}
 	376.1.1 = {
 		death = 376.1.1
@@ -2059,7 +2300,7 @@
 }
 
 141 = {
-	name = "Frederik"
+	name = "Frederik" # Kade
 	culture = anglian
 	religion = unionism
 	278.1.1 = {
@@ -2074,11 +2315,15 @@
 }
 
 142 = {
-	name = "Raymond"
+	name = "Raymond" # Kade
 	culture = anglian
 	religion = unionism
 	280.1.1 = {
 		birth = 280.1.1
+	}
+
+	311.4.1 = {
+		add_spouse=171
 	}
 	380.1.1 = {
 		death = 380.1.1
@@ -2089,7 +2334,7 @@
 }
 
 143 = {
-	name = "Robbert"
+	name = "Robbert" # Kade
 	culture = anglian
 	religion = unionism
 	300.1.1 = {
@@ -2104,7 +2349,7 @@
 }
 
 144 = {
-	name = "Moriart"
+	name = "Moriart" # Kade
 	culture = anglian
 	religion = unionism
 	295.1.1 = {
@@ -2119,7 +2364,7 @@
 }
 
 145 = {
-	name = "Vohemond"
+	name = "Vohemond" # Kade
 	culture = anglian
 	religion = unionism
 	310.1.1 = {
@@ -2134,7 +2379,7 @@
 }
 
 146 = {
-	name = "Edouard"
+	name = "Edouard" # Kade
 	culture = anglian
 	religion = unionism
 	309.1.1 = {
@@ -2149,7 +2394,7 @@
 }
 
 147 = {
-	name = "Carlos"
+	name = "Carlos" # Kade
 	culture = anglian
 	religion = unionism
 	308.1.1 = {
@@ -2164,7 +2409,7 @@
 }
 
 148 = {
-	name = "Yvonne"
+	name = "Yvonne" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -2180,7 +2425,7 @@
 }
 
 149 = {
-	name = "Jezeme"
+	name = "Jezeme" # Kade
 	culture = anglian
 	religion = unionism
 	305.1.1 = {
@@ -2195,12 +2440,16 @@
 }
 
 150 = {
-	name = "Juliana"
+	name = "Juliana" # de Lobo
 	culture = tierravera
 	religion = unionism
 	female = yes
 	279.1.1 = {
 		birth = 279.1.1
+	}
+
+	309.4.1 = {
+		add_spouse=1
 	}
 	379.1.1 = {
 		death = 379.1.1
@@ -2209,11 +2458,15 @@
 }
 
 151 = {
-	name = "Tomas"
+	name = "Tomas" # Kade
 	culture = anglian
 	religion = unionism
 	258.1.1 = {
 		birth = 258.1.1
+	}
+
+	287.4.1 = {
+		add_spouse=152
 	}
 	358.1.1 = {
 		death = 358.1.1
@@ -2224,12 +2477,16 @@
 }
 
 152 = {
-	name = "Rosalia"
+	name = "Rosalia" # Lovegood
 	culture = cearden
 	religion = unionism
 	female = yes
 	260.1.1 = {
 		birth = 260.1.1
+	}
+
+	287.4.1 = {
+		add_spouse=151
 	}
 	291.1.1 = {
 		death = 291.1.1
@@ -2238,7 +2495,7 @@
 }
 
 153 = {
-	name = "Duncan"
+	name = "Duncan" # Kade
 	culture = anglian
 	religion = unionism
 	276.1.1 = {
@@ -2253,7 +2510,7 @@
 }
 
 154 = {
-	name = "Valentijn"
+	name = "Valentijn" # Kade
 	culture = anglian
 	religion = unionism
 	277.1.1 = {
@@ -2268,7 +2525,7 @@
 }
 
 155 = {
-	name = "Noor"
+	name = "Noor" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -2284,7 +2541,7 @@
 }
 
 156 = {
-	name = "Juliana"
+	name = "Juliana" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -2300,7 +2557,7 @@
 }
 
 157 = {
-	name = "Jasper"
+	name = "Jasper" # Kade
 	culture = anglian
 	religion = unionism
 	285.1.1 = {
@@ -2315,7 +2572,7 @@
 }
 
 158 = {
-	name = "Darryl"
+	name = "Darryl" # Kade
 	culture = anglian
 	religion = unionism
 	288.1.1 = {
@@ -2330,7 +2587,7 @@
 }
 
 159 = {
-	name = "Alderik"
+	name = "Alderik" # Kade
 	culture = anglian
 	religion = unionism
 	258.1.1 = {
@@ -2345,7 +2602,7 @@
 }
 
 160 = {
-	name = "Dominique"
+	name = "Dominique" # Kade
 	culture = anglian
 	religion = unionism
 	260.1.1 = {
@@ -2360,7 +2617,7 @@
 }
 
 161 = {
-	name = "Cedromar"
+	name = "Cedromar" # Kade
 	culture = anglian
 	religion = unionism
 	267.1.1 = {
@@ -2375,12 +2632,16 @@
 }
 
 162 = {
-	name = "Amalia"
+	name = "Amalia" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
 	269.1.1 = {
 		birth = 269.1.1
+	}
+
+	291.4.1 = {
+		add_spouse=850
 	}
 	369.1.1 = {
 		death = 369.1.1
@@ -2391,7 +2652,7 @@
 }
 
 163 = {
-	name = "Taddeus"
+	name = "Taddeus" # Kade
 	culture = wirtem
 	religion = unionism
 	275.1.1 = {
@@ -2406,7 +2667,7 @@
 }
 
 164 = {
-	name = "Floorance"
+	name = "Floorance" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -2422,7 +2683,7 @@
 }
 
 165 = {
-	name = "Evelienne"
+	name = "Evelienne" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -2438,7 +2699,7 @@
 }
 
 166 = {
-	name = "Xavier"
+	name = "Xavier" # Kade
 	culture = anglian
 	religion = unionism
 	283.1.1 = {
@@ -2453,7 +2714,7 @@
 }
 
 167 = {
-	name = "Xander"
+	name = "Xander" # Kade
 	culture = anglian
 	religion = unionism
 	284.1.1 = {
@@ -2468,12 +2729,16 @@
 }
 
 168 = {
-	name = "Heloise"
+	name = "Heloise" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	female = yes
 	272.1.1 = {
 		birth = 272.1.1
+	}
+
+	299.4.1 = {
+		add_spouse=140
 	}
 	372.1.1 = {
 		death = 372.1.1
@@ -2483,7 +2748,7 @@
 }
 
 169 = {
-	name = "Michiel"
+	name = "Michiel" # Kade
 	culture = anglian
 	religion = unionism
 	299.1.1 = {
@@ -2498,7 +2763,7 @@
 }
 
 170 = {
-	name = "Marjike"
+	name = "Marjike" # Kade
 	culture = anglian
 	religion = unionism
 	300.1.1 = {
@@ -2513,12 +2778,16 @@
 }
 
 171 = {
-	name = "Quinn"
+	name = "Quinn" # of Portburgh
 	culture = cearden
 	religion = unionism
 	female = yes
 	290.1.1 = {
 		birth = 290.1.1
+	}
+
+	311.4.1 = {
+		add_spouse=142
 	}
 	390.1.1 = {
 		death = 390.1.1
@@ -2527,7 +2796,7 @@
 }
 
 172 = {
-	name = "Valentijn"
+	name = "Valentijn" # Kade
 	culture = anglian
 	religion = unionism
 	306.1.1 = {
@@ -2542,7 +2811,7 @@
 }
 
 173 = {
-	name = "Wouter"
+	name = "Wouter" # Kade
 	culture = anglian
 	religion = unionism
 	307.1.1 = {
@@ -2557,7 +2826,7 @@
 }
 
 174 = {
-	name = "Leonie"
+	name = "Leonie" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -2573,7 +2842,7 @@
 }
 
 175 = {
-	name = "Yvonne"
+	name = "Yvonne" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -2589,7 +2858,7 @@
 }
 
 176 = {
-	name = "Therese"
+	name = "Therese" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -2605,7 +2874,7 @@
 }
 
 177 = {
-	name = "Femke Flien"
+	name = "Femke Flien" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
@@ -2621,12 +2890,16 @@
 }
 
 178 = {
-	name = "Olenya"
+	name = "Olenya" # Kade Neylade
 	culture = solvaan
 	religion = unionism
 	female = yes
 	200.1.1 = {
 		birth = 200.1.1
+	}
+
+	233.4.1 = {
+		add_matrilineal_spouse=96
 	}
 	281.1.1 = {
 		death = 281.1.1
@@ -2636,7 +2909,7 @@
 }
 
 179 = {
-	name = "Xay"
+	name = "Xay" # Kade Neylade
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -2652,7 +2925,7 @@
 }
 
 180 = {
-	name = "Oleia"
+	name = "Oleia" # Kade Neylade
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -2668,7 +2941,7 @@
 }
 
 181 = {
-	name = "Saam"
+	name = "Saam" # Kade Neylade
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -2684,11 +2957,15 @@
 }
 
 182 = {
-	name = "Willard"
+	name = "Willard" # Howlester
 	culture = gallovian
 	religion = unionism
 	228.1.1 = {
 		birth = 228.1.1
+	}
+
+	269.4.1 = {
+		add_spouse=183
 	}
 	285.1.1 = {
 		death = 285.1.1
@@ -2699,12 +2976,16 @@
 }
 
 183 = {
-	name = "Guinevere"
+	name = "Guinevere" # Westbrook
 	culture = cearden
 	religion = unionism
 	female = yes
 	235.1.1 = {
 		birth = 235.1.1
+	}
+
+	269.4.1 = {
+		add_spouse=182
 	}
 	335.1.1 = {
 		death = 335.1.1
@@ -2714,7 +2995,7 @@
 }
 
 184 = {
-	name = "Osric"
+	name = "Osric" # Howlester
 	culture = gallovian
 	religion = unionism
 	258.1.1 = {
@@ -2729,12 +3010,20 @@
 }
 
 185 = {
-	name = "Jehenna"
+	name = "Jehenna" # Lampero
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	258.1.1 = {
 		birth = 258.1.1
+	}
+
+	286.4.1 = {
+		add_spouse=186
+	}
+
+	287.4.1 = {
+		#remove_spouse = 186
 	}
 	358.1.1 = {
 		death = 358.1.1
@@ -2744,11 +3033,20 @@
 }
 
 186 = {
-	name = "Wilvahelm"
+	name = "Wilvahelm" # Howlester
 	culture = gallovian
 	religion = unionism
 	254.1.1 = {
 		birth = 254.1.1
+	}
+
+	286.4.1 = {
+		add_spouse=185
+	}
+
+	287.4.1 = {
+		add_spouse=9
+		#remove_spouse = 185
 	}
 	354.1.1 = {
 		death = 354.1.1
@@ -2759,7 +3057,7 @@
 }
 
 187 = {
-	name = "Milahme"
+	name = "Milahme" # Howlester
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -2775,11 +3073,19 @@
 }
 
 188 = {
-	name = "Rodderick"
+	name = "Rodderick" # Howlester
 	culture = gallovian
 	religion = unionism
 	279.1.1 = {
 		birth = 279.1.1
+	}
+
+	301.4.1 = {
+		add_spouse=10
+	}
+
+	349.4.1 = {
+		#remove_spouse = 10
 	}
 	379.1.1 = {
 		death = 379.1.1
@@ -2790,11 +3096,15 @@
 }
 
 189 = {
-	name = "Aldwynn"
+	name = "Aldwynn" # Howlester
 	culture = gallovian
 	religion = unionism
 	281.1.1 = {
 		birth = 281.1.1
+	}
+
+	300.4.1 = {
+		add_spouse=727
 	}
 	381.1.1 = {
 		death = 381.1.1
@@ -2805,7 +3115,7 @@
 }
 
 190 = {
-	name = "Genevieve"
+	name = "Genevieve" # Howlester
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -2820,7 +3130,7 @@
 }
 
 191 = {
-	name = "Celianna"
+	name = "Celianna" # Howlester
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -2836,7 +3146,7 @@
 }
 
 192 = {
-	name = "Tommen"
+	name = "Tommen" # Howlester
 	culture = gallovian
 	religion = unionism
 	280.1.1 = {
@@ -2851,7 +3161,7 @@
 }
 
 193 = {
-	name = "Rosalina"
+	name = "Rosalina" # Howlester
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -2867,7 +3177,7 @@
 }
 
 194 = {
-	name = "Ylva"
+	name = "Ylva" # Howlester
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -2883,7 +3193,7 @@
 }
 
 195 = {
-	name = "Lillian"
+	name = "Lillian" # Howlester
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -2899,7 +3209,7 @@
 }
 
 196 = {
-	name = "Alferic"
+	name = "Alferic" # Howlester
 	culture = gallovian
 	religion = unionism
 	298.1.1 = {
@@ -2914,7 +3224,7 @@
 }
 
 197 = {
-	name = "Oswald"
+	name = "Oswald" # Howlester
 	culture = gallovian
 	religion = unionism
 	299.1.1 = {
@@ -2929,7 +3239,7 @@
 }
 
 198 = {
-	name = "Talla"
+	name = "Talla" # Howlester
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -2945,12 +3255,16 @@
 }
 
 199 = {
-	name = "Coreenne"
+	name = "Coreenne" # Sutigne
 	culture = ithanian
 	religion = unionism
 	female = yes
 	200.1.1 = {
 		birth = 200.1.1
+	}
+
+	236.4.1 = {
+		add_spouse=200
 	}
 	268.1.1 = {
 		death = 268.1.1
@@ -2959,11 +3273,15 @@
 }
 
 200 = {
-	name = "Morden"
+	name = "Morden" # Howlester
 	culture = gallovian
 	religion = unionism
 	191.1.1 = {
 		birth = 191.1.1
+	}
+
+	236.4.1 = {
+		add_spouse=199
 	}
 	238.1.1 = {
 		death = 238.1.1
@@ -2974,7 +3292,7 @@
 }
 
 201 = {
-	name = "Angelica"
+	name = "Angelica" # Howlester
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -2990,7 +3308,7 @@
 }
 
 202 = {
-	name = "Mordred"
+	name = "Mordred" # Howlester
 	culture = gallovian
 	religion = unionism
 	266.1.1 = {
@@ -3005,12 +3323,16 @@
 }
 
 203 = {
-	name = "Roselyne"
+	name = "Roselyne" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	female = yes
 	269.1.1 = {
 		birth = 269.1.1
+	}
+
+	305.4.1 = {
+		add_spouse=204
 	}
 	369.1.1 = {
 		death = 369.1.1
@@ -3021,11 +3343,15 @@
 }
 
 204 = {
-	name = "Warren"
+	name = "Warren" # Howlester
 	culture = gallovian
 	religion = unionism
 	260.1.1 = {
 		birth = 260.1.1
+	}
+
+	305.4.1 = {
+		add_spouse=203
 	}
 	360.1.1 = {
 		death = 360.1.1
@@ -3036,12 +3362,16 @@
 }
 
 205 = {
-	name = "Dianne"
+	name = "Dianne" # Howlester
 	culture = gallovian
 	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
+	}
+
+	296.4.1 = {
+		add_spouse=206
 	}
 	370.1.1 = {
 		death = 370.1.1
@@ -3052,11 +3382,15 @@
 }
 
 206 = {
-	name = "Christopher"
+	name = "Christopher" # Black
 	culture = cearden
 	religion = unionism
 	269.1.1 = {
 		birth = 269.1.1
+	}
+
+	296.4.1 = {
+		add_spouse=205
 	}
 	369.1.1 = {
 		death = 369.1.1
@@ -3066,7 +3400,7 @@
 }
 
 207 = {
-	name = "Wulfric"
+	name = "Wulfric" # Howlester
 	culture = gallovian
 	religion = unionism
 	306.1.1 = {
@@ -3081,12 +3415,16 @@
 }
 
 208 = {
-	name = "Minisa"
+	name = "Minisa" # Braquemont
 	culture = ithanian
 	religion = unionism
 	female = yes
 	172.1.1 = {
 		birth = 172.1.1
+	}
+
+	190.4.1 = {
+		add_spouse=209
 	}
 	238.1.1 = {
 		death = 238.1.1
@@ -3095,11 +3433,15 @@
 }
 
 209 = {
-	name = "Ondrew"
+	name = "Ondrew" # Howlester
 	culture = gallovian
 	religion = unionism
 	166.1.1 = {
 		birth = 166.1.1
+	}
+
+	190.4.1 = {
+		add_spouse=208
 	}
 	255.1.1 = {
 		death = 255.1.1
@@ -3110,11 +3452,19 @@
 }
 
 210 = {
-	name = "Bastien"
+	name = "Bastien" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
+	}
+
+	282.4.1 = {
+		add_matrilineal_spouse=9
+	}
+
+	287.4.1 = {
+		#remove_spouse = 9
 	}
 	308.1.1 = {
 		death = 308.1.1
@@ -3125,12 +3475,16 @@
 }
 
 211 = {
-	name = "Erena"
+	name = "Erena" # Schauss
 	culture = wirtem
 	religion = unionism
 	female = yes
 	143.1.1 = {
 		birth = 143.1.1
+	}
+
+	169.4.1 = {
+		add_spouse=212
 	}
 	194.1.1 = {
 		death = 194.1.1
@@ -3140,11 +3494,15 @@
 }
 
 212 = {
-	name = "Torrhen"
+	name = "Torrhen" # Howlester
 	culture = gallovian
 	religion = unionism
 	138.1.1 = {
 		birth = 138.1.1
+	}
+
+	169.4.1 = {
+		add_spouse=211
 	}
 	178.1.1 = {
 		death = 178.1.1
@@ -3153,11 +3511,15 @@
 }
 
 213 = {
-	name = "Vagild"
+	name = "Vagild" # Howlester
 	culture = gallovian
 	religion = unionism
 	170.1.1 = {
 		birth = 170.1.1
+	}
+
+	239.4.1 = {
+		add_spouse=214
 	}
 	246.1.1 = {
 		death = 246.1.1
@@ -3168,12 +3530,16 @@
 }
 
 214 = {
-	name = "Sybelle"
+	name = "Sybelle" # von Graublatt
 	culture = wirtem
 	religion = unionism
 	female = yes
 	215.1.1 = {
 		birth = 215.1.1
+	}
+
+	239.4.1 = {
+		add_spouse=213
 	}
 	272.1.1 = {
 		death = 272.1.1
@@ -3182,7 +3548,7 @@
 }
 
 215 = {
-	name = "Tatfrid"
+	name = "Tatfrid" # Howlester
 	culture = gallovian
 	religion = unionism
 	240.1.1 = {
@@ -3197,7 +3563,7 @@
 }
 
 216 = {
-	name = "Aethelred"
+	name = "Aethelred" # Howlester
 	culture = gallovian
 	religion = unionism
 	237.1.1 = {
@@ -3212,7 +3578,7 @@
 }
 
 217 = {
-	name = "Rothgair"
+	name = "Rothgair" # Howlester
 	culture = gallovian
 	religion = unionism
 	235.1.1 = {
@@ -3227,7 +3593,7 @@
 }
 
 218 = {
-	name = "Randulf"
+	name = "Randulf" # Howlester
 	culture = gallovian
 	religion = unionism
 	251.1.1 = {
@@ -3241,7 +3607,7 @@
 }
 
 219 = {
-	name = "Brydon"
+	name = "Brydon" # Howlester
 	culture = gallovian
 	religion = unionism
 	254.1.1 = {
@@ -3255,7 +3621,7 @@
 }
 
 220 = {
-	name = "Violetta"
+	name = "Violetta" # Howlester
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -3270,7 +3636,7 @@
 }
 
 221 = {
-	name = "Mellisandre"
+	name = "Mellisandre" # Howlester
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -3286,7 +3652,7 @@
 }
 
 222 = {
-	name = "Devona"
+	name = "Devona" # Howlester
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -3301,7 +3667,7 @@
 }
 
 223 = {
-	name = "Edmure"
+	name = "Edmure" # Howlester
 	culture = gallovian
 	religion = unionism
 	261.1.1 = {
@@ -3315,7 +3681,7 @@
 }
 
 224 = {
-	name = "Gunthard"
+	name = "Gunthard" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	211.1.1 = {
@@ -3329,11 +3695,15 @@
 }
 
 225 = {
-	name = "Reinhardt"
+	name = "Reinhardt" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	230.1.1 = {
 		birth = 230.1.1
+	}
+
+	254.4.1 = {
+		add_spouse=226
 	}
 	291.1.1 = {
 		death = 291.1.1
@@ -3343,12 +3713,16 @@
 }
 
 226 = {
-	name = "Brunhilda"
+	name = "Brunhilda" # von Hurst
 	culture = wirtem
 	religion = unionism
 	female = yes
 	236.1.1 = {
 		birth = 236.1.1
+	}
+
+	254.4.1 = {
+		add_spouse=225
 	}
 	336.1.1 = {
 		death = 336.1.1
@@ -3357,11 +3731,15 @@
 }
 
 227 = {
-	name = "Dietrich"
+	name = "Dietrich" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	254.1.1 = {
 		birth = 254.1.1
+	}
+
+	290.4.1 = {
+		add_spouse=36
 	}
 	354.1.1 = {
 		death = 354.1.1
@@ -3372,7 +3750,7 @@
 }
 
 228 = {
-	name = "Harald"
+	name = "Harald" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	255.1.1 = {
@@ -3387,7 +3765,7 @@
 }
 
 229 = {
-	name = "Ludwig"
+	name = "Ludwig" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	281.1.1 = {
@@ -3402,7 +3780,7 @@
 }
 
 230 = {
-	name = "Matilda"
+	name = "Matilda" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -3418,7 +3796,7 @@
 }
 
 231 = {
-	name = "Kristoph"
+	name = "Kristoph" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	285.1.1 = {
@@ -3433,7 +3811,7 @@
 }
 
 232 = {
-	name = "Adela"
+	name = "Adela" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -3449,7 +3827,7 @@
 }
 
 233 = {
-	name = "Franzl"
+	name = "Franzl" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	291.1.1 = {
@@ -3464,11 +3842,15 @@
 }
 
 234 = {
-	name = "Eldrich"
+	name = "Eldrich" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	279.1.1 = {
 		birth = 279.1.1
+	}
+
+	309.4.1 = {
+		add_spouse=59
 	}
 	379.1.1 = {
 		death = 379.1.1
@@ -3479,7 +3861,7 @@
 }
 
 235 = {
-	name = "Marie Anne"
+	name = "Marie Anne" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -3495,7 +3877,7 @@
 }
 
 236 = {
-	name = "Wufrich"
+	name = "Wufrich" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	309.1.1 = {
@@ -3510,7 +3892,7 @@
 }
 
 237 = {
-	name = "Johannes"
+	name = "Johannes" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	310.1.1 = {
@@ -3525,7 +3907,7 @@
 }
 
 238 = {
-	name = "Wulfrich"
+	name = "Wulfrich" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	181.1.1 = {
@@ -3539,7 +3921,7 @@
 }
 
 239 = {
-	name = "Wulfrich"
+	name = "Wulfrich" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	133.1.1 = {
@@ -3553,7 +3935,7 @@
 }
 
 240 = {
-	name = "Wulfrich"
+	name = "Wulfrich" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	114.1.1 = {
@@ -3568,11 +3950,15 @@
 }
 
 241 = {
-	name = "Hildmar"
+	name = "Hildmar" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	85.1.1 = {
 		birth = 85.1.1
+	}
+
+	113.4.1 = {
+		add_spouse=242
 	}
 	143.1.1 = {
 		death = 143.1.1
@@ -3581,12 +3967,16 @@
 }
 
 242 = {
-	name = "Matilde"
+	name = "Matilde" # Brunig
 	culture = wirtem
 	religion = unionism
 	female = yes
 	97.1.1 = {
 		birth = 97.1.1
+	}
+
+	113.4.1 = {
+		add_spouse=241
 	}
 	162.1.1 = {
 		death = 162.1.1
@@ -3596,7 +3986,7 @@
 }
 
 243 = {
-	name = "Reinhart"
+	name = "Reinhart" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	113.1.1 = {
@@ -3611,7 +4001,7 @@
 }
 
 244 = {
-	name = "Eldrich"
+	name = "Eldrich" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	130.1.1 = {
@@ -3625,7 +4015,7 @@
 }
 
 245 = {
-	name = "Ludwig"
+	name = "Ludwig" # Brunig
 	culture = wirtem
 	religion = unionism
 	1.1.1 = {
@@ -3638,7 +4028,7 @@
 }
 
 246 = {
-	name = "Hildrebrand"
+	name = "Hildrebrand" # Brunig
 	culture = wirtem
 	religion = unionism
 	34.1.1 = {
@@ -3652,7 +4042,7 @@
 }
 
 247 = {
-	name = "Eberhard"
+	name = "Eberhard" # Brunig
 	culture = wirtem
 	religion = unionism
 	55.1.1 = {
@@ -3666,7 +4056,7 @@
 }
 
 248 = {
-	name = "Eberhard"
+	name = "Eberhard" # Brunig
 	culture = wirtem
 	religion = unionism
 	78.1.1 = {
@@ -3680,7 +4070,7 @@
 }
 
 249 = {
-	name = "Marie Anne"
+	name = "Marie Anne" # Brunig
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -3695,7 +4085,7 @@
 }
 
 250 = {
-	name = "Heinrich"
+	name = "Heinrich" # Brunig
 	culture = wirtem
 	religion = unionism
 	115.1.1 = {
@@ -3709,7 +4099,7 @@
 }
 
 251 = {
-	name = "Heinrich"
+	name = "Heinrich" # Brunig
 	culture = wirtem
 	religion = unionism
 	148.1.1 = {
@@ -3723,7 +4113,7 @@
 }
 
 252 = {
-	name = "Marie Anne"
+	name = "Marie Anne" # Brunig
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -3738,7 +4128,7 @@
 }
 
 253 = {
-	name = "Elia"
+	name = "Elia" # Brunig
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -3753,7 +4143,7 @@
 }
 
 254 = {
-	name = "Nikolaus"
+	name = "Nikolaus" # Brunig
 	culture = wirtem
 	religion = unionism
 	85.1.1 = {
@@ -3767,7 +4157,7 @@
 }
 
 255 = {
-	name = "Nikolaus"
+	name = "Nikolaus" # Brunig
 	culture = wirtem
 	religion = unionism
 	124.1.1 = {
@@ -3781,7 +4171,7 @@
 }
 
 256 = {
-	name = "Anais"
+	name = "Anais" # Delmotte
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -3795,7 +4185,7 @@
 }
 
 257 = {
-	name = "Katriane"
+	name = "Katriane" # Delmotte
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -3810,7 +4200,7 @@
 }
 
 258 = {
-	name = "Emmeline"
+	name = "Emmeline" # Delmotte
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -3825,7 +4215,7 @@
 }
 
 259 = {
-	name = "Louis"
+	name = "Louis" # Delmotte
 	culture = ithanian
 	religion = unionism
 	266.1.1 = {
@@ -3839,7 +4229,7 @@
 }
 
 260 = {
-	name = "Marceau"
+	name = "Marceau" # Delmotte
 	culture = ithanian
 	religion = unionism
 	285.1.1 = {
@@ -3853,7 +4243,7 @@
 }
 
 261 = {
-	name = "Ottilie"
+	name = "Ottilie" # Delmotte
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -3868,7 +4258,7 @@
 }
 
 262 = {
-	name = "Adeline"
+	name = "Adeline" # Delmotte
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -3883,7 +4273,7 @@
 }
 
 263 = {
-	name = "Renee"
+	name = "Renee" # Delmotte
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -3898,7 +4288,7 @@
 }
 
 264 = {
-	name = "Nicolette"
+	name = "Nicolette" # Delmotte
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -3913,7 +4303,7 @@
 }
 
 265 = {
-	name = "Guiscard"
+	name = "Guiscard" # Delmotte
 	culture = ithanian
 	religion = unionism
 	275.1.1 = {
@@ -3927,7 +4317,7 @@
 }
 
 266 = {
-	name = "Brawen"
+	name = "Brawen" # Calontir
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -3941,7 +4331,7 @@
 }
 
 267 = {
-	name = "Maeve"
+	name = "Maeve" # Calontir
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -3956,12 +4346,16 @@
 }
 
 268 = {
-	name = "Nessaria"
+	name = "Nessaria" # Calontir
 	culture = solvaan
 	religion = estelley
 	female = yes
 	54.1.1 = {
 		birth = 54.1.1
+	}
+
+	80.4.1 = {
+		add_spouse=273
 	}
 	158.1.1 = {
 		death = 158.1.1
@@ -3971,7 +4365,7 @@
 }
 
 269 = {
-	name = "Theomar"
+	name = "Theomar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	1.1.1 = {
@@ -3983,255 +4377,255 @@
 	dynasty = 23
 }
 
-270 = { #Luenmar I
-	name = "Luenmar"
+270 = {
+	name = "Lilienmar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	17.1.1 = {
 		birth = 17.1.1
 	}
-	70.1.1 = {
-		death = 70.1.1
+	74.1.1 = {
+		death = 74.1.1
 	}
 	dynasty = 23
 	father = 269
 }
 
-271 = { #Luenmara II
-	name = "Luenmar"
+271 = {
+	name = "Lilienmar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	female = yes
 	38.1.1 = {
 		birth = 38.1.1
-	}
-	85.1.1 = {
-		death = 85.1.1
-	}
-	dynasty = 23
-	father = 270
-}
-
-272 = { #Theomar II
-	name = "Theomar"
-	culture = ithanian
-	religion = unionism
-	17.1.1 = {
-		birth = 17.1.1
-	}
-	79.1.1 = {
-		death = 79.1.1
-	}
-	dynasty = 23
-	father = 269
-}
-
-273 = { #Hendromar the Pious
-	name = "Hendromar"
-	culture = ithanian
-	religion = unionism
-	58.1.1 = {
-		birth = 58.1.1
-	}
-	96.1.1 = {
-		death = 96.1.1
-	}
-	dynasty = 23
-	mother = 271
-}
-
-274 = { #Luenmara III
-	name = "Luenmar"
-	culture = ithanian
-	religion = unionism
-	female = yes
-	74.1.1 = {
-		birth = 74.1.1
 	}
 	112.1.1 = {
 		death = 112.1.1
 	}
 	dynasty = 23
-	mother = 268
-	father = 273
+	father = 270
 }
 
-275 = { #Maxella I
-	name = "Maxella"
+272 = {
+	name = "Rihonlar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	female = yes
-	77.1.1 = {
-		birth = 77.1.1
+	42.1.1 = {
+		birth = 42.1.1
 	}
-	99.1.1 = {
-		death = 99.1.1
+	108.1.1 = {
+		death = 108.1.1
+	}
+	dynasty = 23
+	father = 270
+}
+
+273 = {
+	name = "Henri" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	58.1.1 = {
+		birth = 58.1.1
+	}
+
+	80.4.1 = {
+		add_spouse=268
+	}
+	123.1.1 = {
+		death = 123.1.1
+	}
+	dynasty = 23
+	father = 271
+}
+
+274 = {
+	name = "Leomar" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	74.1.1 = {
+		birth = 74.1.1
+	}
+	164.1.1 = {
+		death = 164.1.1
 	}
 	dynasty = 23
 	mother = 268
 	father = 273
 }
 
-276 = { #Carvomar I
-	name = "Carvomar"
+275 = {
+	name = "Maxelle" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	77.1.1 = {
+		birth = 77.1.1
+	}
+	178.1.1 = {
+		death = 178.1.1
+	}
+	dynasty = 23
+	mother = 268
+	father = 273
+}
+
+276 = {
+	name = "Carvallais" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	79.1.1 = {
 		birth = 79.1.1
 	}
-	97.6.1 = {
-		death = 97.6.1
+	184.1.1 = {
+		death = 184.1.1
 	}
 	dynasty = 23
 	mother = 268
 	father = 273
 }
 
-277 = { #Bartomar I
-	name = "Bartomar"
+277 = {
+	name = "Bartolomeux" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	77.1.1 = {
-		birth = 77.1.1
+	81.1.1 = {
+		birth = 81.1.1
 	}
-	96.6.1 = {
-		death = 96.6.1
+	186.1.1 = {
+		death = 186.1.1
 	}
 	dynasty = 23
 	mother = 268
 	father = 273
 }
 
-278 = { #Hendromar II
-	name = "Hendromar"
+278 = {
+	name = "Henri" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	95.1.1 = {
+	93.1.1 = {
 		birth = 93.1.1
 	}
 	174.1.1 = {
 		death = 174.1.1
 	}
 	dynasty = 23
-	father = 277
+	father = 274
 }
 
-279 = { #Justomara I
-	name = "Justomara"
+279 = {
+	name = "Justeux" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	female = yes
-	93.1.1 = {
-		birth = 93.1.1
+	96.1.1 = {
+		birth = 96.1.1
 	}
-	114.1.1 = {
-		death = 114.1.1
+	135.1.1 = {
+		death = 135.1.1
 	}
 	dynasty = 23
-	father = 277
+	father = 274
 }
 
-280 = { #Justomar II aka Juvin the Sage
-	name = "Justomar"
+280 = {
+	name = "Heinrich" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	111.1.1 = {
 		birth = 111.1.1
 	}
-	158.1.1 = {
-		death = 158.1.1
+	166.1.1 = {
+		death = 166.1.1
 	}
 	dynasty = 23
 	father = 278
 }
 
-281 = { #Allamara I the Lawmaker
-	name = "Allamara"
+281 = {
+	name = "Allamar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	female = yes
 	130.1.1 = {
 		birth = 130.1.1
-	}
-	180.1.1 = {
-		death = 180.1.1
-	}
-	dynasty = 23
-	father = 280
-}
-
-282 = { #Hendromar III
-	name = "Hendromar"
-	culture = ithanian
-	religion = unionism
-	152.1.1 = {
-		birth = 152.1.1
 	}
 	195.1.1 = {
 		death = 195.1.1
 	}
 	dynasty = 23
-	mother = 281
-}
-
-283 = { #Luenmar IV
-	name = "Luenmar"
-	culture = ithanian
-	religion = unionism
-	135.1.1 = {
-		birth = 135.1.1
-	}
-	166.1.1 = {
-		death = 166.1.1
-	}
-	dynasty = 23
 	father = 280
 }
 
-284 = { #Chancellor Prince Rivein
-	name = "Rivein"
+282 = {
+	name = "Handorien" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	131.1.1 = {
-		birth = 131.1.1
-	}
-	190.1.1 = {
-		death = 190.1.1
-	}
-	dynasty = 23
-	father = 280
-}
-
-285 = { #Justomara III
-	name = "Justomara"
-	culture = ithanian
-	religion = unionism
-	180.1.1 = {
-		birth = 180.1.1
+	152.1.1 = {
+		birth = 152.1.1
 	}
 	224.1.1 = {
 		death = 224.1.1
 	}
 	dynasty = 23
-	father = 298
+	father = 281
 }
 
-286 = { #Hendromar VII
-	name = "Hendromar"
+283 = {
+	name = "Lilienmar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	199.1.1 = {
-		birth = 199.1.1
+	135.1.1 = {
+		birth = 135.1.1
+	}
+	194.1.1 = {
+		death = 174.1.1
+	}
+	dynasty = 23
+	father = 280
+}
+
+284 = {
+	name = "Yvonne" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	female = yes
+	131.1.1 = {
+		birth = 131.1.1
+	}
+	210.1.1 = {
+		death = 210.1.1
+	}
+	dynasty = 23
+	father = 280
+}
+
+285 = {
+	name = "Nouin" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	167.1.1 = {
+		birth = 167.1.1
+	}
+	236.1.1 = {
+		death = 236.1.1
+	}
+	dynasty = 23
+	father = 288
+}
+
+286 = {
+	name = "Pepin" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	185.1.1 = {
+		birth = 185.1.1
 	}
 	244.1.1 = {
 		death = 244.1.1
 	}
 	dynasty = 23
-	father = 292
+	father = 285
 }
 
 287 = {
-	name = "Eadric"
+	name = "Eadric" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	65.1.1 = {
@@ -4245,7 +4639,7 @@
 }
 
 288 = {
-	name = "Cenric"
+	name = "Cenric" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	95.1.1 = {
@@ -4259,80 +4653,79 @@
 	add_trait="lustful"
 }
 
-289 = { # Allomar I aka Allest the Conqueror
-	name = "Allomar"
+289 = {
+	name = "Allestrain" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	173.1.1 = {
 		birth = 173.1.1
 	}
-	211.1.1 = {
-		death = 211.1.1
+	255.1.1 = {
+		death = 255.1.1
 	}
 	dynasty = 23
 	father = 282
 }
 
-290 = { #Vilmarga I
-	name = "Vilmarga"
+290 = {
+	name = "Vilmarga" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	female = yes
-	252.1.1 = {
-		birth = 252.1.1
+	192.1.1 = {
+		birth = 192.1.1
 	}
 	269.1.1 = {
 		death = 269.1.1
 	}
 	dynasty = 23
-	mother = 297
+	father = 299
 }
 
-291 = { #Ottomar I
-	name = "Ottomar"
+291 = {
+	name = "Ottomar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	182.1.1 = {
-		birth = 182.1.1
+	211.1.1 = {
+		birth = 211.1.1
 	}
 	231.1.1 = {
 		death = 231.1.1
 	}
 	dynasty = 23
-	father = 301
+	father = 286
 }
 
-292 = { #Balthezar I
-	name = "Balthezar"
+292 = {
+	name = "Balthezar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	181.1.1 = {
-		birth = 181.1.1
+	205.1.1 = {
+		birth = 205.1.1
 	}
 	235.1.1 = {
 		death = 235.1.1
 	}
 	dynasty = 23
-	father = 301
+	father = 286
 }
 
-293 = { #Hendromara VI
-	name = "Hendromar"
+293 = {
+	name = "Handorien" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	female = yes
-	199.1.1 = {
-		birth = 199.1.1
+	222.1.1 = {
+		birth = 222.1.1
 	}
-	240.1.1 = {
-		death = 240.1.1
+	244.1.1 = {
+		death = 244.1.1
 	}
 	dynasty = 23
 	father = 292
 }
 
 294 = {
-	name = "Emerite"
+	name = "Emerite" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	186.1.1 = {
@@ -4342,11 +4735,11 @@
 		death = 220.1.1
 	}
 	dynasty = 23
-	father = 300
+	father = 285
 }
 
 295 = {
-	name = "Rollo"
+	name = "Rollo" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	202.1.1 = {
@@ -4360,7 +4753,7 @@
 }
 
 296 = {
-	name = "Allestrain"
+	name = "Allestrain" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	226.1.1 = {
@@ -4373,52 +4766,52 @@
 	father = 295
 }
 
-297 = { #Allomara III
-	name = "Allomar"
+297 = {
+	name = "Lisette Ponne" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	female = yes
-	235.1.1 = {
-		birth = 235.1.1
+	243.1.1 = {
+		birth = 243.1.1
 	}
-	255.1.1 = {
-		death = 255.1.1
+	285.1.1 = {
+		death = 285.1.1
 	}
 	dynasty = 23
-	father = 299
+	father = 296
 }
 
-298 = { #Hendromar IV
-	name = "Hendromar"
+298 = {
+	name = "Handorien" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	141.1.1 = {
 		birth = 141.1.1
 	}
-	219.1.1 = {
-		death = 219.1.1
+	227.1.1 = {
+		death = 227.1.1
 	}
 	dynasty = 23
 	father = 300
 	add_trait="lunatic"
 }
 
-299 = { #Allomar II
-	name = "Allomar"
+299 = {
+	name = "Allestrain" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	217.1.1 = {
-		birth = 217.1.1
+	166.1.1 = {
+		birth = 166.1.1
 	}
-	249.1.1 = {
-		death = 249.1.1
+	211.1.1 = {
+		death = 211.1.1
 	}
 	dynasty = 23
-	father = 286
+	father = 298
 }
 
 300 = {
-	name = "Filipe"
+	name = "Filipe" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	126.1.1 = {
@@ -4431,22 +4824,22 @@
 	father = 288
 }
 
-301 = { #Hendromar V
-	name = "Hendromar"
+301 = {
+	name = "Handorien" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	165.1.1 = {
-		birth = 165.1.1
+	147.1.1 = {
+		birth = 147.1.1
 	}
-	227.1.1 = {
-		death = 227.1.1
+	219.1.1 = {
+		death = 219.1.1
 	}
 	dynasty = 23
-	father = 298
+	father = 300
 }
 
 302 = {
-	name = "Esmedara"
+	name = "Esmedara" # Kade Neylade
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -4460,12 +4853,12 @@
 	mother = 180
 }
 
-303 = { #Justomar IV the Black Swan
-	name = "Justomar"
+303 = {
+	name = "Justinian" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	268.1.1 = {
-		birth = 268.1.1
+	210.1.1 = {
+		birth = 210.1.1
 	}
 	302.1.1 = {
 		death = 302.1.1
@@ -4475,50 +4868,49 @@
 }
 
 304 = {
-	name = "Augusta"
+	name = "Auguste" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	female = yes
-	284.1.1 = {
-		birth = 284.1.1
+	245.1.1 = {
+		birth = 245.1.1
 	}
-	291.1.1 = {
-		death = 291.1.1
+	270.1.1 = {
+		death = 270.1.1
 	}
 	dynasty = 23
 	father = 303
 }
 
 305 = {
-	name = "Allamar"
+	name = "Juvinois" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	284.1.1 = {
-		birth = 284.1.1
+	247.1.1 = {
+		birth = 247.1.1
 	}
-	291.1.1 = {
-		death = 291.1.1
+	270.1.1 = {
+		death = 270.1.1
 	}
 	dynasty = 23
 	father = 303
 }
 
 306 = {
-	name = "Theromar"
+	name = "Therinois" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	284.1.1 = {
-		birth = 284.1.1
+	251.1.1 = {
+		birth = 251.1.1
 	}
-	291.1.1 = {
-		death = 291.1.1
+	270.1.1 = {
+		death = 270.1.1
 	}
 	dynasty = 23
 	father = 303
 }
 
 307 = {
-	name = "Laraiselle Clarisse"
+	name = "Laraiselle Clarisse" # Ylvais
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -4532,26 +4924,34 @@
 }
 
 308 = {
-	name = "Charlerois"
+	name = "Charlerois" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	212.1.1 = {
 		birth = 212.1.1
 	}
+
+	240.4.1 = {
+		add_spouse=309
+	}
 	283.1.1 = {
 		death = 283.1.1
 	}
 	dynasty = 23
-	mother = 290
+	father = 290
 }
 
 309 = {
-	name = "Callaire"
+	name = "Callaire" # de Mont Vertu
 	culture = ithanian
 	religion = unionism
 	female = yes
 	213.1.1 = {
 		birth = 213.1.1
+	}
+
+	240.4.1 = {
+		add_spouse=308
 	}
 	289.1.1 = {
 		death = 289.1.1
@@ -4561,11 +4961,15 @@
 }
 
 310 = {
-	name = "Harlon"
+	name = "Harlon" # de Montebrizere
 	culture = ithanian
 	religion = unionism
 	231.1.1 = {
 		birth = 231.1.1
+	}
+
+	259.4.1 = {
+		add_matrilineal_spouse=311
 	}
 	302.1.1 = {
 		death = 302.1.1
@@ -4574,12 +4978,16 @@
 }
 
 311 = {
-	name = "Adelheid Ivrae De Sange"
+	name = "Adelheid Ivrae De Sange" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	female = yes
 	230.1.1 = {
 		birth = 230.1.1
+	}
+
+	259.4.1 = {
+		add_matrilineal_spouse=310
 	}
 	310.1.1 = {
 		death = 310.1.1
@@ -4590,7 +4998,7 @@
 }
 
 312 = {
-	name = "Attenaise"
+	name = "Attenaise" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -4606,7 +5014,7 @@
 }
 
 313 = {
-	name = "Frederique"
+	name = "Frederique" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -4622,11 +5030,15 @@
 }
 
 314 = {
-	name = "Antoine"
+	name = "Antoine" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	258.1.1 = {
 		birth = 258.1.1
+	}
+
+	311.4.1 = {
+		add_spouse=660
 	}
 	358.1.1 = {
 		death = 358.1.1
@@ -4637,7 +5049,7 @@
 }
 
 315 = {
-	name = "Soledad"
+	name = "Soledad" # Palomadera
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -4653,7 +5065,7 @@
 }
 
 316 = {
-	name = "Valerie"
+	name = "Valerie" # Ravenstad
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -4669,7 +5081,7 @@
 }
 
 317 = {
-	name = "Travis"
+	name = "Travis" # Black
 	culture = cearden
 	religion = unionism
 	230.1.1 = {
@@ -4683,7 +5095,7 @@
 }
 
 318 = {
-	name = "Alistair"
+	name = "Alistair" # Black
 	culture = cearden
 	religion = unionism
 	186.1.1 = {
@@ -4696,7 +5108,7 @@
 }
 
 319 = {
-	name = "Gwendolyn"
+	name = "Gwendolyn" # Black
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -4712,7 +5124,7 @@
 }
 
 320 = {
-	name = "Arthur"
+	name = "Arthur" # Black
 	culture = cearden
 	religion = unionism
 	293.1.1 = {
@@ -4727,7 +5139,7 @@
 }
 
 321 = {
-	name = "William"
+	name = "William" # Black
 	culture = cearden
 	religion = unionism
 	296.1.1 = {
@@ -4742,7 +5154,7 @@
 }
 
 322 = {
-	name = "Angelina"
+	name = "Angelina" # Black
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -4758,7 +5170,7 @@
 }
 
 323 = {
-	name = "Rioen"
+	name = "Rioen" # Kade
 	culture = anglian
 	religion = unionism
 	289.1.1 = {
@@ -4773,12 +5185,16 @@
 }
 
 324 = {
-	name = "Lucia"
+	name = "Lucia" # Riva
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	226.1.1 = {
 		birth = 226.1.1
+	}
+
+	265.4.1 = {
+		add_spouse=389
 	}
 	296.1.1 = {
 		death = 296.1.1
@@ -4787,7 +5203,7 @@
 }
 
 325 = {
-	name = "Francine Emilie"
+	name = "Francine Emilie" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -4801,11 +5217,15 @@
 }
 
 326 = {
-	name = "Geoffroy Lambert"
+	name = "Geoffroy Lambert" # de Mont Vertu
 	culture = ithanian
 	religion = unionism
 	215.1.1 = {
 		birth = 215.1.1
+	}
+
+	274.4.1 = {
+		add_matrilineal_spouse=327
 	}
 	302.1.1 = {
 		death = 302.1.1
@@ -4815,12 +5235,16 @@
 }
 
 327 = {
-	name = "Mariliene Roselle"
+	name = "Mariliene Roselle" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	female = yes
 	235.1.1 = {
 		birth = 235.1.1
+	}
+
+	274.4.1 = {
+		add_matrilineal_spouse=326
 	}
 	297.1.1 = {
 		death = 297.1.1
@@ -4830,12 +5254,21 @@
 }
 
 328 = {
-	name = "Madeleine Fabienne"
+	name = "Madeleine Fabienne" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	female = yes
 	252.1.1 = {
 		birth = 252.1.1
+	}
+
+	268.4.1 = {
+		add_matrilineal_spouse=329
+	}
+
+	294.4.1 = {
+		#remove_spouse = 329
+		add_matrilineal_spouse=330
 	}
 	352.1.1 = {
 		death = 352.1.1
@@ -4846,11 +5279,19 @@
 }
 
 329 = {
-	name = "Michael"
+	name = "Michael" # sur Mont
 	culture = ithanian
 	religion = unionism
 	244.1.1 = {
 		birth = 244.1.1
+	}
+
+	268.4.1 = {
+		add_matrilineal_spouse=328
+	}
+
+	294.4.1 = {
+		#remove_spouse = 328
 	}
 	344.1.1 = {
 		death = 344.1.1
@@ -4860,11 +5301,15 @@
 }
 
 330 = {
-	name = "Daniel"
+	name = "Daniel" # de Blouscheur
 	culture = ithanian
 	religion = unionism
 	268.1.1 = {
 		birth = 268.1.1
+	}
+
+	294.4.1 = {
+		add_matrilineal_spouse=328
 	}
 	368.1.1 = {
 		death = 368.1.1
@@ -4873,7 +5318,7 @@
 }
 
 331 = {
-	name = "Nicolette Laurine"
+	name = "Nicolette Laurine" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -4888,7 +5333,7 @@
 }
 
 332 = {
-	name = "Bastian"
+	name = "Bastian" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	293.1.1 = {
@@ -4903,7 +5348,7 @@
 }
 
 333 = {
-	name = "Mathieu"
+	name = "Mathieu" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	294.1.1 = {
@@ -4918,12 +5363,16 @@
 }
 
 334 = {
-	name = "Vivienne"
+	name = "Vivienne" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	female = yes
 	295.1.1 = {
 		birth = 295.1.1
+	}
+
+	310.4.1 = {
+		add_spouse=397
 	}
 	395.1.1 = {
 		death = 395.1.1
@@ -4934,7 +5383,7 @@
 }
 
 335 = {
-	name = "Wilifred Jourdain"
+	name = "Wilifred Jourdain" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	272.1.1 = {
@@ -4949,7 +5398,7 @@
 }
 
 336 = {
-	name = "Nicolas Francois"
+	name = "Nicolas Francois" # Norrvakt
 	culture = velheim
 	religion = fornoss
 	270.1.1 = {
@@ -4964,7 +5413,7 @@
 }
 
 337 = {
-	name = "Trevor"
+	name = "Trevor" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	276.1.1 = {
@@ -4978,7 +5427,7 @@
 }
 
 338 = {
-	name = "Eloise Valerie"
+	name = "Eloise Valerie" # Sutigne
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -4992,7 +5441,7 @@
 }
 
 339 = {
-	name = "Lola Aimee"
+	name = "Lola Aimee" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -5008,11 +5457,15 @@
 }
 
 340 = {
-	name = "Baptiste Florence"
+	name = "Baptiste Florence" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	248.1.1 = {
 		birth = 248.1.1
+	}
+
+	295.4.1 = {
+		add_spouse=341
 	}
 	348.1.1 = {
 		death = 348.1.1
@@ -5022,12 +5475,16 @@
 }
 
 341 = {
-	name = "Valeriane"
+	name = "Valeriane" # Orianne
 	culture = ithanian
 	religion = unionism
 	female = yes
 	261.1.1 = {
 		birth = 261.1.1
+	}
+
+	295.4.1 = {
+		add_spouse=340
 	}
 	361.1.1 = {
 		death = 361.1.1
@@ -5036,7 +5493,7 @@
 }
 
 342 = {
-	name = "Lucas Menetries"
+	name = "Lucas Menetries" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	278.1.1 = {
@@ -5051,7 +5508,7 @@
 }
 
 343 = {
-	name = "Jaqueline Georgette"
+	name = "Jaqueline Georgette" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -5067,7 +5524,7 @@
 }
 
 344 = {
-	name = "Gabriel Godefroy"
+	name = "Gabriel Godefroy" # d'Eluise
 	culture = ithanian
 	religion = unionism
 	296.1.1 = {
@@ -5082,7 +5539,7 @@
 }
 
 345 = {
-	name = "Kaya"
+	name = "Kaya" # Sorenvik
 	culture = velheim
 	religion = fornoss
 	female = yes
@@ -5096,7 +5553,7 @@
 }
 
 346 = {
-	name = "Viggo"
+	name = "Viggo" # Kensley
 	culture = cearden
 	religion = unionism
 	284.1.1 = {
@@ -5110,7 +5567,7 @@
 }
 
 347 = {
-	name = "Sivrid"
+	name = "Sivrid" # Kensley
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -5125,7 +5582,7 @@
 }
 
 348 = {
-	name = "Sigurd"
+	name = "Sigurd" # Kensley
 	culture = cearden
 	religion = unionism
 	241.1.1 = {
@@ -5138,11 +5595,15 @@
 }
 
 349 = {
-	name = "Tristan"
+	name = "Tristan" # Lampero
 	culture = cantaluna
 	religion = unionism
 	272.1.1 = {
 		birth = 272.1.1
+	}
+
+	288.4.1 = {
+		add_matrilineal_spouse=470
 	}
 	372.1.1 = {
 		death = 372.1.1
@@ -5153,12 +5614,16 @@
 }
 
 350 = {
-	name = "Audrei"
+	name = "Audrei" # Fjelleshyge
 	culture = velheim
 	religion = fornoss
 	female = yes
 	250.1.1 = {
 		birth = 250.1.1
+	}
+
+	271.4.1 = {
+		add_spouse=351
 	}
 	294.1.1 = {
 		death = 294.1.1
@@ -5167,11 +5632,15 @@
 }
 
 351 = {
-	name = "Thadeo"
+	name = "Thadeo" # Lampero
 	culture = cantaluna
 	religion = unionism
 	247.1.1 = {
 		birth = 247.1.1
+	}
+
+	271.4.1 = {
+		add_spouse=350
 	}
 	294.1.1 = {
 		death = 294.1.1
@@ -5181,7 +5650,7 @@
 }
 
 352 = {
-	name = "Raffaello"
+	name = "Raffaello" # Lampero
 	culture = cantaluna
 	religion = amended
 	288.1.1 = {
@@ -5195,11 +5664,15 @@
 }
 
 353 = {
-	name = "Orazzio"
+	name = "Orazzio" # di Tureno
 	culture = cantaluna
 	religion = unionism
 	120.1.1 = {
 		birth = 120.1.1
+	}
+
+	169.4.1 = {
+		add_spouse=354
 	}
 	199.1.1 = {
 		death = 199.1.1
@@ -5208,12 +5681,16 @@
 }
 
 354 = {
-	name = "Allegra"
+	name = "Allegra" # Mastretta
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	132.1.1 = {
 		birth = 132.1.1
+	}
+
+	169.4.1 = {
+		add_spouse=353
 	}
 	209.1.1 = {
 		death = 209.1.1
@@ -5223,11 +5700,15 @@
 }
 
 355 = {
-	name = "Francesco"
+	name = "Francesco" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	170.1.1 = {
 		birth = 170.1.1
+	}
+
+	204.4.1 = {
+		add_spouse=356
 	}
 	242.1.1 = {
 		death = 242.1.1
@@ -5238,12 +5719,16 @@
 }
 
 356 = {
-	name = "Giulia"
+	name = "Giulia" # Venturi
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	174.1.1 = {
 		birth = 174.1.1
+	}
+
+	204.4.1 = {
+		add_spouse=355
 	}
 	245.1.1 = {
 		death = 245.1.1
@@ -5252,11 +5737,15 @@
 }
 
 357 = {
-	name = "Leone"
+	name = "Leone" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	205.1.1 = {
 		birth = 205.1.1
+	}
+
+	225.4.1 = {
+		add_spouse=358
 	}
 	272.1.1 = {
 		death = 272.1.1
@@ -5267,12 +5756,16 @@
 }
 
 358 = {
-	name = "Beatrice"
+	name = "Beatrice" # Lucini
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	209.1.1 = {
 		birth = 209.1.1
+	}
+
+	225.4.1 = {
+		add_spouse=357
 	}
 	276.1.1 = {
 		death = 276.1.1
@@ -5281,11 +5774,15 @@
 }
 
 359 = {
-	name = "Ruggiero"
+	name = "Ruggiero" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	226.1.1 = {
 		birth = 226.1.1
+	}
+
+	255.4.1 = {
+		add_spouse=360
 	}
 	298.1.1 = {
 		death = 298.1.1
@@ -5296,12 +5793,16 @@
 }
 
 360 = {
-	name = "Georgiana"
+	name = "Georgiana" # de Morra
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	228.1.1 = {
 		birth = 228.1.1
+	}
+
+	255.4.1 = {
+		add_spouse=359
 	}
 	301.1.1 = {
 		death = 301.1.1
@@ -5312,11 +5813,15 @@
 }
 
 361 = {
-	name = "Bernardo"
+	name = "Bernardo" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	246.1.1 = {
 		birth = 246.1.1
+	}
+
+	288.4.1 = {
+		add_spouse=379
 	}
 	299.1.1 = {
 		death = 299.1.1
@@ -5327,11 +5832,15 @@
 }
 
 362 = {
-	name = "Piero"
+	name = "Piero" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	248.1.1 = {
 		birth = 248.1.1
+	}
+
+	289.4.1 = {
+		add_spouse=365
 	}
 	348.1.1 = {
 		death = 348.1.1
@@ -5342,7 +5851,7 @@
 }
 
 363 = {
-	name = "Bernardo Gabriel"
+	name = "Bernardo Gabriel" # de Morra
 	culture = cantaluna
 	religion = unionism
 	260.1.1 = {
@@ -5357,12 +5866,16 @@
 }
 
 364 = {
-	name = "Vincenza"
+	name = "Vincenza" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	256.1.1 = {
 		birth = 256.1.1
+	}
+
+	285.4.1 = {
+		add_matrilineal_spouse=370
 	}
 	356.1.1 = {
 		death = 356.1.1
@@ -5373,12 +5886,16 @@
 }
 
 365 = {
-	name = "Simona"
+	name = "Simona" # Zinni
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	248.1.1 = {
 		birth = 248.1.1
+	}
+
+	289.4.1 = {
+		add_spouse=362
 	}
 	348.1.1 = {
 		death = 348.1.1
@@ -5389,7 +5906,7 @@
 }
 
 366 = {
-	name = "Luigi"
+	name = "Luigi" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	276.1.1 = {
@@ -5404,7 +5921,7 @@
 }
 
 367 = {
-	name = "Terenzo"
+	name = "Terenzo" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	282.1.1 = {
@@ -5419,7 +5936,7 @@
 }
 
 368 = {
-	name = "Ana"
+	name = "Ana" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -5435,7 +5952,7 @@
 }
 
 369 = {
-	name = "Isabella"
+	name = "Isabella" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -5451,11 +5968,15 @@
 }
 
 370 = {
-	name = "Angelo"
+	name = "Angelo" # Boerio
 	culture = cantaluna
 	religion = unionism
 	254.1.1 = {
 		birth = 254.1.1
+	}
+
+	285.4.1 = {
+		add_matrilineal_spouse=364
 	}
 	354.1.1 = {
 		death = 354.1.1
@@ -5464,7 +5985,7 @@
 }
 
 371 = {
-	name = "Fiorino"
+	name = "Fiorino" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	279.1.1 = {
@@ -5479,7 +6000,7 @@
 }
 
 372 = {
-	name = "Pellegrino"
+	name = "Pellegrino" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	260.1.1 = {
@@ -5493,7 +6014,7 @@
 }
 
 373 = {
-	name = "Isotta"
+	name = "Isotta" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -5509,12 +6030,16 @@
 }
 
 374 = {
-	name = "Stella"
+	name = "Stella" # Mastretta
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	264.1.1 = {
 		birth = 264.1.1
+	}
+
+	298.4.1 = {
+		add_spouse=375
 	}
 	364.1.1 = {
 		death = 364.1.1
@@ -5524,11 +6049,15 @@
 }
 
 375 = {
-	name = "Silvestro"
+	name = "Silvestro" # Zinni
 	culture = cantaluna
 	religion = unionism
 	266.1.1 = {
 		birth = 266.1.1
+	}
+
+	298.4.1 = {
+		add_spouse=374
 	}
 	366.1.1 = {
 		death = 366.1.1
@@ -5539,7 +6068,7 @@
 }
 
 376 = {
-	name = "Edoardo"
+	name = "Edoardo" # Zinni
 	culture = cantaluna
 	religion = unionism
 	292.1.1 = {
@@ -5554,7 +6083,7 @@
 }
 
 377 = {
-	name = "Alessandro"
+	name = "Alessandro" # Zinni
 	culture = cantaluna
 	religion = unionism
 	294.1.1 = {
@@ -5569,7 +6098,7 @@
 }
 
 378 = {
-	name = "Capriana"
+	name = "Capriana" # Zinni
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -5585,12 +6114,16 @@
 }
 
 379 = {
-	name = "Alessa"
+	name = "Alessa" # Vescovi
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	248.1.1 = {
 		birth = 248.1.1
+	}
+
+	288.4.1 = {
+		add_spouse=361
 	}
 	303.1.1 = {
 		death = 303.1.1
@@ -5599,7 +6132,7 @@
 }
 
 380 = {
-	name = "Francesco Rauol"
+	name = "Francesco Rauol" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	289.1.1 = {
@@ -5614,11 +6147,15 @@
 }
 
 382 = {
-	name = "Lorenzo"
+	name = "Lorenzo" # de Morra
 	culture = cantaluna
 	religion = unionism
 	232.1.1 = {
 		birth = 232.1.1
+	}
+
+	259.4.1 = {
+		add_spouse=383
 	}
 	297.1.1 = {
 		death = 297.1.1
@@ -5629,12 +6166,16 @@
 }
 
 383 = {
-	name = "Caterina"
+	name = "Caterina" # Spinola
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	236.1.1 = {
 		birth = 236.1.1
+	}
+
+	259.4.1 = {
+		add_spouse=382
 	}
 	302.1.1 = {
 		death = 302.1.1
@@ -5643,7 +6184,7 @@
 }
 
 384 = {
-	name = "Camilla"
+	name = "Camilla" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -5658,7 +6199,7 @@
 }
 
 385 = {
-	name = "Siena"
+	name = "Siena" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -5673,7 +6214,7 @@
 }
 
 386 = {
-	name = "Zappacosta"
+	name = "Zappacosta" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	236.1.1 = {
@@ -5687,11 +6228,15 @@
 }
 
 387 = {
-	name = "Gabriel"
+	name = "Gabriel" # de Morra
 	culture = cantaluna
 	religion = unionism
 	205.1.1 = {
 		birth = 205.1.1
+	}
+
+	231.4.1 = {
+		add_spouse=388
 	}
 	270.1.1 = {
 		death = 270.1.1
@@ -5700,12 +6245,16 @@
 }
 
 388 = {
-	name = "Isabella"
+	name = "Isabella" # Malatesta
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	208.1.1 = {
 		birth = 208.1.1
+	}
+
+	231.4.1 = {
+		add_spouse=387
 	}
 	274.1.1 = {
 		death = 274.1.1
@@ -5714,11 +6263,15 @@
 }
 
 389 = {
-	name = "Giovanni"
+	name = "Giovanni" # Zinni
 	culture = cantaluna
 	religion = unionism
 	230.1.1 = {
 		birth = 230.1.1
+	}
+
+	265.4.1 = {
+		add_spouse=324
 	}
 	290.1.1 = {
 		death = 290.1.1
@@ -5727,11 +6280,15 @@
 }
 
 390 = {
-	name = "Eadric"
+	name = "Eadric" # Harhold
 	culture = cearden
 	religion = unionism
 	190.1.1 = {
 		birth = 190.1.1
+	}
+
+	245.4.1 = {
+		add_spouse=391
 	}
 	265.1.1 = {
 		death = 265.1.1
@@ -5740,12 +6297,16 @@
 }
 
 391 = {
-	name = "Hildwyn"
+	name = "Hildwyn" # Harding
 	culture = cearden
 	religion = unionism
 	female = yes
 	210.1.1 = {
 		birth = 210.1.1
+	}
+
+	245.4.1 = {
+		add_spouse=390
 	}
 	278.1.1 = {
 		death = 278.1.1
@@ -5754,11 +6315,15 @@
 }
 
 392 = {
-	name = "Elric"
+	name = "Elric" # Harhold
 	culture = cearden
 	religion = unionism
 	234.1.1 = {
 		birth = 234.1.1
+	}
+
+	271.4.1 = {
+		add_spouse=395
 	}
 	298.1.1 = {
 		death = 298.1.1
@@ -5769,12 +6334,16 @@
 }
 
 393 = {
-	name = "Roswitha"
+	name = "Roswitha" # Adler
 	culture = wirtem
 	religion = unionism
 	female = yes
 	242.1.1 = {
 		birth = 242.1.1
+	}
+
+	271.4.1 = {
+		add_spouse=394
 	}
 	342.1.1 = {
 		death = 342.1.1
@@ -5783,11 +6352,15 @@
 }
 
 394 = {
-	name = "Acwald"
+	name = "Acwald" # Harhold
 	culture = cearden
 	religion = unionism
 	246.1.1 = {
 		birth = 246.1.1
+	}
+
+	271.4.1 = {
+		add_spouse=393
 	}
 	346.1.1 = {
 		death = 346.1.1
@@ -5798,12 +6371,16 @@
 }
 
 395 = {
-	name = "Mathilda"
+	name = "Mathilda" # de Montreux
 	culture = ithanian
 	religion = unionism
 	female = yes
 	240.1.1 = {
 		birth = 240.1.1
+	}
+
+	271.4.1 = {
+		add_spouse=392
 	}
 	340.1.1 = {
 		death = 340.1.1
@@ -5813,7 +6390,7 @@
 }
 
 396 = {
-	name = "Aethelric"
+	name = "Aethelric" # Harhold
 	culture = cearden
 	religion = unionism
 	258.1.1 = {
@@ -5828,11 +6405,15 @@
 }
 
 397 = {
-	name = "Hengest"
+	name = "Hengest" # Harhold
 	culture = cearden
 	religion = unionism
 	263.1.1 = {
 		birth = 263.1.1
+	}
+
+	310.4.1 = {
+		add_spouse=334
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -5843,7 +6424,7 @@
 }
 
 398 = {
-	name = "Egbert"
+	name = "Egbert" # Harhold
 	culture = cearden
 	religion = unionism
 	266.1.1 = {
@@ -5858,7 +6439,7 @@
 }
 
 399 = {
-	name = "Inga"
+	name = "Inga" # Harhold
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -5874,7 +6455,7 @@
 }
 
 400 = {
-	name = "Matthjis"
+	name = "Matthjis" # Harhold
 	culture = cearden
 	religion = unionism
 	268.1.1 = {
@@ -5889,7 +6470,7 @@
 }
 
 401 = {
-	name = "Wulfric"
+	name = "Wulfric" # Harhold
 	culture = cearden
 	religion = unionism
 	269.1.1 = {
@@ -5904,7 +6485,7 @@
 }
 
 402 = {
-	name = "Godwyna"
+	name = "Godwyna" # Harhold
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -5920,7 +6501,7 @@
 }
 
 403 = {
-	name = "Wynstan"
+	name = "Wynstan" # Harhold
 	culture = cearden
 	religion = unionism
 	272.1.1 = {
@@ -5935,7 +6516,7 @@
 }
 
 404 = {
-	name = "Cwynthryth"
+	name = "Cwynthryth" # Harhold
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -5951,7 +6532,7 @@
 }
 
 405 = {
-	name = "Agatha"
+	name = "Agatha" # Harhold
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -5966,7 +6547,7 @@
 }
 
 406 = {
-	name = "Eadwald"
+	name = "Eadwald" # Harhold
 	culture = cearden
 	religion = unionism
 	303.1.1 = {
@@ -5980,7 +6561,7 @@
 }
 
 407 = {
-	name = "Aethelric"
+	name = "Aethelric" # Gray
 	culture = cearden
 	religion = unionism
 	306.1.1 = {
@@ -5994,7 +6575,7 @@
 }
 
 408 = {
-	name = "Vicenna"
+	name = "Vicenna" # Gray
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -6009,7 +6590,7 @@
 }
 
 409 = {
-	name = "Aedilhild"
+	name = "Aedilhild" # Harhold
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -6025,7 +6606,7 @@
 }
 
 410 = {
-	name = "Athelric"
+	name = "Athelric" # Harhold
 	culture = cearden
 	religion = unionism
 	268.1.1 = {
@@ -6040,12 +6621,16 @@
 }
 
 411 = {
-	name = "Sebastienne"
+	name = "Sebastienne" # Sutigne
 	culture = ithanian
 	religion = unionism
 	female = yes
 	200.1.1 = {
 		birth = 200.1.1
+	}
+
+	221.4.1 = {
+		add_spouse=412
 	}
 	271.1.1 = {
 		death = 271.1.1
@@ -6054,11 +6639,15 @@
 }
 
 412 = {
-	name = "Pierres"
+	name = "Pierres" # Jeanfreau
 	culture = ithanian
 	religion = unionism
 	199.1.1 = {
 		birth = 199.1.1
+	}
+
+	221.4.1 = {
+		add_spouse=411
 	}
 	268.1.1 = {
 		death = 268.1.1
@@ -6068,7 +6657,7 @@
 }
 
 413 = {
-	name = "Aurelie"
+	name = "Aurelie" # Baudry
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -6082,11 +6671,15 @@
 }
 
 414 = {
-	name = "Timothee Yvon"
+	name = "Timothee Yvon" # Caillouet
 	culture = ithanian
 	religion = unionism
 	196.1.1 = {
 		birth = 196.1.1
+	}
+
+	224.4.1 = {
+		add_spouse=415
 	}
 	260.1.1 = {
 		death = 260.1.1
@@ -6095,12 +6688,16 @@
 }
 
 415 = {
-	name = "Apolline"
+	name = "Apolline" # Perrault
 	culture = ithanian
 	religion = unionism
 	female = yes
 	198.1.1 = {
 		birth = 198.1.1
+	}
+
+	224.4.1 = {
+		add_spouse=414
 	}
 	266.1.1 = {
 		death = 266.1.1
@@ -6109,7 +6706,7 @@
 }
 
 416 = {
-	name = "Mathieu Luc"
+	name = "Mathieu Luc" # Meaux
 	culture = ithanian
 	religion = unionism
 	191.1.1 = {
@@ -6122,12 +6719,16 @@
 }
 
 417 = {
-	name = "Celine"
+	name = "Celine" # Bellerose
 	culture = ithanian
 	religion = unionism
 	female = yes
 	204.1.1 = {
 		birth = 204.1.1
+	}
+
+	225.4.1 = {
+		add_spouse=418
 	}
 	284.1.1 = {
 		death = 284.1.1
@@ -6136,11 +6737,15 @@
 }
 
 418 = {
-	name = "Adrien"
+	name = "Adrien" # Valeur
 	culture = ithanian
 	religion = unionism
 	200.1.1 = {
 		birth = 200.1.1
+	}
+
+	225.4.1 = {
+		add_spouse=417
 	}
 	275.1.1 = {
 		death = 275.1.1
@@ -6149,12 +6754,16 @@
 }
 
 419 = {
-	name = "Blanche"
+	name = "Blanche" # Valeur
 	culture = ithanian
 	religion = unionism
 	female = yes
 	226.1.1 = {
 		birth = 226.1.1
+	}
+
+	254.4.1 = {
+		add_spouse=420
 	}
 	289.1.1 = {
 		death = 289.1.1
@@ -6165,11 +6774,15 @@
 }
 
 420 = {
-	name = "Estienne"
+	name = "Estienne" # de Villeneuve
 	culture = ithanian
 	religion = unionism
 	231.1.1 = {
 		birth = 231.1.1
+	}
+
+	254.4.1 = {
+		add_spouse=419
 	}
 	293.1.1 = {
 		death = 293.1.1
@@ -6178,12 +6791,16 @@
 }
 
 421 = {
-	name = "Lenora Marie"
+	name = "Lenora Marie" # Jeanfreau
 	culture = ithanian
 	religion = unionism
 	female = yes
 	222.1.1 = {
 		birth = 222.1.1
+	}
+
+	249.4.1 = {
+		add_spouse=422
 	}
 	292.1.1 = {
 		death = 292.1.1
@@ -6194,11 +6811,15 @@
 }
 
 422 = {
-	name = "Gregoire"
+	name = "Gregoire" # Caillouet
 	culture = ithanian
 	religion = unionism
 	215.1.1 = {
 		birth = 215.1.1
+	}
+
+	249.4.1 = {
+		add_spouse=421
 	}
 	280.1.1 = {
 		death = 280.1.1
@@ -6209,12 +6830,16 @@
 }
 
 423 = {
-	name = "Angelique"
+	name = "Angelique" # Caillouet
 	culture = ithanian
 	religion = unionism
 	female = yes
 	225.1.1 = {
 		birth = 225.1.1
+	}
+
+	246.4.1 = {
+		add_spouse=424
 	}
 	296.1.1 = {
 		death = 296.1.1
@@ -6225,11 +6850,15 @@
 }
 
 424 = {
-	name = "Laurent"
+	name = "Laurent" # Valeur
 	culture = ithanian
 	religion = unionism
 	221.1.1 = {
 		birth = 221.1.1
+	}
+
+	246.4.1 = {
+		add_spouse=423
 	}
 	295.1.1 = {
 		death = 295.1.1
@@ -6240,12 +6869,16 @@
 }
 
 425 = {
-	name = "Domitille"
+	name = "Domitille" # de Villeneuve
 	culture = ithanian
 	religion = unionism
 	female = yes
 	255.1.1 = {
 		birth = 255.1.1
+	}
+
+	282.4.1 = {
+		add_spouse=426
 	}
 	355.1.1 = {
 		death = 355.1.1
@@ -6256,11 +6889,15 @@
 }
 
 426 = {
-	name = "Leander"
+	name = "Leander" # Reinard
 	culture = wirtem
 	religion = unionism
 	253.1.1 = {
 		birth = 253.1.1
+	}
+
+	282.4.1 = {
+		add_spouse=425
 	}
 	300.1.1 = {
 		death = 300.1.1
@@ -6271,12 +6908,16 @@
 }
 
 427 = {
-	name = "Julienne Flore"
+	name = "Julienne Flore" # Caillouet
 	culture = ithanian
 	religion = unionism
 	female = yes
 	250.1.1 = {
 		birth = 250.1.1
+	}
+
+	276.4.1 = {
+		add_spouse=428
 	}
 	350.1.1 = {
 		death = 350.1.1
@@ -6287,11 +6928,15 @@
 }
 
 428 = {
-	name = "Hadrien"
+	name = "Hadrien" # Valeur
 	culture = ithanian
 	religion = unionism
 	247.1.1 = {
 		birth = 247.1.1
+	}
+
+	276.4.1 = {
+		add_spouse=427
 	}
 	347.1.1 = {
 		death = 347.1.1
@@ -6302,12 +6947,20 @@
 }
 
 429 = {
-	name = "Adira"
+	name = "Adira" # de Blouscheur
 	culture = ithanian
 	religion = unionism
 	female = yes
 	274.1.1 = {
 		birth = 274.1.1
+	}
+
+	295.4.1 = {
+		add_spouse=433
+	}
+
+	304.4.1 = {
+		#remove_spouse = 433
 	}
 	374.1.1 = {
 		death = 374.1.1
@@ -6316,7 +6969,7 @@
 }
 
 430 = {
-	name = "Sebastien Edouard"
+	name = "Sebastien Edouard" # Valeur
 	culture = ithanian
 	religion = unionism
 	270.1.1 = {
@@ -6331,7 +6984,7 @@
 }
 
 431 = {
-	name = "Stephan"
+	name = "Stephan" # Valeur
 	culture = ithanian
 	religion = unionism
 	269.1.1 = {
@@ -6346,7 +6999,7 @@
 }
 
 432 = {
-	name = "Victoria"
+	name = "Victoria" # Valeur
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -6362,11 +7015,20 @@
 }
 
 433 = {
-	name = "Mathieux Dureau"
+	name = "Mathieux Dureau" # Valeur
 	culture = ithanian
 	religion = unionism
 	277.1.1 = {
 		birth = 277.1.1
+	}
+
+	295.4.1 = {
+		add_spouse=429
+	}
+
+	304.4.1 = {
+		#remove_spouse = 429
+		add_spouse=434
 	}
 	377.1.1 = {
 		death = 377.1.1
@@ -6377,12 +7039,16 @@
 }
 
 434 = {
-	name = "Mercia"
+	name = "Mercia" # de Mont Vertu
 	culture = ithanian
 	religion = unionism
 	female = yes
 	276.1.1 = {
 		birth = 276.1.1
+	}
+
+	304.4.1 = {
+		add_spouse=433
 	}
 	376.1.1 = {
 		death = 376.1.1
@@ -6392,11 +7058,15 @@
 }
 
 435 = {
-	name = "Francois"
+	name = "Francois" # Valeur
 	culture = ithanian
 	religion = unionism
 	273.1.1 = {
 		birth = 273.1.1
+	}
+
+	295.4.1 = {
+		add_spouse=437
 	}
 	373.1.1 = {
 		death = 373.1.1
@@ -6407,7 +7077,7 @@
 }
 
 436 = {
-	name = "Melodie"
+	name = "Melodie" # de Blouscheur
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -6421,12 +7091,16 @@
 }
 
 437 = {
-	name = "Reita"
+	name = "Reita" # Vescovi
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	275.1.1 = {
 		birth = 275.1.1
+	}
+
+	295.4.1 = {
+		add_spouse=435
 	}
 	375.1.1 = {
 		death = 375.1.1
@@ -6435,7 +7109,7 @@
 }
 
 438 = {
-	name = "Claudine"
+	name = "Claudine" # Valeur
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -6451,7 +7125,7 @@
 }
 
 439 = {
-	name = "Augustin"
+	name = "Augustin" # Reinard
 	culture = wirtem
 	religion = unionism
 	278.1.1 = {
@@ -6466,7 +7140,7 @@
 }
 
 440 = {
-	name = "Gabriel Louie"
+	name = "Gabriel Louie" # Valeur
 	culture = ithanian
 	religion = unionism
 	296.1.1 = {
@@ -6481,7 +7155,7 @@
 }
 
 441 = {
-	name = "Gabrielle Evelyne"
+	name = "Gabrielle Evelyne" # Valeur
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -6497,7 +7171,7 @@
 }
 
 442 = {
-	name = "Gustave Stephan"
+	name = "Gustave Stephan" # Valeur
 	culture = ithanian
 	religion = unionism
 	304.1.1 = {
@@ -6512,7 +7186,7 @@
 }
 
 443 = {
-	name = "Eloise Chloe"
+	name = "Eloise Chloe" # Valeur
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -6528,11 +7202,15 @@
 }
 
 444 = {
-	name = "Adolphus"
+	name = "Adolphus" # von Moritz
 	culture = wirtem
 	religion = unionism
 	172.1.1 = {
 		birth = 172.1.1
+	}
+
+	194.4.1 = {
+		add_spouse=445
 	}
 	258.1.1 = {
 		death = 258.1.1
@@ -6541,12 +7219,16 @@
 }
 
 445 = {
-	name = "Wilhelmina"
+	name = "Wilhelmina" # Westbrook
 	culture = cearden
 	religion = unionism
 	female = yes
 	174.1.1 = {
 		birth = 174.1.1
+	}
+
+	194.4.1 = {
+		add_spouse=444
 	}
 	261.1.1 = {
 		death = 261.1.1
@@ -6556,11 +7238,15 @@
 }
 
 446 = {
-	name = "Leopold"
+	name = "Leopold" # von Moritz
 	culture = wirtem
 	religion = unionism
 	195.1.1 = {
 		birth = 195.1.1
+	}
+
+	217.4.1 = {
+		add_spouse=447
 	}
 	264.1.1 = {
 		death = 264.1.1
@@ -6571,12 +7257,16 @@
 }
 
 447 = {
-	name = "Clara"
+	name = "Clara" # Schauss
 	culture = wirtem
 	religion = unionism
 	female = yes
 	197.1.1 = {
 		birth = 197.1.1
+	}
+
+	217.4.1 = {
+		add_spouse=446
 	}
 	242.1.1 = {
 		death = 242.1.1
@@ -6586,11 +7276,15 @@
 }
 
 448 = {
-	name = "Frederick"
+	name = "Frederick" # von Moritz
 	culture = wirtem
 	religion = unionism
 	218.1.1 = {
 		birth = 218.1.1
+	}
+
+	249.4.1 = {
+		add_spouse=449
 	}
 	291.1.1 = {
 		death = 291.1.1
@@ -6601,12 +7295,16 @@
 }
 
 449 = {
-	name = "Helena"
+	name = "Helena" # of Portburgh
 	culture = cearden
 	religion = unionism
 	female = yes
 	220.1.1 = {
 		birth = 220.1.1
+	}
+
+	249.4.1 = {
+		add_spouse=448
 	}
 	288.1.1 = {
 		death = 288.1.1
@@ -6615,11 +7313,20 @@
 }
 
 450 = {
-	name = "Aldobert"
+	name = "Aldobert" # von Moritz
 	culture = wirtem
 	religion = unionism
 	242.1.1 = {
 		birth = 242.1.1
+	}
+
+	277.4.1 = {
+		add_spouse=454
+	}
+
+	283.4.1 = {
+		add_spouse=451
+		#remove_spouse = 454
 	}
 	342.1.1 = {
 		death = 342.1.1
@@ -6630,12 +7337,16 @@
 }
 
 451 = {
-	name = "Adalgisa"
+	name = "Adalgisa" # Etterburgh
 	culture = anglian
 	religion = unionism
 	female = yes
 	246.1.1 = {
 		birth = 246.1.1
+	}
+
+	283.4.1 = {
+		add_spouse=450
 	}
 	346.1.1 = {
 		death = 346.1.1
@@ -6644,11 +7355,15 @@
 }
 
 452 = {
-	name = "Theobold"
+	name = "Theobold" # von Moritz
 	culture = wirtem
 	religion = unionism
 	245.1.1 = {
 		birth = 245.1.1
+	}
+
+	289.4.1 = {
+		add_spouse=453
 	}
 	345.1.1 = {
 		death = 345.1.1
@@ -6659,12 +7374,16 @@
 }
 
 453 = {
-	name = "Leyna"
+	name = "Leyna" # van Elst
 	culture = anglian
 	religion = unionism
 	female = yes
 	247.1.1 = {
 		birth = 247.1.1
+	}
+
+	289.4.1 = {
+		add_spouse=452
 	}
 	347.1.1 = {
 		death = 347.1.1
@@ -6673,12 +7392,20 @@
 }
 
 454 = {
-	name = "Mathilda"
+	name = "Mathilda" # von Graublatt
 	culture = wirtem
 	religion = unionism
 	female = yes
 	244.1.1 = {
 		birth = 244.1.1
+	}
+
+	277.4.1 = {
+		add_spouse=450
+	}
+
+	283.4.1 = {
+		#remove_spouse = 450
 	}
 	344.1.1 = {
 		death = 344.1.1
@@ -6687,7 +7414,7 @@
 }
 
 455 = {
-	name = "Aldobert"
+	name = "Aldobert" # von Moritz
 	culture = wirtem
 	religion = unionism
 	270.1.1 = {
@@ -6702,7 +7429,7 @@
 }
 
 456 = {
-	name = "Ademaro"
+	name = "Ademaro" # von Moritz
 	culture = wirtem
 	religion = unionism
 	273.1.1 = {
@@ -6717,12 +7444,16 @@
 }
 
 457 = {
-	name = "Fronika"
+	name = "Fronika" # von Moritz
 	culture = wirtem
 	religion = unionism
 	female = yes
 	265.1.1 = {
 		birth = 265.1.1
+	}
+
+	294.4.1 = {
+		add_spouse=458
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -6733,11 +7464,15 @@
 }
 
 458 = {
-	name = "Bartisch"
+	name = "Bartisch" # von Haubtdorf
 	culture = wirtem
 	religion = unionism
 	263.1.1 = {
 		birth = 263.1.1
+	}
+
+	294.4.1 = {
+		add_spouse=457
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -6746,7 +7481,7 @@
 }
 
 459 = {
-	name = "Petra"
+	name = "Petra" # Lucini
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -6760,7 +7495,7 @@
 }
 
 460 = {
-	name = "Howland"
+	name = "Howland" # von Moritz
 	culture = wirtem
 	religion = unionism
 	276.1.1 = {
@@ -6775,7 +7510,7 @@
 }
 
 461 = {
-	name = "Brunhilde"
+	name = "Brunhilde" # von Moritz
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -6791,7 +7526,7 @@
 }
 
 462 = {
-	name = "Rayleine"
+	name = "Rayleine" # von Moritz
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -6807,7 +7542,7 @@
 }
 
 463 = {
-	name = "Frieda"
+	name = "Frieda" # von Moritz
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -6823,7 +7558,7 @@
 }
 
 464 = {
-	name = "Eldwin"
+	name = "Eldwin" # von Moritz
 	culture = wirtem
 	religion = unionism
 	290.1.1 = {
@@ -6838,7 +7573,7 @@
 }
 
 465 = {
-	name = "Ermina"
+	name = "Ermina" # von Moritz
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -6854,7 +7589,7 @@
 }
 
 466 = {
-	name = "Otto"
+	name = "Otto" # von Haubtdorf
 	culture = wirtem
 	religion = unionism
 	292.1.1 = {
@@ -6869,7 +7604,7 @@
 }
 
 467 = {
-	name = "Greta"
+	name = "Greta" # von Haubtdorf
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -6885,7 +7620,7 @@
 }
 
 468 = {
-	name = "Gherardo"
+	name = "Gherardo" # Lampero
 	culture = cantaluna
 	religion = unionism
 	231.1.1 = {
@@ -6899,7 +7634,7 @@
 }
 
 469 = {
-	name = "Leontio"
+	name = "Leontio" # Lampero
 	culture = cantaluna
 	religion = unionism
 	211.1.1 = {
@@ -6912,12 +7647,16 @@
 }
 
 470 = {
-	name = "Leah"
+	name = "Leah" # Kade
 	culture = anglian
 	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
+	}
+
+	288.4.1 = {
+		add_matrilineal_spouse=349
 	}
 	370.1.1 = {
 		death = 370.1.1
@@ -6927,7 +7666,7 @@
 }
 
 471 = {
-	name = "Elisabeth"
+	name = "Elisabeth" # of Yorricston
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -6941,7 +7680,7 @@
 }
 
 472 = {
-	name = "Diederik"
+	name = "Diederik" # Kade
 	culture = anglian
 	religion = unionism
 	289.1.1 = {
@@ -6956,12 +7695,16 @@
 }
 
 473 = {
-	name = "Erica"
+	name = "Erica" # Zinni
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	265.1.1 = {
 		birth = 265.1.1
+	}
+
+	297.4.1 = {
+		add_spouse=475
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -6972,7 +7715,7 @@
 }
 
 474 = {
-	name = "Frederick"
+	name = "Frederick" # von Moritz
 	culture = wirtem
 	religion = unionism
 	246.1.1 = {
@@ -6987,11 +7730,15 @@
 }
 
 475 = {
-	name = "Leopold"
+	name = "Leopold" # von Moritz
 	culture = wirtem
 	religion = unionism
 	249.1.1 = {
 		birth = 249.1.1
+	}
+
+	297.4.1 = {
+		add_spouse=473
 	}
 	349.1.1 = {
 		death = 349.1.1
@@ -7002,7 +7749,7 @@
 }
 
 476 = {
-	name = "Marianne"
+	name = "Marianne" # von Moritz
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -7018,7 +7765,7 @@
 }
 
 477 = {
-	name = "Brandt"
+	name = "Brandt" # von Moritz
 	culture = wirtem
 	religion = unionism
 	298.1.1 = {
@@ -7033,7 +7780,7 @@
 }
 
 478 = {
-	name = "Gunther"
+	name = "Gunther" # Westbrook
 	culture = cearden
 	religion = unionism
 	178.1.1 = {
@@ -7047,12 +7794,16 @@
 }
 
 479 = {
-	name = "Josephine"
+	name = "Josephine" # von Moritz
 	culture = wirtem
 	religion = unionism
 	female = yes
 	250.1.1 = {
 		birth = 250.1.1
+	}
+
+	286.4.1 = {
+		add_spouse=45
 	}
 	350.1.1 = {
 		death = 350.1.1
@@ -7063,11 +7814,15 @@
 }
 
 480 = {
-	name = "Wulfric"
+	name = "Wulfric" # Reinard
 	culture = wirtem
 	religion = unionism
 	190.1.1 = {
 		birth = 190.1.1
+	}
+
+	222.4.1 = {
+		add_spouse=481
 	}
 	266.1.1 = {
 		death = 266.1.1
@@ -7076,12 +7831,16 @@
 }
 
 481 = {
-	name = "Helena"
+	name = "Helena" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	female = yes
 	191.1.1 = {
 		birth = 191.1.1
+	}
+
+	222.4.1 = {
+		add_spouse=480
 	}
 	273.1.1 = {
 		death = 273.1.1
@@ -7091,11 +7850,15 @@
 }
 
 482 = {
-	name = "Alexander"
+	name = "Alexander" # Reinard
 	culture = wirtem
 	religion = unionism
 	221.1.1 = {
 		birth = 221.1.1
+	}
+
+	262.4.1 = {
+		add_spouse=483
 	}
 	287.1.1 = {
 		death = 287.1.1
@@ -7106,12 +7869,16 @@
 }
 
 483 = {
-	name = "Melisende"
+	name = "Melisende" # Florentia d'Esclat
 	culture = ithanian
 	religion = unionism
 	female = yes
 	229.1.1 = {
 		birth = 229.1.1
+	}
+
+	262.4.1 = {
+		add_spouse=482
 	}
 	295.1.1 = {
 		death = 295.1.1
@@ -7120,7 +7887,7 @@
 }
 
 484 = {
-	name = "Carlo"
+	name = "Carlo" # Mastretta
 	culture = cantaluna
 	religion = unionism
 	156.1.1 = {
@@ -7134,7 +7901,7 @@
 }
 
 485 = {
-	name = "Blanche"
+	name = "Blanche" # Reinard
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -7150,7 +7917,7 @@
 }
 
 486 = {
-	name = "Lothair Isengrim"
+	name = "Lothair Isengrim" # Reinard
 	culture = wirtem
 	religion = unionism
 	255.1.1 = {
@@ -7165,7 +7932,7 @@
 }
 
 487 = {
-	name = "Swanheid"
+	name = "Swanheid" # Reinard
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -7181,7 +7948,7 @@
 }
 
 488 = {
-	name = "Gotfrid"
+	name = "Gotfrid" # Reinard
 	culture = wirtem
 	religion = unionism
 	259.1.1 = {
@@ -7196,7 +7963,7 @@
 }
 
 489 = {
-	name = "Perrine"
+	name = "Perrine" # Reinard
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -7212,7 +7979,7 @@
 }
 
 490 = {
-	name = "Gregore"
+	name = "Gregore" # Reinard
 	culture = wirtem
 	religion = unionism
 	263.1.1 = {
@@ -7227,7 +7994,7 @@
 }
 
 491 = {
-	name = "Willem Heidbert"
+	name = "Willem Heidbert" # Reinard
 	culture = wirtem
 	religion = unionism
 	279.1.1 = {
@@ -7241,7 +8008,7 @@
 }
 
 492 = {
-	name = "Aldrick Telesphore"
+	name = "Aldrick Telesphore" # Reinard
 	culture = wirtem
 	religion = unionism
 	280.1.1 = {
@@ -7255,7 +8022,7 @@
 }
 
 493 = {
-	name = "Laurence"
+	name = "Laurence" # Reinard
 	culture = wirtem
 	religion = unionism
 	222.1.1 = {
@@ -7270,7 +8037,7 @@
 }
 
 494 = {
-	name = "Ameline"
+	name = "Ameline" # Reinard
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -7286,7 +8053,7 @@
 }
 
 495 = {
-	name = "Willem"
+	name = "Willem" # Reinard
 	culture = wirtem
 	religion = unionism
 	246.1.1 = {
@@ -7300,7 +8067,7 @@
 }
 
 496 = {
-	name = "Carolin"
+	name = "Carolin" # Reinard
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -7315,7 +8082,7 @@
 }
 
 497 = {
-	name = "Wulfric"
+	name = "Wulfric" # Reinard
 	culture = wirtem
 	religion = unionism
 	250.1.1 = {
@@ -7329,7 +8096,7 @@
 }
 
 498 = {
-	name = "Humaira"
+	name = "Humaira" # Reinard
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -7344,7 +8111,7 @@
 }
 
 499 = {
-	name = "Alaric"
+	name = "Alaric" # von Drachenburg
 	culture = wirtem
 	religion = unionism
 	150.1.1 = {
@@ -7358,11 +8125,15 @@
 }
 
 500 = {
-	name = "Esteban"
+	name = "Esteban" # Amaya
 	culture = tierravera
 	religion = unionism
 	231.1.1 = {
 		birth = 231.1.1
+	}
+
+	269.4.1 = {
+		add_spouse=501
 	}
 	331.1.1 = {
 		death = 331.1.1
@@ -7371,12 +8142,16 @@
 }
 
 501 = {
-	name = "Loretta"
+	name = "Loretta" # Zinni
 	culture = cantaluna
 	religion = unionism
 	female = yes
 	246.1.1 = {
 		birth = 246.1.1
+	}
+
+	269.4.1 = {
+		add_spouse=500
 	}
 	346.1.1 = {
 		death = 346.1.1
@@ -7387,11 +8162,20 @@
 }
 
 502 = {
-	name = "Atilio"
+	name = "Atilio" # Amaya
 	culture = tierravera
 	religion = unionism
 	264.1.1 = {
 		birth = 264.1.1
+	}
+
+	280.4.1 = {
+		add_spouse=506
+	}
+
+	294.4.1 = {
+		add_spouse=503
+		#remove_spouse = 506
 	}
 	303.1.1 = {
 		death = 303.1.1
@@ -7402,12 +8186,16 @@
 }
 
 503 = {
-	name = "Lorea"
+	name = "Lorea" # Anahera
 	culture = tierravera
 	religion = unionism
 	female = yes
 	273.1.1 = {
 		birth = 273.1.1
+	}
+
+	294.4.1 = {
+		add_spouse=502
 	}
 	373.1.1 = {
 		death = 373.1.1
@@ -7417,7 +8205,7 @@
 }
 
 504 = {
-	name = "Cesare"
+	name = "Cesare" # Amaya
 	culture = tierravera
 	religion = unionism
 	289.1.1 = {
@@ -7432,7 +8220,7 @@
 }
 
 505 = {
-	name = "Bianca"
+	name = "Bianca" # Amaya
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -7448,12 +8236,20 @@
 }
 
 506 = {
-	name = "Apollonia"
+	name = "Apollonia" # Tzavaras
 	culture = etosian
 	religion = unionism
 	female = yes
 	256.1.1 = {
 		birth = 256.1.1
+	}
+
+	280.4.1 = {
+		add_spouse=502
+	}
+
+	294.4.1 = {
+		#remove_spouse = 502
 	}
 	356.1.1 = {
 		death = 356.1.1
@@ -7462,7 +8258,7 @@
 }
 
 507 = {
-	name = "Florence"
+	name = "Florence" # Amaya
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -7478,7 +8274,7 @@
 }
 
 508 = {
-	name = "Ezmeralda"
+	name = "Ezmeralda" # Amaya
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -7494,7 +8290,7 @@
 }
 
 509 = {
-	name = "Adrian"
+	name = "Adrian" # Amaya
 	culture = tierravera
 	religion = unionism
 	268.1.1 = {
@@ -7509,7 +8305,7 @@
 }
 
 510 = {
-	name = "Andrea"
+	name = "Andrea" # Amaya
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -7524,7 +8320,7 @@
 }
 
 511 = {
-	name = "Celine"
+	name = "Celine" # Amaya
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -7539,7 +8335,7 @@
 }
 
 512 = {
-	name = "Dante"
+	name = "Dante" # Amaya
 	culture = tierravera
 	religion = unionism
 	291.1.1 = {
@@ -7553,7 +8349,7 @@
 }
 
 513 = {
-	name = "Alphonse"
+	name = "Alphonse" # de Mont Vertu
 	culture = ithanian
 	religion = unionism
 	193.1.1 = {
@@ -7566,7 +8362,7 @@
 }
 
 514 = {
-	name = "Colette"
+	name = "Colette" # de Mont Vertu
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -7581,7 +8377,7 @@
 }
 
 515 = {
-	name = "Aurore"
+	name = "Aurore" # de Mont Vertu
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -7596,7 +8392,7 @@
 }
 
 516 = {
-	name = "Isabeau"
+	name = "Isabeau" # de Mont Vertu
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -7611,7 +8407,7 @@
 }
 
 517 = {
-	name = "Lucienne"
+	name = "Lucienne" # de Mont Vertu
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -7626,7 +8422,7 @@
 }
 
 518 = {
-	name = "Marc"
+	name = "Marc" # Schauss
 	culture = wirtem
 	religion = unionism
 	175.1.1 = {
@@ -7640,7 +8436,7 @@
 }
 
 519 = {
-	name = "Michel"
+	name = "Michel" # Schauss
 	culture = wirtem
 	religion = unionism
 	208.1.1 = {
@@ -7654,7 +8450,7 @@
 }
 
 520 = {
-	name = "Gilles"
+	name = "Gilles" # Schauss
 	culture = wirtem
 	religion = unionism
 	140.1.1 = {
@@ -7668,7 +8464,7 @@
 }
 
 521 = {
-	name = "Jean Luc"
+	name = "Jean Luc" # Schauss
 	culture = wirtem
 	religion = unionism
 	112.1.1 = {
@@ -7681,11 +8477,15 @@
 }
 
 522 = {
-	name = "Arahael"
+	name = "Arahael" # Bancroft
 	culture = isldar
 	religion = unionism
 	257.1.1 = {
 		birth = 257.1.1
+	}
+
+	293.4.1 = {
+		add_spouse=523
 	}
 	357.1.1 = {
 		death = 357.1.1
@@ -7696,12 +8496,16 @@
 }
 
 523 = {
-	name = "Gwenyth"
+	name = "Gwenyth" # Zylmoira
 	culture = solvaan
 	religion = estelley
 	female = yes
 	255.1.1 = {
 		birth = 255.1.1
+	}
+
+	293.4.1 = {
+		add_spouse=522
 	}
 	355.1.1 = {
 		death = 355.1.1
@@ -7710,7 +8514,7 @@
 }
 
 524 = {
-	name = "Florance Tannis"
+	name = "Florance Tannis" # Bancroft
 	culture = isldar
 	religion = unionism
 	female = yes
@@ -7726,7 +8530,7 @@
 }
 
 525 = {
-	name = "Laurent Raaf"
+	name = "Laurent Raaf" # Bancroft
 	culture = isldar
 	religion = unionism
 	female = yes
@@ -7742,7 +8546,7 @@
 }
 
 526 = {
-	name = "Valerie"
+	name = "Valerie" # Bancroft
 	culture = isldar
 	religion = unionism
 	female = yes
@@ -7758,7 +8562,7 @@
 }
 
 527 = {
-	name = "Leufred"
+	name = "Leufred" # Bancroft
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -7774,7 +8578,7 @@
 }
 
 528 = {
-	name = "Rowena Cavia"
+	name = "Rowena Cavia" # Bancroft
 	culture = isldar
 	religion = unionism
 	female = yes
@@ -7790,7 +8594,7 @@
 }
 
 529 = {
-	name = "Rhion"
+	name = "Rhion" # Bancroft
 	culture = cearden
 	religion = unionism
 	296.1.1 = {
@@ -7805,12 +8609,16 @@
 }
 
 530 = {
-	name = "Elara"
+	name = "Elara" # Finch
 	culture = cearden
 	religion = unionism
 	female = yes
 	272.1.1 = {
 		birth = 272.1.1
+	}
+
+	295.4.1 = {
+		add_spouse=531
 	}
 	372.1.1 = {
 		death = 372.1.1
@@ -7820,11 +8628,15 @@
 }
 
 531 = {
-	name = "Bastien"
+	name = "Bastien" # Bancroft
 	culture = isldar
 	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
+	}
+
+	295.4.1 = {
+		add_spouse=530
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -7835,12 +8647,16 @@
 }
 
 532 = {
-	name = "Samala"
+	name = "Samala" # Elariana
 	culture = solvaan
 	religion = estelley
 	female = yes
 	241.1.1 = {
 		birth = 241.1.1
+	}
+
+	264.4.1 = {
+		add_spouse=533
 	}
 	341.1.1 = {
 		death = 341.1.1
@@ -7849,11 +8665,15 @@
 }
 
 533 = {
-	name = "Godric"
+	name = "Godric" # Bancroft
 	culture = cearden
 	religion = unionism
 	236.1.1 = {
 		birth = 236.1.1
+	}
+
+	264.4.1 = {
+		add_spouse=532
 	}
 	336.1.1 = {
 		death = 336.1.1
@@ -7862,7 +8682,7 @@
 }
 
 534 = {
-	name = "Marie"
+	name = "Marie" # de Mont Vertu
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -7877,11 +8697,15 @@
 }
 
 535 = {
-	name = "Aloys"
+	name = "Aloys" # du Brierust
 	culture = ithanian
 	religion = unionism
 	110.1.1 = {
 		birth = 110.1.1
+	}
+
+	141.4.1 = {
+		add_spouse=536
 	}
 	185.1.1 = {
 		death = 185.1.1
@@ -7890,12 +8714,16 @@
 }
 
 536 = {
-	name = "Lillianna"
+	name = "Lillianna" # van Vellberg
 	culture = anglian
 	religion = unionism
 	female = yes
 	115.1.1 = {
 		birth = 115.1.1
+	}
+
+	141.4.1 = {
+		add_spouse=535
 	}
 	190.1.1 = {
 		death = 190.1.1
@@ -7904,11 +8732,15 @@
 }
 
 537 = {
-	name = "Valentin"
+	name = "Valentin" # du Brierust
 	culture = ithanian
 	religion = unionism
 	140.1.1 = {
 		birth = 140.1.1
+	}
+
+	173.4.1 = {
+		add_spouse=539
 	}
 	215.1.1 = {
 		death = 215.1.1
@@ -7919,7 +8751,7 @@
 }
 
 538 = {
-	name = "Eleonora"
+	name = "Eleonora" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -7935,12 +8767,16 @@
 }
 
 539 = {
-	name = "Maximillienne"
+	name = "Maximillienne" # Salzinerre
 	culture = ithanian
 	religion = unionism
 	female = yes
 	145.1.1 = {
 		birth = 145.1.1
+	}
+
+	173.4.1 = {
+		add_spouse=537
 	}
 	220.1.1 = {
 		death = 220.1.1
@@ -7949,11 +8785,15 @@
 }
 
 540 = {
-	name = "Marcoul"
+	name = "Marcoul" # du Brierust
 	culture = ithanian
 	religion = unionism
 	170.1.1 = {
 		birth = 170.1.1
+	}
+
+	209.4.1 = {
+		add_spouse=546
 	}
 	245.1.1 = {
 		death = 245.1.1
@@ -7964,12 +8804,16 @@
 }
 
 541 = {
-	name = "Rosaline"
+	name = "Rosaline" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
 	172.1.1 = {
 		birth = 172.1.1
+	}
+
+	196.4.1 = {
+		add_spouse=543
 	}
 	247.1.1 = {
 		death = 247.1.1
@@ -7980,7 +8824,7 @@
 }
 
 542 = {
-	name = "Camille"
+	name = "Camille" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -7996,11 +8840,15 @@
 }
 
 543 = {
-	name = "Heinrich"
+	name = "Heinrich" # Ebron
 	culture = cearden
 	religion = unionism
 	170.1.1 = {
 		birth = 170.1.1
+	}
+
+	196.4.1 = {
+		add_spouse=541
 	}
 	245.1.1 = {
 		death = 245.1.1
@@ -8009,7 +8857,7 @@
 }
 
 544 = {
-	name = "Veronica"
+	name = "Veronica" # Ebron
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -8025,7 +8873,7 @@
 }
 
 545 = {
-	name = "Maximilien"
+	name = "Maximilien" # Ebron
 	culture = cearden
 	religion = unionism
 	197.1.1 = {
@@ -8040,12 +8888,16 @@
 }
 
 546 = {
-	name = "Sabine"
+	name = "Sabine" # van Westerburg
 	culture = anglian
 	religion = unionism
 	female = yes
 	174.1.1 = {
 		birth = 174.1.1
+	}
+
+	209.4.1 = {
+		add_spouse=540
 	}
 	249.1.1 = {
 		death = 249.1.1
@@ -8054,11 +8906,15 @@
 }
 
 547 = {
-	name = "Leonard"
+	name = "Leonard" # du Brierust
 	culture = ithanian
 	religion = unionism
 	202.1.1 = {
 		birth = 202.1.1
+	}
+
+	229.4.1 = {
+		add_spouse=570
 	}
 	277.1.1 = {
 		death = 277.1.1
@@ -8069,11 +8925,15 @@
 }
 
 548 = {
-	name = "Laurent"
+	name = "Laurent" # du Brierust
 	culture = ithanian
 	religion = unionism
 	204.1.1 = {
 		birth = 204.1.1
+	}
+
+	233.4.1 = {
+		add_spouse=552
 	}
 	279.1.1 = {
 		death = 279.1.1
@@ -8084,11 +8944,15 @@
 }
 
 549 = {
-	name = "Alban"
+	name = "Alban" # du Brierust
 	culture = ithanian
 	religion = unionism
 	206.1.1 = {
 		birth = 206.1.1
+	}
+
+	237.4.1 = {
+		add_spouse=558
 	}
 	281.1.1 = {
 		death = 281.1.1
@@ -8099,12 +8963,16 @@
 }
 
 550 = {
-	name = "Elle"
+	name = "Elle" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
 	208.1.1 = {
 		birth = 208.1.1
+	}
+
+	229.4.1 = {
+		add_matrilineal_spouse=564
 	}
 	283.1.1 = {
 		death = 283.1.1
@@ -8115,11 +8983,15 @@
 }
 
 551 = {
-	name = "Pierre"
+	name = "Pierre" # du Brierust
 	culture = ithanian
 	religion = unionism
 	210.1.1 = {
 		birth = 210.1.1
+	}
+
+	256.4.1 = {
+		add_spouse=567
 	}
 	285.1.1 = {
 		death = 285.1.1
@@ -8130,12 +9002,16 @@
 }
 
 552 = {
-	name = "Rianne"
+	name = "Rianne" # Gruzvald
 	culture = wirtem
 	religion = unionism
 	female = yes
 	210.1.1 = {
 		birth = 210.1.1
+	}
+
+	233.4.1 = {
+		add_spouse=548
 	}
 	285.1.1 = {
 		death = 285.1.1
@@ -8144,11 +9020,15 @@
 }
 
 553 = {
-	name = "Laudus"
+	name = "Laudus" # du Brierust
 	culture = ithanian
 	religion = unionism
 	234.1.1 = {
 		birth = 234.1.1
+	}
+
+	264.4.1 = {
+		add_spouse=554
 	}
 	309.1.1 = {
 		death = 309.1.1
@@ -8159,12 +9039,16 @@
 }
 
 554 = {
-	name = "Valentina"
+	name = "Valentina" # Schwarz
 	culture = wirtem
 	religion = unionism
 	female = yes
 	238.1.1 = {
 		birth = 238.1.1
+	}
+
+	264.4.1 = {
+		add_spouse=553
 	}
 	313.1.1 = {
 		death = 313.1.1
@@ -8173,7 +9057,7 @@
 }
 
 555 = {
-	name = "Isabelle"
+	name = "Isabelle" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -8189,7 +9073,7 @@
 }
 
 556 = {
-	name = "Victoria"
+	name = "Victoria" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -8205,7 +9089,7 @@
 }
 
 557 = {
-	name = "Henri"
+	name = "Henri" # du Brierust
 	culture = ithanian
 	religion = unionism
 	265.1.1 = {
@@ -8220,12 +9104,16 @@
 }
 
 558 = {
-	name = "Julienne"
+	name = "Julienne" # Jeanfreau
 	culture = ithanian
 	religion = unionism
 	female = yes
 	210.1.1 = {
 		birth = 210.1.1
+	}
+
+	237.4.1 = {
+		add_spouse=549
 	}
 	285.1.1 = {
 		death = 285.1.1
@@ -8235,7 +9123,7 @@
 }
 
 559 = {
-	name = "Marian"
+	name = "Marian" # Lavigne
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -8249,7 +9137,7 @@
 }
 
 560 = {
-	name = "Reinault"
+	name = "Reinault" # du Brierust
 	culture = ithanian
 	religion = unionism
 	238.1.1 = {
@@ -8264,7 +9152,7 @@
 }
 
 561 = {
-	name = "Achille"
+	name = "Achille" # du Brierust
 	culture = ithanian
 	religion = unionism
 	262.1.1 = {
@@ -8278,7 +9166,7 @@
 }
 
 562 = {
-	name = "Roul"
+	name = "Roul" # du Brierust
 	culture = ithanian
 	religion = unionism
 	265.1.1 = {
@@ -8292,7 +9180,7 @@
 }
 
 563 = {
-	name = "Manon"
+	name = "Manon" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -8307,11 +9195,15 @@
 }
 
 564 = {
-	name = "Aguste"
+	name = "Aguste" # Thorn
 	culture = cearden
 	religion = unionism
 	205.1.1 = {
 		birth = 205.1.1
+	}
+
+	229.4.1 = {
+		add_matrilineal_spouse=550
 	}
 	280.1.1 = {
 		death = 280.1.1
@@ -8321,7 +9213,7 @@
 }
 
 565 = {
-	name = "Eleonore"
+	name = "Eleonore" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -8337,7 +9229,7 @@
 }
 
 566 = {
-	name = "Niels"
+	name = "Niels" # Fournier
 	culture = ithanian
 	religion = unionism
 	228.1.1 = {
@@ -8350,12 +9242,16 @@
 }
 
 567 = {
-	name = "Octavia"
+	name = "Octavia" # Marsonne
 	culture = ithanian
 	religion = unionism
 	female = yes
 	232.1.1 = {
 		birth = 232.1.1
+	}
+
+	256.4.1 = {
+		add_spouse=551
 	}
 	307.1.1 = {
 		death = 307.1.1
@@ -8364,7 +9260,7 @@
 }
 
 568 = {
-	name = "Eloise"
+	name = "Eloise" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -8380,7 +9276,7 @@
 }
 
 569 = {
-	name = "Noemie"
+	name = "Noemie" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -8396,12 +9292,16 @@
 }
 
 570 = {
-	name = "Natalie"
+	name = "Natalie" # Mercier
 	culture = ithanian
 	religion = unionism
 	female = yes
 	205.1.1 = {
 		birth = 205.1.1
+	}
+
+	229.4.1 = {
+		add_spouse=547
 	}
 	280.1.1 = {
 		death = 280.1.1
@@ -8410,11 +9310,15 @@
 }
 
 571 = {
-	name = "Francis"
+	name = "Francis" # du Brierust
 	culture = ithanian
 	religion = unionism
 	230.1.1 = {
 		birth = 230.1.1
+	}
+
+	258.4.1 = {
+		add_spouse=572
 	}
 	305.1.1 = {
 		death = 305.1.1
@@ -8425,12 +9329,16 @@
 }
 
 572 = {
-	name = "Florence"
+	name = "Florence" # Archambeau
 	culture = ithanian
 	religion = unionism
 	female = yes
 	233.1.1 = {
 		birth = 233.1.1
+	}
+
+	258.4.1 = {
+		add_spouse=571
 	}
 	308.1.1 = {
 		death = 308.1.1
@@ -8440,7 +9348,7 @@
 }
 
 573 = {
-	name = "Milena"
+	name = "Milena" # Cadieux
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -8456,7 +9364,7 @@
 }
 
 574 = {
-	name = "Constanze"
+	name = "Constanze" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -8472,11 +9380,15 @@
 }
 
 575 = {
-	name = "Michel"
+	name = "Michel" # du Brierust
 	culture = ithanian
 	religion = unionism
 	257.1.1 = {
 		birth = 257.1.1
+	}
+
+	284.4.1 = {
+		add_spouse=576
 	}
 	357.1.1 = {
 		death = 357.1.1
@@ -8487,12 +9399,16 @@
 }
 
 576 = {
-	name = "Corina"
+	name = "Corina" # de la Fontaine
 	culture = ithanian
 	religion = unionism
 	female = yes
 	259.1.1 = {
 		birth = 259.1.1
+	}
+
+	284.4.1 = {
+		add_spouse=575
 	}
 	359.1.1 = {
 		death = 359.1.1
@@ -8501,7 +9417,7 @@
 }
 
 577 = {
-	name = "Fabienne"
+	name = "Fabienne" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -8517,7 +9433,7 @@
 }
 
 578 = {
-	name = "Herbert"
+	name = "Herbert" # Westbrook
 	culture = cearden
 	religion = unionism
 	150.1.1 = {
@@ -8530,7 +9446,7 @@
 }
 
 579 = {
-	name = "Lorraine"
+	name = "Lorraine" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -8546,7 +9462,7 @@
 }
 
 580 = {
-	name = "Ingrid"
+	name = "Ingrid" # du Brierust
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -8562,11 +9478,15 @@
 }
 
 581 = {
-	name = "Leif"
+	name = "Leif" # Palomadera
 	culture = tierravera
 	religion = unionism
 	255.1.1 = {
 		birth = 255.1.1
+	}
+
+	291.4.1 = {
+		add_matrilineal_spouse=582
 	}
 	355.1.1 = {
 		death = 355.1.1
@@ -8577,12 +9497,16 @@
 }
 
 582 = {
-	name = "Julia"
+	name = "Julia" # Palomadera
 	culture = tierravera
 	religion = unionism
 	female = yes
 	257.1.1 = {
 		birth = 257.1.1
+	}
+
+	291.4.1 = {
+		add_matrilineal_spouse=581
 	}
 	357.1.1 = {
 		death = 357.1.1
@@ -8593,12 +9517,16 @@
 }
 
 583 = {
-	name = "Viveca"
+	name = "Viveca" # Palomadera
 	culture = tierravera
 	religion = unionism
 	female = yes
 	261.1.1 = {
 		birth = 261.1.1
+	}
+
+	294.4.1 = {
+		add_matrilineal_spouse=592
 	}
 	361.1.1 = {
 		death = 361.1.1
@@ -8609,12 +9537,16 @@
 }
 
 584 = {
-	name = "Lucinda"
+	name = "Lucinda" # Palomadera
 	culture = tierravera
 	religion = unionism
 	female = yes
 	267.1.1 = {
 		birth = 267.1.1
+	}
+
+	293.4.1 = {
+		add_matrilineal_spouse=591
 	}
 	295.1.1 = {
 		death = 295.1.1
@@ -8625,11 +9557,15 @@
 }
 
 585 = {
-	name = "Vidar"
+	name = "Vidar" # Palomadera
 	culture = tierravera
 	religion = unionism
 	269.1.1 = {
 		birth = 269.1.1
+	}
+
+	293.4.1 = {
+		add_spouse=593
 	}
 	369.1.1 = {
 		death = 369.1.1
@@ -8640,7 +9576,7 @@
 }
 
 586 = {
-	name = "Calder"
+	name = "Calder" # Palomadera
 	culture = tierravera
 	religion = unionism
 	287.1.1 = {
@@ -8655,7 +9591,7 @@
 }
 
 587 = {
-	name = "Osric"
+	name = "Osric" # Palomadera
 	culture = tierravera
 	religion = unionism
 	289.1.1 = {
@@ -8670,11 +9606,15 @@
 }
 
 588 = {
-	name = "Elric"
+	name = "Elric" # Palomadera
 	culture = tierravera
 	religion = unionism
 	283.1.1 = {
 		birth = 283.1.1
+	}
+
+	301.4.1 = {
+		add_spouse=605
 	}
 	383.1.1 = {
 		death = 383.1.1
@@ -8685,7 +9625,7 @@
 }
 
 589 = {
-	name = "Torbin"
+	name = "Torbin" # Palomadera
 	culture = tierravera
 	religion = unionism
 	292.1.1 = {
@@ -8700,7 +9640,7 @@
 }
 
 590 = {
-	name = "Leonzio"
+	name = "Leonzio" # Bastier
 	culture = ithanian
 	religion = unionism
 	284.1.1 = {
@@ -8713,11 +9653,15 @@
 }
 
 591 = {
-	name = "Raoul"
+	name = "Raoul" # Guitterez
 	culture = tierravera
 	religion = unionism
 	273.1.1 = {
 		birth = 273.1.1
+	}
+
+	293.4.1 = {
+		add_matrilineal_spouse=584
 	}
 	373.1.1 = {
 		death = 373.1.1
@@ -8726,11 +9670,15 @@
 }
 
 592 = {
-	name = "Alonso"
+	name = "Alonso" # Ruiz
 	culture = tierravera
 	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
+	}
+
+	294.4.1 = {
+		add_matrilineal_spouse=583
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -8739,12 +9687,16 @@
 }
 
 593 = {
-	name = "Sarena"
+	name = "Sarena" # Archambeau
 	culture = ithanian
 	religion = unionism
 	female = yes
 	271.1.1 = {
 		birth = 271.1.1
+	}
+
+	293.4.1 = {
+		add_spouse=585
 	}
 	371.1.1 = {
 		death = 371.1.1
@@ -8754,7 +9706,7 @@
 }
 
 594 = {
-	name = "Benjamin"
+	name = "Benjamin" # Palomadera
 	culture = tierravera
 	religion = unionism
 	290.1.1 = {
@@ -8769,7 +9721,7 @@
 }
 
 595 = {
-	name = "Henri"
+	name = "Henri" # Palomadera
 	culture = tierravera
 	religion = unionism
 	291.1.1 = {
@@ -8784,7 +9736,7 @@
 }
 
 596 = {
-	name = "Catalina"
+	name = "Catalina" # Palomadera
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -8800,12 +9752,16 @@
 }
 
 597 = {
-	name = "Ophelia"
+	name = "Ophelia" # Palomadera
 	culture = tierravera
 	religion = unionism
 	female = yes
 	281.1.1 = {
 		birth = 281.1.1
+	}
+
+	299.4.1 = {
+		add_matrilineal_spouse=608
 	}
 	381.1.1 = {
 		death = 381.1.1
@@ -8816,7 +9772,7 @@
 }
 
 598 = {
-	name = "Kendric"
+	name = "Kendric" # Palomadera
 	culture = tierravera
 	religion = unionism
 	283.1.1 = {
@@ -8831,7 +9787,7 @@
 }
 
 599 = {
-	name = "Lucia"
+	name = "Lucia" # Palomadera
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -8847,7 +9803,7 @@
 }
 
 600 = {
-	name = "Fernanda"
+	name = "Fernanda" # Palomadera
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -8863,7 +9819,7 @@
 }
 
 601 = {
-	name = "Lautaro"
+	name = "Lautaro" # Palomadera
 	culture = tierravera
 	religion = unionism
 	293.1.1 = {
@@ -8878,7 +9834,7 @@
 }
 
 602 = {
-	name = "Javier"
+	name = "Javier" # Palomadera
 	culture = tierravera
 	religion = unionism
 	295.1.1 = {
@@ -8893,7 +9849,7 @@
 }
 
 603 = {
-	name = "Thyra"
+	name = "Thyra" # Palomadera
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -8909,7 +9865,7 @@
 }
 
 604 = {
-	name = "Sylvia"
+	name = "Sylvia" # Palomadera
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -8925,12 +9881,16 @@
 }
 
 605 = {
-	name = "Isidora"
+	name = "Isidora" # Jeanfreau
 	culture = ithanian
 	religion = unionism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
+	}
+
+	301.4.1 = {
+		add_spouse=588
 	}
 	385.1.1 = {
 		death = 385.1.1
@@ -8940,7 +9900,7 @@
 }
 
 606 = {
-	name = "Julia"
+	name = "Julia" # Palomadera
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -8956,7 +9916,7 @@
 }
 
 607 = {
-	name = "Pietro"
+	name = "Pietro" # Palomadera
 	culture = tierravera
 	religion = unionism
 	302.1.1 = {
@@ -8971,11 +9931,15 @@
 }
 
 608 = {
-	name = "Thomas"
+	name = "Thomas" # Delurite
 	culture = ithanian
 	religion = unionism
 	280.1.1 = {
 		birth = 280.1.1
+	}
+
+	299.4.1 = {
+		add_matrilineal_spouse=597
 	}
 	303.1.1 = {
 		death = 303.1.1
@@ -8984,7 +9948,7 @@
 }
 
 609 = {
-	name = "Honora"
+	name = "Honora" # Palomadera
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -9000,7 +9964,7 @@
 }
 
 610 = {
-	name = "Arbec"
+	name = "Arbec" # Palomadera
 	culture = tierravera
 	religion = unionism
 	298.1.1 = {
@@ -9015,7 +9979,7 @@
 }
 
 611 = {
-	name = "Kensley"
+	name = "Kensley" # Palomadera
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -9031,7 +9995,7 @@
 }
 
 612 = {
-	name = "Juliette"
+	name = "Juliette" # Giraud
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -9045,12 +10009,16 @@
 }
 
 613 = {
-	name = "Astrid"
+	name = "Astrid" # Braquemont
 	culture = ithanian
 	religion = unionism
 	female = yes
 	234.1.1 = {
 		birth = 234.1.1
+	}
+
+	268.4.1 = {
+		add_spouse=614
 	}
 	300.1.1 = {
 		death = 300.1.1
@@ -9059,11 +10027,15 @@
 }
 
 614 = {
-	name = "Hakon"
+	name = "Hakon" # Palomadera
 	culture = tierravera
 	religion = unionism
 	232.1.1 = {
 		birth = 232.1.1
+	}
+
+	268.4.1 = {
+		add_spouse=613
 	}
 	297.1.1 = {
 		death = 297.1.1
@@ -9072,11 +10044,15 @@
 }
 
 615 = {
-	name = "Halvard"
+	name = "Halvard" # Viduggla
 	culture = velheim
 	religion = fornoss
 	210.1.1 = {
 		birth = 210.1.1
+	}
+
+	242.4.1 = {
+		add_spouse=616
 	}
 	277.1.1 = {
 		death = 277.1.1
@@ -9085,12 +10061,16 @@
 }
 
 616 = {
-	name = "Solveig"
+	name = "Solveig" # Frostheim
 	culture = velheim
 	religion = fornoss
 	female = yes
 	214.1.1 = {
 		birth = 214.1.1
+	}
+
+	242.4.1 = {
+		add_spouse=615
 	}
 	281.1.1 = {
 		death = 281.1.1
@@ -9099,11 +10079,15 @@
 }
 
 617 = {
-	name = "Leugel"
+	name = "Leugel" # Viduggla
 	culture = velheim
 	religion = fornoss
 	239.1.1 = {
 		birth = 239.1.1
+	}
+
+	265.4.1 = {
+		add_spouse=618
 	}
 	304.1.1 = {
 		death = 304.1.1
@@ -9114,12 +10098,16 @@
 }
 
 618 = {
-	name = "Toverata"
+	name = "Toverata" # Skjoldsdottir
 	culture = velheim
 	religion = fornoss
 	female = yes
 	241.1.1 = {
 		birth = 241.1.1
+	}
+
+	265.4.1 = {
+		add_spouse=617
 	}
 	341.1.1 = {
 		death = 341.1.1
@@ -9128,7 +10116,7 @@
 }
 
 619 = {
-	name = "Nora"
+	name = "Nora" # Viduggla
 	culture = velheim
 	religion = fornoss
 	female = yes
@@ -9144,7 +10132,7 @@
 }
 
 620 = {
-	name = "Roffe"
+	name = "Roffe" # Nattslott
 	culture = velheim
 	religion = fornoss
 	238.1.1 = {
@@ -9157,11 +10145,25 @@
 }
 
 621 = {
-	name = "Ardige"
+	name = "Ardige" # Viduggla
 	culture = velheim
 	religion = fornoss
 	263.1.1 = {
 		birth = 263.1.1
+	}
+
+	287.4.1 = {
+		add_spouse=622
+	}
+
+	292.4.1 = {
+		#remove_spouse = 622
+		add_spouse=624
+	}
+
+	312.4.1 = {
+		add_spouse=623
+		#remove_spouse = 624
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -9172,12 +10174,20 @@
 }
 
 622 = {
-	name = "Karin"
+	name = "Karin" # Fjelleshyge
 	culture = velheim
 	religion = fornoss
 	female = yes
 	265.1.1 = {
 		birth = 265.1.1
+	}
+
+	287.4.1 = {
+		add_spouse=621
+	}
+
+	292.4.1 = {
+		#remove_spouse = 621
 	}
 	299.1.1 = {
 		death = 299.1.1
@@ -9186,12 +10196,16 @@
 }
 
 623 = {
-	name = "Aurora"
+	name = "Aurora" # Litvinova
 	culture = krainivaya
 	religion = unionism
 	female = yes
 	297.1.1 = {
 		birth = 297.1.1
+	}
+
+	312.4.1 = {
+		add_spouse=621
 	}
 	397.1.1 = {
 		death = 397.1.1
@@ -9202,12 +10216,20 @@
 }
 
 624 = {
-	name = "Marikka"
+	name = "Marikka" # av Medelpad
 	culture = velheim
 	religion = fornoss
 	female = yes
 	269.1.1 = {
 		birth = 269.1.1
+	}
+
+	292.4.1 = {
+		add_spouse=621
+	}
+
+	312.4.1 = {
+		#remove_spouse = 621
 	}
 	369.1.1 = {
 		death = 369.1.1
@@ -9216,7 +10238,7 @@
 }
 
 625 = {
-	name = "Yngvarr"
+	name = "Yngvarr" # Viduggla
 	culture = velheim
 	religion = fornoss
 	266.1.1 = {
@@ -9231,7 +10253,7 @@
 }
 
 626 = {
-	name = "Erobrsonn"
+	name = "Erobrsonn" # Viduggla
 	culture = velheim
 	religion = fornoss
 	285.1.1 = {
@@ -9246,11 +10268,15 @@
 }
 
 627 = {
-	name = "Frejnir"
+	name = "Frejnir" # Viduggla
 	culture = velheim
 	religion = fornoss
 	288.1.1 = {
 		birth = 288.1.1
+	}
+
+	312.4.1 = {
+		add_spouse=794
 	}
 	388.1.1 = {
 		death = 388.1.1
@@ -9261,7 +10287,7 @@
 }
 
 628 = {
-	name = "Aksel"
+	name = "Aksel" # Viduggla
 	culture = velheim
 	religion = fornoss
 	290.1.1 = {
@@ -9276,7 +10302,7 @@
 }
 
 629 = {
-	name = "Tuija"
+	name = "Tuija" # Viduggla
 	culture = velheim
 	religion = fornoss
 	female = yes
@@ -9292,7 +10318,7 @@
 }
 
 630 = {
-	name = "Sa'alia"
+	name = "Sa'alia" # Felariell
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -9306,12 +10332,16 @@
 }
 
 631 = {
-	name = "Shalhreia"
+	name = "Shalhreia" # Felariell
 	culture = solvaan
 	religion = estelley
 	female = yes
 	184.1.1 = {
 		birth = 184.1.1
+	}
+
+	218.4.1 = {
+		add_matrilineal_spouse=640
 	}
 	258.1.1 = {
 		death = 258.1.1
@@ -9321,7 +10351,7 @@
 }
 
 632 = {
-	name = "Auiamey"
+	name = "Auiamey" # Felariell
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -9337,7 +10367,7 @@
 }
 
 633 = {
-	name = "Saelleia"
+	name = "Saelleia" # Felariell
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -9352,7 +10382,7 @@
 }
 
 634 = {
-	name = "Lleoveyn"
+	name = "Lleoveyn" # Felariell
 	culture = solvaan
 	religion = estelley
 	289.1.1 = {
@@ -9366,7 +10396,7 @@
 }
 
 635 = {
-	name = "Suzenvaela"
+	name = "Suzenvaela" # Felariell
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -9381,7 +10411,7 @@
 }
 
 636 = {
-	name = "Esmedara"
+	name = "Esmedara" # Felariell
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -9396,7 +10426,7 @@
 }
 
 637 = {
-	name = "Myirannir"
+	name = "Myirannir" # Felariell
 	culture = solvaan
 	religion = estelley
 	295.1.1 = {
@@ -9410,7 +10440,7 @@
 }
 
 638 = {
-	name = "Jolieyta"
+	name = "Jolieyta" # Felariell
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -9425,11 +10455,15 @@
 }
 
 639 = {
-	name = "Carlos"
+	name = "Carlos" # Anahera
 	culture = tierravera
 	religion = unionism
 	218.1.1 = {
 		birth = 218.1.1
+	}
+
+	237.4.1 = {
+		add_spouse=671
 	}
 	282.1.1 = {
 		death = 282.1.1
@@ -9438,11 +10472,15 @@
 }
 
 640 = {
-	name = "Oriandor"
+	name = "Oriandor" # bel Avaal Moor
 	culture = solvaan
 	religion = estelley
 	175.1.1 = {
 		birth = 175.1.1
+	}
+
+	218.4.1 = {
+		add_matrilineal_spouse=631
 	}
 	270.1.1 = {
 		death = 270.1.1
@@ -9452,7 +10490,7 @@
 }
 
 641 = {
-	name = "Samila"
+	name = "Samila" # bel Avaal Moor
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -9467,7 +10505,7 @@
 }
 
 642 = {
-	name = "Eandrel"
+	name = "Eandrel" # bel Avaal Moor
 	culture = solvaan
 	religion = estelley
 	203.1.1 = {
@@ -9481,7 +10519,7 @@
 }
 
 643 = {
-	name = "Lusyas"
+	name = "Lusyas" # bel Avaal Moor
 	culture = solvaan
 	religion = estelley
 	228.1.1 = {
@@ -9495,7 +10533,7 @@
 }
 
 644 = {
-	name = "Salia"
+	name = "Salia" # bel Avaal Moor
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -9510,12 +10548,16 @@
 }
 
 645 = {
-	name = "Isaveyl"
+	name = "Isaveyl" # bel Avaal Moor
 	culture = solvaan
 	religion = estelley
 	female = yes
 	247.1.1 = {
 		birth = 247.1.1
+	}
+
+	277.4.1 = {
+		add_matrilineal_spouse=646
 	}
 	308.1.1 = {
 		death = 308.1.1
@@ -9525,11 +10567,15 @@
 }
 
 646 = {
-	name = "Noveyn"
+	name = "Noveyn" # bel Avaal Moor
 	culture = solvaan
 	religion = estelley
 	255.1.1 = {
 		birth = 255.1.1
+	}
+
+	277.4.1 = {
+		add_matrilineal_spouse=645
 	}
 	355.1.1 = {
 		death = 355.1.1
@@ -9539,7 +10585,7 @@
 }
 
 647 = {
-	name = "Malsayn"
+	name = "Malsayn" # bel Avaal Moor
 	culture = solvaan
 	religion = estelley
 	273.1.1 = {
@@ -9554,7 +10600,7 @@
 }
 
 648 = {
-	name = "Eyra"
+	name = "Eyra" # bel Avaal Moor
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -9570,11 +10616,15 @@
 }
 
 649 = {
-	name = "Alistair"
+	name = "Alistair" # Red
 	culture = cearden
 	religion = unionism
 	288.1.1 = {
 		birth = 288.1.1
+	}
+
+	306.4.1 = {
+		add_spouse=650
 	}
 	388.1.1 = {
 		death = 388.1.1
@@ -9583,12 +10633,16 @@
 }
 
 650 = {
-	name = "Yvette"
+	name = "Yvette" # Beauveret
 	culture = ithanian
 	religion = unionism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
+	}
+
+	306.4.1 = {
+		add_spouse=649
 	}
 	385.1.1 = {
 		death = 385.1.1
@@ -9597,7 +10651,7 @@
 }
 
 651 = {
-	name = "Alexandria"
+	name = "Alexandria" # Red
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -9613,7 +10667,7 @@
 }
 
 652 = {
-	name = "Alex"
+	name = "Alex" # Red
 	culture = cearden
 	religion = unionism
 	305.1.1 = {
@@ -9628,7 +10682,7 @@
 }
 
 653 = {
-	name = "Alejandro"
+	name = "Alejandro" # Anahera
 	culture = tierravera
 	religion = unionism
 	260.1.1 = {
@@ -9642,7 +10696,7 @@
 }
 
 654 = {
-	name = "Theresa"
+	name = "Theresa" # Anahera
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -9658,7 +10712,7 @@
 }
 
 655 = {
-	name = "Matheo"
+	name = "Matheo" # Anahera
 	culture = tierravera
 	religion = unionism
 	275.1.1 = {
@@ -9672,7 +10726,7 @@
 }
 
 656 = {
-	name = "Alondra"
+	name = "Alondra" # Anahera
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -9687,7 +10741,7 @@
 }
 
 657 = {
-	name = "Camila"
+	name = "Camila" # Anahera
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -9702,7 +10756,7 @@
 }
 
 658 = {
-	name = "Gustavo"
+	name = "Gustavo" # Anahera
 	culture = tierravera
 	religion = unionism
 	267.1.1 = {
@@ -9716,7 +10770,7 @@
 }
 
 659 = {
-	name = "Andrieu"
+	name = "Andrieu" # Anahera
 	culture = tierravera
 	religion = unionism
 	256.1.1 = {
@@ -9730,12 +10784,16 @@
 }
 
 660 = {
-	name = "Andrea"
+	name = "Andrea" # Anahera
 	culture = tierravera
 	religion = unionism
 	female = yes
 	284.1.1 = {
 		birth = 284.1.1
+	}
+
+	311.4.1 = {
+		add_spouse=314
 	}
 	384.1.1 = {
 		death = 384.1.1
@@ -9745,7 +10803,7 @@
 }
 
 661 = {
-	name = "Madelyne"
+	name = "Madelyne" # de Azcoissia
 	culture = tierravera
 	religion = amended
 	female = yes
@@ -9759,7 +10817,7 @@
 }
 
 662 = {
-	name = "Valarosta"
+	name = "Valarosta" # Inuiirn
 	culture = solvaan
 	religion = estelley
 	235.1.1 = {
@@ -9772,7 +10830,7 @@
 }
 
 663 = {
-	name = "Jean Yves"
+	name = "Jean Yves" # du Poncaire
 	culture = ithanian
 	religion = unionism
 	230.1.1 = {
@@ -9785,12 +10843,16 @@
 }
 
 664 = {
-	name = "Sylvie"
+	name = "Sylvie" # du Poncaire
 	culture = ithanian
 	religion = unionism
 	female = yes
 	258.1.1 = {
 		birth = 258.1.1
+	}
+
+	289.4.1 = {
+		add_matrilineal_spouse=665
 	}
 	297.1.1 = {
 		death = 297.1.1
@@ -9800,11 +10862,15 @@
 }
 
 665 = {
-	name = "Lucien"
+	name = "Lucien" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	263.1.1 = {
 		birth = 263.1.1
+	}
+
+	289.4.1 = {
+		add_matrilineal_spouse=664
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -9815,7 +10881,7 @@
 }
 
 666 = {
-	name = "Florian"
+	name = "Florian" # du Poncaire
 	culture = ithanian
 	religion = unionism
 	286.1.1 = {
@@ -9830,7 +10896,7 @@
 }
 
 667 = {
-	name = "Emeric"
+	name = "Emeric" # du Poncaire
 	culture = ithanian
 	religion = unionism
 	288.1.1 = {
@@ -9845,7 +10911,7 @@
 }
 
 668 = {
-	name = "Lucrece"
+	name = "Lucrece" # du Poncaire
 	culture = ithanian
 	religion = unionism
 	290.1.1 = {
@@ -9860,7 +10926,7 @@
 }
 
 669 = {
-	name = "Fabio"
+	name = "Fabio" # Mastretta
 	culture = cantaluna
 	religion = unionism
 	184.1.1 = {
@@ -9874,7 +10940,7 @@
 }
 
 670 = {
-	name = "Amaury"
+	name = "Amaury" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	312.1.1 = {
@@ -9889,12 +10955,16 @@
 }
 
 671 = {
-	name = "Celine"
+	name = "Celine" # Silvya
 	culture = tierravera
 	religion = unionism
 	female = yes
 	222.1.1 = {
 		birth = 222.1.1
+	}
+
+	237.4.1 = {
+		add_spouse=639
 	}
 	302.1.1 = {
 		death = 302.1.1
@@ -9903,7 +10973,7 @@
 }
 
 672 = {
-	name = "Laerilas"
+	name = "Laerilas" # Valloaan
 	culture = solvaan
 	religion = estelley
 	240.1.1 = {
@@ -9917,7 +10987,7 @@
 }
 
 673 = {
-	name = "Sancia"
+	name = "Sancia" # Valloaan
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -9932,7 +11002,7 @@
 }
 
 674 = {
-	name = "Savnella"
+	name = "Savnella" # Valloaan
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -9947,7 +11017,7 @@
 }
 
 675 = {
-	name = "Orlen"
+	name = "Orlen" # Valloaan
 	culture = solvaan
 	religion = estelley
 	270.1.1 = {
@@ -9961,7 +11031,7 @@
 }
 
 676 = {
-	name = "Salia"
+	name = "Salia" # Valloaan
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -9976,7 +11046,7 @@
 }
 
 677 = {
-	name = "Lusyas"
+	name = "Lusyas" # Valloaan
 	culture = solvaan
 	religion = estelley
 	250.1.1 = {
@@ -9990,7 +11060,7 @@
 }
 
 678 = {
-	name = "Noveyn"
+	name = "Noveyn" # Valloaan
 	culture = solvaan
 	religion = estelley
 	260.1.1 = {
@@ -10004,7 +11074,7 @@
 }
 
 679 = {
-	name = "Pablo"
+	name = "Pablo" # Mastretta
 	culture = cantaluna
 	religion = unionism
 	217.1.1 = {
@@ -10018,7 +11088,7 @@
 }
 
 680 = {
-	name = "Malsayn"
+	name = "Malsayn" # Valloaan
 	culture = solvaan
 	religion = estelley
 	223.1.1 = {
@@ -10033,11 +11103,15 @@
 }
 
 681 = {
-	name = "Alosso"
+	name = "Alosso" # Valloaan
 	culture = solvaan
 	religion = estelley
 	180.1.1 = {
 		birth = 180.1.1
+	}
+
+	222.4.1 = {
+		add_spouse=682
 	}
 	255.1.1 = {
 		death = 255.1.1
@@ -10046,12 +11120,16 @@
 }
 
 682 = {
-	name = "Liliath"
+	name = "Liliath" # bel Avaal Moor
 	culture = ithanian
 	religion = unionism
 	female = yes
 	180.1.1 = {
 		birth = 180.1.1
+	}
+
+	222.4.1 = {
+		add_spouse=681
 	}
 	260.1.1 = {
 		death = 260.1.1
@@ -10061,7 +11139,7 @@
 }
 
 683 = {
-	name = "Hithaellon"
+	name = "Hithaellon" # Avalleia
 	culture = solvaan
 	religion = estelley
 	170.1.1 = {
@@ -10074,11 +11152,15 @@
 }
 
 684 = {
-	name = "Tasallon"
+	name = "Tasallon" # Avalleia
 	culture = solvaan
 	religion = estelley
 	200.1.1 = {
 		birth = 200.1.1
+	}
+
+	240.4.1 = {
+		add_spouse=685
 	}
 	270.1.1 = {
 		death = 270.1.1
@@ -10088,12 +11170,16 @@
 }
 
 685 = {
-	name = "Hin'sala"
+	name = "Hin'sala" # Mithalor
 	culture = solvaan
 	religion = estelley
 	female = yes
 	204.1.1 = {
 		birth = 204.1.1
+	}
+
+	240.4.1 = {
+		add_spouse=684
 	}
 	275.1.1 = {
 		death = 275.1.1
@@ -10104,7 +11190,7 @@
 }
 
 686 = {
-	name = "Finarhen"
+	name = "Finarhen" # Avalleia
 	culture = solvaan
 	religion = estelley
 	232.1.1 = {
@@ -10119,7 +11205,7 @@
 }
 
 687 = {
-	name = "Malcarno"
+	name = "Malcarno" # Avalleia
 	culture = solvaan
 	religion = estelley
 	236.1.1 = {
@@ -10134,12 +11220,16 @@
 }
 
 688 = {
-	name = "Liravella"
+	name = "Liravella" # Avalleia
 	culture = solvaan
 	religion = estelley
 	female = yes
 	240.1.1 = {
 		birth = 240.1.1
+	}
+
+	265.4.1 = {
+		add_matrilineal_spouse=690
 	}
 	340.1.1 = {
 		death = 340.1.1
@@ -10150,7 +11240,7 @@
 }
 
 689 = {
-	name = "Caswyn"
+	name = "Caswyn" # Avalleia
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -10165,11 +11255,15 @@
 }
 
 690 = {
-	name = "Enalle"
+	name = "Enalle" # Ennamera
 	culture = solvaan
 	religion = estelley
 	238.1.1 = {
 		birth = 238.1.1
+	}
+
+	265.4.1 = {
+		add_matrilineal_spouse=688
 	}
 	338.1.1 = {
 		death = 338.1.1
@@ -10178,7 +11272,7 @@
 }
 
 691 = {
-	name = "Viviana"
+	name = "Viviana" # Avalleia
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -10193,7 +11287,7 @@
 }
 
 692 = {
-	name = "Tehrathel"
+	name = "Tehrathel" # Avalleia
 	culture = solvaan
 	religion = estelley
 	256.1.1 = {
@@ -10207,11 +11301,15 @@
 }
 
 693 = {
-	name = "Alonzo"
+	name = "Alonzo" # Mastretta
 	culture = cantaluna
 	religion = unionism
 	236.1.1 = {
 		birth = 236.1.1
+	}
+
+	269.4.1 = {
+		add_spouse=737
 	}
 	312.1.1 = {
 		death = 312.1.1
@@ -10221,7 +11319,7 @@
 }
 
 694 = {
-	name = "Faell'veia"
+	name = "Faell'veia" # Avalleia
 	culture = solvaan
 	religion = estelley
 	260.1.1 = {
@@ -10235,7 +11333,7 @@
 }
 
 695 = {
-	name = "Hin'sulain"
+	name = "Hin'sulain" # Avalleia
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -10250,7 +11348,7 @@
 }
 
 696 = {
-	name = "Laenyra"
+	name = "Laenyra" # Avalleia
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -10266,11 +11364,15 @@
 }
 
 697 = {
-	name = "Rhantallion"
+	name = "Rhantallion" # Avalleia
 	culture = solvaan
 	religion = estelley
 	241.1.1 = {
 		birth = 241.1.1
+	}
+
+	272.4.1 = {
+		add_spouse=702
 	}
 	341.1.1 = {
 		death = 341.1.1
@@ -10281,12 +11383,16 @@
 }
 
 698 = {
-	name = "Elarien"
+	name = "Elarien" # Avalleia
 	culture = solvaan
 	religion = estelley
 	female = yes
 	265.1.1 = {
 		birth = 265.1.1
+	}
+
+	288.4.1 = {
+		add_matrilineal_spouse=699
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -10296,11 +11402,15 @@
 }
 
 699 = {
-	name = "Thalanor"
+	name = "Thalanor" # Selthien
 	culture = solvaan
 	religion = estelley
 	263.1.1 = {
 		birth = 263.1.1
+	}
+
+	288.4.1 = {
+		add_matrilineal_spouse=698
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -10309,7 +11419,7 @@
 }
 
 700 = {
-	name = "Calenwe"
+	name = "Calenwe" # Avalleia
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -10325,7 +11435,7 @@
 }
 
 701 = {
-	name = "Nimriel"
+	name = "Nimriel" # Avalleia
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -10341,12 +11451,16 @@
 }
 
 702 = {
-	name = "Selithra"
+	name = "Selithra" # Elendiel
 	culture = solvaan
 	religion = estelley
 	female = yes
 	244.1.1 = {
 		birth = 244.1.1
+	}
+
+	272.4.1 = {
+		add_spouse=697
 	}
 	344.1.1 = {
 		death = 344.1.1
@@ -10355,11 +11469,15 @@
 }
 
 703 = {
-	name = "Tharion"
+	name = "Tharion" # Avalleia
 	culture = solvaan
 	religion = estelley
 	263.1.1 = {
 		birth = 263.1.1
+	}
+
+	287.4.1 = {
+		add_spouse=707
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -10370,7 +11488,7 @@
 }
 
 704 = {
-	name = "Alariel"
+	name = "Alariel" # Avalleia
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -10386,7 +11504,7 @@
 }
 
 705 = {
-	name = "Nymerith"
+	name = "Nymerith" # Avalleia
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -10402,7 +11520,7 @@
 }
 
 706 = {
-	name = "Vaelion"
+	name = "Vaelion" # Avalleia
 	culture = solvaan
 	religion = estelley
 	273.1.1 = {
@@ -10417,12 +11535,16 @@
 }
 
 707 = {
-	name = "Lireth"
+	name = "Lireth" # Amarion
 	culture = solvaan
 	religion = estelley
 	female = yes
 	265.1.1 = {
 		birth = 265.1.1
+	}
+
+	287.4.1 = {
+		add_spouse=703
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -10431,7 +11553,7 @@
 }
 
 708 = {
-	name = "Thalindra"
+	name = "Thalindra" # Avalleia
 	culture = solvaan
 	religion = estelley
 	female = yes
@@ -10447,7 +11569,7 @@
 }
 
 709 = {
-	name = "Faendir"
+	name = "Faendir" # Avalleia
 	culture = solvaan
 	religion = estelley
 	288.1.1 = {
@@ -10462,11 +11584,15 @@
 }
 
 710 = {
-	name = "Elendir"
+	name = "Elendir" # Mithalor
 	culture = solvaan
 	religion = estelley
 	180.1.1 = {
 		birth = 180.1.1
+	}
+
+	203.4.1 = {
+		add_spouse=711
 	}
 	240.1.1 = {
 		death = 240.1.1
@@ -10475,12 +11601,16 @@
 }
 
 711 = {
-	name = "Samwea"
+	name = "Samwea" # bel Avaal Moor
 	culture = ithanian
 	religion = unionism
 	female = yes
 	182.1.1 = {
 		birth = 182.1.1
+	}
+
+	203.4.1 = {
+		add_spouse=710
 	}
 	245.1.1 = {
 		death = 245.1.1
@@ -10490,7 +11620,7 @@
 }
 
 712 = {
-	name = "Larethian"
+	name = "Larethian" # bel Avaal Moor
 	culture = ithanian
 	religion = unionism
 	150.1.1 = {
@@ -10503,11 +11633,15 @@
 }
 
 713 = {
-	name = "Laurent"
+	name = "Laurent" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	200.1.1 = {
 		birth = 200.1.1
+	}
+
+	244.4.1 = {
+		add_spouse=714
 	}
 	280.1.1 = {
 		death = 280.1.1
@@ -10516,12 +11650,16 @@
 }
 
 714 = {
-	name = "Solenne"
+	name = "Solenne" # du Clairval
 	culture = ithanian
 	religion = unionism
 	female = yes
 	205.1.1 = {
 		birth = 205.1.1
+	}
+
+	244.4.1 = {
+		add_spouse=713
 	}
 	282.1.1 = {
 		death = 282.1.1
@@ -10530,11 +11668,15 @@
 }
 
 715 = {
-	name = "Estienne"
+	name = "Estienne" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	245.1.1 = {
 		birth = 245.1.1
+	}
+
+	264.4.1 = {
+		add_spouse=716
 	}
 	310.1.1 = {
 		death = 310.1.1
@@ -10545,12 +11687,16 @@
 }
 
 716 = {
-	name = "Aurelia"
+	name = "Aurelia" # de Montreux
 	culture = ithanian
 	religion = unionism
 	female = yes
 	247.1.1 = {
 		birth = 247.1.1
+	}
+
+	264.4.1 = {
+		add_spouse=715
 	}
 	307.1.1 = {
 		death = 307.1.1
@@ -10560,11 +11706,15 @@
 }
 
 717 = {
-	name = "Etienne"
+	name = "Etienne" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	264.1.1 = {
 		birth = 264.1.1
+	}
+
+	303.4.1 = {
+		add_spouse=718
 	}
 	364.1.1 = {
 		death = 364.1.1
@@ -10575,12 +11725,16 @@
 }
 
 718 = {
-	name = "Noemie"
+	name = "Noemie" # Delacour
 	culture = ithanian
 	religion = unionism
 	female = yes
 	262.1.1 = {
 		birth = 262.1.1
+	}
+
+	303.4.1 = {
+		add_spouse=717
 	}
 	362.1.1 = {
 		death = 362.1.1
@@ -10589,12 +11743,16 @@
 }
 
 719 = {
-	name = "Amelina"
+	name = "Amelina" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	female = yes
 	280.1.1 = {
 		birth = 280.1.1
+	}
+
+	312.4.1 = {
+		add_matrilineal_spouse=860
 	}
 	380.1.1 = {
 		death = 380.1.1
@@ -10605,7 +11763,7 @@
 }
 
 720 = {
-	name = "Eilaria"
+	name = "Eilaria" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -10621,7 +11779,7 @@
 }
 
 721 = {
-	name = "Lancel"
+	name = "Lancel" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	313.1.1 = {
@@ -10636,7 +11794,7 @@
 }
 
 722 = {
-	name = "Yvea"
+	name = "Yvea" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -10652,7 +11810,7 @@
 }
 
 723 = {
-	name = "Emmon"
+	name = "Emmon" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	304.1.1 = {
@@ -10667,7 +11825,7 @@
 }
 
 724 = {
-	name = "Narcissa"
+	name = "Narcissa" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -10683,11 +11841,15 @@
 }
 
 725 = {
-	name = "Ludovic"
+	name = "Ludovic" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
+	}
+
+	302.4.1 = {
+		add_spouse=726
 	}
 	350.1.1 = {
 		death = 350.1.1
@@ -10698,12 +11860,16 @@
 }
 
 726 = {
-	name = "Ghyslaine"
+	name = "Ghyslaine" # Moreveau
 	culture = ithanian
 	religion = unionism
 	female = yes
 	264.1.1 = {
 		birth = 264.1.1
+	}
+
+	302.4.1 = {
+		add_spouse=725
 	}
 	312.1.1 = {
 		death = 312.1.1
@@ -10712,12 +11878,16 @@
 }
 
 727 = {
-	name = "Maeva"
+	name = "Maeva" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	female = yes
 	285.1.1 = {
 		birth = 285.1.1
+	}
+
+	300.4.1 = {
+		add_spouse=189
 	}
 	303.1.1 = {
 		death = 303.1.1
@@ -10728,7 +11898,7 @@
 }
 
 728 = {
-	name = "Baldrick"
+	name = "Baldrick" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	298.1.1 = {
@@ -10743,7 +11913,7 @@
 }
 
 729 = {
-	name = "Myria"
+	name = "Myria" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -10759,7 +11929,7 @@
 }
 
 730 = {
-	name = "Odette"
+	name = "Odette" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -10775,7 +11945,7 @@
 }
 
 731 = {
-	name = "Julius"
+	name = "Julius" # Peirgarten
 	culture = wirtem
 	religion = unionism
 	307.1.1 = {
@@ -10789,7 +11959,7 @@
 }
 
 732 = {
-	name = "Jean"
+	name = "Jean" # de Montreux
 	culture = ithanian
 	religion = unionism
 	220.1.1 = {
@@ -10802,7 +11972,7 @@
 }
 
 733 = {
-	name = "Malcolm"
+	name = "Malcolm" # Howlester
 	culture = gallovian
 	religion = unionism
 	301.1.1 = {
@@ -10817,7 +11987,7 @@
 }
 
 734 = {
-	name = "Dario"
+	name = "Dario" # Mastretta
 	culture = cantaluna
 	religion = unionism
 	130.1.1 = {
@@ -10831,7 +12001,7 @@
 }
 
 735 = {
-	name = "Fabricio"
+	name = "Fabricio" # Mastretta
 	culture = cantaluna
 	religion = unionism
 	105.1.1 = {
@@ -10844,7 +12014,7 @@
 }
 
 736 = {
-	name = "Vicario"
+	name = "Vicario" # Mastretta
 	culture = cantaluna
 	religion = unionism
 	270.1.1 = {
@@ -10859,12 +12029,16 @@
 }
 
 737 = {
-	name = "Marie"
+	name = "Marie" # Archambeau
 	culture = ithanian
 	religion = unionism
 	female = yes
 	251.1.1 = {
 		birth = 251.1.1
+	}
+
+	269.4.1 = {
+		add_spouse=693
 	}
 	351.1.1 = {
 		death = 351.1.1
@@ -10874,7 +12048,7 @@
 }
 
 738 = {
-	name = "Amelie"
+	name = "Amelie" # Archambeau
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -10888,7 +12062,7 @@
 }
 
 739 = {
-	name = "Audrey"
+	name = "Audrey" # Archambeau
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -10903,7 +12077,7 @@
 }
 
 740 = {
-	name = "Osorio"
+	name = "Osorio" # Mastretta
 	culture = cantaluna
 	religion = unionism
 	291.1.1 = {
@@ -10917,7 +12091,7 @@
 }
 
 741 = {
-	name = "Francine"
+	name = "Francine" # Jeanfreau
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -10931,7 +12105,7 @@
 }
 
 742 = {
-	name = "Phillipe"
+	name = "Phillipe" # Jeanfreau
 	culture = ithanian
 	religion = unionism
 	205.1.1 = {
@@ -10945,11 +12119,15 @@
 }
 
 743 = {
-	name = "Alastair"
+	name = "Alastair" # mac Connall
 	culture = gallovian
 	religion = unionism
 	198.1.1 = {
 		birth = 198.1.1
+	}
+
+	219.4.1 = {
+		add_spouse=744
 	}
 	272.1.1 = {
 		death = 272.1.1
@@ -10958,12 +12136,16 @@
 }
 
 744 = {
-	name = "Allia"
+	name = "Allia" # of Portburgh
 	culture = cearden
 	religion = unionism
 	female = yes
 	200.1.1 = {
 		birth = 200.1.1
+	}
+
+	219.4.1 = {
+		add_spouse=743
 	}
 	276.1.1 = {
 		death = 276.1.1
@@ -10972,11 +12154,15 @@
 }
 
 745 = {
-	name = "Brandon"
+	name = "Brandon" # mac Connall
 	culture = gallovian
 	religion = unionism
 	220.1.1 = {
 		birth = 220.1.1
+	}
+
+	243.4.1 = {
+		add_spouse=746
 	}
 	293.1.1 = {
 		death = 293.1.1
@@ -10987,12 +12173,16 @@
 }
 
 746 = {
-	name = "Lilliana"
+	name = "Lilliana" # Etterburgh
 	culture = anglian
 	religion = unionism
 	female = yes
 	222.1.1 = {
 		birth = 222.1.1
+	}
+
+	243.4.1 = {
+		add_spouse=745
 	}
 	296.1.1 = {
 		death = 296.1.1
@@ -11001,11 +12191,15 @@
 }
 
 747 = {
-	name = "Arden"
+	name = "Arden" # mac Connall
 	culture = gallovian
 	religion = unionism
 	242.1.1 = {
 		birth = 242.1.1
+	}
+
+	267.4.1 = {
+		add_spouse=748
 	}
 	308.1.1 = {
 		death = 308.1.1
@@ -11016,12 +12210,16 @@
 }
 
 748 = {
-	name = "Saoirse"
+	name = "Saoirse" # Finch
 	culture = cearden
 	religion = unionism
 	female = yes
 	244.1.1 = {
 		birth = 244.1.1
+	}
+
+	267.4.1 = {
+		add_spouse=747
 	}
 	310.1.1 = {
 		death = 310.1.1
@@ -11031,11 +12229,15 @@
 }
 
 749 = {
-	name = "Vilhelm"
+	name = "Vilhelm" # mac Connall
 	culture = gallovian
 	religion = unionism
 	244.1.1 = {
 		birth = 244.1.1
+	}
+
+	269.4.1 = {
+		add_spouse=750
 	}
 	309.1.1 = {
 		death = 309.1.1
@@ -11046,12 +12248,16 @@
 }
 
 750 = {
-	name = "Heidie"
+	name = "Heidie" # Schauss
 	culture = wirtem
 	religion = unionism
 	female = yes
 	246.1.1 = {
 		birth = 246.1.1
+	}
+
+	269.4.1 = {
+		add_spouse=749
 	}
 	312.1.1 = {
 		death = 312.1.1
@@ -11061,11 +12267,15 @@
 }
 
 751 = {
-	name = "Eddair"
+	name = "Eddair" # mac Connall
 	culture = gallovian
 	religion = unionism
 	262.1.1 = {
 		birth = 262.1.1
+	}
+
+	296.4.1 = {
+		add_spouse=752
 	}
 	362.1.1 = {
 		death = 362.1.1
@@ -11076,12 +12286,16 @@
 }
 
 752 = {
-	name = "Edina"
+	name = "Edina" # Braquemont
 	culture = ithanian
 	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
+	}
+
+	296.4.1 = {
+		add_spouse=751
 	}
 	370.1.1 = {
 		death = 370.1.1
@@ -11090,11 +12304,15 @@
 }
 
 753 = {
-	name = "Wilmair"
+	name = "Wilmair" # mac Connall
 	culture = gallovian
 	religion = unionism
 	264.1.1 = {
 		birth = 264.1.1
+	}
+
+	292.4.1 = {
+		add_spouse=754
 	}
 	364.1.1 = {
 		death = 364.1.1
@@ -11105,12 +12323,16 @@
 }
 
 754 = {
-	name = "Addilin"
+	name = "Addilin" # van Elst
 	culture = anglian
 	religion = unionism
 	female = yes
 	270.1.1 = {
 		birth = 270.1.1
+	}
+
+	292.4.1 = {
+		add_spouse=753
 	}
 	370.1.1 = {
 		death = 370.1.1
@@ -11119,12 +12341,16 @@
 }
 
 755 = {
-	name = "Saraid"
+	name = "Saraid" # mac Connall
 	culture = gallovian
 	religion = unionism
 	female = yes
 	266.1.1 = {
 		birth = 266.1.1
+	}
+
+	294.4.1 = {
+		add_spouse=756
 	}
 	366.1.1 = {
 		death = 366.1.1
@@ -11135,11 +12361,15 @@
 }
 
 756 = {
-	name = "Patrick"
+	name = "Patrick" # Gallagher
 	culture = gallovian
 	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
+	}
+
+	294.4.1 = {
+		add_spouse=755
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -11148,7 +12378,7 @@
 }
 
 757 = {
-	name = "Patrick"
+	name = "Patrick" # mac Connall
 	culture = gallovian
 	religion = unionism
 	268.1.1 = {
@@ -11163,7 +12393,7 @@
 }
 
 758 = {
-	name = "Ian"
+	name = "Ian" # mac Connall
 	culture = gallovian
 	religion = unionism
 	266.1.1 = {
@@ -11178,7 +12408,7 @@
 }
 
 759 = {
-	name = "Cathal"
+	name = "Cathal" # mac Connall
 	culture = gallovian
 	religion = unionism
 	268.1.1 = {
@@ -11193,7 +12423,7 @@
 }
 
 760 = {
-	name = "Rosalin"
+	name = "Rosalin" # mac Connall
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -11209,7 +12439,7 @@
 }
 
 761 = {
-	name = "Alastair"
+	name = "Alastair" # mac Connall
 	culture = gallovian
 	religion = unionism
 	289.1.1 = {
@@ -11224,7 +12454,7 @@
 }
 
 762 = {
-	name = "Calidh"
+	name = "Calidh" # mac Connall
 	culture = gallovian
 	religion = unionism
 	291.1.1 = {
@@ -11239,7 +12469,7 @@
 }
 
 763 = {
-	name = "Arnhelm"
+	name = "Arnhelm" # mac Connall
 	culture = gallovian
 	religion = unionism
 	293.1.1 = {
@@ -11254,7 +12484,7 @@
 }
 
 764 = {
-	name = "Greer"
+	name = "Greer" # mac Connall
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -11270,7 +12500,7 @@
 }
 
 765 = {
-	name = "Fiona"
+	name = "Fiona" # mac Connall
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -11286,7 +12516,7 @@
 }
 
 766 = {
-	name = "Natharia"
+	name = "Natharia" # mac Connall
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -11302,7 +12532,7 @@
 }
 
 767 = {
-	name = "Finnidh"
+	name = "Finnidh" # mac Connall
 	culture = gallovian
 	religion = unionism
 	293.1.1 = {
@@ -11317,7 +12547,7 @@
 }
 
 768 = {
-	name = "Cillian"
+	name = "Cillian" # Gallagher
 	culture = gallovian
 	religion = unionism
 	295.1.1 = {
@@ -11332,7 +12562,7 @@
 }
 
 769 = {
-	name = "Robard"
+	name = "Robard" # mac Connall
 	culture = gallovian
 	religion = unionism
 	299.1.1 = {
@@ -11346,7 +12576,7 @@
 }
 
 770 = {
-	name = "Meridath"
+	name = "Meridath" # mac Connall
 	culture = gallovian
 	religion = unionism
 	female = yes
@@ -11361,7 +12591,7 @@
 }
 
 771 = {
-	name = "Emeric"
+	name = "Emeric" # Finch
 	culture = cearden
 	religion = unionism
 	220.1.1 = {
@@ -11374,7 +12604,7 @@
 }
 
 772 = {
-	name = "Nathan"
+	name = "Nathan" # Deceres
 	culture = ithanian
 	religion = unionism
 	256.1.1 = {
@@ -11387,7 +12617,7 @@
 }
 
 773 = {
-	name = "Lyonel"
+	name = "Lyonel" # Deceres
 	culture = ithanian
 	religion = unionism
 	281.1.1 = {
@@ -11401,7 +12631,7 @@
 }
 
 774 = {
-	name = "Arianne"
+	name = "Arianne" # Deceres
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -11416,7 +12646,7 @@
 }
 
 775 = {
-	name = "Matei"
+	name = "Matei" # Radu
 	culture = ania
 	religion = unionism
 	237.1.1 = {
@@ -11429,7 +12659,7 @@
 }
 
 776 = {
-	name = "Costin"
+	name = "Costin" # Litvinova
 	culture = krainivaya
 	religion = unionism
 	236.1.1 = {
@@ -11442,12 +12672,16 @@
 }
 
 777 = {
-	name = "Marie"
+	name = "Marie" # Litvinova
 	culture = krainivaya
 	religion = unionism
 	female = yes
 	267.1.1 = {
 		birth = 267.1.1
+	}
+
+	300.4.1 = {
+		add_matrilineal_spouse=778
 	}
 	350.1.1 = {
 		death = 350.1.1
@@ -11457,11 +12691,15 @@
 }
 
 778 = {
-	name = "Pavel"
+	name = "Pavel" # Radu
 	culture = ania
 	religion = unionism
 	265.1.1 = {
 		birth = 265.1.1
+	}
+
+	300.4.1 = {
+		add_matrilineal_spouse=777
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -11471,7 +12709,7 @@
 }
 
 779 = {
-	name = "Katarina"
+	name = "Katarina" # Litvinova
 	culture = krainivaya
 	religion = unionism
 	female = yes
@@ -11487,7 +12725,7 @@
 }
 
 780 = {
-	name = "Acelina"
+	name = "Acelina" # Litvinova
 	culture = ania
 	religion = unionism
 	female = yes
@@ -11503,7 +12741,7 @@
 }
 
 781 = {
-	name = "Ivonn"
+	name = "Ivonn" # Litvinova
 	culture = krainivaya
 	religion = unionism
 	301.1.1 = {
@@ -11518,12 +12756,16 @@
 }
 
 782 = {
-	name = "Beatrix"
+	name = "Beatrix" # Radu
 	culture = ania
 	religion = unionism
 	female = yes
 	273.1.1 = {
 		birth = 273.1.1
+	}
+
+	296.4.1 = {
+		add_spouse=783
 	}
 	373.1.1 = {
 		death = 373.1.1
@@ -11533,11 +12775,15 @@
 }
 
 783 = {
-	name = "Ambrus"
+	name = "Ambrus" # Farkas
 	culture = szabadok
 	religion = unionism
 	270.1.1 = {
 		birth = 270.1.1
+	}
+
+	296.4.1 = {
+		add_spouse=782
 	}
 	370.1.1 = {
 		death = 370.1.1
@@ -11546,7 +12792,7 @@
 }
 
 784 = {
-	name = "Fredek"
+	name = "Fredek" # Farkas
 	culture = szabadok
 	religion = unionism
 	293.1.1 = {
@@ -11561,7 +12807,7 @@
 }
 
 785 = {
-	name = "Lukacs"
+	name = "Lukacs" # Farkas
 	culture = szabadok
 	religion = unionism
 	295.1.1 = {
@@ -11576,12 +12822,16 @@
 }
 
 786 = {
-	name = "Sabina"
+	name = "Sabina" # Litvinova
 	culture = krainivaya
 	religion = unionism
 	female = yes
 	275.1.1 = {
 		birth = 275.1.1
+	}
+
+	297.4.1 = {
+		add_matrilineal_spouse=787
 	}
 	375.1.1 = {
 		death = 375.1.1
@@ -11591,11 +12841,15 @@
 }
 
 787 = {
-	name = "Cristian"
+	name = "Cristian" # Ciobanu
 	culture = ania
 	religion = unionism
 	273.1.1 = {
 		birth = 273.1.1
+	}
+
+	297.4.1 = {
+		add_matrilineal_spouse=786
 	}
 	373.1.1 = {
 		death = 373.1.1
@@ -11604,7 +12858,7 @@
 }
 
 788 = {
-	name = "Elicia"
+	name = "Elicia" # Litvinova
 	culture = krainivaya
 	religion = unionism
 	female = yes
@@ -11620,7 +12874,7 @@
 }
 
 789 = {
-	name = "Corina"
+	name = "Corina" # Litvinova
 	culture = krainivaya
 	religion = unionism
 	female = yes
@@ -11636,7 +12890,7 @@
 }
 
 790 = {
-	name = "Petre"
+	name = "Petre" # Litvinova
 	culture = krainivaya
 	religion = unionism
 	283.1.1 = {
@@ -11650,7 +12904,7 @@
 }
 
 791 = {
-	name = "Mihaela"
+	name = "Mihaela" # Litvinova
 	culture = krainivaya
 	religion = unionism
 	female = yes
@@ -11665,7 +12919,7 @@
 }
 
 792 = {
-	name = "Ragnar"
+	name = "Ragnar" # Viduggla
 	culture = velheim
 	religion = fornoss
 	313.1.1 = {
@@ -11680,7 +12934,7 @@
 }
 
 793 = {
-	name = "Kerastellar"
+	name = "Kerastellar" # Viduggla
 	culture = velheim
 	religion = fornoss
 	female = yes
@@ -11696,12 +12950,16 @@
 }
 
 794 = {
-	name = "Nadia"
+	name = "Nadia" # Celyreos
 	culture = ithanian
 	religion = unionism
 	female = yes
 	295.1.1 = {
 		birth = 295.1.1
+	}
+
+	312.4.1 = {
+		add_spouse=627
 	}
 	395.1.1 = {
 		death = 395.1.1
@@ -11710,7 +12968,7 @@
 }
 
 795 = {
-	name = "Lovid"
+	name = "Lovid" # Viduggla
 	culture = velheim
 	religion = fornoss
 	312.1.1 = {
@@ -11725,7 +12983,7 @@
 }
 
 796 = {
-	name = "Solveig"
+	name = "Solveig" # Viduggla
 	culture = velheim
 	religion = fornoss
 	313.1.1 = {
@@ -11740,7 +12998,7 @@
 }
 
 797 = {
-	name = "Siselle"
+	name = "Siselle" # Haagenvig
 	culture = velheim
 	religion = fornoss
 	female = yes
@@ -11754,7 +13012,7 @@
 }
 
 798 = {
-	name = "Gunnar"
+	name = "Gunnar" # Rodsvar
 	culture = velheim
 	religion = fornoss
 	246.1.1 = {
@@ -11767,12 +13025,16 @@
 }
 
 799 = {
-	name = "Kerastellar"
+	name = "Kerastellar" # Viduggla
 	culture = velheim
 	religion = fornoss
 	female = yes
 	262.1.1 = {
 		birth = 262.1.1
+	}
+
+	286.4.1 = {
+		add_matrilineal_spouse=800
 	}
 	300.1.1 = {
 		death = 300.1.1
@@ -11783,11 +13045,15 @@
 }
 
 800 = {
-	name = "Morten"
+	name = "Morten" # Rodsvar
 	culture = velheim
 	religion = fornoss
 	265.1.1 = {
 		birth = 265.1.1
+	}
+
+	286.4.1 = {
+		add_matrilineal_spouse=799
 	}
 	310.1.1 = {
 		death = 310.1.1
@@ -11797,11 +13063,15 @@
 }
 
 801 = {
-	name = "Garth"
+	name = "Garth" # Viduggla
 	culture = velheim
 	religion = fornoss
 	287.1.1 = {
 		birth = 287.1.1
+	}
+
+	349.4.1 = {
+		add_matrilineal_spouse=10
 	}
 	387.1.1 = {
 		death = 387.1.1
@@ -11812,12 +13082,16 @@
 }
 
 802 = {
-	name = "Thelka"
+	name = "Thelka" # Rodsvar
 	culture = velheim
 	religion = fornoss
 	female = yes
 	267.1.1 = {
 		birth = 267.1.1
+	}
+
+	295.4.1 = {
+		add_spouse=803
 	}
 	367.1.1 = {
 		death = 367.1.1
@@ -11827,11 +13101,15 @@
 }
 
 803 = {
-	name = "Godtfred"
+	name = "Godtfred" # Vaskyrr
 	culture = velheim
 	religion = fornoss
 	262.1.1 = {
 		birth = 262.1.1
+	}
+
+	295.4.1 = {
+		add_spouse=802
 	}
 	362.1.1 = {
 		death = 362.1.1
@@ -11840,7 +13118,7 @@
 }
 
 804 = {
-	name = "Johanne"
+	name = "Johanne" # Rodsvar
 	culture = velheim
 	religion = fornoss
 	female = yes
@@ -11856,7 +13134,7 @@
 }
 
 805 = {
-	name = "Arvid"
+	name = "Arvid" # Rodsvar
 	culture = velheim
 	religion = fornoss
 	292.1.1 = {
@@ -11871,7 +13149,7 @@
 }
 
 806 = {
-	name = "Hartvik"
+	name = "Hartvik" # Rodsvar
 	culture = velheim
 	religion = fornoss
 	293.1.1 = {
@@ -11886,7 +13164,7 @@
 }
 
 807 = {
-	name = "Eydis"
+	name = "Eydis" # Rodsvar
 	culture = velheim
 	religion = fornoss
 	female = yes
@@ -11902,7 +13180,7 @@
 }
 
 808 = {
-	name = "Ylva"
+	name = "Ylva" # Rodsvar
 	culture = velheim
 	religion = fornoss
 	female = yes
@@ -11918,7 +13196,7 @@
 }
 
 809 = {
-	name = "Mavleina"
+	name = "Mavleina" # Willowcreek
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -11932,7 +13210,7 @@
 }
 
 810 = {
-	name = "Sif"
+	name = "Sif" # Oltorskr
 	culture = velheim
 	religion = fornoss
 	female = yes
@@ -11948,12 +13226,16 @@
 }
 
 811 = {
-	name = "Vaenya"
+	name = "Vaenya" # Woodforge
 	culture = cearden
 	religion = unionism
 	female = yes
 	182.1.1 = {
 		birth = 182.1.1
+	}
+
+	201.4.1 = {
+		add_spouse=812
 	}
 	260.1.1 = {
 		death = 260.1.1
@@ -11962,11 +13244,15 @@
 }
 
 812 = {
-	name = "Cerynlo"
+	name = "Cerynlo" # Latimer
 	culture = selvath
 	religion = estelley
 	180.1.1 = {
 		birth = 180.1.1
+	}
+
+	201.4.1 = {
+		add_spouse=811
 	}
 	255.1.1 = {
 		death = 255.1.1
@@ -11975,12 +13261,16 @@
 }
 
 813 = {
-	name = "Tesvmalo"
+	name = "Tesvmalo" # Latimer
 	culture = selvath
 	religion = evintarian
 	female = yes
 	200.1.1 = {
 		birth = 200.1.1
+	}
+
+	225.4.1 = {
+		add_matrilineal_spouse=814
 	}
 	278.1.1 = {
 		death = 278.1.1
@@ -11991,11 +13281,15 @@
 }
 
 814 = {
-	name = "Eash Llo"
+	name = "Eash Llo" # Embra
 	culture = gallovian
 	religion = unionism
 	198.1.1 = {
 		birth = 198.1.1
+	}
+
+	225.4.1 = {
+		add_matrilineal_spouse=813
 	}
 	270.1.1 = {
 		death = 270.1.1
@@ -12004,7 +13298,7 @@
 }
 
 815 = {
-	name = "Serlay'ufol"
+	name = "Serlay'ufol" # Latimer
 	culture = selvath
 	religion = evintarian
 	female = yes
@@ -12020,7 +13314,7 @@
 }
 
 816 = {
-	name = "Abelhard"
+	name = "Abelhard" # Petrou
 	culture = etosian
 	religion = evintarian
 	242.1.1 = {
@@ -12034,7 +13328,7 @@
 }
 
 817 = {
-	name = "Avox"
+	name = "Avox" # Petrou
 	culture = etosian
 	religion = unionism
 	female = yes
@@ -12049,7 +13343,7 @@
 }
 
 818 = {
-	name = "Tol Ay"
+	name = "Tol Ay" # Latimer
 	culture = selvath
 	religion = evintarian
 	223.1.1 = {
@@ -12064,12 +13358,16 @@
 }
 
 819 = {
-	name = "Sylvia"
+	name = "Sylvia" # Latimer
 	culture = selvath
 	religion = evintarian
 	female = yes
 	226.1.1 = {
 		birth = 226.1.1
+	}
+
+	249.4.1 = {
+		add_spouse=820
 	}
 	305.1.1 = {
 		death = 305.1.1
@@ -12080,11 +13378,15 @@
 }
 
 820 = {
-	name = "Jurgen"
+	name = "Jurgen" # Berger
 	culture = wirtem
 	religion = unionism
 	224.1.1 = {
 		birth = 224.1.1
+	}
+
+	249.4.1 = {
+		add_spouse=819
 	}
 	302.1.1 = {
 		death = 302.1.1
@@ -12093,7 +13395,7 @@
 }
 
 821 = {
-	name = "Katrin"
+	name = "Katrin" # Lataimer
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -12109,12 +13411,16 @@
 }
 
 822 = {
-	name = "Ul Ayom"
+	name = "Ul Ayom" # Latimer
 	culture = selvath
 	religion = estelley
 	female = yes
 	202.1.1 = {
 		birth = 202.1.1
+	}
+
+	225.4.1 = {
+		add_matrilineal_spouse=823
 	}
 	283.1.1 = {
 		death = 283.1.1
@@ -12125,11 +13431,15 @@
 }
 
 823 = {
-	name = "Telryllo"
+	name = "Telryllo" # Firekindle
 	culture = cearden
 	religion = unionism
 	200.1.1 = {
 		birth = 200.1.1
+	}
+
+	225.4.1 = {
+		add_matrilineal_spouse=822
 	}
 	282.1.1 = {
 		death = 282.1.1
@@ -12138,11 +13448,15 @@
 }
 
 824 = {
-	name = "Lluitalen"
+	name = "Lluitalen" # Latimer
 	culture = selvath
 	religion = evintarian
 	222.1.1 = {
 		birth = 222.1.1
+	}
+
+	251.4.1 = {
+		add_spouse=825
 	}
 	299.1.1 = {
 		death = 299.1.1
@@ -12153,12 +13467,16 @@
 }
 
 825 = {
-	name = "Junia"
+	name = "Junia" # Greenwood
 	culture = cearden
 	religion = unionism
 	female = yes
 	225.1.1 = {
 		birth = 225.1.1
+	}
+
+	251.4.1 = {
+		add_spouse=824
 	}
 	310.1.1 = {
 		death = 310.1.1
@@ -12167,7 +13485,7 @@
 }
 
 826 = {
-	name = "Adrastos"
+	name = "Adrastos" # Latimer
 	culture = selvath
 	religion = evintarian
 	247.1.1 = {
@@ -12182,7 +13500,7 @@
 }
 
 827 = {
-	name = "Tebryn"
+	name = "Tebryn" # Latimer
 	culture = selvath
 	religion = evintarian
 	249.1.1 = {
@@ -12197,7 +13515,7 @@
 }
 
 828 = {
-	name = "Emmeline"
+	name = "Emmeline" # Latimer
 	culture = selvath
 	religion = evintarian
 	female = yes
@@ -12213,11 +13531,15 @@
 }
 
 829 = {
-	name = "Rievein"
+	name = "Rievein" # Latimer
 	culture = selvath
 	religion = estelley
 	226.1.1 = {
 		birth = 226.1.1
+	}
+
+	257.4.1 = {
+		add_spouse=830
 	}
 	305.1.1 = {
 		death = 305.1.1
@@ -12228,12 +13550,16 @@
 }
 
 830 = {
-	name = "Madeline"
+	name = "Madeline" # Montblanc
 	culture = ithanian
 	religion = unionism
 	female = yes
 	230.1.1 = {
 		birth = 230.1.1
+	}
+
+	257.4.1 = {
+		add_spouse=829
 	}
 	310.1.1 = {
 		death = 310.1.1
@@ -12242,7 +13568,7 @@
 }
 
 831 = {
-	name = "Fleur"
+	name = "Fleur" # Latimer
 	culture = selvath
 	religion = estelley
 	female = yes
@@ -12258,7 +13584,7 @@
 }
 
 832 = {
-	name = "Acelina"
+	name = "Acelina" # Latimer
 	culture = selvath
 	religion = estelley
 	female = yes
@@ -12274,12 +13600,21 @@
 }
 
 833 = {
-	name = "Lucienne"
+	name = "Lucienne" # Belrose
 	culture = ithanian
 	religion = unionism
 	female = yes
 	259.1.1 = {
 		birth = 259.1.1
+	}
+
+	288.4.1 = {
+		add_matrilineal_spouse=834
+	}
+
+	297.4.1 = {
+		#remove_spouse = 834
+		add_matrilineal_spouse=838
 	}
 	309.1.1 = {
 		death = 309.1.1
@@ -12290,11 +13625,19 @@
 }
 
 834 = {
-	name = "Stefan"
+	name = "Stefan" # Archambeau
 	culture = ithanian
 	religion = unionism
 	257.1.1 = {
 		birth = 257.1.1
+	}
+
+	288.4.1 = {
+		add_matrilineal_spouse=833
+	}
+
+	297.4.1 = {
+		#remove_spouse = 833
 	}
 	357.1.1 = {
 		death = 357.1.1
@@ -12303,7 +13646,7 @@
 }
 
 835 = {
-	name = "Florentine"
+	name = "Florentine" # Belrose
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -12319,7 +13662,7 @@
 }
 
 836 = {
-	name = "Auriane"
+	name = "Auriane" # Belrose
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -12335,7 +13678,7 @@
 }
 
 837 = {
-	name = "Timothee"
+	name = "Timothee" # Belrose
 	culture = ithanian
 	religion = unionism
 	289.1.1 = {
@@ -12350,11 +13693,15 @@
 }
 
 838 = {
-	name = "Elarir"
+	name = "Elarir" # bel Castellajoux
 	culture = ithanian
 	religion = unionism
 	261.1.1 = {
 		birth = 261.1.1
+	}
+
+	297.4.1 = {
+		add_matrilineal_spouse=833
 	}
 	361.1.1 = {
 		death = 361.1.1
@@ -12363,7 +13710,7 @@
 }
 
 839 = {
-	name = "Neomie"
+	name = "Neomie" # Belrose
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -12379,12 +13726,16 @@
 }
 
 840 = {
-	name = "Renee"
+	name = "Renee" # Belrose
 	culture = ithanian
 	religion = unionism
 	female = yes
 	233.1.1 = {
 		birth = 233.1.1
+	}
+
+	258.4.1 = {
+		add_matrilineal_spouse=843
 	}
 	292.1.1 = {
 		death = 292.1.1
@@ -12395,12 +13746,16 @@
 }
 
 841 = {
-	name = "Isabeau"
+	name = "Isabeau" # Belrose
 	culture = ithanian
 	religion = unionism
 	female = yes
 	204.1.1 = {
 		birth = 204.1.1
+	}
+
+	232.4.1 = {
+		add_matrilineal_spouse=849
 	}
 	270.1.1 = {
 		death = 270.1.1
@@ -12411,12 +13766,16 @@
 }
 
 842 = {
-	name = "Genevieve"
+	name = "Genevieve" # Belrose
 	culture = ithanian
 	religion = unionism
 	female = yes
 	174.1.1 = {
 		birth = 174.1.1
+	}
+
+	203.4.1 = {
+		add_matrilineal_spouse=844
 	}
 	240.1.1 = {
 		death = 240.1.1
@@ -12427,11 +13786,15 @@
 }
 
 843 = {
-	name = "Louis"
+	name = "Louis" # Desrosiers
 	culture = ithanian
 	religion = unionism
 	231.1.1 = {
 		birth = 231.1.1
+	}
+
+	258.4.1 = {
+		add_matrilineal_spouse=840
 	}
 	295.1.1 = {
 		death = 295.1.1
@@ -12440,11 +13803,15 @@
 }
 
 844 = {
-	name = "Etienne"
+	name = "Etienne" # Vallon
 	culture = ithanian
 	religion = unionism
 	176.1.1 = {
 		birth = 176.1.1
+	}
+
+	203.4.1 = {
+		add_matrilineal_spouse=842
 	}
 	238.1.1 = {
 		death = 238.1.1
@@ -12453,12 +13820,16 @@
 }
 
 845 = {
-	name = "Claire"
+	name = "Claire" # Belrose
 	culture = ithanian
 	religion = unionism
 	female = yes
 	145.1.1 = {
 		birth = 145.1.1
+	}
+
+	173.4.1 = {
+		add_matrilineal_spouse=846
 	}
 	211.1.1 = {
 		death = 211.1.1
@@ -12469,11 +13840,15 @@
 }
 
 846 = {
-	name = "Bastien"
+	name = "Bastien" # de Mireval
 	culture = ithanian
 	religion = unionism
 	147.1.1 = {
 		birth = 147.1.1
+	}
+
+	173.4.1 = {
+		add_matrilineal_spouse=845
 	}
 	212.1.1 = {
 		death = 212.1.1
@@ -12482,12 +13857,16 @@
 }
 
 847 = {
-	name = "Veronique"
+	name = "Veronique" # Belrose
 	culture = ithanian
 	religion = unionism
 	female = yes
 	116.1.1 = {
 		birth = 116.1.1
+	}
+
+	144.4.1 = {
+		add_matrilineal_spouse=848
 	}
 	186.1.1 = {
 		death = 186.1.1
@@ -12496,11 +13875,15 @@
 }
 
 848 = {
-	name = "Andrien"
+	name = "Andrien" # d'Aubremont
 	culture = ithanian
 	religion = unionism
 	118.1.1 = {
 		birth = 118.1.1
+	}
+
+	144.4.1 = {
+		add_matrilineal_spouse=847
 	}
 	184.1.1 = {
 		death = 184.1.1
@@ -12509,11 +13892,15 @@
 }
 
 849 = {
-	name = "Philippe"
+	name = "Philippe" # Desmarais
 	culture = ithanian
 	religion = unionism
 	202.1.1 = {
 		birth = 202.1.1
+	}
+
+	232.4.1 = {
+		add_matrilineal_spouse=841
 	}
 	268.1.1 = {
 		death = 268.1.1
@@ -12522,11 +13909,15 @@
 }
 
 850 = {
-	name = "Carl"
+	name = "Carl" # von Treppewitz
 	culture = wirtem
 	religion = unionism
 	266.1.1 = {
 		birth = 266.1.1
+	}
+
+	291.4.1 = {
+		add_spouse=162
 	}
 	366.1.1 = {
 		death = 366.1.1
@@ -12537,7 +13928,7 @@
 }
 
 851 = {
-	name = "Isidore"
+	name = "Isidore" # von Treppewitz
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -12553,7 +13944,7 @@
 }
 
 852 = {
-	name = "Ulvira"
+	name = "Ulvira" # von Treppewitz
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -12569,11 +13960,15 @@
 }
 
 853 = {
-	name = "Otto"
+	name = "Otto" # von Treppewitz
 	culture = wirtem
 	religion = unionism
 	238.1.1 = {
 		birth = 238.1.1
+	}
+
+	265.4.1 = {
+		add_spouse=854
 	}
 	283.1.1 = {
 		death = 283.1.1
@@ -12584,12 +13979,16 @@
 }
 
 854 = {
-	name = "Helene"
+	name = "Helene" # Markgraf
 	culture = wirtem
 	religion = unionism
 	female = yes
 	242.1.1 = {
 		birth = 242.1.1
+	}
+
+	265.4.1 = {
+		add_spouse=853
 	}
 	289.1.1 = {
 		death = 289.1.1
@@ -12598,7 +13997,7 @@
 }
 
 855 = {
-	name = "Friedrich"
+	name = "Friedrich" # Markgraf
 	culture = wirtem
 	religion = unionism
 	212.1.1 = {
@@ -12611,7 +14010,7 @@
 }
 
 856 = {
-	name = "Elisabet"
+	name = "Elisabet" # von Lenz
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -12625,7 +14024,7 @@
 }
 
 857 = {
-	name = "Gerhard"
+	name = "Gerhard" # Markgraf
 	culture = wirtem
 	religion = unionism
 	185.1.1 = {
@@ -12638,12 +14037,16 @@
 }
 
 858 = {
-	name = "Magdalena"
+	name = "Magdalena" # von Hohenfels
 	culture = wirtem
 	religion = unionism
 	female = yes
 	214.1.1 = {
 		birth = 214.1.1
+	}
+
+	237.4.1 = {
+		add_spouse=859
 	}
 	268.1.1 = {
 		death = 268.1.1
@@ -12652,11 +14055,15 @@
 }
 
 859 = {
-	name = "Ulrich"
+	name = "Ulrich" # von Treppewitz
 	culture = wirtem
 	religion = unionism
 	188.1.1 = {
 		birth = 188.1.1
+	}
+
+	237.4.1 = {
+		add_spouse=858
 	}
 	252.1.1 = {
 		death = 252.1.1
@@ -12665,11 +14072,15 @@
 }
 
 860 = {
-	name = "Ruzgar"
+	name = "Ruzgar" # Sever
 	culture = cearden
 	religion = unionism
 	277.1.1 = {
 		birth = 277.1.1
+	}
+
+	312.4.1 = {
+		add_matrilineal_spouse=719
 	}
 	377.1.1 = {
 		death = 377.1.1
@@ -12678,12 +14089,16 @@
 }
 
 861 = {
-	name = "Clarissa"
+	name = "Clarissa" # Fenwicke
 	culture = cearden
 	religion = unionism
 	female = yes
 	231.1.1 = {
 		birth = 231.1.1
+	}
+
+	266.4.1 = {
+		add_spouse=862
 	}
 	331.1.1 = {
 		death = 331.1.1
@@ -12692,11 +14107,15 @@
 }
 
 862 = {
-	name = "Edmund"
+	name = "Edmund" # Rote
 	culture = wirtem
 	religion = unionism
 	228.1.1 = {
 		birth = 228.1.1
+	}
+
+	266.4.1 = {
+		add_spouse=861
 	}
 	276.1.1 = {
 		death = 276.1.1
@@ -12705,11 +14124,15 @@
 }
 
 863 = {
-	name = "Thurnolf"
+	name = "Thurnolf" # Rote
 	culture = wirtem
 	religion = unionism
 	253.1.1 = {
 		birth = 253.1.1
+	}
+
+	295.4.1 = {
+		add_spouse=864
 	}
 	353.1.1 = {
 		death = 353.1.1
@@ -12720,12 +14143,16 @@
 }
 
 864 = {
-	name = "Maessa"
+	name = "Maessa" # Lundgren
 	culture = velheim
 	religion = fornoss
 	female = yes
 	253.1.1 = {
 		birth = 253.1.1
+	}
+
+	295.4.1 = {
+		add_spouse=863
 	}
 	353.1.1 = {
 		death = 353.1.1
@@ -12734,7 +14161,7 @@
 }
 
 865 = {
-	name = "Theadora"
+	name = "Theadora" # Rote
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -12750,7 +14177,7 @@
 }
 
 866 = {
-	name = "Abelhard"
+	name = "Abelhard" # Rote
 	culture = wirtem
 	religion = unionism
 	279.1.1 = {
@@ -12765,7 +14192,7 @@
 }
 
 867 = {
-	name = "Esther"
+	name = "Esther" # Rote
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -12780,7 +14207,7 @@
 }
 
 868 = {
-	name = "Aelfric"
+	name = "Aelfric" # Rote
 	culture = wirtem
 	religion = unionism
 	309.1.1 = {
@@ -12794,7 +14221,7 @@
 }
 
 869 = {
-	name = "Leopold"
+	name = "Leopold" # Rote
 	culture = wirtem
 	religion = unionism
 	280.1.1 = {
@@ -12809,7 +14236,7 @@
 }
 
 870 = {
-	name = "Caspian"
+	name = "Caspian" # Rote
 	culture = wirtem
 	religion = unionism
 	299.1.1 = {
@@ -12823,7 +14250,7 @@
 }
 
 871 = {
-	name = "Georgina Ruth"
+	name = "Georgina Ruth" # Rote
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -12839,7 +14266,7 @@
 }
 
 872 = {
-	name = "James Charles"
+	name = "James Charles" # Rote
 	culture = wirtem
 	religion = unionism
 	281.1.1 = {
@@ -12854,7 +14281,7 @@
 }
 
 873 = {
-	name = "Lars Alexander"
+	name = "Lars Alexander" # Rote
 	culture = wirtem
 	religion = unionism
 	283.1.1 = {
@@ -12869,7 +14296,7 @@
 }
 
 874 = {
-	name = "Ida Mae"
+	name = "Ida Mae" # Rote
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -12885,7 +14312,7 @@
 }
 
 875 = {
-	name = "Karina"
+	name = "Karina" # Rote
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -12901,7 +14328,7 @@
 }
 
 876 = {
-	name = "Frederick"
+	name = "Frederick" # Rote
 	culture = wirtem
 	religion = unionism
 	264.1.1 = {
@@ -12916,12 +14343,16 @@
 }
 
 877 = {
-	name = "Bernadette"
+	name = "Bernadette" # Wexler
 	culture = wirtem
 	religion = unionism
 	female = yes
 	251.1.1 = {
 		birth = 251.1.1
+	}
+
+	291.4.1 = {
+		add_spouse=878
 	}
 	351.1.1 = {
 		death = 351.1.1
@@ -12930,11 +14361,15 @@
 }
 
 878 = {
-	name = "William"
+	name = "William" # Rote
 	culture = wirtem
 	religion = unionism
 	258.1.1 = {
 		birth = 258.1.1
+	}
+
+	291.4.1 = {
+		add_spouse=877
 	}
 	358.1.1 = {
 		death = 358.1.1
@@ -12945,7 +14380,7 @@
 }
 
 879 = {
-	name = "Thomas"
+	name = "Thomas" # Rote
 	culture = wirtem
 	religion = unionism
 	278.1.1 = {
@@ -12960,7 +14395,7 @@
 }
 
 880 = {
-	name = "Alexandra"
+	name = "Alexandra" # Rote
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -12976,7 +14411,7 @@
 }
 
 881 = {
-	name = "Bethany"
+	name = "Bethany" # Rote
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -12992,7 +14427,7 @@
 }
 
 882 = {
-	name = "Isaac"
+	name = "Isaac" # Rote
 	culture = wirtem
 	religion = unionism
 	292.1.1 = {
@@ -13007,12 +14442,16 @@
 }
 
 883 = {
-	name = "Beatrice"
+	name = "Beatrice" # Aldcroft
 	culture = cearden
 	religion = unionism
 	female = yes
 	263.1.1 = {
 		birth = 263.1.1
+	}
+
+	292.4.1 = {
+		add_spouse=884
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -13021,11 +14460,15 @@
 }
 
 884 = {
-	name = "Luther"
+	name = "Luther" # Rote
 	culture = wirtem
 	religion = unionism
 	263.1.1 = {
 		birth = 263.1.1
+	}
+
+	292.4.1 = {
+		add_spouse=883
 	}
 	305.1.1 = {
 		death = 305.1.1
@@ -13036,7 +14479,7 @@
 }
 
 885 = {
-	name = "Peter"
+	name = "Peter" # Rote
 	culture = wirtem
 	religion = unionism
 	287.1.1 = {
@@ -13051,7 +14494,7 @@
 }
 
 886 = {
-	name = "Colleen"
+	name = "Colleen" # Rote
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -13067,7 +14510,7 @@
 }
 
 887 = {
-	name = "Michael"
+	name = "Michael" # Rote
 	culture = wirtem
 	religion = unionism
 	293.1.1 = {
@@ -13082,7 +14525,7 @@
 }
 
 888 = {
-	name = "Agustine"
+	name = "Agustine" # Rote
 	culture = wirtem
 	religion = unionism
 	267.1.1 = {
@@ -13097,7 +14540,7 @@
 }
 
 889 = {
-	name = "Robert"
+	name = "Robert" # Rote
 	culture = wirtem
 	religion = unionism
 	299.1.1 = {
@@ -13111,7 +14554,7 @@
 }
 
 890 = {
-	name = "Verger"
+	name = "Verger" # Abansaddi
 	culture = eronidas
 	religion = draconism
 	268.1.1 = {
@@ -13124,7 +14567,7 @@
 }
 
 891 = {
-	name = "Lisette"
+	name = "Lisette" # Beauchene
 	culture = leutz_vixe
 	religion = unionism
 	female = yes
@@ -13138,7 +14581,7 @@
 }
 
 892 = {
-	name = "Sophia"
+	name = "Sophia" # de Letoirneau
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -13152,7 +14595,7 @@
 }
 
 893 = {
-	name = "Sigfrid"
+	name = "Sigfrid" # von Rahm
 	culture = wirtem
 	religion = unionism
 	275.1.1 = {
@@ -13165,7 +14608,7 @@
 }
 
 894 = {
-	name = "Izel"
+	name = "Izel" # Mecatl
 	culture = selvath
 	religion = estelley
 	female = yes
@@ -13179,7 +14622,7 @@
 }
 
 895 = {
-	name = "Charles"
+	name = "Charles" # Vasilev
 	culture = krainivaya
 	religion = unionism
 	288.1.1 = {
@@ -13192,7 +14635,7 @@
 }
 
 896 = {
-	name = "Nadiya"
+	name = "Nadiya" # Petrovych
 	culture = krainivaya
 	religion = unionism
 	female = yes
@@ -13206,7 +14649,7 @@
 }
 
 897 = {
-	name = "Charles"
+	name = "Charles" # von Rolanthe
 	culture = leutz_vixe
 	religion = unionism
 	289.1.1 = {
@@ -13219,7 +14662,7 @@
 }
 
 898 = {
-	name = "Krieger"
+	name = "Krieger" # von Altburg
 	culture = leutz_vixe
 	religion = unionism
 	289.1.1 = {
@@ -13232,7 +14675,7 @@
 }
 
 899 = {
-	name = "Jannick"
+	name = "Jannick" # Kepler
 	culture = wirtem
 	religion = unionism
 	292.1.1 = {
@@ -13245,7 +14688,7 @@
 }
 
 900 = {
-	name = "Suvitril"
+	name = "Suvitril" # Nayelen
 	culture = suvial
 	religion = estelley
 	female = yes
@@ -13259,7 +14702,7 @@
 }
 
 901 = {
-	name = "Severus"
+	name = "Severus" # Verlain
 	culture = ithanian
 	religion = unionism
 	283.1.1 = {
@@ -13272,7 +14715,7 @@
 }
 
 902 = {
-	name = "Victoire"
+	name = "Victoire" # Maidment
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -13286,7 +14729,7 @@
 }
 
 903 = {
-	name = "Theodric"
+	name = "Theodric" # Maerfell
 	culture = cearden
 	religion = unionism
 	287.1.1 = {
@@ -13299,7 +14742,7 @@
 }
 
 904 = {
-	name = "Almar"
+	name = "Almar" # Eidsvik
 	culture = velheim
 	religion = fornoss
 	281.1.1 = {
@@ -13312,7 +14755,7 @@
 }
 
 905 = {
-	name = "Kalu"
+	name = "Kalu" # Elvaine
 	culture = skyborn
 	religion = unionism
 	296.1.1 = {
@@ -13325,7 +14768,7 @@
 }
 
 906 = {
-	name = "Amber"
+	name = "Amber" # Silverberry
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -13339,7 +14782,7 @@
 }
 
 907 = {
-	name = "Nefertath"
+	name = "Nefertath" # Monterrosa
 	culture = tierravera
 	religion = khama
 	female = yes
@@ -13353,7 +14796,7 @@
 }
 
 908 = {
-	name = "Roulain"
+	name = "Roulain" # Bavere
 	culture = ithanian
 	religion = unionism
 	287.1.1 = {
@@ -13366,7 +14809,7 @@
 }
 
 909 = {
-	name = "Nefer"
+	name = "Nefer" # Morathes
 	culture = asha
 	religion = khama
 	285.1.1 = {
@@ -13379,7 +14822,7 @@
 }
 
 910 = {
-	name = "Fiora"
+	name = "Fiora" # di Auriemma
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -13393,7 +14836,7 @@
 }
 
 911 = {
-	name = "Francisca"
+	name = "Francisca" # Altagracia
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -13407,7 +14850,7 @@
 }
 
 912 = {
-	name = "Marak"
+	name = "Marak" # Vyzal
 	culture = allar
 	religion = draconism
 	282.1.1 = {
@@ -13420,7 +14863,7 @@
 }
 
 913 = {
-	name = "Yahra"
+	name = "Yahra" # Kassambara
 	culture = dragonkin
 	religion = draconism
 	female = yes
@@ -13434,7 +14877,7 @@
 }
 
 914 = {
-	name = "Lao"
+	name = "Lao" # Fong
 	culture = sihai
 	religion = draconism
 	248.1.1 = {
@@ -13447,7 +14890,7 @@
 }
 
 915 = {
-	name = "Jocelyn"
+	name = "Jocelyn" # von Duerr
 	culture = wirtem
 	religion = unionism
 	female = yes
@@ -13461,7 +14904,7 @@
 }
 
 916 = {
-	name = "Lieven"
+	name = "Lieven" # Thorner
 	culture = anglian
 	religion = unionism
 	285.1.1 = {
@@ -13474,7 +14917,7 @@
 }
 
 917 = {
-	name = "Wilhelm"
+	name = "Wilhelm" # Wulfmacht
 	culture = cearden
 	religion = unionism
 	274.1.1 = {
@@ -13487,7 +14930,7 @@
 }
 
 918 = {
-	name = "Hera"
+	name = "Hera" # van Hall
 	culture = cearden
 	religion = unionism
 	female = yes
@@ -13502,7 +14945,7 @@
 }
 
 919 = {
-	name = "Bonavent"
+	name = "Bonavent" # Gianduja
 	culture = cantaluna
 	religion = unionism
 	286.1.1 = {
@@ -13515,7 +14958,7 @@
 }
 
 920 = {
-	name = "Madelyne"
+	name = "Madelyne" # de Azcoissia
 	culture = tierravera
 	religion = amended
 	female = yes
@@ -13529,7 +14972,7 @@
 }
 
 921 = {
-	name = "Virathus"
+	name = "Virathus" # Krupp
 	culture = wirtem
 	religion = unionism
 	286.1.1 = {
@@ -13542,7 +14985,7 @@
 }
 
 922 = {
-	name = "Dorothios"
+	name = "Dorothios" # Spathous
 	culture = etosian
 	religion = evintarian
 	289.1.1 = {
@@ -13555,7 +14998,7 @@
 }
 
 923 = {
-	name = "Halewise"
+	name = "Halewise" # Caer Mynach
 	culture = breizh
 	religion = unionism
 	280.1.1 = {
@@ -13568,7 +15011,7 @@
 }
 
 924 = {
-	name = "Mariella"
+	name = "Mariella" # Alein
 	culture = ithanian
 	religion = draconism
 	female = yes
@@ -13582,7 +15025,7 @@
 }
 
 925 = {
-	name = "Lamont"
+	name = "Lamont" # Norrin
 	culture = gallovian
 	religion = fornoss
 	287.1.1 = {
@@ -13595,7 +15038,7 @@
 }
 
 926 = {
-	name = "Willem"
+	name = "Willem" # Norrin
 	culture = anglian
 	religion = draconism
 	254.1.1 = {
@@ -13608,7 +15051,7 @@
 }
 
 927 = {
-	name = "Thomas"
+	name = "Thomas" # Redwick
 	culture = anglian
 	religion = unionism
 	248.1.1 = {
@@ -13621,7 +15064,7 @@
 }
 
 928 = {
-	name = "Lucien"
+	name = "Lucien" # Moreau
 	culture = ithanian
 	religion = estelley
 	242.1.1 = {
@@ -13634,7 +15077,7 @@
 }
 
 929 = {
-	name = "Pierre"
+	name = "Pierre" # Lafont
 	culture = ithanian
 	religion = unionism
 	237.1.1 = {
@@ -13647,7 +15090,7 @@
 }
 
 930 = {
-	name = "Aerandir"
+	name = "Aerandir" # Silvaris
 	culture = solvaan
 	religion = estelley
 	259.1.1 = {
@@ -13660,7 +15103,7 @@
 }
 
 931 = {
-	name = "Hendrik"
+	name = "Hendrik" # Vosmeer
 	culture = eronidas
 	religion = draconism
 	233.1.1 = {
@@ -13673,7 +15116,7 @@
 }
 
 932 = {
-	name = "Thalion"
+	name = "Thalion" # Mooncrest
 	culture = solvaan
 	religion = unionism
 	251.1.1 = {
@@ -13686,7 +15129,7 @@
 }
 
 933 = {
-	name = "Calenor"
+	name = "Calenor" # Starweave
 	culture = kathar
 	religion = evolism
 	240.1.1 = {
@@ -13699,7 +15142,7 @@
 }
 
 934 = {
-	name = "Joris"
+	name = "Joris" # Vanlaer
 	culture = eronidas
 	religion = unionism
 	226.1.1 = {
@@ -13712,7 +15155,7 @@
 }
 
 935 = {
-	name = "Erik"
+	name = "Erik" # Stormsen
 	culture = url
 	religion = unionism
 	244.1.1 = {
@@ -13725,7 +15168,7 @@
 }
 
 936 = {
-	name = "Milan"
+	name = "Milan" # Dragovic
 	culture = wruclav
 	religion = unionism
 	238.1.1 = {
@@ -13738,7 +15181,7 @@
 }
 
 937 = {
-	name = "Alistair"
+	name = "Alistair" # Macrennan
 	culture = dunbrae
 	religion = fornoss
 	231.1.1 = {
@@ -13751,7 +15194,7 @@
 }
 
 938 = {
-	name = "Nikolas"
+	name = "Nikolas" # Athenor
 	culture = etosian
 	religion = evintarian
 	256.1.1 = {
@@ -13764,7 +15207,7 @@
 }
 
 939 = {
-	name = "Oleg"
+	name = "Oleg" # Kravets
 	culture = krainivaya
 	religion = unionism
 	229.1.1 = {
@@ -13777,7 +15220,7 @@
 }
 
 940 = {
-	name = "Edward"
+	name = "Edward" # Hillford
 	culture = gallovian
 	religion = unionism
 	247.1.1 = {
@@ -13790,7 +15233,7 @@
 }
 
 941 = {
-	name = "Robert"
+	name = "Robert" # Blackmere
 	culture = tarkin
 	religion = fornoss
 	220.1.1 = {
@@ -13803,7 +15246,7 @@
 }
 
 942 = {
-	name = "Cormac"
+	name = "Cormac" # Oneill
 	culture = aontaithe
 	religion = fornoss
 	252.1.1 = {
@@ -13816,7 +15259,7 @@
 }
 
 943 = {
-	name = "Caltram"
+	name = "Caltram" # Uindacos
 	culture = aber
 	religion = evolism
 	234.1.1 = {
@@ -13829,7 +15272,7 @@
 }
 
 944 = {
-	name = "James"
+	name = "James" # Calder
 	culture = calderliga
 	religion = unionism
 	245.1.1 = {
@@ -13842,7 +15285,7 @@
 }
 
 945 = {
-	name = "Viktor"
+	name = "Viktor" # Shevlin
 	culture = krainivaya
 	religion = fornoss
 	222.1.1 = {
@@ -13855,7 +15298,7 @@
 }
 
 946 = {
-	name = "Lukas"
+	name = "Lukas" # Brecht
 	culture = wirtem
 	religion = unionism
 	258.1.1 = {
@@ -13868,7 +15311,7 @@
 }
 
 947 = {
-	name = "Fergus"
+	name = "Fergus" # Macleod
 	culture = dunbrae
 	religion = unionism
 	236.1.1 = {
@@ -13881,7 +15324,7 @@
 }
 
 948 = {
-	name = "Andreas"
+	name = "Andreas" # Kyros
 	culture = tsalqvanes
 	religion = evintarian
 	249.1.1 = {
@@ -13894,7 +15337,7 @@
 }
 
 949 = {
-	name = "Richard"
+	name = "Richard" # Holgrave
 	culture = anglian
 	religion = evolism
 	224.1.1 = {
@@ -13907,7 +15350,7 @@
 }
 
 950 = {
-	name = "Samuel"
+	name = "Samuel" # Carter
 	culture = leutz_vixe
 	religion = unionism
 	253.1.1 = {
@@ -13920,7 +15363,7 @@
 }
 
 951 = {
-	name = "Daniel"
+	name = "Daniel" # Morland
 	culture = breizh
 	religion = unionism
 	239.1.1 = {
@@ -13933,7 +15376,7 @@
 }
 
 952 = {
-	name = "Bjorn"
+	name = "Bjorn" # Halvorsen
 	culture = velheim
 	religion = fornoss
 	227.1.1 = {
@@ -13946,7 +15389,7 @@
 }
 
 953 = {
-	name = "Mateo"
+	name = "Mateo" # Vargas
 	culture = tierravera
 	religion = unionism
 	241.1.1 = {
@@ -13959,7 +15402,7 @@
 }
 
 954 = {
-	name = "Ronan"
+	name = "Ronan" # Kells
 	culture = aontaithe
 	religion = draconism
 	232.1.1 = {
@@ -13972,7 +15415,7 @@
 }
 
 955 = {
-	name = "Joao"
+	name = "Joao" # Pereira
 	culture = bragacao
 	religion = unionism
 	255.1.1 = {
@@ -13985,7 +15428,7 @@
 }
 
 956 = {
-	name = "Leonidas"
+	name = "Leonidas" # Stavros
 	culture = byala
 	religion = evintarian
 	246.1.1 = {
@@ -13998,7 +15441,7 @@
 }
 
 957 = {
-	name = "Theron"
+	name = "Theron" # Kaligos
 	culture = etosian
 	religion = draconism
 	221.1.1 = {
@@ -14011,7 +15454,7 @@
 }
 
 958 = {
-	name = "Arthur"
+	name = "Arthur" # Pendry
 	culture = cearden
 	religion = unionism
 	250.1.1 = {
@@ -14024,7 +15467,7 @@
 }
 
 959 = {
-	name = "Marcus"
+	name = "Marcus" # Elwood
 	culture = dvala
 	religion = evintarian
 	237.1.1 = {
@@ -14037,7 +15480,7 @@
 }
 
 960 = {
-	name = "Stephen"
+	name = "Stephen" # Crowley
 	culture = allar
 	religion = unionism
 	243.1.1 = {
@@ -14050,7 +15493,7 @@
 }
 
 961 = {
-	name = "Martin"
+	name = "Martin" # Keller
 	culture = genevaud
 	religion = unionism
 	230.1.1 = {
@@ -14063,7 +15506,7 @@
 }
 
 962 = {
-	name = "Amadou"
+	name = "Amadou" # Keita
 	culture = dragonkin
 	religion = unionism
 	254.1.1 = {
@@ -14076,7 +15519,7 @@
 }
 
 963 = {
-	name = "Boubacar"
+	name = "Boubacar" # Traore
 	culture = dragonkin
 	religion = draconism
 	228.1.1 = {
@@ -14089,7 +15532,7 @@
 }
 
 964 = {
-	name = "Hroldin"
+	name = "Hroldin" # Ironbeard
 	culture = dwarven
 	religion = fornoss
 	219.1.1 = {
@@ -14102,7 +15545,7 @@
 }
 
 965 = {
-	name = "Edwin"
+	name = "Edwin" # Fairwind
 	culture = finul
 	religion = estelley
 	257.1.1 = {
@@ -14115,7 +15558,7 @@
 }
 
 966 = {
-	name = "Edemere"
+	name = "Edemere" # Greenbough
 	culture = selvath
 	religion = estelley
 	244.1.1 = {
@@ -14128,7 +15571,7 @@
 }
 
 967 = {
-	name = "Karim"
+	name = "Karim" # Hassan
 	culture = asha
 	religion = unionism
 	233.1.1 = {
@@ -14141,7 +15584,7 @@
 }
 
 968 = {
-	name = "Rashid"
+	name = "Rashid" # Elmasri
 	culture = asha
 	religion = khama
 	226.1.1 = {
@@ -14154,7 +15597,7 @@
 }
 
 969 = {
-	name = "Nathaniel"
+	name = "Nathaniel" # Skyridge
 	culture = skyborn
 	religion = unionism
 	248.1.1 = {
@@ -14167,7 +15610,7 @@
 }
 
 970 = {
-	name = "Oliver"
+	name = "Oliver" # Dawnmere
 	culture = llasada
 	religion = estelley
 	240.1.1 = {
@@ -14180,7 +15623,7 @@
 }
 
 971 = {
-	name = "Faelar"
+	name = "Faelar" # Nightwillow
 	culture = yanar
 	religion = estelley
 	259.1.1 = {
@@ -14193,7 +15636,7 @@
 }
 
 972 = {
-	name = "Edward"
+	name = "Edward" # Halcroft
 	culture = anglian
 	religion = draconism
 	235.1.1 = {
@@ -14206,7 +15649,7 @@
 }
 
 973 = {
-	name = "William"
+	name = "William" # Ashford
 	culture = anglian
 	religion = unionism
 	246.1.1 = {
@@ -14219,7 +15662,7 @@
 }
 
 974 = {
-	name = "Marcel"
+	name = "Marcel" # Duroc
 	culture = ithanian
 	religion = estelley
 	223.1.1 = {
@@ -14232,7 +15675,7 @@
 }
 
 975 = {
-	name = "Antoine"
+	name = "Antoine" # Bellamy
 	culture = ithanian
 	religion = unionism
 	252.1.1 = {
@@ -14245,7 +15688,7 @@
 }
 
 976 = {
-	name = "Elarion"
+	name = "Elarion" # Leafborne
 	culture = solvaan
 	religion = estelley
 	238.1.1 = {
@@ -14258,7 +15701,7 @@
 }
 
 977 = {
-	name = "Pieter"
+	name = "Pieter" # Vanbroek
 	culture = eronidas
 	religion = draconism
 	229.1.1 = {
@@ -14271,7 +15714,7 @@
 }
 
 978 = {
-	name = "Lorandel"
+	name = "Lorandel" # Brightsong
 	culture = solvaan
 	religion = unionism
 	247.1.1 = {
@@ -14284,7 +15727,7 @@
 }
 
 979 = {
-	name = "Vaelis"
+	name = "Vaelis" # Starfall
 	culture = kathar
 	religion = evolism
 	241.1.1 = {
@@ -14297,7 +15740,7 @@
 }
 
 980 = {
-	name = "Maarten"
+	name = "Maarten" # Devries
 	culture = eronidas
 	religion = unionism
 	234.1.1 = {
@@ -14310,7 +15753,7 @@
 }
 
 981 = {
-	name = "Soren"
+	name = "Soren" # Icewind
 	culture = url
 	religion = unionism
 	255.1.1 = {
@@ -14323,7 +15766,7 @@
 }
 
 982 = {
-	name = "Radek"
+	name = "Radek" # Milovan
 	culture = wruclav
 	religion = unionism
 	236.1.1 = {
@@ -14336,7 +15779,7 @@
 }
 
 983 = {
-	name = "Duncan"
+	name = "Duncan" # Macalpin
 	culture = dunbrae
 	religion = fornoss
 	222.1.1 = {
@@ -14349,7 +15792,7 @@
 }
 
 984 = {
-	name = "Alexandros"
+	name = "Alexandros" # Phaedros
 	culture = etosian
 	religion = evintarian
 	258.1.1 = {
@@ -14362,7 +15805,7 @@
 }
 
 985 = {
-	name = "Taras"
+	name = "Taras" # Melnyk
 	culture = krainivaya
 	religion = unionism
 	230.1.1 = {
@@ -14375,7 +15818,7 @@
 }
 
 986 = {
-	name = "Charles"
+	name = "Charles" # Wyndham
 	culture = gallovian
 	religion = unionism
 	249.1.1 = {
@@ -14388,7 +15831,7 @@
 }
 
 987 = {
-	name = "Gregory"
+	name = "Gregory" # Stoneward
 	culture = tarkin
 	religion = fornoss
 	221.1.1 = {
@@ -14401,7 +15844,7 @@
 }
 
 988 = {
-	name = "Seamus"
+	name = "Seamus" # Callahan
 	culture = aontaithe
 	religion = fornoss
 	253.1.1 = {
@@ -14414,7 +15857,7 @@
 }
 
 989 = {
-	name = "Philip"
+	name = "Philip" # Norwood
 	culture = gallovian
 	religion = fornoss
 	239.1.1 = {
@@ -14427,7 +15870,7 @@
 }
 
 990 = {
-	name = "Andrew"
+	name = "Andrew" # Calderon
 	culture = calderliga
 	religion = unionism
 	244.1.1 = {
@@ -14440,7 +15883,7 @@
 }
 
 991 = {
-	name = "Mykola"
+	name = "Mykola" # Havryn
 	culture = krainivaya
 	religion = unionism
 	227.1.1 = {
@@ -14453,7 +15896,7 @@
 }
 
 992 = {
-	name = "Matthias"
+	name = "Matthias" # Hollen
 	culture = wirtem
 	religion = unionism
 	256.1.1 = {
@@ -14466,7 +15909,7 @@
 }
 
 993 = {
-	name = "Callum"
+	name = "Callum" # Fraser
 	culture = dunbrae
 	religion = unionism
 	235.1.1 = {
@@ -14479,7 +15922,7 @@
 }
 
 994 = {
-	name = "Demetrios"
+	name = "Demetrios" # Lykon
 	culture = tsalqvanes
 	religion = evintarian
 	248.1.1 = {
@@ -14492,7 +15935,7 @@
 }
 
 995 = {
-	name = "Jonathan"
+	name = "Jonathan" # Fairchild
 	culture = anglian
 	religion = evolism
 	224.1.1 = {
@@ -14505,7 +15948,7 @@
 }
 
 996 = {
-	name = "Benjamin"
+	name = "Benjamin" # Holloway
 	culture = leutz_vixe
 	religion = unionism
 	252.1.1 = {
@@ -14518,7 +15961,7 @@
 }
 
 997 = {
-	name = "Matthew"
+	name = "Matthew" # Corbin
 	culture = breizh
 	religion = unionism
 	237.1.1 = {
@@ -14531,7 +15974,7 @@
 }
 
 998 = {
-	name = "Torvald"
+	name = "Torvald" # Runehelm
 	culture = velheim
 	religion = fornoss
 	220.1.1 = {
@@ -14544,7 +15987,7 @@
 }
 
 999 = {
-	name = "Diego"
+	name = "Diego" # Montoya
 	culture = tierravera
 	religion = unionism
 	254.1.1 = {
@@ -14557,7 +16000,7 @@
 }
 
 1000 = {
-	name = "Fionn"
+	name = "Fionn" # Rathmore
 	culture = aontaithe
 	religion = draconism
 	231.1.1 = {
@@ -14570,7 +16013,7 @@
 }
 
 1001 = {
-	name = "Miguel"
+	name = "Miguel" # Rocha
 	culture = bragacao
 	religion = unionism
 	245.1.1 = {
@@ -14583,7 +16026,7 @@
 }
 
 1002 = {
-	name = "Stephanos"
+	name = "Stephanos" # Myron
 	culture = byala
 	religion = evintarian
 	238.1.1 = {
@@ -14596,7 +16039,7 @@
 }
 
 1003 = {
-	name = "Kyros"
+	name = "Kyros" # Thalemos
 	culture = etosian
 	religion = draconism
 	226.1.1 = {
@@ -14609,7 +16052,7 @@
 }
 
 1004 = {
-	name = "Harold"
+	name = "Harold" # Whitlock
 	culture = cearden
 	religion = unionism
 	249.1.1 = {
@@ -14622,7 +16065,7 @@
 }
 
 1005 = {
-	name = "Victor"
+	name = "Victor" # Halecrest
 	culture = dvala
 	religion = evintarian
 	233.1.1 = {
@@ -14635,7 +16078,7 @@
 }
 
 1006 = {
-	name = "Leonard"
+	name = "Leonard" # Brookstone
 	culture = allar
 	religion = unionism
 	257.1.1 = {
@@ -14648,7 +16091,7 @@
 }
 
 1007 = {
-	name = "Stefan"
+	name = "Stefan" # Muller
 	culture = genevaud
 	religion = unionism
 	240.1.1 = {
@@ -14661,7 +16104,7 @@
 }
 
 1008 = {
-	name = "Mamadou"
+	name = "Mamadou" # Sissoko
 	culture = dragonkin
 	religion = unionism
 	222.1.1 = {
@@ -14674,7 +16117,7 @@
 }
 
 1009 = {
-	name = "Issa"
+	name = "Issa" # Doumbia
 	culture = dragonkin
 	religion = draconism
 	251.1.1 = {
@@ -14687,7 +16130,7 @@
 }
 
 1010 = {
-	name = "Brottin"
+	name = "Brottin" # Stonefury
 	culture = dwarven
 	religion = fornoss
 	229.1.1 = {
@@ -14700,7 +16143,7 @@
 }
 
 1011 = {
-	name = "Simon"
+	name = "Simon" # Lightvale
 	culture = finul
 	religion = estelley
 	246.1.1 = {
@@ -14713,7 +16156,7 @@
 }
 
 1012 = {
-	name = "Mareda"
+	name = "Mareda" # Mossmere
 	culture = selvath
 	religion = estelley
 	235.1.1 = {
@@ -14726,7 +16169,7 @@
 }
 
 1013 = {
-	name = "Youssef"
+	name = "Youssef" # Farouk
 	culture = asha
 	religion = unionism
 	258.1.1 = {
@@ -14739,7 +16182,7 @@
 }
 
 1014 = {
-	name = "Hassan"
+	name = "Hassan" # Nabil
 	culture = asha
 	religion = khama
 	241.1.1 = {
@@ -14752,7 +16195,7 @@
 }
 
 1015 = {
-	name = "Elias"
+	name = "Elias" # Windmere
 	culture = skyborn
 	religion = unionism
 	230.1.1 = {
@@ -14765,7 +16208,7 @@
 }
 
 1016 = {
-	name = "Thomas"
+	name = "Thomas" # Sunfield
 	culture = llasada
 	religion = estelley
 	252.1.1 = {
@@ -14778,7 +16221,7 @@
 }
 
 1017 = {
-	name = "Sylvaren"
+	name = "Sylvaren" # Duskwillow
 	culture = yanar
 	religion = estelley
 	244.1.1 = {
@@ -14791,7 +16234,7 @@
 }
 
 1018 = {
-	name = "Jan"
+	name = "Jan" # van Dijk
 	culture = anglian
 	religion = draconism
 	260.1.1 = {
@@ -14804,7 +16247,7 @@
 }
 
 1019 = {
-	name = "Anna"
+	name = "Anna" # de Vries
 	culture = anglian
 	religion = draconism
 	female = yes
@@ -14818,7 +16261,7 @@
 }
 
 1020 = {
-	name = "Pieter"
+	name = "Pieter" # van der Meer
 	culture = anglian
 	religion = draconism
 	264.1.1 = {
@@ -14831,7 +16274,7 @@
 }
 
 1021 = {
-	name = "Hendrik"
+	name = "Hendrik" # van Leeuwen
 	culture = anglian
 	religion = draconism
 	266.1.1 = {
@@ -14844,7 +16287,7 @@
 }
 
 1022 = {
-	name = "Katrijn"
+	name = "Katrijn" # Bakker
 	culture = anglian
 	religion = draconism
 	female = yes
@@ -14858,7 +16301,7 @@
 }
 
 1023 = {
-	name = "Erik"
+	name = "Erik" # Olafson
 	culture = velheim
 	religion = fornoss
 	270.1.1 = {
@@ -14871,7 +16314,7 @@
 }
 
 1024 = {
-	name = "Leif"
+	name = "Leif" # Erikson
 	culture = velheim
 	religion = fornoss
 	272.1.1 = {
@@ -14884,7 +16327,7 @@
 }
 
 1025 = {
-	name = "Harald"
+	name = "Harald" # Halfdaneson
 	culture = velheim
 	religion = fornoss
 	274.1.1 = {
@@ -14897,7 +16340,7 @@
 }
 
 1026 = {
-	name = "Ingrid"
+	name = "Ingrid" # Falkenheim
 	culture = velheim
 	religion = fornoss
 	female = yes
@@ -14911,7 +16354,7 @@
 }
 
 1027 = {
-	name = "Sigrid"
+	name = "Sigrid" # Haraldsdottir
 	culture = velheim
 	religion = fornoss
 	female = yes
@@ -14925,7 +16368,7 @@
 }
 
 1028 = {
-	name = "Jovanka"
+	name = "Jovanka" # di Orazzio
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -14940,7 +16383,7 @@
 }
 
 1029 = {
-	name = "Imira"
+	name = "Imira" # Delaianur
 	culture = selvath
 	religion = estelley
 	female = yes
@@ -14954,7 +16397,7 @@
 }
 
 1030 = {
-	name = "Ippolito"
+	name = "Ippolito" # de Paganelli
 	culture = cantaluna
 	religion = unionism
 	200.1.1 = {
@@ -14967,11 +16410,15 @@
 }
 
 1031 = {
-	name = "Felice"
+	name = "Felice" # de Paganelli
 	culture = cantaluna
 	religion = unionism
 	266.1.1 = {
 		birth = 266.1.1
+	}
+
+	294.4.1 = {
+		add_spouse=1039
 	}
 	295.1.1 = {
 		death = 295.1.1
@@ -14981,7 +16428,7 @@
 }
 
 1032 = {
-	name = "Vieri"
+	name = "Vieri" # de Paganelli
 	culture = cantaluna
 	religion = unionism
 	270.1.1 = {
@@ -14995,7 +16442,7 @@
 }
 
 1033 = {
-	name = "Tedeschi"
+	name = "Tedeschi" # de Paganelli
 	culture = cantaluna
 	religion = unionism
 	289.1.1 = {
@@ -15009,7 +16456,7 @@
 }
 
 1034 = {
-	name = "Pietra"
+	name = "Pietra" # de Paganelli
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -15024,7 +16471,7 @@
 }
 
 1035 = {
-	name = "Rizieri"
+	name = "Rizieri" # de Paganelli
 	culture = cantaluna
 	religion = unionism
 	293.1.1 = {
@@ -15038,7 +16485,7 @@
 }
 
 1036 = {
-	name = "Nerio"
+	name = "Nerio" # de Paganelli
 	culture = cantaluna
 	religion = unionism
 	290.1.1 = {
@@ -15054,7 +16501,7 @@
 
 
 1037 = {
-	name = "Artemisa"
+	name = "Artemisa" # de Paganelli
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -15070,7 +16517,7 @@
 }
 
 1038 = {
-	name = "Placido"
+	name = "Placido" # de Paganelli
 	culture = cantaluna
 	religion = unionism
 	295.1.1 = {
@@ -15085,12 +16532,16 @@
 }
 
 1039 = {
-	name = "Sabrina"
+	name = "Sabrina" # Lafont
 	female = yes
 	culture = ithanian
 	religion = unionism
 	268.1.1 = {
 		birth = 268.1.1
+	}
+
+	294.4.1 = {
+		add_spouse=1031
 	}
 	395.1.1 = {
 		death = 395.1.1
@@ -15101,7 +16552,7 @@
 
 
 1040 = {
-	name = "Alban"
+	name = "Alban" # Lafont
 	culture = ithanian
 	religion = unionism
 	265.1.1 = {
@@ -15116,7 +16567,7 @@
 
 
 1041 = {
-	name = "Francine"
+	name = "Francine" # Lafont
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -15131,7 +16582,7 @@
 }
 
 1042 = {
-	name = "Josephine"
+	name = "Josephine" # sur Mont
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -15146,7 +16597,7 @@
 }
 
 1043 = {
-	name = "Olivier"
+	name = "Olivier" # sur Mont
 	culture = ithanian
 	religion = unionism
 	246.1.1 = {
@@ -15160,7 +16611,7 @@
 }
 
 1044 = {
-	name = "Avilio"
+	name = "Avilio" # Cienfuegos
 	culture = tierravera
 	religion = unionism
 	292.1.1 = {
@@ -15173,7 +16624,7 @@
 }
 
 1045 = {
-	name = "Andrew"
+	name = "Andrew" # Thorn
 	culture = cearden
 	religion = unionism
 	203.1.1 = {
@@ -15187,7 +16638,7 @@
 
 
 1046 = {
-	name = "Lambert"
+	name = "Lambert" # Thorn
 	culture = cearden
 	religion = unionism
 	232.1.1 = {
@@ -15201,7 +16652,7 @@
 }
 
 1047 = {
-	name = "Walter"
+	name = "Walter" # Thorn
 	culture = cearden
 	religion = unionism
 	265.1.1 = {
@@ -15215,7 +16666,7 @@
 }
 
 1048 = {
-	name = "Stephen"
+	name = "Stephen" # Thorn
 	culture = cearden
 	religion = unionism
 	284.1.1 = {
@@ -15229,7 +16680,7 @@
 }
 
 1049 = {
-	name = "Francis"
+	name = "Francis" # Thorn
 	culture = cearden
 	religion = unionism
 	286.1.1 = {
@@ -15243,7 +16694,7 @@
 }
 
 1050 = {
-	name = "Sil"
+	name = "Sil" # Kade Neylade
 	culture = solvaan
 	religion = unionism
 	253.1.1 = {
@@ -15257,7 +16708,7 @@
 }
 
 1051 = {
-	name = "Silas"
+	name = "Silas" # Kade Neylade
 	culture = solvaan
 	religion = unionism
 	275.1.1 = {
@@ -15271,7 +16722,7 @@
 }
 
 1052 = {
-	name = "Samila"
+	name = "Samila" # Kade Neylade
 	culture = solvaan
 	religion = unionism
 	female = yes
@@ -15286,7 +16737,7 @@
 }
 
 1053 = {
-	name = "Iarina"
+	name = "Iarina" # Kade Neylade
 	culture = solvaan
 	religion = unionism
 	female = yes
