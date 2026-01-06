@@ -1,6 +1,6 @@
 title = c_civita
 max_settlements = 2
-culture = amended
-religion = unionism
+culture = cantaluna
+religion = amended
 b_civita = castle
 b_civita2 = temple
