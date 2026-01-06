@@ -9738,9 +9738,9 @@
 }
 
 661 = {
-	name = "Madelyn"
-	culture = suvial
-	religion = unionism
+	name = "Madelyne"
+	culture = tierravera
+	religion = amended
 	female = yes
 	278.1.1 = {
 		birth = 278.1.1
@@ -13508,9 +13508,9 @@
 }
 
 920 = {
-	name = "Madelyn"
-	culture = suvial
-	religion = estelley
+	name = "Madelyne"
+	culture = tierravera
+	religion = amended
 	female = yes
 	278.1.1 = {
 		birth = 278.1.1
