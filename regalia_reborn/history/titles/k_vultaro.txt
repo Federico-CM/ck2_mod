@@ -3,6 +3,3 @@
 	law = succ_primogeniture
 	law = agnatic_succession
 }
-
-
-search for a tierravera
