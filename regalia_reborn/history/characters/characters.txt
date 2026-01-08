@@ -90,7 +90,7 @@
 	add_trait = "schemer"
 	add_trait = "wroth"
 	add_trait = "robust"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 5 = {
@@ -119,7 +119,7 @@
 	add_trait = "strong"
 	add_trait = "content"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 6 = {
@@ -147,7 +147,7 @@
 	add_trait = "proud"
 	add_trait = "groomed"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 7 = {
@@ -174,7 +174,7 @@
 	add_trait = "patient"
 	add_trait = "zealous"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 8 = {
@@ -202,7 +202,7 @@
 	add_trait = "content"
 	add_trait = "duelist"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 9 = {
@@ -234,7 +234,7 @@
 	add_trait = "socializer"
 	add_trait = "proud"
 	add_trait = "robust"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 10 = {
@@ -261,7 +261,7 @@
 	add_trait = "chaste"
 	add_trait = "wroth"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 11 = {
@@ -288,7 +288,7 @@
 	add_trait = "diligent"
 	add_trait = "duelist"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 12 = {
@@ -314,7 +314,7 @@
 	add_trait = "chaste"
 	add_trait = "robust"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 13 = {
@@ -389,7 +389,7 @@
 	add_trait = "groomed"
 	add_trait = "seducer"
 	add_trait = "strong"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 17 = {
@@ -416,7 +416,7 @@
 	add_trait = "honest"
 	add_trait = "chaste"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 18 = {
@@ -440,7 +440,7 @@
 	add_trait = "proud"
 	add_trait = "ambitious"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 19 = {
@@ -501,7 +501,7 @@
 	add_trait = "schemer"
 	add_trait = "groomed"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 22 = {
@@ -536,7 +536,7 @@
 	add_trait = "proud"
 	add_trait = "ambitious"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 23 = {
@@ -572,7 +572,7 @@
 	add_trait = "seducer"
 	add_trait = "honest"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 24 = {
@@ -604,7 +604,7 @@
 	add_trait = "genius"
 	add_trait = "patient"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 25 = {
@@ -633,7 +633,7 @@
 	add_trait = "impaler"
 	add_trait = "chaste"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 26 = {
@@ -659,7 +659,7 @@
 	add_trait = "greedy"
 	add_trait = "mystic"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 27 = {
@@ -688,7 +688,7 @@
 	add_trait = "chaste"
 	add_trait = "patient"
 	add_trait = "hunter"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 28 = {
@@ -716,7 +716,7 @@
 	add_trait = "gregarious"
 	add_trait = "proud"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 29 = {
@@ -749,7 +749,7 @@
 	add_trait = "chaste"
 	add_trait = "gregarious"
 	add_trait = "erudite"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 30 = {
@@ -796,7 +796,7 @@
 	add_trait = "brave"
 	add_trait = "temperate"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 32 = {
@@ -823,7 +823,7 @@
 	add_trait = "schemer"
 	add_trait = "ambitious"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 33 = {
@@ -850,7 +850,7 @@
 	add_trait = "quick"
 	add_trait = "temperate"
 	add_trait = "poet"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 34 = {
@@ -878,7 +878,7 @@
 	add_trait = "patient"
 	add_trait = "poet"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 35 = {
@@ -905,7 +905,7 @@
 	add_trait = "scholar"
 	add_trait = "diligent"
 	add_trait = "erudite"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 36 = {
@@ -934,7 +934,7 @@
 	add_trait = "proud"
 	add_trait = "erudite"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 37 = {
@@ -1071,7 +1071,7 @@
 	add_trait = "gregarious"
 	add_trait = "zealous"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 45 = {
@@ -1100,7 +1100,7 @@
 	add_trait = "groomed"
 	add_trait = "impaler"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 46 = {
@@ -1128,7 +1128,7 @@
 	add_trait = "greedy"
 	add_trait = "wroth"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 47 = {
@@ -1153,7 +1153,7 @@
 	add_trait = "fair"
 	add_trait = "gregarious"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 48 = {
@@ -1181,7 +1181,7 @@
 	add_trait = "erudite"
 	add_trait = "quick"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 49 = {
@@ -1208,7 +1208,7 @@
 	add_trait = "architect"
 	add_trait = "envious"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 50 = {
@@ -1234,7 +1234,7 @@
 	add_trait = "humble"
 	add_trait = "chaste"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 51 = {
@@ -1261,7 +1261,7 @@
 	add_trait = "fair"
 	add_trait = "temperate"
 	add_trait = "gardener"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 52 = {
@@ -1288,7 +1288,7 @@
 	add_trait = "chaste"
 	add_trait = "sturdy"
 	add_trait = "genius"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 53 = {
@@ -1313,7 +1313,7 @@
 	add_trait = "temperate"
 	add_trait = "seducer"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 54 = {
@@ -1339,7 +1339,7 @@
 	add_trait = "duelist"
 	add_trait = "robust"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 55 = {
@@ -1365,7 +1365,7 @@
 	add_trait = "content"
 	add_trait = "scholar"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 56 = {
@@ -1390,7 +1390,7 @@
 	add_trait = "just"
 	add_trait = "fair"
 	add_trait = "scholar"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 57 = {
@@ -1417,7 +1417,7 @@
 	add_trait = "gregarious"
 	add_trait = "charitable"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 58 = {
@@ -1443,7 +1443,7 @@
 	add_trait = "proud"
 	add_trait = "gardener"
 	add_trait = "genius"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 59 = {
@@ -1473,7 +1473,7 @@
 	add_trait = "zealous"
 	add_trait = "honest"
 	add_trait = "poet"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 60 = {
@@ -1498,7 +1498,7 @@
 	add_trait = "fair"
 	add_trait = "honest"
 	add_trait = "administrator"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 61 = {
@@ -1525,7 +1525,7 @@
 	add_trait = "theologian"
 	add_trait = "content"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 62 = {
@@ -2279,7 +2279,7 @@
 	add_trait = "administrator"
 	add_trait = "scarred"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 108 = {
@@ -2310,7 +2310,7 @@
 	add_trait = "wroth"
 	add_trait = "chaste"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 109 = {
@@ -2337,7 +2337,7 @@
 	add_trait = "sturdy"
 	add_trait = "ambitious"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 110 = {
@@ -2369,7 +2369,7 @@
 	add_trait = "fair"
 	add_trait = "gardener"
 	add_trait = "strong"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 111 = {
@@ -2399,7 +2399,7 @@
 	add_trait = "diligent"
 	add_trait = "genius"
 	add_trait = "gardener"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 112 = {
@@ -2428,7 +2428,7 @@
 	add_trait = "shrewd"
 	add_trait = "gamer"
 	add_trait = "zealous"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 113 = {
@@ -2454,7 +2454,7 @@
 	add_trait = "theologian"
 	add_trait = "proud"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 114 = {
@@ -2481,7 +2481,7 @@
 	add_trait = "shrewd"
 	add_trait = "scholar"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 115 = {
@@ -2509,7 +2509,7 @@
 	add_trait = "humble"
 	add_trait = "temperate"
 	add_trait = "theologian"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 116 = {
@@ -2537,7 +2537,7 @@
 	add_trait = "scholar"
 	add_trait = "ambitious"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 117 = {
@@ -2564,7 +2564,7 @@
 	add_trait = "schemer"
 	add_trait = "envious"
 	add_trait = "zealous"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 118 = {
@@ -2613,7 +2613,7 @@
 	add_trait = "humble"
 	add_trait = "diligent"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 120 = {
@@ -2641,7 +2641,7 @@
 	add_trait = "kind"
 	add_trait = "sturdy"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 121 = {
@@ -2718,7 +2718,7 @@
 	add_trait = "ambitious"
 	add_trait = "strong"
 	add_trait = "genius"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 125 = {
@@ -2748,7 +2748,7 @@
 	add_trait = "envious"
 	add_trait = "patient"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 126 = {
@@ -2776,7 +2776,7 @@
 	add_trait = "genius"
 	add_trait = "temperate"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 127 = {
@@ -2803,7 +2803,7 @@
 	add_trait = "honest"
 	add_trait = "groomed"
 	add_trait = "robust"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 128 = {
@@ -2830,7 +2830,7 @@
 	add_trait = "proud"
 	add_trait = "mystic"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 129 = {
@@ -2856,7 +2856,7 @@
 	add_trait = "genius"
 	add_trait = "kind"
 	add_trait = "duelist"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 130 = {
@@ -2899,7 +2899,7 @@
 	add_trait = "groomed"
 	add_trait = "gregarious"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 132 = {
@@ -2926,7 +2926,7 @@
 	add_trait = "zealous"
 	add_trait = "chaste"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 133 = {
@@ -2953,7 +2953,7 @@
 	add_trait = "falconer"
 	add_trait = "robust"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 134 = {
@@ -2981,7 +2981,7 @@
 	add_trait = "temperate"
 	add_trait = "fair"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 135 = {
@@ -3007,7 +3007,7 @@
 	add_trait = "aggressive_leader"
 	add_trait = "strong"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 136 = {
@@ -3033,7 +3033,7 @@
 	add_trait = "chaste"
 	add_trait = "shrewd"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 137 = {
@@ -3087,7 +3087,7 @@
 	add_trait = "patient"
 	add_trait = "architect"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 139 = {
@@ -3140,7 +3140,7 @@
 	add_trait = "falconer"
 	add_trait = "ambitious"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 141 = {
@@ -3166,7 +3166,7 @@
 	add_trait = "erudite"
 	add_trait = "humble"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 142 = {
@@ -3196,7 +3196,7 @@
 	add_trait = "chaste"
 	add_trait = "duelist"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 143 = {
@@ -3222,7 +3222,7 @@
 	add_trait = "brave"
 	add_trait = "wroth"
 	add_trait = "poet"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 144 = {
@@ -3250,7 +3250,7 @@
 	add_trait = "charitable"
 	add_trait = "shrewd"
 	add_trait = "administrator"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 145 = {
@@ -3356,7 +3356,7 @@
 	add_trait = "shrewd"
 	add_trait = "just"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 151 = {
@@ -3389,7 +3389,7 @@
 	add_trait = "envious"
 	add_trait = "honest"
 	add_trait = "scholar"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 152 = {
@@ -3433,7 +3433,7 @@
 	add_trait = "shrewd"
 	add_trait = "fair"
 	add_trait = "administrator"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 154 = {
@@ -3459,7 +3459,7 @@
 	add_trait = "administrator"
 	add_trait = "shrewd"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 155 = {
@@ -3486,7 +3486,7 @@
 	add_trait = "proud"
 	add_trait = "falconer"
 	add_trait = "zealous"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 156 = {
@@ -3515,7 +3515,7 @@
 	add_trait = "kind"
 	add_trait = "erudite"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 157 = {
@@ -3541,7 +3541,7 @@
 	add_trait = "theologian"
 	add_trait = "patient"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 158 = {
@@ -3568,7 +3568,7 @@
 	add_trait = "envious"
 	add_trait = "theologian"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 159 = {
@@ -3594,7 +3594,7 @@
 	add_trait = "groomed"
 	add_trait = "strategist"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 160 = {
@@ -3620,7 +3620,7 @@
 	add_trait = "seducer"
 	add_trait = "erudite"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 161 = {
@@ -3648,7 +3648,7 @@
 	add_trait = "charitable"
 	add_trait = "ambitious"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 162 = {
@@ -3679,7 +3679,7 @@
 	add_trait = "scarred"
 	add_trait = "charitable"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 163 = {
@@ -3706,7 +3706,7 @@
 	add_trait = "gamer"
 	add_trait = "fair"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 164 = {
@@ -3734,7 +3734,7 @@
 	add_trait = "charitable"
 	add_trait = "architect"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 165 = {
@@ -3761,7 +3761,7 @@
 	add_trait = "fair"
 	add_trait = "groomed"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 166 = {
@@ -3789,7 +3789,7 @@
 	add_trait = "envious"
 	add_trait = "patient"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 167 = {
@@ -3815,7 +3815,7 @@
 	add_trait = "shrewd"
 	add_trait = "kind"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 168 = {
@@ -3848,7 +3848,7 @@
 	add_trait = "erudite"
 	add_trait = "groomed"
 	add_trait = "strong"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 169 = {
@@ -3875,7 +3875,7 @@
 	add_trait = "gardener"
 	add_trait = "sturdy"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 170 = {
@@ -3900,7 +3900,7 @@
 	add_trait = "charismatic_negotiator"
 	add_trait = "hedonist"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 171 = {
@@ -3931,7 +3931,7 @@
 	add_trait = "content"
 	add_trait = "groomed"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 172 = {
@@ -4072,7 +4072,7 @@
 	add_trait = "poet"
 	add_trait = "quick"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 180 = {
@@ -4101,7 +4101,7 @@
 	add_trait = "content"
 	add_trait = "scholar"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 181 = {
@@ -4130,7 +4130,7 @@
 	add_trait = "hunter"
 	add_trait = "brave"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 182 = {
@@ -4181,7 +4181,7 @@
 	add_trait = "schemer"
 	add_trait = "ambitious"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 184 = {
@@ -4208,7 +4208,7 @@
 	add_trait = "seducer"
 	add_trait = "kind"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 185 = {
@@ -4243,7 +4243,7 @@
 	add_trait = "shrewd"
 	add_trait = "honest"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 186 = {
@@ -4274,7 +4274,7 @@
 	add_trait = "duelist"
 	add_trait = "wroth"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 187 = {
@@ -4303,7 +4303,7 @@
 	add_trait = "content"
 	add_trait = "strategist"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 188 = {
@@ -4329,7 +4329,7 @@
 	add_trait = "humble"
 	add_trait = "chaste"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 189 = {
@@ -4359,7 +4359,7 @@
 	add_trait = "hunter"
 	add_trait = "diligent"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 190 = {
@@ -4384,7 +4384,7 @@
 	add_trait = "grey_eminence"
 	add_trait = "genius"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 191 = {
@@ -4413,7 +4413,7 @@
 	add_trait = "shrewd"
 	add_trait = "scarred"
 	add_trait = "socializer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 192 = {
@@ -4441,7 +4441,7 @@
 	add_trait = "architect"
 	add_trait = "proud"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 193 = {
@@ -4470,7 +4470,7 @@
 	add_trait = "theologian"
 	add_trait = "wroth"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 194 = {
@@ -4497,7 +4497,7 @@
 	add_trait = "trickster"
 	add_trait = "charitable"
 	add_trait = "zealous"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 195 = {
@@ -4525,7 +4525,7 @@
 	add_trait = "temperate"
 	add_trait = "poet"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 196 = {
@@ -4566,7 +4566,7 @@
 	add_trait = "chaste"
 	add_trait = "schemer"
 	add_trait = "erudite"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 198 = {
@@ -4646,7 +4646,7 @@
 	add_trait = "architect"
 	add_trait = "patient"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 202 = {
@@ -4672,7 +4672,7 @@
 	add_trait = "administrator"
 	add_trait = "temperate"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 203 = {
@@ -4703,7 +4703,7 @@
 	add_trait = "poet"
 	add_trait = "content"
 	add_trait = "robust"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 204 = {
@@ -4735,7 +4735,7 @@
 	add_trait = "greedy"
 	add_trait = "shrewd"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 205 = {
@@ -4766,7 +4766,7 @@
 	add_trait = "honest"
 	add_trait = "brave"
 	add_trait = "duelist"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 206 = {
@@ -4797,7 +4797,7 @@
 	add_trait = "gregarious"
 	add_trait = "envious"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 207 = {
@@ -4987,7 +4987,7 @@
 	add_trait = "robust"
 	add_trait = "strong"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 217 = {
@@ -5028,7 +5028,7 @@
 	add_trait = "architect"
 	add_trait = "ambitious"
 	add_trait = "humble"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 219 = {
@@ -5055,7 +5055,7 @@
 	add_trait = "humble"
 	add_trait = "fair"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 220 = {
@@ -5081,7 +5081,7 @@
 	add_trait = "humble"
 	add_trait = "duelist"
 	add_trait = "genius"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 221 = {
@@ -5109,7 +5109,7 @@
 	add_trait = "charitable"
 	add_trait = "schemer"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 222 = {
@@ -5135,7 +5135,7 @@
 	add_trait = "genius"
 	add_trait = "hedonist"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 223 = {
@@ -5161,7 +5161,7 @@
 	add_trait = "honest"
 	add_trait = "zealous"
 	add_trait = "socializer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 224 = {
@@ -5222,7 +5222,7 @@
 	add_trait = "paranoid"
 	add_trait = "duelist"
 	add_trait = "humble"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 227 = {
@@ -5252,7 +5252,7 @@
 	add_trait = "zealous"
 	add_trait = "impaler"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 228 = {
@@ -5280,7 +5280,7 @@
 	add_trait = "shrewd"
 	add_trait = "gamer"
 	add_trait = "robust"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 229 = {
@@ -5308,7 +5308,7 @@
 	add_trait = "sturdy"
 	add_trait = "quick"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 230 = {
@@ -5335,7 +5335,7 @@
 	add_trait = "experimenter"
 	add_trait = "diligent"
 	add_trait = "humble"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 231 = {
@@ -5361,7 +5361,7 @@
 	add_trait = "impaler"
 	add_trait = "honest"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 232 = {
@@ -5390,7 +5390,7 @@
 	add_trait = "envious"
 	add_trait = "temperate"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 233 = {
@@ -5417,7 +5417,7 @@
 	add_trait = "proud"
 	add_trait = "kind"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 234 = {
@@ -5447,7 +5447,7 @@
 	add_trait = "theologian"
 	add_trait = "gregarious"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 235 = {
@@ -5812,7 +5812,7 @@
 	add_trait = "hunter"
 	add_trait = "quick"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 259 = {
@@ -5837,7 +5837,7 @@
 	add_trait = "erudite"
 	add_trait = "charitable"
 	add_trait = "hedonist"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 260 = {
@@ -5863,7 +5863,7 @@
 	add_trait = "greedy"
 	add_trait = "scarred"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 261 = {
@@ -5889,7 +5889,7 @@
 	add_trait = "socializer"
 	add_trait = "sturdy"
 	add_trait = "humble"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 262 = {
@@ -5917,7 +5917,7 @@
 	add_trait = "paranoid"
 	add_trait = "diligent"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 263 = {
@@ -5973,7 +5973,7 @@
 	add_trait = "brave"
 	add_trait = "wroth"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 266 = {
@@ -6523,7 +6523,7 @@
 	add_trait = "quick"
 	add_trait = "patient"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 303 = {
@@ -6696,7 +6696,7 @@
 	add_trait = "mystic"
 	add_trait = "kind"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 313 = {
@@ -6723,7 +6723,7 @@
 	add_trait = "charitable"
 	add_trait = "theologian"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 314 = {
@@ -6755,7 +6755,7 @@
 	add_trait = "paranoid"
 	add_trait = "patient"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 315 = {
@@ -6782,7 +6782,7 @@
 	add_trait = "gregarious"
 	add_trait = "gardener"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 316 = {
@@ -6809,7 +6809,7 @@
 	add_trait = "fair"
 	add_trait = "duelist"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 317 = {
@@ -6863,7 +6863,7 @@
 	add_trait = "schemer"
 	add_trait = "ambitious"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 320 = {
@@ -6889,7 +6889,7 @@
 	add_trait = "shrewd"
 	add_trait = "just"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 321 = {
@@ -6913,7 +6913,7 @@
 	learning = 5
 	add_trait = "grey_eminence"
 	add_trait = "humble"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 322 = {
@@ -6940,7 +6940,7 @@
 	add_trait = "unyielding_leader"
 	add_trait = "content"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 323 = {
@@ -6968,7 +6968,7 @@
 	add_trait = "brave"
 	add_trait = "honest"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 324 = {
@@ -7074,7 +7074,7 @@
 	add_trait = "shrewd"
 	add_trait = "falconer"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 329 = {
@@ -7108,7 +7108,7 @@
 	add_trait = "honest"
 	add_trait = "diligent"
 	add_trait = "seducer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 330 = {
@@ -7138,7 +7138,7 @@
 	add_trait = "just"
 	add_trait = "zealous"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 331 = {
@@ -7164,7 +7164,7 @@
 	add_trait = "hedonist"
 	add_trait = "paranoid"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 332 = {
@@ -7191,7 +7191,7 @@
 	add_trait = "just"
 	add_trait = "sturdy"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 333 = {
@@ -7219,7 +7219,7 @@
 	add_trait = "theologian"
 	add_trait = "paranoid"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 334 = {
@@ -7250,7 +7250,7 @@
 	add_trait = "socializer"
 	add_trait = "envious"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 335 = {
@@ -7277,7 +7277,7 @@
 	add_trait = "proud"
 	add_trait = "zealous"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 336 = {
@@ -7318,7 +7318,7 @@
 	add_trait = "humble"
 	add_trait = "socializer"
 	add_trait = "erudite"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 338 = {
@@ -7344,7 +7344,7 @@
 	add_trait = "kind"
 	add_trait = "temperate"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 339 = {
@@ -7372,7 +7372,7 @@
 	add_trait = "wroth"
 	add_trait = "brave"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 340 = {
@@ -7402,7 +7402,7 @@
 	add_trait = "chaste"
 	add_trait = "humble"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 341 = {
@@ -7433,7 +7433,7 @@
 	add_trait = "strategist"
 	add_trait = "kind"
 	add_trait = "humble"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 342 = {
@@ -7461,7 +7461,7 @@
 	add_trait = "wroth"
 	add_trait = "gregarious"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 343 = {
@@ -7488,7 +7488,7 @@
 	add_trait = "humble"
 	add_trait = "fair"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 344 = {
@@ -7514,7 +7514,7 @@
 	add_trait = "brave"
 	add_trait = "poet"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 345 = {
@@ -7541,7 +7541,7 @@
 	add_trait = "charitable"
 	add_trait = "temperate"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 346 = {
@@ -7568,7 +7568,7 @@
 	add_trait = "chaste"
 	add_trait = "socializer"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 347 = {
@@ -7595,7 +7595,7 @@
 	add_trait = "gregarious"
 	add_trait = "content"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 348 = {
@@ -7638,7 +7638,7 @@
 	add_trait = "patient"
 	add_trait = "fair"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 350 = {
@@ -7700,7 +7700,7 @@
 	add_trait = "temperate"
 	add_trait = "socializer"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 353 = {
@@ -7898,7 +7898,7 @@
 	add_trait = "diligent"
 	add_trait = "strategist"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 363 = {
@@ -7946,7 +7946,7 @@
 	add_trait = "quick"
 	add_trait = "sturdy"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 365 = {
@@ -7978,7 +7978,7 @@
 	add_trait = "theologian"
 	add_trait = "envious"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 366 = {
@@ -8005,7 +8005,7 @@
 	add_trait = "proud"
 	add_trait = "sturdy"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 367 = {
@@ -8033,7 +8033,7 @@
 	add_trait = "wroth"
 	add_trait = "honest"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 368 = {
@@ -8060,7 +8060,7 @@
 	add_trait = "humble"
 	add_trait = "erudite"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 369 = {
@@ -8088,7 +8088,7 @@
 	add_trait = "erudite"
 	add_trait = "quick"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 370 = {
@@ -8117,7 +8117,7 @@
 	add_trait = "fair"
 	add_trait = "proud"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 371 = {
@@ -8144,7 +8144,7 @@
 	add_trait = "shrewd"
 	add_trait = "mystic"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 372 = {
@@ -8170,7 +8170,7 @@
 	add_trait = "strategist"
 	add_trait = "brave"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 373 = {
@@ -8195,7 +8195,7 @@
 	learning = 7
 	add_trait = "charismatic_negotiator"
 	add_trait = "genius"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 374 = {
@@ -8225,7 +8225,7 @@
 	add_trait = "temperate"
 	add_trait = "administrator"
 	add_trait = "robust"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 375 = {
@@ -8256,7 +8256,7 @@
 	add_trait = "robust"
 	add_trait = "content"
 	add_trait = "erudite"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 376 = {
@@ -8281,7 +8281,7 @@
 	add_trait = "scholarly_theologian"
 	add_trait = "genius"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 377 = {
@@ -8308,7 +8308,7 @@
 	add_trait = "patient"
 	add_trait = "mystic"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 378 = {
@@ -8335,7 +8335,7 @@
 	add_trait = "shrewd"
 	add_trait = "duelist"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 379 = {
@@ -8431,7 +8431,7 @@
 	add_trait = "humble"
 	add_trait = "schemer"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 385 = {
@@ -8457,7 +8457,7 @@
 	add_trait = "architect"
 	add_trait = "chaste"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 386 = {
@@ -8609,7 +8609,7 @@
 	add_trait = "paranoid"
 	add_trait = "proud"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 394 = {
@@ -8640,7 +8640,7 @@
 	add_trait = "proud"
 	add_trait = "brave"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 395 = {
@@ -8671,7 +8671,7 @@
 	add_trait = "groomed"
 	add_trait = "hunter"
 	add_trait = "humble"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 396 = {
@@ -8716,7 +8716,7 @@
 	add_trait = "brave"
 	add_trait = "robust"
 	add_trait = "gamer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 398 = {
@@ -8743,7 +8743,7 @@
 	add_trait = "just"
 	add_trait = "honest"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 399 = {
@@ -8772,7 +8772,7 @@
 	add_trait = "chaste"
 	add_trait = "groomed"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 400 = {
@@ -8799,7 +8799,7 @@
 	add_trait = "brave"
 	add_trait = "genius"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 401 = {
@@ -8827,7 +8827,7 @@
 	add_trait = "strategist"
 	add_trait = "scarred"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 402 = {
@@ -8856,7 +8856,7 @@
 	add_trait = "poet"
 	add_trait = "groomed"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 403 = {
@@ -8882,7 +8882,7 @@
 	add_trait = "robust"
 	add_trait = "humble"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 404 = {
@@ -8925,7 +8925,7 @@
 	add_trait = "honest"
 	add_trait = "ambitious"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 406 = {
@@ -8995,7 +8995,7 @@
 	add_trait = "content"
 	add_trait = "gregarious"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 410 = {
@@ -9021,7 +9021,7 @@
 	add_trait = "just"
 	add_trait = "mystic"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 411 = {
@@ -9301,7 +9301,7 @@
 	add_trait = "patient"
 	add_trait = "scholar"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 426 = {
@@ -9353,7 +9353,7 @@
 	add_trait = "proud"
 	add_trait = "groomed"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 428 = {
@@ -9384,7 +9384,7 @@
 	add_trait = "chaste"
 	add_trait = "paranoid"
 	add_trait = "robust"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 429 = {
@@ -9418,7 +9418,7 @@
 	add_trait = "mystic"
 	add_trait = "sturdy"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 430 = {
@@ -9445,7 +9445,7 @@
 	add_trait = "erudite"
 	add_trait = "gardener"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 431 = {
@@ -9472,7 +9472,7 @@
 	add_trait = "humble"
 	add_trait = "patient"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 432 = {
@@ -9501,7 +9501,7 @@
 	add_trait = "humble"
 	add_trait = "wroth"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 433 = {
@@ -9537,7 +9537,7 @@
 	add_trait = "hunter"
 	add_trait = "shrewd"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 434 = {
@@ -9570,7 +9570,7 @@
 	add_trait = "groomed"
 	add_trait = "erudite"
 	add_trait = "mystic"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 435 = {
@@ -9601,7 +9601,7 @@
 	add_trait = "honest"
 	add_trait = "paranoid"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 436 = {
@@ -9626,7 +9626,7 @@
 	add_trait = "hedonist"
 	add_trait = "scarred"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 437 = {
@@ -9655,7 +9655,7 @@
 	add_trait = "patient"
 	add_trait = "fair"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 438 = {
@@ -9681,7 +9681,7 @@
 	add_trait = "brilliant_strategist"
 	add_trait = "heavy_infantry_leader"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 439 = {
@@ -9708,7 +9708,7 @@
 	add_trait = "fair"
 	add_trait = "duelist"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 440 = {
@@ -9734,7 +9734,7 @@
 	add_trait = "greedy"
 	add_trait = "mystic"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 441 = {
@@ -9760,7 +9760,7 @@
 	add_trait = "mastermind_theologian"
 	add_trait = "diligent"
 	add_trait = "strategist"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 442 = {
@@ -9938,7 +9938,7 @@
 	add_trait = "brave"
 	add_trait = "wroth"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 451 = {
@@ -9968,7 +9968,7 @@
 	add_trait = "diligent"
 	add_trait = "sturdy"
 	add_trait = "strong"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 452 = {
@@ -9999,7 +9999,7 @@
 	add_trait = "quick"
 	add_trait = "temperate"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 453 = {
@@ -10029,7 +10029,7 @@
 	add_trait = "greedy"
 	add_trait = "chaste"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 454 = {
@@ -10064,7 +10064,7 @@
 	add_trait = "charitable"
 	add_trait = "humble"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 455 = {
@@ -10090,7 +10090,7 @@
 	add_trait = "just"
 	add_trait = "humble"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 456 = {
@@ -10118,7 +10118,7 @@
 	add_trait = "groomed"
 	add_trait = "paranoid"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 457 = {
@@ -10150,7 +10150,7 @@
 	add_trait = "gamer"
 	add_trait = "greedy"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 458 = {
@@ -10178,7 +10178,7 @@
 	add_trait = "mystic"
 	add_trait = "genius"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 459 = {
@@ -10204,7 +10204,7 @@
 	add_trait = "quick"
 	add_trait = "socializer"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 460 = {
@@ -10231,7 +10231,7 @@
 	add_trait = "shrewd"
 	add_trait = "envious"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 461 = {
@@ -10259,7 +10259,7 @@
 	add_trait = "temperate"
 	add_trait = "ambitious"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 462 = {
@@ -10286,7 +10286,7 @@
 	add_trait = "shrewd"
 	add_trait = "sturdy"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 463 = {
@@ -10315,7 +10315,7 @@
 	add_trait = "proud"
 	add_trait = "ambitious"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 464 = {
@@ -10343,7 +10343,7 @@
 	add_trait = "wroth"
 	add_trait = "mystic"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 465 = {
@@ -10370,7 +10370,7 @@
 	add_trait = "groomed"
 	add_trait = "charitable"
 	add_trait = "scholar"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 466 = {
@@ -10396,7 +10396,7 @@
 	add_trait = "poet"
 	add_trait = "humble"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 467 = {
@@ -10424,7 +10424,7 @@
 	add_trait = "ambitious"
 	add_trait = "wroth"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 468 = {
@@ -10481,7 +10481,7 @@
 	add_trait = "quick"
 	add_trait = "humble"
 	add_trait = "hedonist"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 471 = {
@@ -10507,7 +10507,7 @@
 	add_trait = "diligent"
 	add_trait = "wroth"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 472 = {
@@ -10532,7 +10532,7 @@
 	add_trait = "elusive_shadow"
 	add_trait = "brave"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 473 = {
@@ -10563,7 +10563,7 @@
 	add_trait = "architect"
 	add_trait = "just"
 	add_trait = "genius"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 474 = {
@@ -10591,7 +10591,7 @@
 	add_trait = "chaste"
 	add_trait = "content"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 475 = {
@@ -10623,7 +10623,7 @@
 	add_trait = "zealous"
 	add_trait = "gregarious"
 	add_trait = "poet"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 476 = {
@@ -10651,7 +10651,7 @@
 	add_trait = "scholar"
 	add_trait = "honest"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 477 = {
@@ -10678,7 +10678,7 @@
 	add_trait = "poet"
 	add_trait = "paranoid"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 478 = {
@@ -10725,7 +10725,7 @@
 	add_trait = "temperate"
 	add_trait = "envious"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 480 = {
@@ -10841,7 +10841,7 @@
 	add_trait = "ambitious"
 	add_trait = "wroth"
 	add_trait = "strong"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 486 = {
@@ -10867,7 +10867,7 @@
 	add_trait = "shrewd"
 	add_trait = "brave"
 	add_trait = "duelist"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 487 = {
@@ -10910,7 +10910,7 @@
 	add_trait = "shrewd"
 	add_trait = "diligent"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 489 = {
@@ -10937,7 +10937,7 @@
 	add_trait = "duelist"
 	add_trait = "patient"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 490 = {
@@ -10965,7 +10965,7 @@
 	add_trait = "content"
 	add_trait = "kind"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 491 = {
@@ -10990,7 +10990,7 @@
 	add_trait = "seducer"
 	add_trait = "honest"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 492 = {
@@ -11016,7 +11016,7 @@
 	add_trait = "wroth"
 	add_trait = "ambitious"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 493 = {
@@ -11074,7 +11074,7 @@
 	add_trait = "patient"
 	add_trait = "socializer"
 	add_trait = "genius"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 496 = {
@@ -11101,7 +11101,7 @@
 	add_trait = "mystic"
 	add_trait = "just"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 497 = {
@@ -11127,7 +11127,7 @@
 	add_trait = "genius"
 	add_trait = "architect"
 	add_trait = "robust"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 498 = {
@@ -11154,7 +11154,7 @@
 	add_trait = "mystic"
 	add_trait = "content"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 499 = {
@@ -11198,7 +11198,7 @@
 	add_trait = "erudite"
 	add_trait = "brave"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 501 = {
@@ -11229,7 +11229,7 @@
 	add_trait = "gamer"
 	add_trait = "wroth"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 502 = {
@@ -11285,7 +11285,7 @@
 	add_trait = "genius"
 	add_trait = "groomed"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 504 = {
@@ -11312,7 +11312,7 @@
 	add_trait = "robust"
 	add_trait = "kind"
 	add_trait = "schemer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 505 = {
@@ -11341,7 +11341,7 @@
 	add_trait = "greedy"
 	add_trait = "brave"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 506 = {
@@ -11375,7 +11375,7 @@
 	add_trait = "quick"
 	add_trait = "administrator"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 507 = {
@@ -11402,7 +11402,7 @@
 	add_trait = "narrow_flank_leader"
 	add_trait = "content"
 	add_trait = "zealous"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 508 = {
@@ -11429,7 +11429,7 @@
 	add_trait = "patient"
 	add_trait = "just"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 509 = {
@@ -11455,7 +11455,7 @@
 	add_trait = "hunter"
 	add_trait = "patient"
 	add_trait = "erudite"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 510 = {
@@ -11482,7 +11482,7 @@
 	add_trait = "wroth"
 	add_trait = "diligent"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 511 = {
@@ -11508,7 +11508,7 @@
 	add_trait = "paranoid"
 	add_trait = "impaler"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 512 = {
@@ -11533,7 +11533,7 @@
 	add_trait = "fair"
 	add_trait = "seducer"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 513 = {
@@ -11604,7 +11604,7 @@
 	add_trait = "theologian"
 	add_trait = "diligent"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 517 = {
@@ -11630,7 +11630,7 @@
 	add_trait = "duelist"
 	add_trait = "greedy"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 518 = {
@@ -11716,7 +11716,7 @@
 	add_trait = "groomed"
 	add_trait = "architect"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 523 = {
@@ -11745,7 +11745,7 @@
 	add_trait = "socializer"
 	add_trait = "charitable"
 	add_trait = "zealous"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 524 = {
@@ -11772,7 +11772,7 @@
 	add_trait = "just"
 	add_trait = "hunter"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 525 = {
@@ -11800,7 +11800,7 @@
 	add_trait = "ambitious"
 	add_trait = "chaste"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 526 = {
@@ -11828,7 +11828,7 @@
 	add_trait = "temperate"
 	add_trait = "charitable"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 527 = {
@@ -11855,7 +11855,7 @@
 	add_trait = "poet"
 	add_trait = "diligent"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 528 = {
@@ -11882,7 +11882,7 @@
 	add_trait = "chaste"
 	add_trait = "fair"
 	add_trait = "duelist"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 529 = {
@@ -11908,7 +11908,7 @@
 	add_trait = "falconer"
 	add_trait = "paranoid"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 530 = {
@@ -11938,7 +11938,7 @@
 	add_trait = "gardener"
 	add_trait = "erudite"
 	add_trait = "genius"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 531 = {
@@ -11970,7 +11970,7 @@
 	add_trait = "groomed"
 	add_trait = "robust"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 532 = {
@@ -11999,7 +11999,7 @@
 	add_trait = "quick"
 	add_trait = "gamer"
 	add_trait = "erudite"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 533 = {
@@ -12028,7 +12028,7 @@
 	add_trait = "envious"
 	add_trait = "greedy"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 534 = {
@@ -12055,7 +12055,7 @@
 	add_trait = "sturdy"
 	add_trait = "proud"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 535 = {
@@ -12443,7 +12443,7 @@
 	add_trait = "socializer"
 	add_trait = "fair"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 556 = {
@@ -12470,7 +12470,7 @@
 	add_trait = "socializer"
 	add_trait = "patient"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 557 = {
@@ -12497,7 +12497,7 @@
 	add_trait = "shrewd"
 	add_trait = "gregarious"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 558 = {
@@ -12571,7 +12571,7 @@
 	add_trait = "zealous"
 	add_trait = "shrewd"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 562 = {
@@ -12597,7 +12597,7 @@
 	add_trait = "envious"
 	add_trait = "scarred"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 563 = {
@@ -12624,7 +12624,7 @@
 	add_trait = "wroth"
 	add_trait = "scarred"
 	add_trait = "robust"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 564 = {
@@ -12718,7 +12718,7 @@
 	add_trait = "brave"
 	add_trait = "greedy"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 569 = {
@@ -12747,7 +12747,7 @@
 	add_trait = "brave"
 	add_trait = "shrewd"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 570 = {
@@ -12830,7 +12830,7 @@
 	add_trait = "groomed"
 	add_trait = "patient"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 574 = {
@@ -12858,7 +12858,7 @@
 	add_trait = "zealous"
 	add_trait = "paranoid"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 575 = {
@@ -12889,7 +12889,7 @@
 	add_trait = "schemer"
 	add_trait = "proud"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 576 = {
@@ -12920,7 +12920,7 @@
 	add_trait = "ambitious"
 	add_trait = "zealous"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 577 = {
@@ -12947,7 +12947,7 @@
 	add_trait = "kind"
 	add_trait = "gamer"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 578 = {
@@ -12987,7 +12987,7 @@
 	add_trait = "hedonist"
 	add_trait = "strong"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 580 = {
@@ -13014,7 +13014,7 @@
 	add_trait = "shrewd"
 	add_trait = "administrator"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 581 = {
@@ -13046,7 +13046,7 @@
 	add_trait = "kind"
 	add_trait = "fair"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 582 = {
@@ -13080,7 +13080,7 @@
 	add_trait = "temperate"
 	add_trait = "poet"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 583 = {
@@ -13113,7 +13113,7 @@
 	add_trait = "shrewd"
 	add_trait = "proud"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 584 = {
@@ -13165,7 +13165,7 @@
 	add_trait = "hunter"
 	add_trait = "wroth"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 586 = {
@@ -13193,7 +13193,7 @@
 	add_trait = "charitable"
 	add_trait = "ambitious"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 587 = {
@@ -13219,7 +13219,7 @@
 	add_trait = "honest"
 	add_trait = "impaler"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 588 = {
@@ -13249,7 +13249,7 @@
 	add_trait = "fair"
 	add_trait = "architect"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 589 = {
@@ -13275,7 +13275,7 @@
 	add_trait = "charitable"
 	add_trait = "diligent"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 590 = {
@@ -13299,7 +13299,7 @@
 	add_trait = "humble"
 	add_trait = "honest"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 591 = {
@@ -13327,7 +13327,7 @@
 	add_trait = "aggressive_leader"
 	add_trait = "schemer"
 	add_trait = "strong"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 592 = {
@@ -13356,7 +13356,7 @@
 	add_trait = "impaler"
 	add_trait = "patient"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 593 = {
@@ -13386,7 +13386,7 @@
 	add_trait = "administrator"
 	add_trait = "patient"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 594 = {
@@ -13412,7 +13412,7 @@
 	add_trait = "brave"
 	add_trait = "groomed"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 595 = {
@@ -13437,7 +13437,7 @@
 	add_trait = "grey_eminence"
 	add_trait = "hedonist"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 596 = {
@@ -13464,7 +13464,7 @@
 	add_trait = "groomed"
 	add_trait = "gamer"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 597 = {
@@ -13495,7 +13495,7 @@
 	add_trait = "impaler"
 	add_trait = "ambitious"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 598 = {
@@ -13523,7 +13523,7 @@
 	add_trait = "administrator"
 	add_trait = "charitable"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 599 = {
@@ -13551,7 +13551,7 @@
 	add_trait = "temperate"
 	add_trait = "quick"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 600 = {
@@ -13578,7 +13578,7 @@
 	add_trait = "diligent"
 	add_trait = "honest"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 601 = {
@@ -13605,7 +13605,7 @@
 	add_trait = "brave"
 	add_trait = "gamer"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 602 = {
@@ -13632,7 +13632,7 @@
 	add_trait = "kind"
 	add_trait = "humble"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 603 = {
@@ -13660,7 +13660,7 @@
 	add_trait = "mystic"
 	add_trait = "charitable"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 604 = {
@@ -13687,7 +13687,7 @@
 	add_trait = "genius"
 	add_trait = "honest"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 605 = {
@@ -13717,7 +13717,7 @@
 	add_trait = "diligent"
 	add_trait = "poet"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 606 = {
@@ -13792,7 +13792,7 @@
 	add_trait = "socializer"
 	add_trait = "just"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 610 = {
@@ -13817,7 +13817,7 @@
 	add_trait = "grey_eminence"
 	add_trait = "quick"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 611 = {
@@ -13844,7 +13844,7 @@
 	add_trait = "diligent"
 	add_trait = "kind"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 612 = {
@@ -13869,7 +13869,7 @@
 	add_trait = "just"
 	add_trait = "patient"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 613 = {
@@ -13990,7 +13990,7 @@
 	add_trait = "proud"
 	add_trait = "scholar"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 619 = {
@@ -14017,7 +14017,7 @@
 	add_trait = "diligent"
 	add_trait = "strategist"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 620 = {
@@ -14071,7 +14071,7 @@
 	add_trait = "patient"
 	add_trait = "poet"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 622 = {
@@ -14124,7 +14124,7 @@
 	add_trait = "proud"
 	add_trait = "robust"
 	add_trait = "poet"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 624 = {
@@ -14157,7 +14157,7 @@
 	add_trait = "genius"
 	add_trait = "schemer"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 625 = {
@@ -14185,7 +14185,7 @@
 	add_trait = "envious"
 	add_trait = "schemer"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 626 = {
@@ -14212,7 +14212,7 @@
 	add_trait = "genius"
 	add_trait = "paranoid"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 627 = {
@@ -14242,7 +14242,7 @@
 	add_trait = "schemer"
 	add_trait = "robust"
 	add_trait = "erudite"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 628 = {
@@ -14267,7 +14267,7 @@
 	add_trait = "scholarly_theologian"
 	add_trait = "robust"
 	add_trait = "mystic"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 629 = {
@@ -14293,7 +14293,7 @@
 	add_trait = "underhanded_rogue"
 	add_trait = "humble"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 630 = {
@@ -14382,7 +14382,7 @@
 	add_trait = "strategist"
 	add_trait = "greedy"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 635 = {
@@ -14409,7 +14409,7 @@
 	add_trait = "proud"
 	add_trait = "schemer"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 636 = {
@@ -14435,7 +14435,7 @@
 	add_trait = "duelist"
 	add_trait = "humble"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 637 = {
@@ -14462,7 +14462,7 @@
 	add_trait = "paranoid"
 	add_trait = "greedy"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 638 = {
@@ -14488,7 +14488,7 @@
 	add_trait = "groomed"
 	add_trait = "paranoid"
 	add_trait = "architect"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 639 = {
@@ -14629,7 +14629,7 @@
 	add_trait = "temperate"
 	add_trait = "impaler"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 647 = {
@@ -14657,7 +14657,7 @@
 	add_trait = "strategist"
 	add_trait = "ambitious"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 648 = {
@@ -14686,7 +14686,7 @@
 	add_trait = "temperate"
 	add_trait = "sturdy"
 	add_trait = "duelist"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 649 = {
@@ -14714,7 +14714,7 @@
 	add_trait = "gregarious"
 	add_trait = "fair"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 650 = {
@@ -14746,7 +14746,7 @@
 	add_trait = "envious"
 	add_trait = "wroth"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 651 = {
@@ -14820,7 +14820,7 @@
 	add_trait = "just"
 	add_trait = "gregarious"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 655 = {
@@ -14845,7 +14845,7 @@
 	add_trait = "patient"
 	add_trait = "scholar"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 656 = {
@@ -14873,7 +14873,7 @@
 	add_trait = "seducer"
 	add_trait = "envious"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 657 = {
@@ -14900,7 +14900,7 @@
 	add_trait = "groomed"
 	add_trait = "shrewd"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 658 = {
@@ -14958,7 +14958,7 @@
 	add_trait = "poet"
 	add_trait = "robust"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 661 = {
@@ -14983,7 +14983,7 @@
 	add_trait = "genius"
 	add_trait = "ambitious"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 662 = {
@@ -15007,7 +15007,7 @@
 	add_trait = "brave"
 	add_trait = "theologian"
 	add_trait = "humble"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 663 = {
@@ -15070,7 +15070,7 @@
 	add_trait = "scholar"
 	add_trait = "content"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 666 = {
@@ -15096,7 +15096,7 @@
 	add_trait = "theologian"
 	add_trait = "quick"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 667 = {
@@ -15124,7 +15124,7 @@
 	add_trait = "greedy"
 	add_trait = "schemer"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 668 = {
@@ -15150,7 +15150,7 @@
 	add_trait = "mystic"
 	add_trait = "honest"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 669 = {
@@ -15224,7 +15224,7 @@
 	add_trait = "temperate"
 	add_trait = "erudite"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 673 = {
@@ -15251,7 +15251,7 @@
 	add_trait = "seducer"
 	add_trait = "temperate"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 674 = {
@@ -15279,7 +15279,7 @@
 	add_trait = "wroth"
 	add_trait = "ambitious"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 675 = {
@@ -15306,7 +15306,7 @@
 	add_trait = "honest"
 	add_trait = "chaste"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 676 = {
@@ -15335,7 +15335,7 @@
 	add_trait = "groomed"
 	add_trait = "gregarious"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 677 = {
@@ -15360,7 +15360,7 @@
 	add_trait = "shrewd"
 	add_trait = "content"
 	add_trait = "gardener"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 678 = {
@@ -15387,7 +15387,7 @@
 	add_trait = "groomed"
 	add_trait = "zealous"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 679 = {
@@ -15545,7 +15545,7 @@
 	add_trait = "wroth"
 	add_trait = "charitable"
 	add_trait = "humble"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 688 = {
@@ -15578,7 +15578,7 @@
 	add_trait = "honest"
 	add_trait = "fair"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 689 = {
@@ -15605,7 +15605,7 @@
 	add_trait = "chaste"
 	add_trait = "fair"
 	add_trait = "falconer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 690 = {
@@ -15633,7 +15633,7 @@
 	add_trait = "wroth"
 	add_trait = "shrewd"
 	add_trait = "gardener"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 691 = {
@@ -15661,7 +15661,7 @@
 	add_trait = "just"
 	add_trait = "gamer"
 	add_trait = "erudite"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 692 = {
@@ -15687,7 +15687,7 @@
 	add_trait = "seducer"
 	add_trait = "honest"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 693 = {
@@ -15730,7 +15730,7 @@
 	add_trait = "charitable"
 	add_trait = "scholar"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 695 = {
@@ -15758,7 +15758,7 @@
 	add_trait = "erudite"
 	add_trait = "sturdy"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 696 = {
@@ -15786,7 +15786,7 @@
 	add_trait = "falconer"
 	add_trait = "kind"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 697 = {
@@ -15818,7 +15818,7 @@
 	add_trait = "diligent"
 	add_trait = "shrewd"
 	add_trait = "seducer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 698 = {
@@ -15850,7 +15850,7 @@
 	add_trait = "brave"
 	add_trait = "wroth"
 	add_trait = "robust"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 699 = {
@@ -15879,7 +15879,7 @@
 	add_trait = "sturdy"
 	add_trait = "quick"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 700 = {
@@ -15906,7 +15906,7 @@
 	add_trait = "content"
 	add_trait = "quick"
 	add_trait = "falconer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 701 = {
@@ -15933,7 +15933,7 @@
 	add_trait = "gregarious"
 	add_trait = "architect"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 702 = {
@@ -15964,7 +15964,7 @@
 	add_trait = "ambitious"
 	add_trait = "patient"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 703 = {
@@ -15997,7 +15997,7 @@
 	add_trait = "envious"
 	add_trait = "brave"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 704 = {
@@ -16026,7 +16026,7 @@
 	add_trait = "honest"
 	add_trait = "temperate"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 705 = {
@@ -16054,7 +16054,7 @@
 	add_trait = "administrator"
 	add_trait = "ambitious"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 706 = {
@@ -16081,7 +16081,7 @@
 	add_trait = "fair"
 	add_trait = "honest"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 707 = {
@@ -16111,7 +16111,7 @@
 	add_trait = "kind"
 	add_trait = "genius"
 	add_trait = "theologian"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 708 = {
@@ -16139,7 +16139,7 @@
 	add_trait = "seducer"
 	add_trait = "honest"
 	add_trait = "robust"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 709 = {
@@ -16165,7 +16165,7 @@
 	add_trait = "content"
 	add_trait = "groomed"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 710 = {
@@ -16318,7 +16318,7 @@
 	add_trait = "scholar"
 	add_trait = "gregarious"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 718 = {
@@ -16349,7 +16349,7 @@
 	add_trait = "greedy"
 	add_trait = "strong"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 719 = {
@@ -16380,7 +16380,7 @@
 	add_trait = "groomed"
 	add_trait = "strategist"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 720 = {
@@ -16407,7 +16407,7 @@
 	add_trait = "administrator"
 	add_trait = "brave"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 721 = {
@@ -16501,7 +16501,7 @@
 	add_trait = "ambitious"
 	add_trait = "poet"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 726 = {
@@ -16565,7 +16565,7 @@
 	add_trait = "scarred"
 	add_trait = "hunter"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 729 = {
@@ -16593,7 +16593,7 @@
 	add_trait = "strategist"
 	add_trait = "sturdy"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 730 = {
@@ -16705,7 +16705,7 @@
 	add_trait = "patient"
 	add_trait = "humble"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 737 = {
@@ -16737,7 +16737,7 @@
 	add_trait = "humble"
 	add_trait = "temperate"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 738 = {
@@ -16790,7 +16790,7 @@
 	add_trait = "tough_soldier"
 	add_trait = "holy_warrior"
 	add_trait = "genius"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 741 = {
@@ -16996,7 +16996,7 @@
 	add_trait = "erudite"
 	add_trait = "schemer"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 752 = {
@@ -17026,7 +17026,7 @@
 	add_trait = "genius"
 	add_trait = "diligent"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 753 = {
@@ -17058,7 +17058,7 @@
 	add_trait = "honest"
 	add_trait = "quick"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 754 = {
@@ -17087,7 +17087,7 @@
 	add_trait = "gamer"
 	add_trait = "envious"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 755 = {
@@ -17120,7 +17120,7 @@
 	add_trait = "zealous"
 	add_trait = "temperate"
 	add_trait = "scholar"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 756 = {
@@ -17148,7 +17148,7 @@
 	add_trait = "content"
 	add_trait = "zealous"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 757 = {
@@ -17175,7 +17175,7 @@
 	add_trait = "theologian"
 	add_trait = "kind"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 758 = {
@@ -17201,7 +17201,7 @@
 	add_trait = "sturdy"
 	add_trait = "mystic"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 759 = {
@@ -17227,7 +17227,7 @@
 	add_trait = "diligent"
 	add_trait = "quick"
 	add_trait = "gamer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 760 = {
@@ -17255,7 +17255,7 @@
 	add_trait = "shrewd"
 	add_trait = "wroth"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 761 = {
@@ -17283,7 +17283,7 @@
 	add_trait = "content"
 	add_trait = "greedy"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 762 = {
@@ -17309,7 +17309,7 @@
 	add_trait = "envious"
 	add_trait = "charitable"
 	add_trait = "mystic"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 763 = {
@@ -17335,7 +17335,7 @@
 	add_trait = "administrator"
 	add_trait = "temperate"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 764 = {
@@ -17364,7 +17364,7 @@
 	add_trait = "architect"
 	add_trait = "envious"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 765 = {
@@ -17391,7 +17391,7 @@
 	add_trait = "light_foot_leader"
 	add_trait = "chaste"
 	add_trait = "erudite"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 766 = {
@@ -17419,7 +17419,7 @@
 	add_trait = "scholar"
 	add_trait = "ambitious"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 767 = {
@@ -17447,7 +17447,7 @@
 	add_trait = "wroth"
 	add_trait = "quick"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 768 = {
@@ -17473,7 +17473,7 @@
 	add_trait = "proud"
 	add_trait = "quick"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 769 = {
@@ -17497,7 +17497,7 @@
 	add_trait = "flamboyant_schemer"
 	add_trait = "quick"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 770 = {
@@ -17549,7 +17549,7 @@
 	add_trait = "diligent"
 	add_trait = "quick"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 773 = {
@@ -17576,7 +17576,7 @@
 	add_trait = "proud"
 	add_trait = "wroth"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 774 = {
@@ -17616,7 +17616,7 @@
 	add_trait = "diligent"
 	add_trait = "charitable"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 776 = {
@@ -17641,7 +17641,7 @@
 	add_trait = "honest"
 	add_trait = "schemer"
 	add_trait = "zealous"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 777 = {
@@ -17673,7 +17673,7 @@
 	add_trait = "content"
 	add_trait = "just"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 778 = {
@@ -17702,7 +17702,7 @@
 	add_trait = "schemer"
 	add_trait = "paranoid"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 779 = {
@@ -17729,7 +17729,7 @@
 	add_trait = "content"
 	add_trait = "charitable"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 780 = {
@@ -17755,7 +17755,7 @@
 	add_trait = "naive_appeaser"
 	add_trait = "zealous"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 781 = {
@@ -17803,7 +17803,7 @@
 	add_trait = "ambitious"
 	add_trait = "brave"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 783 = {
@@ -17831,7 +17831,7 @@
 	add_trait = "gardener"
 	add_trait = "kind"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 784 = {
@@ -17857,7 +17857,7 @@
 	add_trait = "theologian"
 	add_trait = "sturdy"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 785 = {
@@ -17884,7 +17884,7 @@
 	add_trait = "quick"
 	add_trait = "just"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 786 = {
@@ -17916,7 +17916,7 @@
 	add_trait = "proud"
 	add_trait = "wroth"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 787 = {
@@ -17945,7 +17945,7 @@
 	add_trait = "genius"
 	add_trait = "chaste"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 788 = {
@@ -17972,7 +17972,7 @@
 	add_trait = "diligent"
 	add_trait = "chaste"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 789 = {
@@ -17999,7 +17999,7 @@
 	add_trait = "wroth"
 	add_trait = "quick"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 790 = {
@@ -18024,7 +18024,7 @@
 	add_trait = "diligent"
 	add_trait = "genius"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 791 = {
@@ -18050,7 +18050,7 @@
 	add_trait = "humble"
 	add_trait = "sturdy"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 792 = {
@@ -18108,7 +18108,7 @@
 	learning = 5
 	add_trait = "grey_eminence"
 	add_trait = "humble"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 795 = {
@@ -18162,7 +18162,7 @@
 	add_trait = "scholarly_theologian"
 	add_trait = "schemer"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 798 = {
@@ -18244,7 +18244,7 @@
 	add_trait = "socializer"
 	add_trait = "sturdy"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 802 = {
@@ -18276,7 +18276,7 @@
 	add_trait = "ambitious"
 	add_trait = "quick"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 803 = {
@@ -18304,7 +18304,7 @@
 	add_trait = "falconer"
 	add_trait = "brave"
 	add_trait = "strong"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 804 = {
@@ -18331,7 +18331,7 @@
 	add_trait = "narrow_flank_leader"
 	add_trait = "patient"
 	add_trait = "administrator"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 805 = {
@@ -18358,7 +18358,7 @@
 	add_trait = "greedy"
 	add_trait = "just"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 806 = {
@@ -18385,7 +18385,7 @@
 	add_trait = "socializer"
 	add_trait = "paranoid"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 807 = {
@@ -18411,7 +18411,7 @@
 	add_trait = "elusive_shadow"
 	add_trait = "content"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 808 = {
@@ -18440,7 +18440,7 @@
 	add_trait = "patient"
 	add_trait = "chaste"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 809 = {
@@ -18585,7 +18585,7 @@
 	add_trait = "shrewd"
 	add_trait = "fair"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 817 = {
@@ -18612,7 +18612,7 @@
 	add_trait = "diligent"
 	add_trait = "schemer"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 818 = {
@@ -18692,7 +18692,7 @@
 	add_trait = "envious"
 	add_trait = "scarred"
 	add_trait = "architect"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 822 = {
@@ -18794,7 +18794,7 @@
 	add_trait = "groomed"
 	add_trait = "administrator"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 827 = {
@@ -18821,7 +18821,7 @@
 	add_trait = "scholar"
 	add_trait = "brave"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 828 = {
@@ -18850,7 +18850,7 @@
 	add_trait = "charitable"
 	add_trait = "shrewd"
 	add_trait = "administrator"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 829 = {
@@ -18916,7 +18916,7 @@
 	add_trait = "patient"
 	add_trait = "gregarious"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 832 = {
@@ -18943,7 +18943,7 @@
 	add_trait = "proud"
 	add_trait = "temperate"
 	add_trait = "architect"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 833 = {
@@ -19000,7 +19000,7 @@
 	add_trait = "strong"
 	add_trait = "impaler"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 835 = {
@@ -19028,7 +19028,7 @@
 	add_trait = "temperate"
 	add_trait = "theologian"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 836 = {
@@ -19056,7 +19056,7 @@
 	add_trait = "mystic"
 	add_trait = "fair"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 837 = {
@@ -19082,7 +19082,7 @@
 	add_trait = "kind"
 	add_trait = "honest"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 838 = {
@@ -19111,7 +19111,7 @@
 	add_trait = "temperate"
 	add_trait = "humble"
 	add_trait = "poet"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 839 = {
@@ -19138,7 +19138,7 @@
 	add_trait = "heavy_infantry_leader"
 	add_trait = "gardener"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 840 = {
@@ -19351,7 +19351,7 @@
 	add_trait = "shrewd"
 	add_trait = "impaler"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 851 = {
@@ -19379,7 +19379,7 @@
 	add_trait = "kind"
 	add_trait = "humble"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 852 = {
@@ -19406,7 +19406,7 @@
 	add_trait = "envious"
 	add_trait = "brave"
 	add_trait = "humble"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 853 = {
@@ -19546,7 +19546,7 @@
 	add_trait = "inspiring_leader"
 	add_trait = "humble"
 	add_trait = "strong"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 861 = {
@@ -19577,7 +19577,7 @@
 	add_trait = "temperate"
 	add_trait = "charitable"
 	add_trait = "zealous"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 862 = {
@@ -19624,7 +19624,7 @@
 	add_trait = "ambitious"
 	add_trait = "patient"
 	add_trait = "scholar"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 864 = {
@@ -19654,7 +19654,7 @@
 	add_trait = "genius"
 	add_trait = "greedy"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 865 = {
@@ -19682,7 +19682,7 @@
 	add_trait = "shrewd"
 	add_trait = "erudite"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 866 = {
@@ -19710,7 +19710,7 @@
 	add_trait = "kind"
 	add_trait = "honest"
 	add_trait = "scholar"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 867 = {
@@ -19765,7 +19765,7 @@
 	add_trait = "groomed"
 	add_trait = "quick"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 870 = {
@@ -19790,7 +19790,7 @@
 	add_trait = "envious"
 	add_trait = "poet"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 871 = {
@@ -19816,7 +19816,7 @@
 	add_trait = "mastermind_theologian"
 	add_trait = "fair"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 872 = {
@@ -19857,7 +19857,7 @@
 	add_trait = "duelist"
 	add_trait = "envious"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 874 = {
@@ -19885,7 +19885,7 @@
 	add_trait = "greedy"
 	add_trait = "temperate"
 	add_trait = "gamer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 875 = {
@@ -19913,7 +19913,7 @@
 	add_trait = "scarred"
 	add_trait = "honest"
 	add_trait = "poet"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 876 = {
@@ -19940,7 +19940,7 @@
 	add_trait = "administrator"
 	add_trait = "greedy"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 877 = {
@@ -19971,7 +19971,7 @@
 	add_trait = "greedy"
 	add_trait = "groomed"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 878 = {
@@ -20002,7 +20002,7 @@
 	add_trait = "diligent"
 	add_trait = "temperate"
 	add_trait = "architect"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 879 = {
@@ -20029,7 +20029,7 @@
 	add_trait = "strong"
 	add_trait = "honest"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 880 = {
@@ -20056,7 +20056,7 @@
 	add_trait = "honest"
 	add_trait = "fair"
 	add_trait = "gardener"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 881 = {
@@ -20084,7 +20084,7 @@
 	add_trait = "patient"
 	add_trait = "scholar"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 882 = {
@@ -20111,7 +20111,7 @@
 	add_trait = "kind"
 	add_trait = "hunter"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 883 = {
@@ -20140,7 +20140,7 @@
 	add_trait = "honest"
 	add_trait = "proud"
 	add_trait = "impaler"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 884 = {
@@ -20185,7 +20185,7 @@
 	add_trait = "hedonist"
 	add_trait = "groomed"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 886 = {
@@ -20212,7 +20212,7 @@
 	add_trait = "humble"
 	add_trait = "gregarious"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 887 = {
@@ -20239,7 +20239,7 @@
 	add_trait = "brave"
 	add_trait = "kind"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 888 = {
@@ -20264,7 +20264,7 @@
 	add_trait = "midas_touched"
 	add_trait = "gardener"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 889 = {
@@ -20290,7 +20290,7 @@
 	add_trait = "quick"
 	add_trait = "erudite"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 890 = {
@@ -20315,7 +20315,7 @@
 	add_trait = "fair"
 	add_trait = "honest"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 891 = {
@@ -20340,7 +20340,7 @@
 	add_trait = "content"
 	add_trait = "scholar"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 892 = {
@@ -20365,7 +20365,7 @@
 	add_trait = "architect"
 	add_trait = "fair"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 893 = {
@@ -20390,7 +20390,7 @@
 	add_trait = "groomed"
 	add_trait = "sturdy"
 	add_trait = "hunter"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 894 = {
@@ -20416,7 +20416,7 @@
 	add_trait = "impaler"
 	add_trait = "shrewd"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 895 = {
@@ -20441,7 +20441,7 @@
 	add_trait = "honest"
 	add_trait = "content"
 	add_trait = "falconer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 896 = {
@@ -20468,7 +20468,7 @@
 	add_trait = "content"
 	add_trait = "just"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 897 = {
@@ -20493,7 +20493,7 @@
 	add_trait = "strong"
 	add_trait = "wroth"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 898 = {
@@ -20517,7 +20517,7 @@
 	add_trait = "temperate"
 	add_trait = "socializer"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 899 = {
@@ -20542,7 +20542,7 @@
 	add_trait = "poet"
 	add_trait = "patient"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 900 = {
@@ -20568,7 +20568,7 @@
 	add_trait = "patient"
 	add_trait = "fair"
 	add_trait = "administrator"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 901 = {
@@ -20593,7 +20593,7 @@
 	add_trait = "schemer"
 	add_trait = "paranoid"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 902 = {
@@ -20620,7 +20620,7 @@
 	add_trait = "wroth"
 	add_trait = "robust"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 903 = {
@@ -20644,7 +20644,7 @@
 	add_trait = "shrewd"
 	add_trait = "patient"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 904 = {
@@ -20669,7 +20669,7 @@
 	add_trait = "erudite"
 	add_trait = "proud"
 	add_trait = "robust"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 905 = {
@@ -20693,7 +20693,7 @@
 	add_trait = "diligent"
 	add_trait = "poet"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 906 = {
@@ -20718,7 +20718,7 @@
 	add_trait = "strategist"
 	add_trait = "charitable"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 907 = {
@@ -20743,7 +20743,7 @@
 	add_trait = "ambitious"
 	add_trait = "strategist"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 908 = {
@@ -20768,7 +20768,7 @@
 	add_trait = "humble"
 	add_trait = "greedy"
 	add_trait = "impaler"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 909 = {
@@ -20792,7 +20792,7 @@
 	add_trait = "content"
 	add_trait = "robust"
 	add_trait = "hunter"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 910 = {
@@ -20817,7 +20817,7 @@
 	add_trait = "envious"
 	add_trait = "poet"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 911 = {
@@ -20842,7 +20842,7 @@
 	add_trait = "content"
 	add_trait = "honest"
 	add_trait = "impaler"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 912 = {
@@ -20867,7 +20867,7 @@
 	add_trait = "honest"
 	add_trait = "quick"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 913 = {
@@ -20892,7 +20892,7 @@
 	add_trait = "impaler"
 	add_trait = "brave"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 914 = {
@@ -20916,7 +20916,7 @@
 	add_trait = "temperate"
 	add_trait = "duelist"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 915 = {
@@ -20943,7 +20943,7 @@
 	add_trait = "content"
 	add_trait = "scarred"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 916 = {
@@ -20968,7 +20968,7 @@
 	add_trait = "groomed"
 	add_trait = "ambitious"
 	add_trait = "falconer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 917 = {
@@ -20994,7 +20994,7 @@
 	add_trait = "diligent"
 	add_trait = "proud"
 	add_trait = "scarred"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 918 = {
@@ -21021,7 +21021,7 @@
 	add_trait = "sturdy"
 	add_trait = "impaler"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 919 = {
@@ -21045,7 +21045,7 @@
 	add_trait = "hedonist"
 	add_trait = "just"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 920 = {
@@ -21072,7 +21072,7 @@
 	add_trait = "just"
 	add_trait = "erudite"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 921 = {
@@ -21097,7 +21097,7 @@
 	add_trait = "brave"
 	add_trait = "hedonist"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 922 = {
@@ -21121,7 +21121,7 @@
 	add_trait = "honest"
 	add_trait = "erudite"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 923 = {
@@ -21145,7 +21145,7 @@
 	add_trait = "just"
 	add_trait = "gregarious"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 924 = {
@@ -21170,7 +21170,7 @@
 	add_trait = "diligent"
 	add_trait = "seducer"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 925 = {
@@ -21196,7 +21196,7 @@
 	add_trait = "quick"
 	add_trait = "proud"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 926 = {
@@ -21220,7 +21220,7 @@
 	add_trait = "poet"
 	add_trait = "sturdy"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 927 = {
@@ -21246,7 +21246,7 @@
 	add_trait = "humble"
 	add_trait = "fair"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 928 = {
@@ -21270,7 +21270,7 @@
 	add_trait = "honest"
 	add_trait = "theologian"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 929 = {
@@ -21296,7 +21296,7 @@
 	add_trait = "gregarious"
 	add_trait = "mystic"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 930 = {
@@ -21322,7 +21322,7 @@
 	add_trait = "scholar"
 	add_trait = "diligent"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 931 = {
@@ -21346,7 +21346,7 @@
 	add_trait = "charitable"
 	add_trait = "socializer"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 932 = {
@@ -21373,7 +21373,7 @@
 	add_trait = "gregarious"
 	add_trait = "poet"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 933 = {
@@ -21397,7 +21397,7 @@
 	add_trait = "ambitious"
 	add_trait = "falconer"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 934 = {
@@ -21423,7 +21423,7 @@
 	add_trait = "sturdy"
 	add_trait = "greedy"
 	add_trait = "zealous"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 935 = {
@@ -21448,7 +21448,7 @@
 	add_trait = "groomed"
 	add_trait = "envious"
 	add_trait = "zealous"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 936 = {
@@ -21472,7 +21472,7 @@
 	add_trait = "honest"
 	add_trait = "scarred"
 	add_trait = "schemer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 937 = {
@@ -21498,7 +21498,7 @@
 	add_trait = "scholar"
 	add_trait = "diligent"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 938 = {
@@ -21524,7 +21524,7 @@
 	add_trait = "genius"
 	add_trait = "mystic"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 939 = {
@@ -21549,7 +21549,7 @@
 	add_trait = "patient"
 	add_trait = "proud"
 	add_trait = "mystic"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 940 = {
@@ -21575,7 +21575,7 @@
 	add_trait = "duelist"
 	add_trait = "fair"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 941 = {
@@ -21600,7 +21600,7 @@
 	add_trait = "erudite"
 	add_trait = "greedy"
 	add_trait = "genius"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 942 = {
@@ -21626,7 +21626,7 @@
 	add_trait = "scarred"
 	add_trait = "gregarious"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 943 = {
@@ -21652,7 +21652,7 @@
 	add_trait = "patient"
 	add_trait = "quick"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 944 = {
@@ -21676,7 +21676,7 @@
 	add_trait = "gregarious"
 	add_trait = "groomed"
 	add_trait = "zealous"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 945 = {
@@ -21701,7 +21701,7 @@
 	add_trait = "patient"
 	add_trait = "sturdy"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 946 = {
@@ -21725,7 +21725,7 @@
 	add_trait = "ambitious"
 	add_trait = "envious"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 947 = {
@@ -21751,7 +21751,7 @@
 	add_trait = "hunter"
 	add_trait = "humble"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 948 = {
@@ -21777,7 +21777,7 @@
 	add_trait = "chaste"
 	add_trait = "strong"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 949 = {
@@ -21802,7 +21802,7 @@
 	add_trait = "brave"
 	add_trait = "paranoid"
 	add_trait = "socializer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 950 = {
@@ -21826,7 +21826,7 @@
 	add_trait = "charitable"
 	add_trait = "scholar"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 951 = {
@@ -21853,7 +21853,7 @@
 	add_trait = "humble"
 	add_trait = "gregarious"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 952 = {
@@ -21877,7 +21877,7 @@
 	add_trait = "envious"
 	add_trait = "poet"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 953 = {
@@ -21902,7 +21902,7 @@
 	add_trait = "fair"
 	add_trait = "wroth"
 	add_trait = "erudite"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 954 = {
@@ -21928,7 +21928,7 @@
 	add_trait = "paranoid"
 	add_trait = "robust"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 955 = {
@@ -21953,7 +21953,7 @@
 	add_trait = "greedy"
 	add_trait = "content"
 	add_trait = "administrator"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 956 = {
@@ -21977,7 +21977,7 @@
 	add_trait = "humble"
 	add_trait = "mystic"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 957 = {
@@ -22003,7 +22003,7 @@
 	add_trait = "fair"
 	add_trait = "strong"
 	add_trait = "impaler"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 958 = {
@@ -22027,7 +22027,7 @@
 	add_trait = "charitable"
 	add_trait = "humble"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 959 = {
@@ -22052,7 +22052,7 @@
 	add_trait = "duelist"
 	add_trait = "just"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 960 = {
@@ -22076,7 +22076,7 @@
 	add_trait = "seducer"
 	add_trait = "humble"
 	add_trait = "genius"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 961 = {
@@ -22101,7 +22101,7 @@
 	add_trait = "honest"
 	add_trait = "brave"
 	add_trait = "genius"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 962 = {
@@ -22127,7 +22127,7 @@
 	add_trait = "honest"
 	add_trait = "patient"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 963 = {
@@ -22152,7 +22152,7 @@
 	add_trait = "groomed"
 	add_trait = "content"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 964 = {
@@ -22178,7 +22178,7 @@
 	add_trait = "genius"
 	add_trait = "content"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 965 = {
@@ -22203,7 +22203,7 @@
 	add_trait = "ambitious"
 	add_trait = "genius"
 	add_trait = "impaler"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 966 = {
@@ -22229,7 +22229,7 @@
 	add_trait = "paranoid"
 	add_trait = "gregarious"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 967 = {
@@ -22254,7 +22254,7 @@
 	add_trait = "robust"
 	add_trait = "chaste"
 	add_trait = "socializer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 968 = {
@@ -22280,7 +22280,7 @@
 	add_trait = "wroth"
 	add_trait = "zealous"
 	add_trait = "poet"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 969 = {
@@ -22304,7 +22304,7 @@
 	add_trait = "greedy"
 	add_trait = "kind"
 	add_trait = "groomed"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 970 = {
@@ -22330,7 +22330,7 @@
 	add_trait = "envious"
 	add_trait = "just"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 971 = {
@@ -22357,7 +22357,7 @@
 	add_trait = "brave"
 	add_trait = "diligent"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 972 = {
@@ -22381,7 +22381,7 @@
 	add_trait = "patient"
 	add_trait = "scholar"
 	add_trait = "humble"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 973 = {
@@ -22408,7 +22408,7 @@
 	add_trait = "ambitious"
 	add_trait = "fair"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 974 = {
@@ -22433,7 +22433,7 @@
 	add_trait = "theologian"
 	add_trait = "proud"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 975 = {
@@ -22458,7 +22458,7 @@
 	add_trait = "charitable"
 	add_trait = "scarred"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 976 = {
@@ -22484,7 +22484,7 @@
 	add_trait = "scholar"
 	add_trait = "proud"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 977 = {
@@ -22508,7 +22508,7 @@
 	add_trait = "fair"
 	add_trait = "humble"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 978 = {
@@ -22533,7 +22533,7 @@
 	add_trait = "erudite"
 	add_trait = "zealous"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 979 = {
@@ -22559,7 +22559,7 @@
 	add_trait = "envious"
 	add_trait = "patient"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 980 = {
@@ -22585,7 +22585,7 @@
 	add_trait = "poet"
 	add_trait = "honest"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 981 = {
@@ -22609,7 +22609,7 @@
 	add_trait = "wroth"
 	add_trait = "ambitious"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 982 = {
@@ -22634,7 +22634,7 @@
 	add_trait = "mystic"
 	add_trait = "charitable"
 	add_trait = "fair"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 983 = {
@@ -22659,7 +22659,7 @@
 	add_trait = "wroth"
 	add_trait = "impaler"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 984 = {
@@ -22685,7 +22685,7 @@
 	add_trait = "zealous"
 	add_trait = "scarred"
 	add_trait = "erudite"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 985 = {
@@ -22710,7 +22710,7 @@
 	add_trait = "zealous"
 	add_trait = "ambitious"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 986 = {
@@ -22735,7 +22735,7 @@
 	add_trait = "content"
 	add_trait = "genius"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 987 = {
@@ -22759,7 +22759,7 @@
 	add_trait = "scholar"
 	add_trait = "brave"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 988 = {
@@ -22784,7 +22784,7 @@
 	add_trait = "mystic"
 	add_trait = "envious"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 989 = {
@@ -22810,7 +22810,7 @@
 	add_trait = "groomed"
 	add_trait = "honest"
 	add_trait = "robust"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 990 = {
@@ -22836,7 +22836,7 @@
 	add_trait = "zealous"
 	add_trait = "just"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 991 = {
@@ -22862,7 +22862,7 @@
 	add_trait = "proud"
 	add_trait = "patient"
 	add_trait = "shrewd"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 992 = {
@@ -22886,7 +22886,7 @@
 	add_trait = "strong"
 	add_trait = "duelist"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 993 = {
@@ -22912,7 +22912,7 @@
 	add_trait = "administrator"
 	add_trait = "temperate"
 	add_trait = "zealous"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 994 = {
@@ -22937,7 +22937,7 @@
 	add_trait = "duelist"
 	add_trait = "robust"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 995 = {
@@ -22962,7 +22962,7 @@
 	add_trait = "erudite"
 	add_trait = "paranoid"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 996 = {
@@ -22988,7 +22988,7 @@
 	add_trait = "diligent"
 	add_trait = "humble"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 997 = {
@@ -23013,7 +23013,7 @@
 	add_trait = "temperate"
 	add_trait = "zealous"
 	add_trait = "brave"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 998 = {
@@ -23038,7 +23038,7 @@
 	add_trait = "sturdy"
 	add_trait = "diligent"
 	add_trait = "greedy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 999 = {
@@ -23064,7 +23064,7 @@
 	add_trait = "erudite"
 	add_trait = "robust"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1000 = {
@@ -23088,7 +23088,7 @@
 	add_trait = "shrewd"
 	add_trait = "ambitious"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1001 = {
@@ -23114,7 +23114,7 @@
 	add_trait = "ambitious"
 	add_trait = "envious"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1002 = {
@@ -23140,7 +23140,7 @@
 	add_trait = "groomed"
 	add_trait = "content"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1003 = {
@@ -23166,7 +23166,7 @@
 	add_trait = "zealous"
 	add_trait = "brave"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1004 = {
@@ -23191,7 +23191,7 @@
 	add_trait = "honest"
 	add_trait = "quick"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1005 = {
@@ -23216,7 +23216,7 @@
 	add_trait = "shrewd"
 	add_trait = "patient"
 	add_trait = "theologian"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1006 = {
@@ -23241,7 +23241,7 @@
 	add_trait = "diligent"
 	add_trait = "temperate"
 	add_trait = "scholar"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1007 = {
@@ -23267,7 +23267,7 @@
 	add_trait = "strategist"
 	add_trait = "content"
 	add_trait = "patient"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1008 = {
@@ -23291,7 +23291,7 @@
 	add_trait = "genius"
 	add_trait = "proud"
 	add_trait = "honest"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1009 = {
@@ -23315,7 +23315,7 @@
 	add_trait = "sturdy"
 	add_trait = "shrewd"
 	add_trait = "falconer"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1010 = {
@@ -23339,7 +23339,7 @@
 	add_trait = "honest"
 	add_trait = "hunter"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1011 = {
@@ -23363,7 +23363,7 @@
 	add_trait = "greedy"
 	add_trait = "scholar"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1012 = {
@@ -23388,7 +23388,7 @@
 	add_trait = "wroth"
 	add_trait = "proud"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1013 = {
@@ -23414,7 +23414,7 @@
 	add_trait = "sturdy"
 	add_trait = "paranoid"
 	add_trait = "gregarious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1014 = {
@@ -23439,7 +23439,7 @@
 	add_trait = "charitable"
 	add_trait = "sturdy"
 	add_trait = "wroth"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1015 = {
@@ -23463,7 +23463,7 @@
 	add_trait = "greedy"
 	add_trait = "temperate"
 	add_trait = "administrator"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1016 = {
@@ -23489,7 +23489,7 @@
 	add_trait = "diligent"
 	add_trait = "charitable"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1017 = {
@@ -23514,7 +23514,7 @@
 	add_trait = "greedy"
 	add_trait = "patient"
 	add_trait = "scholar"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1018 = {
@@ -23539,7 +23539,7 @@
 	add_trait = "charitable"
 	add_trait = "content"
 	add_trait = "erudite"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1019 = {
@@ -23564,7 +23564,7 @@
 	add_trait = "robust"
 	add_trait = "erudite"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1020 = {
@@ -23590,7 +23590,7 @@
 	add_trait = "proud"
 	add_trait = "just"
 	add_trait = "poet"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1021 = {
@@ -23616,7 +23616,7 @@
 	add_trait = "diligent"
 	add_trait = "groomed"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1022 = {
@@ -23641,7 +23641,7 @@
 	add_trait = "fair"
 	add_trait = "content"
 	add_trait = "just"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1023 = {
@@ -23666,7 +23666,7 @@
 	add_trait = "genius"
 	add_trait = "erudite"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1024 = {
@@ -23693,7 +23693,7 @@
 	add_trait = "sturdy"
 	add_trait = "greedy"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1025 = {
@@ -23718,7 +23718,7 @@
 	add_trait = "quick"
 	add_trait = "erudite"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1026 = {
@@ -23743,7 +23743,7 @@
 	add_trait = "fair"
 	add_trait = "strategist"
 	add_trait = "quick"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1027 = {
@@ -23770,7 +23770,7 @@
 	add_trait = "duelist"
 	add_trait = "honest"
 	add_trait = "humble"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1028 = {
@@ -23796,7 +23796,7 @@
 	add_trait = "architect"
 	add_trait = "scarred"
 	add_trait = "kind"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1029 = {
@@ -23821,7 +23821,7 @@
 	add_trait = "ambitious"
 	add_trait = "poet"
 	add_trait = "paranoid"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1030 = {
@@ -23878,7 +23878,7 @@
 	add_trait = "hedonist"
 	add_trait = "quick"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1033 = {
@@ -23902,7 +23902,7 @@
 	add_trait = "scholarly_theologian"
 	add_trait = "zealous"
 	add_trait = "proud"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1034 = {
@@ -23929,7 +23929,7 @@
 	add_trait = "diligent"
 	add_trait = "sturdy"
 	add_trait = "envious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1035 = {
@@ -23955,7 +23955,7 @@
 	add_trait = "robust"
 	add_trait = "ambitious"
 	add_trait = "chaste"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1036 = {
@@ -23981,7 +23981,7 @@
 	add_trait = "theologian"
 	add_trait = "charitable"
 	add_trait = "ambitious"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 
@@ -24008,7 +24008,7 @@
 	add_trait = "midas_touched"
 	add_trait = "shrewd"
 	add_trait = "temperate"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1038 = {
@@ -24034,7 +24034,7 @@
 	add_trait = "falconer"
 	add_trait = "honest"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1039 = {
@@ -24066,7 +24066,7 @@
 	add_trait = "wroth"
 	add_trait = "shrewd"
 	add_trait = "duelist"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 
@@ -24092,7 +24092,7 @@
 	add_trait = "genius"
 	add_trait = "humble"
 	add_trait = "sturdy"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 
@@ -24120,7 +24120,7 @@
 	add_trait = "groomed"
 	add_trait = "diligent"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1042 = {
@@ -24173,7 +24173,7 @@
 	add_trait = "sturdy"
 	add_trait = "quick"
 	add_trait = "scholar"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1045 = {
@@ -24241,7 +24241,7 @@
 	add_trait = "hedonist"
 	add_trait = "wroth"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1049 = {
@@ -24266,7 +24266,7 @@
 	add_trait = "schemer"
 	add_trait = "sturdy"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1050 = {
@@ -24292,7 +24292,7 @@
 	add_trait = "erudite"
 	add_trait = "honest"
 	add_trait = "charitable"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1051 = {
@@ -24317,7 +24317,7 @@
 	add_trait = "genius"
 	add_trait = "impaler"
 	add_trait = "diligent"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
 1052 = {
@@ -24359,6 +24359,6 @@
 	add_trait = "charitable"
 	add_trait = "robust"
 	add_trait = "content"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
 
