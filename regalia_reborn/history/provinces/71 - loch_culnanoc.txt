@@ -1,6 +1,6 @@
 title = c_loch_culnanoc
 max_settlements = 2
-culture = gallovian
+culture = caeren
 religion = unionism
 b_loch_culnanoc = tribal
 b_loch_culnanoc2 = temple

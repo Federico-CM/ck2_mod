@@ -1,6 +1,6 @@
 title = c_glassey
 max_settlements = 2
-culture = gallovian
+culture = caeren
 religion = fornoss
 b_glassey = castle
 b_glassey2 = temple

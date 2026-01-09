@@ -1,6 +1,6 @@
 title = c_gairnloch
 max_settlements = 2
-culture = gallovian
+culture = caeren
 religion = fornoss
 b_gairnloch = castle
 b_gairnloch2 = temple

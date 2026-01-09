@@ -165,7 +165,7 @@
 
 35 = {
 	name = "Howlester"
-	culture = gallovian
+	culture = caeren
 }
 
 36 = {
@@ -680,12 +680,12 @@
 
 138 = {
 	name = "mac Connall"
-	culture = gallovian
+	culture = caeren
 }
 
 139 = {
 	name = "Gallagher"
-	culture = gallovian
+	culture = caeren
 }
 
 140 = {
@@ -750,7 +750,7 @@
 
 153 = {
 	name = "Embra"
-	culture = gallovian
+	culture = caeren
 }
 
 154 = {
@@ -1045,7 +1045,7 @@
 
 212 = {
 	name = "Norrin"
-	culture = gallovian
+	culture = caeren
 }
 
 213 = {
@@ -1115,7 +1115,7 @@
 
 226 = {
 	name = "Hillford"
-	culture = gallovian
+	culture = caeren
 }
 
 227 = {
@@ -1345,7 +1345,7 @@
 
 272 = {
 	name = "Wyndham"
-	culture = gallovian
+	culture = caeren
 }
 
 273 = {
@@ -1360,7 +1360,7 @@
 
 275 = {
 	name = "Norwood"
-	culture = gallovian
+	culture = caeren
 }
 
 276 = {

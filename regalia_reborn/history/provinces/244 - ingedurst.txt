@@ -1,6 +1,6 @@
 title = c_ingedurst
 max_settlements = 2
-culture = gallovian
+culture = caeren
 religion = fornoss
 b_ingedurst = castle
 b_ingedurst2 = temple

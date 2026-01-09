@@ -1,7 +1,7 @@
 gallovian_group = {
 	graphical_cultures = { celticgfx }
 
-    gallovian = {
+    caeren = { # Highland Scots like culture
         graphical_cultures = { celticgfx }
         
         color = { 0.3 0.7 0.7 }
@@ -43,7 +43,7 @@ gallovian_group = {
         mother_name_chance = 5
     }
 
-    aber = {
+    aber = { # Pictish like culture
         graphical_cultures = { celticgfx }
         
         color = { 0.2 0.6 0.6 }
@@ -77,7 +77,7 @@ gallovian_group = {
         mother_name_chance = 5
     }
 
-    dunbrae = {
+    dunbrae = { # Lowland Scots like culture
         graphical_cultures = { celticgfx }
         
         color = { 0.3 0.5 0.4 }

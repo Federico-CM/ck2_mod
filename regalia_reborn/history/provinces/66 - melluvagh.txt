@@ -1,6 +1,6 @@
 title = c_melluvagh
 max_settlements = 2
-culture = gallovian
+culture = caeren
 religion = fornoss
 b_melluvagh = castle
 b_melluvagh2 = temple

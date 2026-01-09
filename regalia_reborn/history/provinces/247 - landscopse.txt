@@ -1,6 +1,6 @@
 title = c_landscopse
 max_settlements = 2
-culture = gallovian
+culture = caeren
 religion = unionism
 b_landscopse = castle
 b_landscopse2 = temple

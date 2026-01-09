@@ -1,6 +1,6 @@
 title = c_salen
 max_settlements = 2
-culture = gallovian
+culture = caeren
 religion = fornoss
 b_salen = castle
 b_salen2 = temple
