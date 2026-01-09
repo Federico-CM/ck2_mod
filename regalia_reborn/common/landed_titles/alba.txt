@@ -262,7 +262,7 @@ e_alba = {
         title = king
         title_female = king
     }
-    k_kyntir = {
+    k_kintyr = {
         color = { 163 130 143 }
         color2 = { 163 130 143 }
         capital = 48
