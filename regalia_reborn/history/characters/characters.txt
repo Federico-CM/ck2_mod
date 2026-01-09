@@ -24362,3 +24362,31 @@
 	disallow_random_traits = yes
 }
 
+1054 = {
+	name = "Rhiannon" # Dairaire
+	culture = breizh
+	religion = unionism
+	female = yes
+	291.1.1 = {
+		birth = 291.1.1
+	}
+	391.1.1 = {
+		death = 391.1.1
+	}
+	dynasty = 317
+
+	diplomacy = 5
+	martial = 7
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	add_trait = "aggressive_leader"
+	add_trait = "tough_soldier"
+	add_trait = "duelist"
+	add_trait = "stubborn"
+	add_trait = "just"
+	add_trait = "ambitious"
+	add_trait = "brave"
+	add_trait = "homosexual"
+	disallow_random_traits = true
+}
