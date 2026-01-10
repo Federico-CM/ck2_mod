@@ -863,7 +863,7 @@ e_anglia = {
                 }
                 color = { 150 156 175 }
                 color2 = { 150 156 175 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }

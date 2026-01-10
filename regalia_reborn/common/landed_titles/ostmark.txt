@@ -589,7 +589,7 @@ e_ostmark = {
                 }
                 color = { 196 165 171 }
                 color2 = { 196 165 171 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }

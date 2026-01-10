@@ -217,7 +217,7 @@ e_gallovia = {
                 }
                 color = { 166 137 179 }
                 color2 = { 166 137 179 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -581,7 +581,7 @@ e_gallovia = {
                 }
                 color = { 167 120 168 }
                 color2 = { 167 120 168 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -596,7 +596,7 @@ e_gallovia = {
                 }
                 color = { 127 147 187 }
                 color2 = { 127 147 187 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -611,11 +611,11 @@ e_gallovia = {
                 }
                 color = { 150 140 183 }
                 color2 = { 150 140 183 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
@@ -634,7 +634,7 @@ e_gallovia = {
                 }
                 color = { 160 115 171 }
                 color2 = { 160 115 171 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -649,7 +649,7 @@ e_gallovia = {
                 }
                 color = { 133 117 188 }
                 color2 = { 133 117 188 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -664,7 +664,7 @@ e_gallovia = {
                 }
                 color = { 138 111 185 }
                 color2 = { 138 111 185 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -679,11 +679,11 @@ e_gallovia = {
                 }
                 color = { 133 117 188 }
                 color2 = { 133 117 188 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
@@ -702,7 +702,7 @@ e_gallovia = {
                 }
                 color = { 166 145 164 }
                 color2 = { 166 145 164 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -717,7 +717,7 @@ e_gallovia = {
                 }
                 color = { 166 128 157 }
                 color2 = { 166 128 157 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -732,7 +732,7 @@ e_gallovia = {
                 }
                 color = { 166 130 185 }
                 color2 = { 166 130 185 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -747,11 +747,11 @@ e_gallovia = {
                 }
                 color = { 146 116 172 }
                 color2 = { 166 128 157 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
@@ -770,7 +770,7 @@ e_gallovia = {
                 }
                 color = { 163 125 158 }
                 color2 = { 163 125 158 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -785,7 +785,7 @@ e_gallovia = {
                 }
                 color = { 162 139 177 }
                 color2 = { 162 139 177 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -800,7 +800,7 @@ e_gallovia = {
                 }
                 color = { 154 142 173 }
                 color2 = { 154 142 173 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -815,15 +815,15 @@ e_gallovia = {
                 }
                 color = { 132 143 181 }
                 color2 = { 132 143 181 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
-        culture = ceaerden
+        culture = cearden
         title = king
         title_female = king
     }

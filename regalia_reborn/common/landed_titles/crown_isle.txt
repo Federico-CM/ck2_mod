@@ -27,15 +27,15 @@ e_regalia = {
 		holy_site = amended
 		holy_site = warda
 
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
-        culture = ceaerden
+        culture = cearden
         title = king
         title_female = king
     }

@@ -143,7 +143,7 @@ e_waldmark = {
                 }
                 color = { 184 118 146 }
                 color2 = { 184 118 146 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -189,7 +189,7 @@ e_waldmark = {
                 }
                 color = { 199 121 118 }
                 color2 = { 199 121 118 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -208,7 +208,7 @@ e_waldmark = {
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
@@ -242,7 +242,7 @@ e_waldmark = {
                 }
                 color = { 220 110 120 }
                 color2 = { 220 110 120 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -257,7 +257,7 @@ e_waldmark = {
                 }
                 color = { 213 125 99 }
                 color2 = { 213 125 99 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -287,7 +287,7 @@ e_waldmark = {
                 }
                 color = { 195 121 115 }
                 color2 = { 195 121 115 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -325,7 +325,7 @@ e_waldmark = {
                 }
                 color = { 181 107 119 }
                 color2 = { 181 107 119 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -340,7 +340,7 @@ e_waldmark = {
                 }
                 color = { 184 106 125 }
                 color2 = { 184 106 125 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -355,15 +355,15 @@ e_waldmark = {
                 }
                 color = { 202 113 104 }
                 color2 = { 202 113 104 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
-        culture = ceaerden
+        culture = cearden
         title = king
         title_female = king
     }
@@ -401,7 +401,7 @@ e_waldmark = {
                 }
                 color = { 195 120 101 }
                 color2 = { 195 120 101 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -435,7 +435,7 @@ e_waldmark = {
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
@@ -454,7 +454,7 @@ e_waldmark = {
                 }
                 color = { 197 140 127 }
                 color2 = { 197 140 127 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -484,7 +484,7 @@ e_waldmark = {
                 }
                 color = { 177 137 139 }
                 color2 = { 177 137 139 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -499,7 +499,7 @@ e_waldmark = {
                 }
                 color = { 185 130 101 }
                 color2 = { 185 130 101 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -514,7 +514,7 @@ e_waldmark = {
                 }
                 color = { 181 112 125 }
                 color2 = { 181 112 125 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -529,11 +529,11 @@ e_waldmark = {
                 }
                 color = { 176 111 125 }
                 color2 = { 176 111 125 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
@@ -552,7 +552,7 @@ e_waldmark = {
                 }
                 color = { 173 144 111 }
                 color2 = { 173 144 111 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -567,7 +567,7 @@ e_waldmark = {
                 }
                 color = { 185 109 117 }
                 color2 = { 185 109 117 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -582,7 +582,7 @@ e_waldmark = {
                 }
                 color = { 202 136 114 }
                 color2 = { 202 136 114 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -597,15 +597,15 @@ e_waldmark = {
                 }
                 color = { 208 139 122 }
                 color2 = { 208 139 122 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
-        culture = ceaerden
+        culture = cearden
         title = king
         title_female = king
     }
@@ -628,7 +628,7 @@ e_waldmark = {
                 }
                 color = { 194 145 131 }
                 color2 = { 194 145 131 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -643,7 +643,7 @@ e_waldmark = {
                 }
                 color = { 190 138 113 }
                 color2 = { 190 138 113 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -658,7 +658,7 @@ e_waldmark = {
                 }
                 color = { 212 138 118 }
                 color2 = { 212 138 118 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -673,11 +673,11 @@ e_waldmark = {
                 }
                 color = { 204 143 137 }
                 color2 = { 204 143 137 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
@@ -696,7 +696,7 @@ e_waldmark = {
                 }
                 color = { 212 109 127 }
                 color2 = { 212 109 127 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -711,7 +711,7 @@ e_waldmark = {
                 }
                 color = { 207 131 106 }
                 color2 = { 207 131 106 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -726,7 +726,7 @@ e_waldmark = {
                 }
                 color = { 200 130 105 }
                 color2 = { 200 130 105 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -741,11 +741,11 @@ e_waldmark = {
                 }
                 color = { 196 143 106 }
                 color2 = { 196 143 106 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
@@ -764,7 +764,7 @@ e_waldmark = {
                 }
                 color = { 203 118 107 }
                 color2 = { 203 118 107 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -779,7 +779,7 @@ e_waldmark = {
                 }
                 color = { 216 144 114 }
                 color2 = { 216 144 114 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -797,11 +797,11 @@ e_waldmark = {
 
 		holy_site = unionism
 
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
@@ -820,7 +820,7 @@ e_waldmark = {
                 }
                 color = { 192 133 136 }
                 color2 = { 192 133 136 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -850,7 +850,7 @@ e_waldmark = {
                 }
                 color = { 196 135 103 }
                 color2 = { 196 135 103 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
@@ -865,15 +865,15 @@ e_waldmark = {
                 }
                 color = { 222 135 102 }
                 color2 = { 222 135 102 }
-                culture = ceaerden
+                culture = cearden
                 title = count
                 title_female = count
             }
-            culture = ceaerden
+            culture = cearden
             title = duke
             title_female = duke
         }
-        culture = ceaerden
+        culture = cearden
         title = king
         title_female = king
     }
