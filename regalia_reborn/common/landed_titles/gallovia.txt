@@ -21,7 +21,7 @@ e_gallovia = {
                 }
                 color = { 170 157 186 }
                 color2 = { 170 157 186 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -36,7 +36,7 @@ e_gallovia = {
                 }
                 color = { 151 160 204 }
                 color2 = { 151 160 204 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -51,11 +51,11 @@ e_gallovia = {
                 }
                 color = { 164 157 178 }
                 color2 = { 164 157 178 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
-            culture = gallovian
+            culture = caeren
             title = duke
             title_female = duke
         }
@@ -74,7 +74,7 @@ e_gallovia = {
                 }
                 color = { 175 151 196 }
                 color2 = { 175 151 196 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -89,7 +89,7 @@ e_gallovia = {
                 }
                 color = { 176 164 204 }
                 color2 = { 176 164 204 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -104,7 +104,7 @@ e_gallovia = {
                 }
                 color = { 183 165 203 }
                 color2 = { 183 165 203 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -119,7 +119,7 @@ e_gallovia = {
                 }
                 color = { 154 142 186 }
                 color2 = { 154 142 186 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -134,11 +134,11 @@ e_gallovia = {
                 }
                 color = { 146 125 170 }
                 color2 = { 183 165 203 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
-            culture = gallovian
+            culture = caeren
             title = duke
             title_female = duke
         }
@@ -157,7 +157,7 @@ e_gallovia = {
                 }
                 color = { 175 134 195 }
                 color2 = { 175 134 195 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -172,7 +172,7 @@ e_gallovia = {
                 }
                 color = { 165 161 199 }
                 color2 = { 165 161 199 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -187,7 +187,7 @@ e_gallovia = {
                 }
                 color = { 158 155 203 }
                 color2 = { 158 155 203 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -202,7 +202,7 @@ e_gallovia = {
                 }
                 color = { 175 166 199 }
                 color2 = { 175 166 199 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -221,7 +221,7 @@ e_gallovia = {
                 title = count
                 title_female = count
             }
-            culture = gallovian
+            culture = caeren
             title = duke
             title_female = duke
         }
@@ -240,7 +240,7 @@ e_gallovia = {
                 }
                 color = { 169 155 193 }
                 color2 = { 169 155 193 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -255,7 +255,7 @@ e_gallovia = {
                 }
                 color = { 167 153 182 }
                 color2 = { 167 153 182 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -270,15 +270,15 @@ e_gallovia = {
                 }
                 color = { 153 155 173 }
                 color2 = { 153 155 173 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
-            culture = gallovian
+            culture = caeren
             title = duke
             title_female = duke
         }
-        culture = gallovian
+        culture = caeren
         title = king
         title_female = king
     }

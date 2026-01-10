@@ -556,7 +556,7 @@ e_alba = {
                 }
                 color = { 146 91 153 }
                 color2 = { 146 91 153 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -586,7 +586,7 @@ e_alba = {
                 }
                 color = { 133 113 131 }
                 color2 = { 133 113 131 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -601,7 +601,7 @@ e_alba = {
                 }
                 color = { 129 130 140 }
                 color2 = { 129 130 140 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -616,7 +616,7 @@ e_alba = {
                 }
                 color = { 158 110 161 }
                 color2 = { 158 110 161 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -654,7 +654,7 @@ e_alba = {
                 }
                 color = { 131 124 145 }
                 color2 = { 131 124 145 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
@@ -684,11 +684,11 @@ e_alba = {
                 }
                 color = { 122 98 159 }
                 color2 = { 122 98 159 }
-                culture = gallovian
+                culture = caeren
                 title = count
                 title_female = count
             }
-            culture = gallovian
+            culture = caeren
             title = duke
             title_female = duke
         }
