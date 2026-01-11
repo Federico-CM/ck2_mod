@@ -1,0 +1,29 @@
+d_draconism = {
+	color = { 96 31 158 }
+	color2 = { 255 255 255 }
+
+	capital = 1000 # Drackenruust
+
+	title = "MATRON" # Matron is a gender neutral title
+	title_female = "MATRON"
+	foa = "POPE_FOA"
+
+	# Always exists
+	landless = yes
+
+	# Controls a religion
+	controls_religion = draconism
+	religion = draconism
+
+	culture = isldar
+
+	# Cannot be held as a secondary title
+	primary = yes
+
+	assimilate = no
+	short_name = yes
+	
+	dynasty_title_names = no 	# Will not be named "Seljuk", etc.
+	
+	dignity = 200
+}

@@ -11721,8 +11721,8 @@
 
 523 = {
 	name = "Gwenyth" # Zylmoira
-	culture = solvaan
-	religion = estelley
+	culture = isldar
+	religion = draconism
 	female = yes
 	255.1.1 = {
 		birth = 255.1.1
