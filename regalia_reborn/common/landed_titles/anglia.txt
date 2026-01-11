@@ -1874,7 +1874,7 @@ e_anglia = {
                     title_female = baron
                 
                 }
-                b_tersum = {
+                b_houtrecht = {
                     title = baron
                     title_female = baron
                 

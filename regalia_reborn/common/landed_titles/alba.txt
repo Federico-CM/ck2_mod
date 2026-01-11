@@ -333,7 +333,7 @@ e_alba = {
                 title_female = count
             }
             c_carnowyle = {
-                b_ediss = {
+                b_claircourt = {
                     title = baron
                     title_female = baron
                 

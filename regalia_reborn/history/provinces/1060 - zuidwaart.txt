@@ -6,4 +6,4 @@ religion = draconism
 b_ovenham = castle
 b_breel = temple
 b_korten = city
-b_tersum = city
+b_boden = city
