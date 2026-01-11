@@ -1,6 +1,7 @@
 title = c_arau
-max_settlements = 2
+max_settlements = 3
 culture = genevaud
 religion = unionism
-b_arau = castle
-b_arau2 = temple
+
+b_zurlinden = castle
+b_fluhhalde = temple

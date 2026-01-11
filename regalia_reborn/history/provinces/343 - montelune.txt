@@ -1,6 +1,7 @@
 title = c_montelune
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_montelune = castle
-b_montelune2 = temple
+
+b_pechies = castle
+b_salex = temple

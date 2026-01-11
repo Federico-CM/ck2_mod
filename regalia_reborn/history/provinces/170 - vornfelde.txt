@@ -1,6 +1,7 @@
 title = c_vornfelde
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_vornfelde = castle
-b_vornfelde2 = temple
+
+b_flinke = castle
+b_gesdorf = temple

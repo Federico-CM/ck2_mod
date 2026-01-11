@@ -1,6 +1,7 @@
 title = c_tieren
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_tieren = castle
-b_tieren2 = temple
+
+b_aduarden = castle
+b_ellem = temple

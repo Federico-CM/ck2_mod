@@ -1,6 +1,8 @@
 title = c_pays_de_loisir
-max_settlements = 2
+max_settlements = 5
 culture = ithanian
 religion = unionism
-b_pays_de_loisir = castle
-b_pays_de_loisir2 = temple
+
+b_capignon = castle
+b_berenx = temple
+b_perolle = city

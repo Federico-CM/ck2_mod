@@ -1,6 +1,7 @@
 title = c_bombeburg
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_bombeburg = castle
-b_bombeburg2 = temple
+
+b_muntel = castle
+b_hegen = temple

@@ -1,6 +1,7 @@
 title = c_crawlewes
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_crawlewes = castle
-b_crawlewes2 = temple
+
+b_whiter = castle
+b_croftone = temple

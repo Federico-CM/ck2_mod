@@ -1,6 +1,7 @@
 title = c_elane
-max_settlements = 2
+max_settlements = 3
 culture = leutz_vixe
 religion = unionism
-b_elane = castle
-b_elane2 = temple
+
+b_haange = castle
+b_hosinge = temple

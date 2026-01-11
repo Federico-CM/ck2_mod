@@ -1,6 +1,7 @@
 title = c_bautzder
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_bautzder = castle
-b_bautzder2 = temple
+
+b_holen = castle
+b_tugau = temple

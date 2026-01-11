@@ -1,6 +1,9 @@
 title = c_oostmuur
-max_settlements = 2
+max_settlements = 5
 culture = anglian
 religion = unionism
-b_oostmuur = castle
-b_oostmuur2 = temple
+
+b_wisse = castle
+b_willega = temple
+b_tullen = city
+b_westermere = city

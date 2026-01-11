@@ -1,6 +1,7 @@
 title = c_bridlefort
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_bridlefort = castle
-b_bridlefort2 = temple
+
+b_kinnock = castle
+b_oldwick = temple

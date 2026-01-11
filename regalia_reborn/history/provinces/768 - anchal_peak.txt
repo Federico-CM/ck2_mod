@@ -1,6 +1,7 @@
 title = c_anchal_peak
-max_settlements = 2
+max_settlements = 3
 culture = kathar
 religion = evolism
-b_anchal_peak = castle
-b_anchal_peak2 = temple
+
+b_krondryl = castle
+b_zethahc = temple

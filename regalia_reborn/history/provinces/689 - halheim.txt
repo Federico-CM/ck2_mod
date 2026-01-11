@@ -1,6 +1,7 @@
 title = c_halheim
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_halheim = tribal
-b_halheim2 = temple
+
+b_hknstorp = tribal
+b_tigmo = temple

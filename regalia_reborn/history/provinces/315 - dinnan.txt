@@ -1,6 +1,10 @@
 title = c_dinnan
-max_settlements = 2
+max_settlements = 6
 culture = ithanian
 religion = unionism
-b_dinnan = castle
-b_dinnan2 = temple
+
+b_laballe = castle
+b_rupont = temple
+b_sournes = city
+b_simieu = city
+b_chassay = city

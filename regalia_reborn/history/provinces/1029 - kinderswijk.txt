@@ -1,6 +1,7 @@
 title = c_kinderswijk
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_kinderswijk = castle
-b_kinderswijk2 = temple
+
+b_marge = castle
+b_brandgat = temple

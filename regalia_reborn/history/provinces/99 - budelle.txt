@@ -1,6 +1,7 @@
 title = c_budelle
-max_settlements = 2
+max_settlements = 4
 culture = leutz_vixe
 religion = unionism
-b_budelle = castle
-b_budelle2 = temple
+
+b_franven = castle
+b_untange = temple

@@ -1,6 +1,7 @@
 title = c_hvitland
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_hvitland = castle
-b_hvitland2 = temple
+
+b_ljunge = castle
+b_sunderbo = temple

@@ -1,6 +1,9 @@
 title = c_lorhaus
-max_settlements = 2
+max_settlements = 5
 culture = leutz_vixe
 religion = unionism
-b_lorhaus = castle
-b_lorhaus2 = temple
+
+b_eispelt = castle
+b_krkels = temple
+b_houlle = city
+b_merlange = city

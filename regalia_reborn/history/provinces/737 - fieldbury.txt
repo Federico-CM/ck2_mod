@@ -1,6 +1,7 @@
 title = c_fieldbury
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_fieldbury = castle
-b_fieldbury2 = temple
+
+b_soula = castle
+b_outhdale = temple

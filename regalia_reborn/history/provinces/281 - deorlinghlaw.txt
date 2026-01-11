@@ -1,6 +1,7 @@
 title = c_deorlinghlaw
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_deorlinghlaw = castle
-b_deorlinghlaw2 = temple
+
+b_camerham = castle
+b_lewell = temple

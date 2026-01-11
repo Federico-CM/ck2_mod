@@ -11,14 +11,22 @@ e_girobalda = {
             color2 = { 186 188 160 }
             capital = 872
             c_alcaniz = {
-                b_alcaniz = {
+                b_casana = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_alcaniz2 = {
+                b_narro = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_olina = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 186 188 160 }
                 color2 = { 186 188 160 }
                 culture = tierravera
@@ -26,14 +34,27 @@ e_girobalda = {
                 title_female = count
             }
             c_cuenzerca = {
-                b_cuenzerca = {
+                b_amaleja = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_cuenzerca2 = {
+                b_marzos = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_fijuela = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_genes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 196 197 161 }
                 color2 = { 196 197 161 }
                 culture = tierravera
@@ -41,14 +62,22 @@ e_girobalda = {
                 title_female = count
             }
             c_lbertade = {
-                b_lbertade = {
+                b_asaos = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lbertade2 = {
+                b_granche = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_manzas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 192 200 146 }
                 color2 = { 192 200 146 }
                 culture = tierravera
@@ -56,14 +85,27 @@ e_girobalda = {
                 title_female = count
             }
             c_santa_clara = {
-                b_santa_clara = {
+                b_lugos = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_santa_clara2 = {
+                b_alcaica = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_paraza = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_entes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 193 184 152 }
                 color2 = { 193 184 152 }
                 culture = tierravera
@@ -79,14 +121,27 @@ e_girobalda = {
             color2 = { 183 191 146 }
             capital = 876
             c_forriesta_sul = {
-                b_forriesta_sul = {
+                b_rines = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_forriesta_sul2 = {
+                b_tenera = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_matero = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_jaure = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 205 198 140 }
                 color2 = { 205 198 140 }
                 culture = tierravera
@@ -94,14 +149,32 @@ e_girobalda = {
                 title_female = count
             }
             c_lamarca = {
-                b_lamarca = {
+                b_tapelas = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lamarca2 = {
+                b_ambre = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_palate = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_torreiro = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_gardena = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 199 192 141 }
                 color2 = { 199 192 141 }
                 culture = tierravera
@@ -109,14 +182,22 @@ e_girobalda = {
                 title_female = count
             }
             c_plasencia = {
-                b_plasencia = {
+                b_ordia = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_plasencia2 = {
+                b_lancedo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ranchal = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 202 187 129 }
                 color2 = { 202 187 129 }
                 culture = tierravera
@@ -124,14 +205,32 @@ e_girobalda = {
                 title_female = count
             }
             c_segovia = {
-                b_segovia = {
+                b_reque = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_segovia2 = {
+                b_barrieda = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_confro = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_fanos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_agarce = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 183 191 146 }
                 color2 = { 183 191 146 }
                 culture = tierravera
@@ -147,14 +246,22 @@ e_girobalda = {
             color2 = { 196 191 137 }
             capital = 880
             c_lacabera = {
-                b_lacabera = {
+                b_llamaio = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lacabera2 = {
+                b_mereo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_borda = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 199 173 160 }
                 color2 = { 199 173 160 }
                 culture = tierravera
@@ -162,14 +269,27 @@ e_girobalda = {
                 title_female = count
             }
             c_paredes = {
-                b_paredes = {
+                b_arcia = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_paredes2 = {
+                b_caldea = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_paniba = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_alona = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 196 191 137 }
                 color2 = { 196 191 137 }
                 culture = tierravera
@@ -177,14 +297,27 @@ e_girobalda = {
                 title_female = count
             }
             c_rugulia = {
-                b_rugulia = {
+                b_dences = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rugulia2 = {
+                b_salanos = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_aviudas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_queta = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 201 177 167 }
                 color2 = { 201 177 167 }
                 culture = tierravera
@@ -200,14 +333,22 @@ e_girobalda = {
             color2 = { 177 193 136 }
             capital = 883
             c_anahacasa = {
-                b_anahacasa = {
+                b_ordas = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_anahacasa2 = {
+                b_carras = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_garita = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 208 165 151 }
                 color2 = { 208 165 151 }
                 culture = tierravera
@@ -215,14 +356,22 @@ e_girobalda = {
                 title_female = count
             }
             c_costa_marca = {
-                b_costa_marca = {
+                b_rosana = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_costa_marca2 = {
+                b_zares = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vianeta = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 177 193 136 }
                 color2 = { 177 193 136 }
                 culture = tierravera
@@ -230,14 +379,22 @@ e_girobalda = {
                 title_female = count
             }
             c_cujiro = {
-                b_cujiro = {
+                b_boeja = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_cujiro2 = {
+                b_utria = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_candi = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 192 172 158 }
                 color2 = { 192 172 158 }
                 culture = tierravera
@@ -245,14 +402,22 @@ e_girobalda = {
                 title_female = count
             }
             c_tallaverda = {
-                b_tallaverda = {
+                b_bergo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tallaverda2 = {
+                b_borada = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_retanes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 186 198 140 }
                 color2 = { 186 198 140 }
                 culture = tierravera
@@ -276,14 +441,27 @@ e_girobalda = {
             color2 = { 188 171 154 }
             capital = 887
             c_forriesta_natal = {
-                b_forriesta_natal = {
+                b_valdo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_forriesta_natal2 = {
+                b_torillas = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_orino = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_envida = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 200 184 137 }
                 color2 = { 200 184 137 }
                 culture = tierravera
@@ -291,14 +469,27 @@ e_girobalda = {
                 title_female = count
             }
             c_olaze = {
-                b_olaze = {
+                b_fones = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_olaze2 = {
+                b_tariz = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_grillo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_benitas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 208 173 120 }
                 color2 = { 208 173 120 }
                 culture = tierravera
@@ -306,14 +497,27 @@ e_girobalda = {
                 title_female = count
             }
             c_penilla = {
-                b_penilla = {
+                b_villor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_penilla2 = {
+                b_ribara = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_magas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_proveros = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 188 171 154 }
                 color2 = { 188 171 154 }
                 culture = tierravera
@@ -321,14 +525,22 @@ e_girobalda = {
                 title_female = count
             }
             c_villa_mena = {
-                b_villa_mena = {
+                b_berzano = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_villa_mena2 = {
+                b_valser = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_bondo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 208 188 144 }
                 color2 = { 208 188 144 }
                 culture = tierravera
@@ -344,14 +556,22 @@ e_girobalda = {
             color2 = { 193 189 138 }
             capital = 891
             c_corazon = {
-                b_corazon = {
+                b_cullo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_corazon2 = {
+                b_tiello = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_castrain = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 207 187 127 }
                 color2 = { 207 187 127 }
                 culture = tierravera
@@ -359,14 +579,32 @@ e_girobalda = {
                 title_female = count
             }
             c_ferrol = {
-                b_ferrol = {
+                b_entoria = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ferrol2 = {
+                b_basilla = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_porles = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_cabrio = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_alencia = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 193 189 138 }
                 color2 = { 193 189 138 }
                 culture = tierravera
@@ -374,14 +612,22 @@ e_girobalda = {
                 title_female = count
             }
             c_pondevega = {
-                b_pondevega = {
+                b_caranzo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_pondevega2 = {
+                b_olabena = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_capanzo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 222 196 129 }
                 color2 = { 222 196 129 }
                 culture = tierravera
@@ -389,14 +635,27 @@ e_girobalda = {
                 title_female = count
             }
             c_torrelaguna = {
-                b_torrelaguna = {
+                b_valins = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_torrelaguna2 = {
+                b_viles = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_semil = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_peras = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 212 183 135 }
                 color2 = { 212 183 135 }
                 culture = tierravera
@@ -412,14 +671,27 @@ e_girobalda = {
             color2 = { 196 176 128 }
             capital = 895
             c_cahecho = {
-                b_cahecho = {
+                b_calla = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_cahecho2 = {
+                b_vallu = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_artos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_cabecera = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 219 196 119 }
                 color2 = { 219 196 119 }
                 culture = tierravera
@@ -427,14 +699,27 @@ e_girobalda = {
                 title_female = count
             }
             c_compostela = {
-                b_compostela = {
+                b_bedero = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_compostela2 = {
+                b_navaleja = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_tomayor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_martedo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 202 191 126 }
                 color2 = { 202 191 126 }
                 culture = tierravera
@@ -442,14 +727,22 @@ e_girobalda = {
                 title_female = count
             }
             c_llanes = {
-                b_llanes = {
+                b_busedo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_llanes2 = {
+                b_veiras = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_macedo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 220 194 148 }
                 color2 = { 220 194 148 }
                 culture = tierravera
@@ -457,14 +750,27 @@ e_girobalda = {
                 title_female = count
             }
             c_orriondas = {
-                b_orriondas = {
+                b_cente = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_orriondas2 = {
+                b_cabadelo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_cojalera = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_villal = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 221 183 147 }
                 color2 = { 221 183 147 }
                 culture = tierravera
@@ -472,14 +778,22 @@ e_girobalda = {
                 title_female = count
             }
             c_tollavega = {
-                b_tollavega = {
+                b_acena = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tollavega2 = {
+                b_uztera = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_javilla = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 196 176 128 }
                 color2 = { 196 176 128 }
                 culture = tierravera
@@ -503,14 +817,22 @@ e_girobalda = {
             color2 = { 202 197 151 }
             capital = 900
             c_eivsa = {
-                b_eivsa = {
+                b_elgiri = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_eivsa2 = {
+                b_paravel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_talorin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 225 200 144 }
                 color2 = { 225 200 144 }
                 culture = suvial
@@ -518,14 +840,22 @@ e_girobalda = {
                 title_female = count
             }
             c_vasco = {
-                b_vasco = {
+                b_caborda = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_vasco2 = {
+                b_mator = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_casteles = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 202 197 151 }
                 color2 = { 202 197 151 }
                 culture = tierravera
@@ -541,14 +871,22 @@ e_girobalda = {
             color2 = { 194 200 130 }
             capital = 902
             c_canaguinim = {
-                b_canaguinim = {
+                b_meraval = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_canaguinim2 = {
+                b_palisel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torisel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 215 176 115 }
                 color2 = { 215 176 115 }
                 culture = suvial
@@ -556,14 +894,22 @@ e_girobalda = {
                 title_female = count
             }
             c_dharbandora = {
-                b_dharbandora = {
+                b_valgiri = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_dharbandora2 = {
+                b_kalnira = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_silgora = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 194 200 130 }
                 color2 = { 194 200 130 }
                 culture = suvial
@@ -571,14 +917,22 @@ e_girobalda = {
                 title_female = count
             }
             c_karwar = {
-                b_karwar = {
+                b_paloren = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_karwar2 = {
+                b_asenor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_silmora = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 204 178 134 }
                 color2 = { 204 178 134 }
                 culture = suvial
@@ -586,14 +940,22 @@ e_girobalda = {
                 title_female = count
             }
             c_manilon = {
-                b_manilon = {
+                b_margesa = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_manilon2 = {
+                b_gollo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_pillana = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 220 182 123 }
                 color2 = { 220 182 123 }
                 culture = tierravera
@@ -609,14 +971,27 @@ e_girobalda = {
             color2 = { 204 174 116 }
             capital = 906
             c_barrsa = {
-                b_barrsa = {
+                b_lejos = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_barrsa2 = {
+                b_canilla = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_visto = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_sares = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 204 174 116 }
                 color2 = { 204 174 116 }
                 culture = tierravera
@@ -624,14 +999,27 @@ e_girobalda = {
                 title_female = count
             }
             c_oras = {
-                b_oras = {
+                b_narivel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_oras2 = {
+                b_narmora = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vantira = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_narisel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 214 171 125 }
                 color2 = { 214 171 125 }
                 culture = suvial
@@ -647,14 +1035,22 @@ e_girobalda = {
             color2 = { 200 204 123 }
             capital = 908
             c_chandagad = {
-                b_chandagad = {
+                b_lantira = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_chandagad2 = {
+                b_kaltera = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lumtara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 223 190 114 }
                 color2 = { 223 190 114 }
                 culture = suvial
@@ -662,14 +1058,22 @@ e_girobalda = {
                 title_female = count
             }
             c_malabon = {
-                b_malabon = {
+                b_travo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_malabon2 = {
+                b_angos = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_monova = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 217 200 113 }
                 color2 = { 217 200 113 }
                 culture = tierravera
@@ -677,14 +1081,27 @@ e_girobalda = {
                 title_female = count
             }
             c_nagoa = {
-                b_nagoa = {
+                b_santira = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nagoa2 = {
+                b_malgora = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_elsenor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_rangisel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 200 204 123 }
                 color2 = { 200 204 123 }
                 culture = suvial
@@ -692,14 +1109,22 @@ e_girobalda = {
                 title_female = count
             }
             c_quezon = {
-                b_quezon = {
+                b_mazanes = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_quezon2 = {
+                b_gabrera = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_cenas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 210 199 147 }
                 color2 = { 210 199 147 }
                 culture = tierravera
@@ -723,14 +1148,32 @@ e_girobalda = {
             color2 = { 166 182 147 }
             capital = 912
             c_algarindro = {
-                b_algarindro = {
+                b_marga = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_algarindro2 = {
+                b_orena = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_remora = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_sancho = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_mantana = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 166 182 147 }
                 color2 = { 166 182 147 }
                 culture = tierravera
@@ -738,14 +1181,27 @@ e_girobalda = {
                 title_female = count
             }
             c_cazalla = {
-                b_cazalla = {
+                b_villavas = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_cazalla2 = {
+                b_dalosa = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_biura = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_aules = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 183 168 139 }
                 color2 = { 183 168 139 }
                 culture = tierravera
@@ -753,14 +1209,27 @@ e_girobalda = {
                 title_female = count
             }
             c_marchena = {
-                b_marchena = {
+                b_tamay = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_marchena2 = {
+                b_castel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lorella = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vegalbas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 181 147 146 }
                 color2 = { 181 147 146 }
                 culture = tierravera
@@ -768,14 +1237,22 @@ e_girobalda = {
                 title_female = count
             }
             c_paradas = {
-                b_paradas = {
+                b_riente = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_paradas2 = {
+                b_navos = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_cubia = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 173 170 134 }
                 color2 = { 173 170 134 }
                 culture = tierravera
@@ -791,14 +1268,27 @@ e_girobalda = {
             color2 = { 166 147 129 }
             capital = 916
             c_algaidos = {
-                b_algaidos = {
+                b_vivel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_algaidos2 = {
+                b_cabres = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_chara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ligales = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 183 148 114 }
                 color2 = { 183 148 114 }
                 culture = tierravera
@@ -806,14 +1296,27 @@ e_girobalda = {
                 title_female = count
             }
             c_competa = {
-                b_competa = {
+                b_silosa = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_competa2 = {
+                b_millosa = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_carba = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_labajas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 166 147 129 }
                 color2 = { 166 147 129 }
                 culture = tierravera
@@ -821,14 +1324,22 @@ e_girobalda = {
                 title_female = count
             }
             c_costa_talar = {
-                b_costa_talar = {
+                b_sanzuela = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_costa_talar2 = {
+                b_sillas = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_beros = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 192 147 116 }
                 color2 = { 192 147 116 }
                 culture = tierravera
@@ -836,14 +1347,27 @@ e_girobalda = {
                 title_female = count
             }
             c_rosaria = {
-                b_rosaria = {
+                b_alano = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rosaria2 = {
+                b_villabar = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_malado = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_fonteira = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 172 171 137 }
                 color2 = { 172 171 137 }
                 culture = tierravera
@@ -851,14 +1375,32 @@ e_girobalda = {
                 title_female = count
             }
             c_trabucco = {
-                b_trabucco = {
+                b_vacaras = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_trabucco2 = {
+                b_monde = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_matamayo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_benis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_corte = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 190 167 117 }
                 color2 = { 190 167 117 }
                 culture = tierravera
@@ -874,14 +1416,32 @@ e_girobalda = {
             color2 = { 169 186 144 }
             capital = 921
             c_gilena = {
-                b_gilena = {
+                b_barroa = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gilena2 = {
+                b_buizal = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vilana = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_benas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_estelos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 169 186 144 }
                 color2 = { 169 186 144 }
                 culture = tierravera
@@ -889,14 +1449,22 @@ e_girobalda = {
                 title_female = count
             }
             c_herrera = {
-                b_herrera = {
+                b_rondo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_herrera2 = {
+                b_burelas = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lusado = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 173 154 137 }
                 color2 = { 173 154 137 }
                 culture = tierravera
@@ -904,14 +1472,32 @@ e_girobalda = {
                 title_female = count
             }
             c_montefrio = {
-                b_montefrio = {
+                b_valdea = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_montefrio2 = {
+                b_lagrano = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_renes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_cande = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_quinta = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 183 160 132 }
                 color2 = { 183 160 132 }
                 culture = tierravera
@@ -919,14 +1505,27 @@ e_girobalda = {
                 title_female = count
             }
             c_puente_gentil = {
-                b_puente_gentil = {
+                b_montala = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_puente_gentil2 = {
+                b_tenos = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_cebros = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_arzana = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 194 161 115 }
                 color2 = { 194 161 115 }
                 culture = tierravera
@@ -934,14 +1533,27 @@ e_girobalda = {
                 title_female = count
             }
             c_romera = {
-                b_romera = {
+                b_baresa = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_romera2 = {
+                b_balleja = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_barias = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_adorne = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 193 167 119 }
                 color2 = { 193 167 119 }
                 culture = tierravera
@@ -949,14 +1561,22 @@ e_girobalda = {
                 title_female = count
             }
             c_rute = {
-                b_rute = {
+                b_morena = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rute2 = {
+                b_fonta = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_almaga = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 181 161 127 }
                 color2 = { 181 161 127 }
                 culture = tierravera
@@ -980,14 +1600,22 @@ e_girobalda = {
             color2 = { 167 153 108 }
             capital = 927
             c_alcantarilla = {
-                b_alcantarilla = {
+                b_moedo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_alcantarilla2 = {
+                b_sorea = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_valdejo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 176 173 105 }
                 color2 = { 176 173 105 }
                 culture = tierravera
@@ -995,14 +1623,27 @@ e_girobalda = {
                 title_female = count
             }
             c_alpira = {
-                b_alpira = {
+                b_ceces = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_alpira2 = {
+                b_quilos = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_bouzo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_cubios = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 182 172 112 }
                 color2 = { 182 172 112 }
                 culture = tierravera
@@ -1010,14 +1651,22 @@ e_girobalda = {
                 title_female = count
             }
             c_elmaigmo = {
-                b_elmaigmo = {
+                b_barre = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_elmaigmo2 = {
+                b_veiro = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_franica = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 188 179 104 }
                 color2 = { 188 179 104 }
                 culture = tierravera
@@ -1025,14 +1674,22 @@ e_girobalda = {
                 title_female = count
             }
             c_montardilla = {
-                b_montardilla = {
+                b_mondan = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_montardilla2 = {
+                b_aborbe = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_gullo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 167 153 108 }
                 color2 = { 167 153 108 }
                 culture = tierravera
@@ -1040,14 +1697,32 @@ e_girobalda = {
                 title_female = count
             }
             c_petrola = {
-                b_petrola = {
+                b_guatra = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_petrola2 = {
+                b_carbay = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_apela = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_espinte = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_villard = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 192 176 137 }
                 color2 = { 192 176 137 }
                 culture = tierravera
@@ -1063,14 +1738,22 @@ e_girobalda = {
             color2 = { 177 180 130 }
             capital = 932
             c_quesada = {
-                b_quesada = {
+                b_valduri = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_quesada2 = {
+                b_basta = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_limes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 177 180 130 }
                 color2 = { 177 180 130 }
                 culture = tierravera
@@ -1078,14 +1761,27 @@ e_girobalda = {
                 title_female = count
             }
             c_san_selin = {
-                b_san_selin = {
+                b_arcol = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_san_selin2 = {
+                b_elbuente = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_menos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_sobrillo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 200 176 112 }
                 color2 = { 200 176 112 }
                 culture = tierravera
@@ -1093,14 +1789,32 @@ e_girobalda = {
                 title_female = count
             }
             c_santa_pola = {
-                b_santa_pola = {
+                b_orios = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_santa_pola2 = {
+                b_tornillo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_boquejo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ablas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_venteiro = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 196 174 125 }
                 color2 = { 196 174 125 }
                 culture = tierravera
@@ -1108,14 +1822,32 @@ e_girobalda = {
                 title_female = count
             }
             c_villa_joyosa = {
-                b_villa_joyosa = {
+                b_benero = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_villa_joyosa2 = {
+                b_cuiana = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torraz = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vergoya = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ucelas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 179 180 112 }
                 color2 = { 179 180 112 }
                 culture = tierravera
@@ -1131,14 +1863,27 @@ e_girobalda = {
             color2 = { 160 162 112 }
             capital = 936
             c_callosa = {
-                b_callosa = {
+                b_ronal = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_callosa2 = {
+                b_oredo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rafer = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_mestros = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 169 155 103 }
                 color2 = { 169 155 103 }
                 culture = tierravera
@@ -1146,14 +1891,22 @@ e_girobalda = {
                 title_female = count
             }
             c_laraja = {
-                b_laraja = {
+                b_escarin = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_laraja2 = {
+                b_esmora = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lorell = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 174 184 107 }
                 color2 = { 174 184 107 }
                 culture = tierravera
@@ -1161,14 +1914,22 @@ e_girobalda = {
                 title_female = count
             }
             c_santomera = {
-                b_santomera = {
+                b_visones = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_santomera2 = {
+                b_honte = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_arches = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 160 162 112 }
                 color2 = { 160 162 112 }
                 culture = tierravera

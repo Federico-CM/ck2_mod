@@ -1,6 +1,7 @@
 title = c_fear_glas
-max_settlements = 2
+max_settlements = 3
 culture = aontaithe
 religion = fornoss
-b_fear_glas = castle
-b_fear_glas2 = temple
+
+b_carrowvale = castle
+b_loughbane = temple

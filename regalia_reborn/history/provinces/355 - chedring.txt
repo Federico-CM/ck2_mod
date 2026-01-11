@@ -1,6 +1,7 @@
 title = c_chedring
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_chedring = castle
-b_chedring2 = temple
+
+b_kilnroyd = castle
+b_creley = temple

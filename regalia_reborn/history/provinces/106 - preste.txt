@@ -1,6 +1,8 @@
 title = c_preste
-max_settlements = 2
+max_settlements = 4
 culture = leutz_vixe
 religion = unionism
-b_preste = castle
-b_preste2 = temple
+
+b_gralien = castle
+b_vicheid = temple
+b_koercorn = city

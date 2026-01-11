@@ -1,6 +1,8 @@
 title = c_alpiarca
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_alpiarca = castle
-b_alpiarca2 = temple
+
+b_almarina = castle
+b_mouro = temple
+b_sardia = city

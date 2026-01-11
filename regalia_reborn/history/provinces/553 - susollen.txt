@@ -1,6 +1,7 @@
 title = c_susollen
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = draconism
-b_susollen = castle
-b_susollen2 = temple
+
+b_fokkert = castle
+b_hijssel = temple

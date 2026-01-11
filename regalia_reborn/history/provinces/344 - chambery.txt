@@ -1,6 +1,7 @@
 title = c_chambery
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_chambery = castle
-b_chambery2 = temple
+
+b_venels = castle
+b_chabie = temple

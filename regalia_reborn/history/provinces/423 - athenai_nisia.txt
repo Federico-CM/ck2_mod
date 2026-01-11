@@ -1,6 +1,8 @@
 title = c_athenai_nisia
-max_settlements = 2
+max_settlements = 4
 culture = etosian
 religion = evintarian
-b_athenai_nisia = castle
-b_athenai_nisia2 = temple
+
+b_sartona = castle
+b_akros = temple
+b_livades = city

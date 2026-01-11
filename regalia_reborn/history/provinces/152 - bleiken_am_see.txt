@@ -1,6 +1,7 @@
 title = c_bleiken_am_see
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_bleiken_am_see = castle
-b_bleiken_am_see2 = temple
+
+b_waigen = castle
+b_kirchsen = temple

@@ -1,6 +1,8 @@
 title = c_forriesta_natal
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_forriesta_natal = castle
-b_forriesta_natal2 = temple
+
+b_valdo = castle
+b_torillas = temple
+b_envida = city

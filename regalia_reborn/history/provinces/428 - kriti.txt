@@ -1,6 +1,7 @@
 title = c_kriti
-max_settlements = 2
+max_settlements = 3
 culture = etosian
 religion = evintarian
-b_kriti = castle
-b_kriti2 = temple
+
+b_lagkades = castle
+b_mourina = temple

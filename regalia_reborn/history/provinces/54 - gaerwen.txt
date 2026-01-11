@@ -1,6 +1,7 @@
 title = c_gaerwen
-max_settlements = 2
+max_settlements = 4
 culture = breizh
 religion = warda
-b_gaerwen = castle
-b_gaerwen2 = temple
+
+b_baldewic = castle
+b_faukeland = temple

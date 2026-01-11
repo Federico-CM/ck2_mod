@@ -1,6 +1,7 @@
 title = c_goedvelde
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_goedvelde = castle
-b_goedvelde2 = temple
+
+b_elderveen = castle
+b_bover = temple

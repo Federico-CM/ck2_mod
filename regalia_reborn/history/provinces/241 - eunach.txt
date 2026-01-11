@@ -1,6 +1,7 @@
 title = c_eunach
-max_settlements = 2
+max_settlements = 4
 culture = aber
 religion = evolism
-b_eunach = tribal
-b_eunach2 = temple
+
+b_balnies = tribal
+b_crarie = temple

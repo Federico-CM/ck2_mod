@@ -1,6 +1,7 @@
 title = c_blebsen
-max_settlements = 2
+max_settlements = 5
 culture = dunbrae
 religion = unionism
-b_blebsen = tribal
-b_blebsen2 = temple
+
+b_dundean = tribal
+b_artston = temple

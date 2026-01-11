@@ -1,6 +1,7 @@
 title = c_ceerelia
-max_settlements = 2
+max_settlements = 3
 culture = solvaan
 religion = estelley
-b_ceerelia = castle
-b_ceerelia2 = temple
+
+b_lumoran = castle
+b_valcella = temple

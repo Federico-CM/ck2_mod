@@ -1,6 +1,8 @@
 title = c_terni
-max_settlements = 2
+max_settlements = 5
 culture = cantaluna
 religion = unionism
-b_terni = castle
-b_terni2 = temple
+
+b_boffolo = castle
+b_valnuova = temple
+b_tubiano = city

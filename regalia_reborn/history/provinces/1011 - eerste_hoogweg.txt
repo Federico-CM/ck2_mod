@@ -1,6 +1,7 @@
 title = c_eerste_hoogweg
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_eerste_hoogweg = castle
-b_eerste_hoogweg2 = temple
+
+b_heelkoop = castle
+b_modder = temple

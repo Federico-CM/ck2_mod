@@ -1,6 +1,7 @@
 title = c_monperse
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_monperse = castle
-b_monperse2 = temple
+
+b_fondre = castle
+b_fulgoat = temple

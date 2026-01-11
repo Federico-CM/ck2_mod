@@ -1,6 +1,7 @@
 title = c_helstone
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_helstone = castle
-b_helstone2 = temple
+
+b_fourt = castle
+b_trons = temple

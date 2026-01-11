@@ -1,6 +1,7 @@
 title = c_tzakazvilis
-max_settlements = 2
+max_settlements = 4
 culture = etosian
 religion = evintarian
-b_tzakazvilis = castle
-b_tzakazvilis2 = temple
+
+b_delis = castle
+b_evria = temple

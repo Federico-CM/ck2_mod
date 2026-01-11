@@ -1,6 +1,7 @@
 title = c_odda
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_odda = tribal
-b_odda2 = temple
+
+b_garna = tribal
+b_koktorp = temple

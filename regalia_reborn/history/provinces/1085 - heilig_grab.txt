@@ -1,6 +1,7 @@
 title = c_heilig_grab
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_heilig_grab = castle
-b_heilig_grab2 = temple
+
+b_graberg = castle
+b_gebach = temple

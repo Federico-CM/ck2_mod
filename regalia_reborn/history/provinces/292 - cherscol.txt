@@ -1,6 +1,7 @@
 title = c_cherscol
-max_settlements = 2
+max_settlements = 4
 culture = dunbrae
 religion = unionism
-b_cherscol = tribal
-b_cherscol2 = temple
+
+b_manhall = tribal
+b_inninge = temple

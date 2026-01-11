@@ -1,6 +1,7 @@
 title = c_senavelle
-max_settlements = 2
+max_settlements = 4
 culture = finul
 religion = estelley
-b_senavelle = castle
-b_senavelle2 = temple
+
+b_avelan = castle
+b_lymora = temple

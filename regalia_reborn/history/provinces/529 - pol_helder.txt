@@ -1,6 +1,7 @@
 title = c_pol_helder
-max_settlements = 2
+max_settlements = 3
 culture = eronidas
 religion = draconism
-b_pol_helder = castle
-b_pol_helder2 = temple
+
+b_alnum = castle
+b_balum = temple

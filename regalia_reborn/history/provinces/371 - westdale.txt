@@ -1,6 +1,7 @@
 title = c_westdale
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_westdale = castle
-b_westdale2 = temple
+
+b_shirkham = castle
+b_walkham = temple

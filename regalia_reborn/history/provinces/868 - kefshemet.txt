@@ -1,6 +1,7 @@
 title = c_kefshemet
-max_settlements = 2
+max_settlements = 3
 culture = asha
 religion = khama
-b_kefshemet = castle
-b_kefshemet2 = temple
+
+b_neferak = castle
+b_qebira = temple

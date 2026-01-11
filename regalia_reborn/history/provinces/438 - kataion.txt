@@ -1,6 +1,7 @@
 title = c_kataion
-max_settlements = 2
+max_settlements = 4
 culture = etosian
 religion = evintarian
-b_kataion = castle
-b_kataion2 = temple
+
+b_lagis = castle
+b_fotis = temple

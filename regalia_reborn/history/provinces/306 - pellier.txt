@@ -1,6 +1,7 @@
 title = c_pellier
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_pellier = castle
-b_pellier2 = temple
+
+b_leyrac = castle
+b_magray = temple

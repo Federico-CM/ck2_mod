@@ -1,6 +1,7 @@
 title = c_avalla_loseia
-max_settlements = 2
+max_settlements = 4
 culture = solvaan
 religion = estelley
-b_avalla_loseia = castle
-b_avalla_loseia2 = temple
+
+b_nebrisor = castle
+b_almariel = temple

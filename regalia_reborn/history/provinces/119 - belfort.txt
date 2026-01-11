@@ -1,6 +1,7 @@
 title = c_belfort
-max_settlements = 2
+max_settlements = 4
 culture = zvorun
 religion = unionism
-b_belfort = castle
-b_belfort2 = temple
+
+b_findhof = castle
+b_finden = temple

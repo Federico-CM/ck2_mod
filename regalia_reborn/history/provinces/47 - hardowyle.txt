@@ -1,6 +1,7 @@
 title = c_hardowyle
-max_settlements = 2
+max_settlements = 3
 culture = dunbrae
 religion = unionism
-b_hardowyle = castle
-b_hardowyle2 = temple
+
+b_undon = castle
+b_greavend = temple

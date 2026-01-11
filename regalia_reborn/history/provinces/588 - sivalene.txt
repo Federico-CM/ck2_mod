@@ -1,6 +1,7 @@
 title = c_sivalene
-max_settlements = 2
+max_settlements = 5
 culture = finul
 religion = estelley
-b_sivalene = tribal
-b_sivalene2 = temple
+
+b_marisolyn = tribal
+b_brisala = temple

@@ -1,6 +1,7 @@
 title = c_castania
-max_settlements = 2
+max_settlements = 4
 culture = azzizzari
 religion = unionism
-b_castania = castle
-b_castania2 = temple
+
+b_rusanova = castle
+b_montesca = temple

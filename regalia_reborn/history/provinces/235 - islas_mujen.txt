@@ -1,6 +1,7 @@
 title = c_islas_mujen
-max_settlements = 2
+max_settlements = 3
 culture = allar
 religion = unionism
-b_islas_mujen = castle
-b_islas_mujen2 = temple
+
+b_valdaron = castle
+b_malressa = temple

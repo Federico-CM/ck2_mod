@@ -1,6 +1,7 @@
 title = c_formeby
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_formeby = castle
-b_formeby2 = temple
+
+b_oslohe = castle
+b_herhofen = temple

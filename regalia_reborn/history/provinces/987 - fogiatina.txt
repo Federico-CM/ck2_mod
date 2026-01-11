@@ -1,6 +1,7 @@
 title = c_fogiatina
-max_settlements = 2
+max_settlements = 4
 culture = cantaluna
 religion = unionism
-b_fogiatina = castle
-b_fogiatina2 = temple
+
+b_falito = castle
+b_sulli = temple

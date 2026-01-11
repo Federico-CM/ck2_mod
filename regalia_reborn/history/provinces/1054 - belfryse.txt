@@ -1,6 +1,7 @@
 title = c_belfryse
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = draconism
-b_belfryse = castle
-b_belfryse2 = temple
+
+b_braak = castle
+b_sluissen = temple

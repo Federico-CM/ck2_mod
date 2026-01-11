@@ -1,6 +1,7 @@
 title = c_veerle
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_veerle = castle
-b_veerle2 = temple
+
+b_cherie = castle
+b_coudon = temple

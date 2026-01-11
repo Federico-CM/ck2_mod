@@ -1,6 +1,9 @@
 title = c_ennas
-max_settlements = 2
+max_settlements = 5
 culture = leutz_vixe
 religion = unionism
-b_ennas = castle
-b_ennas2 = temple
+
+b_colbech = castle
+b_hunshaff = temple
+b_hougel = city
+b_tarch = city

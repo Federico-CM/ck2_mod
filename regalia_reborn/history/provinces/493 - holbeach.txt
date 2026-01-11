@@ -1,6 +1,8 @@
 title = c_holbeach
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_holbeach = castle
-b_holbeach2 = temple
+
+b_cutton = castle
+b_blacklan = temple
+b_lingham = city

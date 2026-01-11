@@ -1,6 +1,7 @@
 title = c_morvetenwald
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_morvetenwald = castle
-b_morvetenwald2 = temple
+
+b_wundorf = castle
+b_thendorf = temple

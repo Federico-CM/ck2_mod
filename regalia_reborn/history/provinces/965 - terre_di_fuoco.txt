@@ -1,6 +1,8 @@
 title = c_terre_di_fuoco
-max_settlements = 2
+max_settlements = 4
 culture = cantaluna
 religion = unionism
-b_terre_di_fuoco = castle
-b_terre_di_fuoco2 = temple
+
+b_madeo = castle
+b_crovina = temple
+b_fussone = city

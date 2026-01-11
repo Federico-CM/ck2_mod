@@ -1,6 +1,7 @@
 title = c_dinwall
-max_settlements = 2
+max_settlements = 4
 culture = url
 religion = unionism
-b_dinwall = tribal
-b_dinwall2 = temple
+
+b_talmore = tribal
+b_garbhach = temple

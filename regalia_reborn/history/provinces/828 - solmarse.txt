@@ -1,6 +1,7 @@
 title = c_solmarse
-max_settlements = 2
+max_settlements = 3
 culture = solvaan
 religion = estelley
-b_solmarse = castle
-b_solmarse2 = temple
+
+b_calbrumen = castle
+b_altimoris = temple

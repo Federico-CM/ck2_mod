@@ -1,6 +1,8 @@
 title = c_keval
-max_settlements = 2
+max_settlements = 5
 culture = breizh
 religion = warda
-b_keval = castle
-b_keval2 = temple
+
+b_clereham = castle
+b_bradecote = temple
+b_warington = city

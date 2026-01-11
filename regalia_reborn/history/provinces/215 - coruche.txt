@@ -1,6 +1,9 @@
 title = c_coruche
-max_settlements = 2
+max_settlements = 5
 culture = bragacao
 religion = unionism
-b_coruche = castle
-b_coruche2 = temple
+
+b_fares = castle
+b_escovelo = temple
+b_maganhas = city
+b_santinha = city

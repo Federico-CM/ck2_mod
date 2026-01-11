@@ -1,6 +1,7 @@
 title = c_prinsendeur
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_prinsendeur = castle
-b_prinsendeur2 = temple
+
+b_vijfhorn = castle
+b_brugge = temple

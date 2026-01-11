@@ -1,6 +1,7 @@
 title = c_amlwch
-max_settlements = 2
+max_settlements = 4
 culture = breizh
 religion = warda
-b_amlwch = castle
-b_amlwch2 = temple
+
+b_beauwic = castle
+b_mereford = temple

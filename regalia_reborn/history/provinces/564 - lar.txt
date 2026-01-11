@@ -1,6 +1,7 @@
 title = c_lar
-max_settlements = 2
+max_settlements = 5
 culture = aontaithe
 religion = fornoss
-b_lar = tribal
-b_lar2 = temple
+
+b_glenwick = tribal
+b_ardmoor = temple

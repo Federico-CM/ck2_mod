@@ -1,6 +1,8 @@
 title = c_dioran_isles
-max_settlements = 2
+max_settlements = 4
 culture = dragonkin
 religion = unionism
-b_dioran_isles = castle
-b_dioran_isles2 = temple
+
+b_sabanfara = castle
+b_tembekoro = temple
+b_bolodugu = city

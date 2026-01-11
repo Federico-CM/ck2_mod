@@ -1,6 +1,7 @@
 title = c_birkenbauerland
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_birkenbauerland = castle
-b_birkenbauerland2 = temple
+
+b_plassen = castle
+b_zeismhle = temple

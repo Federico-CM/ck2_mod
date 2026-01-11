@@ -1,6 +1,8 @@
 title = c_leerme
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_leerme = castle
-b_leerme2 = temple
+
+b_aalhoek = castle
+b_havenlo = temple
+b_ruisberg = city

@@ -1,6 +1,7 @@
 title = c_stepanavan
-max_settlements = 2
+max_settlements = 3
 culture = tsalqvanes
 religion = evintarian
-b_stepanavan = tribal
-b_stepanavan2 = temple
+
+b_khelvani = tribal
+b_zegori = temple

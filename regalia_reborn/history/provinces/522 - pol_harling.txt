@@ -1,6 +1,7 @@
 title = c_pol_harling
-max_settlements = 2
+max_settlements = 3
 culture = eronidas
 religion = unionism
-b_pol_harling = castle
-b_pol_harling2 = temple
+
+b_esselsum = castle
+b_aldum = temple

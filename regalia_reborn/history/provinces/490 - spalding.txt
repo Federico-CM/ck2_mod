@@ -1,6 +1,8 @@
 title = c_spalding
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_spalding = castle
-b_spalding2 = temple
+
+b_corne = castle
+b_boothan = temple
+b_anside = city

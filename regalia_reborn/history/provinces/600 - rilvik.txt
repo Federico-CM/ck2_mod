@@ -1,6 +1,8 @@
 title = c_rilvik
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_rilvik = castle
-b_rilvik2 = temple
+
+b_kedal = castle
+b_hudalen = temple
+b_ostad = city

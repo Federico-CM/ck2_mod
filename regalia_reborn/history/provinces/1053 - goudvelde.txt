@@ -1,6 +1,7 @@
 title = c_goudvelde
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_goudvelde = castle
-b_goudvelde2 = temple
+
+b_hezijl = castle
+b_schildam = temple

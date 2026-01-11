@@ -1,6 +1,7 @@
 title = c_ben_alder
-max_settlements = 2
+max_settlements = 4
 culture = dunbrae
 religion = unionism
-b_ben_alder = castle
-b_ben_alder2 = temple
+
+b_scarr = castle
+b_barns = temple

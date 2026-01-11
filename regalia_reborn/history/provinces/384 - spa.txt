@@ -1,6 +1,7 @@
 title = c_spa
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_spa = castle
-b_spa2 = temple
+
+b_publey = castle
+b_leaze = temple

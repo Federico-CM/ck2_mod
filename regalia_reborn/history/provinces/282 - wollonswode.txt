@@ -1,6 +1,7 @@
 title = c_wollonswode
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_wollonswode = castle
-b_wollonswode2 = temple
+
+b_brightle = castle
+b_riberton = temple

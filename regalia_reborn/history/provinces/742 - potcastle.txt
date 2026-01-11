@@ -1,6 +1,7 @@
 title = c_potcastle
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_potcastle = castle
-b_potcastle2 = temple
+
+b_rumby = castle
+b_warkham = temple

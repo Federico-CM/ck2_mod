@@ -1,6 +1,7 @@
 title = c_marais
-max_settlements = 2
+max_settlements = 3
 culture = zvorun
 religion = unionism
-b_marais = castle
-b_marais2 = temple
+
+b_koennen = castle
+b_welange = temple

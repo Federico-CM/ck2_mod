@@ -1,6 +1,7 @@
 title = c_pellorisse
-max_settlements = 2
+max_settlements = 3
 culture = llasada
 religion = estelley
-b_pellorisse = castle
-b_pellorisse2 = temple
+
+b_pedraval = castle
+b_velaryel = temple

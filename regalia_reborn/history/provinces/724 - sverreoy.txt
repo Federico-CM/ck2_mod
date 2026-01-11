@@ -1,6 +1,7 @@
 title = c_sverreoy
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_sverreoy = castle
-b_sverreoy2 = temple
+
+b_smgrd = castle
+b_trovik = temple

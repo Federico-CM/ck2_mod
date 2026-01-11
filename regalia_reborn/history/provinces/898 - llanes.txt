@@ -1,6 +1,7 @@
 title = c_llanes
-max_settlements = 2
+max_settlements = 3
 culture = tierravera
 religion = unionism
-b_llanes = castle
-b_llanes2 = temple
+
+b_busedo = castle
+b_veiras = temple

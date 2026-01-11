@@ -1,6 +1,7 @@
 title = c_ermeplaat
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = draconism
-b_ermeplaat = castle
-b_ermeplaat2 = temple
+
+b_beijl = castle
+b_meerenhout = temple

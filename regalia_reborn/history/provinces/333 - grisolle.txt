@@ -1,6 +1,7 @@
 title = c_grisolle
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_grisolle = castle
-b_grisolle2 = temple
+
+b_fontois = castle
+b_puyrac = temple

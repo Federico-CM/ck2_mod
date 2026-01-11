@@ -1,6 +1,7 @@
 title = c_pikesbourne
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_pikesbourne = castle
-b_pikesbourne2 = temple
+
+b_alporth = castle
+b_winety = temple

@@ -1,6 +1,7 @@
 title = c_salerma
-max_settlements = 2
+max_settlements = 3
 culture = azzizzari
 religion = unionism
-b_salerma = castle
-b_salerma2 = temple
+
+b_belmira = castle
+b_roccetta = temple

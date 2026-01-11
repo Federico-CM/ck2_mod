@@ -1,6 +1,7 @@
 title = c_civita
-max_settlements = 2
+max_settlements = 4
 culture = cantaluna
 religion = amended
-b_civita = castle
-b_civita2 = temple
+
+b_brazzo = castle
+b_prassi = temple

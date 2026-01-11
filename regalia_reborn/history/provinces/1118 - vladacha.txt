@@ -1,6 +1,8 @@
 title = c_vladacha
-max_settlements = 2
+max_settlements = 4
 culture = krainivaya
 religion = fornoss
-b_vladacha = castle
-b_vladacha2 = temple
+
+b_darenkiv = castle
+b_velchyna = temple
+b_likiv = city

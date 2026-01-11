@@ -1,6 +1,7 @@
 title = c_elleialavon
-max_settlements = 2
+max_settlements = 4
 culture = solvaan
 religion = estelley
-b_elleialavon = castle
-b_elleialavon2 = temple
+
+b_belcoran = castle
+b_valcanor = temple

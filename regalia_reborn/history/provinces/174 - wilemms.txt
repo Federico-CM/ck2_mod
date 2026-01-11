@@ -1,6 +1,7 @@
 title = c_wilemms
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_wilemms = castle
-b_wilemms2 = temple
+
+b_gossen = castle
+b_lenrode = temple

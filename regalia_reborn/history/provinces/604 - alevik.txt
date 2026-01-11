@@ -1,6 +1,8 @@
 title = c_alevik
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_alevik = castle
-b_alevik2 = temple
+
+b_litjrn = castle
+b_bottnet = temple
+b_aspholm = city

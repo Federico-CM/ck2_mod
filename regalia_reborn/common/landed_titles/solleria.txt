@@ -11,14 +11,37 @@ e_solleria = {
             color2 = { 119 169 170 }
             capital = 759
             c_anchal_wald = {
-                b_anchal_wald = {
+                b_ravdryl = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_anchal_wald2 = {
+                b_morthdryl = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_dinahc = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_crennarr = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_colnor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_relnor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 143 191 169 }
                 color2 = { 143 191 169 }
                 culture = kathar
@@ -26,14 +49,37 @@ e_solleria = {
                 title_female = count
             }
             c_lesinmon_mo = {
-                b_lesinmon_mo = {
+                b_duurt = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lesinmon_mo2 = {
+                b_dennerlo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_aalre = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_middeweg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_waterstede = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_laard = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 153 187 189 }
                 color2 = { 153 187 189 }
                 culture = anglian
@@ -41,14 +87,22 @@ e_solleria = {
                 title_female = count
             }
             c_sadeiannaar = {
-                b_sadeiannaar = {
+                b_naldarr = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sadeiannaar2 = {
+                b_krossnor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vressdryl = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 124 186 174 }
                 color2 = { 124 186 174 }
                 culture = kathar
@@ -56,14 +110,32 @@ e_solleria = {
                 title_female = count
             }
             c_sciermanna = {
-                b_sciermanna = {
+                b_zrendryl = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sciermanna2 = {
+                b_vassnor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_methdryl = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_velonn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_zeldryl = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 119 169 170 }
                 color2 = { 119 169 170 }
                 culture = kathar
@@ -79,14 +151,27 @@ e_solleria = {
             color2 = { 126 164 181 }
             capital = 763
             c_arranca = {
-                b_arranca = {
+                b_zarnor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_arranca2 = {
+                b_kethokh = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kivarr = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_nornor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 126 164 181 }
                 color2 = { 126 164 181 }
                 culture = kathar
@@ -94,14 +179,32 @@ e_solleria = {
                 title_female = count
             }
             c_leisaranaar = {
-                b_leisaranaar = {
+                b_westegen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_leisaranaar2 = {
+                b_albroek = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_zuidvel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_breden = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_loostein = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 145 190 191 }
                 color2 = { 145 190 191 }
                 culture = anglian
@@ -109,14 +212,22 @@ e_solleria = {
                 title_female = count
             }
             c_meiasn_moor = {
-                b_meiasn_moor = {
+                b_kalonn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_meiasn_moor2 = {
+                b_rilokh = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vezarr = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 130 157 159 }
                 color2 = { 130 157 159 }
                 culture = kathar
@@ -124,14 +235,22 @@ e_solleria = {
                 title_female = count
             }
             c_mirikiaan = {
-                b_mirikiaan = {
+                b_rilonn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_mirikiaan2 = {
+                b_kelnor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_zokonn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 137 168 162 }
                 color2 = { 137 168 162 }
                 culture = kathar
@@ -139,14 +258,32 @@ e_solleria = {
                 title_female = count
             }
             c_paravannaar = {
-                b_paravannaar = {
+                b_kahnor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_paravannaar2 = {
+                b_cravahc = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_mivonn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_krozahc = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_navarr = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 148 176 160 }
                 color2 = { 148 176 160 }
                 culture = kathar
@@ -162,14 +299,32 @@ e_solleria = {
             color2 = { 122 170 186 }
             capital = 768
             c_anchal_mars = {
-                b_anchal_mars = {
+                b_moronn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_anchal_mars2 = {
+                b_velahc = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_narnor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_mornokh = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_zokahc = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 149 169 187 }
                 color2 = { 149 169 187 }
                 culture = kathar
@@ -177,14 +332,22 @@ e_solleria = {
                 title_female = count
             }
             c_anchal_peak = {
-                b_anchal_peak = {
+                b_krondryl = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_anchal_peak2 = {
+                b_zethahc = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_varnokh = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 122 170 186 }
                 color2 = { 122 170 186 }
                 culture = kathar
@@ -192,14 +355,27 @@ e_solleria = {
                 title_female = count
             }
             c_paravennaar = {
-                b_paravennaar = {
+                b_calzonn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_paravennaar2 = {
+                b_varnor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_menzarr = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_nivahc = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 136 180 166 }
                 color2 = { 136 180 166 }
                 culture = kathar
@@ -207,14 +383,27 @@ e_solleria = {
                 title_female = count
             }
             c_ravanaas = {
-                b_ravanaas = {
+                b_rannokh = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ravanaas2 = {
+                b_rassonn = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_navokh = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_morarr = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 122 190 181 }
                 color2 = { 122 190 181 }
                 culture = kathar
@@ -238,14 +427,27 @@ e_solleria = {
             color2 = { 108 161 183 }
             capital = 772
             c_allat = {
-                b_allat = {
+                b_torvayor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_allat2 = {
+                b_brumatenor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torvalen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_valnebrin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 111 185 187 }
                 color2 = { 111 185 187 }
                 culture = solvaan
@@ -253,14 +455,27 @@ e_solleria = {
                 title_female = count
             }
             c_eil_ise = {
-                b_eil_ise = {
+                b_bornes = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_eil_ise2 = {
+                b_tilles = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lanaget = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_sazes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 108 161 183 }
                 color2 = { 108 161 183 }
                 culture = ithanian
@@ -268,14 +483,27 @@ e_solleria = {
                 title_female = count
             }
             c_eilodoor = {
-                b_eilodoor = {
+                b_lumicel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_eilodoor2 = {
+                b_valbrumarisell = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torenel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_marcellor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 138 165 201 }
                 color2 = { 138 165 201 }
                 culture = solvaan
@@ -283,14 +511,22 @@ e_solleria = {
                 title_female = count
             }
             c_sca_eeilon = {
-                b_sca_eeilon = {
+                b_marisel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sca_eeilon2 = {
+                b_beltenara = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_marcenel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 130 172 201 }
                 color2 = { 130 172 201 }
                 culture = solvaan
@@ -298,14 +534,27 @@ e_solleria = {
                 title_female = count
             }
             c_valon = {
-                b_valon = {
+                b_valbrumel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_valon2 = {
+                b_valbrumis = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_brumaris = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_coramiel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 132 190 171 }
                 color2 = { 132 190 171 }
                 culture = solvaan
@@ -321,14 +570,27 @@ e_solleria = {
             color2 = { 114 178 182 }
             capital = 777
             c_olvoor_moor = {
-                b_olvoor_moor = {
+                b_calbrumar = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_olvoor_moor2 = {
+                b_tornebror = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_brumarisell = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_coranoris = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 114 178 182 }
                 color2 = { 114 178 182 }
                 culture = solvaan
@@ -336,14 +598,22 @@ e_solleria = {
                 title_female = count
             }
             c_qartannaar = {
-                b_qartannaar = {
+                b_valfumaris = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_qartannaar2 = {
+                b_fumaroris = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_belmoris = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 123 171 180 }
                 color2 = { 123 171 180 }
                 culture = solvaan
@@ -351,14 +621,27 @@ e_solleria = {
                 title_female = count
             }
             c_samannae = {
-                b_samannae = {
+                b_valfumar = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_samannae2 = {
+                b_torimaris = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_brumisel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_nebralenara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 137 158 162 }
                 color2 = { 137 158 162 }
                 culture = solvaan
@@ -366,14 +649,22 @@ e_solleria = {
                 title_female = count
             }
             c_simsaan = {
-                b_simsaan = {
+                b_bravalen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_simsaan2 = {
+                b_nebralenor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_marcoris = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 124 180 161 }
                 color2 = { 124 180 161 }
                 culture = solvaan
@@ -381,14 +672,22 @@ e_solleria = {
                 title_female = count
             }
             c_sismaan = {
-                b_sismaan = {
+                b_beltenor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sismaan2 = {
+                b_valtenor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torenara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 132 170 173 }
                 color2 = { 132 170 173 }
                 culture = solvaan
@@ -396,14 +695,32 @@ e_solleria = {
                 title_female = count
             }
             c_uelman_feeila = {
-                b_uelman_feeila = {
+                b_nebralen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_uelman_feeila2 = {
+                b_brumacel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_leonara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_torenor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_marcenis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 127 157 178 }
                 color2 = { 127 157 178 }
                 culture = solvaan
@@ -419,14 +736,22 @@ e_solleria = {
             color2 = { 117 176 199 }
             capital = 783
             c_caelaerre = {
-                b_caelaerre = {
+                b_valenara = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_caelaerre2 = {
+                b_belmaris = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_valmorisell = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 134 179 196 }
                 color2 = { 134 179 196 }
                 culture = solvaan
@@ -434,14 +759,22 @@ e_solleria = {
                 title_female = count
             }
             c_ennas_varei = {
-                b_ennas_varei = {
+                b_nebralis = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ennas_varei2 = {
+                b_altanoris = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_calnebris = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 117 176 199 }
                 color2 = { 117 176 199 }
                 culture = solvaan
@@ -449,14 +782,22 @@ e_solleria = {
                 title_female = count
             }
             c_ennas_vis = {
-                b_ennas_vis = {
+                b_marcaniel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ennas_vis2 = {
+                b_marisella = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_nebrisen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 137 174 184 }
                 color2 = { 137 174 184 }
                 culture = solvaan
@@ -464,14 +805,32 @@ e_solleria = {
                 title_female = count
             }
             c_oesmalaan_ie = {
-                b_oesmalaan_ie = {
+                b_torvayel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_oesmalaan_ie2 = {
+                b_valcanar = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torvalis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_tormaris = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_fumaris = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 146 187 190 }
                 color2 = { 146 187 190 }
                 culture = solvaan
@@ -495,14 +854,27 @@ e_solleria = {
             color2 = { 141 212 196 }
             capital = 787
             c_carache_ise = {
-                b_carache_ise = {
+                b_reville = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_carache_ise2 = {
+                b_escoff = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_railhac = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lautes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 141 212 196 }
                 color2 = { 141 212 196 }
                 culture = ithanian
@@ -510,14 +882,22 @@ e_solleria = {
                 title_female = count
             }
             c_ivusul = {
-                b_ivusul = {
+                b_altinor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ivusul2 = {
+                b_valtenisell = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_corvalara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 173 197 209 }
                 color2 = { 173 197 209 }
                 culture = solvaan
@@ -525,14 +905,22 @@ e_solleria = {
                 title_female = count
             }
             c_mollere_ise = {
-                b_mollere_ise = {
+                b_torisell = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_mollere_ise2 = {
+                b_nebrisara = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_selcoran = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 155 186 218 }
                 color2 = { 155 186 218 }
                 culture = solvaan
@@ -540,14 +928,22 @@ e_solleria = {
                 title_female = count
             }
             c_rivere_ise = {
-                b_rivere_ise = {
+                b_escres = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rivere_ise2 = {
+                b_pache = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ragnat = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 147 212 191 }
                 color2 = { 147 212 191 }
                 culture = ithanian
@@ -563,14 +959,27 @@ e_solleria = {
             color2 = { 144 203 195 }
             capital = 791
             c_avalla_loseia = {
-                b_avalla_loseia = {
+                b_nebrisor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_avalla_loseia2 = {
+                b_almariel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_seltenisell = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_belcella = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 159 178 213 }
                 color2 = { 159 178 213 }
                 culture = solvaan
@@ -578,14 +987,27 @@ e_solleria = {
                 title_female = count
             }
             c_elleialavon = {
-                b_elleialavon = {
+                b_belcoran = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_elleialavon2 = {
+                b_valcanor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_altavel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_alticenar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 144 203 195 }
                 color2 = { 144 203 195 }
                 culture = solvaan
@@ -593,14 +1015,27 @@ e_solleria = {
                 title_female = count
             }
             c_maan = {
-                b_maan = {
+                b_torvella = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_maan2 = {
+                b_valcenor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_valmarenor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_fumavel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 156 185 195 }
                 color2 = { 156 185 195 }
                 culture = solvaan
@@ -608,14 +1043,27 @@ e_solleria = {
                 title_female = count
             }
             c_sanaara = {
-                b_sanaara = {
+                b_selmarisel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sanaara2 = {
+                b_torcanara = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_alticelis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_corcella = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 158 199 201 }
                 color2 = { 158 199 201 }
                 culture = solvaan
@@ -623,14 +1071,27 @@ e_solleria = {
                 title_female = count
             }
             c_ulvisalaan = {
-                b_ulvisalaan = {
+                b_altoren = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ulvisalaan2 = {
+                b_fumarcel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_altimora = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_fumariel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 147 205 198 }
                 color2 = { 147 205 198 }
                 culture = solvaan
@@ -646,14 +1107,27 @@ e_solleria = {
             color2 = { 143 204 205 }
             capital = 796
             c_ailayan_ase = {
-                b_ailayan_ase = {
+                b_mariselar = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ailayan_ase2 = {
+                b_alticela = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_mariselor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_torbrumel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 145 191 184 }
                 color2 = { 145 191 184 }
                 culture = solvaan
@@ -661,14 +1135,22 @@ e_solleria = {
                 title_female = count
             }
             c_athal_salen = {
-                b_athal_salen = {
+                b_estot = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_athal_salen2 = {
+                b_sautes = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_suard = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 143 204 205 }
                 color2 = { 143 204 205 }
                 culture = ithanian
@@ -676,14 +1158,32 @@ e_solleria = {
                 title_female = count
             }
             c_saleiaan_fa = {
-                b_saleiaan_fa = {
+                b_corisel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_saleiaan_fa2 = {
+                b_selcanara = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_mariscan = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_calmaris = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_valtenis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 168 203 191 }
                 color2 = { 168 203 191 }
 
@@ -694,14 +1194,27 @@ e_solleria = {
                 title_female = count
             }
             c_velincara = {
-                b_velincara = {
+                b_lumaris = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_velincara2 = {
+                b_torvalara = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torcalis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_valtenel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 148 209 197 }
                 color2 = { 148 209 197 }
                 culture = solvaan
@@ -709,14 +1222,22 @@ e_solleria = {
                 title_female = count
             }
             c_ylesse_ise = {
-                b_ylesse_ise = {
+                b_brumanor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ylesse_ise2 = {
+                b_calbrumis = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_marenara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 168 187 213 }
                 color2 = { 168 187 213 }
                 culture = solvaan
@@ -740,14 +1261,32 @@ e_solleria = {
             color2 = { 110 151 165 }
             capital = 801
             c_avaal_moor = {
-                b_avaal_moor = {
+                b_fumaravel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_avaal_moor2 = {
+                b_altisenor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_alticella = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_altorenel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_altiselin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 139 182 162 }
                 color2 = { 139 182 162 }
                 culture = solvaan
@@ -755,14 +1294,22 @@ e_solleria = {
                 title_female = count
             }
             c_hoogpunte = {
-                b_hoogpunte = {
+                b_marcanor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hoogpunte2 = {
+                b_tornebrin = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_valcoran = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 110 151 165 }
                 color2 = { 110 151 165 }
                 culture = solvaan
@@ -770,14 +1317,22 @@ e_solleria = {
                 title_female = count
             }
             c_meias_moor = {
-                b_meias_moor = {
+                b_marisoran = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_meias_moor2 = {
+                b_mariselin = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_altisell = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 145 155 157 }
                 color2 = { 145 155 157 }
                 culture = solvaan
@@ -785,14 +1340,32 @@ e_solleria = {
                 title_female = count
             }
             c_milaan_qarn = {
-                b_milaan_qarn = {
+                b_altanora = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_milaan_qarn2 = {
+                b_coraniel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torcella = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_altiselor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_selmarara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 150 183 190 }
                 color2 = { 150 183 190 }
                 culture = solvaan
@@ -800,14 +1373,22 @@ e_solleria = {
                 title_female = count
             }
             c_ulmanaal = {
-                b_ulmanaal = {
+                b_calbruma = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ulmanaal2 = {
+                b_torcalenor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_alticor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 113 189 184 }
                 color2 = { 113 189 184 }
                 culture = solvaan
@@ -823,14 +1404,32 @@ e_solleria = {
             color2 = { 118 181 177 }
             capital = 806
             c_allanlaaen = {
-                b_allanlaaen = {
+                b_fumarena = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_allanlaaen2 = {
+                b_torcanor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torcalen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_valcoren = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_selvalis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 118 181 177 }
                 color2 = { 118 181 177 }
                 culture = solvaan
@@ -838,14 +1437,27 @@ e_solleria = {
                 title_female = count
             }
             c_avonn = {
-                b_avonn = {
+                b_selvalenor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_avonn2 = {
+                b_fumaren = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_brumavel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_mariselis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 137 176 189 }
                 color2 = { 137 176 189 }
                 culture = solvaan
@@ -853,14 +1465,22 @@ e_solleria = {
                 title_female = count
             }
             c_callaei = {
-                b_callaei = {
+                b_valcanis = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_callaei2 = {
+                b_marvella = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_seltenis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 150 164 191 }
                 color2 = { 150 164 191 }
                 culture = solvaan
@@ -868,14 +1488,22 @@ e_solleria = {
                 title_female = count
             }
             c_meelleenn = {
-                b_meelleenn = {
+                b_valseris = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_meelleenn2 = {
+                b_altisel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torisora = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 143 153 177 }
                 color2 = { 143 153 177 }
                 culture = solvaan
@@ -883,14 +1511,22 @@ e_solleria = {
                 title_female = count
             }
             c_qalamann = {
-                b_qalamann = {
+                b_celsanor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_qalamann2 = {
+                b_draconel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_valcinar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 147 189 160 }
                 color2 = { 147 189 160 }
                 culture = solvaan
@@ -898,14 +1534,27 @@ e_solleria = {
                 title_female = count
             }
             c_salamaan = {
-                b_salamaan = {
+                b_valmorisel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_salamaan2 = {
+                b_nebrisell = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torfumarisell = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_alticenor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 144 171 189 }
                 color2 = { 144 171 189 }
                 culture = solvaan
@@ -921,14 +1570,22 @@ e_solleria = {
             color2 = { 110 155 152 }
             capital = 812
             c_ceerelia = {
-                b_ceerelia = {
+                b_lumoran = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ceerelia2 = {
+                b_valcella = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_corvalenor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 138 151 186 }
                 color2 = { 138 151 186 }
                 culture = solvaan
@@ -936,14 +1593,22 @@ e_solleria = {
                 title_female = count
             }
             c_eereseimaal = {
-                b_eereseimaal = {
+                b_corvalisell = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_eereseimaal2 = {
+                b_torvalenor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_valcoris = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 133 180 183 }
                 color2 = { 133 180 183 }
                 culture = solvaan
@@ -951,14 +1616,22 @@ e_solleria = {
                 title_female = count
             }
             c_milaan_alaa = {
-                b_milaan_alaa = {
+                b_valisora = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_milaan_alaa2 = {
+                b_brumaniel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_caliginor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 125 190 177 }
                 color2 = { 125 190 177 }
                 culture = solvaan
@@ -966,14 +1639,22 @@ e_solleria = {
                 title_female = count
             }
             c_milaan_sora = {
-                b_milaan_sora = {
+                b_valfumor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_milaan_sora2 = {
+                b_marvalen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_corvalen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 110 155 152 }
                 color2 = { 110 155 152 }
                 culture = solvaan
@@ -997,14 +1678,22 @@ e_solleria = {
             color2 = { 129 188 194 }
             capital = 816
             c_eihunt_moor = {
-                b_eihunt_moor = {
+                b_henloo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_eihunt_moor2 = {
+                b_nieuwemond = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_badhuis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 129 188 194 }
                 color2 = { 129 188 194 }
                 culture = anglian
@@ -1012,14 +1701,22 @@ e_solleria = {
                 title_female = count
             }
             c_ellei_moor = {
-                b_ellei_moor = {
+                b_feramoris = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ellei_moor2 = {
+                b_nebrador = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_altimaren = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 137 188 204 }
                 color2 = { 137 188 204 }
                 culture = solvaan
@@ -1027,14 +1724,27 @@ e_solleria = {
                 title_female = count
             }
             c_ennmeia = {
-                b_ennmeia = {
+                b_torcelor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ennmeia2 = {
+                b_cardenor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torfumel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_torvalenara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 145 173 179 }
                 color2 = { 145 173 179 }
                 culture = solvaan
@@ -1042,14 +1752,22 @@ e_solleria = {
                 title_female = count
             }
             c_mulaaan_moo = {
-                b_mulaaan_moo = {
+                b_valcenara = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_mulaaan_moo2 = {
+                b_valisell = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_altaniel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 142 179 175 }
                 color2 = { 142 179 175 }
                 culture = solvaan
@@ -1057,14 +1775,22 @@ e_solleria = {
                 title_female = count
             }
             c_valanara_mo = {
-                b_valanara_mo = {
+                b_torvalenis = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_valanara_mo2 = {
+                b_altamar = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_nebramar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 133 166 196 }
                 color2 = { 133 166 196 }
                 culture = solvaan
@@ -1080,14 +1806,27 @@ e_solleria = {
             color2 = { 124 186 186 }
             capital = 821
             c_linasaam = {
-                b_linasaam = {
+                b_torenoris = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_linasaam2 = {
+                b_nebrisel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_calimar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_torcalor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 158 201 202 }
                 color2 = { 158 201 202 }
                 culture = solvaan
@@ -1095,14 +1834,27 @@ e_solleria = {
                 title_female = count
             }
             c_minneia = {
-                b_minneia = {
+                b_tormelion = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_minneia2 = {
+                b_alticoris = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_fumarisel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_torvalisell = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 135 185 177 }
                 color2 = { 135 185 177 }
                 culture = solvaan
@@ -1110,14 +1862,22 @@ e_solleria = {
                 title_female = count
             }
             c_olloesa = {
-                b_olloesa = {
+                b_altanara = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_olloesa2 = {
+                b_seltenor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_belisell = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 133 193 184 }
                 color2 = { 133 193 184 }
                 culture = solvaan
@@ -1125,14 +1885,27 @@ e_solleria = {
                 title_female = count
             }
             c_sca_menais = {
-                b_sca_menais = {
+                b_alticoran = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sca_menais2 = {
+                b_torvalar = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_selcella = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_selcanisell = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 124 186 186 }
                 color2 = { 124 186 186 }
                 culture = solvaan
@@ -1148,14 +1921,27 @@ e_solleria = {
             color2 = { 140 178 190 }
             capital = 825
             c_aetlana = {
-                b_aetlana = {
+                b_valcenis = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_aetlana2 = {
+                b_marenor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_marcenor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_selvalisell = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 154 187 177 }
                 color2 = { 154 187 177 }
                 culture = solvaan
@@ -1163,14 +1949,22 @@ e_solleria = {
                 title_female = count
             }
             c_avmarsae = {
-                b_avmarsae = {
+                b_valceris = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_avmarsae2 = {
+                b_valnebris = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torimoris = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 145 191 176 }
                 color2 = { 145 191 176 }
                 culture = solvaan
@@ -1178,14 +1972,22 @@ e_solleria = {
                 title_female = count
             }
             c_eismarse = {
-                b_eismarse = {
+                b_valbrumaris = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_eismarse2 = {
+                b_coramoris = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_selmoris = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 140 178 190 }
                 color2 = { 140 178 190 }
                 culture = solvaan
@@ -1193,14 +1995,32 @@ e_solleria = {
                 title_female = count
             }
             c_iesh_mena = {
-                b_iesh_mena = {
+                b_fumarcan = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_iesh_mena2 = {
+                b_selcanor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_belvalen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_calnebror = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_celsimar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 147 188 195 }
                 color2 = { 147 188 195 }
                 culture = solvaan
@@ -1208,14 +2028,32 @@ e_solleria = {
                 title_female = count
             }
             c_olan_valei = {
-                b_olan_valei = {
+                b_valbrumor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_olan_valei2 = {
+                b_torfuman = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_tornebris = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_marenoris = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_valmaren = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 164 200 199 }
                 color2 = { 164 200 199 }
 
@@ -1226,14 +2064,22 @@ e_solleria = {
                 title_female = count
             }
             c_solmarse = {
-                b_solmarse = {
+                b_calbrumen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_solmarse2 = {
+                b_altimoris = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_valcorisel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 151 196 182 }
                 color2 = { 151 196 182 }
                 culture = solvaan

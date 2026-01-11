@@ -1,6 +1,8 @@
 title = c_lamarca
-max_settlements = 2
+max_settlements = 5
 culture = tierravera
 religion = unionism
-b_lamarca = castle
-b_lamarca2 = temple
+
+b_tapelas = castle
+b_ambre = temple
+b_torreiro = city

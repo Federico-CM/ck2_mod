@@ -1,6 +1,8 @@
 title = c_zollergurg
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_zollergurg = castle
-b_zollergurg2 = temple
+
+b_stockel = castle
+b_unten = temple
+b_sontrup = city

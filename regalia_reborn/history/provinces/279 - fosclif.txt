@@ -1,6 +1,8 @@
 title = c_fosclif
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_fosclif = castle
-b_fosclif2 = temple
+
+b_harbourn = castle
+b_baven = temple
+b_butles = city

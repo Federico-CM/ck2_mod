@@ -1,6 +1,8 @@
 title = c_gandermeer
-max_settlements = 2
+max_settlements = 5
 culture = anglian
 religion = unionism
-b_gandermeer = castle
-b_gandermeer2 = temple
+
+b_goudenwijk = castle
+b_morgen = temple
+b_bijswijk = city

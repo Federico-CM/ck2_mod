@@ -1,6 +1,7 @@
 title = c_azes
-max_settlements = 2
+max_settlements = 3
 culture = allar
 religion = unionism
-b_azes = castle
-b_azes2 = temple
+
+b_koradin = castle
+b_illirath = temple

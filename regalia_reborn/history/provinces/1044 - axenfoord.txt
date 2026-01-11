@@ -1,6 +1,8 @@
 title = c_axenfoord
-max_settlements = 2
+max_settlements = 5
 culture = anglian
 religion = unionism
-b_axenfoord1 = castle
-b_axenfoord2 = temple
+
+b_henkhoek = castle
+b_reede = temple
+b_welle = city

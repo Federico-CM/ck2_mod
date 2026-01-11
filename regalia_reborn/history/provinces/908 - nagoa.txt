@@ -1,6 +1,8 @@
 title = c_nagoa
-max_settlements = 2
+max_settlements = 4
 culture = suvial
 religion = estelley
-b_nagoa = castle
-b_nagoa2 = temple
+
+b_santira = castle
+b_malgora = temple
+b_elsenor = city

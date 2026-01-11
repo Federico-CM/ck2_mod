@@ -1,6 +1,7 @@
 title = c_ripefjord
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_ripefjord = tribal
-b_ripefjord2 = temple
+
+b_friddal = tribal
+b_fagerd = temple

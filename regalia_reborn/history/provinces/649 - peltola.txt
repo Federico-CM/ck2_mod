@@ -1,6 +1,7 @@
 title = c_peltola
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_peltola = castle
-b_peltola2 = temple
+
+b_brukemla = castle
+b_lyserud = temple

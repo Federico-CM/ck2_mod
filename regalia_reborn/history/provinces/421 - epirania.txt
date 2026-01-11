@@ -1,6 +1,8 @@
 title = c_epirania
-max_settlements = 2
+max_settlements = 4
 culture = byala
 religion = evintarian
-b_epirania = castle
-b_epirania2 = temple
+
+b_dolnitsa = castle
+b_bistren = temple
+b_zlatovo = city

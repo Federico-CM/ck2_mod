@@ -1,6 +1,7 @@
 title = c_holy_hills
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_holy_hills = castle
-b_holy_hills2 = temple
+
+b_meussen = castle
+b_fletheim = temple

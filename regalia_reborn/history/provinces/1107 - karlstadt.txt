@@ -1,6 +1,8 @@
 title = c_karlstadt
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_karlstadt = castle
-b_karlstadt2 = temple
+
+b_elmsdorf = castle
+b_himbeck = temple
+b_remmer = city

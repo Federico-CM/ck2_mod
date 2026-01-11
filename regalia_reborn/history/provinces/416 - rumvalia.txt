@@ -1,6 +1,7 @@
 title = c_rumvalia
-max_settlements = 2
+max_settlements = 3
 culture = ania
 religion = unionism
-b_rumvalia = tribal
-b_rumvalia2 = temple
+
+b_plopescu = tribal
+b_groaia = temple

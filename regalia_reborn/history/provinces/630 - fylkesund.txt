@@ -1,6 +1,8 @@
 title = c_fylkesund
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_fylkesund = castle
-b_fylkesund2 = temple
+
+b_bjrstarp = castle
+b_plsby = temple
+b_kusbyn = city

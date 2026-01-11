@@ -1,6 +1,7 @@
 title = c_gobirston
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_gobirston = castle
-b_gobirston2 = temple
+
+b_fontou = castle
+b_moslon = temple

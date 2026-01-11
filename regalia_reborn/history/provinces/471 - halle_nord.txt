@@ -1,6 +1,7 @@
 title = c_halle_nord
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_halle_nord = castle
-b_halle_nord2 = temple
+
+b_carres = castle
+b_marbiac = temple

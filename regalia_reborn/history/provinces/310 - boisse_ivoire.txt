@@ -1,6 +1,7 @@
 title = c_boisse_ivoire
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_boisse_ivoire = castle
-b_boisse_ivoire2 = temple
+
+b_elvilly = castle
+b_juillers = temple

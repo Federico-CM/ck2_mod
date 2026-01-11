@@ -1,6 +1,7 @@
 title = c_puente_gentil
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_puente_gentil = castle
-b_puente_gentil2 = temple
+
+b_montala = castle
+b_tenos = temple

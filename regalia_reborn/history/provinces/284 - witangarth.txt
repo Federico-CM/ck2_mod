@@ -1,6 +1,7 @@
 title = c_witangarth
-max_settlements = 2
+max_settlements = 4
 culture = dunbrae
 religion = unionism
-b_witangarth = tribal
-b_witangarth2 = temple
+
+b_whittle = tribal
+b_edingham = temple

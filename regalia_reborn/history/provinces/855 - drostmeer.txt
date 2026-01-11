@@ -1,6 +1,7 @@
 title = c_drostmeer
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = khama
-b_drostmeer = castle
-b_drostmeer2 = temple
+
+b_smalde = castle
+b_aanveen = temple

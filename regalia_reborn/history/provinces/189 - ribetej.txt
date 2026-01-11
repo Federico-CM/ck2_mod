@@ -1,6 +1,7 @@
 title = c_ribetej
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_ribetej = castle
-b_ribetej2 = temple
+
+b_fontana = castle
+b_estana = temple

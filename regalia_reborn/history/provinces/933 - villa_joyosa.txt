@@ -1,6 +1,8 @@
 title = c_villa_joyosa
-max_settlements = 2
+max_settlements = 5
 culture = tierravera
 religion = unionism
-b_villa_joyosa = castle
-b_villa_joyosa2 = temple
+
+b_benero = castle
+b_cuiana = temple
+b_ucelas = city

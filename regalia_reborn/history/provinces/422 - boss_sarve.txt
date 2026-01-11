@@ -1,6 +1,7 @@
 title = c_boss_sarve
-max_settlements = 2
+max_settlements = 3
 culture = dvala
 religion = evintarian
-b_boss_sarve = tribal
-b_boss_sarve2 = temple
+
+b_smolnik = tribal
+b_sedlar = temple

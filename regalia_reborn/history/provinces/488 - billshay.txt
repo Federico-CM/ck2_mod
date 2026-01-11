@@ -1,6 +1,7 @@
 title = c_billshay
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_billshay = castle
-b_billshay2 = temple
+
+b_hills = castle
+b_hinfield = temple

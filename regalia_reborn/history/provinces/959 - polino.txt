@@ -1,6 +1,8 @@
 title = c_polino
-max_settlements = 2
+max_settlements = 4
 culture = cantaluna
 religion = unionism
-b_polino = castle
-b_polino2 = temple
+
+b_guzzo = castle
+b_perolo = temple
+b_abatello = city

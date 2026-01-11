@@ -1,6 +1,7 @@
 title = c_donvarene
-max_settlements = 2
+max_settlements = 4
 culture = finul
 religion = estelley
-b_donvarene = castle
-b_donvarene2 = temple
+
+b_marisol = castle
+b_marenna = temple

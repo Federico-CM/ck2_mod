@@ -1,6 +1,7 @@
 title = c_loch_anchan
-max_settlements = 2
+max_settlements = 4
 culture = url
 religion = unionism
-b_loch_anchan = tribal
-b_loch_anchan2 = temple
+
+b_lornach = tribal
+b_morrach = temple

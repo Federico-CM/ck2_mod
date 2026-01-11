@@ -1,6 +1,7 @@
 title = c_estremouz
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_estremouz = castle
-b_estremouz2 = temple
+
+b_valde = castle
+b_corno = temple

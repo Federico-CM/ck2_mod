@@ -1,6 +1,7 @@
 title = c_boise_alais
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_boise_alais = castle
-b_boise_alais2 = temple
+
+b_sauvet = castle
+b_luresson = temple

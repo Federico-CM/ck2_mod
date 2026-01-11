@@ -1,6 +1,7 @@
 title = c_eismarse
-max_settlements = 2
+max_settlements = 3
 culture = solvaan
 religion = estelley
-b_eismarse = castle
-b_eismarse2 = temple
+
+b_valbrumaris = castle
+b_coramoris = temple

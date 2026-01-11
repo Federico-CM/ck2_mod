@@ -1,6 +1,7 @@
 title = c_sondburgh
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_sondburgh = castle
-b_sondburgh2 = temple
+
+b_altsberg = castle
+b_koppach = temple

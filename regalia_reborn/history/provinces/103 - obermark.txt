@@ -1,6 +1,8 @@
 title = c_obermark
-max_settlements = 2
+max_settlements = 4
 culture = leutz_vixe
 religion = unionism
-b_obermark = castle
-b_obermark2 = temple
+
+b_bridhaff = castle
+b_troossen = temple
+b_laange = city

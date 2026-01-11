@@ -1,6 +1,7 @@
 title = c_corazon
-max_settlements = 2
+max_settlements = 3
 culture = tierravera
 religion = unionism
-b_corazon = castle
-b_corazon2 = temple
+
+b_cullo = castle
+b_tiello = temple

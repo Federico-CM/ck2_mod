@@ -1,6 +1,8 @@
 title = c_almerim
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_almerim = castle
-b_almerim2 = temple
+
+b_milla = castle
+b_castana = temple
+b_panar = city

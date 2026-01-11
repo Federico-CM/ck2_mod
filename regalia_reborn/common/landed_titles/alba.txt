@@ -11,14 +11,27 @@ e_alba = {
             color2 = { 155 127 170 }
             capital = 33
             c_dundarne = {
-                b_dundarne = {
+                b_aikridge = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_dundarne2 = {
+                b_barne = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_mossmall = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_gringham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 155 127 170 }
                 color2 = { 155 127 170 }
                 culture = dunbrae
@@ -26,14 +39,22 @@ e_alba = {
                 title_female = count
             }
             c_glaick = {
-                b_glaick = {
+                b_davon = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_glaick2 = {
+                b_cardwick = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_aberton = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 170 104 182 }
                 color2 = { 170 104 182 }
                 culture = dunbrae
@@ -41,14 +62,22 @@ e_alba = {
                 title_female = count
             }
             c_norrackal = {
-                b_norrackal = {
+                b_kirkston = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_norrackal2 = {
+                b_ulston = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lechend = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 174 134 159 }
                 color2 = { 174 134 159 }
                 culture = dunbrae
@@ -56,14 +85,37 @@ e_alba = {
                 title_female = count
             }
             c_wickthur = {
-                b_wickthur = {
+                b_wortwood = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_wickthur2 = {
+                b_wested = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_reton = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_buckham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_beath = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kettle = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 168 140 181 }
                 color2 = { 168 140 181 }
                 culture = dunbrae
@@ -79,14 +131,27 @@ e_alba = {
             color2 = { 146 107 163 }
             capital = 37
             c_ballywydgown = {
-                b_ballywydgown = {
+                b_rostwood = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ballywydgown2 = {
+                b_blade = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_nethead = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_marwick = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 164 127 184 }
                 color2 = { 164 127 184 }
                 culture = dunbrae
@@ -94,14 +159,27 @@ e_alba = {
                 title_female = count
             }
             c_ben_alder = {
-                b_ben_alder = {
+                b_scarr = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ben_alder2 = {
+                b_barns = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hookham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_manswell = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 146 107 163 }
                 color2 = { 146 107 163 }
                 culture = dunbrae
@@ -109,14 +187,27 @@ e_alba = {
                 title_female = count
             }
             c_ben_stropaidh = {
-                b_ben_stropaidh = {
+                b_bield = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ben_stropaidh2 = {
+                b_kinning = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_spens = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_auston = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 159 141 150 }
                 color2 = { 159 141 150 }
 
@@ -127,14 +218,27 @@ e_alba = {
                 title_female = count
             }
             c_kerrickwayle = {
-                b_kerrickwayle = {
+                b_birchrie = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kerrickwayle2 = {
+                b_foxhalls = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_carnsa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_liddlam = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 155 115 165 }
                 color2 = { 155 115 165 }
                 culture = dunbrae
@@ -142,14 +246,22 @@ e_alba = {
                 title_female = count
             }
             c_mull = {
-                b_mull = {
+                b_rothill = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_mull2 = {
+                b_riverley = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_blackton = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 152 135 171 }
                 color2 = { 152 135 171 }
                 culture = dunbrae
@@ -165,14 +277,32 @@ e_alba = {
             color2 = { 141 108 171 }
             capital = 42
             c_atherdin = {
-                b_atherdin = {
+                b_asley = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_atherdin2 = {
+                b_birlby = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_inver = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_allheugh = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_duncroft = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 154 112 164 }
                 color2 = { 154 112 164 }
                 culture = dunbrae
@@ -180,14 +310,22 @@ e_alba = {
                 title_female = count
             }
             c_ben_hur = {
-                b_ben_hur = {
+                b_xorlan = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ben_hur2 = {
+                b_nairven = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_wernach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 156 125 158 }
                 color2 = { 156 125 158 }
                 culture = url
@@ -195,14 +333,32 @@ e_alba = {
                 title_female = count
             }
             c_carnowyle = {
-                b_carnowyle = {
+                b_ediss = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_carnowyle2 = {
+                b_orsley = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_aberley = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_holeston = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_emphead = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 158 113 167 }
                 color2 = { 158 113 167 }
                 culture = dunbrae
@@ -210,14 +366,22 @@ e_alba = {
                 title_female = count
             }
             c_hardowyle = {
-                b_hardowyle = {
+                b_undon = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hardowyle2 = {
+                b_greavend = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_bearsham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 173 126 173 }
                 color2 = { 173 126 173 }
                 culture = dunbrae
@@ -225,14 +389,22 @@ e_alba = {
                 title_female = count
             }
             c_ultaniss = {
-                b_ultaniss = {
+                b_penriggs = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ultaniss2 = {
+                b_sebridge = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lesham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 141 108 171 }
                 color2 = { 141 108 171 }
                 culture = dunbrae
@@ -240,14 +412,27 @@ e_alba = {
                 title_female = count
             }
             c_verness = {
-                b_verness = {
+                b_drumwell = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_verness2 = {
+                b_shott = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_beamord = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_milfoot = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 164 109 177 }
                 color2 = { 164 109 177 }
                 culture = dunbrae
@@ -271,14 +456,22 @@ e_alba = {
             color2 = { 163 130 143 }
             capital = 48
             c_alstyr = {
-                b_alstyr = {
+                b_wyrmton = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_alstyr2 = {
+                b_belrem = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_claremont = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 169 132 128 }
                 color2 = { 169 132 128 }
                 culture = breizh
@@ -286,14 +479,22 @@ e_alba = {
                 title_female = count
             }
             c_ara = {
-                b_ara = {
+                b_laverwic = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ara2 = {
+                b_montwic = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_elmere = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 194 136 120 }
                 color2 = { 194 136 120 }
                 culture = breizh
@@ -301,14 +502,22 @@ e_alba = {
                 title_female = count
             }
             c_machyntyr = {
-                b_machyntyr = {
+                b_montone = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_machyntyr2 = {
+                b_athelwic = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_belcote = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 189 152 120 }
                 color2 = { 189 152 120 }
                 culture = breizh
@@ -316,14 +525,22 @@ e_alba = {
                 title_female = count
             }
             c_valtyr = {
-                b_valtyr = {
+                b_haverham = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_valtyr2 = {
+                b_waltham = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_alverton = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 163 130 143 }
                 color2 = { 163 130 143 }
                 culture = breizh
@@ -339,14 +556,27 @@ e_alba = {
             color2 = { 164 164 120 }
             capital = 52
             c_abertyr = {
-                b_abertyr = {
+                b_wicmere = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_abertyr2 = {
+                b_haleswic = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_suthmere = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_beormont = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 193 143 118 }
                 color2 = { 193 143 118 }
                 culture = breizh
@@ -354,14 +584,22 @@ e_alba = {
                 title_female = count
             }
             c_alos = {
-                b_alos = {
+                b_wermund = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_alos2 = {
+                b_clereton = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_brandemont = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 194 147 140 }
                 color2 = { 194 147 140 }
                 culture = breizh
@@ -369,14 +607,27 @@ e_alba = {
                 title_female = count
             }
             c_amlwch = {
-                b_amlwch = {
+                b_beauwic = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_amlwch2 = {
+                b_mereford = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hedewic = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_montford = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 164 164 120 }
                 color2 = { 164 164 120 }
                 culture = breizh
@@ -384,14 +635,32 @@ e_alba = {
                 title_female = count
             }
             c_bodwyddan_plates = {
-                b_bodwyddan_plates = {
+                b_frodesham = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bodwyddan_plates2 = {
+                b_hardwic = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_aumere = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_wynham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_morcote = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 202 145 114 }
                 color2 = { 202 145 114 }
                 culture = breizh
@@ -399,14 +668,37 @@ e_alba = {
                 title_female = count
             }
             c_caerwys = {
-                b_caerwys = {
+                b_bercote = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_caerwys2 = {
+                b_hordeton = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ramcote = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ludeton = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_clerewic = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_hurstham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 170 145 113 }
                 color2 = { 170 145 113 }
                 culture = breizh
@@ -414,14 +706,27 @@ e_alba = {
                 title_female = count
             }
             c_gaerwen = {
-                b_gaerwen = {
+                b_baldewic = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gaerwen2 = {
+                b_faukeland = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_bremont = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_alderwic = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 183 137 109 }
                 color2 = { 183 137 109 }
                 culture = breizh
@@ -437,14 +742,32 @@ e_alba = {
             color2 = { 174 126 143 }
             capital = 58
             c_coltyr = {
-                b_coltyr = {
+                b_lormere = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_coltyr2 = {
+                b_beaucham = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_cheswic = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_aumont = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_aveland = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 174 126 143 }
                 color2 = { 174 126 143 }
 
@@ -455,14 +778,22 @@ e_alba = {
                 title_female = count
             }
             c_gambess = {
-                b_gambess = {
+                b_colham = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gambess2 = {
+                b_hastedun = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_elverham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 188 144 143 }
                 color2 = { 188 144 143 }
                 culture = breizh
@@ -470,14 +801,32 @@ e_alba = {
                 title_female = count
             }
             c_keval = {
-                b_keval = {
+                b_clereham = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_keval2 = {
+                b_bradecote = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_fiscourt = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_warington = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_bretford = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 183 143 142 }
                 color2 = { 183 143 142 }
                 culture = breizh
@@ -485,14 +834,22 @@ e_alba = {
                 title_female = count
             }
             c_sones = {
-                b_sones = {
+                b_wendemere = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sones2 = {
+                b_corlegh = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_mereswic = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 177 162 138 }
                 color2 = { 177 162 138 }
                 culture = breizh
@@ -500,14 +857,22 @@ e_alba = {
                 title_female = count
             }
             c_twyntyr = {
-                b_twyntyr = {
+                b_clavere = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_twyntyr2 = {
+                b_ravenwic = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hercote = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 190 132 145 }
                 color2 = { 190 132 145 }
                 culture = breizh
@@ -531,14 +896,22 @@ e_alba = {
             color2 = { 126 94 148 }
             capital = 63
             c_armendhale = {
-                b_armendhale = {
+                b_baldon = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_armendhale2 = {
+                b_coweston = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_edlow = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 126 94 148 }
                 color2 = { 126 94 148 }
                 culture = dunbrae
@@ -546,14 +919,22 @@ e_alba = {
                 title_female = count
             }
             c_gairnloch = {
-                b_gairnloch = {
+                b_dunskie = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gairnloch2 = {
+                b_torrough = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_culmark = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 146 91 153 }
                 color2 = { 146 91 153 }
                 culture = caeren
@@ -561,14 +942,32 @@ e_alba = {
                 title_female = count
             }
             c_hourn = {
-                b_hourn = {
+                b_adamston = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hourn2 = {
+                b_stenham = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_armstone = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_esswells = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lashbury = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 126 127 134 }
                 color2 = { 126 127 134 }
                 culture = dunbrae
@@ -576,14 +975,22 @@ e_alba = {
                 title_female = count
             }
             c_melluvagh = {
-                b_melluvagh = {
+                b_scoul = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_melluvagh2 = {
+                b_gulbeg = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_aucht = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 133 113 131 }
                 color2 = { 133 113 131 }
                 culture = caeren
@@ -591,14 +998,22 @@ e_alba = {
                 title_female = count
             }
             c_salen = {
-                b_salen = {
+                b_dross = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_salen2 = {
+                b_windhu = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_inverry = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 129 130 140 }
                 color2 = { 129 130 140 }
                 culture = caeren
@@ -606,14 +1021,22 @@ e_alba = {
                 title_female = count
             }
             c_strathynhide = {
-                b_strathynhide = {
+                b_balros = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_strathynhide2 = {
+                b_frach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kilmean = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 158 110 161 }
                 color2 = { 158 110 161 }
                 culture = caeren
@@ -629,14 +1052,27 @@ e_alba = {
             color2 = { 122 98 159 }
             capital = 69
             c_loch_anchan = {
-                b_loch_anchan = {
+                b_lornach = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_loch_anchan2 = {
+                b_morrach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_eltain = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ildruim = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 125 126 128 }
                 color2 = { 125 126 128 }
                 culture = url
@@ -644,14 +1080,22 @@ e_alba = {
                 title_female = count
             }
             c_loch_culnanoc = {
-                b_loch_culnanoc = {
+                b_achra = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_loch_culnanoc2 = {
+                b_cuiline = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lethill = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 131 124 145 }
                 color2 = { 131 124 145 }
                 culture = caeren
@@ -659,14 +1103,22 @@ e_alba = {
                 title_female = count
             }
             c_loch_dunhan = {
-                b_loch_dunhan = {
+                b_varroch = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_loch_dunhan2 = {
+                b_borrafell = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_muiren = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 143 110 145 }
                 color2 = { 143 110 145 }
                 culture = url
@@ -674,14 +1126,27 @@ e_alba = {
                 title_female = count
             }
             c_scoraigloch = {
-                b_scoraigloch = {
+                b_soligoe = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_scoraigloch2 = {
+                b_knoch = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_delvie = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_bruish = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 122 98 159 }
                 color2 = { 122 98 159 }
                 culture = caeren
@@ -697,14 +1162,27 @@ e_alba = {
             color2 = { 131 92 131 }
             capital = 73
             c_dinwall = {
-                b_dinwall = {
+                b_talmore = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_dinwall2 = {
+                b_garbhach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lorvane = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_quorain = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 157 90 147 }
                 color2 = { 157 90 147 }
                 culture = url
@@ -712,14 +1190,32 @@ e_alba = {
                 title_female = count
             }
             c_greshornish = {
-                b_greshornish = {
+                b_zailin = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_greshornish2 = {
+                b_quellan = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_norlin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_crannach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kenvach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 139 116 137 }
                 color2 = { 139 116 137 }
                 culture = url
@@ -727,14 +1223,27 @@ e_alba = {
                 title_female = count
             }
             c_irdhboll = {
-                b_irdhboll = {
+                b_drumfain = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_irdhboll2 = {
+                b_arlinn = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_morvane = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_forran = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 147 112 130 }
                 color2 = { 147 112 130 }
                 culture = url
@@ -742,14 +1251,32 @@ e_alba = {
                 title_female = count
             }
             c_kearveigh = {
-                b_kearveigh = {
+                b_jornach = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kearveigh2 = {
+                b_stronach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_paldach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_rosglen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_bronnach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 131 92 131 }
                 color2 = { 131 92 131 }
                 culture = url

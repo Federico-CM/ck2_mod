@@ -1,6 +1,10 @@
 title = c_lydsbridge_upon_langford
-max_settlements = 2
+max_settlements = 6
 culture = cearden
 religion = unionism
-b_lydsbridge_upon_langford = castle
-b_lydsbridge_upon_langford2 = temple
+
+b_goate = castle
+b_nington = temple
+b_swale = city
+b_penchill = city
+b_sickhill = city

@@ -1,6 +1,7 @@
 title = c_newton
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_newton = castle
-b_newton2 = temple
+
+b_spreside = castle
+b_rafield = temple

@@ -1,6 +1,7 @@
 title = c_pachnor
-max_settlements = 2
+max_settlements = 4
 culture = dunbrae
 religion = unionism
-b_pachnor = tribal
-b_pachnor2 = temple
+
+b_alverley = tribal
+b_kilmin = temple

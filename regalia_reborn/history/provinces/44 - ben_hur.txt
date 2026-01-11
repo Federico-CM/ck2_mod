@@ -1,6 +1,7 @@
 title = c_ben_hur
-max_settlements = 2
+max_settlements = 3
 culture = url
 religion = unionism
-b_ben_hur = tribal
-b_ben_hur2 = temple
+
+b_xorlan = tribal
+b_nairven = temple

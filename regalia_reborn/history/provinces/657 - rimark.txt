@@ -1,6 +1,10 @@
 title = c_rimark
-max_settlements = 2
+max_settlements = 6
 culture = velheim
 religion = fornoss
-b_rimark = castle
-b_rimark2 = temple
+
+b_uddebol = castle
+b_lebyn = temple
+b_kalen = city
+b_viden = city
+b_mundskog = city

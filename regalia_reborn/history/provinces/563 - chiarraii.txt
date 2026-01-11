@@ -1,6 +1,7 @@
 title = c_chiarraii
-max_settlements = 2
+max_settlements = 3
 culture = aontaithe
 religion = draconism
-b_chiarraii = castle
-b_chiarraii2 = temple
+
+b_ardcliff = castle
+b_rathross = temple

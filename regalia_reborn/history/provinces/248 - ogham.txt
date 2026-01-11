@@ -1,6 +1,7 @@
 title = c_ogham
-max_settlements = 2
+max_settlements = 4
 culture = caeren
 religion = fornoss
-b_ogham = castle
-b_ogham2 = temple
+
+b_abost = castle
+b_scarn = temple

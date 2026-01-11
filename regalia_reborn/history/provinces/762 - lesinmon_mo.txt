@@ -1,6 +1,9 @@
 title = c_lesinmon_mo
-max_settlements = 2
+max_settlements = 6
 culture = anglian
 religion = evolism
-b_lesinmon_mo = castle
-b_lesinmon_mo2 = temple
+
+b_duurt = castle
+b_dennerlo = temple
+b_middeweg = city
+b_waterstede = city

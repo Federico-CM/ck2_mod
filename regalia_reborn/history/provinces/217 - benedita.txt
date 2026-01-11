@@ -1,6 +1,8 @@
 title = c_benedita
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_benedita = castle
-b_benedita2 = temple
+
+b_porronas = castle
+b_enteja = temple
+b_mostar = city

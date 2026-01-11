@@ -1,6 +1,8 @@
 title = c_milaan_qarn
-max_settlements = 2
+max_settlements = 5
 culture = solvaan
 religion = unionism
-b_milaan_qarn = castle
-b_milaan_qarn2 = temple
+
+b_altanora = castle
+b_coraniel = temple
+b_altiselor = city

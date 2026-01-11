@@ -1,6 +1,7 @@
 title = c_camastra
-max_settlements = 2
+max_settlements = 4
 culture = azzizzari
 religion = unionism
-b_camastra = castle
-b_camastra2 = temple
+
+b_calafara = castle
+b_brucara = temple

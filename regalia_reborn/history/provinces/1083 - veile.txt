@@ -1,6 +1,7 @@
 title = c_veile
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_veile = castle
-b_veile2 = temple
+
+b_hainrath = castle
+b_flohr = temple

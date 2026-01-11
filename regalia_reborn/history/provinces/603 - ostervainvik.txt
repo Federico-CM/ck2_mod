@@ -1,6 +1,8 @@
 title = c_ostervainvik
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_ostervainvik = castle
-b_ostervainvik2 = temple
+
+b_lynge = castle
+b_bullen = temple
+b_fannsbyn = city

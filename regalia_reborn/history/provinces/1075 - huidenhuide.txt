@@ -1,6 +1,8 @@
 title = c_huidenhuide
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_huidenhuide = castle
-b_huidenhuide2 = temple
+
+b_klaren = castle
+b_randert = temple
+b_pijnen = city

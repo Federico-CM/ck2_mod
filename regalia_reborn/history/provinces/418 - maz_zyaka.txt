@@ -1,6 +1,7 @@
 title = c_maz_zyaka
-max_settlements = 2
+max_settlements = 3
 culture = szabadok
 religion = unionism
-b_maz_zyaka = tribal
-b_maz_zyaka2 = temple
+
+b_sombor = tribal
+b_szeglar = temple

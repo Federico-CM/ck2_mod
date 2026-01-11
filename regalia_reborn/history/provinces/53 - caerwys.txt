@@ -1,6 +1,10 @@
 title = c_caerwys
-max_settlements = 2
+max_settlements = 6
 culture = breizh
 religion = warda
-b_caerwys = castle
-b_caerwys2 = temple
+
+b_bercote = castle
+b_hordeton = temple
+b_ramcote = city
+b_ludeton = city
+b_clerewic = city

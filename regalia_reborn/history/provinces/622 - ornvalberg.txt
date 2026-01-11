@@ -1,6 +1,8 @@
 title = c_ornvalberg
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_ornvalberg = castle
-b_ornvalberg2 = temple
+
+b_tuvana = castle
+b_marnaby = temple
+b_holkea = city

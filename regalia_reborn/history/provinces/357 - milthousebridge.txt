@@ -1,6 +1,8 @@
 title = c_milthousebridge
-max_settlements = 2
+max_settlements = 5
 culture = wirtem
 religion = unionism
-b_milthousebridge = castle
-b_milthousebridge2 = temple
+
+b_bilsum = castle
+b_krusen = temple
+b_friede = city

@@ -1,6 +1,7 @@
 title = c_gratteham
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_gratteham = castle
-b_gratteham2 = temple
+
+b_gleston = castle
+b_pemby = temple

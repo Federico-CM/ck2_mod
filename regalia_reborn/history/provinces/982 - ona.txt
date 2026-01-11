@@ -1,6 +1,7 @@
 title = c_ona
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = unionism
-b_ona = castle
-b_ona2 = temple
+
+b_lasso = castle
+b_tarese = temple

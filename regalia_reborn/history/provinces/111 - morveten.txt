@@ -1,6 +1,7 @@
 title = c_morveten
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_morveten = castle
-b_morveten2 = temple
+
+b_leving = castle
+b_edmore = temple

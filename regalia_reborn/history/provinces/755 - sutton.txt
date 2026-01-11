@@ -1,6 +1,9 @@
 title = c_sutton
-max_settlements = 2
+max_settlements = 6
 culture = cearden
 religion = unionism
-b_sutton = castle
-b_sutton2 = temple
+
+b_launden = castle
+b_dodden = temple
+b_pittley = city
+b_fromham = city

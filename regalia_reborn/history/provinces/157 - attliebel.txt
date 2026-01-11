@@ -1,6 +1,7 @@
 title = c_attliebel
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_attliebel = castle
-b_attliebel2 = temple
+
+b_wacker = castle
+b_thnitz = temple

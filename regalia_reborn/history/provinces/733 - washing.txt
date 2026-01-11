@@ -1,6 +1,7 @@
 title = c_washing
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_washing = castle
-b_washing2 = temple
+
+b_barburg = castle
+b_wallich = temple

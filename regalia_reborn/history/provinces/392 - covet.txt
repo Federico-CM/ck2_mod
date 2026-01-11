@@ -1,6 +1,8 @@
 title = c_covet
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_covet = castle
-b_covet2 = temple
+
+b_walmall = castle
+b_darwell = temple
+b_halwick = city

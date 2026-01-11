@@ -1,6 +1,7 @@
 title = c_issa
-max_settlements = 2
+max_settlements = 3
 culture = bragacao
 religion = unionism
-b_issa = castle
-b_issa2 = temple
+
+b_carroca = castle
+b_monteiro = temple

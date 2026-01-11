@@ -1,6 +1,7 @@
 title = c_loiree_haute
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_loiree_haute = castle
-b_loiree_haute2 = temple
+
+b_maize = castle
+b_talay = temple

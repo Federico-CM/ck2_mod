@@ -1,6 +1,7 @@
 title = c_tenplinburg
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_tenplinburg = castle
-b_tenplinburg2 = temple
+
+b_twitz = castle
+b_especk = temple

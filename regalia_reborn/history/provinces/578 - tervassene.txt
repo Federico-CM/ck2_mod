@@ -1,6 +1,8 @@
 title = c_tervassene
-max_settlements = 2
+max_settlements = 4
 culture = finul
 religion = estelley
-b_tervassene = castle
-b_tervassene2 = temple
+
+b_litoren = castle
+b_thalora = temple
+b_marinor = city

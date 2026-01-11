@@ -1,6 +1,8 @@
 title = c_gierenwijk
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = draconism
-b_gierenwijk = castle
-b_gierenwijk2 = temple
+
+b_geult = castle
+b_apeelo = temple
+b_lieberg = city

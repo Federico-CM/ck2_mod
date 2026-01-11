@@ -1,6 +1,9 @@
 title = c_ganetep
-max_settlements = 2
+max_settlements = 5
 culture = asha
 religion = unionism
-b_ganetep = castle
-b_ganetep2 = temple
+
+b_menut = castle
+b_perune = temple
+b_kafra = city
+b_meraka = city

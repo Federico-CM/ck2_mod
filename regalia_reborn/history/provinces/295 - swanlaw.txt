@@ -1,6 +1,7 @@
 title = c_swanlaw
-max_settlements = 2
+max_settlements = 3
 culture = dunbrae
 religion = unionism
-b_swanlaw = tribal
-b_swanlaw2 = temple
+
+b_rinkwood = tribal
+b_scree = temple

@@ -1,6 +1,7 @@
 title = c_praag
-max_settlements = 2
+max_settlements = 3
 culture = zemevcel
 religion = unionism
-b_praag = castle
-b_praag2 = temple
+
+b_windhaff = castle
+b_imeschel = temple

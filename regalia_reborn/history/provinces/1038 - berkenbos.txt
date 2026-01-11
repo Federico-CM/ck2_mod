@@ -1,6 +1,7 @@
 title = c_berkenbos
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_berkenbos = tribal
-b_berkenbos2 = temple
+
+b_looster = tribal
+b_roxel = temple

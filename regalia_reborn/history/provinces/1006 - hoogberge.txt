@@ -1,6 +1,7 @@
 title = c_hoogberge
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_hoogberge = castle
-b_hoogberge2 = temple
+
+b_nijke = castle
+b_rivier = temple

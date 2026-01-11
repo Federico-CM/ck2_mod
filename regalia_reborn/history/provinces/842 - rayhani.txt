@@ -1,6 +1,7 @@
 title = c_rayhani
-max_settlements = 2
+max_settlements = 4
 culture = skyborn
 religion = unionism
-b_rayhani = castle
-b_rayhani2 = temple
+
+b_zimrathon = castle
+b_sidram = temple

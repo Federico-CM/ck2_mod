@@ -1,6 +1,8 @@
 title = c_ais_surgenne
-max_settlements = 2
+max_settlements = 5
 culture = ithanian
 religion = unionism
-b_ais_surgenne = castle
-b_ais_surgenne2 = temple
+
+b_berin = castle
+b_sargny = temple
+b_augines = city

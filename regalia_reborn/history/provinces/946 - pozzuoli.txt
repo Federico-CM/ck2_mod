@@ -1,6 +1,7 @@
 title = c_pozzuoli
-max_settlements = 2
+max_settlements = 3
 culture = azzizzari
 religion = unionism
-b_pozzuoli = castle
-b_pozzuoli2 = temple
+
+b_giardina = castle
+b_palmenta = temple

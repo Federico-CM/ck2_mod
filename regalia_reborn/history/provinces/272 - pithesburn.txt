@@ -1,6 +1,7 @@
 title = c_pithesburn
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_pithesburn = castle
-b_pithesburn2 = temple
+
+b_treath = castle
+b_ardwich = temple

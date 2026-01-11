@@ -1,6 +1,7 @@
 title = c_south_tawton
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_south_tawton = castle
-b_south_tawton2 = temple
+
+b_newsey = castle
+b_chettery = temple

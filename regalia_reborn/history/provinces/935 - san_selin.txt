@@ -1,6 +1,7 @@
 title = c_san_selin
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_san_selin = castle
-b_san_selin2 = temple
+
+b_arcol = castle
+b_elbuente = temple

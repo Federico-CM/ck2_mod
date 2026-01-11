@@ -1,6 +1,8 @@
 title = c_mezaal_isle
-max_settlements = 2
+max_settlements = 4
 culture = asha
 religion = khama
-b_mezaal_isle = castle
-b_mezaal_isle2 = temple
+
+b_hesira = castle
+b_amkara = temple
+b_hasefa = city

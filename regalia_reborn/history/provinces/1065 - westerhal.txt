@@ -1,6 +1,8 @@
 title = c_westerhal
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_westerhal = castle
-b_westerhal2 = temple
+
+b_zonnehaven = castle
+b_baalbeek = temple
+b_weide = city

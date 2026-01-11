@@ -1,6 +1,7 @@
 title = c_uppland
-max_settlements = 2
+max_settlements = 3
 culture = hoglander
 religion = unionism
-b_uppland = castle
-b_uppland2 = temple
+
+b_dalnas = castle
+b_kvarnryd = temple

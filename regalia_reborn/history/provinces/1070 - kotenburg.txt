@@ -1,6 +1,7 @@
 title = c_kotenburg
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_kotenburg = castle
-b_kotenburg2 = temple
+
+b_westerholt = castle
+b_veening = temple

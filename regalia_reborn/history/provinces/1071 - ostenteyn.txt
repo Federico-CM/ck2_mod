@@ -1,6 +1,7 @@
 title = c_ostenteyn
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_ostenteyn = castle
-b_ostenteyn2 = temple
+
+b_spoel = castle
+b_lieveen = temple

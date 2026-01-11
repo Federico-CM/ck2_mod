@@ -1,6 +1,7 @@
 title = c_manilon
-max_settlements = 2
+max_settlements = 3
 culture = tierravera
 religion = unionism
-b_manilon = castle
-b_manilon2 = temple
+
+b_margesa = castle
+b_gollo = temple

@@ -1,6 +1,7 @@
 title = c_ingeney
-max_settlements = 2
+max_settlements = 4
 culture = breizh
 religion = warda
-b_ingeney = castle
-b_ingeney2 = temple
+
+b_stanwic = castle
+b_walthwic = temple

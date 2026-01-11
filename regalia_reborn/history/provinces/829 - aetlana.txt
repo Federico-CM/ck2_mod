@@ -1,6 +1,8 @@
 title = c_aetlana
-max_settlements = 2
+max_settlements = 4
 culture = solvaan
 religion = estelley
-b_aetlana = castle
-b_aetlana2 = temple
+
+b_valcenis = castle
+b_marenor = temple
+b_selvalisell = city

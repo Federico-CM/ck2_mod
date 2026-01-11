@@ -1,6 +1,7 @@
 title = c_savacem
-max_settlements = 2
+max_settlements = 3
 culture = tierravera
 religion = unionism
-b_savacem = castle
-b_savacem2 = temple
+
+b_aldeazo = castle
+b_ardona = temple

@@ -1,6 +1,7 @@
 title = c_ennas_varei
-max_settlements = 2
+max_settlements = 3
 culture = solvaan
 religion = estelley
-b_ennas_varei = castle
-b_ennas_varei2 = temple
+
+b_nebralis = castle
+b_altanoris = temple

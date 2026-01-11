@@ -1,6 +1,7 @@
 title = c_alcantarilla
-max_settlements = 2
+max_settlements = 3
 culture = tierravera
 religion = unionism
-b_alcantarilla = castle
-b_alcantarilla2 = temple
+
+b_moedo = castle
+b_sorea = temple

@@ -1,6 +1,7 @@
 title = c_maarde
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_maarde = castle
-b_maarde2 = temple
+
+b_zanden = castle
+b_elshoek = temple

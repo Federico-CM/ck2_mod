@@ -1,6 +1,7 @@
 title = c_limnosa
-max_settlements = 2
+max_settlements = 3
 culture = etosian
 religion = evintarian
-b_limnosa = castle
-b_limnosa2 = temple
+
+b_arkos = castle
+b_kella = temple

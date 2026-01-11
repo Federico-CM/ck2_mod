@@ -1,6 +1,10 @@
 title = c_saint_lume
-max_settlements = 2
+max_settlements = 6
 culture = ithanian
 religion = unionism
-b_saint_lume = castle
-b_saint_lume2 = temple
+
+b_cadaille = castle
+b_courgy = temple
+b_lonne = city
+b_gonds = city
+b_feyssade = city

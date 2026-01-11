@@ -1,6 +1,10 @@
 title = c_sernavelle
-max_settlements = 2
+max_settlements = 6
 culture = finul
 religion = estelley
-b_sernavelle = castle
-b_sernavelle2 = temple
+
+b_mirassa = castle
+b_brisara = temple
+b_lymarel = city
+b_haloren = city
+b_solmara = city

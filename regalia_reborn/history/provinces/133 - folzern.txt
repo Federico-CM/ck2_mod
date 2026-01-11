@@ -1,6 +1,7 @@
 title = c_folzern
-max_settlements = 2
+max_settlements = 4
 culture = ania
 religion = unionism
-b_folzern = tribal
-b_folzern2 = temple
+
+b_galina = tribal
+b_oieni = temple

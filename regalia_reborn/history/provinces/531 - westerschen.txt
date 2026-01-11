@@ -1,6 +1,7 @@
 title = c_westerschen
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_westerschen = castle
-b_westerschen2 = temple
+
+b_witte = castle
+b_eemsel = temple

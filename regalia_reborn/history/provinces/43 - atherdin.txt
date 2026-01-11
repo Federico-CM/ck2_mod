@@ -1,6 +1,9 @@
 title = c_atherdin
-max_settlements = 2
+max_settlements = 5
 culture = dunbrae
 religion = unionism
-b_atherdin = castle
-b_atherdin2 = temple
+
+b_asley = castle
+b_birlby = temple
+b_inver = city
+b_duncroft = city

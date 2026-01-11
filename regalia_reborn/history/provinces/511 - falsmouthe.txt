@@ -1,6 +1,7 @@
 title = c_falsmouthe
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_falsmouthe = castle
-b_falsmouthe2 = temple
+
+b_carry = castle
+b_setts = temple

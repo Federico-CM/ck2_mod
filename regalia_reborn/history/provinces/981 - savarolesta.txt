@@ -1,6 +1,7 @@
 title = c_savarolesta
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = unionism
-b_savarolesta = castle
-b_savarolesta2 = temple
+
+b_cesieri = castle
+b_montacci = temple

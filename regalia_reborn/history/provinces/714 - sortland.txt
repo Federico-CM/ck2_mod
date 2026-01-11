@@ -1,6 +1,8 @@
 title = c_sortland
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_sortland = castle
-b_sortland2 = temple
+
+b_fgelsbo = castle
+b_svalle = temple
+b_fagelsta = city

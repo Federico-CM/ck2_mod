@@ -1,6 +1,7 @@
 title = c_kachelwaard
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_kachelwaard = castle
-b_kachelwaard2 = temple
+
+b_rophuis = castle
+b_kleven = temple

@@ -1,6 +1,7 @@
 title = c_landuswyth
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_landuswyth = castle
-b_landuswyth2 = temple
+
+b_arbuzat = castle
+b_capiraud = temple

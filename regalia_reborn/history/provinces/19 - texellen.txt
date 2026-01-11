@@ -1,6 +1,7 @@
 title = c_texellen
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = draconism
-b_texellen = castle
-b_texellen2 = temple
+
+b_bronsmeer = castle
+b_kampe = temple

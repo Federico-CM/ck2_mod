@@ -1,6 +1,8 @@
 title = c_ryznigrad
-max_settlements = 2
+max_settlements = 4
 culture = krainivaya
 religion = fornoss
-b_ryznigrad = castle
-b_ryznigrad2 = temple
+
+b_karptsia = castle
+b_varka = temple
+b_kotske = city

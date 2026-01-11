@@ -1,6 +1,8 @@
 title = c_oreino_teichos
-max_settlements = 2
+max_settlements = 4
 culture = etosian
 religion = evintarian
-b_oreino_teichos = castle
-b_oreino_teichos2 = temple
+
+b_mousakia = castle
+b_kampia = temple
+b_kaltos = city

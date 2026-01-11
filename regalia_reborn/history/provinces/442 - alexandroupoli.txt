@@ -1,6 +1,7 @@
 title = c_alexandroupoli
-max_settlements = 2
+max_settlements = 3
 culture = etosian
 religion = evintarian
-b_alexandroupoli = castle
-b_alexandroupoli2 = temple
+
+b_lamos = castle
+b_kydania = temple

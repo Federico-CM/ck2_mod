@@ -1,6 +1,7 @@
 title = c_ellesmere
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_ellesmere = castle
-b_ellesmere2 = temple
+
+b_hawbank = castle
+b_luxton = temple

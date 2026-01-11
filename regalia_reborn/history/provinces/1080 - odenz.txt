@@ -1,6 +1,7 @@
 title = c_odenz
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_odenz = castle
-b_odenz2 = temple
+
+b_altwitz = castle
+b_venzing = temple

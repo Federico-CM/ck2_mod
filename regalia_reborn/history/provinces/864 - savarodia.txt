@@ -1,6 +1,7 @@
 title = c_savarodia
-max_settlements = 2
+max_settlements = 4
 culture = selvath
 religion = estelley
-b_savarodia = tribal
-b_savarodia2 = temple
+
+b_cororin = tribal
+b_litorin = temple

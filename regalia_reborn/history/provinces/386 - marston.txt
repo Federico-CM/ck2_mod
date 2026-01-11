@@ -1,6 +1,8 @@
 title = c_marston
-max_settlements = 2
+max_settlements = 5
 culture = cearden
 religion = unionism
-b_marston = castle
-b_marston2 = temple
+
+b_littley = castle
+b_thorsley = temple
+b_beacroft = city

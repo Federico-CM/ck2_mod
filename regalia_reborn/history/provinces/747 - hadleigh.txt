@@ -1,6 +1,8 @@
 title = c_hadleigh
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_hadleigh = castle
-b_hadleigh2 = temple
+
+b_ireckley = castle
+b_hasford = temple
+b_doven = city

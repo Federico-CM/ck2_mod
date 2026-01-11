@@ -1,6 +1,7 @@
 title = c_ximen
-max_settlements = 2
+max_settlements = 4
 culture = bragacao
 religion = unionism
-b_ximen = castle
-b_ximen2 = temple
+
+b_pedreses = castle
+b_pombo = temple

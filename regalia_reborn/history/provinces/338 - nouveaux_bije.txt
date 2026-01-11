@@ -1,6 +1,7 @@
 title = c_nouveaux_bije
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_nouveaux_bije = castle
-b_nouveaux_bije2 = temple
+
+b_rivecy = castle
+b_bigut = temple

@@ -1,6 +1,7 @@
 title = c_scoraigloch
-max_settlements = 2
+max_settlements = 4
 culture = caeren
 religion = fornoss
-b_scoraigloch = tribal
-b_scoraigloch2 = temple
+
+b_soligoe = tribal
+b_knoch = temple

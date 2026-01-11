@@ -1,6 +1,8 @@
 title = c_vesucii
-max_settlements = 2
+max_settlements = 5
 culture = cantaluna
 religion = unionism
-b_vesucii = castle
-b_vesucii2 = temple
+
+b_cardo = castle
+b_sinello = temple
+b_povilla = city

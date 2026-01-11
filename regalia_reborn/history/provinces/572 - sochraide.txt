@@ -1,6 +1,7 @@
 title = c_sochraide
-max_settlements = 2
+max_settlements = 4
 culture = aontaithe
 religion = fornoss
-b_sochraide = tribal
-b_sochraide2 = temple
+
+b_carrowmere = tribal
+b_cloonmere = temple

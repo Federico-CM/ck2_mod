@@ -1,6 +1,7 @@
 title = c_allat
-max_settlements = 2
+max_settlements = 4
 culture = solvaan
 religion = estelley
-b_allat = castle
-b_allat2 = temple
+
+b_torvayor = castle
+b_brumatenor = temple

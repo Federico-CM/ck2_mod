@@ -1,6 +1,7 @@
 title = c_rundstede
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_rundstede = castle
-b_rundstede2 = temple
+
+b_waigheim = castle
+b_ergen = temple

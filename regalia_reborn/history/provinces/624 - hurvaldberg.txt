@@ -1,6 +1,7 @@
 title = c_hurvaldberg
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_hurvaldberg = castle
-b_hurvaldberg2 = temple
+
+b_flngsvik = castle
+b_vsten = temple

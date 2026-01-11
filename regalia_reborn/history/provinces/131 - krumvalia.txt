@@ -1,6 +1,7 @@
 title = c_krumvalia
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_krumvalia = castle
-b_krumvalia2 = temple
+
+b_alberg = castle
+b_werding = temple

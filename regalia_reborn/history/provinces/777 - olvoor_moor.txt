@@ -1,6 +1,8 @@
 title = c_olvoor_moor
-max_settlements = 2
+max_settlements = 4
 culture = solvaan
 religion = unionism
-b_olvoor_moor = castle
-b_olvoor_moor2 = temple
+
+b_calbrumar = castle
+b_tornebror = temple
+b_brumarisell = city

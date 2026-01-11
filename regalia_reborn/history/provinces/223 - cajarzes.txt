@@ -1,6 +1,7 @@
 title = c_cajarzes
-max_settlements = 2
+max_settlements = 3
 culture = allar
 religion = unionism
-b_cajarzes = castle
-b_cajarzes2 = temple
+
+b_lirath = castle
+b_ralorin = temple

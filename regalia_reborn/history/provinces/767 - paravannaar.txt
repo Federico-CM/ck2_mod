@@ -1,6 +1,8 @@
 title = c_paravannaar
-max_settlements = 2
+max_settlements = 5
 culture = kathar
 religion = evolism
-b_paravannaar = castle
-b_paravannaar2 = temple
+
+b_kahnor = castle
+b_cravahc = temple
+b_mivonn = city

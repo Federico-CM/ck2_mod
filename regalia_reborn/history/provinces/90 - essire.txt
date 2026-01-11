@@ -1,6 +1,8 @@
 title = c_essire
-max_settlements = 2
+max_settlements = 4
 culture = leutz_vixe
 religion = unionism
-b_essire = castle
-b_essire2 = temple
+
+b_noumill = castle
+b_finge = temple
+b_houborn = city

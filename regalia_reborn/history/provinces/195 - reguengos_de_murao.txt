@@ -1,6 +1,7 @@
 title = c_reguengos_de_murao
-max_settlements = 2
+max_settlements = 3
 culture = bragacao
 religion = unionism
-b_reguengos_de_murao = castle
-b_reguengos_de_murao2 = temple
+
+b_polvo = castle
+b_sarreira = temple

@@ -1,6 +1,7 @@
 title = c_bjeren
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_bjeren = castle
-b_bjeren2 = temple
+
+b_skarden = castle
+b_ormas = temple

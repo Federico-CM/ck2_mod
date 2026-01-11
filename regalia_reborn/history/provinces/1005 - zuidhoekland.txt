@@ -1,6 +1,9 @@
 title = c_zuidhoekland
-max_settlements = 2
+max_settlements = 5
 culture = anglian
 religion = unionism
-b_zuidhoekland = castle
-b_zuidhoekland2 = temple
+
+b_veldemond = castle
+b_oppel = temple
+b_weers = city
+b_schie = city

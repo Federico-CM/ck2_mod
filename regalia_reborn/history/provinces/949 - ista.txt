@@ -1,6 +1,8 @@
 title = c_ista
-max_settlements = 2
+max_settlements = 4
 culture = azzizzari
 religion = unionism
-b_ista = castle
-b_ista2 = temple
+
+b_granessa = castle
+b_petralia = temple
+b_sarmento = city

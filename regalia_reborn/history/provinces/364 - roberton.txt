@@ -1,6 +1,9 @@
 title = c_roberton
-max_settlements = 2
+max_settlements = 5
 culture = cearden
 religion = unionism
-b_roberton = castle
-b_roberton2 = temple
+
+b_catshope = castle
+b_duckmill = temple
+b_lamore = city
+b_wearnby = city

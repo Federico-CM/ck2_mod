@@ -1,6 +1,8 @@
 title = c_saransk
-max_settlements = 2
+max_settlements = 5
 culture = krainivaya
 religion = fornoss
-b_saransk = castle
-b_saransk2 = temple
+
+b_hanytsi = castle
+b_nikove = temple
+b_triivka = city

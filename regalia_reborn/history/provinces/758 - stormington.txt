@@ -1,6 +1,7 @@
 title = c_stormington
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_stormington = castle
-b_stormington2 = temple
+
+b_beaton = castle
+b_rammoor = temple

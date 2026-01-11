@@ -1,6 +1,7 @@
 title = c_tulliemet
-max_settlements = 2
+max_settlements = 5
 culture = aber
 religion = evolism
-b_tulliemet = tribal
-b_tulliemet2 = temple
+
+b_mulraig = tribal
+b_inveril = temple

@@ -1,6 +1,8 @@
 title = c_vulsini
-max_settlements = 2
+max_settlements = 4
 culture = cantaluna
 religion = unionism
-b_vulsini = castle
-b_vulsini2 = temple
+
+b_calba = castle
+b_luicco = temple
+b_orseta = city

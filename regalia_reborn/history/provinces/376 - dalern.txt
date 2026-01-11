@@ -1,6 +1,9 @@
 title = c_dalern
-max_settlements = 2
+max_settlements = 5
 culture = cearden
 religion = unionism
-b_dalern = castle
-b_dalern2 = temple
+
+b_barside = castle
+b_hucks = temple
+b_silley = city
+b_stony = city

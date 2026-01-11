@@ -11,14 +11,22 @@ e_sudland = {
             color2 = { 185 151 95 }
             capital = 831
             c_essakos_isles = {
-                b_essakos_isles = {
+                b_karamugu = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_essakos_isles2 = {
+                b_kumbanjala = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_dugufara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 186 140 92 }
                 color2 = { 186 140 92 }
                 culture = dragonkin
@@ -26,14 +34,32 @@ e_sudland = {
                 title_female = count
             }
             c_narran_isles = {
-                b_narran_isles = {
+                b_niamakoro = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_narran_isles2 = {
+                b_bolofara = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_wulanfara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_nafadugu = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_janjugu = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 185 151 95 }
                 color2 = { 185 151 95 }
                 culture = dragonkin
@@ -49,14 +75,27 @@ e_sudland = {
             color2 = { 183 131 115 }
             capital = 833
             c_dioran_isles = {
-                b_dioran_isles = {
+                b_sabanfara = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_dioran_isles2 = {
+                b_tembekoro = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_bolodugu = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kumbanoro = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 200 161 118 }
                 color2 = { 200 161 118 }
                 culture = dragonkin
@@ -64,14 +103,22 @@ e_sudland = {
                 title_female = count
             }
             c_groumana = {
-                b_groumana = {
+                b_karansogo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_groumana2 = {
+                b_balanjala = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_balafinka = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 194 134 93 }
                 color2 = { 194 134 93 }
                 culture = dragonkin
@@ -79,14 +126,27 @@ e_sudland = {
                 title_female = count
             }
             c_kayes = {
-                b_kayes = {
+                b_banankala = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kayes2 = {
+                b_kafandugu = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_donanfala = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_farasogo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 183 131 115 }
                 color2 = { 183 131 115 }
                 culture = dragonkin
@@ -94,14 +154,27 @@ e_sudland = {
                 title_female = count
             }
             c_kidal = {
-                b_kidal = {
+                b_nafankoro = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kidal2 = {
+                b_falankala = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_worosila = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_tembela = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 211 157 92 }
                 color2 = { 211 157 92 }
                 culture = dragonkin
@@ -117,14 +190,32 @@ e_sudland = {
             color2 = { 174 148 123 }
             capital = 837
             c_elevana = {
-                b_elevana = {
+                b_limna = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_elevana2 = {
+                b_maravoni = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_loukis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_katso = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_andro = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 174 148 123 }
                 color2 = { 174 148 123 }
                 culture = etosian
@@ -132,14 +223,27 @@ e_sudland = {
                 title_female = count
             }
             c_kosa = {
-                b_kosa = {
+                b_jinanfara = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kosa2 = {
+                b_tanankala = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_dunanfara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kelenfara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 200 169 128 }
                 color2 = { 200 169 128 }
                 culture = dragonkin
@@ -147,14 +251,22 @@ e_sudland = {
                 title_female = count
             }
             c_nema = {
-                b_nema = {
+                b_doukia = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nema2 = {
+                b_dhafni = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_melonas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 199 133 111 }
                 color2 = { 199 133 111 }
                 culture = etosian
@@ -162,14 +274,32 @@ e_sudland = {
                 title_female = count
             }
             c_nema_isles = {
-                b_nema_isles = {
+                b_sylla = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nema_isles2 = {
+                b_galaika = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_saltsa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kyria = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ammos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 175 166 115 }
                 color2 = { 175 166 115 }
                 culture = etosian
@@ -177,14 +307,22 @@ e_sudland = {
                 title_female = count
             }
             c_shamiya_isles = {
-                b_shamiya_isles = {
+                b_sirajugu = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_shamiya_isles2 = {
+                b_wulansogo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_sabanjugu = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 205 165 89 }
                 color2 = { 205 165 89 }
                 culture = dragonkin
@@ -208,14 +346,27 @@ e_sudland = {
             color2 = { 195 150 91 }
             capital = 842
             c_akheseru = {
-                b_akheseru = {
+                b_tjarak = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_akheseru2 = {
+                b_hekat = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ashkara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_djanara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 171 131 95 }
                 color2 = { 171 131 95 }
                 culture = asha
@@ -223,14 +374,27 @@ e_sudland = {
                 title_female = count
             }
             c_khashepet = {
-                b_khashepet = {
+                b_nebet = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_khashepet2 = {
+                b_khasira = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kheper = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_tefira = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 186 129 125 }
                 color2 = { 186 129 125 }
                 culture = asha
@@ -238,14 +402,27 @@ e_sudland = {
                 title_female = count
             }
             c_rashten = {
-                b_rashten = {
+                b_deneret = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rashten2 = {
+                b_penut = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_serket = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_qesira = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 194 152 96 }
                 color2 = { 194 152 96 }
                 culture = asha
@@ -253,14 +430,27 @@ e_sudland = {
                 title_female = count
             }
             c_rayhani = {
-                b_rayhani = {
+                b_zimrathon = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rayhani2 = {
+                b_sidram = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_baleth = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_tyramon = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 195 150 91 }
                 color2 = { 195 150 91 }
                 culture = skyborn
@@ -276,14 +466,27 @@ e_sudland = {
             color2 = { 166 146 111 }
             capital = 846
             c_nubaret = {
-                b_nubaret = {
+                b_zakara = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nubaret2 = {
+                b_neferet = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_tashira = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_khenira = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 188 134 116 }
                 color2 = { 188 134 116 }
                 culture = asha
@@ -291,14 +494,22 @@ e_sudland = {
                 title_female = count
             }
             c_oqhemu = {
-                b_oqhemu = {
+                b_perka = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_oqhemu2 = {
+                b_merya = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ankhet = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 182 140 103 }
                 color2 = { 182 140 103 }
                 culture = asha
@@ -306,14 +517,22 @@ e_sudland = {
                 title_female = count
             }
             c_peremhu = {
-                b_peremhu = {
+                b_rakhira = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_peremhu2 = {
+                b_tjarset = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_perwad = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 166 146 111 }
                 color2 = { 166 146 111 }
                 culture = asha
@@ -321,14 +540,27 @@ e_sudland = {
                 title_female = count
             }
             c_sameret = {
-                b_sameret = {
+                b_akhetu = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sameret2 = {
+                b_setara = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_djeset = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_koptet = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 185 167 95 }
                 color2 = { 185 167 95 }
                 culture = asha
@@ -344,14 +576,32 @@ e_sudland = {
             color2 = { 195 131 106 }
             capital = 850
             c_gandermeer = {
-                b_gandermeer = {
+                b_goudenwijk = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gandermeer2 = {
+                b_morgen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vleddert = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_bijswijk = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_zuiden = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 184 160 110 }
                 color2 = { 184 160 110 }
                 culture = anglian
@@ -359,14 +609,32 @@ e_sudland = {
                 title_female = count
             }
             c_ganetep = {
-                b_ganetep = {
+                b_menut = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ganetep2 = {
+                b_perune = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_akhret = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kafra = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_meraka = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 198 134 127 }
                 color2 = { 198 134 127 }
                 culture = asha
@@ -374,14 +642,32 @@ e_sudland = {
                 title_female = count
             }
             c_lameru = {
-                b_lameru = {
+                b_sekhem = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lameru2 = {
+                b_nekhara = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_iunet = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_nekhet = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_sabiru = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 195 131 106 }
                 color2 = { 195 131 106 }
                 culture = asha
@@ -389,14 +675,22 @@ e_sudland = {
                 title_female = count
             }
             c_waqshet = {
-                b_waqshet = {
+                b_sahira = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_waqshet2 = {
+                b_menaka = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_djahret = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 170 146 100 }
                 color2 = { 170 146 100 }
                 culture = asha
@@ -412,14 +706,22 @@ e_sudland = {
             color2 = { 192 165 117 }
             capital = 854
             c_drostmeer = {
-                b_drostmeer = {
+                b_smalde = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_drostmeer2 = {
+                b_aanveen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vlaard = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 194 154 103 }
                 color2 = { 194 154 103 }
                 culture = anglian
@@ -427,14 +729,32 @@ e_sudland = {
                 title_female = count
             }
             c_goorberg = {
-                b_goorberg = {
+                b_dierdijk = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_goorberg2 = {
+                b_schop = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_nieze = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_havenrode = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vlakkenveen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 192 165 117 }
                 color2 = { 192 165 117 }
                 culture = anglian
@@ -442,14 +762,27 @@ e_sudland = {
                 title_female = count
             }
             c_setamru = {
-                b_setamru = {
+                b_nefaret = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_setamru2 = {
+                b_hetep = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_iruet = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_saherit = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 197 137 92 }
                 color2 = { 197 137 92 }
                 culture = asha
@@ -473,14 +806,27 @@ e_sudland = {
             color2 = { 190 169 120 }
             capital = 857
             c_arestal = {
-                b_arestal = {
+                b_malorin = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_arestal2 = {
+                b_oressael = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vessara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_alorin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 196 178 106 }
                 color2 = { 196 178 106 }
                 culture = yanar
@@ -488,14 +834,27 @@ e_sudland = {
                 title_female = count
             }
             c_palavoria = {
-                b_palavoria = {
+                b_thessorin = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_palavoria2 = {
+                b_faressae = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_felorinel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_gravessa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 190 169 120 }
                 color2 = { 190 169 120 }
                 culture = yanar
@@ -503,14 +862,27 @@ e_sudland = {
                 title_female = count
             }
             c_tonavestre = {
-                b_tonavestre = {
+                b_maravel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tonavestre2 = {
+                b_vesora = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_florinel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_floressa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 200 143 124 }
                 color2 = { 200 143 124 }
                 culture = selvath
@@ -526,14 +898,32 @@ e_sudland = {
             color2 = { 194 178 95 }
             capital = 860
             c_pashmu = {
-                b_pashmu = {
+                b_khenara = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_pashmu2 = {
+                b_akhira = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_duat = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_sakara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_anira = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 194 178 95 }
                 color2 = { 194 178 95 }
                 culture = asha
@@ -541,14 +931,27 @@ e_sudland = {
                 title_female = count
             }
             c_setheru = {
-                b_setheru = {
+                b_peret = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_setheru2 = {
+                b_pahret = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_tareka = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ankhur = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 201 139 134 }
                 color2 = { 201 139 134 }
                 culture = asha
@@ -564,14 +967,27 @@ e_sudland = {
             color2 = { 190 161 98 }
             capital = 862
             c_aqetru = {
-                b_aqetru = {
+                b_saberet = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_aqetru2 = {
+                b_shenira = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_khesira = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_qedira = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 190 161 98 }
                 color2 = { 190 161 98 }
                 culture = asha
@@ -587,14 +1003,32 @@ e_sudland = {
             color2 = { 206 175 100 }
             capital = 863
             c_sardovia = {
-                b_sardovia = {
+                b_floravel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sardovia2 = {
+                b_thalorinel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_clarorin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_valessa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_neressae = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 206 175 100 }
                 color2 = { 206 175 100 }
                 culture = selvath
@@ -602,14 +1036,27 @@ e_sudland = {
                 title_female = count
             }
             c_savarodia = {
-                b_savarodia = {
+                b_cororin = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_savarodia2 = {
+                b_litorin = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_dorsel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_avelorin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 195 151 95 }
                 color2 = { 195 151 95 }
                 culture = selvath
@@ -625,14 +1072,22 @@ e_sudland = {
             color2 = { 210 159 118 }
             capital = 865
             c_eslavena = {
-                b_eslavena = {
+                b_dororin = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_eslavena2 = {
+                b_floran = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_fontara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 178 172 128 }
                 color2 = { 178 172 128 }
                 culture = selvath
@@ -640,14 +1095,22 @@ e_sudland = {
                 title_female = count
             }
             c_silavenda = {
-                b_silavenda = {
+                b_clarora = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_silavenda2 = {
+                b_valorinel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_arenessa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 210 159 118 }
                 color2 = { 210 159 118 }
                 culture = selvath
@@ -663,14 +1126,32 @@ e_sudland = {
             color2 = { 190 166 127 }
             capital = 867
             c_cresolina = {
-                b_cresolina = {
+                b_rivessae = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_cresolina2 = {
+                b_solavel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_doralis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_doressa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_nerorin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 198 147 97 }
                 color2 = { 198 147 97 }
                 culture = selvath
@@ -678,14 +1159,22 @@ e_sudland = {
                 title_female = count
             }
             c_grasonia = {
-                b_grasonia = {
+                b_brisorin = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_grasonia2 = {
+                b_rivorin = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_arenora = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 179 176 126 }
                 color2 = { 179 176 126 }
                 culture = selvath
@@ -693,14 +1182,22 @@ e_sudland = {
                 title_female = count
             }
             c_kefshemet = {
-                b_kefshemet = {
+                b_neferak = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kefshemet2 = {
+                b_qebira = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_medut = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 181 162 98 }
                 color2 = { 181 162 98 }
                 culture = asha
@@ -708,14 +1205,27 @@ e_sudland = {
                 title_female = count
             }
             c_tonavera = {
-                b_tonavera = {
+                b_talorinys = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tonavera2 = {
+                b_savara = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_veselin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_pelorinys = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 190 166 127 }
                 color2 = { 190 166 127 }
 
@@ -734,14 +1244,32 @@ e_sudland = {
             color2 = { 208 164 102 }
             capital = 871
             c_tourougur = {
-                b_tourougur = {
+                b_hammonet = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tourougur2 = {
+                b_tarbisu = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_zamaru = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_gadron = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_qartabel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 208 164 102 }
                 color2 = { 208 164 102 }
                 culture = skyborn

@@ -1,6 +1,7 @@
 title = c_puerto_asta
-max_settlements = 2
+max_settlements = 3
 culture = allar
 religion = unionism
-b_puerto_asta = castle
-b_puerto_asta2 = temple
+
+b_doranik = castle
+b_munreth = temple

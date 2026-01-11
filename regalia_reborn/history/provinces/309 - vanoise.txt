@@ -1,6 +1,7 @@
 title = c_vanoise
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_vanoise = castle
-b_vanoise2 = temple
+
+b_auzeller = castle
+b_aucours = temple

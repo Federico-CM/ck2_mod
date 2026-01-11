@@ -1,6 +1,7 @@
 title = c_hollum
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_hollum = castle
-b_hollum2 = temple
+
+b_noorderkamp = castle
+b_elerhuis = temple

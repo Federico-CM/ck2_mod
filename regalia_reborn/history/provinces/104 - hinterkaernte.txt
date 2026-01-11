@@ -1,6 +1,8 @@
 title = c_hinterkaernte
-max_settlements = 2
+max_settlements = 4
 culture = leutz_vixe
 religion = unionism
-b_hinterkaernte = castle
-b_hinterkaernte2 = temple
+
+b_wempert = castle
+b_linge = temple
+b_hullinge = city

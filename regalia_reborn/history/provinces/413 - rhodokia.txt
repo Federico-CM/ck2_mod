@@ -1,6 +1,8 @@
 title = c_rhodokia
-max_settlements = 2
+max_settlements = 5
 culture = etosian
 religion = evintarian
-b_rhodokia = castle
-b_rhodokia2 = temple
+
+b_dolki = castle
+b_taxta = temple
+b_agion = city

@@ -1,6 +1,7 @@
 title = c_kooge
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = draconism
-b_kooge = castle
-b_kooge2 = temple
+
+b_polderdam = castle
+b_boshagen = temple

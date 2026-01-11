@@ -1,6 +1,8 @@
 title = c_orriondas
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_orriondas = castle
-b_orriondas2 = temple
+
+b_cente = castle
+b_cabadelo = temple
+b_cojalera = city

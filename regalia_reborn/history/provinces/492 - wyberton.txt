@@ -1,6 +1,7 @@
 title = c_wyberton
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_wyberton = castle
-b_wyberton2 = temple
+
+b_amhill = castle
+b_chapell = temple

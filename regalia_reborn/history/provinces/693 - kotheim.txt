@@ -1,6 +1,7 @@
 title = c_kotheim
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_kotheim = tribal
-b_kotheim2 = temple
+
+b_bulla = tribal
+b_snatorp = temple

@@ -1,6 +1,9 @@
 title = c_wynderwald
-max_settlements = 2
+max_settlements = 5
 culture = cearden
 religion = unionism
-b_wynderwald = castle
-b_wynderwald2 = temple
+
+b_beece = castle
+b_yeaven = temple
+b_kilcombe = city
+b_clayhead = city

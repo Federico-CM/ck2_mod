@@ -1,6 +1,7 @@
 title = c_canaguinim
-max_settlements = 2
+max_settlements = 3
 culture = suvial
 religion = estelley
-b_canaguinim = castle
-b_canaguinim2 = temple
+
+b_meraval = castle
+b_palisel = temple

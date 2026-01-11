@@ -1,6 +1,7 @@
 title = c_ferrano
-max_settlements = 2
+max_settlements = 3
 culture = leutz_vixe
 religion = unionism
-b_ferrano = castle
-b_ferrano2 = temple
+
+b_rameld = castle
+b_obenborn = temple

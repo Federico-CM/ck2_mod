@@ -1,6 +1,7 @@
 title = c_meiasn_moor
-max_settlements = 2
+max_settlements = 3
 culture = kathar
 religion = evolism
-b_meiasn_moor = castle
-b_meiasn_moor2 = temple
+
+b_kalonn = castle
+b_rilokh = temple

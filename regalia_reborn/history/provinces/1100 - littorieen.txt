@@ -1,6 +1,8 @@
 title = c_littorieen
-max_settlements = 2
+max_settlements = 4
 culture = tarkin
 religion = fornoss
-b_littorieen = castle
-b_littorieen2 = temple
+
+b_kivimetsa = castle
+b_mustsoo = temple
+b_kuusimetsa = city

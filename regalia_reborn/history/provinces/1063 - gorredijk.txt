@@ -1,6 +1,7 @@
 title = c_gorredijk
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = draconism
-b_gorredijk = castle
-b_gorredijk2 = temple
+
+b_oosthaven = castle
+b_westein = temple

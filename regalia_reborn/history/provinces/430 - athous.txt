@@ -1,6 +1,7 @@
 title = c_athous
-max_settlements = 2
+max_settlements = 4
 culture = etosian
 religion = evintarian
-b_athous = castle
-b_athous2 = temple
+
+b_elona = castle
+b_antika = temple

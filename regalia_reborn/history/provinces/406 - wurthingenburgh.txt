@@ -1,6 +1,8 @@
 title = c_wurthingenburgh
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_wurthingenburgh = castle
-b_wurthingenburgh2 = temple
+
+b_gleim = castle
+b_reibing = temple
+b_erfen = city

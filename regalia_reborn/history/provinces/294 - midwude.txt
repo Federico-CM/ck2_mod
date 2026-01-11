@@ -1,6 +1,7 @@
 title = c_midwude
-max_settlements = 2
+max_settlements = 4
 culture = dunbrae
 religion = unionism
-b_midwude = tribal
-b_midwude2 = temple
+
+b_mawton = tribal
+b_didston = temple

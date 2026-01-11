@@ -1,6 +1,7 @@
 title = c_kizlyar
-max_settlements = 2
+max_settlements = 3
 culture = krainivaya
 religion = evintarian
-b_kizlyar = castle
-b_kizlyar2 = temple
+
+b_verivka = castle
+b_malivka = temple

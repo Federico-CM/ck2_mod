@@ -1,6 +1,10 @@
 title = c_aonair
-max_settlements = 2
+max_settlements = 6
 culture = aontaithe
 religion = fornoss
-b_aonair = castle
-b_aonair2 = temple
+
+b_rathbane = castle
+b_glenmere = temple
+b_dunfern = city
+b_fenhaven = city
+b_ballyfern = city

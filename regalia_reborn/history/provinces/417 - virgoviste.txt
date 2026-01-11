@@ -1,6 +1,7 @@
 title = c_virgoviste
-max_settlements = 2
+max_settlements = 3
 culture = ania
 religion = unionism
-b_virgoviste = tribal
-b_virgoviste2 = temple
+
+b_livani = tribal
+b_belineni = temple

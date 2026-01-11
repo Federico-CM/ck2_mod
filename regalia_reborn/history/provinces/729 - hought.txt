@@ -1,6 +1,7 @@
 title = c_hought
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_hought = castle
-b_hought2 = temple
+
+b_caldon = castle
+b_kirbury = temple

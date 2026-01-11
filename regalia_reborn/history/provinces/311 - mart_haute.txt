@@ -1,6 +1,7 @@
 title = c_mart_haute
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_mart_haute = castle
-b_mart_haute2 = temple
+
+b_avergoil = castle
+b_meunieu = temple

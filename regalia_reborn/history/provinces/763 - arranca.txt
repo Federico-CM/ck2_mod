@@ -1,6 +1,8 @@
 title = c_arranca
-max_settlements = 2
+max_settlements = 4
 culture = kathar
 religion = evolism
-b_arranca = castle
-b_arranca2 = temple
+
+b_zarnor = castle
+b_kethokh = temple
+b_nornor = city

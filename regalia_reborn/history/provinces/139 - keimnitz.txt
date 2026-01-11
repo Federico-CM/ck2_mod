@@ -1,6 +1,8 @@
 title = c_keimnitz
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_keimnitz = castle
-b_keimnitz2 = temple
+
+b_beberg = castle
+b_gerdorf = temple
+b_flock = city

@@ -1,6 +1,9 @@
 title = c_redang
-max_settlements = 2
+max_settlements = 5
 culture = leutz_vixe
 religion = unionism
-b_redang = castle
-b_redang2 = temple
+
+b_meringe = castle
+b_eissen = temple
+b_bonnes = city
+b_fents = city

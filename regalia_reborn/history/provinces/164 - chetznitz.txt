@@ -1,6 +1,8 @@
 title = c_chetznitz
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_chetznitz = castle
-b_chetznitz2 = temple
+
+b_schell = castle
+b_neude = temple
+b_merze = city

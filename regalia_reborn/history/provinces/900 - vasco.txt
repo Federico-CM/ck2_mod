@@ -1,6 +1,7 @@
 title = c_vasco
-max_settlements = 2
+max_settlements = 3
 culture = tierravera
 religion = estelley
-b_vasco = castle
-b_vasco2 = temple
+
+b_caborda = castle
+b_mator = temple

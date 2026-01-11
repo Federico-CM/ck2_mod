@@ -1,6 +1,7 @@
 title = c_uttgart
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_uttgart = castle
-b_uttgart2 = temple
+
+b_baier = castle
+b_friethe = temple

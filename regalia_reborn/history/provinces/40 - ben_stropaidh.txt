@@ -1,6 +1,8 @@
 title = c_ben_stropaidh
-max_settlements = 2
+max_settlements = 4
 culture = dunbrae
 religion = unionism
-b_ben_stropaidh = castle
-b_ben_stropaidh2 = temple
+
+b_bield = castle
+b_kinning = temple
+b_spens = city

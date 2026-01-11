@@ -1,6 +1,7 @@
 title = c_waqshet
-max_settlements = 2
+max_settlements = 3
 culture = asha
 religion = khama
-b_waqshet = castle
-b_waqshet2 = temple
+
+b_sahira = castle
+b_menaka = temple

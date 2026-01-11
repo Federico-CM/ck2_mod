@@ -1,6 +1,7 @@
 title = c_mourinhao
-max_settlements = 2
+max_settlements = 3
 culture = bragacao
 religion = unionism
-b_mourinhao = castle
-b_mourinhao2 = temple
+
+b_bonais = castle
+b_landa = temple

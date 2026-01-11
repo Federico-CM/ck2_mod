@@ -1,6 +1,7 @@
 title = c_saint_helens
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_saint_helens = castle
-b_saint_helens2 = temple
+
+b_midge = castle
+b_churst = temple

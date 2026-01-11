@@ -1,6 +1,8 @@
 title = c_nest_olovhamm
-max_settlements = 2
+max_settlements = 4
 culture = dwarven
 religion = fornoss
-b_nest_olovhamm = castle
-b_nest_olovhamm2 = temple
+
+b_zelmunath = castle
+b_vashnuk = temple
+b_qirzamon = city

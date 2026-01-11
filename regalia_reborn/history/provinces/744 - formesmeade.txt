@@ -1,6 +1,7 @@
 title = c_formesmeade
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_formesmeade = castle
-b_formesmeade2 = temple
+
+b_miert = castle
+b_schuur = temple

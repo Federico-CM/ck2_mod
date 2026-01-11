@@ -1,6 +1,9 @@
 title = c_saleiaan_fa
-max_settlements = 2
+max_settlements = 5
 culture = solvaan
 religion = unionism
-b_saleiaan_fa = castle
-b_saleiaan_fa2 = temple
+
+b_corisel = castle
+b_selcanara = temple
+b_mariscan = city
+b_calmaris = city

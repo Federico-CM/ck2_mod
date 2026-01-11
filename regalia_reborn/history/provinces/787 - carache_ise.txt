@@ -1,6 +1,8 @@
 title = c_carache_ise
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_carache_ise = castle
-b_carache_ise2 = temple
+
+b_reville = castle
+b_escoff = temple
+b_lautes = city

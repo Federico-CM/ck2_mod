@@ -1,6 +1,7 @@
 title = c_styren
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_styren = castle
-b_styren2 = temple
+
+b_calcote = castle
+b_dunslow = temple

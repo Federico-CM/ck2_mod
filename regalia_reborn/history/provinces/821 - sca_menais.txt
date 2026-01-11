@@ -1,6 +1,7 @@
 title = c_sca_menais
-max_settlements = 2
+max_settlements = 4
 culture = solvaan
 religion = estelley
-b_sca_menais = castle
-b_sca_menais2 = temple
+
+b_alticoran = castle
+b_torvalar = temple

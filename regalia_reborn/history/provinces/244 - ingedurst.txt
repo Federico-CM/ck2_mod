@@ -1,6 +1,8 @@
 title = c_ingedurst
-max_settlements = 2
+max_settlements = 4
 culture = caeren
 religion = fornoss
-b_ingedurst = castle
-b_ingedurst2 = temple
+
+b_aravill = castle
+b_clyness = temple
+b_lewick = city

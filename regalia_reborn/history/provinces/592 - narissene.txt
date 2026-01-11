@@ -1,6 +1,7 @@
 title = c_narissene
-max_settlements = 2
+max_settlements = 3
 culture = finul
 religion = estelley
-b_narissene = tribal
-b_narissene2 = temple
+
+b_arenna = tribal
+b_pelarys = temple

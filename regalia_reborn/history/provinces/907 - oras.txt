@@ -1,6 +1,8 @@
 title = c_oras
-max_settlements = 2
+max_settlements = 4
 culture = suvial
 religion = unionism
-b_oras = castle
-b_oras2 = temple
+
+b_narivel = castle
+b_narmora = temple
+b_narisel = city

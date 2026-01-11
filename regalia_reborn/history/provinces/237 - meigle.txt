@@ -1,6 +1,7 @@
 title = c_meigle
-max_settlements = 2
+max_settlements = 3
 culture = aber
 religion = evolism
-b_meigle = tribal
-b_meigle2 = temple
+
+b_blargie = tribal
+b_allyfour = temple

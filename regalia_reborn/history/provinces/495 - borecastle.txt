@@ -1,6 +1,7 @@
 title = c_borecastle
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_borecastle = castle
-b_borecastle2 = temple
+
+b_hilsford = castle
+b_inchbury = temple

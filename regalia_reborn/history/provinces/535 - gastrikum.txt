@@ -1,6 +1,7 @@
 title = c_gastrikum
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_gastrikum = castle
-b_gastrikum2 = temple
+
+b_pluimwijk = castle
+b_bilthe = temple

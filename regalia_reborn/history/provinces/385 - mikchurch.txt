@@ -1,6 +1,7 @@
 title = c_mikchurch
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_mikchurch = castle
-b_mikchurch2 = temple
+
+b_addleton = castle
+b_scrook = temple

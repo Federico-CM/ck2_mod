@@ -1,6 +1,8 @@
 title = c_alania_sur
-max_settlements = 2
+max_settlements = 4
 culture = cantaluna
 religion = amended
-b_alania_sur = castle
-b_alania_sur2 = temple
+
+b_podera = castle
+b_arcera = temple
+b_sezzo = city

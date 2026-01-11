@@ -1,6 +1,9 @@
 title = c_pied_de_montagne
-max_settlements = 2
+max_settlements = 5
 culture = ithanian
 religion = unionism
-b_pied_de_montagne = castle
-b_pied_de_montagne2 = temple
+
+b_chancy = castle
+b_barde = temple
+b_livars = city
+b_malvezac = city

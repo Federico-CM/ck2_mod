@@ -1,6 +1,7 @@
 title = c_old_leake
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_old_leake = castle
-b_old_leake2 = temple
+
+b_auldhead = castle
+b_farford = temple

@@ -1,6 +1,8 @@
 title = c_oxenfurd
-max_settlements = 2
+max_settlements = 5
 culture = cearden
 religion = unionism
-b_oxenfurd = castle
-b_oxenfurd2 = temple
+
+b_trush = castle
+b_pentbury = temple
+b_codmark = city

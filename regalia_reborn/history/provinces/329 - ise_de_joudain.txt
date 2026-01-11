@@ -1,6 +1,7 @@
 title = c_ise_de_joudain
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_ise_de_joudain = castle
-b_ise_de_joudain2 = temple
+
+b_fontourt = castle
+b_meres = temple

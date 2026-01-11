@@ -1,6 +1,9 @@
 title = c_algarindro
-max_settlements = 2
+max_settlements = 5
 culture = tierravera
 religion = unionism
-b_algarindro = castle
-b_algarindro2 = temple
+
+b_marga = castle
+b_orena = temple
+b_remora = city
+b_mantana = city

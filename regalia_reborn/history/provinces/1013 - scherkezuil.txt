@@ -1,6 +1,7 @@
 title = c_scherkezuil
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_scherkezuil = castle
-b_scherkezuil2 = temple
+
+b_winnen = castle
+b_rietwijk = temple

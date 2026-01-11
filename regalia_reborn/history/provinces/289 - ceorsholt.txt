@@ -1,6 +1,7 @@
 title = c_ceorsholt
-max_settlements = 2
+max_settlements = 3
 culture = dunbrae
 religion = unionism
-b_ceorsholt = tribal
-b_ceorsholt2 = temple
+
+b_needmoor = tribal
+b_milns = temple

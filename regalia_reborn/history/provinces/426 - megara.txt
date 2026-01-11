@@ -1,6 +1,9 @@
 title = c_megara
-max_settlements = 2
+max_settlements = 5
 culture = etosian
 religion = evintarian
-b_megara = castle
-b_megara2 = temple
+
+b_vamvaka = castle
+b_platon = temple
+b_vouno = city
+b_katsiki = city

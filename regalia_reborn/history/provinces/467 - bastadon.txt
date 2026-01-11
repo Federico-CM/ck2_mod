@@ -1,6 +1,7 @@
 title = c_bastadon
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_bastadon = castle
-b_bastadon2 = temple
+
+b_chauma = castle
+b_sourines = temple

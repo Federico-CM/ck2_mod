@@ -1,6 +1,7 @@
 title = c_sabanti
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = unionism
-b_sabanti = castle
-b_sabanti2 = temple
+
+b_cassena = castle
+b_fiumatto = temple

@@ -1,6 +1,7 @@
 title = c_shattel
-max_settlements = 2
+max_settlements = 4
 culture = leutz_vixe
 religion = unionism
-b_shattel = castle
-b_shattel2 = temple
+
+b_neihof = castle
+b_hirzen = temple

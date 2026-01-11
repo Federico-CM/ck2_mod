@@ -1,6 +1,7 @@
 title = c_sicillis
-max_settlements = 2
+max_settlements = 3
 culture = azzizzari
 religion = unionism
-b_sicillis = castle
-b_sicillis2 = temple
+
+b_rosamara = castle
+b_modara = temple

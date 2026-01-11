@@ -1,6 +1,8 @@
 title = c_riddere
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_riddere = castle
-b_riddere2 = temple
+
+b_ballegat = castle
+b_waijen = temple
+b_moesluis = city

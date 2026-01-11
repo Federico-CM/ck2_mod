@@ -1,6 +1,7 @@
 title = c_koolplaats
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = draconism
-b_koolplaats = castle
-b_koolplaats2 = temple
+
+b_roedorp = castle
+b_boert = temple

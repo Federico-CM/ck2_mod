@@ -1,6 +1,8 @@
 title = c_hinderlande
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = draconism
-b_hinderlande = castle
-b_hinderlande2 = temple
+
+b_vaard = castle
+b_gaasdijk = temple
+b_eefdijk = city

@@ -1,6 +1,7 @@
 title = c_frechas
-max_settlements = 2
+max_settlements = 3
 culture = bragacao
 religion = unionism
-b_frechas = castle
-b_frechas2 = temple
+
+b_ninhos = castle
+b_lordelas = temple

@@ -1,6 +1,7 @@
 title = c_beloyarsk
-max_settlements = 2
+max_settlements = 3
 culture = krainivaya
 religion = fornoss
-b_beloyarsk = castle
-b_beloyarsk2 = temple
+
+b_okhivka = castle
+b_beivka = temple

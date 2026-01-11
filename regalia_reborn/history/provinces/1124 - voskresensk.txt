@@ -1,6 +1,7 @@
 title = c_voskresensk
-max_settlements = 2
+max_settlements = 4
 culture = krainivaya
 religion = fornoss
-b_voskresensk = castle
-b_voskresensk2 = temple
+
+b_skrivka = castle
+b_dehtiahy = temple

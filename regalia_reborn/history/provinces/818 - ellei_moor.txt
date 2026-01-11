@@ -1,6 +1,7 @@
 title = c_ellei_moor
-max_settlements = 2
+max_settlements = 3
 culture = solvaan
 religion = unionism
-b_ellei_moor = castle
-b_ellei_moor2 = temple
+
+b_feramoris = castle
+b_nebrador = temple

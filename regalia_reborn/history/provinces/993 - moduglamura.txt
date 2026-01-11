@@ -1,6 +1,7 @@
 title = c_moduglamura
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = unionism
-b_moduglamura = castle
-b_moduglamura2 = temple
+
+b_salio = castle
+b_buonata = temple

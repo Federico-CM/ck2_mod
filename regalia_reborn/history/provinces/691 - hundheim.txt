@@ -1,6 +1,7 @@
 title = c_hundheim
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_hundheim = tribal
-b_hundheim2 = temple
+
+b_alsliden = tribal
+b_lmsryd = temple

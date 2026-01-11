@@ -1,6 +1,7 @@
 title = c_villa_mena
-max_settlements = 2
+max_settlements = 3
 culture = tierravera
 religion = unionism
-b_villa_mena = castle
-b_villa_mena2 = temple
+
+b_berzano = castle
+b_valser = temple

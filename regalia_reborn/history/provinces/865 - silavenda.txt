@@ -1,6 +1,7 @@
 title = c_silavenda
-max_settlements = 2
+max_settlements = 3
 culture = selvath
 religion = estelley
-b_silavenda = tribal
-b_silavenda2 = temple
+
+b_clarora = tribal
+b_valorinel = temple

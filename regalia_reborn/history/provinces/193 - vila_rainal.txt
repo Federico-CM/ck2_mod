@@ -1,6 +1,7 @@
 title = c_vila_rainal
-max_settlements = 2
+max_settlements = 3
 culture = bragacao
 religion = unionism
-b_vila_rainal = castle
-b_vila_rainal2 = temple
+
+b_calhudos = castle
+b_palhada = temple

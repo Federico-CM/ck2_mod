@@ -1,6 +1,7 @@
 title = c_landscopse
-max_settlements = 2
+max_settlements = 3
 culture = caeren
 religion = unionism
-b_landscopse = castle
-b_landscopse2 = temple
+
+b_inverich = castle
+b_blachewe = temple

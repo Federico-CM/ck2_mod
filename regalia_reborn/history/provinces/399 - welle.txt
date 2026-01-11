@@ -1,6 +1,9 @@
 title = c_welle
-max_settlements = 2
+max_settlements = 6
 culture = wirtem
 religion = unionism
-b_welle = castle
-b_welle2 = temple
+
+b_oberoden = castle
+b_dargdorf = temple
+b_rutten = city
+b_berth = city

@@ -1,6 +1,7 @@
 title = c_loch_culnanoc
-max_settlements = 2
+max_settlements = 3
 culture = caeren
 religion = unionism
-b_loch_culnanoc = tribal
-b_loch_culnanoc2 = temple
+
+b_achra = tribal
+b_cuiline = temple

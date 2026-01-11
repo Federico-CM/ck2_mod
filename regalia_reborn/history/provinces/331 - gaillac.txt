@@ -1,6 +1,7 @@
 title = c_gaillac
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_gaillac = castle
-b_gaillac2 = temple
+
+b_couze = castle
+b_menthous = temple

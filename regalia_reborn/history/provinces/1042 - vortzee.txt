@@ -1,6 +1,8 @@
 title = c_vortzee
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_vortzee = castle
-b_vortzee2 = temple
+
+b_ravelveen = castle
+b_wolde = temple
+b_eschot = city

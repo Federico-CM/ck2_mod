@@ -1,6 +1,8 @@
 title = c_torrelaguna
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_torrelaguna = castle
-b_torrelaguna2 = temple
+
+b_valins = castle
+b_viles = temple
+b_semil = city

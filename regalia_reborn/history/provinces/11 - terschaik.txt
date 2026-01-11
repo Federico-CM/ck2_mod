@@ -1,6 +1,8 @@
 title = c_terschaik
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_terschaik = castle
-b_terschaik2 = temple
+
+b_waven = castle
+b_oostehem = temple
+b_aalburen = city

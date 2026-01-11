@@ -1,6 +1,8 @@
 title = c_boparta
-max_settlements = 2
+max_settlements = 4
 culture = cantaluna
 religion = unionism
-b_boparta = castle
-b_boparta2 = temple
+
+b_metto = castle
+b_navione = temple
+b_felica = city

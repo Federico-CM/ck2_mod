@@ -1,6 +1,7 @@
 title = c_valtyr
-max_settlements = 2
+max_settlements = 3
 culture = breizh
 religion = warda
-b_valtyr = castle
-b_valtyr2 = temple
+
+b_haverham = castle
+b_waltham = temple

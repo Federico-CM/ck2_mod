@@ -1,6 +1,9 @@
 title = c_risoyhamn
-max_settlements = 2
+max_settlements = 5
 culture = velheim
 religion = fornoss
-b_risoyhamn = castle
-b_risoyhamn2 = temple
+
+b_svalebo = castle
+b_sofieda = temple
+b_ramsa = city
+b_gruvberg = city

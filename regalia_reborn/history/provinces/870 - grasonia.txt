@@ -1,6 +1,7 @@
 title = c_grasonia
-max_settlements = 2
+max_settlements = 3
 culture = selvath
 religion = estelley
-b_grasonia = tribal
-b_grasonia2 = temple
+
+b_brisorin = tribal
+b_rivorin = temple

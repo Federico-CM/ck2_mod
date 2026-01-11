@@ -1,6 +1,7 @@
 title = c_ettelbrueck
-max_settlements = 2
+max_settlements = 3
 culture = leutz_vixe
 religion = unionism
-b_ettelbrueck = castle
-b_ettelbrueck2 = temple
+
+b_loren = castle
+b_cange = temple

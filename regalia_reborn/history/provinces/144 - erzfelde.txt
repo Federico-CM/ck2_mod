@@ -1,6 +1,7 @@
 title = c_erzfelde
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_erzfelde = castle
-b_erzfelde2 = temple
+
+b_nienfeld = castle
+b_willitz = temple

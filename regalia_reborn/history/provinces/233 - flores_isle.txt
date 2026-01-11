@@ -1,6 +1,8 @@
 title = c_flores_isle
-max_settlements = 2
+max_settlements = 4
 culture = allar
 religion = unionism
-b_flores_isle = castle
-b_flores_isle2 = temple
+
+b_aulikar = castle
+b_savelor = temple
+b_nisarik = city

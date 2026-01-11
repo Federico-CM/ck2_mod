@@ -1,6 +1,7 @@
 title = c_callaei
-max_settlements = 2
+max_settlements = 3
 culture = solvaan
 religion = estelley
-b_callaei = castle
-b_callaei2 = temple
+
+b_valcanis = castle
+b_marvella = temple

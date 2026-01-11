@@ -1,6 +1,8 @@
 title = c_leisaranaar
-max_settlements = 2
+max_settlements = 5
 culture = anglian
 religion = draconism
-b_leisaranaar = castle
-b_leisaranaar2 = temple
+
+b_westegen = castle
+b_albroek = temple
+b_breden = city

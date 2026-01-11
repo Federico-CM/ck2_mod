@@ -1,6 +1,7 @@
 title = c_anahacasa
-max_settlements = 2
+max_settlements = 3
 culture = tierravera
 religion = unionism
-b_anahacasa = castle
-b_anahacasa2 = temple
+
+b_ordas = castle
+b_carras = temple

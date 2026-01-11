@@ -1,6 +1,7 @@
 title = c_pyoltograd
-max_settlements = 2
+max_settlements = 5
 culture = krainivaya
 religion = fornoss
-b_pyoltograd = tribal
-b_pyoltograd2 = temple
+
+b_kurovo = tribal
+b_blyshky = temple

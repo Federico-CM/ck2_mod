@@ -1,6 +1,8 @@
 title = c_zachterzee
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_zachterzee = castle
-b_zachterzee2 = temple
+
+b_schoord = castle
+b_groskuil = temple
+b_havens = city

@@ -1,6 +1,7 @@
 title = c_noarden
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = draconism
-b_noarden = castle
-b_noarden2 = temple
+
+b_zaanen = castle
+b_lagehorst = temple

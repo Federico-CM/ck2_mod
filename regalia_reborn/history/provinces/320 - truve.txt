@@ -1,6 +1,7 @@
 title = c_truve
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_truve = castle
-b_truve2 = temple
+
+b_lutier = castle
+b_vermars = temple

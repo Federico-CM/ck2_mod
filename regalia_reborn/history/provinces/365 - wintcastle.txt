@@ -1,6 +1,7 @@
 title = c_wintcastle
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_wintcastle = castle
-b_wintcastle2 = temple
+
+b_arlow = castle
+b_fritling = temple

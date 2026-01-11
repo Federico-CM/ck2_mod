@@ -1,6 +1,7 @@
 title = c_roose
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_roose = castle
-b_roose2 = temple
+
+b_heinfeld = castle
+b_johausen = temple

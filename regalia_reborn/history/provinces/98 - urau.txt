@@ -1,6 +1,8 @@
 title = c_urau
-max_settlements = 2
+max_settlements = 4
 culture = leutz_vixe
 religion = unionism
-b_urau = castle
-b_urau2 = temple
+
+b_braker = castle
+b_neunhaff = temple
+b_ermuehle = city

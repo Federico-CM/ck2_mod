@@ -1,6 +1,7 @@
 title = c_laraja
-max_settlements = 2
+max_settlements = 3
 culture = tierravera
 religion = unionism
-b_laraja = castle
-b_laraja2 = temple
+
+b_escarin = castle
+b_esmora = temple

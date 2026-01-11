@@ -1,6 +1,7 @@
 title = c_dee_horn
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_dee_horn = castle
-b_dee_horn2 = temple
+
+b_blauwwaard = castle
+b_morgenveen = temple

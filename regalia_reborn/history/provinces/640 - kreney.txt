@@ -1,6 +1,8 @@
 title = c_kreney
-max_settlements = 2
+max_settlements = 5
 culture = velheim
 religion = fornoss
-b_kreney = castle
-b_kreney2 = temple
+
+b_kcken = castle
+b_riseboda = temple
+b_skullen = city

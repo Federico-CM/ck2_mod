@@ -1,6 +1,7 @@
 title = c_gambess
-max_settlements = 2
+max_settlements = 3
 culture = breizh
 religion = warda
-b_gambess = castle
-b_gambess2 = temple
+
+b_colham = castle
+b_hastedun = temple

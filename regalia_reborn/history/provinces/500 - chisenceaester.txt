@@ -1,6 +1,8 @@
 title = c_chisenceaester
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_chisenceaester = castle
-b_chisenceaester2 = temple
+
+b_grewich = castle
+b_scombe = temple
+b_rawford = city

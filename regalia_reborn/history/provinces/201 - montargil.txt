@@ -1,6 +1,7 @@
 title = c_montargil
-max_settlements = 2
+max_settlements = 3
 culture = bragacao
 religion = unionism
-b_montargil = castle
-b_montargil2 = temple
+
+b_lameias = castle
+b_bouca = temple

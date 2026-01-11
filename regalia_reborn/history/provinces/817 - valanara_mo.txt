@@ -1,6 +1,7 @@
 title = c_valanara_mo
-max_settlements = 2
+max_settlements = 3
 culture = solvaan
 religion = estelley
-b_valanara_mo = castle
-b_valanara_mo2 = temple
+
+b_torvalenis = castle
+b_altamar = temple

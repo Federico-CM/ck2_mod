@@ -1,6 +1,7 @@
 title = c_shekit_khachmaz
-max_settlements = 2
+max_settlements = 4
 culture = etosian
 religion = evintarian
-b_shekit_khachmaz = tribal
-b_shekit_khachmaz2 = temple
+
+b_katana = tribal
+b_skana = temple

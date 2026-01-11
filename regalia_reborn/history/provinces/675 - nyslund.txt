@@ -1,6 +1,7 @@
 title = c_nyslund
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_nyslund = tribal
-b_nyslund2 = temple
+
+b_hjggby = tribal
+b_baggebol = temple

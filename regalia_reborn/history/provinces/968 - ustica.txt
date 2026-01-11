@@ -1,6 +1,7 @@
 title = c_ustica
-max_settlements = 2
+max_settlements = 4
 culture = cantaluna
 religion = unionism
-b_ustica = castle
-b_ustica2 = temple
+
+b_monda = castle
+b_dassena = temple

@@ -1,6 +1,7 @@
 title = c_tempelmuur
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = draconism
-b_tempelmuur = castle
-b_tempelmuur2 = temple
+
+b_ruiger = castle
+b_ruishoek = temple

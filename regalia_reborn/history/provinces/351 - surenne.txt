@@ -1,6 +1,10 @@
 title = c_surenne
-max_settlements = 2
+max_settlements = 7
 culture = ithanian
 religion = unionism
-b_surenne = castle
-b_surenne2 = temple
+
+b_parre = castle
+b_thonnet = temple
+b_julle = city
+b_landol = city
+b_jardetot = city

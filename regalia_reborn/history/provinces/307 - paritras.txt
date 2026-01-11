@@ -1,6 +1,8 @@
 title = c_paritras
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_paritras = castle
-b_paritras2 = temple
+
+b_mallac = castle
+b_bauze = temple
+b_cavret = city

@@ -1,6 +1,7 @@
 title = c_luthol
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_luthol = castle
-b_luthol2 = temple
+
+b_sicken = castle
+b_hohel = temple

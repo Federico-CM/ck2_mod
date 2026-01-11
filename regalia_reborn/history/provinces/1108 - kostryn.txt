@@ -1,6 +1,7 @@
 title = c_kostryn
-max_settlements = 2
+max_settlements = 4
 culture = wruclav
 religion = unionism
-b_kostryn = castle
-b_kostryn2 = temple
+
+b_zarnica = castle
+b_jaromir = temple

@@ -1,6 +1,7 @@
 title = c_hoogpunte
-max_settlements = 2
+max_settlements = 3
 culture = solvaan
 religion = unionism
-b_hoogpunte = castle
-b_hoogpunte2 = temple
+
+b_marcanor = castle
+b_tornebrin = temple

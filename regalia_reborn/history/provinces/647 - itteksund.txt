@@ -1,6 +1,8 @@
 title = c_itteksund
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_itteksund = castle
-b_itteksund2 = temple
+
+b_friden = castle
+b_getorp = temple
+b_guntarup = city

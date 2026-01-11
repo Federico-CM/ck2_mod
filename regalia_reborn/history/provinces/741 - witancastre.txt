@@ -1,6 +1,7 @@
 title = c_witancastre
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_witancastre = castle
-b_witancastre2 = temple
+
+b_girley = castle
+b_penhouse = temple

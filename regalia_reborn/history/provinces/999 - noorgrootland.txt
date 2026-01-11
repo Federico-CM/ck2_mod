@@ -1,6 +1,7 @@
 title = c_noorgrootland
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = draconism
-b_noorgrootland = castle
-b_noorgrootland2 = temple
+
+b_heggen = castle
+b_kerkum = temple

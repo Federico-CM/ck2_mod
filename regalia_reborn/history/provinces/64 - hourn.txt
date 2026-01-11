@@ -1,6 +1,9 @@
 title = c_hourn
-max_settlements = 2
+max_settlements = 5
 culture = dunbrae
 religion = fornoss
-b_hourn = castle
-b_hourn2 = temple
+
+b_adamston = castle
+b_stenham = temple
+b_armstone = city
+b_lashbury = city

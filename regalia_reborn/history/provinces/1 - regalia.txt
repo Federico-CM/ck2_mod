@@ -1,6 +1,10 @@
 title = c_regalia
-max_settlements = 2
+max_settlements = 7
 culture = regal
 religion = unionism
-b_regalia = castle
-b_regalia2 = temple
+
+b_graygate = castle
+b_allbeacon = temple
+b_newtown = city
+b_petalcourt = city
+b_badlands = city

@@ -1,6 +1,7 @@
 title = c_ivusul
-max_settlements = 2
+max_settlements = 3
 culture = solvaan
 religion = unionism
-b_ivusul = castle
-b_ivusul2 = temple
+
+b_altinor = castle
+b_valtenisell = temple

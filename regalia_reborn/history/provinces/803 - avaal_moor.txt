@@ -1,6 +1,9 @@
 title = c_avaal_moor
-max_settlements = 2
+max_settlements = 5
 culture = solvaan
 religion = unionism
-b_avaal_moor = castle
-b_avaal_moor2 = temple
+
+b_fumaravel = castle
+b_altisenor = temple
+b_altorenel = city
+b_altiselin = city

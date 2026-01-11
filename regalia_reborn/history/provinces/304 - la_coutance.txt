@@ -1,6 +1,9 @@
 title = c_la_coutance
-max_settlements = 2
+max_settlements = 5
 culture = ithanian
 religion = unionism
-b_la_coutance = castle
-b_la_coutance2 = temple
+
+b_jurvey = castle
+b_cartille = temple
+b_chand = city
+b_doiseau = city

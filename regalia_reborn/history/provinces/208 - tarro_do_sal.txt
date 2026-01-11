@@ -1,6 +1,8 @@
 title = c_tarro_do_sal
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_tarro_do_sal = castle
-b_tarro_do_sal2 = temple
+
+b_mando = castle
+b_cacha = temple
+b_papues = city

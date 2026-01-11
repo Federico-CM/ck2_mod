@@ -1,6 +1,9 @@
 title = c_olan_valei
-max_settlements = 2
+max_settlements = 5
 culture = solvaan
 religion = estelley
-b_olan_valei = castle
-b_olan_valei2 = temple
+
+b_valbrumor = castle
+b_torfuman = temple
+b_tornebris = city
+b_valmaren = city

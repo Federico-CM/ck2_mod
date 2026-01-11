@@ -1,6 +1,8 @@
 title = c_rundehaugen
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_rundehaugen = castle
-b_rundehaugen2 = temple
+
+b_jerum = castle
+b_sjunga = temple
+b_aregrden = city

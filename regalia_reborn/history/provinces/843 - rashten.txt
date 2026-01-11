@@ -1,6 +1,8 @@
 title = c_rashten
-max_settlements = 2
+max_settlements = 4
 culture = asha
 religion = khama
-b_rashten = castle
-b_rashten2 = temple
+
+b_deneret = castle
+b_penut = temple
+b_qesira = city

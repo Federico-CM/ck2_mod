@@ -1,6 +1,7 @@
 title = c_haywarth
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_haywarth = castle
-b_haywarth2 = temple
+
+b_quern = castle
+b_walewich = temple

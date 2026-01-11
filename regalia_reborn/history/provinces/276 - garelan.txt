@@ -1,6 +1,9 @@
 title = c_garelan
-max_settlements = 2
+max_settlements = 5
 culture = cearden
 religion = unionism
-b_garelan = castle
-b_garelan2 = temple
+
+b_shill = castle
+b_eviot = temple
+b_crosbeam = city
+b_blundby = city

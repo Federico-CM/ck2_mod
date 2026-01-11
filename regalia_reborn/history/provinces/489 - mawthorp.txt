@@ -1,6 +1,7 @@
 title = c_mawthorp
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_mawthorp = castle
-b_mawthorp2 = temple
+
+b_nisham = castle
+b_sholme = temple

@@ -1,6 +1,8 @@
 title = c_porte_plais
-max_settlements = 2
+max_settlements = 4
 culture = allar
 religion = unionism
-b_porte_plais = castle
-b_porte_plais2 = temple
+
+b_zambara = castle
+b_iskoren = temple
+b_varash = city

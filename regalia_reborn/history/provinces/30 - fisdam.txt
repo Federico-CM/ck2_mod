@@ -1,6 +1,8 @@
 title = c_fisdam
-max_settlements = 2
+max_settlements = 4
 culture = eronidas
 religion = unionism
-b_fisdam = castle
-b_fisdam2 = temple
+
+b_exloon = castle
+b_veldum = temple
+b_tersum = city

@@ -1,6 +1,7 @@
 title = c_limousse
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_limousse = castle
-b_limousse2 = temple
+
+b_azaux = castle
+b_campein = temple

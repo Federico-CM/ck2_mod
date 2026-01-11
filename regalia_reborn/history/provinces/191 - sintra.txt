@@ -1,6 +1,8 @@
 title = c_sintra
-max_settlements = 2
+max_settlements = 4
 culture = bragacao
 religion = unionism
-b_sintra = castle
-b_sintra2 = temple
+
+b_canheda = castle
+b_terrinha = temple
+b_nadal = city

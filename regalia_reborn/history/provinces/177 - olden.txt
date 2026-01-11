@@ -1,6 +1,7 @@
 title = c_olden
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_olden = castle
-b_olden2 = temple
+
+b_sarry = castle
+b_abrixton = temple

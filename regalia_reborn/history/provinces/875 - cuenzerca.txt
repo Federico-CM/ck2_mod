@@ -1,6 +1,8 @@
 title = c_cuenzerca
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_cuenzerca = castle
-b_cuenzerca2 = temple
+
+b_amaleja = castle
+b_marzos = temple
+b_genes = city

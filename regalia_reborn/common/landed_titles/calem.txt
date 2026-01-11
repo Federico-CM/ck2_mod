@@ -11,14 +11,32 @@ e_calem = {
             color2 = { 152 198 122 }
             capital = 1076
             c_caldrinburg = {
-                b_caldrinburg = {
+                b_lohborn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_caldrinburg2 = {
+                b_alteroth = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hetze = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_busen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_rollin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 152 198 122 }
                 color2 = { 152 198 122 }
                 culture = wirtem
@@ -34,14 +52,32 @@ e_calem = {
             color2 = { 135 183 143 }
             capital = 1077
             c_joggeland = {
-                b_joggeland = {
+                b_ulbach = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_joggeland2 = {
+                b_kahlo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_egebing = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_zieth = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kendorf = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 148 171 143 }
                 color2 = { 148 171 143 }
                 culture = wirtem
@@ -49,14 +85,22 @@ e_calem = {
                 title_female = count
             }
             c_lintern = {
-                b_lintern = {
+                b_bardewik = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lintern2 = {
+                b_rugenport = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_stadewik = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 135 183 143 }
                 color2 = { 135 183 143 }
                 culture = calderliga
@@ -64,14 +108,27 @@ e_calem = {
                 title_female = count
             }
             c_odenz = {
-                b_odenz = {
+                b_altwitz = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_odenz2 = {
+                b_venzing = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_garthen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_werde = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 172 198 118 }
                 color2 = { 172 198 118 }
                 culture = wirtem
@@ -79,14 +136,27 @@ e_calem = {
                 title_female = count
             }
             c_poltern = {
-                b_poltern = {
+                b_denfort = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_poltern2 = {
+                b_krain = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_schneid = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_impach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 163 185 136 }
                 color2 = { 163 185 136 }
                 culture = wirtem
@@ -102,14 +172,27 @@ e_calem = {
             color2 = { 138 173 126 }
             capital = 1081
             c_hasa = {
-                b_hasa = {
+                b_stingen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hasa2 = {
+                b_manns = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ruhle = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_rumberg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 146 196 117 }
                 color2 = { 146 196 117 }
                 culture = wirtem
@@ -117,14 +200,32 @@ e_calem = {
                 title_female = count
             }
             c_skileburg = {
-                b_skileburg = {
+                b_mogge = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_skileburg2 = {
+                b_dobben = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_seesdorf = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_schlde = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ruendorf = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 138 173 126 }
                 color2 = { 138 173 126 }
                 culture = wirtem
@@ -132,14 +233,27 @@ e_calem = {
                 title_female = count
             }
             c_veile = {
-                b_veile = {
+                b_hainrath = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_veile2 = {
+                b_flohr = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_pestel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_edlang = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 157 164 126 }
                 color2 = { 157 164 126 }
                 culture = wirtem
@@ -163,14 +277,22 @@ e_calem = {
             color2 = { 131 183 117 }
             capital = 1125
             c_essen = {
-                b_essen = {
+                b_loibach = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_essen2 = {
+                b_wette = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_stamp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 154 180 118 }
                 color2 = { 154 180 118 }
                 culture = wirtem
@@ -178,14 +300,22 @@ e_calem = {
                 title_female = count
             }
             c_heilig_grab = {
-                b_heilig_grab = {
+                b_graberg = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_heilig_grab2 = {
+                b_gebach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rdden = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 134 159 107 }
                 color2 = { 134 159 107 }
                 culture = wirtem
@@ -193,14 +323,22 @@ e_calem = {
                 title_female = count
             }
             c_nienburg = {
-                b_nienburg = {
+                b_wefen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nienburg2 = {
+                b_rehausen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_haben = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 136 174 125 }
                 color2 = { 136 174 125 }
                 culture = wirtem
@@ -208,14 +346,22 @@ e_calem = {
                 title_female = count
             }
             c_calemberg = {
-                b_calemberg = {
+                b_altshof = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_calemberg2 = {
+                b_winken = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lilingen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 127 151 120 }
                 color2 = { 136 174 125 }
 
@@ -226,14 +372,22 @@ e_calem = {
                 title_female = count
             }
             c_plauenmeer = {
-                b_plauenmeer = {
+                b_vechten = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_plauenmeer2 = {
+                b_henbach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_innbach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 131 183 117 }
                 color2 = { 131 183 117 }
                 culture = wirtem
@@ -241,14 +395,27 @@ e_calem = {
                 title_female = count
             }
             c_wremen = {
-                b_wremen = {
+                b_termen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_wremen2 = {
+                b_fraubaum = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hannshof = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_datten = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 148 161 116 }
                 color2 = { 148 161 116 }
                 culture = wirtem
@@ -264,14 +431,27 @@ e_calem = {
             color2 = { 126 164 107 }
             capital = 1089
             c_bluenberg = {
-                b_bluenberg = {
+                b_suden = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bluenberg2 = {
+                b_maxfeld = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_schaft = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kleinhof = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 149 177 109 }
                 color2 = { 149 177 109 }
                 culture = wirtem
@@ -279,14 +459,22 @@ e_calem = {
                 title_female = count
             }
             c_osterholz = {
-                b_osterholz = {
+                b_willer = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_osterholz2 = {
+                b_desfeld = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hirsch = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 129 184 100 }
                 color2 = { 129 184 100 }
                 culture = wirtem
@@ -294,14 +482,27 @@ e_calem = {
                 title_female = count
             }
             c_parchstadt = {
-                b_parchstadt = {
+                b_kiesen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_parchstadt2 = {
+                b_pfenbach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kochdorf = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_drausen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 126 164 107 }
                 color2 = { 126 164 107 }
                 culture = wirtem
@@ -317,14 +518,27 @@ e_calem = {
             color2 = { 125 186 99 }
             capital = 1092
             c_bispingen = {
-                b_bispingen = {
+                b_fagerby = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bispingen2 = {
+                b_lindeby = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hultby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_skogsryd = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 135 179 99 }
                 color2 = { 135 179 99 }
                 culture = hoglander
@@ -332,14 +546,27 @@ e_calem = {
                 title_female = count
             }
             c_grossland = {
-                b_grossland = {
+                b_knappel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_grossland2 = {
+                b_wesse = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kaisdorf = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_eberg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 136 159 103 }
                 color2 = { 136 159 103 }
                 culture = wirtem
@@ -347,14 +574,27 @@ e_calem = {
                 title_female = count
             }
             c_hintenberg = {
-                b_hintenberg = {
+                b_kuttler = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hintenberg2 = {
+                b_egisdorf = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_herheim = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_heube = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 125 186 99 }
                 color2 = { 125 186 99 }
                 culture = wirtem
@@ -362,14 +602,27 @@ e_calem = {
                 title_female = count
             }
             c_luneberg = {
-                b_luneberg = {
+                b_herndorf = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_luneberg2 = {
+                b_weilgen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_theim = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_insdorf = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 148 171 97 }
                 color2 = { 148 171 97 }
                 culture = wirtem
@@ -393,14 +646,32 @@ e_calem = {
             color2 = { 125 163 123 }
             capital = 1096
             c_alexanderburg = {
-                b_alexanderburg = {
+                b_wszebor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_alexanderburg2 = {
+                b_borzym = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_tarnawa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_borzywoj = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ostrowod = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 140 145 131 }
                 color2 = { 140 145 131 }
                 culture = wruclav
@@ -408,14 +679,22 @@ e_calem = {
                 title_female = count
             }
             c_grabice = {
-                b_grabice = {
+                b_chrober = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_grabice2 = {
+                b_borutyn = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_grodzan = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 139 157 101 }
                 color2 = { 139 157 101 }
                 culture = wruclav
@@ -423,14 +702,22 @@ e_calem = {
                 title_female = count
             }
             c_rzepin = {
-                b_rzepin = {
+                b_sędziwój = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rzepin2 = {
+                b_zegota = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_wyszemir = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 145 165 110 }
                 color2 = { 145 165 110 }
                 culture = wruclav
@@ -438,14 +725,32 @@ e_calem = {
                 title_female = count
             }
             c_szczecin = {
-                b_szczecin = {
+                b_trzebor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_szczecin2 = {
+                b_chwalomir = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_czestobor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_dobrobor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_chrosta = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 125 163 123 }
                 color2 = { 125 163 123 }
                 culture = wruclav
@@ -461,14 +766,27 @@ e_calem = {
             color2 = { 132 163 115 }
             capital = 1100
             c_estorieen = {
-                b_estorieen = {
+                b_variku = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_estorieen2 = {
+                b_ranniku = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lehesalu = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vesioja = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 158 173 121 }
                 color2 = { 158 173 121 }
                 culture = zvorun
@@ -476,14 +794,27 @@ e_calem = {
                 title_female = count
             }
             c_littorieen = {
-                b_littorieen = {
+                b_kivimetsa = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_littorieen2 = {
+                b_mustsoo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vaarikla = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kuusimetsa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 132 163 115 }
                 color2 = { 132 163 115 }
                 culture = zvorun
@@ -491,14 +822,27 @@ e_calem = {
                 title_female = count
             }
             c_livorieen = {
-                b_livorieen = {
+                b_rboda = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_livorieen2 = {
+                b_rdinge = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_mundsdal = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_skrarp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 145 166 110 }
                 color2 = { 145 166 110 }
                 culture = velheim
@@ -514,14 +858,27 @@ e_calem = {
             color2 = { 134 148 130 }
             capital = 1103
             c_bad_muskau = {
-                b_bad_muskau = {
+                b_mirogost = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bad_muskau2 = {
+                b_bogumił = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lutomir = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_stawomir = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 163 149 106 }
                 color2 = { 163 149 106 }
                 culture = wruclav
@@ -529,14 +886,27 @@ e_calem = {
                 title_female = count
             }
             c_gottielberg = {
-                b_gottielberg = {
+                b_harten = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gottielberg2 = {
+                b_issen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_unterain = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lipfen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 134 148 130 }
                 color2 = { 134 148 130 }
                 culture = wirtem
@@ -544,14 +914,27 @@ e_calem = {
                 title_female = count
             }
             c_karlstadt = {
-                b_karlstadt = {
+                b_elmsdorf = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_karlstadt2 = {
+                b_himbeck = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_remmer = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_heidorf = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 157 147 129 }
                 color2 = { 157 147 129 }
                 culture = wirtem
@@ -559,14 +942,27 @@ e_calem = {
                 title_female = count
             }
             c_kostryn = {
-                b_kostryn = {
+                b_zarnica = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kostryn2 = {
+                b_jaromir = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_dobromil = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_tarnogrod = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 158 168 127 }
                 color2 = { 158 168 127 }
                 culture = wruclav
@@ -574,14 +970,27 @@ e_calem = {
                 title_female = count
             }
             c_luckow = {
-                b_luckow = {
+                b_hheim = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_luckow2 = {
+                b_bagbach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vasberg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_heimern = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 142 172 133 }
                 color2 = { 142 172 133 }
                 culture = wirtem
@@ -589,14 +998,27 @@ e_calem = {
                 title_female = count
             }
             c_luthol = {
-                b_luthol = {
+                b_sicken = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_luthol2 = {
+                b_hohel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kiese = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_wehrens = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 149 174 118 }
                 color2 = { 149 174 118 }
                 culture = wirtem
@@ -604,14 +1026,32 @@ e_calem = {
                 title_female = count
             }
             c_neuhandelberg = {
-                b_neuhandelberg = {
+                b_brstan = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_neuhandelberg2 = {
+                b_ulringe = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rrsele = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_yngberga = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_appella = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 145 170 108 }
                 color2 = { 145 170 108 }
                 culture = velheim
@@ -635,14 +1075,27 @@ e_calem = {
             color2 = { 109 163 117 }
             capital = 126
             c_bauerland = {
-                b_bauerland = {
+                b_selberg = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bauerland2 = {
+                b_dragen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_attingen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kimmer = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 112 150 82 }
                 color2 = { 112 150 82 }
                 culture = wirtem
@@ -650,14 +1103,27 @@ e_calem = {
                 title_female = count
             }
             c_birkenbauerland = {
-                b_birkenbauerland = {
+                b_plassen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_birkenbauerland2 = {
+                b_zeismhle = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_morsheim = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_leoning = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 134 163 106 }
                 color2 = { 134 163 106 }
                 culture = wirtem
@@ -665,14 +1131,27 @@ e_calem = {
                 title_female = count
             }
             c_dordovia = {
-                b_dordovia = {
+                b_cruceta = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_dordovia2 = {
+                b_miseti = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_piton = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_petrini = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 121 173 104 }
                 color2 = { 121 173 104 }
                 culture = ania
@@ -680,14 +1159,32 @@ e_calem = {
                 title_female = count
             }
             c_heiligturm = {
-                b_heiligturm = {
+                b_althal = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_heiligturm2 = {
+                b_heling = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_enghof = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_aufsmoor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lingsten = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 109 163 117 }
                 color2 = { 109 163 117 }
                 culture = wirtem
@@ -695,14 +1192,22 @@ e_calem = {
                 title_female = count
             }
             c_krumvalia = {
-                b_krumvalia = {
+                b_alberg = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_krumvalia2 = {
+                b_werding = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_roggen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 142 147 87 }
                 color2 = { 142 147 87 }
                 culture = wirtem
@@ -710,14 +1215,22 @@ e_calem = {
                 title_female = count
             }
             c_molveria = {
-                b_molveria = {
+                b_steasca = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_molveria2 = {
+                b_hoane = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_bornia = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 120 153 89 }
                 color2 = { 120 153 89 }
                 culture = ania
@@ -733,14 +1246,27 @@ e_calem = {
             color2 = { 129 137 103 }
             capital = 132
             c_eibenwitz = {
-                b_eibenwitz = {
+                b_meler = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_eibenwitz2 = {
+                b_thallen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ruthof = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kerwalde = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 129 137 103 }
                 color2 = { 129 137 103 }
                 culture = wirtem
@@ -748,14 +1274,27 @@ e_calem = {
                 title_female = count
             }
             c_folzern = {
-                b_folzern = {
+                b_galina = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_folzern2 = {
+                b_oieni = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_podeana = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_buharele = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 131 141 109 }
                 color2 = { 131 141 109 }
                 culture = ania
@@ -763,14 +1302,32 @@ e_calem = {
                 title_female = count
             }
             c_gernegraab = {
-                b_gernegraab = {
+                b_neuren = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gernegraab2 = {
+                b_rombach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_luden = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_galow = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_erxheim = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 131 166 114 }
                 color2 = { 131 166 114 }
                 culture = wirtem
@@ -778,14 +1335,27 @@ e_calem = {
                 title_female = count
             }
             c_odoretz = {
-                b_odoretz = {
+                b_glassen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_odoretz2 = {
+                b_grette = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_wackau = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_grotten = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 142 153 117 }
                 color2 = { 142 153 117 }
                 culture = wirtem
@@ -793,14 +1363,27 @@ e_calem = {
                 title_female = count
             }
             c_oedel = {
-                b_oedel = {
+                b_hattmar = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_oedel2 = {
+                b_kollen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_quenloh = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_trich = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 145 170 94 }
                 color2 = { 145 170 94 }
                 culture = wirtem
@@ -816,14 +1399,22 @@ e_calem = {
             color2 = { 107 137 97 }
             capital = 137
             c_bautzder = {
-                b_bautzder = {
+                b_holen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bautzder2 = {
+                b_tugau = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_zeiler = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 143 150 82 }
                 color2 = { 143 150 82 }
                 culture = wirtem
@@ -831,14 +1422,27 @@ e_calem = {
                 title_female = count
             }
             c_keimnitz = {
-                b_keimnitz = {
+                b_beberg = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_keimnitz2 = {
+                b_gerdorf = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_flock = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_segen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 132 143 101 }
                 color2 = { 132 143 101 }
                 culture = wirtem
@@ -846,14 +1450,32 @@ e_calem = {
                 title_female = count
             }
             c_overlungwitz = {
-                b_overlungwitz = {
+                b_warft = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_overlungwitz2 = {
+                b_bronen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_reiter = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_wahnde = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_nadingen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 126 171 109 }
                 color2 = { 126 171 109 }
                 culture = wirtem
@@ -861,14 +1483,22 @@ e_calem = {
                 title_female = count
             }
             c_rundstede = {
-                b_rundstede = {
+                b_waigheim = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rundstede2 = {
+                b_ergen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_reiler = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 107 137 97 }
                 color2 = { 107 137 97 }
                 culture = wirtem
@@ -892,14 +1522,22 @@ e_calem = {
             color2 = { 119 167 121 }
             capital = 141
             c_erzberge = {
-                b_erzberge = {
+                b_zieglein = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_erzberge2 = {
+                b_defen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_heckheim = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 119 167 121 }
                 color2 = { 119 167 121 }
                 culture = wirtem
@@ -907,14 +1545,27 @@ e_calem = {
                 title_female = count
             }
             c_erzfelde = {
-                b_erzfelde = {
+                b_nienfeld = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_erzfelde2 = {
+                b_willitz = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ludwig = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lungen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 135 146 117 }
                 color2 = { 135 146 117 }
                 culture = wirtem
@@ -922,14 +1573,32 @@ e_calem = {
                 title_female = count
             }
             c_holgerne = {
-                b_holgerne = {
+                b_eitenhof = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_holgerne2 = {
+                b_neuth = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_karge = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_diepkow = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_markshof = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 128 137 124 }
                 color2 = { 128 137 124 }
                 culture = wirtem
@@ -937,14 +1606,27 @@ e_calem = {
                 title_female = count
             }
             c_holy_hills = {
-                b_holy_hills = {
+                b_meussen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_holy_hills2 = {
+                b_fletheim = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kircham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_stettel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 121 169 96 }
                 color2 = { 121 169 96 }
                 culture = wirtem
@@ -952,14 +1634,32 @@ e_calem = {
                 title_female = count
             }
             c_ivormark = {
-                b_ivormark = {
+                b_feldorf = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ivormark2 = {
+                b_lebenau = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_minkow = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_stedt = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ronnefen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 138 134 100 }
                 color2 = { 138 134 100 }
                 culture = wirtem
@@ -975,14 +1675,22 @@ e_calem = {
             color2 = { 127 138 102 }
             capital = 146
             c_hollifarland = {
-                b_hollifarland = {
+                b_rheide = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hollifarland2 = {
+                b_schub = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lensen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 138 146 99 }
                 color2 = { 138 146 99 }
                 culture = wirtem
@@ -990,14 +1698,27 @@ e_calem = {
                 title_female = count
             }
             c_holy_oratioland = {
-                b_holy_oratioland = {
+                b_paulau = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_holy_oratioland2 = {
+                b_ktheim = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hirsbach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kollnitz = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 137 141 113 }
                 color2 = { 137 141 113 }
                 culture = wirtem
@@ -1005,14 +1726,27 @@ e_calem = {
                 title_female = count
             }
             c_kallipolis = {
-                b_kallipolis = {
+                b_probutsk = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kallipolis2 = {
+                b_velovka = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_seltsi = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lazova = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 127 138 102 }
                 color2 = { 127 138 102 }
                 culture = krainivaya
@@ -1020,14 +1754,27 @@ e_calem = {
                 title_female = count
             }
             c_krismea = {
-                b_krismea = {
+                b_chyky = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_krismea2 = {
+                b_pasnya = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ivanka = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kyriv = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 134 159 122 }
                 color2 = { 134 159 122 }
                 culture = krainivaya
@@ -1035,14 +1782,22 @@ e_calem = {
                 title_female = count
             }
             c_neufoundland = {
-                b_neufoundland = {
+                b_siede = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_neufoundland2 = {
+                b_klemsen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_empeln = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 151 138 117 }
                 color2 = { 151 138 117 }
                 culture = wirtem
@@ -1050,14 +1805,22 @@ e_calem = {
                 title_female = count
             }
             c_severinburg = {
-                b_severinburg = {
+                b_krevel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_severinburg2 = {
+                b_hrsdorf = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_maine = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 130 130 125 }
                 color2 = { 130 130 125 }
                 culture = wirtem
@@ -1073,14 +1836,22 @@ e_calem = {
             color2 = { 121 155 113 }
             capital = 152
             c_bleiken_am_see = {
-                b_bleiken_am_see = {
+                b_waigen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bleiken_am_see2 = {
+                b_kirchsen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_wilken = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 121 155 113 }
                 color2 = { 121 155 113 }
                 culture = wirtem
@@ -1088,14 +1859,22 @@ e_calem = {
                 title_female = count
             }
             c_girtenwald_am_see = {
-                b_girtenwald_am_see = {
+                b_puden = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_girtenwald_am_see2 = {
+                b_thringen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kupfen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 145 135 106 }
                 color2 = { 145 135 106 }
                 culture = wirtem
@@ -1103,14 +1882,32 @@ e_calem = {
                 title_female = count
             }
             c_schutzerburgh = {
-                b_schutzerburgh = {
+                b_rohen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_schutzerburgh2 = {
+                b_hallen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kurzbach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_delbach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_dottum = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 141 149 97 }
                 color2 = { 141 149 97 }
                 culture = wirtem
@@ -1118,14 +1915,22 @@ e_calem = {
                 title_female = count
             }
             c_silmark = {
-                b_silmark = {
+                b_enstedt = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_silmark2 = {
+                b_hirnhof = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_oberauer = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 150 133 116 }
                 color2 = { 150 133 116 }
                 culture = wirtem
@@ -1149,14 +1954,27 @@ e_calem = {
             color2 = { 116 177 126 }
             capital = 156
             c_attliebel = {
-                b_attliebel = {
+                b_wacker = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_attliebel2 = {
+                b_thnitz = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_penburg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_mahle = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 121 164 106 }
                 color2 = { 121 164 106 }
                 culture = wirtem
@@ -1164,14 +1982,27 @@ e_calem = {
                 title_female = count
             }
             c_haubtdorf = {
-                b_haubtdorf = {
+                b_ritzel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_haubtdorf2 = {
+                b_niessel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_antzen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_teuth = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 144 163 106 }
                 color2 = { 144 163 106 }
                 culture = wirtem
@@ -1179,14 +2010,22 @@ e_calem = {
                 title_female = count
             }
             c_koningsberg = {
-                b_koningsberg = {
+                b_weden = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_koningsberg2 = {
+                b_hulbach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_fraun = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 116 177 126 }
                 color2 = { 116 177 126 }
                 culture = wirtem
@@ -1194,14 +2033,27 @@ e_calem = {
                 title_female = count
             }
             c_zollergurg = {
-                b_zollergurg = {
+                b_stockel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_zollergurg2 = {
+                b_unten = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_fraubach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_sontrup = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 138 150 102 }
                 color2 = { 138 150 102 }
                 culture = wirtem
@@ -1217,14 +2069,27 @@ e_calem = {
             color2 = { 131 152 97 }
             capital = 160
             c_brzerg = {
-                b_brzerg = {
+                b_grodnik = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_brzerg2 = {
+                b_mirogrod = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ziemowit = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_miłogost = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 138 173 125 }
                 color2 = { 138 173 125 }
                 culture = wruclav
@@ -1232,14 +2097,27 @@ e_calem = {
                 title_female = count
             }
             c_chetznitz = {
-                b_chetznitz = {
+                b_schell = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_chetznitz2 = {
+                b_neude = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_merze = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vollbach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 150 174 96 }
                 color2 = { 150 174 96 }
                 culture = wirtem
@@ -1247,14 +2125,27 @@ e_calem = {
                 title_female = count
             }
             c_moritzberg = {
-                b_moritzberg = {
+                b_grubkow = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_moritzberg2 = {
+                b_merausen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_prede = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_damberg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 139 140 111 }
                 color2 = { 139 140 111 }
                 culture = wirtem
@@ -1262,14 +2153,22 @@ e_calem = {
                 title_female = count
             }
             c_neukirch = {
-                b_neukirch = {
+                b_llenberg = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_neukirch2 = {
+                b_lenbach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_fremberg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 152 176 97 }
                 color2 = { 152 176 97 }
                 culture = wirtem
@@ -1277,14 +2176,27 @@ e_calem = {
                 title_female = count
             }
             c_rotstein = {
-                b_rotstein = {
+                b_deben = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rotstein2 = {
+                b_ferbach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_krelo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_louisen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 150 154 118 }
                 color2 = { 150 154 118 }
                 culture = wirtem
@@ -1292,14 +2204,27 @@ e_calem = {
                 title_female = count
             }
             c_schlossland = {
-                b_schlossland = {
+                b_henholz = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_schlossland2 = {
+                b_katerne = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_krenkamp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_volken = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 131 152 97 }
                 color2 = { 131 152 97 }
                 culture = wirtem
@@ -1315,14 +2240,22 @@ e_calem = {
             color2 = { 115 172 122 }
             capital = 166
             c_orienburg = {
-                b_orienburg = {
+                b_feuch = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_orienburg2 = {
+                b_emmeroda = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vienhaus = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 115 172 122 }
                 color2 = { 115 172 122 }
                 culture = wirtem
@@ -1330,14 +2263,27 @@ e_calem = {
                 title_female = count
             }
             c_riechstein = {
-                b_riechstein = {
+                b_muckau = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_riechstein2 = {
+                b_vilsbach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hocke = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_biersen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 130 152 93 }
                 color2 = { 130 152 93 }
                 culture = wirtem
@@ -1345,14 +2291,22 @@ e_calem = {
                 title_female = count
             }
             c_tenplinburg = {
-                b_tenplinburg = {
+                b_twitz = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tenplinburg2 = {
+                b_especk = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_buhle = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 130 159 129 }
                 color2 = { 130 159 129 }
                 culture = wirtem
@@ -1360,14 +2314,22 @@ e_calem = {
                 title_female = count
             }
             c_thiendorf = {
-                b_thiendorf = {
+                b_alting = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_thiendorf2 = {
+                b_schausen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_grossau = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 140 158 93 }
                 color2 = { 140 158 93 }
                 culture = wirtem
@@ -1375,14 +2337,22 @@ e_calem = {
                 title_female = count
             }
             c_vornfelde = {
-                b_vornfelde = {
+                b_flinke = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_vornfelde2 = {
+                b_gesdorf = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_heinen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 152 151 113 }
                 color2 = { 152 151 113 }
                 culture = wirtem

@@ -1,6 +1,7 @@
 title = c_ballywydgown
-max_settlements = 2
+max_settlements = 4
 culture = dunbrae
 religion = unionism
-b_ballywydgown = castle
-b_ballywydgown2 = temple
+
+b_rostwood = castle
+b_blade = temple

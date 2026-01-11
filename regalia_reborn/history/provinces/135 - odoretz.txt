@@ -1,6 +1,7 @@
 title = c_odoretz
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_odoretz = castle
-b_odoretz2 = temple
+
+b_glassen = castle
+b_grette = temple

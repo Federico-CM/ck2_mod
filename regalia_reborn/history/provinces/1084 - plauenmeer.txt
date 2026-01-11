@@ -1,6 +1,7 @@
 title = c_plauenmeer
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_plauenmeer = castle
-b_plauenmeer2 = temple
+
+b_vechten = castle
+b_henbach = temple

@@ -1,6 +1,7 @@
 title = c_gamlevik
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_gamlevik = tribal
-b_gamlevik2 = temple
+
+b_djurfors = tribal
+b_totten = temple

@@ -11,14 +11,22 @@ e_ventosa = {
             color2 = { 202 211 135 }
             capital = 179
             c_calzeira = {
-                b_calzeira = {
+                b_ferraia = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_calzeira2 = {
+                b_silvo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_poeiro = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 202 211 135 }
                 color2 = { 202 211 135 }
                 culture = bragacao
@@ -26,14 +34,27 @@ e_ventosa = {
                 title_female = count
             }
             c_cavoeira = {
-                b_cavoeira = {
+                b_vinha = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_cavoeira2 = {
+                b_montariz = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_linhosa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_facheiro = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 221 199 158 }
                 color2 = { 221 199 158 }
                 culture = bragacao
@@ -41,14 +62,22 @@ e_ventosa = {
                 title_female = count
             }
             c_gradao = {
-                b_gradao = {
+                b_lagosa = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gradao2 = {
+                b_milheira = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_pontas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 219 203 141 }
                 color2 = { 219 203 141 }
                 culture = bragacao
@@ -64,14 +93,27 @@ e_ventosa = {
             color2 = { 189 195 137 }
             capital = 183
             c_amadora = {
-                b_amadora = {
+                b_pradeira = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_amadora2 = {
+                b_peres = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_coutas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lacho = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 202 184 152 }
                 color2 = { 202 184 152 }
                 culture = bragacao
@@ -79,14 +121,22 @@ e_ventosa = {
                 title_female = count
             }
             c_chleirios = {
-                b_chleirios = {
+                b_carral = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_chleirios2 = {
+                b_carneira = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_freixal = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 209 213 158 }
                 color2 = { 209 213 158 }
                 culture = bragacao
@@ -94,14 +144,27 @@ e_ventosa = {
                 title_female = count
             }
             c_loures = {
-                b_loures = {
+                b_campanha = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_loures2 = {
+                b_encada = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_pedriz = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_gavide = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 199 223 144 }
                 color2 = { 199 223 144 }
                 culture = bragacao
@@ -109,14 +172,22 @@ e_ventosa = {
                 title_female = count
             }
             c_odivelas = {
-                b_odivelas = {
+                b_vermosa = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_odivelas2 = {
+                b_gonda = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_barrobo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 189 195 137 }
                 color2 = { 189 195 137 }
                 culture = bragacao
@@ -132,14 +203,22 @@ e_ventosa = {
             color2 = { 184 217 147 }
             capital = 187
             c_alhandra = {
-                b_alhandra = {
+                b_figos = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_alhandra2 = {
+                b_botilla = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ainete = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 212 210 157 }
                 color2 = { 212 210 157 }
                 culture = tierravera
@@ -147,14 +226,27 @@ e_ventosa = {
                 title_female = count
             }
             c_ribetej = {
-                b_ribetej = {
+                b_fontana = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ribetej2 = {
+                b_estana = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_chillar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_portomil = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 209 186 155 }
                 color2 = { 209 186 155 }
                 culture = tierravera
@@ -162,14 +254,22 @@ e_ventosa = {
                 title_female = count
             }
             c_savacem = {
-                b_savacem = {
+                b_aldeazo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_savacem2 = {
+                b_ardona = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_borleta = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 184 217 147 }
                 color2 = { 184 217 147 }
                 culture = tierravera
@@ -177,14 +277,27 @@ e_ventosa = {
                 title_female = count
             }
             c_sintra = {
-                b_sintra = {
+                b_canheda = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sintra2 = {
+                b_terrinha = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_nadal = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_cervo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 223 189 120 }
                 color2 = { 223 189 120 }
                 culture = bragacao
@@ -192,14 +305,22 @@ e_ventosa = {
                 title_female = count
             }
             c_sobradol = {
-                b_sobradol = {
+                b_massa = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sobradol2 = {
+                b_valda = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_tabarro = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 190 222 128 }
                 color2 = { 190 222 128 }
                 culture = tierravera
@@ -215,14 +336,22 @@ e_ventosa = {
             color2 = { 192 189 135 }
             capital = 192
             c_vila_rainal = {
-                b_vila_rainal = {
+                b_calhudos = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_vila_rainal2 = {
+                b_palhada = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_valhada = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 193 194 133 }
                 color2 = { 193 194 133 }
                 culture = bragacao
@@ -230,14 +359,22 @@ e_ventosa = {
                 title_female = count
             }
             c_vila_franca = {
-                b_vila_franca = {
+                b_sandes = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_vila_franca2 = {
+                b_posseira = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_moureira = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 197 187 152 }
                 color2 = { 197 187 152 }
                 culture = bragacao
@@ -245,14 +382,27 @@ e_ventosa = {
                 title_female = count
             }
             c_villa_real = {
-                b_villa_real = {
+                b_cotinhos = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_villa_real2 = {
+                b_porcas = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_barrinha = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ermido = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 192 189 135 }
                 color2 = { 192 189 135 }
                 culture = bragacao
@@ -276,14 +426,22 @@ e_ventosa = {
             color2 = { 169 199 93 }
             capital = 194
             c_campelo = {
-                b_campelo = {
+                b_cerejos = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_campelo2 = {
+                b_covel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_couro = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 198 200 93 }
                 color2 = { 198 200 93 }
                 culture = bragacao
@@ -291,14 +449,22 @@ e_ventosa = {
                 title_female = count
             }
             c_reguengos_de_murao = {
-                b_reguengos_de_murao = {
+                b_polvo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_reguengos_de_murao2 = {
+                b_sarreira = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_pedrulho = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 175 188 113 }
                 color2 = { 175 188 113 }
                 culture = bragacao
@@ -306,14 +472,27 @@ e_ventosa = {
                 title_female = count
             }
             c_rio_grande = {
-                b_rio_grande = {
+                b_patama = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rio_grande2 = {
+                b_balla = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_villos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_conte = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 179 204 119 }
                 color2 = { 179 204 119 }
                 culture = tierravera
@@ -321,14 +500,32 @@ e_ventosa = {
                 title_female = count
             }
             c_rio_sul = {
-                b_rio_sul = {
+                b_vilanes = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rio_sul2 = {
+                b_amadre = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_valmojas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_castia = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_monal = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 169 199 93 }
                 color2 = { 169 199 93 }
                 culture = tierravera
@@ -344,14 +541,22 @@ e_ventosa = {
             color2 = { 168 176 103 }
             capital = 198
             c_carrazeda = {
-                b_carrazeda = {
+                b_galeira = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_carrazeda2 = {
+                b_moutos = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_amoreiro = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 168 176 103 }
                 color2 = { 168 176 103 }
                 culture = bragacao
@@ -359,14 +564,22 @@ e_ventosa = {
                 title_female = count
             }
             c_frechas = {
-                b_frechas = {
+                b_ninhos = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_frechas2 = {
+                b_lordelas = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ulmeiras = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 186 173 125 }
                 color2 = { 186 173 125 }
                 culture = bragacao
@@ -374,14 +587,22 @@ e_ventosa = {
                 title_female = count
             }
             c_issa = {
-                b_issa = {
+                b_carroca = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_issa2 = {
+                b_monteiro = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_corvedal = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 179 193 86 }
                 color2 = { 179 193 86 }
                 culture = bragacao
@@ -397,14 +618,22 @@ e_ventosa = {
             color2 = { 190 199 90 }
             capital = 201
             c_lamengao = {
-                b_lamengao = {
+                b_outeira = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lamengao2 = {
+                b_bentela = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_passada = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 207 177 111 }
                 color2 = { 207 177 111 }
                 culture = bragacao
@@ -412,14 +641,22 @@ e_ventosa = {
                 title_female = count
             }
             c_montargil = {
-                b_montargil = {
+                b_lameias = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_montargil2 = {
+                b_bouca = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_linhal = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 190 199 90 }
                 color2 = { 190 199 90 }
                 culture = bragacao
@@ -427,14 +664,22 @@ e_ventosa = {
                 title_female = count
             }
             c_sabrosa = {
-                b_sabrosa = {
+                b_praso = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sabrosa2 = {
+                b_lavete = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_bucia = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 204 198 120 }
                 color2 = { 204 198 120 }
                 culture = tierravera
@@ -450,14 +695,27 @@ e_ventosa = {
             color2 = { 177 190 105 }
             capital = 204
             c_alijo = {
-                b_alijo = {
+                b_crasta = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_alijo2 = {
+                b_leira = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_feita = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_barroios = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 177 190 105 }
                 color2 = { 177 190 105 }
                 culture = bragacao
@@ -481,14 +739,27 @@ e_ventosa = {
             color2 = { 184 193 123 }
             capital = 205
             c_alpiarca = {
-                b_alpiarca = {
+                b_almarina = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_alpiarca2 = {
+                b_mouro = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_zapar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_sardia = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 192 186 117 }
                 color2 = { 192 186 117 }
                 culture = tierravera
@@ -496,14 +767,32 @@ e_ventosa = {
                 title_female = count
             }
             c_arroncha = {
-                b_arroncha = {
+                b_adrade = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_arroncha2 = {
+                b_murce = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_movel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_casalto = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_cabre = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 186 210 100 }
                 color2 = { 186 210 100 }
                 culture = tierravera
@@ -511,14 +800,27 @@ e_ventosa = {
                 title_female = count
             }
             c_estremouz = {
-                b_estremouz = {
+                b_valde = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_estremouz2 = {
+                b_corno = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_auros = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_meixo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 184 193 123 }
                 color2 = { 184 193 123 }
                 culture = tierravera
@@ -526,14 +828,22 @@ e_ventosa = {
                 title_female = count
             }
             c_evora = {
-                b_evora = {
+                b_cardel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_evora2 = {
+                b_paneras = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_herbio = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 211 191 111 }
                 color2 = { 211 191 111 }
                 culture = tierravera
@@ -541,14 +851,27 @@ e_ventosa = {
                 title_female = count
             }
             c_tarro_do_sal = {
-                b_tarro_do_sal = {
+                b_mando = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tarro_do_sal2 = {
+                b_cacha = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_sanza = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_papues = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 209 191 104 }
                 color2 = { 209 191 104 }
                 culture = tierravera
@@ -564,14 +887,22 @@ e_ventosa = {
             color2 = { 189 214 123 }
             capital = 210
             c_alcavanza = {
-                b_alcavanza = {
+                b_verdizes = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_alcavanza2 = {
+                b_fogueiro = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_fradela = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 200 206 120 }
                 color2 = { 200 206 120 }
                 culture = bragacao
@@ -579,14 +910,27 @@ e_ventosa = {
                 title_female = count
             }
             c_ximen = {
-                b_ximen = {
+                b_pedreses = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ximen2 = {
+                b_pombo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_brumelo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_pinhas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 189 214 123 }
                 color2 = { 189 214 123 }
                 culture = bragacao
@@ -594,14 +938,27 @@ e_ventosa = {
                 title_female = count
             }
             c_xitra = {
-                b_xitra = {
+                b_arras = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_xitra2 = {
+                b_burim = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_pontel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_cachos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 202 187 115 }
                 color2 = { 202 187 115 }
                 culture = bragacao
@@ -609,14 +966,27 @@ e_ventosa = {
                 title_female = count
             }
             c_zirenez = {
-                b_zirenez = {
+                b_grelo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_zirenez2 = {
+                b_tourinho = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_palha = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_cheiro = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 195 192 116 }
                 color2 = { 195 192 116 }
                 culture = bragacao
@@ -632,14 +1002,27 @@ e_ventosa = {
             color2 = { 189 207 114 }
             capital = 214
             c_almerim = {
-                b_almerim = {
+                b_milla = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_almerim2 = {
+                b_castana = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_panar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_aramuela = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 189 207 114 }
                 color2 = { 189 207 114 }
                 culture = tierravera
@@ -647,14 +1030,27 @@ e_ventosa = {
                 title_female = count
             }
             c_benedita = {
-                b_benedita = {
+                b_porronas = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_benedita2 = {
+                b_enteja = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_artigos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_mostar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 222 192 126 }
                 color2 = { 222 192 126 }
                 culture = tierravera
@@ -662,14 +1058,32 @@ e_ventosa = {
                 title_female = count
             }
             c_coruche = {
-                b_coruche = {
+                b_fares = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_coruche2 = {
+                b_escovelo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_maganhas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_agude = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_santinha = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 209 201 120 }
                 color2 = { 209 201 120 }
                 culture = bragacao
@@ -677,14 +1091,22 @@ e_ventosa = {
                 title_female = count
             }
             c_mourinhao = {
-                b_mourinhao = {
+                b_bonais = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_mourinhao2 = {
+                b_landa = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_meira = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 221 196 111 }
                 color2 = { 221 196 111 }
                 culture = bragacao
@@ -708,14 +1130,37 @@ e_ventosa = {
             color2 = { 184 107 171 }
             capital = 218
             c_la_rosa = {
-                b_la_rosa = {
+                b_drashim = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_la_rosa2 = {
+                b_sanarik = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_morinel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_beskar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_dagorin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_zanik = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 184 107 171 }
                 color2 = { 184 107 171 }
                 culture = allar
@@ -723,14 +1168,22 @@ e_ventosa = {
                 title_female = count
             }
             c_tasartio = {
-                b_tasartio = {
+                b_luaneth = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tasartio2 = {
+                b_hortan = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_borash = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 208 136 157 }
                 color2 = { 208 136 157 }
                 culture = allar
@@ -738,14 +1191,32 @@ e_ventosa = {
                 title_female = count
             }
             c_teseje = {
-                b_teseje = {
+                b_arkëron = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_teseje2 = {
+                b_dardok = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kelorin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_bledanar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_dritonar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 184 133 166 }
                 color2 = { 184 133 166 }
                 culture = allar
@@ -761,14 +1232,22 @@ e_ventosa = {
             color2 = { 189 112 150 }
             capital = 221
             c_cajarzes = {
-                b_cajarzes = {
+                b_lirath = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_cajarzes2 = {
+                b_ralorin = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_eshkar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 217 112 150 }
                 color2 = { 217 112 150 }
                 culture = allar
@@ -776,14 +1255,27 @@ e_ventosa = {
                 title_female = count
             }
             c_ferreira_an = {
-                b_ferreira_an = {
+                b_manukar = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ferreira_an2 = {
+                b_ilresh = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rronimar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vjolar = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 206 115 135 }
                 color2 = { 206 115 135 }
                 culture = allar
@@ -791,14 +1283,22 @@ e_ventosa = {
                 title_female = count
             }
             c_funchal = {
-                b_funchal = {
+                b_arkhësa = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_funchal2 = {
+                b_halorin = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hadarim = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 189 112 150 }
                 color2 = { 189 112 150 }
                 culture = allar
@@ -814,14 +1314,22 @@ e_ventosa = {
             color2 = { 189 128 142 }
             capital = 224
             c_azes = {
-                b_azes = {
+                b_koradin = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_azes2 = {
+                b_illirath = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rimmor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 190 103 174 }
                 color2 = { 190 103 174 }
                 culture = allar
@@ -829,14 +1337,22 @@ e_ventosa = {
                 title_female = count
             }
             c_mazzalora = {
-                b_mazzalora = {
+                b_gentar = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_mazzalora2 = {
+                b_garvok = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_illorin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 189 128 142 }
                 color2 = { 189 128 142 }
                 culture = allar
@@ -852,14 +1368,22 @@ e_ventosa = {
             color2 = { 191 112 157 }
             capital = 226
             c_la_paradill = {
-                b_la_paradill = {
+                b_odranik = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_la_paradill2 = {
+                b_palreth = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_narsen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 213 134 166 }
                 color2 = { 213 134 166 }
                 culture = allar
@@ -867,14 +1391,27 @@ e_ventosa = {
                 title_female = count
             }
             c_las_palmas = {
-                b_las_palmas = {
+                b_flyren = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_las_palmas2 = {
+                b_azureth = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_dakorin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_tekron = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 212 127 166 }
                 color2 = { 212 127 166 }
                 culture = allar
@@ -882,14 +1419,22 @@ e_ventosa = {
                 title_female = count
             }
             c_maspalomas = {
-                b_maspalomas = {
+                b_felmar = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_maspalomas2 = {
+                b_flaronnes = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vullash = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 191 112 157 }
                 color2 = { 191 112 157 }
                 culture = allar
@@ -913,14 +1458,27 @@ e_ventosa = {
             color2 = { 197 129 187 }
             capital = 229
             c_cozaal_isle = {
-                b_cozaal_isle = {
+                b_medu = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_cozaal_isle2 = {
+                b_qerut = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_gebara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_hutara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 236 136 154 }
                 color2 = { 236 136 154 }
                 culture = asha
@@ -928,14 +1486,27 @@ e_ventosa = {
                 title_female = count
             }
             c_ipsul = {
-                b_ipsul = {
+                b_amurratu = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ipsul2 = {
+                b_abdon = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_damqara = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_usharon = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 204 161 166 }
                 color2 = { 204 161 166 }
                 culture = skyborn
@@ -943,14 +1514,27 @@ e_ventosa = {
                 title_female = count
             }
             c_mezaal_isle = {
-                b_mezaal_isle = {
+                b_hesira = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_mezaal_isle2 = {
+                b_amkara = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_zefira = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_hasefa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 197 129 187 }
                 color2 = { 197 129 187 }
                 culture = asha
@@ -958,14 +1542,27 @@ e_ventosa = {
                 title_female = count
             }
             c_porte_plais = {
-                b_porte_plais = {
+                b_zambara = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_porte_plais2 = {
+                b_iskoren = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_luleth = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_varash = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 221 152 175 }
                 color2 = { 221 152 175 }
                 culture = allar
@@ -981,14 +1578,27 @@ e_ventosa = {
             color2 = { 225 137 173 }
             capital = 233
             c_flores_isle = {
-                b_flores_isle = {
+                b_aulikar = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_flores_isle2 = {
+                b_savelor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_freska = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_nisarik = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 225 137 173 }
                 color2 = { 225 137 173 }
                 culture = allar
@@ -996,14 +1606,22 @@ e_ventosa = {
                 title_female = count
             }
             c_puerto_asta = {
-                b_puerto_asta = {
+                b_doranik = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_puerto_asta2 = {
+                b_munreth = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_jetteral = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 230 137 180 }
                 color2 = { 230 137 180 }
                 culture = allar
@@ -1019,14 +1637,22 @@ e_ventosa = {
             color2 = { 225 128 157 }
             capital = 235
             c_islas_mujen = {
-                b_islas_mujen = {
+                b_valdaron = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_islas_mujen2 = {
+                b_malressa = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_nairun = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 225 128 157 }
                 color2 = { 225 128 157 }
                 culture = allar

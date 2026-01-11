@@ -1,6 +1,8 @@
 title = c_serooskerke
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_serooskerke = castle
-b_serooskerke2 = temple
+
+b_gilzen = castle
+b_huijen = temple
+b_plassenburg = city

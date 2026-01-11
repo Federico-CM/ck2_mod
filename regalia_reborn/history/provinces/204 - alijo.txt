@@ -1,6 +1,7 @@
 title = c_alijo
-max_settlements = 2
+max_settlements = 4
 culture = bragacao
 religion = unionism
-b_alijo = castle
-b_alijo2 = temple
+
+b_crasta = castle
+b_leira = temple

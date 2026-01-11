@@ -1,6 +1,8 @@
 title = c_keelburg
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_keelburg = castle
-b_keelburg2 = temple
+
+b_blaard = castle
+b_blekerhorst = temple
+b_ouden = city

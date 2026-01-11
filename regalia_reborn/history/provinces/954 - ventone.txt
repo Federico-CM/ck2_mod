@@ -1,6 +1,7 @@
 title = c_ventone
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = unionism
-b_ventone = castle
-b_ventone2 = temple
+
+b_pieta = castle
+b_servello = temple

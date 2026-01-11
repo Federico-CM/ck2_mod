@@ -1,6 +1,8 @@
 title = c_arzabzon
-max_settlements = 2
+max_settlements = 4
 culture = etosian
 religion = evintarian
-b_arzabzon = castle
-b_arzabzon2 = temple
+
+b_aerima = castle
+b_lamea = temple
+b_ioudra = city

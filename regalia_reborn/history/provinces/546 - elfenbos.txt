@@ -1,6 +1,7 @@
 title = c_elfenbos
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = draconism
-b_elfenbos = castle
-b_elfenbos2 = temple
+
+b_gebuurt = castle
+b_hoord = temple

@@ -1,6 +1,9 @@
 title = c_garelania
-max_settlements = 2
+max_settlements = 5
 culture = velheim
 religion = fornoss
-b_garelania = castle
-b_garelania2 = temple
+
+b_tistberg = castle
+b_utterbo = temple
+b_kllerbo = city
+b_storsta = city

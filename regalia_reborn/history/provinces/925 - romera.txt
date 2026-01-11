@@ -1,6 +1,8 @@
 title = c_romera
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_romera = castle
-b_romera2 = temple
+
+b_baresa = castle
+b_balleja = temple
+b_adorne = city

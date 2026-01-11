@@ -1,6 +1,7 @@
 title = c_kogelgat
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_kogelgat = castle
-b_kogelgat2 = temple
+
+b_gebeek = castle
+b_liets = temple

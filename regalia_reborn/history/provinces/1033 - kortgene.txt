@@ -1,6 +1,9 @@
 title = c_kortgene
-max_settlements = 2
+max_settlements = 5
 culture = anglian
 religion = unionism
-b_kortgene = castle
-b_kortgene2 = temple
+
+b_hanen = castle
+b_meder = temple
+b_wintelo = city
+b_klierum = city

@@ -1,6 +1,7 @@
 title = c_skarkhamn
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_skarkhamn = castle
-b_skarkhamn2 = temple
+
+b_bakvarna = castle
+b_nsdalen = temple

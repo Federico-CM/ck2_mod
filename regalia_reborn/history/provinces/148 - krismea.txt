@@ -1,6 +1,7 @@
 title = c_krismea
-max_settlements = 2
+max_settlements = 4
 culture = krainivaya
 religion = evintarian
-b_krismea = castle
-b_krismea2 = temple
+
+b_chyky = castle
+b_pasnya = temple

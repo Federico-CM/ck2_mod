@@ -1,6 +1,7 @@
 title = c_stromboli
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = unionism
-b_stromboli = castle
-b_stromboli2 = temple
+
+b_pisciano = castle
+b_campona = temple

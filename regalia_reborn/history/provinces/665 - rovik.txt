@@ -1,6 +1,7 @@
 title = c_rovik
-max_settlements = 2
+max_settlements = 5
 culture = velheim
 religion = fornoss
-b_rovik = tribal
-b_rovik2 = temple
+
+b_nedal = tribal
+b_hlseby = temple

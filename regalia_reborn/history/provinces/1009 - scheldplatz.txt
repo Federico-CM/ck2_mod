@@ -1,6 +1,8 @@
 title = c_scheldplatz
-max_settlements = 2
+max_settlements = 5
 culture = anglian
 religion = unionism
-b_scheldplatz = castle
-b_scheldplatz2 = temple
+
+b_sterdijk = castle
+b_deurs = temple
+b_midburg = city

@@ -1,6 +1,7 @@
 title = c_skaarme
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_skaarme = castle
-b_skaarme2 = temple
+
+b_emmel = castle
+b_noorderslag = temple

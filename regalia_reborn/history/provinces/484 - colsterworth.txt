@@ -1,6 +1,7 @@
 title = c_colsterworth
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_colsterworth = castle
-b_colsterworth2 = temple
+
+b_bellish = castle
+b_evill = temple

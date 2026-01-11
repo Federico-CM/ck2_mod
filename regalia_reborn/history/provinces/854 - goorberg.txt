@@ -1,6 +1,9 @@
 title = c_goorberg
-max_settlements = 2
+max_settlements = 5
 culture = anglian
 religion = unionism
-b_goorberg = castle
-b_goorberg2 = temple
+
+b_dierdijk = castle
+b_schop = temple
+b_nieze = city
+b_havenrode = city

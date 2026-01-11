@@ -1,6 +1,7 @@
 title = c_las_palmas
-max_settlements = 2
+max_settlements = 4
 culture = allar
 religion = unionism
-b_las_palmas = castle
-b_las_palmas2 = temple
+
+b_flyren = castle
+b_azureth = temple

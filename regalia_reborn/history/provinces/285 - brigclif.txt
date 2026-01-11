@@ -1,6 +1,7 @@
 title = c_brigclif
-max_settlements = 2
+max_settlements = 3
 culture = dunbrae
 religion = unionism
-b_brigclif = tribal
-b_brigclif2 = temple
+
+b_upwaster = tribal
+b_lunds = temple

@@ -1,6 +1,7 @@
 title = c_coli_jnsplaats
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_coli_jnsplaats = castle
-b_coli_jnsplaats2 = temple
+
+b_haartien = castle
+b_oosthorn = temple

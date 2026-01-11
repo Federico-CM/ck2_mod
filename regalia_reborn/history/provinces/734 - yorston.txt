@@ -1,6 +1,8 @@
 title = c_yorston
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_yorston = castle
-b_yorston2 = temple
+
+b_pring = castle
+b_steadal = temple
+b_heyston = city

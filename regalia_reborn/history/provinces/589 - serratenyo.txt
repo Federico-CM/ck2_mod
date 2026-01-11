@@ -1,6 +1,7 @@
 title = c_serratenyo
-max_settlements = 2
+max_settlements = 3
 culture = finul
 religion = estelley
-b_serratenyo = tribal
-b_serratenyo2 = temple
+
+b_brisenel = tribal
+b_navalen = temple

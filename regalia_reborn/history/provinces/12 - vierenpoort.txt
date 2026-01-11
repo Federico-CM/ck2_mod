@@ -1,6 +1,8 @@
 title = c_vierenpoort
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_vierenpoort = castle
-b_vierenpoort2 = temple
+
+b_ossem = castle
+b_noorders = temple
+b_koepelwaard = city

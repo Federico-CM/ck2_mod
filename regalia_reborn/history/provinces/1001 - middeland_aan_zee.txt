@@ -1,6 +1,7 @@
 title = c_middeland_aan_zee
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = draconism
-b_middeland_aan_zee = castle
-b_middeland_aan_zee2 = temple
+
+b_dreeden = castle
+b_westeren = temple

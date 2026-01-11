@@ -1,6 +1,8 @@
 title = c_kiezersdorp
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_kiezersdorp = castle
-b_kiezersdorp2 = temple
+
+b_lieth = castle
+b_leebuurt = temple
+b_zwaar = city

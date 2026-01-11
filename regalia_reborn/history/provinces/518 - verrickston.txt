@@ -1,6 +1,8 @@
 title = c_verrickston
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_verrickston = castle
-b_verrickston2 = temple
+
+b_owshouse = castle
+b_chead = temple
+b_hornhall = city

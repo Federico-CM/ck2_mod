@@ -1,6 +1,7 @@
 title = c_carron
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_carron = castle
-b_carron2 = temple
+
+b_stallach = castle
+b_stfeld = temple

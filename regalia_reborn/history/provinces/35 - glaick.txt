@@ -1,6 +1,7 @@
 title = c_glaick
-max_settlements = 2
+max_settlements = 3
 culture = dunbrae
 religion = unionism
-b_glaick = castle
-b_glaick2 = temple
+
+b_davon = castle
+b_cardwick = temple

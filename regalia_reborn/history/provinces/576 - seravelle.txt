@@ -1,6 +1,8 @@
 title = c_seravelle
-max_settlements = 2
+max_settlements = 4
 culture = solvaan
 religion = estelley
-b_seravelle = castle
-b_seravelle2 = temple
+
+b_valceran = castle
+b_valmorra = temple
+b_torfumar = city

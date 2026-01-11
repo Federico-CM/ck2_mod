@@ -1,6 +1,7 @@
 title = c_molveria
-max_settlements = 2
+max_settlements = 3
 culture = ania
 religion = unionism
-b_molveria = castle
-b_molveria2 = temple
+
+b_steasca = castle
+b_hoane = temple

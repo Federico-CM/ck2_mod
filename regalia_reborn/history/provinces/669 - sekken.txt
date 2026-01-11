@@ -1,6 +1,7 @@
 title = c_sekken
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_sekken = tribal
-b_sekken2 = temple
+
+b_lajsbo = tribal
+b_findern = temple

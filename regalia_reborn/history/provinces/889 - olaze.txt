@@ -1,6 +1,8 @@
 title = c_olaze
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_olaze = castle
-b_olaze2 = temple
+
+b_fones = castle
+b_tariz = temple
+b_benitas = city

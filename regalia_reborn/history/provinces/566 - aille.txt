@@ -1,6 +1,8 @@
 title = c_aille
-max_settlements = 2
+max_settlements = 4
 culture = aontaithe
 religion = fornoss
-b_aille = castle
-b_aille2 = temple
+
+b_fenwick = castle
+b_carrowbrae = temple
+b_drumwick = city

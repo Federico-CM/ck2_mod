@@ -1,6 +1,7 @@
 title = c_kattehaugen
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_kattehaugen = castle
-b_kattehaugen2 = temple
+
+b_silla = castle
+b_gylla = temple

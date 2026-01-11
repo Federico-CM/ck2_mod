@@ -11,14 +11,27 @@ e_norrland = {
             color2 = { 139 169 177 }
             capital = 659
             c_eidslind = {
-                b_eidslind = {
+                b_malund = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_eidslind2 = {
+                b_ballsa = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_flatbo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_steboda = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 153 152 141 }
                 color2 = { 153 152 141 }
                 culture = velheim
@@ -26,14 +39,32 @@ e_norrland = {
                 title_female = count
             }
             c_elveig = {
-                b_elveig = {
+                b_meldalan = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_elveig2 = {
+                b_skult = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_nibbhult = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vggesta = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_brossa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 137 156 150 }
                 color2 = { 137 156 150 }
                 culture = velheim
@@ -41,14 +72,27 @@ e_norrland = {
                 title_female = count
             }
             c_lysasund = {
-                b_lysasund = {
+                b_vidsbyn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lysasund2 = {
+                b_ansbo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_masbol = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kavla = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 139 169 177 }
                 color2 = { 139 169 177 }
                 culture = velheim
@@ -64,14 +108,27 @@ e_norrland = {
             color2 = { 128 182 167 }
             capital = 662
             c_gismund = {
-                b_gismund = {
+                b_slstad = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gismund2 = {
+                b_segarna = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_socka = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_sderup = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 128 182 167 }
                 color2 = { 128 182 167 }
                 culture = velheim
@@ -79,14 +136,32 @@ e_norrland = {
                 title_female = count
             }
             c_kvanne = {
-                b_kvanne = {
+                b_lered = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kvanne2 = {
+                b_ralstad = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_edvarna = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_stllen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lngseryd = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 128 182 154 }
                 color2 = { 128 182 154 }
                 culture = velheim
@@ -94,14 +169,27 @@ e_norrland = {
                 title_female = count
             }
             c_nordveglor = {
-                b_nordveglor = {
+                b_tullsbol = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nordveglor2 = {
+                b_limstad = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kappet = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ekors = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 140 153 166 }
                 color2 = { 140 153 166 }
                 culture = velheim
@@ -109,14 +197,32 @@ e_norrland = {
                 title_female = count
             }
             c_rovik = {
-                b_rovik = {
+                b_nedal = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rovik2 = {
+                b_hlseby = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_sirsen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_blbyn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_hynga = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 150 175 176 }
                 color2 = { 150 175 176 }
                 culture = velheim
@@ -132,14 +238,27 @@ e_norrland = {
             color2 = { 138 150 144 }
             capital = 666
             c_kirkaby = {
-                b_kirkaby = {
+                b_viggarum = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kirkaby2 = {
+                b_mullen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_halvhult = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_samla = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 138 150 144 }
                 color2 = { 138 150 144 }
                 culture = velheim
@@ -147,14 +266,22 @@ e_norrland = {
                 title_female = count
             }
             c_nesvik = {
-                b_nesvik = {
+                b_lillern = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nesvik2 = {
+                b_ulvnset = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_galma = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 129 149 163 }
                 color2 = { 129 149 163 }
                 culture = velheim
@@ -162,14 +289,22 @@ e_norrland = {
                 title_female = count
             }
             c_sekken = {
-                b_sekken = {
+                b_lajsbo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sekken2 = {
+                b_findern = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rulstorp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 135 181 152 }
                 color2 = { 135 181 152 }
                 culture = velheim
@@ -177,14 +312,22 @@ e_norrland = {
                 title_female = count
             }
             c_silley = {
-                b_silley = {
+                b_linthamn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_silley2 = {
+                b_buskhed = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lmesund = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 147 168 153 }
                 color2 = { 147 168 153 }
                 culture = velheim
@@ -200,14 +343,27 @@ e_norrland = {
             color2 = { 161 182 158 }
             capital = 670
             c_augheim = {
-                b_augheim = {
+                b_vitsen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_augheim2 = {
+                b_vsterd = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_aspberga = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_tyrvi = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 134 169 155 }
                 color2 = { 134 169 155 }
                 culture = velheim
@@ -215,14 +371,27 @@ e_norrland = {
                 title_female = count
             }
             c_folheim = {
-                b_folheim = {
+                b_elltorp = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_folheim2 = {
+                b_frmshult = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_torby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_olofsta = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 160 170 152 }
                 color2 = { 160 170 152 }
                 culture = velheim
@@ -230,14 +399,22 @@ e_norrland = {
                 title_female = count
             }
             c_mundheim = {
-                b_mundheim = {
+                b_karberg = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_mundheim2 = {
+                b_brorud = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_brackan = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 150 187 163 }
                 color2 = { 150 187 163 }
                 culture = velheim
@@ -245,14 +422,22 @@ e_norrland = {
                 title_female = count
             }
             c_odda = {
-                b_odda = {
+                b_garna = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_odda2 = {
+                b_koktorp = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lngtorp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 161 182 158 }
                 color2 = { 161 182 158 }
                 culture = velheim
@@ -276,14 +461,22 @@ e_norrland = {
             color2 = { 138 148 130 }
             capital = 674
             c_bjeren = {
-                b_bjeren = {
+                b_skarden = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bjeren2 = {
+                b_ormas = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kolshult = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 138 148 130 }
                 color2 = { 138 148 130 }
                 culture = velheim
@@ -291,14 +484,27 @@ e_norrland = {
                 title_female = count
             }
             c_heggenes = {
-                b_heggenes = {
+                b_rseneby = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_heggenes2 = {
+                b_vishamn = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_gundkra = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_glberg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 118 141 148 }
                 color2 = { 118 141 148 }
                 culture = velheim
@@ -306,14 +512,22 @@ e_norrland = {
                 title_female = count
             }
             c_nyslund = {
-                b_nyslund = {
+                b_hjggby = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nyslund2 = {
+                b_baggebol = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_gisliden = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 124 135 132 }
                 color2 = { 124 135 132 }
                 culture = velheim
@@ -329,14 +543,27 @@ e_norrland = {
             color2 = { 138 153 154 }
             capital = 677
             c_iseney = {
-                b_iseney = {
+                b_tumlen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_iseney2 = {
+                b_lngarebo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lunnesta = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_gimma = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 111 153 158 }
                 color2 = { 111 153 158 }
                 culture = velheim
@@ -344,14 +571,22 @@ e_norrland = {
                 title_female = count
             }
             c_vervik = {
-                b_vervik = {
+                b_mllebol = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_vervik2 = {
+                b_julbck = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ngstarp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 138 153 154 }
                 color2 = { 138 153 154 }
                 culture = velheim
@@ -367,14 +602,22 @@ e_norrland = {
             color2 = { 135 140 136 }
             capital = 679
             c_arasoya = {
-                b_arasoya = {
+                b_kunger = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_arasoya2 = {
+                b_kolpen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kvall = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 112 166 151 }
                 color2 = { 112 166 151 }
                 culture = velheim
@@ -382,14 +625,22 @@ e_norrland = {
                 title_female = count
             }
             c_buldarey = {
-                b_buldarey = {
+                b_skilen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_buldarey2 = {
+                b_ginberg = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_gransbo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 133 169 151 }
                 color2 = { 133 169 151 }
                 culture = velheim
@@ -397,14 +648,22 @@ e_norrland = {
                 title_female = count
             }
             c_milslund = {
-                b_milslund = {
+                b_sklet = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_milslund2 = {
+                b_vassa = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_nyserud = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 135 140 136 }
                 color2 = { 135 140 136 }
                 culture = velheim
@@ -412,14 +671,27 @@ e_norrland = {
                 title_female = count
             }
             c_raundey = {
-                b_raundey = {
+                b_vinhult = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_raundey2 = {
+                b_kubbets = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kullet = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ulvviken = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 111 150 141 }
                 color2 = { 111 150 141 }
                 culture = velheim
@@ -427,14 +699,27 @@ e_norrland = {
                 title_female = count
             }
             c_sandvik = {
-                b_sandvik = {
+                b_tosse = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sandvik2 = {
+                b_hllund = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vreby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_hackaryd = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 135 140 136 }
                 color2 = { 135 140 136 }
                 culture = velheim
@@ -450,14 +735,22 @@ e_norrland = {
             color2 = { 140 133 134 }
             capital = 684
             c_eneby = {
-                b_eneby = {
+                b_lnset = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_eneby2 = {
+                b_hillanda = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_gille = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 140 133 134 }
                 color2 = { 140 133 134 }
                 culture = velheim
@@ -481,14 +774,32 @@ e_norrland = {
             color2 = { 106 166 148 }
             capital = 685
             c_sleney = {
-                b_sleney = {
+                b_singelby = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sleney2 = {
+                b_lingarna = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_grandsj = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_dammare = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_hedlen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 106 166 148 }
                 color2 = { 106 166 148 }
                 culture = velheim
@@ -496,14 +807,37 @@ e_norrland = {
                 title_female = count
             }
             c_tysey = {
-                b_tysey = {
+                b_fjrden = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tysey2 = {
+                b_rsbke = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_halltjrn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_rapsberg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_homns = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_dalske = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 110 175 149 }
                 color2 = { 110 175 149 }
                 culture = velheim
@@ -519,14 +853,27 @@ e_norrland = {
             color2 = { 125 162 137 }
             capital = 687
             c_halheim = {
-                b_halheim = {
+                b_hknstorp = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_halheim2 = {
+                b_tigmo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vallerud = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_fiskoga = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 89 150 158 }
                 color2 = { 89 150 158 }
                 culture = velheim
@@ -534,14 +881,27 @@ e_norrland = {
                 title_female = count
             }
             c_haugheim = {
-                b_haugheim = {
+                b_skringe = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_haugheim2 = {
+                b_rister = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_stjrn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vistdal = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 102 151 163 }
                 color2 = { 102 151 163 }
                 culture = velheim
@@ -549,14 +909,22 @@ e_norrland = {
                 title_female = count
             }
             c_hundheim = {
-                b_hundheim = {
+                b_alsliden = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hundheim2 = {
+                b_lmsryd = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_bullinge = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 101 153 143 }
                 color2 = { 101 153 143 }
                 culture = velheim
@@ -564,14 +932,27 @@ e_norrland = {
                 title_female = count
             }
             c_husavik = {
-                b_husavik = {
+                b_nordal = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_husavik2 = {
+                b_stvedal = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_myrans = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_hovsbyn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 125 162 137 }
                 color2 = { 125 162 137 }
                 culture = velheim
@@ -579,14 +960,27 @@ e_norrland = {
                 title_female = count
             }
             c_rekesvik = {
-                b_rekesvik = {
+                b_salvalle = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rekesvik2 = {
+                b_skeppet = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hgdarna = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kolpe = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 111 145 141 }
                 color2 = { 111 145 141 }
                 culture = velheim
@@ -594,14 +988,22 @@ e_norrland = {
                 title_female = count
             }
             c_stradvik = {
-                b_stradvik = {
+                b_bster = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_stradvik2 = {
+                b_nygraby = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hrkeby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 111 174 141 }
                 color2 = { 111 174 141 }
                 culture = velheim
@@ -617,14 +1019,27 @@ e_norrland = {
             color2 = { 126 162 142 }
             capital = 693
             c_kotheim = {
-                b_kotheim = {
+                b_bulla = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kotheim2 = {
+                b_snatorp = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_svarp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_nungstad = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 126 162 142 }
                 color2 = { 126 162 142 }
                 culture = velheim
@@ -632,14 +1047,22 @@ e_norrland = {
                 title_female = count
             }
             c_kullheim = {
-                b_kullheim = {
+                b_tjlen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kullheim2 = {
+                b_vattnet = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_liselet = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 88 145 137 }
                 color2 = { 88 145 137 }
                 culture = velheim
@@ -647,14 +1070,27 @@ e_norrland = {
                 title_female = count
             }
             c_rekeheim = {
-                b_rekeheim = {
+                b_hjlma = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rekeheim2 = {
+                b_torbo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hlled = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_rlebo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 104 146 137 }
                 color2 = { 104 146 137 }
                 culture = velheim
@@ -662,14 +1098,27 @@ e_norrland = {
                 title_female = count
             }
             c_tellevag = {
-                b_tellevag = {
+                b_nilsta = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tellevag2 = {
+                b_skaboda = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_grnsen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_licken = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 97 148 164 }
                 color2 = { 97 148 164 }
                 culture = velheim
@@ -685,14 +1134,32 @@ e_norrland = {
             color2 = { 114 159 159 }
             capital = 697
             c_lutesfishheim = {
-                b_lutesfishheim = {
+                b_kiveden = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lutesfishheim2 = {
+                b_kastorp = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_estanby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_byhamn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_hissberg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 114 159 159 }
                 color2 = { 114 159 159 }
                 culture = velheim
@@ -700,14 +1167,22 @@ e_norrland = {
                 title_female = count
             }
             c_torskheim = {
-                b_torskheim = {
+                b_rentofta = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_torskheim2 = {
+                b_hagern = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lundet = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 92 183 129 }
                 color2 = { 92 183 129 }
                 culture = velheim
@@ -731,14 +1206,27 @@ e_norrland = {
             color2 = { 119 192 142 }
             capital = 699
             c_langbyen = {
-                b_langbyen = {
+                b_korns = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_langbyen2 = {
+                b_bjrnli = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_brnngrd = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_olofsbyn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 132 186 154 }
                 color2 = { 132 186 154 }
                 culture = velheim
@@ -746,14 +1234,22 @@ e_norrland = {
                 title_female = count
             }
             c_middeland = {
-                b_middeland = {
+                b_lngstran = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_middeland2 = {
+                b_brohand = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vlsarp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 119 192 142 }
                 color2 = { 119 192 142 }
                 culture = velheim
@@ -761,14 +1257,22 @@ e_norrland = {
                 title_female = count
             }
             c_nornhavn = {
-                b_nornhavn = {
+                b_buskard = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nornhavn2 = {
+                b_grabygd = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kvestad = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 138 187 166 }
                 color2 = { 138 187 166 }
                 culture = velheim
@@ -776,14 +1280,22 @@ e_norrland = {
                 title_female = count
             }
             c_svenlandet = {
-                b_svenlandet = {
+                b_arktorp = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_svenlandet2 = {
+                b_gveryd = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kratorp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 128 174 167 }
                 color2 = { 128 174 167 }
                 culture = velheim
@@ -799,14 +1311,27 @@ e_norrland = {
             color2 = { 105 152 168 }
             capital = 703
             c_botn = {
-                b_botn = {
+                b_galtan = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_botn2 = {
+                b_skyttan = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_karyd = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_iskaby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 105 152 168 }
                 color2 = { 105 152 168 }
                 culture = velheim
@@ -814,14 +1339,22 @@ e_norrland = {
                 title_female = count
             }
             c_seilaland = {
-                b_seilaland = {
+                b_gunnan = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_seilaland2 = {
+                b_finnhaga = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_sticken = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 126 157 160 }
                 color2 = { 126 157 160 }
                 culture = velheim
@@ -829,14 +1362,22 @@ e_norrland = {
                 title_female = count
             }
             c_selfvik = {
-                b_selfvik = {
+                b_gottnet = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_selfvik2 = {
+                b_ommark = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_prsterup = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 123 173 150 }
                 color2 = { 123 173 150 }
                 culture = velheim
@@ -844,14 +1385,27 @@ e_norrland = {
                 title_female = count
             }
             c_sundland = {
-                b_sundland = {
+                b_sigda = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sundland2 = {
+                b_masgrden = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ptenarp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ruatorp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 127 173 152 }
                 color2 = { 127 173 152 }
                 culture = velheim
@@ -867,14 +1421,27 @@ e_norrland = {
             color2 = { 125 170 138 }
             capital = 707
             c_gamlevik = {
-                b_gamlevik = {
+                b_djurfors = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gamlevik2 = {
+                b_totten = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_sigge = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_gretorp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 125 170 138 }
                 color2 = { 125 170 138 }
                 culture = velheim
@@ -882,14 +1449,22 @@ e_norrland = {
                 title_female = count
             }
             c_hellefjord = {
-                b_hellefjord = {
+                b_frsum = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hellefjord2 = {
+                b_adelebo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rektarp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 130 164 140 }
                 color2 = { 130 164 140 }
                 culture = velheim
@@ -897,14 +1472,27 @@ e_norrland = {
                 title_female = count
             }
             c_olavfjord = {
-                b_olavfjord = {
+                b_tacksmo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_olavfjord2 = {
+                b_vedet = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lnstorp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vissja = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 130 183 168 }
                 color2 = { 130 183 168 }
                 culture = velheim
@@ -912,14 +1500,22 @@ e_norrland = {
                 title_female = count
             }
             c_ripefjord = {
-                b_ripefjord = {
+                b_friddal = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ripefjord2 = {
+                b_fagerd = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_yxnerd = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 130 159 158 }
                 color2 = { 130 159 158 }
                 culture = velheim
@@ -943,14 +1539,22 @@ e_norrland = {
             color2 = { 145 203 175 }
             capital = 711
             c_laudevik = {
-                b_laudevik = {
+                b_rasjryd = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_laudevik2 = {
+                b_bredarbo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_tevik = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 151 204 180 }
                 color2 = { 151 204 180 }
                 culture = velheim
@@ -958,14 +1562,27 @@ e_norrland = {
                 title_female = count
             }
             c_ringstad = {
-                b_ringstad = {
+                b_frabyn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ringstad2 = {
+                b_dagsta = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lmmark = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_humlegrd = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 146 205 185 }
                 color2 = { 146 205 185 }
                 culture = velheim
@@ -973,14 +1590,22 @@ e_norrland = {
                 title_female = count
             }
             c_skarmyre = {
-                b_skarmyre = {
+                b_kappara = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_skarmyre2 = {
+                b_genhult = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_allebo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 145 203 175 }
                 color2 = { 145 203 175 }
                 culture = velheim
@@ -996,14 +1621,22 @@ e_norrland = {
             color2 = { 145 181 183 }
             capital = 714
             c_harstad = {
-                b_harstad = {
+                b_skllanda = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_harstad2 = {
+                b_rnnered = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_glsta = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 154 197 170 }
                 color2 = { 154 197 170 }
                 culture = velheim
@@ -1011,14 +1644,27 @@ e_norrland = {
                 title_female = count
             }
             c_hvitland = {
-                b_hvitland = {
+                b_ljunge = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hvitland2 = {
+                b_sunderbo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ansby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_folkebo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 150 187 178 }
                 color2 = { 150 187 178 }
                 culture = velheim
@@ -1026,14 +1672,27 @@ e_norrland = {
                 title_female = count
             }
             c_sortland = {
-                b_sortland = {
+                b_fgelsbo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sortland2 = {
+                b_svalle = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_stnge = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_fagelsta = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 145 181 183 }
                 color2 = { 145 181 183 }
                 culture = velheim
@@ -1049,14 +1708,27 @@ e_norrland = {
             color2 = { 139 169 167 }
             capital = 717
             c_gravdal = {
-                b_gravdal = {
+                b_byggebyn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gravdal2 = {
+                b_hinstad = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kungen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_stevik = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 139 169 167 }
                 color2 = { 139 169 167 }
                 culture = velheim
@@ -1064,14 +1736,22 @@ e_norrland = {
                 title_female = count
             }
             c_ramberg = {
-                b_ramberg = {
+                b_dockna = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ramberg2 = {
+                b_godhytta = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_almaby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 163 174 153 }
                 color2 = { 163 174 153 }
                 culture = velheim
@@ -1087,14 +1767,22 @@ e_norrland = {
             color2 = { 156 193 159 }
             capital = 719
             c_hunneberg = {
-                b_hunneberg = {
+                b_nogryd = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hunneberg2 = {
+                b_hstby = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_segerum = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 156 193 159 }
                 color2 = { 156 193 159 }
                 culture = velheim
@@ -1102,14 +1790,27 @@ e_norrland = {
                 title_female = count
             }
             c_nykesund = {
-                b_nykesund = {
+                b_solbyn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nykesund2 = {
+                b_fagelby = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lvster = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_sunnerud = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 163 196 156 }
                 color2 = { 163 196 156 }
                 culture = velheim
@@ -1117,14 +1818,32 @@ e_norrland = {
                 title_female = count
             }
             c_risoyhamn = {
-                b_risoyhamn = {
+                b_svalebo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_risoyhamn2 = {
+                b_sofieda = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ramsa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lngsryd = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_gruvberg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 158 198 190 }
                 color2 = { 158 198 190 }
                 culture = velheim
@@ -1140,14 +1859,27 @@ e_norrland = {
             color2 = { 131 171 184 }
             capital = 722
             c_bjarke = {
-                b_bjarke = {
+                b_hrden = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bjarke2 = {
+                b_ottebo = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_delund = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_gruna = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 131 171 184 }
                 color2 = { 131 171 184 }
                 culture = velheim
@@ -1155,14 +1887,27 @@ e_norrland = {
                 title_female = count
             }
             c_skarkhamn = {
-                b_skarkhamn = {
+                b_bakvarna = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_skarkhamn2 = {
+                b_nsdalen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_skatorp = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ebbelbo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 150 182 169 }
                 color2 = { 150 182 169 }
                 culture = velheim
@@ -1170,14 +1915,22 @@ e_norrland = {
                 title_female = count
             }
             c_sverreoy = {
-                b_sverreoy = {
+                b_smgrd = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sverreoy2 = {
+                b_trovik = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lagby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 151 192 159 }
                 color2 = { 151 192 159 }
                 culture = velheim

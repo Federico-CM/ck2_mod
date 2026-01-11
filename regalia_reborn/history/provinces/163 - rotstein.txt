@@ -1,6 +1,7 @@
 title = c_rotstein
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_rotstein = castle
-b_rotstein2 = temple
+
+b_deben = castle
+b_ferbach = temple

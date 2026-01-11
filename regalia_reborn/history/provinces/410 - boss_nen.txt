@@ -1,6 +1,7 @@
 title = c_boss_nen
-max_settlements = 2
+max_settlements = 3
 culture = dvala
 religion = evintarian
-b_boss_nen = castle
-b_boss_nen2 = temple
+
+b_kovilje = castle
+b_dravnik = temple

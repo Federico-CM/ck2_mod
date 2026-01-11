@@ -1,6 +1,7 @@
 title = c_kallipolis
-max_settlements = 2
+max_settlements = 4
 culture = krainivaya
 religion = evintarian
-b_kallipolis = castle
-b_kallipolis2 = temple
+
+b_probutsk = castle
+b_velovka = temple

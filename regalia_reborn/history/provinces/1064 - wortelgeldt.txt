@@ -1,6 +1,7 @@
 title = c_wortelgeldt
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_wortelgeldt = castle
-b_wortelgeldt2 = temple
+
+b_bongen = castle
+b_veenbrug = temple

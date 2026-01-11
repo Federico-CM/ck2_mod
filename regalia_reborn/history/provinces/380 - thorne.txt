@@ -1,6 +1,7 @@
 title = c_thorne
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_thorne = castle
-b_thorne2 = temple
+
+b_horpe = castle
+b_harpool = temple

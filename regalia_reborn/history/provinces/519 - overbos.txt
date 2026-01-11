@@ -1,6 +1,8 @@
 title = c_overbos
-max_settlements = 2
+max_settlements = 5
 culture = anglian
 religion = unionism
-b_overbos = castle
-b_overbos2 = temple
+
+b_hoordijk = castle
+b_molent = temple
+b_veerzicht = city

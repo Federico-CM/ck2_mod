@@ -1,6 +1,7 @@
 title = c_creach
-max_settlements = 2
+max_settlements = 4
 culture = aber
 religion = evolism
-b_creach = tribal
-b_creach2 = temple
+
+b_lairn = tribal
+b_solister = temple

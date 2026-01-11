@@ -1,6 +1,8 @@
 title = c_bispingen
-max_settlements = 2
+max_settlements = 4
 culture = hoglander
 religion = unionism
-b_bispingen = castle
-b_bispingen2 = temple
+
+b_fagerby = castle
+b_lindeby = temple
+b_hultby = city

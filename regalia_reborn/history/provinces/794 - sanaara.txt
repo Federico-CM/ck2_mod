@@ -1,6 +1,7 @@
 title = c_sanaara
-max_settlements = 2
+max_settlements = 4
 culture = solvaan
 religion = estelley
-b_sanaara = castle
-b_sanaara2 = temple
+
+b_selmarisel = castle
+b_torcanara = temple

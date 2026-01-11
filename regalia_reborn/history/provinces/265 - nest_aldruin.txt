@@ -1,6 +1,9 @@
 title = c_nest_aldruin
-max_settlements = 2
+max_settlements = 6
 culture = dwarven
 religion = fornoss
-b_nest_aldruin = castle
-b_nest_aldruin2 = temple
+
+b_vurkhenn = castle
+b_drakhul = temple
+b_harrivex = city
+b_ulhennor = city

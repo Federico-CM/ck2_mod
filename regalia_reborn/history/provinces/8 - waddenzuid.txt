@@ -1,6 +1,7 @@
 title = c_waddenzuid
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_waddenzuid = castle
-b_waddenzuid2 = temple
+
+b_oldenwijk = castle
+b_kerkhoek = temple

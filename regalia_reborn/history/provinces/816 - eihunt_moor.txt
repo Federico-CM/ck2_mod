@@ -1,6 +1,7 @@
 title = c_eihunt_moor
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_eihunt_moor = castle
-b_eihunt_moor2 = temple
+
+b_henloo = castle
+b_nieuwemond = temple

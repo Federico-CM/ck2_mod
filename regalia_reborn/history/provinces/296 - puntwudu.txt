@@ -1,6 +1,7 @@
 title = c_puntwudu
-max_settlements = 2
+max_settlements = 3
 culture = dunbrae
 religion = unionism
-b_puntwudu = tribal
-b_puntwudu2 = temple
+
+b_carnlip = tribal
+b_elbury = temple

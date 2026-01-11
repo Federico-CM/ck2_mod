@@ -1,6 +1,7 @@
 title = c_langbyen
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_langbyen = castle
-b_langbyen2 = temple
+
+b_korns = castle
+b_bjrnli = temple

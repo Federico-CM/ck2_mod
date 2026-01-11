@@ -1,6 +1,7 @@
 title = c_gallenberg
-max_settlements = 2
+max_settlements = 3
 culture = genevaud
 religion = unionism
-b_gallenberg = castle
-b_gallenberg2 = temple
+
+b_freihalde = castle
+b_erlenmoos = temple

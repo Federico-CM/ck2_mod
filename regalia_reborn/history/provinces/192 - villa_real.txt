@@ -1,6 +1,8 @@
 title = c_villa_real
-max_settlements = 2
+max_settlements = 4
 culture = bragacao
 religion = unionism
-b_villa_real = castle
-b_villa_real2 = temple
+
+b_cotinhos = castle
+b_porcas = temple
+b_ermido = city

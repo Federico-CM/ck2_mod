@@ -1,6 +1,7 @@
 title = c_stokesay
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_stokesay = castle
-b_stokesay2 = temple
+
+b_hinge = castle
+b_colly = temple

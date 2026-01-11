@@ -1,6 +1,8 @@
 title = c_mercatour
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_mercatour = castle
-b_mercatour2 = temple
+
+b_nancres = castle
+b_rupeyre = temple
+b_bricourt = city

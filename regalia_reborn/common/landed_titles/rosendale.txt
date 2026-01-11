@@ -11,14 +11,27 @@ e_rosendale = {
             color2 = { 155 106 97 }
             capital = 725
             c_annfield = {
-                b_annfield = {
+                b_copleton = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_annfield2 = {
+                b_chareham = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_greynton = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_howerby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 161 85 113 }
                 color2 = { 161 85 113 }
                 culture = cearden
@@ -26,14 +39,27 @@ e_rosendale = {
                 title_female = count
             }
             c_baybridge = {
-                b_baybridge = {
+                b_hartin = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_baybridge2 = {
+                b_killoch = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_bells = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_chington = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 155 106 97 }
                 color2 = { 155 106 97 }
                 culture = cearden
@@ -41,14 +67,27 @@ e_rosendale = {
                 title_female = count
             }
             c_chipestre = {
-                b_chipestre = {
+                b_trell = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_chipestre2 = {
+                b_airon = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_amwood = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_garvill = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 189 98 117 }
                 color2 = { 189 98 117 }
                 culture = cearden
@@ -64,14 +103,27 @@ e_rosendale = {
             color2 = { 152 99 91 }
             capital = 728
             c_corbridge = {
-                b_corbridge = {
+                b_wadley = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_corbridge2 = {
+                b_barshaw = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_brunhill = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ashmoore = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 192 120 93 }
                 color2 = { 192 120 93 }
                 culture = cearden
@@ -79,14 +131,27 @@ e_rosendale = {
                 title_female = count
             }
             c_gateshead = {
-                b_gateshead = {
+                b_carley = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gateshead2 = {
+                b_crimbley = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_balder = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_loxtone = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 163 91 101 }
                 color2 = { 163 91 101 }
                 culture = cearden
@@ -94,14 +159,32 @@ e_rosendale = {
                 title_female = count
             }
             c_hexenham = {
-                b_hexenham = {
+                b_keitz = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hexenham2 = {
+                b_oberweg = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_oberger = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_brnstal = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_hinzenau = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 177 100 97 }
                 color2 = { 177 100 97 }
                 culture = wirtem
@@ -109,14 +192,27 @@ e_rosendale = {
                 title_female = count
             }
             c_hought = {
-                b_hought = {
+                b_caldon = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hought2 = {
+                b_kirbury = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_gasdale = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_botcote = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 160 106 101 }
                 color2 = { 160 106 101 }
                 culture = cearden
@@ -124,14 +220,22 @@ e_rosendale = {
                 title_female = count
             }
             c_stanley = {
-                b_stanley = {
+                b_nutton = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_stanley2 = {
+                b_cabridge = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_balme = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 152 99 91 }
                 color2 = { 152 99 91 }
                 culture = cearden
@@ -147,14 +251,22 @@ e_rosendale = {
             color2 = { 169 119 114 }
             capital = 733
             c_consett = {
-                b_consett = {
+                b_treet = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_consett2 = {
+                b_townham = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_tiley = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 209 126 98 }
                 color2 = { 209 126 98 }
                 culture = cearden
@@ -162,14 +274,22 @@ e_rosendale = {
                 title_female = count
             }
             c_washing = {
-                b_washing = {
+                b_barburg = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_washing2 = {
+                b_wallich = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hurstone = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 169 119 114 }
                 color2 = { 169 119 114 }
                 culture = cearden
@@ -177,14 +297,22 @@ e_rosendale = {
                 title_female = count
             }
             c_whythergate = {
-                b_whythergate = {
+                b_harebank = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_whythergate2 = {
+                b_claton = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ancote = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 189 86 110 }
                 color2 = { 189 86 110 }
                 culture = cearden
@@ -192,14 +320,27 @@ e_rosendale = {
                 title_female = count
             }
             c_yorston = {
-                b_yorston = {
+                b_pring = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_yorston2 = {
+                b_steadal = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_galderby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_heyston = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 188 105 117 }
                 color2 = { 188 105 117 }
                 culture = cearden
@@ -223,14 +364,22 @@ e_rosendale = {
             color2 = { 197 139 135 }
             capital = 737
             c_cloisterburgh = {
-                b_cloisterburgh = {
+                b_scote = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_cloisterburgh2 = {
+                b_cherwood = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_treglin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 207 133 121 }
                 color2 = { 207 133 121 }
                 culture = cearden
@@ -238,14 +387,22 @@ e_rosendale = {
                 title_female = count
             }
             c_fieldbury = {
-                b_fieldbury = {
+                b_soula = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_fieldbury2 = {
+                b_outhdale = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_dunby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 197 139 135 }
                 color2 = { 197 139 135 }
                 culture = cearden
@@ -253,14 +410,27 @@ e_rosendale = {
                 title_female = count
             }
             c_mildenhal = {
-                b_mildenhal = {
+                b_parksey = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_mildenhal2 = {
+                b_brick = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_stick = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_burnter = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 201 121 99 }
                 color2 = { 201 121 99 }
                 culture = cearden
@@ -268,14 +438,32 @@ e_rosendale = {
                 title_female = count
             }
             c_slowmarket = {
-                b_slowmarket = {
+                b_lardon = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_slowmarket2 = {
+                b_bally = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lands = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_harroyd = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_crummer = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 205 101 99 }
                 color2 = { 205 101 99 }
                 culture = cearden
@@ -291,14 +479,27 @@ e_rosendale = {
             color2 = { 185 116 116 }
             capital = 741
             c_formesmeade = {
-                b_formesmeade = {
+                b_miert = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_formesmeade2 = {
+                b_schuur = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_noard = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_oosbeek = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 202 118 112 }
                 color2 = { 202 118 112 }
                 culture = anglian
@@ -306,14 +507,22 @@ e_rosendale = {
                 title_female = count
             }
             c_lutton = {
-                b_lutton = {
+                b_bightone = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lutton2 = {
+                b_henhall = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ediss = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 204 130 125 }
                 color2 = { 204 130 125 }
                 culture = cearden
@@ -321,14 +530,32 @@ e_rosendale = {
                 title_female = count
             }
             c_lutton_upon_bridgead = {
-                b_lutton_upon_bridgead = {
+                b_crain = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lutton_upon_bridgead2 = {
+                b_hassbury = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_coxshorn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_surford = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_oldtwick = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 200 99 98 }
                 color2 = { 200 99 98 }
                 culture = cearden
@@ -336,14 +563,22 @@ e_rosendale = {
                 title_female = count
             }
             c_potcastle = {
-                b_potcastle = {
+                b_rumby = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_potcastle2 = {
+                b_warkham = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_stage = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 193 100 95 }
                 color2 = { 193 100 95 }
                 culture = cearden
@@ -351,14 +586,22 @@ e_rosendale = {
                 title_female = count
             }
             c_witancastre = {
-                b_witancastre = {
+                b_girley = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_witancastre2 = {
+                b_penhouse = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_fleden = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 185 116 116 }
                 color2 = { 185 116 116 }
                 culture = cearden
@@ -374,14 +617,27 @@ e_rosendale = {
             color2 = { 202 129 104 }
             capital = 746
             c_hadleigh = {
-                b_hadleigh = {
+                b_ireckley = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hadleigh2 = {
+                b_hasford = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_cowpark = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_doven = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 212 105 98 }
                 color2 = { 212 105 98 }
                 culture = cearden
@@ -389,14 +645,32 @@ e_rosendale = {
                 title_female = count
             }
             c_saint_ives = {
-                b_saint_ives = {
+                b_hillhope = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_saint_ives2 = {
+                b_ibsey = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ledge = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_comberry = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_gorth = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 202 129 104 }
                 color2 = { 202 129 104 }
                 culture = cearden
@@ -420,14 +694,32 @@ e_rosendale = {
             color2 = { 170 114 124 }
             capital = 748
             c_catterbury = {
-                b_catterbury = {
+                b_wadstown = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_catterbury2 = {
+                b_ington = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_chill = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_affirton = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_knodhill = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 171 131 113 }
                 color2 = { 171 131 113 }
                 culture = cearden
@@ -435,14 +727,32 @@ e_rosendale = {
                 title_female = count
             }
             c_oxenfurd = {
-                b_oxenfurd = {
+                b_trush = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_oxenfurd2 = {
+                b_pentbury = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_winghay = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_codmark = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_dington = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 204 107 97 }
                 color2 = { 204 107 97 }
                 culture = cearden
@@ -450,14 +760,27 @@ e_rosendale = {
                 title_female = count
             }
             c_rinnetcastle = {
-                b_rinnetcastle = {
+                b_gravon = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rinnetcastle2 = {
+                b_hurston = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_felby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_shalloch = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 170 114 124 }
                 color2 = { 170 114 124 }
                 culture = cearden
@@ -465,14 +788,22 @@ e_rosendale = {
                 title_female = count
             }
             c_worthing = {
-                b_worthing = {
+                b_waitford = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_worthing2 = {
+                b_footry = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_garmby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 203 96 122 }
                 color2 = { 203 96 122 }
                 culture = cearden
@@ -488,14 +819,22 @@ e_rosendale = {
             color2 = { 186 126 93 }
             capital = 752
             c_narlas = {
-                b_narlas = {
+                b_sappley = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_narlas2 = {
+                b_etchcott = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_igham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 186 126 93 }
                 color2 = { 186 126 93 }
                 culture = cearden
@@ -503,14 +842,32 @@ e_rosendale = {
                 title_female = count
             }
             c_siltcastle = {
-                b_siltcastle = {
+                b_devon = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_siltcastle2 = {
+                b_ellywood = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_thurley = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_osborry = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_mapes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 193 119 104 }
                 color2 = { 193 119 104 }
                 culture = cearden
@@ -526,14 +883,22 @@ e_rosendale = {
             color2 = { 170 121 92 }
             capital = 754
             c_attelgate = {
-                b_attelgate = {
+                b_chick = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_attelgate2 = {
+                b_spington = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_maperley = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 192 108 114 }
                 color2 = { 192 108 114 }
                 culture = cearden
@@ -541,14 +906,22 @@ e_rosendale = {
                 title_female = count
             }
             c_bovrington = {
-                b_bovrington = {
+                b_rodby = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bovrington2 = {
+                b_matcombe = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rodbury = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 178 97 125 }
                 color2 = { 178 97 125 }
                 culture = cearden
@@ -556,14 +929,27 @@ e_rosendale = {
                 title_female = count
             }
             c_stormington = {
-                b_stormington = {
+                b_beaton = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_stormington2 = {
+                b_rammoor = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lapton = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kiltown = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 196 97 96 }
                 color2 = { 196 97 96 }
                 culture = cearden
@@ -571,14 +957,37 @@ e_rosendale = {
                 title_female = count
             }
             c_sutton = {
-                b_sutton = {
+                b_launden = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sutton2 = {
+                b_dodden = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_pittley = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_fromham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_attendon = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_poncombe = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 172 112 99 }
                 color2 = { 172 112 99 }
                 culture = cearden
@@ -586,14 +995,32 @@ e_rosendale = {
                 title_female = count
             }
             c_walthingburgh = {
-                b_walthingburgh = {
+                b_skington = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_walthingburgh2 = {
+                b_oxley = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_churston = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_willy = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_perfield = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 170 121 92 }
                 color2 = { 170 121 92 }
                 culture = cearden
@@ -617,14 +1044,32 @@ e_rosendale = {
             color2 = { 164 144 118 }
             capital = 473
             c_autinge = {
-                b_autinge = {
+                b_monthel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_autinge2 = {
+                b_cormain = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_laignes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_cirey = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_arconce = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 164 144 118 }
                 color2 = { 164 144 118 }
                 culture = burdigala
@@ -632,14 +1077,32 @@ e_rosendale = {
                 title_female = count
             }
             c_coulogne = {
-                b_coulogne = {
+                b_moloy = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_coulogne2 = {
+                b_torcy = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_curtil = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_beurney = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_chissey = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 174 122 115 }
                 color2 = { 174 122 115 }
                 culture = burdigala
@@ -647,14 +1110,27 @@ e_rosendale = {
                 title_female = count
             }
             c_hames = {
-                b_hames = {
+                b_clamey = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hames2 = {
+                b_chazay = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vesvre = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_cussy = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 188 135 119 }
                 color2 = { 188 135 119 }
                 culture = burdigala
@@ -670,14 +1146,27 @@ e_rosendale = {
             color2 = { 167 130 129 }
             capital = 476
             c_guemps = {
-                b_guemps = {
+                b_perrigny = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_guemps2 = {
+                b_chenault = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_saisy = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_massingy = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 167 130 129 }
                 color2 = { 167 130 129 }
                 culture = burdigala
@@ -685,14 +1174,32 @@ e_rosendale = {
                 title_female = count
             }
             c_nortkerque = {
-                b_nortkerque = {
+                b_meursel = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nortkerque2 = {
+                b_charency = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_varennes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_flacey = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_epoisses = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 170 118 114 }
                 color2 = { 170 118 114 }
                 culture = burdigala
@@ -700,14 +1207,27 @@ e_rosendale = {
                 title_female = count
             }
             c_wierre_effe = {
-                b_wierre_effe = {
+                b_rullyon = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_wierre_effe2 = {
+                b_breteny = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_montper = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lormes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 198 133 140 }
                 color2 = { 198 133 140 }
                 culture = burdigala
@@ -723,14 +1243,32 @@ e_rosendale = {
             color2 = { 177 119 127 }
             capital = 479
             c_bazinghen = {
-                b_bazinghen = {
+                b_sermoy = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bazinghen2 = {
+                b_dracey = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_talanty = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_trevaux = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vandenay = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 177 119 127 }
                 color2 = { 177 119 127 }
                 culture = burdigala
@@ -754,14 +1292,32 @@ e_rosendale = {
             color2 = { 162 98 93 }
             capital = 480
             c_bonesward = {
-                b_bonesward = {
+                b_foxhorne = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bonesward2 = {
+                b_spridge = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_speeby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_venston = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kingcote = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 162 98 93 }
                 color2 = { 162 98 93 }
                 culture = cearden
@@ -769,14 +1325,27 @@ e_rosendale = {
                 title_female = count
             }
             c_bottesford = {
-                b_bottesford = {
+                b_newdon = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bottesford2 = {
+                b_bebster = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lough = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lindwick = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 180 103 114 }
                 color2 = { 180 103 114 }
                 culture = cearden
@@ -792,14 +1361,22 @@ e_rosendale = {
             color2 = { 163 94 95 }
             capital = 482
             c_colsterworth = {
-                b_colsterworth = {
+                b_bellish = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_colsterworth2 = {
+                b_evill = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_wyvill = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 177 96 115 }
                 color2 = { 177 96 115 }
                 culture = cearden
@@ -807,14 +1384,27 @@ e_rosendale = {
                 title_female = count
             }
             c_eaton = {
-                b_eaton = {
+                b_graich = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_eaton2 = {
+                b_faest = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_abbin = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_burntone = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 183 115 110 }
                 color2 = { 183 115 110 }
                 culture = cearden
@@ -822,14 +1412,27 @@ e_rosendale = {
                 title_female = count
             }
             c_gobirston = {
-                b_gobirston = {
+                b_fontou = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gobirston2 = {
+                b_moslon = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_villa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_chault = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 163 94 95 }
                 color2 = { 163 94 95 }
                 culture = ithanian
@@ -837,14 +1440,22 @@ e_rosendale = {
                 title_female = count
             }
             c_gratteham = {
-                b_gratteham = {
+                b_gleston = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gratteham2 = {
+                b_pemby = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_redwell = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 176 113 97 }
                 color2 = { 176 113 97 }
                 culture = cearden
@@ -860,14 +1471,27 @@ e_rosendale = {
             color2 = { 163 119 114 }
             capital = 486
             c_billshay = {
-                b_billshay = {
+                b_hills = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_billshay2 = {
+                b_hinfield = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_blotter = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_bolson = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 171 113 89 }
                 color2 = { 171 113 89 }
                 culture = cearden
@@ -875,14 +1499,27 @@ e_rosendale = {
                 title_female = count
             }
             c_londerry = {
-                b_londerry = {
+                b_nethorpe = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_londerry2 = {
+                b_soutby = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_wisham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_piltone = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 165 98 97 }
                 color2 = { 165 98 97 }
                 culture = cearden
@@ -890,14 +1527,27 @@ e_rosendale = {
                 title_female = count
             }
             c_mawthorp = {
-                b_mawthorp = {
+                b_nisham = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_mawthorp2 = {
+                b_sholme = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_okedown = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_centon = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 197 100 98 }
                 color2 = { 197 100 98 }
                 culture = cearden
@@ -905,14 +1555,22 @@ e_rosendale = {
                 title_female = count
             }
             c_old_leake = {
-                b_old_leake = {
+                b_auldhead = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_old_leake2 = {
+                b_farford = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_scarnton = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 163 119 114 }
                 color2 = { 163 119 114 }
                 culture = cearden
@@ -928,14 +1586,27 @@ e_rosendale = {
             color2 = { 166 119 98 }
             capital = 490
             c_holbeach = {
-                b_holbeach = {
+                b_cutton = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_holbeach2 = {
+                b_blacklan = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lingham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_osmoore = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 194 107 95 }
                 color2 = { 194 107 95 }
                 culture = cearden
@@ -943,14 +1614,22 @@ e_rosendale = {
                 title_female = count
             }
             c_leake = {
-                b_leake = {
+                b_wetworth = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_leake2 = {
+                b_turst = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_keevel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 176 116 126 }
                 color2 = { 176 116 126 }
                 culture = cearden
@@ -958,14 +1637,27 @@ e_rosendale = {
                 title_female = count
             }
             c_spalding = {
-                b_spalding = {
+                b_corne = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_spalding2 = {
+                b_boothan = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_anside = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_laytone = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 166 119 98 }
                 color2 = { 166 119 98 }
                 culture = cearden
@@ -973,14 +1665,22 @@ e_rosendale = {
                 title_female = count
             }
             c_wyberton = {
-                b_wyberton = {
+                b_amhill = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_wyberton2 = {
+                b_chapell = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_leethorn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 185 108 119 }
                 color2 = { 185 108 119 }
                 culture = cearden
@@ -1004,14 +1704,22 @@ e_rosendale = {
             color2 = { 166 103 122 }
             capital = 494
             c_borecastle = {
-                b_borecastle = {
+                b_hilsford = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_borecastle2 = {
+                b_inchbury = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_sterby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 184 130 118 }
                 color2 = { 184 130 118 }
                 culture = cearden
@@ -1019,14 +1727,27 @@ e_rosendale = {
                 title_female = count
             }
             c_mid_luvani = {
-                b_mid_luvani = {
+                b_kipton = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_mid_luvani2 = {
+                b_barsdale = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_smille = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_nether = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 188 104 101 }
                 color2 = { 188 104 101 }
                 culture = cearden
@@ -1034,14 +1755,27 @@ e_rosendale = {
                 title_female = count
             }
             c_rustington = {
-                b_rustington = {
+                b_poynes = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rustington2 = {
+                b_gleagh = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_fleck = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_knockett = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 166 103 122 }
                 color2 = { 166 103 122 }
                 culture = cearden
@@ -1049,14 +1783,22 @@ e_rosendale = {
                 title_female = count
             }
             c_walterloo = {
-                b_walterloo = {
+                b_houses = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_walterloo2 = {
+                b_iverlea = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_highton = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 185 99 89 }
                 color2 = { 185 99 89 }
                 culture = cearden
@@ -1072,14 +1814,27 @@ e_rosendale = {
             color2 = { 167 111 100 }
             capital = 498
             c_chisenceaester = {
-                b_chisenceaester = {
+                b_grewich = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_chisenceaester2 = {
+                b_scombe = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_shorpe = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_rawford = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 190 115 96 }
                 color2 = { 190 115 96 }
                 culture = cearden
@@ -1087,14 +1842,27 @@ e_rosendale = {
                 title_female = count
             }
             c_crawlewes = {
-                b_crawlewes = {
+                b_whiter = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_crawlewes2 = {
+                b_croftone = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_cwmdale = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_cransley = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 167 111 100 }
                 color2 = { 167 111 100 }
                 culture = cearden
@@ -1102,14 +1870,22 @@ e_rosendale = {
                 title_female = count
             }
             c_haywarth = {
-                b_haywarth = {
+                b_quern = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_haywarth2 = {
+                b_walewich = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kinforth = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 168 113 90 }
                 color2 = { 168 113 90 }
                 culture = cearden
@@ -1125,14 +1901,22 @@ e_rosendale = {
             color2 = { 158 96 127 }
             capital = 501
             c_burguess_hille = {
-                b_burguess_hille = {
+                b_barnope = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_burguess_hille2 = {
+                b_quedge = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_mains = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 182 98 122 }
                 color2 = { 182 98 122 }
                 culture = cearden
@@ -1140,14 +1924,27 @@ e_rosendale = {
                 title_female = count
             }
             c_horsham = {
-                b_horsham = {
+                b_heddeley = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_horsham2 = {
+                b_brise = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_glenhoe = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_eworth = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 189 134 120 }
                 color2 = { 189 134 120 }
                 culture = cearden
@@ -1155,14 +1952,22 @@ e_rosendale = {
                 title_female = count
             }
             c_nutbourne = {
-                b_nutbourne = {
+                b_putts = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nutbourne2 = {
+                b_waldon = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ringtone = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 193 120 125 }
                 color2 = { 193 120 125 }
                 culture = cearden
@@ -1170,14 +1975,27 @@ e_rosendale = {
                 title_female = count
             }
             c_tilletcastle = {
-                b_tilletcastle = {
+                b_cambourn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tilletcastle2 = {
+                b_stale = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_whitead = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_blingham = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 171 120 106 }
                 color2 = { 171 120 106 }
                 culture = cearden
@@ -1185,14 +2003,32 @@ e_rosendale = {
                 title_female = count
             }
             c_wynderwald = {
-                b_wynderwald = {
+                b_beece = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_wynderwald2 = {
+                b_yeaven = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_colen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kilcombe = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_clayhead = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 158 96 127 }
                 color2 = { 158 96 127 }
                 culture = cearden
@@ -1216,14 +2052,32 @@ e_rosendale = {
             color2 = { 186 137 135 }
             capital = 506
             c_abbinburgh = {
-                b_abbinburgh = {
+                b_wighston = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_abbinburgh2 = {
+                b_rington = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_blacott = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_milord = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_stonby = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 218 161 145 }
                 color2 = { 218 161 145 }
                 culture = cearden
@@ -1231,14 +2085,37 @@ e_rosendale = {
                 title_female = count
             }
             c_lydsbridge_upon_langford = {
-                b_lydsbridge_upon_langford = {
+                b_goate = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lydsbridge_upon_langford2 = {
+                b_nington = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_goody = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_swale = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_penchill = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_sickhill = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 221 173 139 }
                 color2 = { 221 173 139 }
                 culture = cearden
@@ -1246,14 +2123,27 @@ e_rosendale = {
                 title_female = count
             }
             c_paigneston = {
-                b_paigneston = {
+                b_libers = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_paigneston2 = {
+                b_maroux = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_pinou = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_guilires = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 186 137 135 }
                 color2 = { 186 137 135 }
                 culture = ithanian
@@ -1261,14 +2151,27 @@ e_rosendale = {
                 title_female = count
             }
             c_south_tawton = {
-                b_south_tawton = {
+                b_newsey = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_south_tawton2 = {
+                b_chettery = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_grestown = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_walmoss = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 192 158 144 }
                 color2 = { 192 158 144 }
                 culture = cearden
@@ -1284,14 +2187,27 @@ e_rosendale = {
             color2 = { 200 173 145 }
             capital = 510
             c_falsmouthe = {
-                b_falsmouthe = {
+                b_carry = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_falsmouthe2 = {
+                b_setts = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_bundon = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_pogmore = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 204 143 169 }
                 color2 = { 204 143 169 }
                 culture = cearden
@@ -1299,14 +2215,32 @@ e_rosendale = {
                 title_female = count
             }
             c_godivaburgh = {
-                b_godivaburgh = {
+                b_edgates = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_godivaburgh2 = {
+                b_kinford = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_darkbury = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_grave = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_dundrone = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 200 173 145 }
                 color2 = { 200 173 145 }
                 culture = cearden
@@ -1314,14 +2248,27 @@ e_rosendale = {
                 title_female = count
             }
             c_helstone = {
-                b_helstone = {
+                b_fourt = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_helstone2 = {
+                b_trons = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_baulque = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_cerandon = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 218 144 158 }
                 color2 = { 218 144 158 }
                 culture = ithanian
@@ -1329,14 +2276,27 @@ e_rosendale = {
                 title_female = count
             }
             c_landuswyth = {
-                b_landuswyth = {
+                b_arbuzat = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_landuswyth2 = {
+                b_capiraud = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_jumire = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_harde = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 221 147 154 }
                 color2 = { 221 147 154 }
                 culture = ithanian
@@ -1352,14 +2312,22 @@ e_rosendale = {
             color2 = { 191 147 154 }
             capital = 514
             c_bridlefort = {
-                b_bridlefort = {
+                b_kinnock = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bridlefort2 = {
+                b_oldwick = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_wally = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 208 153 147 }
                 color2 = { 208 153 147 }
                 culture = cearden
@@ -1367,14 +2335,22 @@ e_rosendale = {
                 title_female = count
             }
             c_newton = {
-                b_newton = {
+                b_spreside = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_newton2 = {
+                b_rafield = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_sterdale = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 194 166 148 }
                 color2 = { 194 166 148 }
                 culture = cearden
@@ -1382,14 +2358,22 @@ e_rosendale = {
                 title_female = count
             }
             c_north_tawton = {
-                b_north_tawton = {
+                b_mulbourn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_north_tawton2 = {
+                b_tulling = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_robie = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 191 147 154 }
                 color2 = { 191 147 154 }
                 culture = cearden
@@ -1397,14 +2381,27 @@ e_rosendale = {
                 title_female = count
             }
             c_postbridge = {
-                b_postbridge = {
+                b_trewell = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_postbridge2 = {
+                b_batscall = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_woodhoe = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_wittlett = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 205 171 142 }
                 color2 = { 205 171 142 }
                 culture = cearden
@@ -1412,14 +2409,27 @@ e_rosendale = {
                 title_female = count
             }
             c_verrickston = {
-                b_verrickston = {
+                b_owshouse = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_verrickston2 = {
+                b_chead = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_pennock = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_hornhall = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 215 170 156 }
                 color2 = { 215 170 156 }
                 culture = cearden

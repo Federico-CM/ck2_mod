@@ -1,6 +1,9 @@
 title = c_lavoyare
-max_settlements = 2
+max_settlements = 6
 culture = ithanian
 religion = unionism
-b_lavoyare = castle
-b_lavoyare2 = temple
+
+b_gourras = castle
+b_belins = temple
+b_fermet = city
+b_vanglet = city

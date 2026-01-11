@@ -1,6 +1,8 @@
 title = c_poltern
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_poltern = castle
-b_poltern2 = temple
+
+b_denfort = castle
+b_krain = temple
+b_schneid = city

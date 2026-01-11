@@ -1,6 +1,7 @@
 title = c_halfweg
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_halfweg = castle
-b_halfweg2 = temple
+
+b_weddam = castle
+b_sluiswaard = temple

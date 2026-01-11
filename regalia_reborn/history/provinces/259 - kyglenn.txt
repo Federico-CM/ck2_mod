@@ -1,6 +1,7 @@
 title = c_kyglenn
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_kyglenn = castle
-b_kyglenn2 = temple
+
+b_vngerud = castle
+b_almen = temple

@@ -1,6 +1,8 @@
 title = c_oesmalaan_ie
-max_settlements = 2
+max_settlements = 5
 culture = solvaan
 religion = estelley
-b_oesmalaan_ie = castle
-b_oesmalaan_ie2 = temple
+
+b_torvayel = castle
+b_valcanar = temple
+b_fumaris = city

@@ -1,6 +1,7 @@
 title = c_oxenclif
-max_settlements = 2
+max_settlements = 3
 culture = dunbrae
 religion = unionism
-b_oxenclif = tribal
-b_oxenclif2 = temple
+
+b_elsall = tribal
+b_corwich = temple

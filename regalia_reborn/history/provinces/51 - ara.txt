@@ -1,6 +1,7 @@
 title = c_ara
-max_settlements = 2
+max_settlements = 3
 culture = breizh
 religion = warda
-b_ara = castle
-b_ara2 = temple
+
+b_laverwic = castle
+b_montwic = temple

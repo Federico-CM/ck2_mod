@@ -1,6 +1,8 @@
 title = c_rollum
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = draconism
-b_rollum = castle
-b_rollum2 = temple
+
+b_foxhoek = castle
+b_bokhoek = temple
+b_oostbeek = city

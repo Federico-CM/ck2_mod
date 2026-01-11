@@ -1,6 +1,7 @@
 title = c_quezon
-max_settlements = 2
+max_settlements = 3
 culture = tierravera
 religion = unionism
-b_quezon = castle
-b_quezon2 = temple
+
+b_mazanes = castle
+b_gabrera = temple

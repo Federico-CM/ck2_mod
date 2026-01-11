@@ -1,6 +1,7 @@
 title = c_doorne
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_doorne = castle
-b_doorne2 = temple
+
+b_rondewaard = castle
+b_spanne = temple

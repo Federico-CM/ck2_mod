@@ -1,6 +1,7 @@
 title = c_annaparochie
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = draconism
-b_annaparochie = castle
-b_annaparochie2 = temple
+
+b_moerzicht = castle
+b_hoogelt = temple

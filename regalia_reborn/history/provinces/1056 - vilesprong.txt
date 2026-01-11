@@ -1,6 +1,7 @@
 title = c_vilesprong
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = draconism
-b_vilesprong = castle
-b_vilesprong2 = temple
+
+b_keets = castle
+b_nieuwen = temple

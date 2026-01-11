@@ -1,6 +1,7 @@
 title = c_centre_vixe
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_centre_vixe = castle
-b_centre_vixe2 = temple
+
+b_caigne = castle
+b_bugnes = temple

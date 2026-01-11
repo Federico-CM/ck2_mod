@@ -1,6 +1,10 @@
 title = c_drackenrust
-max_settlements = 2
+max_settlements = 6
 culture = anglian
 religion = draconism
-b_drackenrust = castle
-b_drackenrust2 = temple
+
+b_eiberg = castle
+b_mendijk = temple
+b_heesers = city
+b_asselaar = city
+b_voorzijl = city

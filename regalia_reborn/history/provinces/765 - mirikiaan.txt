@@ -1,6 +1,7 @@
 title = c_mirikiaan
-max_settlements = 2
+max_settlements = 3
 culture = kathar
 religion = evolism
-b_mirikiaan = castle
-b_mirikiaan2 = temple
+
+b_rilonn = castle
+b_kelnor = temple

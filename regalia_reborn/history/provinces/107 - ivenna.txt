@@ -1,6 +1,7 @@
 title = c_ivenna
-max_settlements = 2
+max_settlements = 4
 culture = leutz_vixe
 religion = unionism
-b_ivenna = castle
-b_ivenna2 = temple
+
+b_ernach = castle
+b_wandel = temple

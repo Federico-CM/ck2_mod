@@ -1,6 +1,7 @@
 title = c_armendhale
-max_settlements = 2
+max_settlements = 3
 culture = dunbrae
 religion = fornoss
-b_armendhale = castle
-b_armendhale2 = temple
+
+b_baldon = castle
+b_coweston = temple

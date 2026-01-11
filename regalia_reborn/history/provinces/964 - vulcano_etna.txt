@@ -1,6 +1,7 @@
 title = c_vulcano_etna
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = unionism
-b_vulcano_etna = castle
-b_vulcano_etna2 = temple
+
+b_malosano = castle
+b_baste = temple

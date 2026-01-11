@@ -1,6 +1,7 @@
 title = c_alstyr
-max_settlements = 2
+max_settlements = 3
 culture = breizh
 religion = warda
-b_alstyr = castle
-b_alstyr2 = temple
+
+b_wyrmton = castle
+b_belrem = temple

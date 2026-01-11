@@ -1,6 +1,7 @@
 title = c_hollifarland
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_hollifarland = castle
-b_hollifarland2 = temple
+
+b_rheide = castle
+b_schub = temple

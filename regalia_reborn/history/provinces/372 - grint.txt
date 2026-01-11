@@ -1,6 +1,8 @@
 title = c_grint
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_grint = castle
-b_grint2 = temple
+
+b_malland = castle
+b_leugh = temple
+b_lurton = city

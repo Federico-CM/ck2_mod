@@ -1,6 +1,7 @@
 title = c_mull
-max_settlements = 2
+max_settlements = 3
 culture = dunbrae
 religion = unionism
-b_mull = castle
-b_mull2 = temple
+
+b_rothill = castle
+b_riverley = temple

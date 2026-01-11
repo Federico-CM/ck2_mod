@@ -1,6 +1,7 @@
 title = c_salen
-max_settlements = 2
+max_settlements = 3
 culture = caeren
 religion = fornoss
-b_salen = castle
-b_salen2 = temple
+
+b_dross = castle
+b_windhu = temple

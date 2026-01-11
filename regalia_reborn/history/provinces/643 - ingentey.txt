@@ -1,6 +1,7 @@
 title = c_ingentey
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_ingentey = castle
-b_ingentey2 = temple
+
+b_ankerud = castle
+b_vallebo = temple

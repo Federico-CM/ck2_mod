@@ -1,6 +1,7 @@
 title = c_tonavera
-max_settlements = 2
+max_settlements = 4
 culture = selvath
 religion = estelley
-b_tonavera = castle
-b_tonavera2 = temple
+
+b_talorinys = castle
+b_savara = temple

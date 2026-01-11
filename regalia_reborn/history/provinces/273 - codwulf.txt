@@ -1,6 +1,7 @@
 title = c_codwulf
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_codwulf = castle
-b_codwulf2 = temple
+
+b_wenthorp = castle
+b_brett = temple

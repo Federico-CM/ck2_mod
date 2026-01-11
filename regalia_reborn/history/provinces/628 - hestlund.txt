@@ -1,6 +1,9 @@
 title = c_hestlund
-max_settlements = 2
+max_settlements = 5
 culture = velheim
 religion = fornoss
-b_hestlund = castle
-b_hestlund2 = temple
+
+b_plarp = castle
+b_elviken = temple
+b_skemla = city
+b_kerud = city

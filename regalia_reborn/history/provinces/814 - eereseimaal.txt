@@ -1,6 +1,7 @@
 title = c_eereseimaal
-max_settlements = 2
+max_settlements = 3
 culture = solvaan
 religion = estelley
-b_eereseimaal = castle
-b_eereseimaal2 = temple
+
+b_corvalisell = castle
+b_torvalenor = temple

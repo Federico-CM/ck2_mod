@@ -1,6 +1,7 @@
 title = c_yaxleyliede
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_yaxleyliede = castle
-b_yaxleyliede2 = temple
+
+b_winess = castle
+b_north = temple

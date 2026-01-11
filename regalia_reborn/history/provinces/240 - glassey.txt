@@ -1,6 +1,7 @@
 title = c_glassey
-max_settlements = 2
+max_settlements = 4
 culture = caeren
 religion = fornoss
-b_glassey = castle
-b_glassey2 = temple
+
+b_dorriff = castle
+b_trumnay = temple

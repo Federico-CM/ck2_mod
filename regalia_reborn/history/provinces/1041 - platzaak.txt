@@ -1,6 +1,7 @@
 title = c_platzaak
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_platzaak = castle
-b_platzaak2 = temple
+
+b_westerd = castle
+b_steenlo = temple

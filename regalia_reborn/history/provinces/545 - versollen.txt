@@ -1,6 +1,7 @@
 title = c_versollen
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = draconism
-b_versollen = castle
-b_versollen2 = temple
+
+b_lutsdorp = castle
+b_klifmeer = temple

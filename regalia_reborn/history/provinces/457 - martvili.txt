@@ -1,6 +1,7 @@
 title = c_martvili
-max_settlements = 2
+max_settlements = 3
 culture = krainivaya
 religion = evintarian
-b_martvili = castle
-b_martvili2 = temple
+
+b_zharche = castle
+b_moshiv = temple

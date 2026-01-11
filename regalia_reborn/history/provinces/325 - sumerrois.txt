@@ -1,6 +1,9 @@
 title = c_sumerrois
-max_settlements = 2
+max_settlements = 6
 culture = ithanian
 religion = unionism
-b_sumerrois = castle
-b_sumerrois2 = temple
+
+b_anguil = castle
+b_meuveau = temple
+b_charra = city
+b_bazou = city

@@ -1,6 +1,7 @@
 title = c_boss_herze
-max_settlements = 2
+max_settlements = 4
 culture = dvala
 religion = evintarian
-b_boss_herze = castle
-b_boss_herze2 = temple
+
+b_miravac = castle
+b_dolinac = temple

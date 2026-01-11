@@ -1,6 +1,7 @@
 title = c_campa_vasta
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = amended
-b_campa_vasta = castle
-b_campa_vasta2 = temple
+
+b_solcini = castle
+b_offaggio = temple

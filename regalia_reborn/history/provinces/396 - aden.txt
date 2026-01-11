@@ -1,6 +1,8 @@
 title = c_aden
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_aden = castle
-b_aden2 = temple
+
+b_remsdorf = castle
+b_druxdorf = temple
+b_grosser = city

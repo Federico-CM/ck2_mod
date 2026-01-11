@@ -1,6 +1,7 @@
 title = c_riberato
-max_settlements = 2
+max_settlements = 3
 culture = azzizzari
 religion = unionism
-b_riberato = castle
-b_riberato2 = temple
+
+b_ennara = castle
+b_santura = temple

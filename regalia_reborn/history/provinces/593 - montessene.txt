@@ -1,6 +1,7 @@
 title = c_montessene
-max_settlements = 2
+max_settlements = 3
 culture = finul
 religion = estelley
-b_montessene = tribal
-b_montessene2 = temple
+
+b_brisel = tribal
+b_lusenys = temple

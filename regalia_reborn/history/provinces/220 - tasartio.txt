@@ -1,6 +1,7 @@
 title = c_tasartio
-max_settlements = 2
+max_settlements = 3
 culture = allar
 religion = unionism
-b_tasartio = castle
-b_tasartio2 = temple
+
+b_luaneth = castle
+b_hortan = temple

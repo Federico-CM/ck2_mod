@@ -1,6 +1,7 @@
 title = c_odivelas
-max_settlements = 2
+max_settlements = 3
 culture = bragacao
 religion = unionism
-b_odivelas = castle
-b_odivelas2 = temple
+
+b_vermosa = castle
+b_gonda = temple

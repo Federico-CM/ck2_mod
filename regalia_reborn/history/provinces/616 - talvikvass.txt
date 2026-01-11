@@ -1,6 +1,8 @@
 title = c_talvikvass
-max_settlements = 2
+max_settlements = 5
 culture = velheim
 religion = fornoss
-b_talvikvass = castle
-b_talvikvass2 = temple
+
+b_brunnarp = castle
+b_bckeberg = temple
+b_sunnesta = city

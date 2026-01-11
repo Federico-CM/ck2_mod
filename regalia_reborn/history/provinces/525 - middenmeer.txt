@@ -1,6 +1,8 @@
 title = c_middenmeer
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = draconism
-b_middenmeer = castle
-b_middenmeer2 = temple
+
+b_zonnedorp = castle
+b_wilden = temple
+b_older = city

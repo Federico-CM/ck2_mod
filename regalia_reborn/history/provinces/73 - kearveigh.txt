@@ -1,6 +1,7 @@
 title = c_kearveigh
-max_settlements = 2
+max_settlements = 5
 culture = url
 religion = unionism
-b_kearveigh = tribal
-b_kearveigh2 = temple
+
+b_jornach = tribal
+b_stronach = temple

@@ -1,6 +1,7 @@
 title = c_zuidmeer
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_zuidmeer = castle
-b_zuidmeer2 = temple
+
+b_boeren = castle
+b_kreekhuizen = temple

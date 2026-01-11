@@ -1,6 +1,7 @@
 title = c_coonanna
-max_settlements = 2
+max_settlements = 4
 culture = aontaithe
 religion = fornoss
-b_coonanna = castle
-b_coonanna2 = temple
+
+b_torclay = castle
+b_rathcliff = temple

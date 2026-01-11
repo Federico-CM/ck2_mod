@@ -1,6 +1,7 @@
 title = c_mannelund
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_mannelund = castle
-b_mannelund2 = temple
+
+b_vringsbo = castle
+b_gudden = temple

@@ -1,6 +1,7 @@
 title = c_essen
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_essen = castle
-b_essen2 = temple
+
+b_loibach = castle
+b_wette = temple

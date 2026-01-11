@@ -1,6 +1,8 @@
 title = c_haarle
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_haarle = castle
-b_haarle2 = temple
+
+b_disan = castle
+b_prudy = temple
+b_barans = city

@@ -1,6 +1,8 @@
 title = c_tuccana
-max_settlements = 2
+max_settlements = 4
 culture = cantaluna
 religion = unionism
-b_tuccana = castle
-b_tuccana2 = temple
+
+b_comma = castle
+b_diacce = temple
+b_buzze = city

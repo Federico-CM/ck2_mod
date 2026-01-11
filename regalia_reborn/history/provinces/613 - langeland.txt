@@ -1,6 +1,9 @@
 title = c_langeland
-max_settlements = 2
+max_settlements = 5
 culture = velheim
 religion = fornoss
-b_langeland = castle
-b_langeland2 = temple
+
+b_runnarp = castle
+b_rdsberg = temple
+b_svattne = city
+b_illeholm = city

@@ -1,6 +1,7 @@
 title = c_worthing
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_worthing = castle
-b_worthing2 = temple
+
+b_waitford = castle
+b_footry = temple

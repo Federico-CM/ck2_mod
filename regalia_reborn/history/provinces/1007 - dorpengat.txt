@@ -1,6 +1,7 @@
 title = c_dorpengat
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_dorpengat = castle
-b_dorpengat2 = temple
+
+b_peeren = castle
+b_moort = temple

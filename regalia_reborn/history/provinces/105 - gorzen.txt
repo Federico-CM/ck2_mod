@@ -1,6 +1,7 @@
 title = c_gorzen
-max_settlements = 2
+max_settlements = 3
 culture = zvorun
 religion = unionism
-b_gorzen = castle
-b_gorzen2 = temple
+
+b_clerbich = castle
+b_lckels = temple

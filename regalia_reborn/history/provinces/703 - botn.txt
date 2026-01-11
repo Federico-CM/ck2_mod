@@ -1,6 +1,7 @@
 title = c_botn
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_botn = tribal
-b_botn2 = temple
+
+b_galtan = tribal
+b_skyttan = temple

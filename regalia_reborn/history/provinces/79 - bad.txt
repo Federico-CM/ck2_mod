@@ -1,6 +1,8 @@
 title = c_bad
-max_settlements = 2
+max_settlements = 5
 culture = genevaud
 religion = unionism
-b_bad = castle
-b_bad2 = temple
+
+b_talbrunn = castle
+b_mooswil = temple
+b_vorderried = city

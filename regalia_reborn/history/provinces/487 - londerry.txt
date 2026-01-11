@@ -1,6 +1,8 @@
 title = c_londerry
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_londerry = castle
-b_londerry2 = temple
+
+b_nethorpe = castle
+b_soutby = temple
+b_wisham = city

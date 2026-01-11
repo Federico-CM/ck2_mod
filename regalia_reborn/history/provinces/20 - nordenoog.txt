@@ -1,6 +1,8 @@
 title = c_nordenoog
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = draconism
-b_nordenoog = castle
-b_nordenoog2 = temple
+
+b_kieveld = castle
+b_huize = temple
+b_leethoek = city

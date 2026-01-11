@@ -11,14 +11,42 @@ e_regalia = {
             color2 = { 128 73 124 }
             capital = 1
             c_regalia = {
-                b_regalia = {
+                b_graygate = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_regalia2 = {
+                b_allbeacon = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_crooktown = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_newtown = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_petalcourt = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_badlands = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_foghorn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 128 73 124 }
                 color2 = { 128 73 124 }
 

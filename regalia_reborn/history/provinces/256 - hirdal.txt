@@ -1,6 +1,7 @@
 title = c_hirdal
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_hirdal = castle
-b_hirdal2 = temple
+
+b_degerud = castle
+b_huggarp = temple

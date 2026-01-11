@@ -11,14 +11,27 @@ e_hellatia = {
             color2 = { 168 175 145 }
             capital = 409
             c_boss_herze = {
-                b_boss_herze = {
+                b_miravac = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_boss_herze2 = {
+                b_dolinac = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ribnica = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_cerovac = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 192 169 153 }
                 color2 = { 192 169 153 }
                 culture = dvala
@@ -26,14 +39,22 @@ e_hellatia = {
                 title_female = count
             }
             c_boss_nen = {
-                b_boss_nen = {
+                b_kovilje = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_boss_nen2 = {
+                b_dravnik = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_drvenik = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 189 173 130 }
                 color2 = { 189 173 130 }
                 culture = dvala
@@ -41,14 +62,27 @@ e_hellatia = {
                 title_female = count
             }
             c_ust_esverh = {
-                b_ust_esverh = {
+                b_kerekhalom = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ust_esverh2 = {
+                b_kisvarad = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_szelkor = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ujvarnok = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 168 175 145 }
                 color2 = { 168 175 145 }
                 culture = szabadok
@@ -64,14 +98,22 @@ e_hellatia = {
             color2 = { 158 150 132 }
             capital = 412
             c_allachia = {
-                b_allachia = {
+                b_lunari = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_allachia2 = {
+                b_vizeti = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rotunari = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 158 150 132 }
                 color2 = { 158 150 132 }
                 culture = ania
@@ -79,14 +121,27 @@ e_hellatia = {
                 title_female = count
             }
             c_morvinda = {
-                b_morvinda = {
+                b_makri = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_morvinda2 = {
+                b_valthi = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ampelka = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_polia = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 194 159 153 }
                 color2 = { 194 159 153 }
                 culture = etosian
@@ -94,14 +149,32 @@ e_hellatia = {
                 title_female = count
             }
             c_rhodokia = {
-                b_rhodokia = {
+                b_dolki = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rhodokia2 = {
+                b_taxta = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kalia = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_agion = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_rapti = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 158 150 140 }
                 color2 = { 158 150 140 }
                 culture = etosian
@@ -117,14 +190,27 @@ e_hellatia = {
             color2 = { 160 173 142 }
             capital = 415
             c_bulvakia = {
-                b_bulvakia = {
+                b_sredets = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bulvakia2 = {
+                b_morava = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rakitna = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_belitsa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 160 173 142 }
                 color2 = { 160 173 142 }
                 culture = byala
@@ -132,14 +218,22 @@ e_hellatia = {
                 title_female = count
             }
             c_maz_zyaka = {
-                b_maz_zyaka = {
+                b_sombor = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_maz_zyaka2 = {
+                b_szeglar = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_somberek = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 193 163 127 }
                 color2 = { 193 163 127 }
                 culture = szabadok
@@ -147,14 +241,22 @@ e_hellatia = {
                 title_female = count
             }
             c_rumvalia = {
-                b_rumvalia = {
+                b_plopescu = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rumvalia2 = {
+                b_groaia = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_steti = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 180 178 153 }
                 color2 = { 180 178 153 }
                 culture = ania
@@ -162,14 +264,22 @@ e_hellatia = {
                 title_female = count
             }
             c_virgoviste = {
-                b_virgoviste = {
+                b_livani = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_virgoviste2 = {
+                b_belineni = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_bulea = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 189 147 130 }
                 color2 = { 189 147 130 }
                 culture = ania
@@ -185,14 +295,22 @@ e_hellatia = {
             color2 = { 172 142 122 }
             capital = 419
             c_boss_sarve = {
-                b_boss_sarve = {
+                b_smolnik = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_boss_sarve2 = {
+                b_sedlar = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rosnik = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 184 173 132 }
                 color2 = { 184 173 132 }
                 culture = dvala
@@ -200,14 +318,27 @@ e_hellatia = {
                 title_female = count
             }
             c_epirania = {
-                b_epirania = {
+                b_dolnitsa = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_epirania2 = {
+                b_bistren = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_zlatovo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_koprava = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 178 176 152 }
                 color2 = { 178 176 152 }
                 culture = byala
@@ -215,14 +346,22 @@ e_hellatia = {
                 title_female = count
             }
             c_maid_crno = {
-                b_maid_crno = {
+                b_dragovo = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_maid_crno2 = {
+                b_dolentsi = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vodenik = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 172 142 122 }
                 color2 = { 172 142 122 }
                 culture = byala
@@ -230,14 +369,22 @@ e_hellatia = {
                 title_female = count
             }
             c_morelle = {
-                b_morelle = {
+                b_rudnik = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_morelle2 = {
+                b_stajnik = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_sokolje = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 176 173 136 }
                 color2 = { 176 173 136 }
                 culture = dvala
@@ -261,14 +408,27 @@ e_hellatia = {
             color2 = { 103 162 147 }
             capital = 423
             c_athenai_nisia = {
-                b_athenai_nisia = {
+                b_sartona = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_athenai_nisia2 = {
+                b_akros = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_livades = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_aeros = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 103 162 147 }
                 color2 = { 103 162 147 }
                 culture = etosian
@@ -276,14 +436,22 @@ e_hellatia = {
                 title_female = count
             }
             c_kriti = {
-                b_kriti = {
+                b_lagkades = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kriti2 = {
+                b_mourina = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_atsika = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 141 143 137 }
                 color2 = { 141 143 137 }
                 culture = etosian
@@ -291,14 +459,27 @@ e_hellatia = {
                 title_female = count
             }
             c_limnos_nisia = {
-                b_limnos_nisia = {
+                b_mariko = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_limnos_nisia2 = {
+                b_palio = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_pitsa = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_anthi = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 134 141 142 }
                 color2 = { 134 141 142 }
                 culture = etosian
@@ -306,14 +487,32 @@ e_hellatia = {
                 title_female = count
             }
             c_megara = {
-                b_megara = {
+                b_vamvaka = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_megara2 = {
+                b_platon = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kalona = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vouno = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_katsiki = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 129 135 146 }
                 color2 = { 129 135 146 }
                 culture = etosian
@@ -321,14 +520,22 @@ e_hellatia = {
                 title_female = count
             }
             c_monastiri = {
-                b_monastiri = {
+                b_ferei = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_monastiri2 = {
+                b_kyperi = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_asvesia = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 116 149 147 }
                 color2 = { 116 149 147 }
                 culture = etosian
@@ -336,14 +543,22 @@ e_hellatia = {
                 title_female = count
             }
             c_nisidia = {
-                b_nisidia = {
+                b_kontos = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nisidia2 = {
+                b_mastro = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_milon = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 115 132 163 }
                 color2 = { 115 132 163 }
                 culture = etosian
@@ -359,14 +574,27 @@ e_hellatia = {
             color2 = { 103 128 135 }
             capital = 429
             c_athous = {
-                b_athous = {
+                b_elona = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_athous2 = {
+                b_antika = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_poulia = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kounis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 110 155 148 }
                 color2 = { 110 155 148 }
                 culture = etosian
@@ -374,14 +602,27 @@ e_hellatia = {
                 title_female = count
             }
             c_ioannina = {
-                b_ioannina = {
+                b_mouza = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ioannina2 = {
+                b_kipoi = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_dimitro = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_serika = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 143 150 167 }
                 color2 = { 143 150 167 }
                 culture = etosian
@@ -389,14 +630,27 @@ e_hellatia = {
                 title_female = count
             }
             c_oreino_teichos = {
-                b_oreino_teichos = {
+                b_mousakia = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_oreino_teichos2 = {
+                b_kampia = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kalas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kaltos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 134 151 143 }
                 color2 = { 134 151 143 }
                 culture = etosian
@@ -404,14 +658,22 @@ e_hellatia = {
                 title_female = count
             }
             c_tessoliki = {
-                b_tessoliki = {
+                b_monas = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tessoliki2 = {
+                b_kourni = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_pyrgora = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 103 128 135 }
                 color2 = { 103 128 135 }
                 culture = etosian
@@ -427,14 +689,27 @@ e_hellatia = {
             color2 = { 108 138 153 }
             capital = 433
             c_karpenissi = {
-                b_karpenissi = {
+                b_karpa = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_karpenissi2 = {
+                b_sfakia = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_agnon = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_karpes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 131 138 134 }
                 color2 = { 131 138 134 }
                 culture = etosian
@@ -442,14 +717,22 @@ e_hellatia = {
                 title_female = count
             }
             c_therma = {
-                b_therma = {
+                b_velria = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_therma2 = {
+                b_mesolni = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ippoi = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 108 138 153 }
                 color2 = { 108 138 153 }
                 culture = etosian
@@ -473,14 +756,22 @@ e_hellatia = {
             color2 = { 156 186 186 }
             capital = 435
             c_esmira = {
-                b_esmira = {
+                b_astra = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_esmira2 = {
+                b_kousa = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_temnian = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 158 195 211 }
                 color2 = { 158 195 211 }
                 culture = etosian
@@ -488,14 +779,27 @@ e_hellatia = {
                 title_female = count
             }
             c_heraclea = {
-                b_heraclea = {
+                b_athos = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_heraclea2 = {
+                b_lefkon = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_pasiliki = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vraki = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 159 195 196 }
                 color2 = { 159 195 196 }
                 culture = etosian
@@ -503,14 +807,27 @@ e_hellatia = {
                 title_female = count
             }
             c_kataion = {
-                b_kataion = {
+                b_lagis = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kataion2 = {
+                b_fotis = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_lefki = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_souli = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 168 195 184 }
                 color2 = { 168 195 184 }
                 culture = etosian
@@ -518,14 +835,27 @@ e_hellatia = {
                 title_female = count
             }
             c_rakkai = {
-                b_rakkai = {
+                b_alaris = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rakkai2 = {
+                b_palatari = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_pylos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_mavros = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 156 186 186 }
                 color2 = { 156 186 186 }
                 culture = etosian
@@ -541,14 +871,22 @@ e_hellatia = {
             color2 = { 151 180 186 }
             capital = 439
             c_alexandroupoli = {
-                b_alexandroupoli = {
+                b_lamos = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_alexandroupoli2 = {
+                b_kydania = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_mannas = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 164 169 201 }
                 color2 = { 164 169 201 }
                 culture = etosian
@@ -556,14 +894,32 @@ e_hellatia = {
                 title_female = count
             }
             c_anakion = {
-                b_anakion = {
+                b_karika = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_anakion2 = {
+                b_astraika = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_aspros = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lakkos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_dolis = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 183 178 213 }
                 color2 = { 183 178 213 }
                 culture = etosian
@@ -571,14 +927,27 @@ e_hellatia = {
                 title_female = count
             }
             c_arzabzon = {
-                b_arzabzon = {
+                b_aerima = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_arzabzon2 = {
+                b_lamea = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_tsaka = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ioudra = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 153 183 174 }
                 color2 = { 153 183 174 }
                 culture = etosian
@@ -586,14 +955,22 @@ e_hellatia = {
                 title_female = count
             }
             c_atolia = {
-                b_atolia = {
+                b_marnoi = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_atolia2 = {
+                b_peris = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_amaros = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 172 176 213 }
                 color2 = { 172 176 213 }
                 culture = etosian
@@ -601,14 +978,22 @@ e_hellatia = {
                 title_female = count
             }
             c_erzina = {
-                b_erzina = {
+                b_kapeio = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_erzina2 = {
+                b_kinis = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_manes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 151 180 186 }
                 color2 = { 151 180 186 }
                 culture = etosian
@@ -616,14 +1001,22 @@ e_hellatia = {
                 title_female = count
             }
             c_limnosa = {
-                b_limnosa = {
+                b_arkos = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_limnosa2 = {
+                b_kella = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_khian = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 160 192 187 }
                 color2 = { 160 192 187 }
                 culture = etosian
@@ -639,14 +1032,22 @@ e_hellatia = {
             color2 = { 153 172 184 }
             capital = 445
             c_sardes = {
-                b_sardes = {
+                b_kardeti = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sardes2 = {
+                b_chkhoriti = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_andzeti = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 153 172 184 }
                 color2 = { 153 172 184 }
                 culture = tsalqvanes
@@ -654,14 +1055,27 @@ e_hellatia = {
                 title_female = count
             }
             c_sebastamosa = {
-                b_sebastamosa = {
+                b_masti = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_sebastamosa2 = {
+                b_leptamos = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kylos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_damali = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 166 207 174 }
                 color2 = { 166 207 174 }
                 culture = etosian
@@ -669,14 +1083,27 @@ e_hellatia = {
                 title_female = count
             }
             c_tzakazvilis = {
-                b_tzakazvilis = {
+                b_delis = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tzakazvilis2 = {
+                b_evria = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_stavrli = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_pithos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 184 178 189 }
                 color2 = { 184 178 189 }
                 culture = etosian
@@ -684,14 +1111,22 @@ e_hellatia = {
                 title_female = count
             }
             c_verkilis = {
-                b_verkilis = {
+                b_misri = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_verkilis2 = {
+                b_kathos = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_achoi = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 180 190 202 }
                 color2 = { 180 190 202 }
                 culture = etosian
@@ -715,14 +1150,27 @@ e_hellatia = {
             color2 = { 128 163 183 }
             capital = 449
             c_akhalakaio = {
-                b_akhalakaio = {
+                b_keraka = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_akhalakaio2 = {
+                b_touri = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_makes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kremasta = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 128 163 183 }
                 color2 = { 128 163 183 }
                 culture = etosian
@@ -730,14 +1178,22 @@ e_hellatia = {
                 title_female = count
             }
             c_beylagan = {
-                b_beylagan = {
+                b_kamaros = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_beylagan2 = {
+                b_koukkos = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_chrysi = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 156 176 159 }
                 color2 = { 156 176 159 }
                 culture = etosian
@@ -745,14 +1201,27 @@ e_hellatia = {
                 title_female = count
             }
             c_karsatin = {
-                b_karsatin = {
+                b_arnos = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_karsatin2 = {
+                b_zigos = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kalli = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_mentra = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 142 147 171 }
                 color2 = { 142 147 171 }
                 culture = etosian
@@ -760,14 +1229,27 @@ e_hellatia = {
                 title_female = count
             }
             c_shekit_khachmaz = {
-                b_shekit_khachmaz = {
+                b_katana = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_shekit_khachmaz2 = {
+                b_skana = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_veria = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_trolo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 150 174 189 }
                 color2 = { 150 174 189 }
                 culture = etosian
@@ -783,14 +1265,22 @@ e_hellatia = {
             color2 = { 130 170 189 }
             capital = 453
             c_alverdishvan = {
-                b_alverdishvan = {
+                b_akhorgori = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_alverdishvan2 = {
+                b_tskhentavi = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_ghardavi = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 151 169 163 }
                 color2 = { 151 169 163 }
                 culture = tsalqvanes
@@ -798,14 +1288,27 @@ e_hellatia = {
                 title_female = count
             }
             c_hrzadan = {
-                b_hrzadan = {
+                b_marneti = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hrzadan2 = {
+                b_tsikhari = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kintavi = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_tsaleti = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 164 147 154 }
                 color2 = { 164 147 154 }
                 culture = tsalqvanes
@@ -813,14 +1316,22 @@ e_hellatia = {
                 title_female = count
             }
             c_ozurgheti = {
-                b_ozurgheti = {
+                b_pidka = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ozurgheti2 = {
+                b_malova = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_riatna = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 130 170 189 }
                 color2 = { 130 170 189 }
                 culture = krainivaya
@@ -828,14 +1339,22 @@ e_hellatia = {
                 title_female = count
             }
             c_stepanavan = {
-                b_stepanavan = {
+                b_khelvani = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_stepanavan2 = {
+                b_zegori = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_oshkori = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 142 153 178 }
                 color2 = { 142 153 178 }
                 culture = tsalqvanes
@@ -851,14 +1370,27 @@ e_hellatia = {
             color2 = { 129 173 188 }
             capital = 457
             c_anaklia = {
-                b_anaklia = {
+                b_polyanky = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_anaklia2 = {
+                b_pashivka = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rudtsi = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_peche = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 164 176 175 }
                 color2 = { 164 176 175 }
                 culture = krainivaya
@@ -866,14 +1398,22 @@ e_hellatia = {
                 title_female = count
             }
             c_derbentyurt = {
-                b_derbentyurt = {
+                b_yatyn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_derbentyurt2 = {
+                b_zaporyi = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_broskaly = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 132 163 155 }
                 color2 = { 132 163 155 }
                 culture = krainivaya
@@ -881,14 +1421,32 @@ e_hellatia = {
                 title_female = count
             }
             c_khazavyurt = {
-                b_khazavyurt = {
+                b_myhivtsi = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_khazavyurt2 = {
+                b_kozarove = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vyshivka = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_zachyne = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_stanka = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 144 171 178 }
                 color2 = { 144 171 178 }
                 culture = krainivaya
@@ -896,14 +1454,22 @@ e_hellatia = {
                 title_female = count
             }
             c_kizlyar = {
-                b_kizlyar = {
+                b_verivka = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kizlyar2 = {
+                b_malivka = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kreshky = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 161 157 187 }
                 color2 = { 161 157 187 }
                 culture = krainivaya
@@ -911,14 +1477,22 @@ e_hellatia = {
                 title_female = count
             }
             c_martvili = {
-                b_martvili = {
+                b_zharche = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_martvili2 = {
+                b_moshiv = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hrynka = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 129 173 188 }
                 color2 = { 129 173 188 }
                 culture = krainivaya
@@ -926,14 +1500,22 @@ e_hellatia = {
                 title_female = count
             }
             c_tzkalaitsa = {
-                b_tzkalaitsa = {
+                b_dvorove = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tzkalaitsa2 = {
+                b_vyzivka = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_sosnytky = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 133 156 180 }
                 color2 = { 133 156 180 }
                 culture = krainivaya

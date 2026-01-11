@@ -1,6 +1,7 @@
 title = c_oielan_gear
-max_settlements = 2
+max_settlements = 4
 culture = aontaithe
 religion = fornoss
-b_oielan_gear = tribal
-b_oielan_gear2 = temple
+
+b_torvale = tribal
+b_cloonvale = temple

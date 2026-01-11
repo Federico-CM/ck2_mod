@@ -1,6 +1,8 @@
 title = c_westbroek
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_westbroek = castle
-b_westbroek2 = temple
+
+b_hoogerveld = castle
+b_masteeg = temple
+b_heven = city

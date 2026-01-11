@@ -1,6 +1,8 @@
 title = c_ailayan_ase
-max_settlements = 2
+max_settlements = 4
 culture = solvaan
 religion = estelley
-b_ailayan_ase = castle
-b_ailayan_ase2 = temple
+
+b_mariselar = castle
+b_alticela = temple
+b_mariselor = city

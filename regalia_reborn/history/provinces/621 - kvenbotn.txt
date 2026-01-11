@@ -1,6 +1,8 @@
 title = c_kvenbotn
-max_settlements = 2
+max_settlements = 5
 culture = velheim
 religion = fornoss
-b_kvenbotn = castle
-b_kvenbotn2 = temple
+
+b_krokarp = castle
+b_ngsdal = temple
+b_ristbo = city

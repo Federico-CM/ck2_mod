@@ -1,6 +1,7 @@
 title = c_fintry
-max_settlements = 2
+max_settlements = 3
 culture = aber
 religion = evolism
-b_fintry = tribal
-b_fintry2 = temple
+
+b_fasky = tribal
+b_cladam = temple

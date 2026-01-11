@@ -1,6 +1,7 @@
 title = c_oosterschen
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_oosterschen = castle
-b_oosterschen2 = temple
+
+b_spand = castle
+b_rietdam = temple

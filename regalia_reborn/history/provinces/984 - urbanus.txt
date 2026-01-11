@@ -1,6 +1,7 @@
 title = c_urbanus
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = unionism
-b_urbanus = castle
-b_urbanus2 = temple
+
+b_chiardo = castle
+b_rocetta = temple

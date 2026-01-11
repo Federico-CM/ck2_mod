@@ -1,6 +1,7 @@
 title = c_mageross
-max_settlements = 2
+max_settlements = 4
 culture = aber
 religion = evolism
-b_mageross = tribal
-b_mageross2 = temple
+
+b_ardluigh = tribal
+b_criaba = temple

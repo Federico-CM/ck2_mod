@@ -1,6 +1,8 @@
 title = c_anakion
-max_settlements = 2
+max_settlements = 5
 culture = etosian
 religion = evintarian
-b_anakion = castle
-b_anakion2 = temple
+
+b_karika = castle
+b_astraika = temple
+b_lakkos = city

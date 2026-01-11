@@ -1,6 +1,7 @@
 title = c_strathynhide
-max_settlements = 2
+max_settlements = 3
 culture = caeren
 religion = fornoss
-b_strathynhide = castle
-b_strathynhide2 = temple
+
+b_balros = castle
+b_frach = temple

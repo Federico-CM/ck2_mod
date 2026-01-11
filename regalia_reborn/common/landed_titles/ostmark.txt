@@ -11,14 +11,32 @@ e_ostmark = {
             color2 = { 191 201 138 }
             capital = 77
             c_bad = {
-                b_bad = {
+                b_talbrunn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bad2 = {
+                b_mooswil = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_vorderried = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_weissenegg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_blattenau = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 204 207 142 }
                 color2 = { 204 207 142 }
                 culture = genevaud
@@ -26,14 +44,22 @@ e_ostmark = {
                 title_female = count
             }
             c_bulgern = {
-                b_bulgern = {
+                b_riedacker = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bulgern2 = {
+                b_dornwil = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_wiesenegg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 193 184 169 }
                 color2 = { 193 184 169 }
                 culture = genevaud
@@ -41,14 +67,27 @@ e_ostmark = {
                 title_female = count
             }
             c_lorrach = {
-                b_lorrach = {
+                b_mettlen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lorrach2 = {
+                b_morgenhalde = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_schmidau = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_steingass = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 191 201 138 }
                 color2 = { 191 201 138 }
                 culture = genevaud
@@ -64,14 +103,22 @@ e_ostmark = {
             color2 = { 200 210 142 }
             capital = 80
             c_gallenberg = {
-                b_gallenberg = {
+                b_freihalde = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gallenberg2 = {
+                b_erlenmoos = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_oberriet = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 200 210 142 }
                 color2 = { 200 210 142 }
                 culture = genevaud
@@ -79,14 +126,27 @@ e_ostmark = {
                 title_female = count
             }
             c_reinach = {
-                b_reinach = {
+                b_gloggenau = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_reinach2 = {
+                b_auenried = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_zollerhof = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_dorfried = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 213 191 171 }
                 color2 = { 213 191 171 }
                 culture = genevaud
@@ -102,14 +162,22 @@ e_ostmark = {
             color2 = { 197 180 136 }
             capital = 82
             c_arau = {
-                b_arau = {
+                b_zurlinden = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_arau2 = {
+                b_fluhhalde = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_aeschgrund = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 209 180 149 }
                 color2 = { 209 180 149 }
                 culture = genevaud
@@ -117,14 +185,22 @@ e_ostmark = {
                 title_female = count
             }
             c_fergh = {
-                b_fergh = {
+                b_langenegg = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_fergh2 = {
+                b_untertal = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rankwil = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 213 206 151 }
                 color2 = { 213 206 151 }
                 culture = genevaud
@@ -132,14 +208,27 @@ e_ostmark = {
                 title_female = count
             }
             c_mulhaus = {
-                b_mulhaus = {
+                b_zinnenberg = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_mulhaus2 = {
+                b_sattelried = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_quellhof = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_trachselried = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 217 198 143 }
                 color2 = { 217 198 143 }
                 culture = genevaud
@@ -147,14 +236,22 @@ e_ostmark = {
                 title_female = count
             }
             c_schaffhausen = {
-                b_schaffhausen = {
+                b_wendelhof = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_schaffhausen2 = {
+                b_pfaffenried = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_wolfgrub = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 197 180 136 }
                 color2 = { 197 180 136 }
                 culture = genevaud
@@ -178,14 +275,22 @@ e_ostmark = {
             color2 = { 169 161 169 }
             capital = 86
             c_elane = {
-                b_elane = {
+                b_haange = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_elane2 = {
+                b_hosinge = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_itzingig = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 169 161 169 }
                 color2 = { 169 161 169 }
                 culture = leutz_vixe
@@ -193,14 +298,32 @@ e_ostmark = {
                 title_female = count
             }
             c_ennas = {
-                b_ennas = {
+                b_colbech = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ennas2 = {
+                b_hunshaff = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hougel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_tarch = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lamelz = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 189 151 183 }
                 color2 = { 189 151 183 }
                 culture = leutz_vixe
@@ -208,14 +331,22 @@ e_ostmark = {
                 title_female = count
             }
             c_ferrano = {
-                b_ferrano = {
+                b_rameld = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ferrano2 = {
+                b_obenborn = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_mierg = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 189 149 159 }
                 color2 = { 189 149 159 }
                 culture = leutz_vixe
@@ -231,14 +362,27 @@ e_ostmark = {
             color2 = { 171 168 180 }
             capital = 89
             c_essire = {
-                b_essire = {
+                b_noumill = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_essire2 = {
+                b_finge = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_houborn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_grever = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 178 176 174 }
                 color2 = { 178 176 174 }
                 culture = leutz_vixe
@@ -246,14 +390,27 @@ e_ostmark = {
                 title_female = count
             }
             c_kreustur = {
-                b_kreustur = {
+                b_teone = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_kreustur2 = {
+                b_cocelli = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_chiello = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_brunenta = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 193 149 180 }
                 color2 = { 193 149 180 }
                 culture = cantaluna
@@ -261,14 +418,37 @@ e_ostmark = {
                 title_female = count
             }
             c_lavoyare = {
-                b_lavoyare = {
+                b_gourras = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lavoyare2 = {
+                b_belins = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_fermet = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_thion = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ayzat = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vanglet = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 192 140 182 }
                 color2 = { 192 140 182 }
                 culture = ithanian
@@ -276,14 +456,27 @@ e_ostmark = {
                 title_female = count
             }
             c_meuverge = {
-                b_meuverge = {
+                b_triano = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_meuverge2 = {
+                b_colvati = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_chiarda = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_morella = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 191 161 187 }
                 color2 = { 191 161 187 }
                 culture = cantaluna
@@ -291,14 +484,27 @@ e_ostmark = {
                 title_female = count
             }
             c_milosso = {
-                b_milosso = {
+                b_quion = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_milosso2 = {
+                b_chalet = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_foures = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_vrolac = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 198 168 188 }
                 color2 = { 198 168 188 }
                 culture = ithanian
@@ -306,14 +512,22 @@ e_ostmark = {
                 title_female = count
             }
             c_montua = {
-                b_montua = {
+                b_piovara = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_montua2 = {
+                b_battina = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rigarino = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 171 168 180 }
                 color2 = { 171 168 180 }
                 culture = cantaluna
@@ -329,14 +543,22 @@ e_ostmark = {
             color2 = { 171 148 188 }
             capital = 97 #Lorhaus
             c_aaker = {
-                b_aaker = {
+                b_lullen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_aaker2 = {
+                b_lresmhle = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_gaschle = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 171 148 188 }
                 color2 = { 171 148 188 }
                 culture = leutz_vixe
@@ -344,14 +566,32 @@ e_ostmark = {
                 title_female = count
             }
             c_lorhaus = {
-                b_lorhaus = {
+                b_eispelt = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_lorhaus2 = {
+                b_krkels = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_houlle = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_merlange = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_bettig = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 196 178 153 }
                 color2 = { 196 178 153 }
                 culture = leutz_vixe
@@ -359,14 +599,27 @@ e_ostmark = {
                 title_female = count
             }
             c_shattel = {
-                b_shattel = {
+                b_neihof = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_shattel2 = {
+                b_hirzen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rippelt = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_schholz = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 193 174 162 }
                 color2 = { 193 174 162 }
                 culture = leutz_vixe
@@ -390,14 +643,27 @@ e_ostmark = {
             color2 = { 193 179 201 }
             capital = 98
             c_budelle = {
-                b_budelle = {
+                b_franven = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_budelle2 = {
+                b_untange = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_schwach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_centhal = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 194 171 202 }
                 color2 = { 194 171 202 }
                 culture = leutz_vixe
@@ -405,14 +671,27 @@ e_ostmark = {
                 title_female = count
             }
             c_nytra = {
-                b_nytra = {
+                b_seithum = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nytra2 = {
+                b_roedang = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_rodesch = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_bzebier = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 217 198 188 }
                 color2 = { 217 198 188 }
                 culture = leutz_vixe
@@ -420,14 +699,22 @@ e_ostmark = {
                 title_female = count
             }
             c_prester = {
-                b_prester = {
+                b_heesbach = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_prester2 = {
+                b_enshau = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_clemerl = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 206 170 189 }
                 color2 = { 206 170 189 }
                 culture = leutz_vixe
@@ -435,14 +722,27 @@ e_ostmark = {
                 title_female = count
             }
             c_urau = {
-                b_urau = {
+                b_braker = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_urau2 = {
+                b_neunhaff = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_moescht = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ermuehle = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 193 179 201 }
                 color2 = { 193 179 201 }
                 culture = leutz_vixe
@@ -458,14 +758,22 @@ e_ostmark = {
             color2 = { 192 184 206 }
             capital = 102
             c_gorzen = {
-                b_gorzen = {
+                b_clerbich = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_gorzen2 = {
+                b_lckels = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_oenert = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 205 198 192 }
                 color2 = { 205 198 192 }
                 culture = leutz_vixe
@@ -473,14 +781,27 @@ e_ostmark = {
                 title_female = count
             }
             c_hinterkaernte = {
-                b_hinterkaernte = {
+                b_wempert = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_hinterkaernte2 = {
+                b_linge = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hullinge = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_boudel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 205 193 193 }
                 color2 = { 205 193 193 }
                 culture = leutz_vixe
@@ -488,14 +809,27 @@ e_ostmark = {
                 title_female = count
             }
             c_irole = {
-                b_irole = {
+                b_delange = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_irole2 = {
+                b_biwell = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_krindhof = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_hausel = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 192 184 206 }
                 color2 = { 192 184 206 }
                 culture = leutz_vixe
@@ -503,14 +837,27 @@ e_ostmark = {
                 title_female = count
             }
             c_obermark = {
-                b_obermark = {
+                b_bridhaff = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_obermark2 = {
+                b_troossen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_nommheck = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_laange = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 203 175 190 }
                 color2 = { 203 175 190 }
                 culture = leutz_vixe
@@ -526,14 +873,27 @@ e_ostmark = {
             color2 = { 196 176 194 }
             capital = 107
             c_ivenna = {
-                b_ivenna = {
+                b_ernach = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ivenna2 = {
+                b_wandel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hollig = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_niedern = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 200 175 182 }
                 color2 = { 200 175 182 }
                 culture = leutz_vixe
@@ -541,14 +901,27 @@ e_ostmark = {
                 title_female = count
             }
             c_preste = {
-                b_preste = {
+                b_gralien = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_preste2 = {
+                b_vicheid = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_koercorn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_goeschle = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 196 176 194 }
                 color2 = { 196 176 194 }
                 culture = leutz_vixe
@@ -556,14 +929,27 @@ e_ostmark = {
                 title_female = count
             }
             c_saalzen = {
-                b_saalzen = {
+                b_daund = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_saalzen2 = {
+                b_openach = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_housen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_goedt = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 188 195 185 }
                 color2 = { 188 195 185 }
                 culture = leutz_vixe
@@ -579,14 +965,22 @@ e_ostmark = {
             color2 = { 188 195 185 }
             capital = 110
             c_morveten = {
-                b_morveten = {
+                b_leving = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_morveten2 = {
+                b_edmore = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_foxend = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 196 165 171 }
                 color2 = { 196 165 171 }
                 culture = cearden
@@ -594,14 +988,22 @@ e_ostmark = {
                 title_female = count
             }
             c_praag = {
-                b_praag = {
+                b_windhaff = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_praag2 = {
+                b_imeschel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_behleine = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 195 177 199 }
                 color2 = { 195 177 199 }
                 culture = leutz_vixe
@@ -609,14 +1011,32 @@ e_ostmark = {
                 title_female = count
             }
             c_mozaria = {
-                b_mozaria = {
+                b_huppich = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_mozaria2 = {
+                b_univen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_fronn = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_heren = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ptanden = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 210 172 178 }
                 color2 = { 210 172 178 }
                 culture = leutz_vixe
@@ -640,14 +1060,22 @@ e_ostmark = {
             color2 = { 161 151 137 }
             capital = 112
             c_albarn = {
-                b_albarn = {
+                b_koula = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_albarn2 = {
+                b_metros = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_anemori = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 168 129 163 }
                 color2 = { 168 129 163 }
                 culture = etosian
@@ -655,14 +1083,27 @@ e_ostmark = {
                 title_female = count
             }
             c_alxette = {
-                b_alxette = {
+                b_biller = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_alxette2 = {
+                b_kaassel = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_bouch = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_belle = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 161 153 137 }
                 color2 = { 161 153 137 }
                 culture = leutz_vixe
@@ -670,14 +1111,22 @@ e_ostmark = {
                 title_female = count
             }
             c_ettelbrueck = {
-                b_ettelbrueck = {
+                b_loren = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_ettelbrueck2 = {
+                b_cange = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_kinsfelt = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 161 151 137 }
                 color2 = { 161 151 137 }
                 culture = leutz_vixe
@@ -685,14 +1134,27 @@ e_ostmark = {
                 title_female = count
             }
             c_marner = {
-                b_marner = {
+                b_agrion = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_marner2 = {
+                b_lebes = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_marat = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_kalou = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 190 155 155 }
                 color2 = { 190 155 155 }
                 culture = etosian
@@ -700,14 +1162,27 @@ e_ostmark = {
                 title_female = count
             }
             c_rigan = {
-                b_rigan = {
+                b_kalaipoi = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_rigan2 = {
+                b_krmidi = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_milos = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_falea = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 170 162 151 }
                 color2 = { 170 162 151 }
                 culture = etosian
@@ -715,14 +1190,22 @@ e_ostmark = {
                 title_female = count
             }
             c_vanren = {
-                b_vanren = {
+                b_deltz = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_vanren2 = {
+                b_marnich = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_koennes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 168 132 153 }
                 color2 = { 168 132 153 }
                 culture = leutz_vixe
@@ -738,14 +1221,27 @@ e_ostmark = {
             color2 = { 167 156 133 }
             capital = 118
             c_belfort = {
-                b_belfort = {
+                b_findhof = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_belfort2 = {
+                b_finden = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_obershof = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_weicht = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 170 138 136 }
                 color2 = { 170 138 136 }
                 culture = leutz_vixe
@@ -753,14 +1249,22 @@ e_ostmark = {
                 title_female = count
             }
             c_dalmaaten = {
-                b_dalmaaten = {
+                b_beyrents = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_dalmaaten2 = {
+                b_allen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_watschle = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 167 156 133 }
                 color2 = { 167 156 133 }
                 culture = leutz_vixe
@@ -768,14 +1272,32 @@ e_ostmark = {
                 title_female = count
             }
             c_redang = {
-                b_redang = {
+                b_meringe = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_redang2 = {
+                b_eissen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_bonnes = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_fents = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_lingen = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 180 157 145 }
                 color2 = { 180 157 145 }
                 culture = leutz_vixe
@@ -783,14 +1305,27 @@ e_ostmark = {
                 title_female = count
             }
             c_remich = {
-                b_remich = {
+                b_muhle = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_remich2 = {
+                b_oetsch = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_hardt = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_opendorf = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 188 153 140 }
                 color2 = { 188 153 140 }
                 culture = leutz_vixe
@@ -806,14 +1341,27 @@ e_ostmark = {
             color2 = { 156 140 137 }
             capital = 125 #Tirgenwald
             c_bruecke = {
-                b_bruecke = {
+                b_ehler = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_bruecke2 = {
+                b_leven = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_weller = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_betten = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 156 140 137 }
                 color2 = { 156 140 137 }
                 culture = leutz_vixe
@@ -821,14 +1369,22 @@ e_ostmark = {
                 title_female = count
             }
             c_marais = {
-                b_marais = {
+                b_koennen = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_marais2 = {
+                b_welange = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_marbaach = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 167 129 167 }
                 color2 = { 167 129 167 }
                 culture = leutz_vixe
@@ -836,14 +1392,22 @@ e_ostmark = {
                 title_female = count
             }
             c_nerieen = {
-                b_nerieen = {
+                b_helborn = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_nerieen2 = {
+                b_doenfelt = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_woulange = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 157 138 163 }
                 color2 = { 157 138 163 }
                 culture = leutz_vixe
@@ -851,14 +1415,27 @@ e_ostmark = {
                 title_female = count
             }
             c_tirgenwald = {
-                b_tirgenwald = {
+                b_rambous = {
                     title = baron
                     title_female = baron
+                
                 }
-                b_tirgenwald2 = {
+                b_goedgen = {
                     title = baron
                     title_female = baron
+                
                 }
+                b_eschle = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_ermill = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
                 color = { 174 148 151 }
                 color2 = { 174 148 151 }
                 culture = leutz_vixe

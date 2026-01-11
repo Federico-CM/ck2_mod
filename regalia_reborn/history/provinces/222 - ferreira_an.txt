@@ -1,6 +1,8 @@
 title = c_ferreira_an
-max_settlements = 2
+max_settlements = 4
 culture = allar
 religion = unionism
-b_ferreira_an = castle
-b_ferreira_an2 = temple
+
+b_manukar = castle
+b_ilresh = temple
+b_rronimar = city

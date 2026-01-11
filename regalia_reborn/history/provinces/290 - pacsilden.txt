@@ -1,6 +1,9 @@
 title = c_pacsilden
-max_settlements = 2
+max_settlements = 6
 culture = dunbrae
 religion = unionism
-b_pacsilden = castle
-b_pacsilden2 = temple
+
+b_dalemore = castle
+b_landhill = temple
+b_anston = city
+b_redmore = city

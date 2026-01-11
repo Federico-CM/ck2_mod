@@ -1,6 +1,7 @@
 title = c_bo
-max_settlements = 2
+max_settlements = 3
 culture = aontaithe
 religion = fornoss
-b_bo = tribal
-b_bo2 = temple
+
+b_cloonross = tribal
+b_kilbane = temple

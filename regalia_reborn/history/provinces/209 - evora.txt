@@ -1,6 +1,7 @@
 title = c_evora
-max_settlements = 2
+max_settlements = 3
 culture = tierravera
 religion = unionism
-b_evora = castle
-b_evora2 = temple
+
+b_cardel = castle
+b_paneras = temple

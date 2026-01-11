@@ -1,6 +1,7 @@
 title = c_pellegrino
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = unionism
-b_pellegrino = castle
-b_pellegrino2 = temple
+
+b_pavigna = castle
+b_galle = temple

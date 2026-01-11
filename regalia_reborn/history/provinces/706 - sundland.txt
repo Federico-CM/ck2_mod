@@ -1,6 +1,7 @@
 title = c_sundland
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_sundland = tribal
-b_sundland2 = temple
+
+b_sigda = tribal
+b_masgrden = temple

@@ -1,6 +1,8 @@
 title = c_bromyard
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_bromyard = castle
-b_bromyard2 = temple
+
+b_depton = castle
+b_crowson = temple
+b_house = city

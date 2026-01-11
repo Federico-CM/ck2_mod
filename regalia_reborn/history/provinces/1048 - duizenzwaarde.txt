@@ -1,6 +1,8 @@
 title = c_duizenzwaarde
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_duizenzwaarde = castle
-b_duizenzwaarde2 = temple
+
+b_maard = castle
+b_weind = temple
+b_emmert = city

@@ -1,6 +1,8 @@
 title = c_wierre_effe
-max_settlements = 2
+max_settlements = 4
 culture = burdigala
 religion = unionism
-b_wierre_effe = castle
-b_wierre_effe2 = temple
+
+b_rullyon = castle
+b_breteny = temple
+b_lormes = city

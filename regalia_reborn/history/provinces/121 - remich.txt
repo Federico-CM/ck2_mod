@@ -1,6 +1,8 @@
 title = c_remich
-max_settlements = 2
+max_settlements = 4
 culture = leutz_vixe
 religion = unionism
-b_remich = castle
-b_remich2 = temple
+
+b_muhle = castle
+b_oetsch = temple
+b_opendorf = city

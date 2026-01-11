@@ -1,6 +1,7 @@
 title = c_gan_arm
-max_settlements = 2
+max_settlements = 4
 culture = aontaithe
 religion = fornoss
-b_gan_arm = tribal
-b_gan_arm2 = temple
+
+b_fenross = tribal
+b_drumvale = temple

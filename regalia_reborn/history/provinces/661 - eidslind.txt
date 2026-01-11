@@ -1,6 +1,7 @@
 title = c_eidslind
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_eidslind = tribal
-b_eidslind2 = temple
+
+b_malund = tribal
+b_ballsa = temple

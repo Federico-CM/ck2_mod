@@ -1,6 +1,7 @@
 title = c_silmark
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_silmark = castle
-b_silmark2 = temple
+
+b_enstedt = castle
+b_hirnhof = temple

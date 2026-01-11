@@ -1,6 +1,8 @@
 title = c_brummyby
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_brummyby = castle
-b_brummyby2 = temple
+
+b_henby = castle
+b_decote = temple
+b_drake = city

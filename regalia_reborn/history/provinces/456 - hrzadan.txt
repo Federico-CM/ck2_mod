@@ -1,6 +1,7 @@
 title = c_hrzadan
-max_settlements = 2
+max_settlements = 4
 culture = tsalqvanes
 religion = evintarian
-b_hrzadan = tribal
-b_hrzadan2 = temple
+
+b_marneti = tribal
+b_tsikhari = temple

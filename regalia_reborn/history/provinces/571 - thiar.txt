@@ -1,6 +1,7 @@
 title = c_thiar
-max_settlements = 2
+max_settlements = 3
 culture = aontaithe
 religion = fornoss
-b_thiar = tribal
-b_thiar2 = temple
+
+b_fenmoor = tribal
+b_loughmere = temple

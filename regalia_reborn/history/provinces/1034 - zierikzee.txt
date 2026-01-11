@@ -1,6 +1,7 @@
 title = c_zierikzee
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_zierikzee = castle
-b_zierikzee2 = temple
+
+b_akken = castle
+b_nuttel = temple

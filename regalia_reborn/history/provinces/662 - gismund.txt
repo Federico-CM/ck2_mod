@@ -1,6 +1,7 @@
 title = c_gismund
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_gismund = tribal
-b_gismund2 = temple
+
+b_slstad = tribal
+b_segarna = temple

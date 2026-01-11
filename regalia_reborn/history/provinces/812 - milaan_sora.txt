@@ -1,6 +1,7 @@
 title = c_milaan_sora
-max_settlements = 2
+max_settlements = 3
 culture = solvaan
 religion = estelley
-b_milaan_sora = castle
-b_milaan_sora2 = temple
+
+b_valfumor = castle
+b_marvalen = temple

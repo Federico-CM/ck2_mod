@@ -1,6 +1,7 @@
 title = c_ipsul
-max_settlements = 2
+max_settlements = 4
 culture = skyborn
 religion = khama
-b_ipsul = castle
-b_ipsul2 = temple
+
+b_amurratu = castle
+b_abdon = temple

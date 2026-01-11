@@ -1,6 +1,7 @@
 title = c_middeland
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_middeland = castle
-b_middeland2 = temple
+
+b_lngstran = castle
+b_brohand = temple

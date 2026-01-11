@@ -1,6 +1,7 @@
 title = c_tonavestre
-max_settlements = 2
+max_settlements = 4
 culture = selvath
 religion = estelley
-b_tonavestre = tribal
-b_tonavestre2 = temple
+
+b_maravel = tribal
+b_vesora = temple

@@ -1,6 +1,7 @@
 title = c_bulgern
-max_settlements = 2
+max_settlements = 3
 culture = genevaud
 religion = unionism
-b_bulgern = castle
-b_bulgern2 = temple
+
+b_riedacker = castle
+b_dornwil = temple

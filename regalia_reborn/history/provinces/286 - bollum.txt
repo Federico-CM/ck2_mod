@@ -1,6 +1,7 @@
 title = c_bollum
-max_settlements = 2
+max_settlements = 3
 culture = dunbrae
 religion = unionism
-b_bollum = tribal
-b_bollum2 = temple
+
+b_midden = tribal
+b_milleton = temple

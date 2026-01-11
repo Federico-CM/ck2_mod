@@ -1,6 +1,7 @@
 title = c_rugulia
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_rugulia = castle
-b_rugulia2 = temple
+
+b_dences = castle
+b_salanos = temple

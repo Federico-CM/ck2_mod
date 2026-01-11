@@ -1,6 +1,8 @@
 title = c_castlefair
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_castlefair = castle
-b_castlefair2 = temple
+
+b_beven = castle
+b_kugel = temple
+b_krossau = city

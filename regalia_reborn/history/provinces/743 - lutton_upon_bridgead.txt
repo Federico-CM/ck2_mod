@@ -1,6 +1,9 @@
 title = c_lutton_upon_bridgead
-max_settlements = 2
+max_settlements = 5
 culture = cearden
 religion = unionism
-b_lutton_upon_bridgead = castle
-b_lutton_upon_bridgead2 = temple
+
+b_crain = castle
+b_hassbury = temple
+b_coxshorn = city
+b_surford = city

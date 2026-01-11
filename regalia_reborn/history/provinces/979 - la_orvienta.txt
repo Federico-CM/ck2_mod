@@ -1,6 +1,7 @@
 title = c_la_orvienta
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = unionism
-b_la_orvienta = castle
-b_la_orvienta2 = temple
+
+b_dalmezzo = castle
+b_carello = temple

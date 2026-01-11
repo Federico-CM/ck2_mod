@@ -1,6 +1,7 @@
 title = c_vierheere
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_vierheere = castle
-b_vierheere2 = temple
+
+b_everle = castle
+b_ruisveen = temple

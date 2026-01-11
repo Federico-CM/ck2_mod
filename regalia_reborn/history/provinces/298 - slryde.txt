@@ -1,6 +1,7 @@
 title = c_slryde
-max_settlements = 2
+max_settlements = 5
 culture = dunbrae
 religion = unionism
-b_slryde = tribal
-b_slryde2 = temple
+
+b_redge = tribal
+b_druming = temple

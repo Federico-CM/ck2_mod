@@ -1,6 +1,9 @@
 title = c_hylgeberg
-max_settlements = 2
+max_settlements = 5
 culture = velheim
 religion = fornoss
-b_hylgeberg = castle
-b_hylgeberg2 = temple
+
+b_pulsund = castle
+b_alerstad = temple
+b_bruneby = city
+b_svallen = city

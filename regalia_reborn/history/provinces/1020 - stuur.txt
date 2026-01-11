@@ -1,6 +1,7 @@
 title = c_stuur
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_stuur = castle
-b_stuur2 = temple
+
+b_buiten = castle
+b_grauwen = temple

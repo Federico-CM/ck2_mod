@@ -1,6 +1,7 @@
 title = c_narlas
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_narlas = castle
-b_narlas2 = temple
+
+b_sappley = castle
+b_etchcott = temple

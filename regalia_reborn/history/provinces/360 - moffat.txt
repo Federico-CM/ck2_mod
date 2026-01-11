@@ -1,6 +1,7 @@
 title = c_moffat
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_moffat = castle
-b_moffat2 = temple
+
+b_tarbury = castle
+b_ashdyn = temple

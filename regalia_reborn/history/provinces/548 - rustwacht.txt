@@ -1,6 +1,9 @@
 title = c_rustwacht
-max_settlements = 2
+max_settlements = 5
 culture = anglian
 religion = draconism
-b_rustwacht = castle
-b_rustwacht2 = temple
+
+b_kreeze = castle
+b_oosteren = temple
+b_stadorp = city
+b_stormhaven = city

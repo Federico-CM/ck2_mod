@@ -1,6 +1,8 @@
 title = c_alania_siorba
-max_settlements = 2
+max_settlements = 4
 culture = cantaluna
 religion = unionism
-b_alania_siorba = castle
-b_alania_siorba2 = temple
+
+b_corile = castle
+b_recorio = temple
+b_camponte = city

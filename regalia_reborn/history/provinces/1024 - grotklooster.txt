@@ -1,6 +1,7 @@
 title = c_grotklooster
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_grotklooster = castle
-b_grotklooster2 = temple
+
+b_zaalsen = castle
+b_stelt = temple

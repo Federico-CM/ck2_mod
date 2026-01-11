@@ -1,6 +1,7 @@
 title = c_greshornish
-max_settlements = 2
+max_settlements = 5
 culture = url
 religion = unionism
-b_greshornish = tribal
-b_greshornish2 = temple
+
+b_zailin = tribal
+b_quellan = temple

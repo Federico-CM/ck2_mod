@@ -1,6 +1,8 @@
 title = c_heerepolder
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_heerepolder = castle
-b_heerepolder2 = temple
+
+b_aanhoef = castle
+b_uiten = temple
+b_vossum = city

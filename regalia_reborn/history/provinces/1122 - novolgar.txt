@@ -1,6 +1,7 @@
 title = c_novolgar
-max_settlements = 2
+max_settlements = 4
 culture = krainivaya
 religion = fornoss
-b_novolgar = castle
-b_novolgar2 = temple
+
+b_vinka = castle
+b_levenka = temple

@@ -1,6 +1,7 @@
 title = c_derbentyurt
-max_settlements = 2
+max_settlements = 3
 culture = krainivaya
 religion = evintarian
-b_derbentyurt = castle
-b_derbentyurt2 = temple
+
+b_yatyn = castle
+b_zaporyi = temple

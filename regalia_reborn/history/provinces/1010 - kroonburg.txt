@@ -1,6 +1,8 @@
 title = c_kroonburg
-max_settlements = 2
+max_settlements = 5
 culture = anglian
 religion = unionism
-b_kroonburg = castle
-b_kroonburg2 = temple
+
+b_klinkerbroek = castle
+b_swijk = temple
+b_kalle = city

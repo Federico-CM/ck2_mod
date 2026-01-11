@@ -1,6 +1,9 @@
 title = c_coltyr
-max_settlements = 2
+max_settlements = 5
 culture = breizh
 religion = warda
-b_coltyr = castle
-b_coltyr2 = temple
+
+b_lormere = castle
+b_beaucham = temple
+b_aumont = city
+b_aveland = city

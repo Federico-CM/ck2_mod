@@ -1,6 +1,7 @@
 title = c_circmor
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_circmor = castle
-b_circmor2 = temple
+
+b_caerhall = castle
+b_nuttley = temple

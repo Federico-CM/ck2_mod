@@ -1,6 +1,7 @@
 title = c_strandvik
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_strandvik = castle
-b_strandvik2 = temple
+
+b_marks = castle
+b_landvik = temple

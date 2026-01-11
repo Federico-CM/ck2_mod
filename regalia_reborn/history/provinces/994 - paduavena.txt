@@ -1,6 +1,7 @@
 title = c_paduavena
-max_settlements = 2
+max_settlements = 4
 culture = cantaluna
 religion = amended
-b_paduavena = castle
-b_paduavena2 = temple
+
+b_calaz = castle
+b_sille = temple

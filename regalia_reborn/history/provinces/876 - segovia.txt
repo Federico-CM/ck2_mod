@@ -1,6 +1,8 @@
 title = c_segovia
-max_settlements = 2
+max_settlements = 5
 culture = tierravera
 religion = unionism
-b_segovia = castle
-b_segovia2 = temple
+
+b_reque = castle
+b_barrieda = temple
+b_agarce = city

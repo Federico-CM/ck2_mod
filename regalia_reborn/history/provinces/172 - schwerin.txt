@@ -1,6 +1,8 @@
 title = c_schwerin
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_schwerin = castle
-b_schwerin2 = temple
+
+b_diesen = castle
+b_malsdorf = temple
+b_untering = city

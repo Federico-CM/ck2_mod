@@ -1,6 +1,7 @@
 title = c_salzenwald
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_salzenwald = castle
-b_salzenwald2 = temple
+
+b_doberger = castle
+b_grobitz = temple

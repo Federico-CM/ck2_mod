@@ -1,6 +1,7 @@
 title = c_cacedarconne
-max_settlements = 2
+max_settlements = 3
 culture = ithanian
 religion = unionism
-b_cacedarconne = castle
-b_cacedarconne2 = temple
+
+b_ceigny = castle
+b_clargue = temple

@@ -1,6 +1,7 @@
 title = c_consett
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_consett = castle
-b_consett2 = temple
+
+b_treet = castle
+b_townham = temple

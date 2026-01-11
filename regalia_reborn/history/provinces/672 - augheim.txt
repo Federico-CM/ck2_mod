@@ -1,6 +1,7 @@
 title = c_augheim
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_augheim = tribal
-b_augheim2 = temple
+
+b_vitsen = tribal
+b_vsterd = temple

@@ -1,6 +1,7 @@
 title = c_passenaar
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_passenaar = castle
-b_passenaar2 = temple
+
+b_wolkenveen = castle
+b_haerde = temple

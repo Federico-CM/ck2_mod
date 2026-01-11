@@ -1,6 +1,7 @@
 title = c_elveig
-max_settlements = 2
+max_settlements = 5
 culture = velheim
 religion = fornoss
-b_elveig = tribal
-b_elveig2 = temple
+
+b_meldalan = tribal
+b_skult = temple

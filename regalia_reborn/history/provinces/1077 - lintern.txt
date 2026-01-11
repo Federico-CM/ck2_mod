@@ -1,6 +1,7 @@
 title = c_lintern
-max_settlements = 2
+max_settlements = 3
 culture = calderliga
 religion = unionism
-b_lintern = castle
-b_lintern2 = temple
+
+b_bardewik = castle
+b_rugenport = temple

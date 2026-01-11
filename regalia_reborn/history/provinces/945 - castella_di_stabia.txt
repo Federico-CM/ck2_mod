@@ -1,6 +1,7 @@
 title = c_castella_di_stabia
-max_settlements = 2
+max_settlements = 3
 culture = azzizzari
 religion = unionism
-b_castella_di_stabia = castle
-b_castella_di_stabia2 = temple
+
+b_lunessa = castle
+b_salicara = temple

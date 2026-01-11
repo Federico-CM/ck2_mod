@@ -1,6 +1,9 @@
 title = c_anchal_mars
-max_settlements = 2
+max_settlements = 5
 culture = kathar
 religion = evolism
-b_anchal_mars = castle
-b_anchal_mars2 = temple
+
+b_moronn = castle
+b_velahc = temple
+b_narnor = city
+b_mornokh = city

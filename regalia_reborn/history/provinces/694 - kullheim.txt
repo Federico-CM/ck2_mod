@@ -1,6 +1,7 @@
 title = c_kullheim
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_kullheim = tribal
-b_kullheim2 = temple
+
+b_tjlen = tribal
+b_vattnet = temple

@@ -1,6 +1,7 @@
 title = c_droitwich
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_droitwich = castle
-b_droitwich2 = temple
+
+b_stasset = castle
+b_leath = temple

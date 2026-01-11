@@ -1,6 +1,7 @@
 title = c_alxette
-max_settlements = 2
+max_settlements = 4
 culture = leutz_vixe
 religion = unionism
-b_alxette = castle
-b_alxette2 = temple
+
+b_biller = castle
+b_kaassel = temple

@@ -1,6 +1,7 @@
 title = c_husavik
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_husavik = tribal
-b_husavik2 = temple
+
+b_nordal = tribal
+b_stvedal = temple

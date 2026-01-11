@@ -1,6 +1,7 @@
 title = c_callosa
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_callosa = castle
-b_callosa2 = temple
+
+b_ronal = castle
+b_oredo = temple

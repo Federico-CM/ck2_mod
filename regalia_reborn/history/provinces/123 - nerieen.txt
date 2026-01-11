@@ -1,6 +1,7 @@
 title = c_nerieen
-max_settlements = 2
+max_settlements = 3
 culture = leutz_vixe
 religion = unionism
-b_nerieen = castle
-b_nerieen2 = temple
+
+b_helborn = castle
+b_doenfelt = temple

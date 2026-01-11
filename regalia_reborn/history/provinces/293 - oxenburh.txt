@@ -1,6 +1,7 @@
 title = c_oxenburh
-max_settlements = 2
+max_settlements = 3
 culture = dunbrae
 religion = unionism
-b_oxenburh = tribal
-b_oxenburh2 = temple
+
+b_ragherby = tribal
+b_nutford = temple

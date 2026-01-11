@@ -1,6 +1,10 @@
 title = c_wickthur
-max_settlements = 2
+max_settlements = 6
 culture = dunbrae
 religion = unionism
-b_wickthur = castle
-b_wickthur2 = temple
+
+b_wortwood = castle
+b_wested = temple
+b_reton = city
+b_buckham = city
+b_kettle = city

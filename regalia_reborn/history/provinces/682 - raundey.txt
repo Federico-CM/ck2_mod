@@ -1,6 +1,7 @@
 title = c_raundey
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_raundey = tribal
-b_raundey2 = temple
+
+b_vinhult = tribal
+b_kubbets = temple

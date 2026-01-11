@@ -1,6 +1,7 @@
 title = c_iontabaobha
-max_settlements = 2
+max_settlements = 3
 culture = aontaithe
 religion = fornoss
-b_iontabaobha = tribal
-b_iontabaobha2 = temple
+
+b_torfern = tribal
+b_cloonhill = temple

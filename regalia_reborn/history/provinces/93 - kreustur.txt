@@ -1,6 +1,8 @@
 title = c_kreustur
-max_settlements = 2
+max_settlements = 4
 culture = cantaluna
 religion = unionism
-b_kreustur = castle
-b_kreustur2 = temple
+
+b_teone = castle
+b_cocelli = temple
+b_chiello = city

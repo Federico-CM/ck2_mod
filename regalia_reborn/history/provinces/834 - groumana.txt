@@ -1,6 +1,7 @@
 title = c_groumana
-max_settlements = 2
+max_settlements = 3
 culture = dragonkin
 religion = unionism
-b_groumana = castle
-b_groumana2 = temple
+
+b_karansogo = castle
+b_balanjala = temple

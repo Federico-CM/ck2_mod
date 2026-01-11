@@ -1,6 +1,7 @@
 title = c_solthul
-max_settlements = 2
+max_settlements = 4
 culture = cearden
 religion = unionism
-b_solthul = castle
-b_solthul2 = temple
+
+b_branfree = castle
+b_venhill = temple

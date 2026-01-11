@@ -1,6 +1,7 @@
 title = c_lucht_siuil
-max_settlements = 2
+max_settlements = 4
 culture = aontaithe
 religion = fornoss
-b_lucht_siuil = tribal
-b_lucht_siuil2 = temple
+
+b_drumclay = tribal
+b_rathmore = temple

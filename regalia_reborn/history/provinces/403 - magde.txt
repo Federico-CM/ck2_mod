@@ -1,6 +1,8 @@
 title = c_magde
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_magde = castle
-b_magde2 = temple
+
+b_rochsen = castle
+b_kromer = temple
+b_rebbel = city

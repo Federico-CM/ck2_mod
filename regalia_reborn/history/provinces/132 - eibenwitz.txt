@@ -1,6 +1,7 @@
 title = c_eibenwitz
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_eibenwitz = castle
-b_eibenwitz2 = temple
+
+b_meler = castle
+b_thallen = temple

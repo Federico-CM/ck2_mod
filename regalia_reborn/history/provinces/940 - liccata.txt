@@ -1,6 +1,7 @@
 title = c_liccata
-max_settlements = 2
+max_settlements = 3
 culture = azzizzari
 religion = unionism
-b_liccata = castle
-b_liccata2 = temple
+
+b_castellia = castle
+b_caltessa = temple

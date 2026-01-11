@@ -1,6 +1,7 @@
 title = c_tysey
-max_settlements = 2
+max_settlements = 6
 culture = velheim
 religion = fornoss
-b_tysey = tribal
-b_tysey2 = temple
+
+b_fjrden = tribal
+b_rsbke = temple

@@ -1,6 +1,7 @@
 title = c_mikslund
-max_settlements = 2
+max_settlements = 4
 culture = tarkin
 religion = fornoss
-b_mikslund = tribal
-b_mikslund2 = temple
+
+b_silgale = tribal
+b_rudzene = temple

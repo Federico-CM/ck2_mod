@@ -1,6 +1,7 @@
 title = c_rio_grande
-max_settlements = 2
+max_settlements = 4
 culture = tierravera
 religion = unionism
-b_rio_grande = castle
-b_rio_grande2 = temple
+
+b_patama = castle
+b_balla = temple

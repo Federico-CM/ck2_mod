@@ -1,6 +1,8 @@
 title = c_moritzberg
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_moritzberg = castle
-b_moritzberg2 = temple
+
+b_grubkow = castle
+b_merausen = temple
+b_prede = city

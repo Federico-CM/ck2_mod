@@ -1,6 +1,9 @@
 title = c_holgerne
-max_settlements = 2
+max_settlements = 5
 culture = wirtem
 religion = unionism
-b_holgerne = castle
-b_holgerne2 = temple
+
+b_eitenhof = castle
+b_neuth = temple
+b_diepkow = city
+b_markshof = city

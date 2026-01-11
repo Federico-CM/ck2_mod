@@ -1,6 +1,7 @@
 title = c_eikenbos
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_eikenbos = castle
-b_eikenbos2 = temple
+
+b_holter = castle
+b_stilteveen = temple

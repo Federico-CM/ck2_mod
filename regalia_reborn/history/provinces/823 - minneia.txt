@@ -1,6 +1,7 @@
 title = c_minneia
-max_settlements = 2
+max_settlements = 4
 culture = solvaan
 religion = estelley
-b_minneia = castle
-b_minneia2 = temple
+
+b_tormelion = castle
+b_alticoris = temple

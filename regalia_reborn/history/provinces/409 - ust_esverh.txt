@@ -1,6 +1,7 @@
 title = c_ust_esverh
-max_settlements = 2
+max_settlements = 4
 culture = szabadok
 religion = unionism
-b_ust_esverh = tribal
-b_ust_esverh2 = temple
+
+b_kerekhalom = tribal
+b_kisvarad = temple

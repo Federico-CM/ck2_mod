@@ -1,6 +1,9 @@
 title = c_sigetorn
-max_settlements = 2
+max_settlements = 6
 culture = velheim
 religion = fornoss
-b_sigetorn = castle
-b_sigetorn2 = temple
+
+b_kubberga = castle
+b_bodar = temple
+b_rssberg = city
+b_kerekil = city

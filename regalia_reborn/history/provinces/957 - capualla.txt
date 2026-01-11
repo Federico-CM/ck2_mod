@@ -1,6 +1,7 @@
 title = c_capualla
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = unionism
-b_capualla = castle
-b_capualla2 = temple
+
+b_reoli = castle
+b_lombo = temple

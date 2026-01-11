@@ -1,6 +1,7 @@
 title = c_heggenes
-max_settlements = 2
+max_settlements = 4
 culture = velheim
 religion = fornoss
-b_heggenes = tribal
-b_heggenes2 = temple
+
+b_rseneby = tribal
+b_vishamn = temple

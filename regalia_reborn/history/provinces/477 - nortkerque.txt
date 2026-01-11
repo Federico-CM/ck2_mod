@@ -1,6 +1,8 @@
 title = c_nortkerque
-max_settlements = 2
+max_settlements = 5
 culture = burdigala
 religion = unionism
-b_nortkerque = castle
-b_nortkerque2 = temple
+
+b_meursel = castle
+b_charency = temple
+b_epoisses = city

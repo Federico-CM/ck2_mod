@@ -1,6 +1,7 @@
 title = c_oqhemu
-max_settlements = 2
+max_settlements = 3
 culture = asha
 religion = khama
-b_oqhemu = tribal
-b_oqhemu2 = temple
+
+b_perka = tribal
+b_merya = temple

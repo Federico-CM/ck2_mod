@@ -1,6 +1,7 @@
 title = c_nytra
-max_settlements = 2
+max_settlements = 4
 culture = leutz_vixe
 religion = unionism
-b_nytra = castle
-b_nytra2 = temple
+
+b_seithum = castle
+b_roedang = temple

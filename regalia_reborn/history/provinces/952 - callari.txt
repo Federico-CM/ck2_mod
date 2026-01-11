@@ -1,6 +1,7 @@
 title = c_callari
-max_settlements = 2
+max_settlements = 3
 culture = azzizzari
 religion = unionism
-b_callari = castle
-b_callari2 = temple
+
+b_ventora = castle
+b_novella = temple

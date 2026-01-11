@@ -1,6 +1,7 @@
 title = c_attelgate
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_attelgate = castle
-b_attelgate2 = temple
+
+b_chick = castle
+b_spington = temple

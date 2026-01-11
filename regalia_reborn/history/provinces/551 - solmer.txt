@@ -1,6 +1,7 @@
 title = c_solmer
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = draconism
-b_solmer = castle
-b_solmer2 = temple
+
+b_heilen = castle
+b_lisdorp = temple

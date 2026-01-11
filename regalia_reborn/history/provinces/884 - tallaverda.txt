@@ -1,6 +1,7 @@
 title = c_tallaverda
-max_settlements = 2
+max_settlements = 3
 culture = tierravera
 religion = unionism
-b_tallaverda = castle
-b_tallaverda2 = temple
+
+b_bergo = castle
+b_borada = temple

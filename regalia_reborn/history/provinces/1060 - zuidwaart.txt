@@ -1,6 +1,9 @@
 title = c_zuidwaart
-max_settlements = 2
+max_settlements = 5
 culture = anglian
 religion = draconism
-b_zuidwaart = castle
-b_zuidwaart2 = temple
+
+b_ovenham = castle
+b_breel = temple
+b_korten = city
+b_tersum = city

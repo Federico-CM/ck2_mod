@@ -1,6 +1,9 @@
 title = c_elfenmuur
-max_settlements = 2
+max_settlements = 6
 culture = anglian
 religion = draconism
-b_elfenmuur = castle
-b_elfenmuur2 = temple
+
+b_hulseind = castle
+b_garnweg = temple
+b_oosteen = city
+b_feindijk = city

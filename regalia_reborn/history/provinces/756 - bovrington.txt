@@ -1,6 +1,7 @@
 title = c_bovrington
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_bovrington = castle
-b_bovrington2 = temple
+
+b_rodby = castle
+b_matcombe = temple

@@ -1,6 +1,7 @@
 title = c_cupermill
-max_settlements = 2
+max_settlements = 4
 culture = aber
 religion = evolism
-b_cupermill = tribal
-b_cupermill2 = temple
+
+b_lochy = tribal
+b_feorn = temple

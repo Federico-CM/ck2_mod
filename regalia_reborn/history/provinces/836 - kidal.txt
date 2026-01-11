@@ -1,6 +1,8 @@
 title = c_kidal
-max_settlements = 2
+max_settlements = 4
 culture = dragonkin
 religion = unionism
-b_kidal = castle
-b_kidal2 = temple
+
+b_nafankoro = castle
+b_falankala = temple
+b_worosila = city

@@ -1,6 +1,7 @@
 title = c_neufoundland
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_neufoundland = castle
-b_neufoundland2 = temple
+
+b_siede = castle
+b_klemsen = temple

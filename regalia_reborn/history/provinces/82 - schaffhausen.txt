@@ -1,6 +1,7 @@
 title = c_schaffhausen
-max_settlements = 2
+max_settlements = 3
 culture = genevaud
 religion = unionism
-b_schaffhausen = castle
-b_schaffhausen2 = temple
+
+b_wendelhof = castle
+b_pfaffenried = temple

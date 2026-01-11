@@ -1,6 +1,7 @@
 title = c_tzkalaitsa
-max_settlements = 2
+max_settlements = 3
 culture = krainivaya
 religion = evintarian
-b_tzkalaitsa = castle
-b_tzkalaitsa2 = temple
+
+b_dvorove = castle
+b_vyzivka = temple

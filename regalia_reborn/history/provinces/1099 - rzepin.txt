@@ -1,6 +1,7 @@
 title = c_rzepin
-max_settlements = 2
+max_settlements = 3
 culture = wruclav
 religion = unionism
-b_rzepin = castle
-b_rzepin2 = temple
+
+b_sędziwój = castle
+b_zegota = temple

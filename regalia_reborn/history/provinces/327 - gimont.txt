@@ -1,6 +1,8 @@
 title = c_gimont
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_gimont = castle
-b_gimont2 = temple
+
+b_aguis = castle
+b_teillon = temple
+b_corbois = city

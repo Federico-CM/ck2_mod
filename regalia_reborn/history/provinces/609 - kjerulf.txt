@@ -1,6 +1,7 @@
 title = c_kjerulf
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_kjerulf = castle
-b_kjerulf2 = temple
+
+b_dabbyn = castle
+b_gyllen = temple

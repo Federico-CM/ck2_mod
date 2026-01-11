@@ -1,6 +1,8 @@
 title = c_cresolina
-max_settlements = 2
+max_settlements = 5
 culture = selvath
 religion = estelley
-b_cresolina = castle
-b_cresolina2 = temple
+
+b_rivessae = castle
+b_solavel = temple
+b_doressa = city

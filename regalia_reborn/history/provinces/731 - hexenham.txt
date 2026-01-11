@@ -1,6 +1,9 @@
 title = c_hexenham
-max_settlements = 2
+max_settlements = 5
 culture = wirtem
 religion = unionism
-b_hexenham = castle
-b_hexenham2 = temple
+
+b_keitz = castle
+b_oberweg = temple
+b_oberger = city
+b_hinzenau = city

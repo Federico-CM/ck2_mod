@@ -1,6 +1,7 @@
 title = c_schlossland
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_schlossland = castle
-b_schlossland2 = temple
+
+b_henholz = castle
+b_katerne = temple

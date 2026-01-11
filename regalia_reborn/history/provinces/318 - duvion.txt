@@ -1,6 +1,8 @@
 title = c_duvion
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_duvion = castle
-b_duvion2 = temple
+
+b_pompeaux = castle
+b_barijon = temple
+b_louas = city

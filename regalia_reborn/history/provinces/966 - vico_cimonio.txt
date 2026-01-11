@@ -1,6 +1,7 @@
 title = c_vico_cimonio
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = unionism
-b_vico_cimonio = castle
-b_vico_cimonio2 = temple
+
+b_miracco = castle
+b_buscino = temple

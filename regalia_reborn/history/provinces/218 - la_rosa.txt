@@ -1,6 +1,9 @@
 title = c_la_rosa
-max_settlements = 2
+max_settlements = 6
 culture = allar
 religion = unionism
-b_la_rosa = castle
-b_la_rosa2 = temple
+
+b_drashim = castle
+b_sanarik = temple
+b_morinel = city
+b_zanik = city

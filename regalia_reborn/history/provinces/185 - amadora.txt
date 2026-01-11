@@ -1,6 +1,7 @@
 title = c_amadora
-max_settlements = 2
+max_settlements = 4
 culture = bragacao
 religion = unionism
-b_amadora = castle
-b_amadora2 = temple
+
+b_pradeira = castle
+b_peres = temple

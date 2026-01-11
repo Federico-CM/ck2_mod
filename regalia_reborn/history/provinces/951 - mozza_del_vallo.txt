@@ -1,6 +1,7 @@
 title = c_mozza_del_vallo
-max_settlements = 2
+max_settlements = 3
 culture = azzizzari
 religion = unionism
-b_mozza_del_vallo = castle
-b_mozza_del_vallo2 = temple
+
+b_scillaro = castle
+b_malvito = temple

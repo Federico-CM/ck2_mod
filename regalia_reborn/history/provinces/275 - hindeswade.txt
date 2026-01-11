@@ -1,6 +1,7 @@
 title = c_hindeswade
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_hindeswade = castle
-b_hindeswade2 = temple
+
+b_sillee = castle
+b_founton = temple

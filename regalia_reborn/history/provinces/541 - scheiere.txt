@@ -1,6 +1,7 @@
 title = c_scheiere
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_scheiere = castle
-b_scheiere2 = temple
+
+b_naarle = castle
+b_harsdam = temple

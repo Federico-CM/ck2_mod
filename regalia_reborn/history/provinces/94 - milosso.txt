@@ -1,6 +1,7 @@
 title = c_milosso
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_milosso = castle
-b_milosso2 = temple
+
+b_quion = castle
+b_chalet = temple

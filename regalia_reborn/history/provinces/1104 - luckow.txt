@@ -1,6 +1,8 @@
 title = c_luckow
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_luckow = castle
-b_luckow2 = temple
+
+b_hheim = castle
+b_bagbach = temple
+b_heimern = city

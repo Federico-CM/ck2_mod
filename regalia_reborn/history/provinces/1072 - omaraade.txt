@@ -1,6 +1,7 @@
 title = c_omaraade
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_omaraade = castle
-b_omaraade2 = temple
+
+b_bielt = castle
+b_vaartier = temple

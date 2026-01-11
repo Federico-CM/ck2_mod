@@ -1,6 +1,9 @@
 title = c_coulogne
-max_settlements = 2
+max_settlements = 5
 culture = burdigala
 religion = unionism
-b_coulogne = castle
-b_coulogne2 = temple
+
+b_moloy = castle
+b_torcy = temple
+b_beurney = city
+b_chissey = city

@@ -1,6 +1,9 @@
 title = c_kirkeland
-max_settlements = 2
+max_settlements = 5
 culture = wirtem
 religion = unionism
-b_kirkeland = castle
-b_kirkeland2 = temple
+
+b_peterath = castle
+b_kahlbach = temple
+b_biese = city
+b_haarberg = city

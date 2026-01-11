@@ -1,6 +1,7 @@
 title = c_galtrick
-max_settlements = 2
+max_settlements = 3
 culture = cearden
 religion = unionism
-b_galtrick = castle
-b_galtrick2 = temple
+
+b_amore = castle
+b_harne = temple

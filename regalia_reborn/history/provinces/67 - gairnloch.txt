@@ -1,6 +1,7 @@
 title = c_gairnloch
-max_settlements = 2
+max_settlements = 3
 culture = caeren
 religion = fornoss
-b_gairnloch = castle
-b_gairnloch2 = temple
+
+b_dunskie = castle
+b_torrough = temple

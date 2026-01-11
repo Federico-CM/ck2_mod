@@ -1,6 +1,7 @@
 title = c_mundheim
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_mundheim = tribal
-b_mundheim2 = temple
+
+b_karberg = tribal
+b_brorud = temple

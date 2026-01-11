@@ -1,6 +1,9 @@
 title = c_walthingburgh
-max_settlements = 2
+max_settlements = 5
 culture = cearden
 religion = unionism
-b_walthingburgh = castle
-b_walthingburgh2 = temple
+
+b_skington = castle
+b_oxley = temple
+b_churston = city
+b_willy = city

@@ -1,6 +1,8 @@
 title = c_de_pier
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_de_pier = castle
-b_de_pier2 = temple
+
+b_leenhout = castle
+b_ommer = temple
+b_netten = city

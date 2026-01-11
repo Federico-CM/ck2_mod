@@ -1,6 +1,7 @@
 title = c_kattenburg
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_kattenburg = castle
-b_kattenburg2 = temple
+
+b_korenbroek = castle
+b_licht = temple

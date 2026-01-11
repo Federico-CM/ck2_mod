@@ -1,6 +1,7 @@
 title = c_mosokovo
-max_settlements = 2
+max_settlements = 3
 culture = krainivaya
 religion = fornoss
-b_mosokovo = castle
-b_mosokovo2 = temple
+
+b_kulynia = castle
+b_dyane = temple

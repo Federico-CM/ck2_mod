@@ -1,6 +1,8 @@
 title = c_halle_centre
-max_settlements = 2
+max_settlements = 5
 culture = ithanian
 religion = unionism
-b_halle_centre = castle
-b_halle_centre2 = temple
+
+b_palanne = castle
+b_chermetz = temple
+b_milles = city

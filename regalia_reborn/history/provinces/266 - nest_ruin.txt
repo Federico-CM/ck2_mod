@@ -1,6 +1,8 @@
 title = c_nest_ruin
-max_settlements = 2
+max_settlements = 4
 culture = dwarven
 religion = fornoss
-b_nest_ruin = castle
-b_nest_ruin2 = temple
+
+b_qazrell = castle
+b_rathnorr = temple
+b_ruvhennor = city

@@ -1,6 +1,9 @@
 title = c_catterbury
-max_settlements = 2
+max_settlements = 5
 culture = cearden
 religion = unionism
-b_catterbury = castle
-b_catterbury2 = temple
+
+b_wadstown = castle
+b_ington = temple
+b_chill = city
+b_knodhill = city

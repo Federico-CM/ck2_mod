@@ -1,6 +1,7 @@
 title = c_treppewitz
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_treppewitz = castle
-b_treppewitz2 = temple
+
+b_kiesborn = castle
+b_hitte = temple

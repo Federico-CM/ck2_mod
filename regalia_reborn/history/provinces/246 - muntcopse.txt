@@ -1,6 +1,7 @@
 title = c_muntcopse
-max_settlements = 2
+max_settlements = 4
 culture = caeren
 religion = unionism
-b_muntcopse = castle
-b_muntcopse2 = temple
+
+b_culsta = castle
+b_auchead = temple

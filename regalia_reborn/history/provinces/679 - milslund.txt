@@ -1,6 +1,7 @@
 title = c_milslund
-max_settlements = 2
+max_settlements = 3
 culture = velheim
 religion = fornoss
-b_milslund = tribal
-b_milslund2 = temple
+
+b_sklet = tribal
+b_vassa = temple

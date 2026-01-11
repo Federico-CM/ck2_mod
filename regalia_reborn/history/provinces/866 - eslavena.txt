@@ -1,6 +1,7 @@
 title = c_eslavena
-max_settlements = 2
+max_settlements = 3
 culture = selvath
 religion = estelley
-b_eslavena = tribal
-b_eslavena2 = temple
+
+b_dororin = tribal
+b_floran = temple

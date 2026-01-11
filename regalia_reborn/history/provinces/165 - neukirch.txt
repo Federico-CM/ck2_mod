@@ -1,6 +1,7 @@
 title = c_neukirch
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_neukirch = castle
-b_neukirch2 = temple
+
+b_llenberg = castle
+b_lenbach = temple

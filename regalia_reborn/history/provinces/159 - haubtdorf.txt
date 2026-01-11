@@ -1,6 +1,7 @@
 title = c_haubtdorf
-max_settlements = 2
+max_settlements = 4
 culture = wirtem
 religion = unionism
-b_haubtdorf = castle
-b_haubtdorf2 = temple
+
+b_ritzel = castle
+b_niessel = temple

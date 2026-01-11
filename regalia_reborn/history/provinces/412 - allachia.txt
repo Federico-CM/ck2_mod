@@ -1,6 +1,7 @@
 title = c_allachia
-max_settlements = 2
+max_settlements = 3
 culture = ania
 religion = unionism
-b_allachia = castle
-b_allachia2 = temple
+
+b_lunari = castle
+b_vizeti = temple

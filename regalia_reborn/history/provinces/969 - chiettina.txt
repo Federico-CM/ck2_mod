@@ -1,6 +1,8 @@
 title = c_chiettina
-max_settlements = 2
+max_settlements = 5
 culture = cantaluna
 religion = unionism
-b_chiettina = castle
-b_chiettina2 = temple
+
+b_coneto = castle
+b_ronza = temple
+b_chiesini = city

@@ -1,6 +1,7 @@
 title = c_anaklia
-max_settlements = 2
+max_settlements = 4
 culture = krainivaya
 religion = evintarian
-b_anaklia = castle
-b_anaklia2 = temple
+
+b_polyanky = castle
+b_pashivka = temple

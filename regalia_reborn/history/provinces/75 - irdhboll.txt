@@ -1,6 +1,7 @@
 title = c_irdhboll
-max_settlements = 2
+max_settlements = 4
 culture = url
 religion = unionism
-b_irdhboll = tribal
-b_irdhboll2 = temple
+
+b_drumfain = tribal
+b_arlinn = temple

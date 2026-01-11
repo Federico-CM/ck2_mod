@@ -1,6 +1,8 @@
 title = c_langeoog
-max_settlements = 2
+max_settlements = 4
 culture = anglian
 religion = unionism
-b_langeoog = castle
-b_langeoog2 = temple
+
+b_haaft = castle
+b_langedijkermeer = temple
+b_recht = city

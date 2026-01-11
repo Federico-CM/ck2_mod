@@ -1,6 +1,7 @@
 title = c_osterholz
-max_settlements = 2
+max_settlements = 3
 culture = wirtem
 religion = unionism
-b_osterholz = castle
-b_osterholz2 = temple
+
+b_willer = castle
+b_desfeld = temple

@@ -1,6 +1,7 @@
 title = c_montua
-max_settlements = 2
+max_settlements = 3
 culture = cantaluna
 religion = unionism
-b_montua = castle
-b_montua2 = temple
+
+b_piovara = castle
+b_battina = temple

@@ -1,6 +1,7 @@
 title = c_bergklooster
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_bergklooster = castle
-b_bergklooster2 = temple
+
+b_vlucht = castle
+b_schoten = temple

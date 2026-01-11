@@ -1,6 +1,7 @@
 title = c_dallevald
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_dallevald = castle
-b_dallevald2 = temple
+
+b_feind = castle
+b_dijkzicht = temple

@@ -1,6 +1,7 @@
 title = c_abeelskerke
-max_settlements = 2
+max_settlements = 3
 culture = anglian
 religion = unionism
-b_abeelskerke = castle
-b_abeelskerke2 = temple
+
+b_haagen = castle
+b_sluimerdam = temple

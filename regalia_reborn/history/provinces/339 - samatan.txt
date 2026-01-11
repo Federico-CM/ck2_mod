@@ -1,6 +1,8 @@
 title = c_samatan
-max_settlements = 2
+max_settlements = 4
 culture = ithanian
 religion = unionism
-b_samatan = castle
-b_samatan2 = temple
+
+b_poyes = castle
+b_couls = temple
+b_silessac = city

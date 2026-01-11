@@ -1,6 +1,7 @@
 title = c_fada
-max_settlements = 2
+max_settlements = 3
 culture = aontaithe
 religion = fornoss
-b_fada = tribal
-b_fada2 = temple
+
+b_ballydun = tribal
+b_torwick = temple
