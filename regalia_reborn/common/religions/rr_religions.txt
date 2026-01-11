@@ -6,18 +6,11 @@
 unionism_group = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
+	crusade_cb = crusade
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
 
 	color = { 0.8 0.3 0.1 }
-
-	male_names = {
-		Abelhard
-	}
-
-	male_names = {
-		Adelle
-	}
 
 	unionism = {
 		graphical_culture = westerngfx
@@ -40,17 +33,13 @@ unionism_group = {
 			GOD_THE_DARK_GODS
 		}
 
-		priests_can_marry = no
-		allow_rivermovement = no
-		female_temple_holders = no
-		investiture = no
-		can_excommunicate = no
-		can_grant_divorce = no
-		can_grant_claim = no
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
 		priests_can_inherit = no
-
-		dynamic_cult = no
-		secret_religion = no
 	}
 	diviner_sect = {
 		graphical_culture = westerngfx
@@ -74,17 +63,13 @@ unionism_group = {
 			GOD_THE_DARK_GODS
 		}
 
-		priests_can_marry = no
-		allow_rivermovement = no
-		female_temple_holders = no
-		investiture = no
-		can_excommunicate = no
-		can_grant_divorce = no
-		can_grant_claim = no
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
 		priests_can_inherit = no
-
-		dynamic_cult = no
-		secret_religion = no
 	}
 	evintarian = {
 		graphical_culture = westerngfx
@@ -106,17 +91,13 @@ unionism_group = {
 			GOD_THE_DARK_GODS
 		}
 
-		priests_can_marry = no
-		allow_rivermovement = no
-		female_temple_holders = no
-		investiture = no
-		can_excommunicate = no
-		can_grant_divorce = no
-		can_grant_claim = no
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
 		priests_can_inherit = no
-
-		dynamic_cult = no
-		secret_religion = no
 	}
 
 	amended = {
@@ -139,17 +120,13 @@ unionism_group = {
 			GOD_THE_DARK_GODS
 		}
 
-		priests_can_marry = no
-		allow_rivermovement = no
-		female_temple_holders = no
-		investiture = no
-		can_excommunicate = no
-		can_grant_divorce = no
-		can_grant_claim = no
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
 		priests_can_inherit = no
-
-		dynamic_cult = no
-		secret_religion = no
 	}
 	warda = { #Breizh flavored Unionism
 		graphical_culture = westerngfx
@@ -171,17 +148,13 @@ unionism_group = {
 			GOD_THE_DARK_GODS
 		}
 
-		priests_can_marry = no
-		allow_rivermovement = no
-		female_temple_holders = no
-		investiture = no
-		can_excommunicate = no
-		can_grant_divorce = no
-		can_grant_claim = no
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
 		priests_can_inherit = no
-
-		dynamic_cult = no
-		secret_religion = no
 	}
 }
 
@@ -189,18 +162,11 @@ unionism_group = {
 estel_group = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
+	crusade_cb = crusade
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
 
 	color = { 0.8 0.3 0.1 }
-
-	male_names = {
-		Abelhard
-	}
-
-	male_names = {
-		Adelle
-	}
 
 	estelley = {
 		graphical_culture = westerngfx
@@ -222,35 +188,24 @@ estel_group = {
 			GOD_THE_DARK_GODS
 		}
 
-		priests_can_marry = no
-		allow_rivermovement = no
-		female_temple_holders = no
-		investiture = no
-		can_excommunicate = no
-		can_grant_divorce = no
-		can_grant_claim = no
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
 		priests_can_inherit = no
-
-		dynamic_cult = no
-		secret_religion = no
 	}
 }
 
 draconism_group = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
+	crusade_cb = crusade
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
 
 	color = { 0.8 0.3 0.1 }
-
-	male_names = {
-		Abelhard
-	}
-
-	male_names = {
-		Adelle
-	}
 
 	draconism = {
 		graphical_culture = westerngfx
@@ -272,35 +227,24 @@ draconism_group = {
 			GOD_THE_DARK_GODS
 		}
 
-		priests_can_marry = no
-		allow_rivermovement = no
-		female_temple_holders = no
-		investiture = no
-		can_excommunicate = no
-		can_grant_divorce = no
-		can_grant_claim = no
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
 		priests_can_inherit = no
-
-		dynamic_cult = no
-		secret_religion = no
 	}
 }
 
 fornoss_group = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
+	crusade_cb = crusade
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
 
 	color = { 0.8 0.3 0.1 }
-
-	male_names = {
-		Abelhard
-	}
-
-	male_names = {
-		Adelle
-	}
 
 	fornoss = {
 		graphical_culture = westerngfx
@@ -322,35 +266,24 @@ fornoss_group = {
 			GOD_THE_DARK_GODS
 		}
 
-		priests_can_marry = no
-		allow_rivermovement = no
-		female_temple_holders = no
-		investiture = no
-		can_excommunicate = no
-		can_grant_divorce = no
-		can_grant_claim = no
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
 		priests_can_inherit = no
-
-		dynamic_cult = no
-		secret_religion = no
 	}
 }
 
 evolism_group = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
+	crusade_cb = crusade
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
 
 	color = { 0.8 0.3 0.1 }
-
-	male_names = {
-		Abelhard
-	}
-
-	male_names = {
-		Adelle
-	}
 
 	evolism = {
 		graphical_culture = westerngfx
@@ -372,35 +305,24 @@ evolism_group = {
 			GOD_THE_DEATH_GODS GOD_PURISM
 		}
 
-		priests_can_marry = no
-		allow_rivermovement = no
-		female_temple_holders = no
-		investiture = no
-		can_excommunicate = no
-		can_grant_divorce = no
-		can_grant_claim = no
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
 		priests_can_inherit = no
-
-		dynamic_cult = no
-		secret_religion = no
 	}
 }
 
 khama_group = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
+	crusade_cb = crusade
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
 
 	color = { 0.8 0.3 0.1 }
-
-	male_names = {
-		Abelhard
-	}
-
-	male_names = {
-		Adelle
-	}
 
 	khama = {
 		graphical_culture = westerngfx
@@ -422,35 +344,24 @@ khama_group = {
 			GOD_THE_DARK_GODS GOD_CEMAAN GOD_TALEA
 		}
 
-		priests_can_marry = no
-		allow_rivermovement = no
-		female_temple_holders = no
-		investiture = no
-		can_excommunicate = no
-		can_grant_divorce = no
-		can_grant_claim = no
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
 		priests_can_inherit = no
-
-		dynamic_cult = no
-		secret_religion = no
 	}
 }
 
 mortis_group = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
+	crusade_cb = crusade
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
 
 	color = { 0.8 0.3 0.1 }
-
-	male_names = {
-		Abelhard
-	}
-
-	male_names = {
-		Adelle
-	}
 
 	mortis_cult = {
 		graphical_culture = westerngfx
@@ -472,17 +383,13 @@ mortis_group = {
 			GOD_THE_DRAGONS GOD_LIFE
 		}
 
-		priests_can_marry = no
-		allow_rivermovement = no
-		female_temple_holders = no
-		investiture = no
-		can_excommunicate = no
-		can_grant_divorce = no
-		can_grant_claim = no
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
 		priests_can_inherit = no
-
-		dynamic_cult = no
-		secret_religion = no
 	}
 
 }
