@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 972
+	holder = 972 # Edward Halcroft
 	law = succ_primogeniture
 	law = agnatic_succession
 }

@@ -7,17 +7,17 @@
 	}
 
 	279.4.1 = {
-		add_spouse=137
+		add_spouse = 137
 	}
 
 	299.4.1 = {
 		#remove_spouse = 137
-		add_spouse=139
+		add_spouse = 139
 	}
 
 	309.4.1 = {
 		#remove_spouse = 139
-		add_spouse=150
+		add_spouse = 150
 	}
 	312.1.1 = {
 		death = {
@@ -102,7 +102,7 @@
 	}
 
 	283.4.1 = {
-		add_spouse=138
+		add_spouse = 138
 	}
 	343.1.1 = {
 		death = 343.1.1
@@ -465,7 +465,7 @@
 	}
 
 	253.4.1 = {
-		add_spouse=43
+		add_spouse = 43
 	}
 	298.1.1 = {
 		death = 298.1.1
@@ -512,7 +512,7 @@
 	}
 
 	287.4.1 = {
-		add_spouse=23
+		add_spouse = 23
 	}
 
 	293.4.1 = {
@@ -546,12 +546,12 @@
 	}
 
 	287.4.1 = {
-		add_spouse=22
+		add_spouse = 22
 	}
 
 	293.4.1 = {
 		#remove_spouse = 22
-		add_spouse=27
+		add_spouse = 27
 	}
 	366.1.1 = {
 		death = 366.1.1
@@ -583,7 +583,7 @@
 	}
 
 	265.4.1 = {
-		add_spouse=25
+		add_spouse = 25
 	}
 	349.1.1 = {
 		death = 349.1.1
@@ -614,7 +614,7 @@
 	}
 
 	265.4.1 = {
-		add_spouse=24
+		add_spouse = 24
 	}
 	339.1.1 = {
 		death = 339.1.1
@@ -670,7 +670,7 @@
 	}
 
 	293.4.1 = {
-		add_spouse=23
+		add_spouse = 23
 	}
 	370.1.1 = {
 		death = 370.1.1
@@ -726,7 +726,7 @@
 	}
 
 	296.4.1 = {
-		add_spouse=31
+		add_spouse = 31
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -775,7 +775,7 @@
 	}
 
 	296.4.1 = {
-		add_spouse=29
+		add_spouse = 29
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -916,7 +916,7 @@
 	}
 
 	290.4.1 = {
-		add_spouse=227
+		add_spouse = 227
 	}
 	359.1.1 = {
 		death = 359.1.1
@@ -957,7 +957,7 @@
 	}
 
 	190.4.1 = {
-		add_spouse=39
+		add_spouse = 39
 	}
 	230.1.1 = {
 		death = 230.1.1
@@ -976,7 +976,7 @@
 	}
 
 	190.4.1 = {
-		add_spouse=38
+		add_spouse = 38
 	}
 	195.1.1 = {
 		death = 195.1.1
@@ -1038,7 +1038,7 @@
 	}
 
 	253.4.1 = {
-		add_spouse=20
+		add_spouse = 20
 	}
 	271.1.1 = {
 		death = 271.1.1
@@ -1081,7 +1081,7 @@
 	}
 
 	286.4.1 = {
-		add_spouse=479
+		add_spouse = 479
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -1454,7 +1454,7 @@
 	}
 
 	309.4.1 = {
-		add_spouse=234
+		add_spouse = 234
 	}
 	376.1.1 = {
 		death = 376.1.1
@@ -1536,7 +1536,7 @@
 	}
 
 	37.4.1 = {
-		add_spouse=64
+		add_spouse = 64
 	}
 	65.1.1 = {
 		death = 65.1.1
@@ -1567,7 +1567,7 @@
 	}
 
 	37.4.1 = {
-		add_spouse=62
+		add_spouse = 62
 	}
 	75.1.1 = {
 		death = 75.1.1
@@ -1643,7 +1643,7 @@
 	}
 
 	53.4.1 = {
-		add_spouse=69
+		add_spouse = 69
 	}
 	56.1.1 = {
 		death = 56.1.1
@@ -1660,7 +1660,7 @@
 	}
 
 	53.4.1 = {
-		add_spouse=70
+		add_spouse = 70
 	}
 	79.1.1 = {
 		death = 79.1.1
@@ -1679,7 +1679,7 @@
 	}
 
 	79.4.1 = {
-		add_spouse=72
+		add_spouse = 72
 	}
 	104.1.1 = {
 		death = 104.1.1
@@ -1699,7 +1699,7 @@
 	}
 
 	79.4.1 = {
-		add_spouse=71
+		add_spouse = 71
 	}
 	104.1.1 = {
 		death = 104.1.1
@@ -1908,7 +1908,7 @@
 	}
 
 	173.4.1 = {
-		add_spouse=86
+		add_spouse = 86
 	}
 	205.1.1 = {
 		death = 205.1.1
@@ -1927,7 +1927,7 @@
 	}
 
 	173.4.1 = {
-		add_spouse=85
+		add_spouse = 85
 	}
 	215.1.1 = {
 		death = 215.1.1
@@ -2032,7 +2032,7 @@
 	}
 
 	200.4.1 = {
-		add_spouse=94
+		add_spouse = 94
 	}
 	216.1.1 = {
 		death = 216.1.1
@@ -2052,7 +2052,7 @@
 	}
 
 	200.4.1 = {
-		add_spouse=93
+		add_spouse = 93
 	}
 	210.1.1 = {
 		death = 210.1.1
@@ -2103,7 +2103,7 @@
 	}
 
 	249.4.1 = {
-		add_spouse=98
+		add_spouse = 98
 	}
 	272.1.1 = {
 		death = 272.1.1
@@ -2122,7 +2122,7 @@
 	}
 
 	249.4.1 = {
-		add_spouse=97
+		add_spouse = 97
 	}
 	307.1.1 = {
 		death = 307.1.1
@@ -2237,7 +2237,7 @@
 	}
 
 	283.4.1 = {
-		add_spouse=107
+		add_spouse = 107
 	}
 	303.1.1 = {
 		death = 303.1.1
@@ -2257,7 +2257,7 @@
 	}
 
 	283.4.1 = {
-		add_spouse=106
+		add_spouse = 106
 	}
 	341.1.1 = {
 		death = 341.1.1
@@ -2290,7 +2290,7 @@
 	}
 
 	299.4.1 = {
-		add_spouse=110
+		add_spouse = 110
 	}
 	380.1.1 = {
 		death = 380.1.1
@@ -2347,7 +2347,7 @@
 	}
 
 	299.4.1 = {
-		add_spouse=108
+		add_spouse = 108
 	}
 	357.1.1 = {
 		death = 357.1.1
@@ -2379,7 +2379,7 @@
 	}
 
 	273.4.1 = {
-		add_spouse=112
+		add_spouse = 112
 	}
 	336.1.1 = {
 		death = 336.1.1
@@ -2410,7 +2410,7 @@
 	}
 
 	273.4.1 = {
-		add_spouse=111
+		add_spouse = 111
 	}
 	341.1.1 = {
 		death = 341.1.1
@@ -3044,7 +3044,7 @@
 	}
 
 	279.4.1 = {
-		add_spouse=1
+		add_spouse = 1
 	}
 	291.1.1 = {
 		death = 291.1.1
@@ -3067,7 +3067,7 @@
 	}
 
 	283.4.1 = {
-		add_spouse=5
+		add_spouse = 5
 	}
 	389.1.1 = {
 		death = 389.1.1
@@ -3098,7 +3098,7 @@
 	}
 
 	299.4.1 = {
-		add_spouse=1
+		add_spouse = 1
 	}
 	300.1.1 = {
 		death = 300.1.1
@@ -3119,7 +3119,7 @@
 	}
 
 	299.4.1 = {
-		add_spouse=168
+		add_spouse = 168
 	}
 	376.1.1 = {
 		death = 376.1.1
@@ -3176,7 +3176,7 @@
 	}
 
 	311.4.1 = {
-		add_spouse=171
+		add_spouse = 171
 	}
 	380.1.1 = {
 		death = 380.1.1
@@ -3337,7 +3337,7 @@
 	}
 
 	309.4.1 = {
-		add_spouse=1
+		add_spouse = 1
 	}
 	379.1.1 = {
 		death = 379.1.1
@@ -3366,7 +3366,7 @@
 	}
 
 	287.4.1 = {
-		add_spouse=152
+		add_spouse = 152
 	}
 	358.1.1 = {
 		death = 358.1.1
@@ -3400,7 +3400,7 @@
 	}
 
 	287.4.1 = {
-		add_spouse=151
+		add_spouse = 151
 	}
 	291.1.1 = {
 		death = 291.1.1
@@ -3658,7 +3658,7 @@
 	}
 
 	291.4.1 = {
-		add_spouse=850
+		add_spouse = 850
 	}
 	369.1.1 = {
 		death = 369.1.1
@@ -3824,7 +3824,7 @@
 	}
 
 	299.4.1 = {
-		add_spouse=140
+		add_spouse = 140
 	}
 	372.1.1 = {
 		death = 372.1.1
@@ -3908,7 +3908,7 @@
 	}
 
 	311.4.1 = {
-		add_spouse=142
+		add_spouse = 142
 	}
 	390.1.1 = {
 		death = 390.1.1
@@ -4137,7 +4137,7 @@
 	}
 
 	269.4.1 = {
-		add_spouse=183
+		add_spouse = 183
 	}
 	285.1.1 = {
 		death = 285.1.1
@@ -4157,7 +4157,7 @@
 	}
 
 	269.4.1 = {
-		add_spouse=182
+		add_spouse = 182
 	}
 	335.1.1 = {
 		death = 335.1.1
@@ -4216,7 +4216,7 @@
 	}
 
 	286.4.1 = {
-		add_spouse=186
+		add_spouse = 186
 	}
 
 	287.4.1 = {
@@ -4250,7 +4250,7 @@
 	}
 
 	286.4.1 = {
-		add_spouse=185
+		add_spouse = 185
 	}
 	354.1.1 = {
 		death = 354.1.1
@@ -4336,7 +4336,7 @@
 	}
 
 	300.4.1 = {
-		add_spouse=727
+		add_spouse = 727
 	}
 	381.1.1 = {
 		death = 381.1.1
@@ -4590,7 +4590,7 @@
 	}
 
 	236.4.1 = {
-		add_spouse=200
+		add_spouse = 200
 	}
 	268.1.1 = {
 		death = 268.1.1
@@ -4607,7 +4607,7 @@
 	}
 
 	236.4.1 = {
-		add_spouse=199
+		add_spouse = 199
 	}
 	238.1.1 = {
 		death = 238.1.1
@@ -4680,7 +4680,7 @@
 	}
 
 	305.4.1 = {
-		add_spouse=204
+		add_spouse = 204
 	}
 	369.1.1 = {
 		death = 369.1.1
@@ -4710,7 +4710,7 @@
 	}
 
 	305.4.1 = {
-		add_spouse=203
+		add_spouse = 203
 	}
 	360.1.1 = {
 		death = 360.1.1
@@ -4743,7 +4743,7 @@
 	}
 
 	296.4.1 = {
-		add_spouse=206
+		add_spouse = 206
 	}
 	370.1.1 = {
 		death = 370.1.1
@@ -4773,7 +4773,7 @@
 	}
 
 	296.4.1 = {
-		add_spouse=205
+		add_spouse = 205
 	}
 	369.1.1 = {
 		death = 369.1.1
@@ -4820,7 +4820,7 @@
 	}
 
 	190.4.1 = {
-		add_spouse=209
+		add_spouse = 209
 	}
 	238.1.1 = {
 		death = 238.1.1
@@ -4837,7 +4837,7 @@
 	}
 
 	190.4.1 = {
-		add_spouse=208
+		add_spouse = 208
 	}
 	255.1.1 = {
 		death = 255.1.1
@@ -4880,7 +4880,7 @@
 	}
 
 	169.4.1 = {
-		add_spouse=212
+		add_spouse = 212
 	}
 	194.1.1 = {
 		death = 194.1.1
@@ -4898,7 +4898,7 @@
 	}
 
 	169.4.1 = {
-		add_spouse=211
+		add_spouse = 211
 	}
 	178.1.1 = {
 		death = 178.1.1
@@ -4915,7 +4915,7 @@
 	}
 
 	239.4.1 = {
-		add_spouse=214
+		add_spouse = 214
 	}
 	246.1.1 = {
 		death = 246.1.1
@@ -4935,7 +4935,7 @@
 	}
 
 	239.4.1 = {
-		add_spouse=213
+		add_spouse = 213
 	}
 	272.1.1 = {
 		death = 272.1.1
@@ -5182,7 +5182,7 @@
 	}
 
 	254.4.1 = {
-		add_spouse=226
+		add_spouse = 226
 	}
 	291.1.1 = {
 		death = 291.1.1
@@ -5201,7 +5201,7 @@
 	}
 
 	254.4.1 = {
-		add_spouse=225
+		add_spouse = 225
 	}
 	336.1.1 = {
 		death = 336.1.1
@@ -5229,7 +5229,7 @@
 	}
 
 	290.4.1 = {
-		add_spouse=36
+		add_spouse = 36
 	}
 	354.1.1 = {
 		death = 354.1.1
@@ -5422,7 +5422,7 @@
 	}
 
 	309.4.1 = {
-		add_spouse=59
+		add_spouse = 59
 	}
 	379.1.1 = {
 		death = 379.1.1
@@ -5541,7 +5541,7 @@
 	}
 
 	113.4.1 = {
-		add_spouse=242
+		add_spouse = 242
 	}
 	143.1.1 = {
 		death = 143.1.1
@@ -5559,7 +5559,7 @@
 	}
 
 	113.4.1 = {
-		add_spouse=241
+		add_spouse = 241
 	}
 	162.1.1 = {
 		death = 162.1.1
@@ -5837,8 +5837,11 @@
 	name = "Marceau" # Delmotte
 	culture = ithanian
 	religion = unionism
-	285.1.1 = {
-		birth = 285.1.1
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	303.4.1 = {
+		add_spouse = 722
 	}
 	385.1.1 = {
 		death = 385.1.1
@@ -5846,7 +5849,7 @@
 	dynasty = 44
 	father = 259
 
-	diplomacy = 13
+	diplomacy = 14
 	martial = 9
 	stewardship = 11
 	intrigue = 6
@@ -6008,7 +6011,7 @@
 	}
 
 	80.4.1 = {
-		add_spouse=273
+		add_spouse = 273
 	}
 	158.1.1 = {
 		death = 158.1.1
@@ -6081,7 +6084,7 @@
 	}
 
 	80.4.1 = {
-		add_spouse=268
+		add_spouse = 268
 	}
 	123.1.1 = {
 		death = 123.1.1
@@ -6598,7 +6601,7 @@
 	}
 
 	240.4.1 = {
-		add_spouse=309
+		add_spouse = 309
 	}
 	283.1.1 = {
 		death = 283.1.1
@@ -6617,7 +6620,7 @@
 	}
 
 	240.4.1 = {
-		add_spouse=308
+		add_spouse = 308
 	}
 	289.1.1 = {
 		death = 289.1.1
@@ -6728,7 +6731,7 @@
 	}
 
 	311.4.1 = {
-		add_spouse=660
+		add_spouse = 660
 	}
 	358.1.1 = {
 		death = 358.1.1
@@ -6974,7 +6977,7 @@
 	}
 
 	265.4.1 = {
-		add_spouse=389
+		add_spouse = 389
 	}
 	296.1.1 = {
 		death = 296.1.1
@@ -7225,7 +7228,7 @@
 	}
 
 	310.4.1 = {
-		add_spouse=397
+		add_spouse = 397
 	}
 	395.1.1 = {
 		death = 395.1.1
@@ -7377,7 +7380,7 @@
 	}
 
 	295.4.1 = {
-		add_spouse=341
+		add_spouse = 341
 	}
 	348.1.1 = {
 		death = 348.1.1
@@ -7408,7 +7411,7 @@
 	}
 
 	295.4.1 = {
-		add_spouse=340
+		add_spouse = 340
 	}
 	361.1.1 = {
 		death = 361.1.1
@@ -7643,7 +7646,7 @@
 	}
 
 	271.4.1 = {
-		add_spouse=351
+		add_spouse = 351
 	}
 	294.1.1 = {
 		death = 294.1.1
@@ -7660,7 +7663,7 @@
 	}
 
 	271.4.1 = {
-		add_spouse=350
+		add_spouse = 350
 	}
 	294.1.1 = {
 		death = 294.1.1
@@ -7704,7 +7707,7 @@
 	}
 
 	169.4.1 = {
-		add_spouse=354
+		add_spouse = 354
 	}
 	199.1.1 = {
 		death = 199.1.1
@@ -7722,7 +7725,7 @@
 	}
 
 	169.4.1 = {
-		add_spouse=353
+		add_spouse = 353
 	}
 	209.1.1 = {
 		death = 209.1.1
@@ -7740,7 +7743,7 @@
 	}
 
 	204.4.1 = {
-		add_spouse=356
+		add_spouse = 356
 	}
 	242.1.1 = {
 		death = 242.1.1
@@ -7760,7 +7763,7 @@
 	}
 
 	204.4.1 = {
-		add_spouse=355
+		add_spouse = 355
 	}
 	245.1.1 = {
 		death = 245.1.1
@@ -7777,7 +7780,7 @@
 	}
 
 	225.4.1 = {
-		add_spouse=358
+		add_spouse = 358
 	}
 	272.1.1 = {
 		death = 272.1.1
@@ -7797,7 +7800,7 @@
 	}
 
 	225.4.1 = {
-		add_spouse=357
+		add_spouse = 357
 	}
 	276.1.1 = {
 		death = 276.1.1
@@ -7814,7 +7817,7 @@
 	}
 
 	255.4.1 = {
-		add_spouse=360
+		add_spouse = 360
 	}
 	298.1.1 = {
 		death = 298.1.1
@@ -7834,7 +7837,7 @@
 	}
 
 	255.4.1 = {
-		add_spouse=359
+		add_spouse = 359
 	}
 	301.1.1 = {
 		death = 301.1.1
@@ -7853,7 +7856,7 @@
 	}
 
 	288.4.1 = {
-		add_spouse=379
+		add_spouse = 379
 	}
 	299.1.1 = {
 		death = 299.1.1
@@ -7872,7 +7875,7 @@
 	}
 
 	289.4.1 = {
-		add_spouse=365
+		add_spouse = 365
 	}
 	348.1.1 = {
 		death = 348.1.1
@@ -7951,7 +7954,7 @@
 	}
 
 	289.4.1 = {
-		add_spouse=362
+		add_spouse = 362
 	}
 	348.1.1 = {
 		death = 348.1.1
@@ -8198,7 +8201,7 @@
 	}
 
 	298.4.1 = {
-		add_spouse=375
+		add_spouse = 375
 	}
 	364.1.1 = {
 		death = 364.1.1
@@ -8227,7 +8230,7 @@
 	}
 
 	298.4.1 = {
-		add_spouse=374
+		add_spouse = 374
 	}
 	366.1.1 = {
 		death = 366.1.1
@@ -8338,7 +8341,7 @@
 	}
 
 	288.4.1 = {
-		add_spouse=361
+		add_spouse = 361
 	}
 	303.1.1 = {
 		death = 303.1.1
@@ -8370,7 +8373,7 @@
 	}
 
 	259.4.1 = {
-		add_spouse=383
+		add_spouse = 383
 	}
 	297.1.1 = {
 		death = 297.1.1
@@ -8390,7 +8393,7 @@
 	}
 
 	259.4.1 = {
-		add_spouse=382
+		add_spouse = 382
 	}
 	302.1.1 = {
 		death = 302.1.1
@@ -8473,7 +8476,7 @@
 	}
 
 	231.4.1 = {
-		add_spouse=388
+		add_spouse = 388
 	}
 	270.1.1 = {
 		death = 270.1.1
@@ -8491,7 +8494,7 @@
 	}
 
 	231.4.1 = {
-		add_spouse=387
+		add_spouse = 387
 	}
 	274.1.1 = {
 		death = 274.1.1
@@ -8508,7 +8511,7 @@
 	}
 
 	265.4.1 = {
-		add_spouse=324
+		add_spouse = 324
 	}
 	290.1.1 = {
 		death = 290.1.1
@@ -8525,7 +8528,7 @@
 	}
 
 	245.4.1 = {
-		add_spouse=391
+		add_spouse = 391
 	}
 	265.1.1 = {
 		death = 265.1.1
@@ -8543,7 +8546,7 @@
 	}
 
 	245.4.1 = {
-		add_spouse=390
+		add_spouse = 390
 	}
 	278.1.1 = {
 		death = 278.1.1
@@ -8560,7 +8563,7 @@
 	}
 
 	271.4.1 = {
-		add_spouse=395
+		add_spouse = 395
 	}
 	298.1.1 = {
 		death = 298.1.1
@@ -8580,7 +8583,7 @@
 	}
 
 	271.4.1 = {
-		add_spouse=394
+		add_spouse = 394
 	}
 	342.1.1 = {
 		death = 342.1.1
@@ -8611,7 +8614,7 @@
 	}
 
 	271.4.1 = {
-		add_spouse=393
+		add_spouse = 393
 	}
 	346.1.1 = {
 		death = 346.1.1
@@ -8643,7 +8646,7 @@
 	}
 
 	271.4.1 = {
-		add_spouse=392
+		add_spouse = 392
 	}
 	340.1.1 = {
 		death = 340.1.1
@@ -8688,7 +8691,7 @@
 	}
 
 	310.4.1 = {
-		add_spouse=334
+		add_spouse = 334
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -9024,7 +9027,7 @@
 	}
 
 	221.4.1 = {
-		add_spouse=412
+		add_spouse = 412
 	}
 	271.1.1 = {
 		death = 271.1.1
@@ -9041,7 +9044,7 @@
 	}
 
 	221.4.1 = {
-		add_spouse=411
+		add_spouse = 411
 	}
 	268.1.1 = {
 		death = 268.1.1
@@ -9073,7 +9076,7 @@
 	}
 
 	224.4.1 = {
-		add_spouse=415
+		add_spouse = 415
 	}
 	260.1.1 = {
 		death = 260.1.1
@@ -9091,7 +9094,7 @@
 	}
 
 	224.4.1 = {
-		add_spouse=414
+		add_spouse = 414
 	}
 	266.1.1 = {
 		death = 266.1.1
@@ -9122,7 +9125,7 @@
 	}
 
 	225.4.1 = {
-		add_spouse=418
+		add_spouse = 418
 	}
 	284.1.1 = {
 		death = 284.1.1
@@ -9139,7 +9142,7 @@
 	}
 
 	225.4.1 = {
-		add_spouse=417
+		add_spouse = 417
 	}
 	275.1.1 = {
 		death = 275.1.1
@@ -9157,7 +9160,7 @@
 	}
 
 	254.4.1 = {
-		add_spouse=420
+		add_spouse = 420
 	}
 	289.1.1 = {
 		death = 289.1.1
@@ -9176,7 +9179,7 @@
 	}
 
 	254.4.1 = {
-		add_spouse=419
+		add_spouse = 419
 	}
 	293.1.1 = {
 		death = 293.1.1
@@ -9194,7 +9197,7 @@
 	}
 
 	249.4.1 = {
-		add_spouse=422
+		add_spouse = 422
 	}
 	292.1.1 = {
 		death = 292.1.1
@@ -9213,7 +9216,7 @@
 	}
 
 	249.4.1 = {
-		add_spouse=421
+		add_spouse = 421
 	}
 	280.1.1 = {
 		death = 280.1.1
@@ -9233,7 +9236,7 @@
 	}
 
 	246.4.1 = {
-		add_spouse=424
+		add_spouse = 424
 	}
 	296.1.1 = {
 		death = 296.1.1
@@ -9252,7 +9255,7 @@
 	}
 
 	246.4.1 = {
-		add_spouse=423
+		add_spouse = 423
 	}
 	295.1.1 = {
 		death = 295.1.1
@@ -9272,7 +9275,7 @@
 	}
 
 	282.4.1 = {
-		add_spouse=426
+		add_spouse = 426
 	}
 	355.1.1 = {
 		death = 355.1.1
@@ -9303,7 +9306,7 @@
 	}
 
 	282.4.1 = {
-		add_spouse=425
+		add_spouse = 425
 	}
 	300.1.1 = {
 		death = 300.1.1
@@ -9323,7 +9326,7 @@
 	}
 
 	276.4.1 = {
-		add_spouse=428
+		add_spouse = 428
 	}
 	350.1.1 = {
 		death = 350.1.1
@@ -9355,7 +9358,7 @@
 	}
 
 	276.4.1 = {
-		add_spouse=427
+		add_spouse = 427
 	}
 	347.1.1 = {
 		death = 347.1.1
@@ -9387,7 +9390,7 @@
 	}
 
 	295.4.1 = {
-		add_spouse=433
+		add_spouse = 433
 	}
 
 	304.4.1 = {
@@ -9501,12 +9504,12 @@
 	}
 
 	295.4.1 = {
-		add_spouse=429
+		add_spouse = 429
 	}
 
 	304.4.1 = {
 		#remove_spouse = 429
-		add_spouse=434
+		add_spouse = 434
 	}
 	377.1.1 = {
 		death = 377.1.1
@@ -9538,7 +9541,7 @@
 	}
 
 	304.4.1 = {
-		add_spouse=433
+		add_spouse = 433
 	}
 	376.1.1 = {
 		death = 376.1.1
@@ -9570,7 +9573,7 @@
 	}
 
 	295.4.1 = {
-		add_spouse=437
+		add_spouse = 437
 	}
 	373.1.1 = {
 		death = 373.1.1
@@ -9627,7 +9630,7 @@
 	}
 
 	295.4.1 = {
-		add_spouse=435
+		add_spouse = 435
 	}
 	375.1.1 = {
 		death = 375.1.1
@@ -9791,7 +9794,7 @@
 	}
 
 	194.4.1 = {
-		add_spouse=445
+		add_spouse = 445
 	}
 	258.1.1 = {
 		death = 258.1.1
@@ -9809,7 +9812,7 @@
 	}
 
 	194.4.1 = {
-		add_spouse=444
+		add_spouse = 444
 	}
 	261.1.1 = {
 		death = 261.1.1
@@ -9827,7 +9830,7 @@
 	}
 
 	217.4.1 = {
-		add_spouse=447
+		add_spouse = 447
 	}
 	264.1.1 = {
 		death = 264.1.1
@@ -9847,7 +9850,7 @@
 	}
 
 	217.4.1 = {
-		add_spouse=446
+		add_spouse = 446
 	}
 	242.1.1 = {
 		death = 242.1.1
@@ -9865,7 +9868,7 @@
 	}
 
 	249.4.1 = {
-		add_spouse=449
+		add_spouse = 449
 	}
 	291.1.1 = {
 		death = 291.1.1
@@ -9885,7 +9888,7 @@
 	}
 
 	249.4.1 = {
-		add_spouse=448
+		add_spouse = 448
 	}
 	288.1.1 = {
 		death = 288.1.1
@@ -9902,11 +9905,11 @@
 	}
 
 	277.4.1 = {
-		add_spouse=454
+		add_spouse = 454
 	}
 
 	283.4.1 = {
-		add_spouse=451
+		add_spouse = 451
 		#remove_spouse = 454
 	}
 	342.1.1 = {
@@ -9939,7 +9942,7 @@
 	}
 
 	283.4.1 = {
-		add_spouse=450
+		add_spouse = 450
 	}
 	346.1.1 = {
 		death = 346.1.1
@@ -9968,7 +9971,7 @@
 	}
 
 	289.4.1 = {
-		add_spouse=453
+		add_spouse = 453
 	}
 	345.1.1 = {
 		death = 345.1.1
@@ -10000,7 +10003,7 @@
 	}
 
 	289.4.1 = {
-		add_spouse=452
+		add_spouse = 452
 	}
 	347.1.1 = {
 		death = 347.1.1
@@ -10030,7 +10033,7 @@
 	}
 
 	277.4.1 = {
-		add_spouse=450
+		add_spouse = 450
 	}
 
 	283.4.1 = {
@@ -10118,7 +10121,7 @@
 	}
 
 	294.4.1 = {
-		add_spouse=458
+		add_spouse = 458
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -10149,7 +10152,7 @@
 	}
 
 	294.4.1 = {
-		add_spouse=457
+		add_spouse = 457
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -10530,7 +10533,7 @@
 	}
 
 	297.4.1 = {
-		add_spouse=475
+		add_spouse = 475
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -10588,7 +10591,7 @@
 	}
 
 	297.4.1 = {
-		add_spouse=473
+		add_spouse = 473
 	}
 	349.1.1 = {
 		death = 349.1.1
@@ -10690,7 +10693,7 @@
 	}
 
 	286.4.1 = {
-		add_spouse=45
+		add_spouse = 45
 	}
 	350.1.1 = {
 		death = 350.1.1
@@ -10722,7 +10725,7 @@
 	}
 
 	222.4.1 = {
-		add_spouse=481
+		add_spouse = 481
 	}
 	266.1.1 = {
 		death = 266.1.1
@@ -10740,7 +10743,7 @@
 	}
 
 	222.4.1 = {
-		add_spouse=480
+		add_spouse = 480
 	}
 	273.1.1 = {
 		death = 273.1.1
@@ -10758,7 +10761,7 @@
 	}
 
 	262.4.1 = {
-		add_spouse=483
+		add_spouse = 483
 	}
 	287.1.1 = {
 		death = 287.1.1
@@ -10778,7 +10781,7 @@
 	}
 
 	262.4.1 = {
-		add_spouse=482
+		add_spouse = 482
 	}
 	295.1.1 = {
 		death = 295.1.1
@@ -11165,7 +11168,7 @@
 	}
 
 	269.4.1 = {
-		add_spouse=501
+		add_spouse = 501
 	}
 	331.1.1 = {
 		death = 331.1.1
@@ -11195,7 +11198,7 @@
 	}
 
 	269.4.1 = {
-		add_spouse=500
+		add_spouse = 500
 	}
 	346.1.1 = {
 		death = 346.1.1
@@ -11225,11 +11228,11 @@
 	}
 
 	280.4.1 = {
-		add_spouse=506
+		add_spouse = 506
 	}
 
 	294.4.1 = {
-		add_spouse=503
+		add_spouse = 503
 		#remove_spouse = 506
 	}
 	303.1.1 = {
@@ -11250,7 +11253,7 @@
 	}
 
 	294.4.1 = {
-		add_spouse=502
+		add_spouse = 502
 	}
 	373.1.1 = {
 		death = 373.1.1
@@ -11336,7 +11339,7 @@
 	}
 
 	280.4.1 = {
-		add_spouse=502
+		add_spouse = 502
 	}
 
 	294.4.1 = {
@@ -11679,7 +11682,7 @@
 	}
 
 	293.4.1 = {
-		add_spouse=523
+		add_spouse = 523
 	}
 	357.1.1 = {
 		death = 357.1.1
@@ -11711,7 +11714,7 @@
 	}
 
 	293.4.1 = {
-		add_spouse=522
+		add_spouse = 522
 	}
 	355.1.1 = {
 		death = 355.1.1
@@ -11903,7 +11906,7 @@
 	}
 
 	295.4.1 = {
-		add_spouse=531
+		add_spouse = 531
 	}
 	372.1.1 = {
 		death = 372.1.1
@@ -11932,7 +11935,7 @@
 	}
 
 	295.4.1 = {
-		add_spouse=530
+		add_spouse = 530
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -11965,7 +11968,7 @@
 	}
 
 	264.4.1 = {
-		add_spouse=533
+		add_spouse = 533
 	}
 	341.1.1 = {
 		death = 341.1.1
@@ -11993,7 +11996,7 @@
 	}
 
 	264.4.1 = {
-		add_spouse=532
+		add_spouse = 532
 	}
 	336.1.1 = {
 		death = 336.1.1
@@ -12048,7 +12051,7 @@
 	}
 
 	141.4.1 = {
-		add_spouse=536
+		add_spouse = 536
 	}
 	185.1.1 = {
 		death = 185.1.1
@@ -12066,7 +12069,7 @@
 	}
 
 	141.4.1 = {
-		add_spouse=535
+		add_spouse = 535
 	}
 	190.1.1 = {
 		death = 190.1.1
@@ -12083,7 +12086,7 @@
 	}
 
 	173.4.1 = {
-		add_spouse=539
+		add_spouse = 539
 	}
 	215.1.1 = {
 		death = 215.1.1
@@ -12119,7 +12122,7 @@
 	}
 
 	173.4.1 = {
-		add_spouse=537
+		add_spouse = 537
 	}
 	220.1.1 = {
 		death = 220.1.1
@@ -12136,7 +12139,7 @@
 	}
 
 	209.4.1 = {
-		add_spouse=546
+		add_spouse = 546
 	}
 	245.1.1 = {
 		death = 245.1.1
@@ -12156,7 +12159,7 @@
 	}
 
 	196.4.1 = {
-		add_spouse=543
+		add_spouse = 543
 	}
 	247.1.1 = {
 		death = 247.1.1
@@ -12191,7 +12194,7 @@
 	}
 
 	196.4.1 = {
-		add_spouse=541
+		add_spouse = 541
 	}
 	245.1.1 = {
 		death = 245.1.1
@@ -12240,7 +12243,7 @@
 	}
 
 	209.4.1 = {
-		add_spouse=540
+		add_spouse = 540
 	}
 	249.1.1 = {
 		death = 249.1.1
@@ -12257,7 +12260,7 @@
 	}
 
 	229.4.1 = {
-		add_spouse=570
+		add_spouse = 570
 	}
 	277.1.1 = {
 		death = 277.1.1
@@ -12276,7 +12279,7 @@
 	}
 
 	233.4.1 = {
-		add_spouse=552
+		add_spouse = 552
 	}
 	279.1.1 = {
 		death = 279.1.1
@@ -12295,7 +12298,7 @@
 	}
 
 	237.4.1 = {
-		add_spouse=558
+		add_spouse = 558
 	}
 	281.1.1 = {
 		death = 281.1.1
@@ -12334,7 +12337,7 @@
 	}
 
 	256.4.1 = {
-		add_spouse=567
+		add_spouse = 567
 	}
 	285.1.1 = {
 		death = 285.1.1
@@ -12354,7 +12357,7 @@
 	}
 
 	233.4.1 = {
-		add_spouse=548
+		add_spouse = 548
 	}
 	285.1.1 = {
 		death = 285.1.1
@@ -12371,7 +12374,7 @@
 	}
 
 	264.4.1 = {
-		add_spouse=554
+		add_spouse = 554
 	}
 	309.1.1 = {
 		death = 309.1.1
@@ -12391,7 +12394,7 @@
 	}
 
 	264.4.1 = {
-		add_spouse=553
+		add_spouse = 553
 	}
 	313.1.1 = {
 		death = 313.1.1
@@ -12491,7 +12494,7 @@
 	}
 
 	237.4.1 = {
-		add_spouse=549
+		add_spouse = 549
 	}
 	285.1.1 = {
 		death = 285.1.1
@@ -12665,7 +12668,7 @@
 	}
 
 	256.4.1 = {
-		add_spouse=551
+		add_spouse = 551
 	}
 	307.1.1 = {
 		death = 307.1.1
@@ -12741,7 +12744,7 @@
 	}
 
 	229.4.1 = {
-		add_spouse=547
+		add_spouse = 547
 	}
 	280.1.1 = {
 		death = 280.1.1
@@ -12758,7 +12761,7 @@
 	}
 
 	258.4.1 = {
-		add_spouse=572
+		add_spouse = 572
 	}
 	305.1.1 = {
 		death = 305.1.1
@@ -12778,7 +12781,7 @@
 	}
 
 	258.4.1 = {
-		add_spouse=571
+		add_spouse = 571
 	}
 	308.1.1 = {
 		death = 308.1.1
@@ -12850,7 +12853,7 @@
 	}
 
 	284.4.1 = {
-		add_spouse=576
+		add_spouse = 576
 	}
 	357.1.1 = {
 		death = 357.1.1
@@ -12882,7 +12885,7 @@
 	}
 
 	284.4.1 = {
-		add_spouse=575
+		add_spouse = 575
 	}
 	359.1.1 = {
 		death = 359.1.1
@@ -13006,7 +13009,7 @@
 	}
 
 	291.4.1 = {
-		add_spouse=582
+		add_spouse = 582
 	}
 	355.1.1 = {
 		death = 355.1.1
@@ -13039,7 +13042,7 @@
 	}
 
 	291.4.1 = {
-		add_spouse=581
+		add_spouse = 581
 	}
 	357.1.1 = {
 		death = 357.1.1
@@ -13122,7 +13125,7 @@
 	}
 
 	293.4.1 = {
-		add_spouse=593
+		add_spouse = 593
 	}
 	369.1.1 = {
 		death = 369.1.1
@@ -13208,7 +13211,7 @@
 	}
 
 	301.4.1 = {
-		add_spouse=605
+		add_spouse = 605
 	}
 	383.1.1 = {
 		death = 383.1.1
@@ -13346,7 +13349,7 @@
 	}
 
 	293.4.1 = {
-		add_spouse=585
+		add_spouse = 585
 	}
 	371.1.1 = {
 		death = 371.1.1
@@ -13676,7 +13679,7 @@
 	}
 
 	301.4.1 = {
-		add_spouse=588
+		add_spouse = 588
 	}
 	385.1.1 = {
 		death = 385.1.1
@@ -13857,7 +13860,7 @@
 	}
 
 	268.4.1 = {
-		add_spouse=614
+		add_spouse = 614
 	}
 	300.1.1 = {
 		death = 300.1.1
@@ -13874,7 +13877,7 @@
 	}
 
 	268.4.1 = {
-		add_spouse=613
+		add_spouse = 613
 	}
 	297.1.1 = {
 		death = 297.1.1
@@ -13891,7 +13894,7 @@
 	}
 
 	242.4.1 = {
-		add_spouse=616
+		add_spouse = 616
 	}
 	277.1.1 = {
 		death = 277.1.1
@@ -13909,7 +13912,7 @@
 	}
 
 	242.4.1 = {
-		add_spouse=615
+		add_spouse = 615
 	}
 	281.1.1 = {
 		death = 281.1.1
@@ -13926,7 +13929,7 @@
 	}
 
 	265.4.1 = {
-		add_spouse=618
+		add_spouse = 618
 	}
 	304.1.1 = {
 		death = 304.1.1
@@ -13946,7 +13949,7 @@
 	}
 
 	265.4.1 = {
-		add_spouse=617
+		add_spouse = 617
 	}
 	341.1.1 = {
 		death = 341.1.1
@@ -14017,16 +14020,16 @@
 	}
 
 	287.4.1 = {
-		add_spouse=622
+		add_spouse = 622
 	}
 
 	292.4.1 = {
 		#remove_spouse = 622
-		add_spouse=624
+		add_spouse = 624
 	}
 
 	312.4.1 = {
-		add_spouse=623
+		add_spouse = 623
 		#remove_spouse = 624
 	}
 	363.1.1 = {
@@ -14059,7 +14062,7 @@
 	}
 
 	287.4.1 = {
-		add_spouse=621
+		add_spouse = 621
 	}
 
 	292.4.1 = {
@@ -14081,7 +14084,7 @@
 	}
 
 	312.4.1 = {
-		add_spouse=621
+		add_spouse = 621
 	}
 	397.1.1 = {
 		death = 397.1.1
@@ -14112,7 +14115,7 @@
 	}
 
 	292.4.1 = {
-		add_spouse=621
+		add_spouse = 621
 	}
 
 	312.4.1 = {
@@ -14199,7 +14202,7 @@
 	}
 
 	312.4.1 = {
-		add_spouse=794
+		add_spouse = 794
 	}
 	388.1.1 = {
 		death = 388.1.1
@@ -14474,7 +14477,7 @@
 	}
 
 	237.4.1 = {
-		add_spouse=671
+		add_spouse = 671
 	}
 	282.1.1 = {
 		death = 282.1.1
@@ -14671,7 +14674,7 @@
 	}
 
 	306.4.1 = {
-		add_spouse=650
+		add_spouse = 650
 	}
 	388.1.1 = {
 		death = 388.1.1
@@ -14699,7 +14702,7 @@
 	}
 
 	306.4.1 = {
-		add_spouse=649
+		add_spouse = 649
 	}
 	385.1.1 = {
 		death = 385.1.1
@@ -14912,7 +14915,7 @@
 	}
 
 	311.4.1 = {
-		add_spouse=314
+		add_spouse = 314
 	}
 	384.1.1 = {
 		death = 384.1.1
@@ -15161,7 +15164,7 @@
 	}
 
 	237.4.1 = {
-		add_spouse=639
+		add_spouse = 639
 	}
 	302.1.1 = {
 		death = 302.1.1
@@ -15397,7 +15400,7 @@
 	}
 
 	222.4.1 = {
-		add_spouse=682
+		add_spouse = 682
 	}
 	255.1.1 = {
 		death = 255.1.1
@@ -15415,7 +15418,7 @@
 	}
 
 	222.4.1 = {
-		add_spouse=681
+		add_spouse = 681
 	}
 	260.1.1 = {
 		death = 260.1.1
@@ -15446,7 +15449,7 @@
 	}
 
 	240.4.1 = {
-		add_spouse=685
+		add_spouse = 685
 	}
 	270.1.1 = {
 		death = 270.1.1
@@ -15465,7 +15468,7 @@
 	}
 
 	240.4.1 = {
-		add_spouse=684
+		add_spouse = 684
 	}
 	275.1.1 = {
 		death = 275.1.1
@@ -15668,7 +15671,7 @@
 	}
 
 	269.4.1 = {
-		add_spouse=737
+		add_spouse = 737
 	}
 	312.1.1 = {
 		death = 312.1.1
@@ -15766,7 +15769,7 @@
 	}
 
 	272.4.1 = {
-		add_spouse=702
+		add_spouse = 702
 	}
 	341.1.1 = {
 		death = 341.1.1
@@ -15913,7 +15916,7 @@
 	}
 
 	272.4.1 = {
-		add_spouse=697
+		add_spouse = 697
 	}
 	344.1.1 = {
 		death = 344.1.1
@@ -15943,7 +15946,7 @@
 	}
 
 	287.4.1 = {
-		add_spouse=707
+		add_spouse = 707
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -16061,7 +16064,7 @@
 	}
 
 	287.4.1 = {
-		add_spouse=703
+		add_spouse = 703
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -16144,7 +16147,7 @@
 	}
 
 	203.4.1 = {
-		add_spouse=711
+		add_spouse = 711
 	}
 	240.1.1 = {
 		death = 240.1.1
@@ -16162,7 +16165,7 @@
 	}
 
 	203.4.1 = {
-		add_spouse=710
+		add_spouse = 710
 	}
 	245.1.1 = {
 		death = 245.1.1
@@ -16193,7 +16196,7 @@
 	}
 
 	244.4.1 = {
-		add_spouse=714
+		add_spouse = 714
 	}
 	280.1.1 = {
 		death = 280.1.1
@@ -16211,7 +16214,7 @@
 	}
 
 	244.4.1 = {
-		add_spouse=713
+		add_spouse = 713
 	}
 	282.1.1 = {
 		death = 282.1.1
@@ -16228,7 +16231,7 @@
 	}
 
 	264.4.1 = {
-		add_spouse=716
+		add_spouse = 716
 	}
 	310.1.1 = {
 		death = 310.1.1
@@ -16248,7 +16251,7 @@
 	}
 
 	264.4.1 = {
-		add_spouse=715
+		add_spouse = 715
 	}
 	307.1.1 = {
 		death = 307.1.1
@@ -16266,7 +16269,7 @@
 	}
 
 	303.4.1 = {
-		add_spouse=718
+		add_spouse = 718
 	}
 	364.1.1 = {
 		death = 364.1.1
@@ -16298,7 +16301,7 @@
 	}
 
 	303.4.1 = {
-		add_spouse=717
+		add_spouse = 717
 	}
 	362.1.1 = {
 		death = 362.1.1
@@ -16397,8 +16400,11 @@
 	culture = wirtem
 	religion = unionism
 	female = yes
-	302.1.1 = {
-		birth = 302.1.1
+	285.1.1 = {
+		birth = 285.1.1
+	}
+	303.4.1 = {
+		add_spouse = 260
 	}
 	402.1.1 = {
 		death = 402.1.1
@@ -16448,7 +16454,7 @@
 	}
 
 	302.4.1 = {
-		add_spouse=726
+		add_spouse = 726
 	}
 	350.1.1 = {
 		death = 350.1.1
@@ -16481,7 +16487,7 @@
 	}
 
 	302.4.1 = {
-		add_spouse=725
+		add_spouse = 725
 	}
 	312.1.1 = {
 		death = 312.1.1
@@ -16499,7 +16505,7 @@
 	}
 
 	300.4.1 = {
-		add_spouse=189
+		add_spouse = 189
 	}
 	303.1.1 = {
 		death = 303.1.1
@@ -16684,7 +16690,7 @@
 	}
 
 	269.4.1 = {
-		add_spouse=693
+		add_spouse = 693
 	}
 	351.1.1 = {
 		death = 351.1.1
@@ -16796,7 +16802,7 @@
 	}
 
 	219.4.1 = {
-		add_spouse=744
+		add_spouse = 744
 	}
 	272.1.1 = {
 		death = 272.1.1
@@ -16814,7 +16820,7 @@
 	}
 
 	219.4.1 = {
-		add_spouse=743
+		add_spouse = 743
 	}
 	276.1.1 = {
 		death = 276.1.1
@@ -16831,7 +16837,7 @@
 	}
 
 	243.4.1 = {
-		add_spouse=746
+		add_spouse = 746
 	}
 	293.1.1 = {
 		death = 293.1.1
@@ -16851,7 +16857,7 @@
 	}
 
 	243.4.1 = {
-		add_spouse=745
+		add_spouse = 745
 	}
 	296.1.1 = {
 		death = 296.1.1
@@ -16868,7 +16874,7 @@
 	}
 
 	267.4.1 = {
-		add_spouse=748
+		add_spouse = 748
 	}
 	308.1.1 = {
 		death = 308.1.1
@@ -16888,7 +16894,7 @@
 	}
 
 	267.4.1 = {
-		add_spouse=747
+		add_spouse = 747
 	}
 	310.1.1 = {
 		death = 310.1.1
@@ -16906,7 +16912,7 @@
 	}
 
 	269.4.1 = {
-		add_spouse=750
+		add_spouse = 750
 	}
 	309.1.1 = {
 		death = 309.1.1
@@ -16926,7 +16932,7 @@
 	}
 
 	269.4.1 = {
-		add_spouse=749
+		add_spouse = 749
 	}
 	312.1.1 = {
 		death = 312.1.1
@@ -16944,7 +16950,7 @@
 	}
 
 	296.4.1 = {
-		add_spouse=752
+		add_spouse = 752
 	}
 	362.1.1 = {
 		death = 362.1.1
@@ -16975,7 +16981,7 @@
 	}
 
 	296.4.1 = {
-		add_spouse=751
+		add_spouse = 751
 	}
 	370.1.1 = {
 		death = 370.1.1
@@ -17004,7 +17010,7 @@
 	}
 
 	292.4.1 = {
-		add_spouse=754
+		add_spouse = 754
 	}
 	364.1.1 = {
 		death = 364.1.1
@@ -17037,7 +17043,7 @@
 	}
 
 	292.4.1 = {
-		add_spouse=753
+		add_spouse = 753
 	}
 	370.1.1 = {
 		death = 370.1.1
@@ -17066,7 +17072,7 @@
 	}
 
 	294.4.1 = {
-		add_spouse=756
+		add_spouse = 756
 	}
 	366.1.1 = {
 		death = 366.1.1
@@ -17098,7 +17104,7 @@
 	}
 
 	294.4.1 = {
-		add_spouse=755
+		add_spouse = 755
 	}
 	365.1.1 = {
 		death = 365.1.1
@@ -17747,7 +17753,7 @@
 	}
 
 	296.4.1 = {
-		add_spouse=783
+		add_spouse = 783
 	}
 	373.1.1 = {
 		death = 373.1.1
@@ -17779,7 +17785,7 @@
 	}
 
 	296.4.1 = {
-		add_spouse=782
+		add_spouse = 782
 	}
 	370.1.1 = {
 		death = 370.1.1
@@ -18055,7 +18061,7 @@
 	}
 
 	312.4.1 = {
-		add_spouse=627
+		add_spouse = 627
 	}
 	395.1.1 = {
 		death = 395.1.1
@@ -18217,7 +18223,7 @@
 	}
 
 	295.4.1 = {
-		add_spouse=803
+		add_spouse = 803
 	}
 	367.1.1 = {
 		death = 367.1.1
@@ -18248,7 +18254,7 @@
 	}
 
 	295.4.1 = {
-		add_spouse=802
+		add_spouse = 802
 	}
 	362.1.1 = {
 		death = 362.1.1
@@ -18443,7 +18449,7 @@
 	}
 
 	201.4.1 = {
-		add_spouse=812
+		add_spouse = 812
 	}
 	260.1.1 = {
 		death = 260.1.1
@@ -18460,7 +18466,7 @@
 	}
 
 	201.4.1 = {
-		add_spouse=811
+		add_spouse = 811
 	}
 	255.1.1 = {
 		death = 255.1.1
@@ -18600,7 +18606,7 @@
 	}
 
 	249.4.1 = {
-		add_spouse=820
+		add_spouse = 820
 	}
 	305.1.1 = {
 		death = 305.1.1
@@ -18619,7 +18625,7 @@
 	}
 
 	249.4.1 = {
-		add_spouse=819
+		add_spouse = 819
 	}
 	302.1.1 = {
 		death = 302.1.1
@@ -18701,7 +18707,7 @@
 	}
 
 	251.4.1 = {
-		add_spouse=825
+		add_spouse = 825
 	}
 	299.1.1 = {
 		death = 299.1.1
@@ -18721,7 +18727,7 @@
 	}
 
 	251.4.1 = {
-		add_spouse=824
+		add_spouse = 824
 	}
 	310.1.1 = {
 		death = 310.1.1
@@ -18821,7 +18827,7 @@
 	}
 
 	257.4.1 = {
-		add_spouse=830
+		add_spouse = 830
 	}
 	305.1.1 = {
 		death = 305.1.1
@@ -18841,7 +18847,7 @@
 	}
 
 	257.4.1 = {
-		add_spouse=829
+		add_spouse = 829
 	}
 	310.1.1 = {
 		death = 310.1.1
@@ -19290,7 +19296,7 @@
 	}
 
 	291.4.1 = {
-		add_spouse=162
+		add_spouse = 162
 	}
 	366.1.1 = {
 		death = 366.1.1
@@ -19375,7 +19381,7 @@
 	}
 
 	265.4.1 = {
-		add_spouse=854
+		add_spouse = 854
 	}
 	283.1.1 = {
 		death = 283.1.1
@@ -19395,7 +19401,7 @@
 	}
 
 	265.4.1 = {
-		add_spouse=853
+		add_spouse = 853
 	}
 	289.1.1 = {
 		death = 289.1.1
@@ -19453,7 +19459,7 @@
 	}
 
 	237.4.1 = {
-		add_spouse=859
+		add_spouse = 859
 	}
 	268.1.1 = {
 		death = 268.1.1
@@ -19470,7 +19476,7 @@
 	}
 
 	237.4.1 = {
-		add_spouse=858
+		add_spouse = 858
 	}
 	252.1.1 = {
 		death = 252.1.1
@@ -19516,7 +19522,7 @@
 	}
 
 	266.4.1 = {
-		add_spouse=862
+		add_spouse = 862
 	}
 	331.1.1 = {
 		death = 331.1.1
@@ -19546,7 +19552,7 @@
 	}
 
 	266.4.1 = {
-		add_spouse=861
+		add_spouse = 861
 	}
 	276.1.1 = {
 		death = 276.1.1
@@ -19563,7 +19569,7 @@
 	}
 
 	295.4.1 = {
-		add_spouse=864
+		add_spouse = 864
 	}
 	353.1.1 = {
 		death = 353.1.1
@@ -19594,7 +19600,7 @@
 	}
 
 	295.4.1 = {
-		add_spouse=863
+		add_spouse = 863
 	}
 	353.1.1 = {
 		death = 353.1.1
@@ -19909,7 +19915,7 @@
 	}
 
 	291.4.1 = {
-		add_spouse=878
+		add_spouse = 878
 	}
 	351.1.1 = {
 		death = 351.1.1
@@ -19939,7 +19945,7 @@
 	}
 
 	291.4.1 = {
-		add_spouse=877
+		add_spouse = 877
 	}
 	358.1.1 = {
 		death = 358.1.1
@@ -20080,7 +20086,7 @@
 	}
 
 	292.4.1 = {
-		add_spouse=884
+		add_spouse = 884
 	}
 	363.1.1 = {
 		death = 363.1.1
@@ -20108,7 +20114,7 @@
 	}
 
 	292.4.1 = {
-		add_spouse=883
+		add_spouse = 883
 	}
 	305.1.1 = {
 		death = 305.1.1
@@ -20704,8 +20710,8 @@
 	name = "Roulain" # Bavere
 	culture = ithanian
 	religion = unionism
-	287.1.1 = {
-		birth = 287.1.1
+	289.1.1 = {
+		birth = 289.1.1
 	}
 	387.1.1 = {
 		death = 387.1.1
@@ -23763,7 +23769,7 @@
 	dynasty = 120
 
 	diplomacy = 5
-	martial = 5
+	martial = 6
 	stewardship = 5
 	intrigue = 5
 	learning = 5
@@ -23797,7 +23803,7 @@
 	}
 
 	294.4.1 = {
-		add_spouse=1039
+		add_spouse = 1039
 	}
 	295.1.1 = {
 		death = 295.1.1
@@ -23998,7 +24004,7 @@
 	}
 
 	294.4.1 = {
-		add_spouse=1031
+		add_spouse = 1031
 	}
 	395.1.1 = {
 		death = 395.1.1
@@ -24340,4 +24346,109 @@
 	add_trait = "brave"
 	add_trait = "homosexual"
 	disallow_random_traits = yes
+}
+
+1055 = {
+	name = "Bianca" # Bavere
+	culture = ithanian
+	religion = unionism
+	female = yes
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	391.1.1 = {
+		death = 391.1.1
+	}
+	dynasty = 195
+}
+
+1056 = {
+	name = "Pauline" # Bavere
+	culture = ithanian
+	religion = unionism
+	female = yes
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	391.1.1 = {
+		death = 391.1.1
+	}
+	dynasty = 195
+	mother = 181
+
+	diplomacy = 11
+	martial = 5
+	stewardship = 5
+	intrigue = 9
+	learning = 8
+	add_trait = "scholarly_theologian"
+	add_trait = "kind"
+	add_trait = "patient"
+	add_trait = "poet"
+	add_trait = "paranoid"
+	disallow_random_traits = yes
+}
+
+1056 = {
+	name = "Francis" # Delmotte
+	culture = ithanian
+	religion = unionism
+	female = yes
+	310.1.1 = {
+		birth = 310.1.1
+	}
+	410.1.1 = {
+		death = 410.1.1
+	}
+	dynasty = 195
+	father = 260
+	mother = 722
+}
+
+1057 = {
+	name = "William" # Delmotte
+	culture = ithanian
+	religion = unionism
+	310.1.1 = {
+		birth = 310.1.1
+	}
+	410.1.1 = {
+		death = 410.1.1
+	}
+	dynasty = 195
+	father = 260
+	mother = 722
+
+	add_trait = "twin"
+}
+
+1058 = {
+	name = "Ethan" # Delmotte
+	culture = ithanian
+	religion = unionism
+	310.1.1 = {
+		birth = 313.1.1
+	}
+	410.1.1 = {
+		death = 413.1.1
+	}
+	dynasty = 195
+	father = 260
+	mother = 722
+}
+
+1059 = {
+	name = "Justine" # Delmotte
+	culture = ithanian
+	religion = unionism
+	female = yes
+	310.1.1 = {
+		birth = 313.1.1
+	}
+	410.1.1 = {
+		death = 413.1.1
+	}
+	dynasty = 195
+	father = 260
+	mother = 722
 }

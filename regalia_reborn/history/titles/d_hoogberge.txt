@@ -1,4 +1,4 @@
 315.1.1 = {
-	holder = 124
+	holder = 124 # Aliandra Kade
 	law = succ_primogeniture
 }

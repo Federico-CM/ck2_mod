@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 928
+	holder = 928 # Lucien Moreau
 	law = succ_primogeniture
 	law = agnatic_succession
 }

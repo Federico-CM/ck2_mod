@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 801
+	holder = 801 # Garth Viduggla
 	law = succ_primogeniture
 	law = agnatic_succession
 }

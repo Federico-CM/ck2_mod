@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 985
+	holder = 985 # Taras Melnyk
 	law = succ_primogeniture
 	law = agnatic_succession
 }

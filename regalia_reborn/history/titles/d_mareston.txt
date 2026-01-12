@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 943
+	holder = 943 # Caltram Uindacos
 	law = succ_primogeniture
 	law = agnatic_succession
 }

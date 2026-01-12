@@ -1,5 +1,5 @@
 315.1.1 = {
-    holder = 334
+    holder = 334 # Vivienne d'Eluise
 	law = succ_primogeniture
 	law = agnatic_succession
 }

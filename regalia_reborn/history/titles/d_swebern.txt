@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 666
+	holder = 666 # Florian du Poncaire
 	law = succ_primogeniture
 	law = agnatic_succession
 }

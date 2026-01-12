@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 961
+	holder = 961 # Martin Keller
 	law = succ_primogeniture
 	law = agnatic_succession
 }

@@ -1,5 +1,5 @@
 315.1.1 = {
-    holder = 352
+    holder = 352 # Raffaello Lampero
 	law = succ_primogeniture
 	law = agnatic_succession
 }

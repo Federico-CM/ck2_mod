@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 1025
+	holder = 1025 # Harald Halfdaneson
 	law = succ_primogeniture
 	law = agnatic_succession
 }

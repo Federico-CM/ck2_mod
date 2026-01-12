@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 929
+	holder = 929 # Pierre Lafont
 	law = succ_primogeniture
 	law = agnatic_succession
 }

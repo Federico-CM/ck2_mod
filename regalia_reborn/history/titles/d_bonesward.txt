@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 860
+	holder = 860 # Ruzgar Sever
 	law = succ_primogeniture
 	law = agnatic_succession
 }

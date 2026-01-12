@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 1013
+	holder = 1013 # Youssef Farouk
 	law = succ_primogeniture
 	law = agnatic_succession
 }

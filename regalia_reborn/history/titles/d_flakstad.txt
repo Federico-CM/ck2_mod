@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 624
+	holder = 624 # Marikka av Medelpad
 	law = succ_primogeniture
 	law = agnatic_succession
 }

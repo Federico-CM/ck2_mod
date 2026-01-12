@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 994
+	holder = 994 # Demetrios Lykon
 	law = succ_primogeniture
 	law = agnatic_succession
 }

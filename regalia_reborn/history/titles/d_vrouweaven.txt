@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 977
+	holder = 977 # Pieter Vanbroek
 	law = succ_primogeniture
 	law = agnatic_succession
 }

@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 451
+	holder = 451 # Adalgisa Etterburgh
 	law = succ_primogeniture
 	law = agnatic_succession
 }

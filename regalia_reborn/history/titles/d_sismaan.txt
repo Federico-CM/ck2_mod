@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 978
+	holder = 978 # Lorandel Brightsong
 	law = succ_primogeniture
 	law = agnatic_succession
 }

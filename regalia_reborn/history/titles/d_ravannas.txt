@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 933
+	holder = 933 # Calenor Starweave
 	law = succ_primogeniture
 	law = agnatic_succession
 }

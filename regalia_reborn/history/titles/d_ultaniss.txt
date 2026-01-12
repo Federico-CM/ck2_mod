@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 993
+	holder = 993 # Callum Fraser
 	law = succ_primogeniture
 	law = agnatic_succession
 }

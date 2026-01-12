@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 654
+	holder = 654 # Theresa Anahera
 	law = succ_primogeniture
 	law = agnatic_succession
 }

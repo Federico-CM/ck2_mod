@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 920
+	holder = 920 # Madelyne de Azcoissia
 	law = succ_primogeniture
 	law = agnatic_succession
 }

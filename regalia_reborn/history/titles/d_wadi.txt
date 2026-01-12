@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 914
+	holder = 914 # Lao Fong
 	law = succ_primogeniture
 	law = agnatic_succession
 }

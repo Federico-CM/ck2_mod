@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 915
+	holder = 915 # Jocelyn von Duerr
 	law = succ_primogeniture
 	law = agnatic_succession
 }

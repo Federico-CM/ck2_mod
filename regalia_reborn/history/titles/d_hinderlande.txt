@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 522
+	holder = 522 # Arahael Bancroft
 	law = succ_primogeniture
 	law = agnatic_succession
 }

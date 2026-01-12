@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 984
+	holder = 984 # Alexandros Phaedros
 	law = succ_primogeniture
 	law = agnatic_succession
 }

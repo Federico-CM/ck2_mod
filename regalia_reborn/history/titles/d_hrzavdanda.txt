@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 939
+	holder = 939 # Oleg Kravets
 	law = succ_primogeniture
 	law = agnatic_succession
 }

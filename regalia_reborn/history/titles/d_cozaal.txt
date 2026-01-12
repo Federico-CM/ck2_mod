@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 909
+	holder = 909 # Nefer Morathes
 	law = succ_primogeniture
 	law = agnatic_succession
 }

@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 188
+	holder = 188 # Rodderick Howlester
 	law = succ_primogeniture
 	law = agnatic_succession
 }

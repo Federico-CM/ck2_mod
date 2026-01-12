@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 968
+	holder = 968 # Rashid Elmasri
 	law = succ_primogeniture
 	law = agnatic_succession
 }
