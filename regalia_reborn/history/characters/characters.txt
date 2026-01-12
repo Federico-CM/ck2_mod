@@ -82,10 +82,9 @@
 	diplomacy = 11
 	martial = 6
 	stewardship = 6
-	intrigue = 10
+	intrigue = 13
 	learning = 6
 	add_trait = "thrifty_clerk"
-	add_trait = "sturdy"
 	add_trait = "shrewd"
 	add_trait = "schemer"
 	add_trait = "wroth"
@@ -225,12 +224,11 @@
 	father = 138
 
 	diplomacy = 14
-	martial = 7
+	martial = 10
 	stewardship = 12
 	intrigue = 10
 	learning = 8
 	add_trait = "amateurish_plotter"
-	add_trait = "sturdy"
 	add_trait = "socializer"
 	add_trait = "proud"
 	add_trait = "robust"
@@ -3506,12 +3504,11 @@
 
 	diplomacy = 8
 	martial = 8
-	stewardship = 6
+	stewardship = 7
 	intrigue = 5
 	learning = 5
 	add_trait = "midas_touched"
 	add_trait = "duelist"
-	add_trait = "envious"
 	add_trait = "kind"
 	add_trait = "erudite"
 	add_trait = "groomed"
@@ -3807,14 +3804,13 @@
 	father = 106
 
 	diplomacy = 6
-	martial = 9
+	martial = 10
 	stewardship = 16
 	intrigue = 7
 	learning = 9
 	add_trait = "charismatic_negotiator"
 	add_trait = "shrewd"
 	add_trait = "kind"
-	add_trait = "envious"
 	disallow_random_traits = yes
 }
 
@@ -3837,14 +3833,13 @@
 	mother = 313
 
 	diplomacy = 6
-	martial = 7
+	martial = 10
 	stewardship = 6
 	intrigue = 6
 	learning = 5
 	add_trait = "misguided_warrior"
 	add_trait = "flanker"
 	add_trait = "hunter"
-	add_trait = "sturdy"
 	add_trait = "erudite"
 	add_trait = "groomed"
 	add_trait = "strong"
@@ -5269,14 +5264,13 @@
 	mother = 226
 	father = 225
 
-	diplomacy = 7
+	diplomacy = 10
 	martial = 17
 	stewardship = 9
 	intrigue = 6
 	learning = 10
 	add_trait = "tough_soldier"
 	add_trait = "light_foot_leader"
-	add_trait = "sturdy"
 	add_trait = "shrewd"
 	add_trait = "gamer"
 	add_trait = "robust"
@@ -5381,13 +5375,12 @@
 
 	diplomacy = 7
 	martial = 6
-	stewardship = 6
+	stewardship = 7
 	intrigue = 5
 	learning = 5
 	add_trait = "fortune_builder"
 	add_trait = "kind"
 	add_trait = "duelist"
-	add_trait = "envious"
 	add_trait = "temperate"
 	add_trait = "shrewd"
 	disallow_random_traits = yes
@@ -7532,7 +7525,7 @@
 
 	diplomacy = 6
 	martial = 5
-	stewardship = 9
+	stewardship = 12
 	intrigue = 6
 	learning = 6
 	add_trait = "underhanded_rogue"
@@ -7540,7 +7533,6 @@
 	add_trait = "erudite"
 	add_trait = "charitable"
 	add_trait = "temperate"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -7998,12 +7990,11 @@
 	diplomacy = 10
 	martial = 6
 	stewardship = 7
-	intrigue = 13
+	intrigue = 16
 	learning = 8
 	add_trait = "amateurish_plotter"
 	add_trait = "quick"
 	add_trait = "proud"
-	add_trait = "sturdy"
 	add_trait = "patient"
 	disallow_random_traits = yes
 }
@@ -8024,7 +8015,7 @@
 
 	diplomacy = 5
 	martial = 8
-	stewardship = 8
+	stewardship = 11
 	intrigue = 5
 	learning = 6
 	add_trait = "martial_cleric"
@@ -8032,7 +8023,6 @@
 	add_trait = "poet"
 	add_trait = "wroth"
 	add_trait = "honest"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -9410,13 +9400,12 @@
 
 	diplomacy = 6
 	martial = 7
-	stewardship = 7
+	stewardship = 10
 	intrigue = 7
 	learning = 5
 	add_trait = "martial_cleric"
 	add_trait = "zealous"
 	add_trait = "mystic"
-	add_trait = "sturdy"
 	add_trait = "greedy"
 	disallow_random_traits = yes
 }
@@ -9438,10 +9427,9 @@
 	diplomacy = 15
 	martial = 10
 	stewardship = 9
-	intrigue = 14
+	intrigue = 17
 	learning = 5
 	add_trait = "flamboyant_schemer"
-	add_trait = "sturdy"
 	add_trait = "erudite"
 	add_trait = "gardener"
 	add_trait = "brave"
@@ -10083,13 +10071,12 @@
 
 	diplomacy = 9
 	martial = 7
-	stewardship = 7
+	stewardship = 8
 	intrigue = 6
-	learning = 10
+	learning = 12
 	add_trait = "midas_touched"
 	add_trait = "just"
 	add_trait = "humble"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -10224,13 +10211,12 @@
 	diplomacy = 11
 	martial = 7
 	stewardship = 9
-	intrigue = 15
-	learning = 9
+	intrigue = 17
+	learning = 10
 	add_trait = "martial_cleric"
 	add_trait = "architect"
 	add_trait = "shrewd"
 	add_trait = "envious"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -10278,13 +10264,12 @@
 	father = 450
 
 	diplomacy = 8
-	martial = 5
+	martial = 8
 	stewardship = 6
 	intrigue = 5
 	learning = 9
 	add_trait = "midas_touched"
 	add_trait = "shrewd"
-	add_trait = "sturdy"
 	add_trait = "diligent"
 	disallow_random_traits = yes
 }
@@ -11189,12 +11174,11 @@
 
 	diplomacy = 11
 	martial = 13
-	stewardship = 17
-	intrigue = 13
+	stewardship = 18
+	intrigue = 15
 	learning = 33
 	add_trait = "flamboyant_schemer"
 	add_trait = "impaler"
-	add_trait = "sturdy"
 	add_trait = "erudite"
 	add_trait = "brave"
 	add_trait = "temperate"
@@ -11275,13 +11259,12 @@
 	father = 659
 
 	diplomacy = 5
-	martial = 6
+	martial = 9
 	stewardship = 5
 	intrigue = 5
 	learning = 5
 	add_trait = "detached_priest"
 	add_trait = "seducer"
-	add_trait = "sturdy"
 	add_trait = "genius"
 	add_trait = "groomed"
 	add_trait = "charitable"
@@ -11334,13 +11317,12 @@
 	martial = 6
 	stewardship = 5
 	intrigue = 6
-	learning = 5
+	learning = 8
 	add_trait = "indulgent_wastrel"
 	add_trait = "strategist"
 	add_trait = "paranoid"
 	add_trait = "greedy"
 	add_trait = "brave"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -12047,12 +12029,11 @@
 
 	diplomacy = 6
 	martial = 9
-	stewardship = 7
-	intrigue = 10
+	stewardship = 8
+	intrigue = 12
 	learning = 7
 	add_trait = "thrifty_clerk"
 	add_trait = "just"
-	add_trait = "sturdy"
 	add_trait = "proud"
 	add_trait = "kind"
 	disallow_random_traits = yes
@@ -12850,11 +12831,10 @@
 
 	diplomacy = 7
 	martial = 10
-	stewardship = 13
-	intrigue = 15
+	stewardship = 14
+	intrigue = 17
 	learning = 9
 	add_trait = "underhanded_rogue"
-	add_trait = "sturdy"
 	add_trait = "zealous"
 	add_trait = "paranoid"
 	add_trait = "groomed"
@@ -13026,7 +13006,7 @@
 	}
 
 	291.4.1 = {
-		add_matrilineal_spouse=582
+		add_spouse=582
 	}
 	355.1.1 = {
 		death = 355.1.1
@@ -13050,7 +13030,7 @@
 }
 
 582 = {
-	name = "Julia" # Palomadera
+	name = "Julia"
 	culture = tierravera
 	religion = unionism
 	female = yes
@@ -13059,14 +13039,11 @@
 	}
 
 	291.4.1 = {
-		add_matrilineal_spouse=581
+		add_spouse=581
 	}
 	357.1.1 = {
 		death = 357.1.1
 	}
-	dynasty = 49
-	mother = 613
-	father = 614
 
 	diplomacy = 10
 	martial = 27
@@ -13623,15 +13600,14 @@
 	father = 592
 
 	diplomacy = 5
-	martial = 5
-	stewardship = 5
+	martial = 6
+	stewardship = 7
 	intrigue = 6
 	learning = 5
 	add_trait = "naive_appeaser"
 	add_trait = "charitable"
 	add_trait = "kind"
 	add_trait = "humble"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -13837,13 +13813,12 @@
 
 	diplomacy = 7
 	martial = 6
-	stewardship = 8
+	stewardship = 11
 	intrigue = 6
 	learning = 7
 	add_trait = "thrifty_clerk"
 	add_trait = "diligent"
 	add_trait = "kind"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -14454,14 +14429,13 @@
 	diplomacy = 6
 	martial = 7
 	stewardship = 5
-	intrigue = 8
+	intrigue = 11
 	learning = 6
 	add_trait = "detached_priest"
 	add_trait = "duelist"
 	add_trait = "diligent"
 	add_trait = "paranoid"
 	add_trait = "greedy"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -14675,8 +14649,8 @@
 	mother = 645
 	father = 646
 
-	diplomacy = 6
-	martial = 6
+	diplomacy = 7
+	martial = 8
 	stewardship = 5
 	intrigue = 5
 	learning = 5
@@ -14684,7 +14658,6 @@
 	add_trait = "unyielding_leader"
 	add_trait = "quick"
 	add_trait = "temperate"
-	add_trait = "sturdy"
 	add_trait = "duelist"
 	disallow_random_traits = yes
 }
@@ -14707,13 +14680,12 @@
 
 	diplomacy = 5
 	martial = 5
-	stewardship = 5
+	stewardship = 8
 	intrigue = 5
 	learning = 5
 	add_trait = "mastermind_theologian"
 	add_trait = "gregarious"
 	add_trait = "fair"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -14812,10 +14784,9 @@
 	diplomacy = 21
 	martial = 9
 	stewardship = 9
-	intrigue = 19
+	intrigue = 22
 	learning = 12
 	add_trait = "fortune_builder"
-	add_trait = "sturdy"
 	add_trait = "proud"
 	add_trait = "just"
 	add_trait = "gregarious"
@@ -14976,13 +14947,12 @@
 
 	diplomacy = 5
 	martial = 5
-	stewardship = 5
-	intrigue = 5
-	learning = 5
+	stewardship = 6
+	intrigue = 6
+	learning = 6
 	add_trait = "mastermind_theologian"
 	add_trait = "genius"
 	add_trait = "ambitious"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -15144,12 +15114,11 @@
 	diplomacy = 5
 	martial = 6
 	stewardship = 7
-	intrigue = 9
-	learning = 9
+	intrigue = 11
+	learning = 20
 	add_trait = "midas_touched"
 	add_trait = "mystic"
 	add_trait = "honest"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -15749,14 +15718,13 @@
 
 	diplomacy = 11
 	martial = 6
-	stewardship = 12
+	stewardship = 14
 	intrigue = 9
-	learning = 17
+	learning = 18
 	add_trait = "indulgent_wastrel"
 	add_trait = "socializer"
 	add_trait = "gregarious"
 	add_trait = "erudite"
-	add_trait = "sturdy"
 	add_trait = "chaste"
 	disallow_random_traits = yes
 }
@@ -15871,12 +15839,11 @@
 
 	diplomacy = 5
 	martial = 6
-	stewardship = 8
+	stewardship = 10
 	intrigue = 5
-	learning = 6
+	learning = 7
 	add_trait = "martial_cleric"
 	add_trait = "zealous"
-	add_trait = "sturdy"
 	add_trait = "quick"
 	add_trait = "patient"
 	disallow_random_traits = yes
@@ -16586,12 +16553,11 @@
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
-	intrigue = 7
+	intrigue = 10
 	learning = 5
 	add_trait = "scholarly_theologian"
 	add_trait = "chaste"
 	add_trait = "strategist"
-	add_trait = "sturdy"
 	add_trait = "paranoid"
 	disallow_random_traits = yes
 }
@@ -17194,11 +17160,10 @@
 
 	diplomacy = 18
 	martial = 6
-	stewardship = 15
+	stewardship = 16
 	intrigue = 13
-	learning = 15
+	learning = 17
 	add_trait = "naive_appeaser"
-	add_trait = "sturdy"
 	add_trait = "mystic"
 	add_trait = "content"
 	disallow_random_traits = yes
@@ -17356,14 +17321,13 @@
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
-	intrigue = 9
+	intrigue = 12
 	learning = 5
 	add_trait = "skilled_tactician"
 	add_trait = "trickster"
 	add_trait = "paranoid"
 	add_trait = "architect"
 	add_trait = "envious"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -17851,11 +17815,10 @@
 	diplomacy = 7
 	martial = 7
 	stewardship = 6
-	intrigue = 8
+	intrigue = 11
 	learning = 5
 	add_trait = "mastermind_theologian"
 	add_trait = "theologian"
-	add_trait = "sturdy"
 	add_trait = "proud"
 	disallow_random_traits = yes
 }
@@ -17876,14 +17839,13 @@
 
 	diplomacy = 5
 	martial = 5
-	stewardship = 6
+	stewardship = 9
 	intrigue = 5
 	learning = 6
 	add_trait = "tough_soldier"
 	add_trait = "defensive_leader"
 	add_trait = "quick"
 	add_trait = "just"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -18045,10 +18007,9 @@
 	martial = 5
 	stewardship = 5
 	intrigue = 6
-	learning = 8
+	learning = 11
 	add_trait = "mastermind_theologian"
 	add_trait = "humble"
-	add_trait = "sturdy"
 	add_trait = "kind"
 	disallow_random_traits = yes
 }
@@ -18234,15 +18195,14 @@
 	mother = 799
 	father = 800
 
-	diplomacy = 7
+	diplomacy = 9
 	martial = 5
-	stewardship = 6
+	stewardship = 7
 	intrigue = 5
 	learning = 5
 	add_trait = "thrifty_clerk"
 	add_trait = "fair"
 	add_trait = "socializer"
-	add_trait = "sturdy"
 	add_trait = "charitable"
 	disallow_random_traits = yes
 }
@@ -18811,16 +18771,15 @@
 	mother = 825
 	father = 824
 
-	diplomacy = 17
+	diplomacy = 18
 	martial = 13
 	stewardship = 16
-	intrigue = 20
-	learning = 14
+	intrigue = 21
+	learning = 15
 	add_trait = "naive_appeaser"
 	add_trait = "paranoid"
 	add_trait = "scholar"
 	add_trait = "brave"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -18906,13 +18865,12 @@
 	father = 829
 
 	diplomacy = 10
-	martial = 10
+	martial = 11
 	stewardship = 9
 	intrigue = 9
 	learning = 14
 	add_trait = "scholarly_theologian"
 	add_trait = "seducer"
-	add_trait = "envious"
 	add_trait = "patient"
 	add_trait = "gregarious"
 	add_trait = "kind"
@@ -19021,13 +18979,12 @@
 	diplomacy = 8
 	martial = 5
 	stewardship = 7
-	intrigue = 8
-	learning = 9
+	intrigue = 9
+	learning = 11
 	add_trait = "intricate_webweaver"
 	add_trait = "diligent"
 	add_trait = "temperate"
 	add_trait = "theologian"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -19851,11 +19808,10 @@
 	diplomacy = 5
 	martial = 5
 	stewardship = 8
-	intrigue = 12
+	intrigue = 13
 	learning = 11
 	add_trait = "midas_touched"
 	add_trait = "duelist"
-	add_trait = "envious"
 	add_trait = "kind"
 	disallow_random_traits = yes
 }
@@ -20382,13 +20338,12 @@
 
 	diplomacy = 6
 	martial = 12
-	stewardship = 10
+	stewardship = 13
 	intrigue = 7
 	learning = 7
 	add_trait = "charismatic_negotiator"
 	add_trait = "gregarious"
 	add_trait = "groomed"
-	add_trait = "sturdy"
 	add_trait = "hunter"
 	disallow_random_traits = yes
 }
@@ -20410,12 +20365,11 @@
 	martial = 6
 	stewardship = 6
 	intrigue = 6
-	learning = 6
+	learning = 9
 	add_trait = "brilliant_strategist"
 	add_trait = "flanker"
 	add_trait = "impaler"
 	add_trait = "shrewd"
-	add_trait = "sturdy"
 	disallow_random_traits = yes
 }
 
@@ -21011,14 +20965,13 @@
 	dynasty = 205
 	father = 397
 
-	diplomacy = 8
+	diplomacy = 11
 	martial = 6
 	stewardship = 6
 	intrigue = 5
 	learning = 5
 	add_trait = "martial_cleric"
 	add_trait = "quick"
-	add_trait = "sturdy"
 	add_trait = "impaler"
 	add_trait = "proud"
 	disallow_random_traits = yes
@@ -21212,13 +21165,12 @@
 	dynasty = 212
 
 	diplomacy = 9
-	martial = 26
-	stewardship = 17
+	martial = 28
+	stewardship = 18
 	intrigue = 10
 	learning = 14
 	add_trait = "charismatic_negotiator"
 	add_trait = "poet"
-	add_trait = "sturdy"
 	add_trait = "diligent"
 	disallow_random_traits = yes
 }
@@ -22321,13 +22273,12 @@
 
 	diplomacy = 10
 	martial = 11
-	stewardship = 13
+	stewardship = 14
 	intrigue = 10
 	learning = 20
 	add_trait = "detached_priest"
 	add_trait = "kind"
 	add_trait = "robust"
-	add_trait = "envious"
 	add_trait = "just"
 	add_trait = "fair"
 	disallow_random_traits = yes
@@ -23133,13 +23084,12 @@
 	martial = 11
 	stewardship = 20
 	intrigue = 14
-	learning = 26
+	learning = 27
 	add_trait = "amateurish_plotter"
 	add_trait = "kind"
 	add_trait = "duelist"
 	add_trait = "groomed"
 	add_trait = "content"
-	add_trait = "envious"
 	disallow_random_traits = yes
 }
 
@@ -23812,15 +23762,16 @@
 	}
 	dynasty = 120
 
-	diplomacy = 6
-	martial = 12
-	stewardship = 7
-	intrigue = 11
-	learning = 6
-	add_trait = "martial_cleric"
-	add_trait = "ambitious"
+	diplomacy = 5
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	add_trait = "misguided_warrior"
+	add_trait = "trickster"
 	add_trait = "poet"
-	add_trait = "paranoid"
+	add_trait = "shrewd"
+	add_trait = "fair"
 	disallow_random_traits = yes
 }
 
@@ -24306,7 +24257,7 @@
 		death = 375.1.1
 	}
 	dynasty = 34
-	mother = 1050
+	father = 1050
 
 	diplomacy = 5
 	martial = 5
@@ -24332,7 +24283,7 @@
 		death = 401.1.1
 	}
 	dynasty = 34
-	mother = 1051
+	father = 1051
 }
 
 1053 = {
@@ -24388,5 +24339,5 @@
 	add_trait = "ambitious"
 	add_trait = "brave"
 	add_trait = "homosexual"
-	disallow_random_traits = true
+	disallow_random_traits = yes
 }
