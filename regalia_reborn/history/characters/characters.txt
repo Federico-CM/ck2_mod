@@ -23768,7 +23768,7 @@
 	}
 	dynasty = 120
 
-	diplomacy = 5
+	diplomacy = 8
 	martial = 6
 	stewardship = 5
 	intrigue = 5
@@ -24374,7 +24374,6 @@
 		death = 391.1.1
 	}
 	dynasty = 195
-	mother = 181
 
 	diplomacy = 11
 	martial = 5
@@ -24389,7 +24388,7 @@
 	disallow_random_traits = yes
 }
 
-1056 = {
+1057 = {
 	name = "Francis" # Delmotte
 	culture = ithanian
 	religion = unionism
@@ -24405,7 +24404,7 @@
 	mother = 722
 }
 
-1057 = {
+1058 = {
 	name = "William" # Delmotte
 	culture = ithanian
 	religion = unionism
@@ -24422,7 +24421,7 @@
 	add_trait = "twin"
 }
 
-1058 = {
+1059 = {
 	name = "Ethan" # Delmotte
 	culture = ithanian
 	religion = unionism
@@ -24437,7 +24436,7 @@
 	mother = 722
 }
 
-1059 = {
+1060 = {
 	name = "Justine" # Delmotte
 	culture = ithanian
 	religion = unionism
