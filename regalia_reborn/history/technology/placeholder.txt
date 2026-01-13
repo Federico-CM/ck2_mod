@@ -1,4 +1,4 @@
-# The whole archipellago
+# The whole archipelago
 
 technology = {
 	titles = {
