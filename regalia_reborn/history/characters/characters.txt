@@ -21063,24 +21063,26 @@
 	name = "Dorothios" # Spathous
 	culture = etosian
 	religion = evintarian
-	289.1.1 = {
-		birth = 289.1.1
+	285.1.1 = {
+		birth = 285.1.1
 	}
-	389.1.1 = {
-		death = 389.1.1
+	385.1.1 = {
+		death = 385.1.1
 	}
 	dynasty = 209
+	father = 12003
+	mother = 12004
 
-	diplomacy = 9
-	martial = 8
-	stewardship = 8
-	intrigue = 6
-	learning = 7
-	add_trait = "grey_eminence"
-	add_trait = "honest"
-	add_trait = "erudite"
-	add_trait = "just"
-	disallow_random_traits = yes
+	diplomacy = 5
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	add_trait = "skilled_tactician"
+	add_trait = "zealous"
+	add_trait = "wroth"
+	add_trait = "chaste"
+	diallow_random_traits = yes
 }
 
 923 = {
@@ -21925,17 +21927,6 @@
 		death = 346.1.1
 	}
 	dynasty = 242
-
-	diplomacy = 11
-	martial = 9
-	stewardship = 11
-	intrigue = 6
-	learning = 24
-	add_trait = "scholarly_theologian"
-	add_trait = "humble"
-	add_trait = "mystic"
-	add_trait = "patient"
-	disallow_random_traits = yes
 }
 
 957 = {
@@ -24450,4 +24441,523 @@
 	dynasty = 195
 	father = 260
 	mother = 722
+}
+
+12000 = {
+	name = "Nikomedes" # Spathous
+	culture = etosian
+	religion = evintarian
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 209
+	father = 12003
+	mother = 12005
+
+	diplomacy = 12
+	martial = 5
+	stewardship = 17
+	intrigue = 21
+	learning = 13
+	add_trait = "intricate_webweaver"
+	add_trait = "temperate"
+	add_trait = "cynical"
+	add_trait = "deceitful"
+	diallow_random_traits = yes
+}
+
+12001 = {
+	name = "Paris" # Spathous
+	culture = etosian
+	religion = evintarian
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	dynasty = 209
+	father = 12003
+	mother = 12005
+
+	diplomacy = 7
+	martial = 13
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	add_trait = "tough_soldier"
+	add_trait = "brave"
+	add_trait = "strong"
+	add_trait = "slow"
+	add_trait = "proud"
+	diallow_random_traits = yes
+}
+
+12002 = {
+	name = "Magdalini" # Spathous
+	culture = etosian
+	religion = evintarian
+	female = yes
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 209
+	father = 12003
+	mother = 12005
+
+	diplomacy = 7
+	martial = 6
+	stewardship = 6
+	intrigue = 8
+	learning = 6
+	add_trait = "detached_priest"
+	add_trait = "paranoid"
+	add_trait = "robust"
+	add_trait = "kind"
+	add_trait = "schemer"
+	disallow_random_traits = yes
+}
+
+12003 = {
+	name = "Theodoros" # Spathous
+	culture = etosian
+	religion = evintarian
+	252.1.1 = {
+		birth = 252.1.1
+	}
+	307.1.1 = {
+		death = 307.1.1
+	}
+	dynasty = 209
+}
+
+12004 = {
+	name = "Dorothea"
+	culture = etosian
+	religion = evintarian
+	female = yes
+	257.1.1 = {
+		birth = 257.1.1
+	}
+	285.1.1 = {
+		death = 285.1.1
+	}
+}
+
+12005 = {
+	name = "Apollonia"
+	culture = etosian
+	religion = evintarian
+	female = yes
+	269.1.1 = {
+		birth = 269.1.1
+	}
+	369.1.1 = {
+		death = 369.1.1
+	}
+
+	diplomacy = 7
+	martial = 10
+	stewardship = 12
+	intrigue = 7
+	learning = 6
+	add_trait = "thrifty_clerk"
+	add_trait = "brave"
+	add_trait = "diligent"
+	add_trait = "hunter"
+	add_trait = "wroth"
+	add_trait = "gregarious"
+	disallow_random_traits = yes
+}
+
+12006 = {
+	name = "Christosphoros" # Spathous
+	culture = etosian
+	religion = evintarian
+	281.1.1 = {
+		birth = 281.1.1
+	}
+	311.1.1 = {
+		death = 311.1.1
+	}
+	dynasty = 209
+	father = 12003
+	mother = 12004
+}
+
+13000 = {
+	name = "Branimir" # Novak
+	culture = byala
+	religion = unionism
+	240.1.1 = {
+		birth = 240.1.1
+	}
+	295.1.1 = {
+		death = 295.1.1
+	}
+	dynasty = 318
+}
+
+13001 = {
+	name = "Trajan" # Novak
+	culture = byala
+	religion = unionism
+	265.1.1 = {
+		birth = 265.1.1
+	}
+
+	285.1.1 = {
+		add_spouse = 13010
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 318
+	father = 13000
+
+	diplomacy = 13
+	martial = 15
+	stewardship = 13
+	intrigue = 13
+	learning = 13
+	add_trait = "brilliant_strategist"
+	add_trait = "scarred"
+	add_trait = "proud"
+	add_trait = "wroth"
+	add_trait = "just"
+	add_trait = "stubborn"
+	add_trait = "aggressive_leader"
+	diallow_random_traits = yes
+}
+
+13002 = {
+	name = "Desemir" # Novak
+	culture = byala
+	religion = unionism
+	263.1.1 = {
+		birth = 263.1.1
+	}
+	294.1.1 = {
+		death = 294.1.1
+	}
+	dynasty = 318
+	father = 13000
+}
+
+13003 = {
+	name = "Bozo" # Novak
+	culture = byala
+	religion = unionism
+	267.1.1 = {
+		birth = 267.1.1
+	}
+	367.1.1 = {
+		death = 367.1.1
+	}
+	dynasty = 318
+	father = 13000
+
+	diplomacy = 9
+	martial = 7
+	stewardship = 9
+	intrigue = 7
+	learning = 8
+	add_trait = "midas_touched"
+	add_trait = "administrator"
+	add_trait = "temperate"
+	add_trait = "content"
+	add_trait = "just"
+	add_trait = "kind"
+	disallow_random_traits = yes
+}
+
+13004 = {
+	name = "Zlatan" # Novak
+	culture = byala
+	religion = unionism
+	290.1.1 = {
+		birth = 290.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 318
+	father = 13002
+
+	diplomacy = 10
+	martial = 10
+	stewardship = 8
+	intrigue = 6
+	learning = 9
+	add_trait = "charismatic_negotiator"
+	add_trait = "brave"
+	add_trait = "groomed"
+	add_trait = "scarred"
+	disallow_random_traits = yes
+}
+
+13005 = {
+	name = "Radomir" # Novak
+	culture = byala
+	religion = unionism
+	291.1.1 = {
+		birth = 291.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 318
+	father = 13002
+
+	diplomacy = 8
+	martial = 8
+	stewardship = 7
+	intrigue = 5
+	learning = 6
+	add_trait = "grey_eminence"
+	add_trait = "hedonist"
+	add_trait = "diligent"
+	disallow_random_traits = yes
+}
+
+13006 = {
+	name = "Andelko" # Novak
+	culture = byala
+	religion = unionism
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	390.1.1 = {
+		death = 390.1.1
+	}
+	dynasty = 318
+	father = 13002
+
+	diplomacy = 6
+	martial = 6
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	add_trait = "scholarly_theologian"
+	add_trait = "genius"
+	add_trait = "paranoid"
+	disallow_random_traits = yes
+}
+
+13007 = {
+	name = "Miomyr" # Novak
+	culture = byala
+	religion = unionism
+	286.1.1 = {
+		birth = 286.1.1
+	}
+	386.1.1 = {
+		death = 386.1.1
+	}
+	dynasty = 318
+	father = 13001
+	mother = 13010
+
+	diplomacy = 7
+	martial = 7
+	stewardship = 8
+	intrigue = 8
+	learning = 8
+	add_trait = "tough_soldier"
+	add_trait = "shy"
+	add_trait = "trusting"
+	add_trait = "lustful"
+	add_trait = "diligent"
+	add_trait = "robust"
+	diallow_random_traits = yes
+}
+
+13008 = {
+	name = "Lidija" # Novak
+	culture = byala
+	religion = unionism
+	female = yes
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 318
+	father = 13001
+	mother = 13010
+
+	diplomacy = 11
+	martial = 12
+	stewardship = 12
+	intrigue = 12
+	learning = 12
+	add_trait = "naive_appeaser"
+	add_trait = "charitable"
+	add_trait = "content"
+	add_trait = "honest"
+	add_trait = "stubborn"
+	diallow_random_traits = yes
+}
+
+13009 = {
+	name = "Petar" # Novak
+	culture = byala
+	religion = unionism
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 318
+	father = 13001
+
+	diplomacy = 11
+	martial = 18
+	stewardship = 11
+	intrigue = 11
+	learning = 11
+	add_trait = "tough_soldier"
+	add_trait = "bastard"
+	add_trait = "stutter"
+	diallow_random_traits = yes
+}
+
+13010 = {
+	name = "Adrijana"
+	culture = byala
+	religion = unionism
+	female = yes
+	264.1.1 = {
+		birth = 264.1.1
+	}
+
+	285.1.1 = {
+		add_spouse = 13001
+	}
+	364.1.1 = {
+		death = 364.1.1
+	}
+
+	diplomacy = 9
+	martial = 9
+	stewardship = 11
+	intrigue = 9
+	learning = 21
+	add_trait = "martial_cleric"
+	add_trait = "just"
+	add_trait = "chaste"
+	add_trait = "fair"
+	add_trait = "falconer"
+	disallow_random_traits = yes
+}
+
+13011 = {
+	name = "Emilija" # Novak
+	culture = byala
+	religion = unionism
+	female = yes
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 318
+	father = 13003
+
+	diplomacy = 7
+	martial = 5
+	stewardship = 7
+	intrigue = 12
+	learning = 5
+	add_trait = "amateurish_plotter"
+	add_trait = "administrator"
+	add_trait = "temperate"
+	add_trait = "quick"
+	disallow_random_traits = yes
+}
+
+13012 = {
+	name = "Zarko" # Novak
+	culture = byala
+	religion = unionism
+	294.1.1 = {
+		birth = 294.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 318
+	father = 13003
+
+	diplomacy = 11
+	martial = 7
+	stewardship = 8
+	intrigue = 8
+	learning = 5
+	add_trait = "underhanded_rogue"
+	add_trait = "groomed"
+	add_trait = "gregarious"
+	add_trait = "proud"
+	add_trait = "scarred"
+	disallow_random_traits = yes
+}
+
+13013 = {
+	name = "Velimir" # Novak
+	culture = byala
+	religion = unionism
+	296.1.1 = {
+		birth = 296.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 318
+	father = 13003
+
+	diplomacy = 10
+	martial = 9
+	stewardship = 9
+	intrigue = 9
+	learning = 9
+	add_trait = "charismatic_negotiator"
+	add_trait = "gregarious"
+	add_trait = "envious"
+	add_trait = "cynical"
+	add_trait = "paranoid"
+	diallow_random_traits = yes
+}
+
+13014 = {
+	name = "Stefana" # Novak
+	culture = byala
+	religion = unionism
+	female = yes
+	299.1.1 = {
+		birth = 299.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	dynasty = 318
+	father = 13003
+
+	diplomacy = 7
+	martial = 7
+	stewardship = 5
+	intrigue = 6
+	learning = 6
+	add_trait = "flamboyant_schemer"
+	add_trait = "quick"
+	add_trait = "brave"
+	disallow_random_traits = yes
 }

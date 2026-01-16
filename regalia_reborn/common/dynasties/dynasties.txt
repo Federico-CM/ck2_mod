@@ -1572,3 +1572,8 @@
 	name = "ad Doithwaite"
 	culture = breizh
 }
+
+318 = {
+	name = "Novak"
+	culture = byala
+}
