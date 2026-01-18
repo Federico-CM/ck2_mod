@@ -1,0 +1,559 @@
+creature_ailor = {
+	opposites = {
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_skyborn = {
+	opposites = {
+		creature_ailor
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_teled = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_sihai = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_dwarves = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_dragonkin = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_isldar = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_suvial = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_kathar = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_sihndar = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_selvath = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_yanar = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_asha = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_narim = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_eronidas = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_urlan = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_allar
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_allar = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_slizzar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_slizzar = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_maraya
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_maraya = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_bralona
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+creature_bralona = {
+	opposites = {
+		creature_ailor
+		creature_skyborn
+		creature_teled
+		creature_sihai
+		creature_dwarves
+		creature_dragonkin
+		creature_isldar
+		creature_suvial
+		creature_kathar
+		creature_sihndar
+		creature_selvath
+		creature_yanar
+		creature_asha
+		creature_narim
+		creature_eronidas
+		creature_urlan
+		creature_allar
+		creature_slizzar
+		creature_maraya
+	}
+	same_opinion = 10
+	opposite_opinion = -10
+	ruler_designer_cost = 0
+	customizer = no
+}

@@ -1,0 +1,163 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_trait_creature_ailor"
+		texturefile = "gfx/traits/creature_ailor.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_skyborn"
+		texturefile = "gfx/traits/creature_skyborn.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_teled"
+		texturefile = "gfx/traits/creature_teled.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_sihai"
+		texturefile = "gfx/traits/creature_sihai.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_dwarves"
+		texturefile = "gfx/traits/creature_dwarves.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_dragonkin"
+		texturefile = "gfx/traits/creature_dragonkin.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_isldar"
+		texturefile = "gfx/traits/creature_isldar.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_suvial"
+		texturefile = "gfx/traits/creature_suvial.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_kathar"
+		texturefile = "gfx/traits/creature_kathar.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_sihndar"
+		texturefile = "gfx/traits/creature_sihndar.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_selvath"
+		texturefile = "gfx/traits/creature_selvath.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_yanar"
+		texturefile = "gfx/traits/creature_yanar.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_asha"
+		texturefile = "gfx/traits/creature_asha.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_narim"
+		texturefile = "gfx/traits/creature_narim.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_eronidas"
+		texturefile = "gfx/traits/creature_eronidas.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_urlan"
+		texturefile = "gfx/traits/creature_urlan.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_allar"
+		texturefile = "gfx/traits/creature_allar.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_slizzar"
+		texturefile = "gfx/traits/creature_slizzar.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_maraya"
+		texturefile = "gfx/traits/creature_maraya.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+
+	spriteType = {
+		name = "GFX_trait_creature_bralona"
+		texturefile = "gfx/traits/creature_bralona.dds"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}
+
