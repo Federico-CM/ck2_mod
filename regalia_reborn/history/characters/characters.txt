@@ -24803,7 +24803,7 @@
 1030 = {
 	name = "Ippolito" # de Paganelli
 	culture = cantaluna
-	religion = unionism
+	religion = aldurism
 	200.1.1 = {
 		birth = 200.1.1
 	}
@@ -24817,7 +24817,7 @@
 1031 = {
 	name = "Felice" # de Paganelli
 	culture = cantaluna
-	religion = unionism
+	religion = aldurism
 	266.1.1 = {
 		birth = 266.1.1
 	}
@@ -24836,7 +24836,7 @@
 1032 = {
 	name = "Vieri" # de Paganelli
 	culture = cantaluna
-	religion = unionism
+	religion = aldurism
 	270.1.1 = {
 		birth = 270.1.1
 	}
@@ -24863,7 +24863,7 @@
 1033 = {
 	name = "Tedeschi" # de Paganelli
 	culture = cantaluna
-	religion = unionism
+	religion = aldurism
 	289.1.1 = {
 		birth = 289.1.1
 	}
@@ -24888,7 +24888,7 @@
 1034 = {
 	name = "Pietra" # de Paganelli
 	culture = cantaluna
-	religion = unionism
+	religion = aldurism
 	female = yes
 	291.1.1 = {
 		birth = 291.1.1
@@ -24916,7 +24916,7 @@
 1035 = {
 	name = "Rizieri" # de Paganelli
 	culture = cantaluna
-	religion = unionism
+	religion = aldurism
 	293.1.1 = {
 		birth = 293.1.1
 	}
@@ -24943,7 +24943,7 @@
 1036 = {
 	name = "Nerio" # de Paganelli
 	culture = cantaluna
-	religion = unionism
+	religion = aldurism
 	290.1.1 = {
 		birth = 290.1.1
 	}
@@ -24971,7 +24971,7 @@
 1037 = {
 	name = "Artemisa" # de Paganelli
 	culture = cantaluna
-	religion = unionism
+	religion = aldurism
 	female = yes
 	292.1.1 = {
 		birth = 292.1.1
@@ -24998,7 +24998,7 @@
 1038 = {
 	name = "Placido" # de Paganelli
 	culture = cantaluna
-	religion = unionism
+	religion = aldurism
 	295.1.1 = {
 		birth = 295.1.1
 	}
