@@ -41,6 +41,7 @@ unionism_group = {
 		can_grant_claim = yes
 		priests_can_inherit = no
 	}
+
 	diviner_sect = {
 		graphical_culture = westerngfx
 		icon = 1

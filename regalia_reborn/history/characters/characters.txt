@@ -6108,17 +6108,15 @@
 	dynasty = 44
 	father = 259
 
-	diplomacy = 14
-	martial = 9
-	stewardship = 11
-	intrigue = 6
-	learning = 7
-	add_trait = "creature_ailor"
-	add_trait = "tough_soldier"
-	add_trait = "aggressive_leader"
-	add_trait = "greedy"
-	add_trait = "scarred"
-	add_trait = "patient"
+    diplomacy = 8
+    martial = 15
+    stewardship = 8
+    intrigue = 5
+    learning = 7
+    add_trait = "creature_ailor"
+    add_trait = "skilled_tactician"
+    add_trait = "strategist"
+    add_trait = "ambitious"
 	disallow_random_traits = yes
 }
 
