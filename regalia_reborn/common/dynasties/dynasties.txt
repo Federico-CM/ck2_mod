@@ -1175,8 +1175,8 @@
 }
 
 236 = {
-	name = "Carter"
-	culture = leutz_vixe
+	name = "von der Specht"
+	culture = wirtem
 }
 
 237 = {
@@ -1587,4 +1587,14 @@
 318 = {
 	name = "Novak"
 	culture = byala
+}
+
+319 = {
+	name = "Jansen"
+	culture = anglian
+}
+
+320 = {
+	name = "Katsaros"
+	culture = anglian
 }

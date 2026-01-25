@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 926 # Willem Norrin
+	holder = 926 # Willem Jansen
 	law = succ_primogeniture
 	law = agnatic_succession
 }

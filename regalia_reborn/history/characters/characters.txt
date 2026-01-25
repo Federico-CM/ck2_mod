@@ -4986,18 +4986,18 @@
 	dynasty = 40
 	father = 317
 
-	diplomacy = 8
-	martial = 6
-	stewardship = 5
-	intrigue = 7
-	learning = 6
+	diplomacy = 5
+	martial = 5
+	stewardship = 10
+	intrigue = 5
+	learning = 5
 	add_trait = "creature_ailor"
-	add_trait = "midas_touched"
-	add_trait = "quick"
-	add_trait = "duelist"
-	add_trait = "gregarious"
-	add_trait = "envious"
-	add_trait = "honest"
+	add_trait = "charismatic_negotiator"
+	add_trait = "administrator"
+	add_trait = "diligent"
+	add_trait = "just"
+	add_trait = "socializer"
+	add_trait = "patient"
 	disallow_random_traits = yes
 }
 
@@ -9687,41 +9687,45 @@
 }
 
 425 = {
-	name = "Domitille" # de Villeneuve
-	culture = ithanian
-	religion = unionism
+    name = "Domitille" # de Villeneuve
+    culture = burdigala
+    religion = unionism
 	female = yes
-	255.1.1 = {
-		birth = 255.1.1
-	}
-
-	282.4.1 = {
-		add_spouse = 426
-	}
-	355.1.1 = {
-		death = 355.1.1
-	}
+    255.1.1 = {
+        birth = 255.1.1
+    }
+    355.1.1 = {
+        death = 355.1.1
+    }
+    father = 419
+    mother = 420
+    877.4.1 = {
+        add_spouse = 426
+    }
 	dynasty = 80
 	mother = 419
 	father = 420
 
-	diplomacy = 15
-	martial = 9
-	stewardship = 12
-	intrigue = 8
-	learning = 18
-	add_trait = "creature_ailor"
-	add_trait = "martial_cleric"
-	add_trait = "erudite"
-	add_trait = "patient"
-	add_trait = "scholar"
-	add_trait = "content"
-	disallow_random_traits = yes
+    diplomacy = 10
+    martial = 6
+    stewardship = 9
+    intrigue = 10
+    learning = 7
+    add_trait = "creature_ailor"
+    add_trait = "charismatic_negotiator"
+    add_trait = "socializer"
+    add_trait = "poet"
+    add_trait = "stubborn"
+    add_trait = "diligent"
+    add_trait = "just"
+    add_trait = "gregarious"
+    add_trait = "shrewd"
+    disallow_random_traits = yes
 }
 
 426 = {
 	name = "Leander" # Reinard
-	culture = wirtem
+	culture = cearden
 	religion = unionism
 	253.1.1 = {
 		birth = 253.1.1
@@ -9736,7 +9740,19 @@
 	dynasty = 81
 	mother = 483
 	father = 482
-	add_trait = "creature_ailor"
+    diplomacy = 10
+    martial = 5
+    stewardship = 9
+    intrigue = 8
+    learning = 9
+    add_trait = "creature_ailor"
+    add_trait = "scholarly_theologian"
+    add_trait = "scholar"
+    add_trait = "quick"
+    add_trait = "diligent"
+    add_trait = "kind"
+    add_trait = "erudite"
+    disallow_random_traits = yes
 }
 
 427 = {
@@ -9880,17 +9896,17 @@
 	mother = 427
 	father = 428
 
-	diplomacy = 6
-	martial = 8
+	diplomacy = 5
+	martial = 5
 	stewardship = 5
-	intrigue = 6
-	learning = 5
+	intrigue = 5
+	learning = 9
 	add_trait = "creature_ailor"
-	add_trait = "flamboyant_schemer"
-	add_trait = "socializer"
-	add_trait = "humble"
+	add_trait = "scholarly_theologian"
+	add_trait = "zealous"
+	add_trait = "just"
+	add_trait = "kind"
 	add_trait = "patient"
-	add_trait = "shrewd"
 	disallow_random_traits = yes
 }
 
@@ -11287,7 +11303,7 @@
 
 485 = {
 	name = "Blanche" # Reinard
-	culture = wirtem
+    culture = burdigala
 	religion = unionism
 	female = yes
 	283.1.1 = {
@@ -11300,19 +11316,20 @@
 	mother = 425
 	father = 426
 
-	diplomacy = 5
-	martial = 7
-	stewardship = 5
-	intrigue = 5
-	learning = 5
-	add_trait = "creature_ailor"
-	add_trait = "flamboyant_schemer"
-	add_trait = "poet"
-	add_trait = "proud"
-	add_trait = "ambitious"
-	add_trait = "wroth"
-	add_trait = "strong"
-	disallow_random_traits = yes
+    diplomacy = 9
+    martial = 5
+    stewardship = 5
+    intrigue = 9
+    learning = 8
+    add_trait = "creature_ailor"
+    add_trait = "scholarly_theologian"
+    add_trait = "schemer"
+    add_trait = "poet"
+    add_trait = "quick"
+    add_trait = "stubborn"
+    add_trait = "kind"
+    add_trait = "ambitious"
+    disallow_random_traits = yes
 }
 
 486 = {
@@ -21989,8 +22006,8 @@
 		death = 385.1.1
 	}
 	dynasty = 209
-	father = 12003
-	mother = 12004
+	father = 1064
+	mother = 1065
 
 	diplomacy = 5
 	martial = 5
@@ -22084,7 +22101,7 @@
 }
 
 926 = {
-	name = "Willem" # Norrin
+	name = "Willem" # Jansen
 	culture = anglian
 	religion = draconism
 	254.1.1 = {
@@ -22093,7 +22110,7 @@
 	354.1.1 = {
 		death = 354.1.1
 	}
-	dynasty = 212
+	dynasty = 319
 
 	diplomacy = 9
 	martial = 28
@@ -22713,8 +22730,8 @@
 }
 
 950 = {
-	name = "Samuel" # Carter
-	culture = leutz_vixe
+	name = "Samuel" # von der Specht
+	culture = wirtem
 	religion = unionism
 	253.1.1 = {
 		birth = 253.1.1
@@ -25501,7 +25518,7 @@
 	add_trait = "creature_ailor"
 }
 
-12000 = {
+1061 = {
 	name = "Nikomedes" # Spathous
 	culture = etosian
 	religion = evintarian
@@ -25512,8 +25529,8 @@
 		death = 386.1.1
 	}
 	dynasty = 209
-	father = 12003
-	mother = 12005
+	father = 1064
+	mother = 1066
 
 	diplomacy = 12
 	martial = 5
@@ -25528,7 +25545,7 @@
 	diallow_random_traits = yes
 }
 
-12001 = {
+1062 = {
 	name = "Paris" # Spathous
 	culture = etosian
 	religion = evintarian
@@ -25539,8 +25556,8 @@
 		death = 387.1.1
 	}
 	dynasty = 209
-	father = 12003
-	mother = 12005
+	father = 1064
+	mother = 1066
 
 	diplomacy = 7
 	martial = 13
@@ -25556,7 +25573,7 @@
 	diallow_random_traits = yes
 }
 
-12002 = {
+1063 = {
 	name = "Magdalini" # Spathous
 	culture = etosian
 	religion = evintarian
@@ -25568,8 +25585,8 @@
 		death = 389.1.1
 	}
 	dynasty = 209
-	father = 12003
-	mother = 12005
+	father = 1064
+	mother = 1066
 
 	diplomacy = 7
 	martial = 6
@@ -25585,7 +25602,7 @@
 	disallow_random_traits = yes
 }
 
-12003 = {
+1064 = {
 	name = "Theodoros" # Spathous
 	culture = etosian
 	religion = evintarian
@@ -25599,7 +25616,7 @@
 	add_trait = "creature_ailor"
 }
 
-12004 = {
+1065 = {
 	name = "Dorothea"
 	culture = etosian
 	religion = evintarian
@@ -25613,7 +25630,7 @@
 	add_trait = "creature_ailor"
 }
 
-12005 = {
+1066 = {
 	name = "Apollonia"
 	culture = etosian
 	religion = evintarian
@@ -25640,7 +25657,7 @@
 	disallow_random_traits = yes
 }
 
-12006 = {
+1067 = {
 	name = "Christosphoros" # Spathous
 	culture = etosian
 	religion = evintarian
@@ -25651,12 +25668,26 @@
 		death = 311.1.1
 	}
 	dynasty = 209
-	father = 12003
-	mother = 12004
+	father = 1064
+	mother = 1065
 	add_trait = "creature_ailor"
 }
 
-13000 = {
+1068 = {
+	name = "Andreas" # Katsaros
+	culture = etosian
+	religion = evintarian
+	281.1.1 = {
+		birth = 281.1.1
+	}
+	381.1.1 = {
+		death = 381.1.1
+	}
+	dynasty = 320
+	add_trait = "creature_ailor"
+}
+
+1069 = {
 	name = "Branimir" # Novak
 	culture = byala
 	religion = unionism
@@ -25670,7 +25701,7 @@
 	add_trait = "creature_ailor"
 }
 
-13001 = {
+1070 = {
 	name = "Trajan" # Novak
 	culture = byala
 	religion = unionism
@@ -25679,13 +25710,13 @@
 	}
 
 	285.1.1 = {
-		add_spouse = 13010
+		add_spouse = 1079
 	}
 	365.1.1 = {
 		death = 365.1.1
 	}
 	dynasty = 318
-	father = 13000
+	father = 1069
 
 	diplomacy = 13
 	martial = 15
@@ -25703,7 +25734,7 @@
 	diallow_random_traits = yes
 }
 
-13002 = {
+1071 = {
 	name = "Desemir" # Novak
 	culture = byala
 	religion = unionism
@@ -25714,11 +25745,11 @@
 		death = 294.1.1
 	}
 	dynasty = 318
-	father = 13000
+	father = 1069
 	add_trait = "creature_ailor"
 }
 
-13003 = {
+1072 = {
 	name = "Bozo" # Novak
 	culture = byala
 	religion = unionism
@@ -25729,7 +25760,7 @@
 		death = 367.1.1
 	}
 	dynasty = 318
-	father = 13000
+	father = 1069
 
 	diplomacy = 9
 	martial = 7
@@ -25746,7 +25777,7 @@
 	disallow_random_traits = yes
 }
 
-13004 = {
+1073 = {
 	name = "Zlatan" # Novak
 	culture = byala
 	religion = unionism
@@ -25757,7 +25788,7 @@
 		death = 390.1.1
 	}
 	dynasty = 318
-	father = 13002
+	father = 1071
 
 	diplomacy = 10
 	martial = 10
@@ -25772,7 +25803,7 @@
 	disallow_random_traits = yes
 }
 
-13005 = {
+1074 = {
 	name = "Radomir" # Novak
 	culture = byala
 	religion = unionism
@@ -25783,7 +25814,7 @@
 		death = 390.1.1
 	}
 	dynasty = 318
-	father = 13002
+	father = 1071
 
 	diplomacy = 8
 	martial = 8
@@ -25797,7 +25828,7 @@
 	disallow_random_traits = yes
 }
 
-13006 = {
+1075 = {
 	name = "Andelko" # Novak
 	culture = byala
 	religion = unionism
@@ -25808,7 +25839,7 @@
 		death = 390.1.1
 	}
 	dynasty = 318
-	father = 13002
+	father = 1071
 
 	diplomacy = 6
 	martial = 6
@@ -25822,7 +25853,7 @@
 	disallow_random_traits = yes
 }
 
-13007 = {
+1076 = {
 	name = "Miomyr" # Novak
 	culture = byala
 	religion = unionism
@@ -25833,8 +25864,8 @@
 		death = 386.1.1
 	}
 	dynasty = 318
-	father = 13001
-	mother = 13010
+	father = 1070
+	mother = 1079
 
 	diplomacy = 7
 	martial = 7
@@ -25851,7 +25882,7 @@
 	diallow_random_traits = yes
 }
 
-13008 = {
+1077 = {
 	name = "Lidija" # Novak
 	culture = byala
 	religion = unionism
@@ -25863,8 +25894,8 @@
 		death = 389.1.1
 	}
 	dynasty = 318
-	father = 13001
-	mother = 13010
+	father = 1070
+	mother = 1079
 
 	diplomacy = 11
 	martial = 12
@@ -25880,7 +25911,7 @@
 	diallow_random_traits = yes
 }
 
-13009 = {
+1078 = {
 	name = "Petar" # Novak
 	culture = byala
 	religion = unionism
@@ -25891,7 +25922,7 @@
 		death = 395.1.1
 	}
 	dynasty = 318
-	father = 13001
+	father = 1070
 
 	diplomacy = 11
 	martial = 18
@@ -25905,7 +25936,7 @@
 	diallow_random_traits = yes
 }
 
-13010 = {
+1079 = {
 	name = "Adrijana"
 	culture = byala
 	religion = unionism
@@ -25915,7 +25946,7 @@
 	}
 
 	285.1.1 = {
-		add_spouse = 13001
+		add_spouse = 1070
 	}
 	364.1.1 = {
 		death = 364.1.1
@@ -25935,7 +25966,7 @@
 	disallow_random_traits = yes
 }
 
-13011 = {
+1080 = {
 	name = "Emilija" # Novak
 	culture = byala
 	religion = unionism
@@ -25947,7 +25978,7 @@
 		death = 389.1.1
 	}
 	dynasty = 318
-	father = 13003
+	father = 1072
 
 	diplomacy = 7
 	martial = 5
@@ -25962,7 +25993,7 @@
 	disallow_random_traits = yes
 }
 
-13012 = {
+1081 = {
 	name = "Zarko" # Novak
 	culture = byala
 	religion = unionism
@@ -25973,7 +26004,7 @@
 		death = 389.1.1
 	}
 	dynasty = 318
-	father = 13003
+	father = 1072
 
 	diplomacy = 11
 	martial = 7
@@ -25989,7 +26020,7 @@
 	disallow_random_traits = yes
 }
 
-13013 = {
+1082 = {
 	name = "Velimir" # Novak
 	culture = byala
 	religion = unionism
@@ -26000,7 +26031,7 @@
 		death = 389.1.1
 	}
 	dynasty = 318
-	father = 13003
+	father = 1072
 
 	diplomacy = 10
 	martial = 9
@@ -26016,7 +26047,7 @@
 	diallow_random_traits = yes
 }
 
-13014 = {
+1083 = {
 	name = "Stefana" # Novak
 	culture = byala
 	religion = unionism
@@ -26028,7 +26059,7 @@
 		death = 389.1.1
 	}
 	dynasty = 318
-	father = 13003
+	father = 1072
 
 	diplomacy = 7
 	martial = 7
@@ -26041,3 +26072,4 @@
 	add_trait = "brave"
 	disallow_random_traits = yes
 }
+

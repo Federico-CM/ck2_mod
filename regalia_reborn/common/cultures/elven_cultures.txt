@@ -2,7 +2,7 @@ elven_group = {
     graphical_cultures = { westerngfx }
 
     suvial = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { frankishgfx }
         
         color = { 0.8 0.2 0.2 }
         
@@ -23,7 +23,7 @@ elven_group = {
     }
 
     finul = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { frankishgfx }
         
         color = { 0.8 0.2 0.2 }
         
@@ -44,7 +44,7 @@ elven_group = {
     }
 
     selvath = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { frankishgfx }
         
         color = { 0.8 0.2 0.2 }
         
@@ -65,7 +65,7 @@ elven_group = {
     }
 
     yanar = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { frankishgfx }
         
         color = { 0.8 0.2 0.2 }
         
@@ -86,7 +86,7 @@ elven_group = {
     }
 
     llasada = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { frankishgfx }
         
         color = { 0.8 0.2 0.2 }
         
@@ -107,7 +107,7 @@ elven_group = {
     }
 
     kathar = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { frankishgfx }
         
         color = { 0.8 0.2 0.2 }
         
@@ -128,7 +128,7 @@ elven_group = {
     }
 
     isldar = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { frankishgfx }
         
         color = { 0.8 0.2 0.2 }
         
@@ -149,7 +149,7 @@ elven_group = {
     }
 
     sihndar = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { frankishgfx }
         
         color = { 0.8 0.2 0.2 }
         
@@ -170,7 +170,7 @@ elven_group = {
     }
 
     solvaan = {
-        graphical_cultures = { englishgfx }
+        graphical_cultures = { frankishgfx }
         
         color = { 0.8 0.2 0.2 }
         
