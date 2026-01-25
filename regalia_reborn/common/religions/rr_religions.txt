@@ -36,9 +36,9 @@ unionism_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_claim = yes
+		# can_excommunicate = yes
+		# can_grant_divorce = yes
+		# can_grant_claim = yes
 		priests_can_inherit = no
 	}
 

@@ -1,0 +1,57 @@
+namespace = RR # 1-1000
+
+# Event chain starts here
+character_event = {
+    id = RR.1
+    picture = GFX_evt_garden
+    is_triggered_only = yes
+
+    desc = { text = EVTDESC_RR_1 }
+
+    option = {
+        name = estelley_retreat_yes
+        set_character_flag = in_retreat
+        character_event = { id = RR.2 days = 3 }
+    }
+    option = {
+        name = estelley_retreat_no
+    }
+}
+
+character_event = {
+    id = RR.2
+    picture = GFX_evt_garden
+    is_triggered_only = yes
+
+    desc = { text = EVTDESC_RR_2 }
+
+    option = {
+        name = estelley_retreat_priest_soma_yes
+
+        if = {
+            limit = { job_spiritual = { always = yes } }   # make sure a chaplain exists
+            job_spiritual = {
+                opinion = {
+                    modifier = opinion_took_my_advice
+                    who = ROOT
+                }
+            }
+        }
+    }
+
+    option = {
+        name = estelley_retreat_priest_soma_no
+
+        if = {
+            limit = { job_spiritual = { always = yes } }   # make sure a chaplain exists
+            job_spiritual = {
+                opinion = {
+                    modifier = opinion_did_not_take_my_advice
+                    who = ROOT
+                }
+            }
+        }
+    }
+
+}
+

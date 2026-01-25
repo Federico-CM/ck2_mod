@@ -1,0 +1,9 @@
+sacred_withdrawal;Undertake a Sacred Withdrawal.;;;;;;;;;x
+estelley1;A clown appears at your court.;;;;;;;;;x
+EVTDESC_RR_1;My faith calls me to refine my spirit, for a soul left idle withers. Yet as I prepare to withdraw in contemplation, my thoughts return to the realm I rule. Can I truly afford such absence?;;;;;;;;;;;;;x
+estelley_retreat_yes;Yes. Faith demands this.;;;;;;;;;;;;;x
+estelley_retreat_no;No. The realm needs me now.;;;;;;;;;;;;;x
+
+EVTDESC_RR_2;[Root.GetJobSpiritual.GetTitledFirstName] places a small carved token in your palm. My lord, when you take your retreat, pray to Soma, that your thoughts become clear and your plans outlast the chaos of the moment.;;;;;;;;;;;;;x
+estelley_retreat_priest_soma_yes;Your reminder is... timely. I will not ignore it.;;;;;;;;;;;;;x
+estelley_retreat_priest_soma_no;I will offer my thoughts where I judge them most needed.;;;;;;;;;;;;;x
