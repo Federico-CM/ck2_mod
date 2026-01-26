@@ -1,14 +1,14 @@
 e_ventosa = {
-    color = { 202 211 135 }
-    color2 = { 202 211 135 }
+    color = { 80 142 99 }
+    color2 = { 95 136 108 }
     capital = 179
     k_alveriade = {
-        color = { 202 211 135 }
-        color2 = { 202 211 135 }
+        color = { 71 94 122 }
+        color2 = { 67 82 100 }
         capital = 179
         d_cavoeira = {
-            color = { 202 211 135 }
-            color2 = { 202 211 135 }
+            color = { 62 103 93 }
+            color2 = { 83 110 104 }
             capital = 179
             c_calzeira = {
                 b_ferraia = {
@@ -27,8 +27,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 202 211 135 }
-                color2 = { 202 211 135 }
+                color = { 49 77 78 }
+                color2 = { 73 91 92 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -55,8 +55,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 221 199 158 }
-                color2 = { 221 199 158 }
+                color = { 68 121 92 }
+                color2 = { 59 94 75 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -78,8 +78,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 219 203 141 }
-                color2 = { 219 203 141 }
+                color = { 82 88 109 }
+                color2 = { 102 106 119 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -89,8 +89,8 @@ e_ventosa = {
             title_female = duke
         }
         d_odivelas = {
-            color = { 189 195 137 }
-            color2 = { 189 195 137 }
+            color = { 100 82 103 }
+            color2 = { 84 73 86 }
             capital = 183
             c_amadora = {
                 b_pradeira = {
@@ -114,8 +114,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 202 184 152 }
-                color2 = { 202 184 152 }
+                color = { 96 110 87 }
+                color2 = { 79 88 73 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -137,8 +137,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 209 213 158 }
-                color2 = { 209 213 158 }
+                color = { 115 115 100 }
+                color2 = { 121 121 112 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -165,8 +165,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 199 223 144 }
-                color2 = { 199 223 144 }
+                color = { 88 104 99 }
+                color2 = { 83 94 90 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -188,8 +188,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 189 195 137 }
-                color2 = { 189 195 137 }
+                color = { 115 72 104 }
+                color2 = { 119 91 112 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -199,8 +199,8 @@ e_ventosa = {
             title_female = duke
         }
         d_sintra = {
-            color = { 184 217 147 }
-            color2 = { 184 217 147 }
+            color = { 103 109 106 }
+            color2 = { 121 125 123 }
             capital = 187
             c_alhandra = {
                 b_figos = {
@@ -219,8 +219,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 212 210 157 }
-                color2 = { 212 210 157 }
+                color = { 88 126 104 }
+                color2 = { 84 109 95 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -247,8 +247,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 209 186 155 }
-                color2 = { 209 186 155 }
+                color = { 105 98 81 }
+                color2 = { 90 86 75 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -270,8 +270,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 184 217 147 }
-                color2 = { 184 217 147 }
+                color = { 126 118 91 }
+                color2 = { 111 106 88 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -298,8 +298,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 223 189 120 }
-                color2 = { 223 189 120 }
+                color = { 83 124 108 }
+                color2 = { 79 105 95 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -321,8 +321,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 190 222 128 }
-                color2 = { 190 222 128 }
+                color = { 131 100 123 }
+                color2 = { 139 119 134 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -332,8 +332,8 @@ e_ventosa = {
             title_female = duke
         }
         d_villa_real = {
-            color = { 192 189 135 }
-            color2 = { 192 189 135 }
+            color = { 75 111 97 }
+            color2 = { 72 95 86 }
             capital = 192
             c_vila_rainal = {
                 b_calhudos = {
@@ -352,8 +352,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 193 194 133 }
-                color2 = { 193 194 133 }
+                color = { 69 93 88 }
+                color2 = { 89 104 101 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -375,8 +375,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 197 187 152 }
-                color2 = { 197 187 152 }
+                color = { 64 94 91 }
+                color2 = { 83 102 100 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -403,8 +403,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 192 189 135 }
-                color2 = { 192 189 135 }
+                color = { 58 97 109 }
+                color2 = { 62 87 95 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -418,12 +418,12 @@ e_ventosa = {
         title_female = king
     }
     k_bragas = {
-        color = { 169 199 93 }
-        color2 = { 169 199 93 }
+        color = { 128 75 127 }
+        color2 = { 110 75 109 }
         capital = 194
         d_campelo = {
-            color = { 169 199 93 }
-            color2 = { 169 199 93 }
+            color = { 112 106 115 }
+            color2 = { 102 98 104 }
             capital = 194
             c_campelo = {
                 b_cerejos = {
@@ -442,8 +442,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 198 200 93 }
-                color2 = { 198 200 93 }
+                color = { 119 88 119 }
+                color2 = { 122 101 122 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -465,8 +465,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 175 188 113 }
-                color2 = { 175 188 113 }
+                color = { 126 110 124 }
+                color2 = { 136 126 135 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -493,8 +493,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 179 204 119 }
-                color2 = { 179 204 119 }
+                color = { 93 108 93 }
+                color2 = { 87 96 87 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -526,8 +526,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 169 199 93 }
-                color2 = { 169 199 93 }
+                color = { 113 119 137 }
+                color2 = { 106 109 121 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -537,8 +537,8 @@ e_ventosa = {
             title_female = duke
         }
         d_issa = {
-            color = { 168 176 103 }
-            color2 = { 168 176 103 }
+            color = { 107 75 96 }
+            color2 = { 109 88 102 }
             capital = 198
             c_carrazeda = {
                 b_galeira = {
@@ -557,8 +557,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 168 176 103 }
-                color2 = { 168 176 103 }
+                color = { 91 101 86 }
+                color2 = { 107 113 103 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -580,8 +580,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 186 173 125 }
-                color2 = { 186 173 125 }
+                color = { 100 54 77 }
+                color2 = { 74 44 59 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -603,8 +603,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 179 193 86 }
-                color2 = { 179 193 86 }
+                color = { 110 87 119 }
+                color2 = { 125 110 131 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -614,8 +614,8 @@ e_ventosa = {
             title_female = duke
         }
         d_montargil = {
-            color = { 190 199 90 }
-            color2 = { 190 199 90 }
+            color = { 109 73 134 }
+            color2 = { 114 90 130 }
             capital = 201
             c_lamengao = {
                 b_outeira = {
@@ -634,8 +634,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 207 177 111 }
-                color2 = { 207 177 111 }
+                color = { 117 89 103 }
+                color2 = { 125 107 116 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -657,8 +657,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 190 199 90 }
-                color2 = { 190 199 90 }
+                color = { 103 104 144 }
+                color2 = { 102 103 129 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -680,8 +680,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 204 198 120 }
-                color2 = { 204 198 120 }
+                color = { 88 98 122 }
+                color2 = { 103 110 125 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -691,8 +691,8 @@ e_ventosa = {
             title_female = duke
         }
         d_trofirsa = {
-            color = { 177 190 105 }
-            color2 = { 177 190 105 }
+            color = { 101 91 93 }
+            color2 = { 108 101 103 }
             capital = 204
             c_alijo = {
                 b_crasta = {
@@ -716,8 +716,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 177 190 105 }
-                color2 = { 177 190 105 }
+                color = { 74 72 85 }
+                color2 = { 69 68 76 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -731,12 +731,12 @@ e_ventosa = {
         title_female = king
     }
     k_essaboa = {
-        color = { 184 193 123 }
-        color2 = { 184 193 123 }
+        color = { 120 67 64 }
+        color2 = { 123 89 87 }
         capital = 205
         d_alpiarca = {
-            color = { 184 193 123 }
-            color2 = { 184 193 123 }
+            color = { 117 68 49 }
+            color2 = { 94 62 50 }
             capital = 205
             c_alpiarca = {
                 b_almarina = {
@@ -760,8 +760,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 192 186 117 }
-                color2 = { 192 186 117 }
+                color = { 108 47 43 }
+                color2 = { 75 36 33 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -793,8 +793,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 186 210 100 }
-                color2 = { 186 210 100 }
+                color = { 125 69 78 }
+                color2 = { 127 91 97 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -821,8 +821,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 184 193 123 }
-                color2 = { 184 193 123 }
+                color = { 115 86 59 }
+                color2 = { 91 72 55 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -844,8 +844,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 211 191 111 }
-                color2 = { 211 191 111 }
+                color = { 78 76 37 }
+                color2 = { 58 57 31 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -872,8 +872,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 209 191 104 }
-                color2 = { 209 191 104 }
+                color = { 115 64 34 }
+                color2 = { 109 75 56 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -883,8 +883,8 @@ e_ventosa = {
             title_female = duke
         }
         d_issabon = {
-            color = { 189 214 123 }
-            color2 = { 189 214 123 }
+            color = { 94 67 83 }
+            color2 = { 104 87 97 }
             capital = 210
             c_alcavanza = {
                 b_verdizes = {
@@ -903,8 +903,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 200 206 120 }
-                color2 = { 200 206 120 }
+                color = { 107 78 86 }
+                color2 = { 111 92 97 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -931,8 +931,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 189 214 123 }
-                color2 = { 189 214 123 }
+                color = { 98 98 97 }
+                color2 = { 82 82 81 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -959,8 +959,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 202 187 115 }
-                color2 = { 202 187 115 }
+                color = { 104 80 71 }
+                color2 = { 106 91 85 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -987,8 +987,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 195 192 116 }
-                color2 = { 195 192 116 }
+                color = { 59 46 57 }
+                color2 = { 73 65 72 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -998,8 +998,8 @@ e_ventosa = {
             title_female = duke
         }
         d_mourinhao = {
-            color = { 189 207 114 }
-            color2 = { 189 207 114 }
+            color = { 78 45 43 }
+            color2 = { 63 42 40 }
             capital = 214
             c_almerim = {
                 b_milla = {
@@ -1023,8 +1023,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 189 207 114 }
-                color2 = { 189 207 114 }
+                color = { 92 46 41 }
+                color2 = { 72 42 39 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1051,8 +1051,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 222 192 126 }
-                color2 = { 222 192 126 }
+                color = { 75 36 21 }
+                color2 = { 79 54 44 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1084,8 +1084,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 209 201 120 }
-                color2 = { 209 201 120 }
+                color = { 68 49 54 }
+                color2 = { 79 67 70 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -1107,8 +1107,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 221 196 111 }
-                color2 = { 221 196 111 }
+                color = { 86 39 34 }
+                color2 = { 87 57 54 }
                 culture = bragacao
                 title = count
                 title_female = count
@@ -1122,12 +1122,12 @@ e_ventosa = {
         title_female = king
     }
     k_north_rivel = {
-        color = { 184 107 171 }
-        color2 = { 184 107 171 }
+        color = { 106 126 71 }
+        color2 = { 98 111 76 }
         capital = 218
         d_alerna = {
-            color = { 184 107 171 }
-            color2 = { 184 107 171 }
+            color = { 120 120 79 }
+            color2 = { 124 124 97 }
             capital = 218
             c_la_rosa = {
                 b_drashim = {
@@ -1161,8 +1161,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 184 107 171 }
-                color2 = { 184 107 171 }
+                color = { 117 104 64 }
+                color2 = { 101 93 67 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1184,8 +1184,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 208 136 157 }
-                color2 = { 208 136 157 }
+                color = { 100 99 65 }
+                color2 = { 86 85 63 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1217,8 +1217,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 184 133 166 }
-                color2 = { 184 133 166 }
+                color = { 101 101 109 }
+                color2 = { 114 114 119 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1228,8 +1228,8 @@ e_ventosa = {
             title_female = duke
         }
         d_calista = {
-            color = { 189 112 150 }
-            color2 = { 189 112 150 }
+            color = { 88 115 78 }
+            color2 = { 82 100 76 }
             capital = 221
             c_cajarzes = {
                 b_lirath = {
@@ -1248,8 +1248,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 217 112 150 }
-                color2 = { 217 112 150 }
+                color = { 71 111 88 }
+                color2 = { 95 121 106 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1276,8 +1276,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 206 115 135 }
-                color2 = { 206 115 135 }
+                color = { 114 127 76 }
+                color2 = { 123 132 98 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1299,8 +1299,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 189 112 150 }
-                color2 = { 189 112 150 }
+                color = { 90 133 105 }
+                color2 = { 107 135 116 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1310,8 +1310,8 @@ e_ventosa = {
             title_female = duke
         }
         d_ferresta = {
-            color = { 189 128 142 }
-            color2 = { 189 128 142 }
+            color = { 93 132 88 }
+            color2 = { 85 110 82 }
             capital = 224
             c_azes = {
                 b_koradin = {
@@ -1330,8 +1330,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 190 103 174 }
-                color2 = { 190 103 174 }
+                color = { 79 100 65 }
+                color2 = { 64 77 55 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1353,8 +1353,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 189 128 142 }
-                color2 = { 189 128 142 }
+                color = { 104 143 74 }
+                color2 = { 118 143 99 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1364,8 +1364,8 @@ e_ventosa = {
             title_female = duke
         }
         d_sollarna = {
-            color = { 191 112 157 }
-            color2 = { 191 112 157 }
+            color = { 89 103 61 }
+            color2 = { 74 83 56 }
             capital = 226
             c_la_paradill = {
                 b_odranik = {
@@ -1384,8 +1384,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 213 134 166 }
-                color2 = { 213 134 166 }
+                color = { 100 86 87 }
+                color2 = { 110 101 101 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1412,8 +1412,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 212 127 166 }
-                color2 = { 212 127 166 }
+                color = { 86 89 61 }
+                color2 = { 101 102 84 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1435,8 +1435,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 191 112 157 }
-                color2 = { 191 112 157 }
+                color = { 95 76 50 }
+                color2 = { 101 88 71 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1450,12 +1450,12 @@ e_ventosa = {
         title_female = king
     }
     k_south_rivel = {
-        color = { 197 129 187 }
-        color2 = { 197 129 187 }
+        color = { 70 121 88 }
+        color2 = { 86 119 98 }
         capital = 229
         d_cozaal = {
-            color = { 197 129 187 }
-            color2 = { 197 129 187 }
+            color = { 73 123 110 }
+            color2 = { 75 108 99 }
             capital = 229
             c_cozaal_isle = {
                 b_medu = {
@@ -1479,8 +1479,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 236 136 154 }
-                color2 = { 236 136 154 }
+                color = { 59 133 84 }
+                color2 = { 78 126 94 }
                 culture = asha
                 title = count
                 title_female = count
@@ -1507,8 +1507,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 204 161 166 }
-                color2 = { 204 161 166 }
+                color = { 60 98 118 }
+                color2 = { 64 89 102 }
                 culture = skyborn
                 title = count
                 title_female = count
@@ -1535,8 +1535,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 197 129 187 }
-                color2 = { 197 129 187 }
+                color = { 60 104 86 }
+                color2 = { 61 90 78 }
                 culture = asha
                 title = count
                 title_female = count
@@ -1563,8 +1563,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 221 152 175 }
-                color2 = { 221 152 175 }
+                color = { 86 98 130 }
+                color2 = { 80 87 108 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1574,8 +1574,8 @@ e_ventosa = {
             title_female = duke
         }
         d_matarrac = {
-            color = { 225 137 173 }
-            color2 = { 225 137 173 }
+            color = { 86 90 93 }
+            color2 = { 93 96 98 }
             capital = 233
             c_flores_isle = {
                 b_aulikar = {
@@ -1599,8 +1599,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 225 137 173 }
-                color2 = { 225 137 173 }
+                color = { 82 113 88 }
+                color2 = { 98 118 102 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1622,8 +1622,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 230 137 180 }
-                color2 = { 230 137 180 }
+                color = { 71 81 108 }
+                color2 = { 65 71 89 }
                 culture = allar
                 title = count
                 title_female = count
@@ -1633,8 +1633,8 @@ e_ventosa = {
             title_female = duke
         }
         d_sornara = {
-            color = { 225 128 157 }
-            color2 = { 225 128 157 }
+            color = { 58 89 110 }
+            color2 = { 50 70 84 }
             capital = 235
             c_islas_mujen = {
                 b_valdaron = {
@@ -1653,8 +1653,8 @@ e_ventosa = {
                 
                 }
 
-                color = { 225 128 157 }
-                color2 = { 225 128 157 }
+                color = { 45 83 120 }
+                color2 = { 72 97 121 }
                 culture = allar
                 title = count
                 title_female = count

@@ -1,14 +1,14 @@
 e_ostmark = {
-    color = { 191 201 138 }
-    color2 = { 191 201 138 }
+    color = { 158 148 90 }
+    color2 = { 133 126 89 }
     capital = 77
     k_genevaud = {
-        color = { 191 201 138 }
-        color2 = { 191 201 138 }
+        color = { 115 70 130 }
+        color2 = { 102 72 111 }
         capital = 77
         d_lorrach = {
-            color = { 191 201 138 }
-            color2 = { 191 201 138 }
+            color = { 143 102 148 }
+            color2 = { 133 106 136 }
             capital = 77
             c_bad = {
                 b_talbrunn = {
@@ -37,8 +37,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 204 207 142 }
-                color2 = { 204 207 142 }
+                color = { 110 92 119 }
+                color2 = { 119 107 125 }
                 culture = genevaud
                 title = count
                 title_female = count
@@ -60,8 +60,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 193 184 169 }
-                color2 = { 193 184 169 }
+                color = { 160 110 170 }
+                color2 = { 141 109 148 }
                 culture = genevaud
                 title = count
                 title_female = count
@@ -88,8 +88,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 191 201 138 }
-                color2 = { 191 201 138 }
+                color = { 127 110 153 }
+                color2 = { 112 101 129 }
                 culture = genevaud
                 title = count
                 title_female = count
@@ -99,8 +99,8 @@ e_ostmark = {
             title_female = duke
         }
         d_mouthier = {
-            color = { 200 210 142 }
-            color2 = { 200 210 142 }
+            color = { 94 59 93 }
+            color2 = { 84 61 83 }
             capital = 80
             c_gallenberg = {
                 b_freihalde = {
@@ -119,8 +119,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 200 210 142 }
-                color2 = { 200 210 142 }
+                color = { 94 74 84 }
+                color2 = { 80 68 74 }
                 culture = genevaud
                 title = count
                 title_female = count
@@ -147,8 +147,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 213 191 171 }
-                color2 = { 213 191 171 }
+                color = { 83 44 98 }
+                color2 = { 69 44 79 }
                 culture = genevaud
                 title = count
                 title_female = count
@@ -158,8 +158,8 @@ e_ostmark = {
             title_female = duke
         }
         d_schaffhausen = {
-            color = { 197 180 136 }
-            color2 = { 197 180 136 }
+            color = { 122 61 114 }
+            color2 = { 106 66 101 }
             capital = 82
             c_arau = {
                 b_zurlinden = {
@@ -178,8 +178,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 209 180 149 }
-                color2 = { 209 180 149 }
+                color = { 128 99 124 }
+                color2 = { 135 116 133 }
                 culture = genevaud
                 title = count
                 title_female = count
@@ -201,8 +201,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 213 206 151 }
-                color2 = { 213 206 151 }
+                color = { 96 61 95 }
+                color2 = { 81 58 80 }
                 culture = genevaud
                 title = count
                 title_female = count
@@ -229,8 +229,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 217 198 143 }
-                color2 = { 217 198 143 }
+                color = { 116 56 118 }
+                color2 = { 126 87 128 }
                 culture = genevaud
                 title = count
                 title_female = count
@@ -252,8 +252,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 197 180 136 }
-                color2 = { 197 180 136 }
+                color = { 121 70 91 }
+                color2 = { 118 84 98 }
                 culture = genevaud
                 title = count
                 title_female = count
@@ -267,12 +267,12 @@ e_ostmark = {
         title_female = king
     }
     k_lorenthaus = {
-        color = { 169 161 169 }
-        color2 = { 169 161 169 }
+        color = { 119 70 66 }
+        color2 = { 121 89 87 }
         capital = 97 #Lorhaus
         d_elane = {
-            color = { 169 161 169 }
-            color2 = { 169 161 169 }
+            color = { 84 75 63 }
+            color2 = { 92 86 78 }
             capital = 86
             c_elane = {
                 b_haange = {
@@ -291,8 +291,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 169 161 169 }
-                color2 = { 169 161 169 }
+                color = { 77 77 53 }
+                color2 = { 59 59 44 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -324,8 +324,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 189 151 183 }
-                color2 = { 189 151 183 }
+                color = { 98 68 85 }
+                color2 = { 101 82 93 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -347,8 +347,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 189 149 159 }
-                color2 = { 189 149 159 }
+                color = { 91 79 43 }
+                color2 = { 101 93 70 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -358,8 +358,8 @@ e_ostmark = {
             title_female = duke
         }
         d_lavoyare = {
-            color = { 171 168 180 }
-            color2 = { 171 168 180 }
+            color = { 92 51 57 }
+            color2 = { 89 63 66 }
             capital = 89
             c_essire = {
                 b_noumill = {
@@ -383,8 +383,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 178 176 174 }
-                color2 = { 178 176 174 }
+                color = { 56 67 43 }
+                color2 = { 45 52 36 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -411,8 +411,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 193 149 180 }
-                color2 = { 193 149 180 }
+                color = { 84 34 62 }
+                color2 = { 87 54 72 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -449,8 +449,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 192 140 182 }
-                color2 = { 192 140 182 }
+                color = { 65 41 55 }
+                color2 = { 51 36 45 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -477,8 +477,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 191 161 187 }
-                color2 = { 191 161 187 }
+                color = { 101 72 69 }
+                color2 = { 100 81 79 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -505,8 +505,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 198 168 188 }
-                color2 = { 198 168 188 }
+                color = { 104 73 60 }
+                color2 = { 84 64 56 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -528,8 +528,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 171 168 180 }
-                color2 = { 171 168 180 }
+                color = { 73 37 62 }
+                color2 = { 73 50 66 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -539,8 +539,8 @@ e_ostmark = {
             title_female = duke
         }
         d_lorhaus = {
-            color = { 171 148 188 }
-            color2 = { 171 148 188 }
+            color = { 106 104 96 }
+            color2 = { 111 109 104 }
             capital = 97 #Lorhaus
             c_aaker = {
                 b_lullen = {
@@ -559,8 +559,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 171 148 188 }
-                color2 = { 171 148 188 }
+                color = { 88 117 92 }
+                color2 = { 110 129 112 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -592,8 +592,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 196 178 153 }
-                color2 = { 196 178 153 }
+                color = { 105 117 82 }
+                color2 = { 89 96 74 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -620,8 +620,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 193 174 162 }
-                color2 = { 193 174 162 }
+                color = { 95 113 86 }
+                color2 = { 105 117 99 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -635,12 +635,12 @@ e_ostmark = {
         title_female = king
     }
     k_osteiermark = {
-        color = { 193 179 201 }
-        color2 = { 193 179 201 }
+        color = { 72 122 65 }
+        color2 = { 86 118 81 }
         capital = 107 #Ivenna
         d_carrais_du_lion = {
-            color = { 193 179 201 }
-            color2 = { 193 179 201 }
+            color = { 58 111 71 }
+            color2 = { 76 110 84 }
             capital = 98
             c_budelle = {
                 b_franven = {
@@ -664,8 +664,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 194 171 202 }
-                color2 = { 194 171 202 }
+                color = { 88 96 82 }
+                color2 = { 104 110 100 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -692,8 +692,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 217 198 188 }
-                color2 = { 217 198 188 }
+                color = { 70 94 83 }
+                color2 = { 81 97 90 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -715,8 +715,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 206 170 189 }
-                color2 = { 206 170 189 }
+                color = { 63 109 83 }
+                color2 = { 83 113 96 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -743,8 +743,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 193 179 201 }
-                color2 = { 193 179 201 }
+                color = { 91 118 94 }
+                color2 = { 108 125 109 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -754,8 +754,8 @@ e_ostmark = {
             title_female = duke
         }
         d_gorzen = {
-            color = { 192 184 206 }
-            color2 = { 192 184 206 }
+            color = { 66 96 93 }
+            color2 = { 64 83 81 }
             capital = 102
             c_gorzen = {
                 b_clerbich = {
@@ -774,8 +774,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 205 198 192 }
-                color2 = { 205 198 192 }
+                color = { 93 79 96 }
+                color2 = { 81 72 83 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -802,8 +802,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 205 193 193 }
-                color2 = { 205 193 193 }
+                color = { 53 104 103 }
+                color2 = { 73 106 105 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -830,8 +830,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 192 184 206 }
-                color2 = { 192 184 206 }
+                color = { 82 79 99 }
+                color2 = { 99 97 110 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -858,8 +858,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 203 175 190 }
-                color2 = { 203 175 190 }
+                color = { 50 73 64 }
+                color2 = { 44 59 53 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -869,8 +869,8 @@ e_ostmark = {
             title_female = duke
         }
         d_ivenna = {
-            color = { 196 176 194 }
-            color2 = { 196 176 194 }
+            color = { 66 132 61 }
+            color2 = { 58 101 55 }
             capital = 107
             c_ivenna = {
                 b_ernach = {
@@ -894,8 +894,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 200 175 182 }
-                color2 = { 200 175 182 }
+                color = { 49 98 45 }
+                color2 = { 66 98 64 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -922,8 +922,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 196 176 194 }
-                color2 = { 196 176 194 }
+                color = { 68 140 97 }
+                color2 = { 92 139 111 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -950,8 +950,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 188 195 185 }
-                color2 = { 188 195 185 }
+                color = { 62 130 78 }
+                color2 = { 62 106 72 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -961,8 +961,8 @@ e_ostmark = {
             title_female = duke
         }
         d_praag = {
-            color = { 188 195 185 }
-            color2 = { 188 195 185 }
+            color = { 45 86 40 }
+            color2 = { 61 88 58 }
             capital = 110
             c_morveten = {
                 b_leving = {
@@ -981,8 +981,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 196 165 171 }
-                color2 = { 196 165 171 }
+                color = { 44 61 60 }
+                color2 = { 62 73 72 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1004,8 +1004,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 195 177 199 }
-                color2 = { 195 177 199 }
+                color = { 62 64 39 }
+                color2 = { 43 44 28 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -1037,8 +1037,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 210 172 178 }
-                color2 = { 210 172 178 }
+                color = { 41 89 23 }
+                color2 = { 38 70 27 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -1052,12 +1052,12 @@ e_ostmark = {
         title_female = king
     }
     k_tirgunn = {
-        color = { 161 151 137 }
-        color2 = { 161 151 137 }
+        color = { 72 107 124 }
+        color2 = { 94 117 128 }
         capital = 125 #Tirgenwald
         d_albarn = {
-            color = { 161 151 137 }
-            color2 = { 161 151 137 }
+            color = { 106 112 112 }
+            color2 = { 124 128 128 }
             capital = 112
             c_albarn = {
                 b_koula = {
@@ -1076,8 +1076,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 168 129 163 }
-                color2 = { 168 129 163 }
+                color = { 94 115 88 }
+                color2 = { 79 92 75 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -1104,8 +1104,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 161 153 137 }
-                color2 = { 161 153 137 }
+                color = { 122 115 132 }
+                color2 = { 132 128 139 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -1127,8 +1127,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 161 151 137 }
-                color2 = { 161 151 137 }
+                color = { 100 130 111 }
+                color2 = { 98 117 105 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -1155,8 +1155,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 190 155 155 }
-                color2 = { 190 155 155 }
+                color = { 124 139 139 }
+                color2 = { 134 143 143 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -1183,8 +1183,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 170 162 151 }
-                color2 = { 170 162 151 }
+                color = { 96 97 101 }
+                color2 = { 103 103 106 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -1206,8 +1206,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 168 132 153 }
-                color2 = { 168 132 153 }
+                color = { 94 126 113 }
+                color2 = { 107 128 119 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -1217,8 +1217,8 @@ e_ostmark = {
             title_female = duke
         }
         d_belfort = {
-            color = { 167 156 133 }
-            color2 = { 167 156 133 }
+            color = { 73 84 137 }
+            color2 = { 100 107 141 }
             capital = 118
             c_belfort = {
                 b_findhof = {
@@ -1242,8 +1242,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 170 138 136 }
-                color2 = { 170 138 136 }
+                color = { 97 65 124 }
+                color2 = { 104 84 122 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -1265,8 +1265,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 167 156 133 }
-                color2 = { 167 156 133 }
+                color = { 88 114 142 }
+                color2 = { 111 128 147 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -1298,8 +1298,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 180 157 145 }
-                color2 = { 180 157 145 }
+                color = { 69 67 129 }
+                color2 = { 83 81 122 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -1326,8 +1326,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 188 153 140 }
-                color2 = { 188 153 140 }
+                color = { 95 77 121 }
+                color2 = { 105 93 122 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -1337,8 +1337,8 @@ e_ostmark = {
             title_female = duke
         }
         d_nerien = {
-            color = { 156 140 137 }
-            color2 = { 156 140 137 }
+            color = { 56 79 129 }
+            color2 = { 84 99 132 }
             capital = 125 #Tirgenwald
             c_bruecke = {
                 b_ehler = {
@@ -1362,8 +1362,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 156 140 137 }
-                color2 = { 156 140 137 }
+                color = { 88 67 130 }
+                color2 = { 106 93 134 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -1385,8 +1385,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 167 129 167 }
-                color2 = { 167 129 167 }
+                color = { 46 95 100 }
+                color2 = { 40 72 75 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -1408,8 +1408,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 157 138 163 }
-                color2 = { 157 138 163 }
+                color = { 86 69 139 }
+                color2 = { 101 90 136 }
                 culture = leutz_vixe
                 title = count
                 title_female = count
@@ -1436,8 +1436,8 @@ e_ostmark = {
                 
                 }
 
-                color = { 174 148 151 }
-                color2 = { 174 148 151 }
+                color = { 68 78 106 }
+                color2 = { 86 92 110 }
                 culture = leutz_vixe
                 title = count
                 title_female = count

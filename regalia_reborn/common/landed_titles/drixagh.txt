@@ -1,14 +1,14 @@
 e_drixagh = {
-    color = { 160 222 180 }
-    color2 = { 160 222 180 }
+    color = { 148 156 95 }
+    color2 = { 126 131 91 }
     capital = 598
     k_agerik = {
-        color = { 160 222 180 }
-        color2 = { 160 222 180 }
+        color = { 124 65 82 }
+        color2 = { 105 67 78 }
         capital = 598
         d_billund = {
-            color = { 160 222 180 }
-            color2 = { 160 222 180 }
+            color = { 123 69 69 }
+            color2 = { 124 89 89 }
             capital = 598
             c_billund = {
                 b_laukarbo = {
@@ -27,8 +27,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 186 235 176 }
-                color2 = { 186 235 176 }
+                color = { 87 55 85 }
+                color2 = { 93 72 92 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -50,8 +50,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 181 213 178 }
-                color2 = { 181 213 178 }
+                color = { 120 80 64 }
+                color2 = { 91 65 54 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -78,8 +78,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 187 228 185 }
-                color2 = { 187 228 185 }
+                color = { 86 80 47 }
+                color2 = { 68 64 42 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -106,8 +106,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 177 212 208 }
-                color2 = { 177 212 208 }
+                color = { 135 85 105 }
+                color2 = { 120 87 100 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -129,8 +129,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 160 222 180 }
-                color2 = { 160 222 180 }
+                color = { 105 77 69 }
+                color2 = { 116 97 92 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -157,8 +157,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 171 233 180 }
-                color2 = { 171 233 180 }
+                color = { 127 99 106 }
+                color2 = { 136 118 123 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -168,8 +168,8 @@ e_drixagh = {
             title_female = duke
         }
         d_mannerdrepland = {
-            color = { 157 197 196 }
-            color2 = { 157 197 196 }
+            color = { 139 102 110 }
+            color2 = { 141 117 122 }
             capital = 604
             c_alevik = {
                 b_litjrn = {
@@ -193,8 +193,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 157 197 196 }
-                color2 = { 157 197 196 }
+                color = { 107 80 88 }
+                color2 = { 118 100 105 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -221,8 +221,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 157 218 169 }
-                color2 = { 157 218 169 }
+                color = { 114 106 107 }
+                color2 = { 98 93 94 }
                 culture = fridurfolk
                 title = count
                 title_female = count
@@ -249,8 +249,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 179 218 170 }
-                color2 = { 179 218 170 }
+                color = { 108 105 93 }
+                color2 = { 93 91 83 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -277,8 +277,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 173 200 195 }
-                color2 = { 173 200 195 }
+                color = { 144 102 105 }
+                color2 = { 129 101 103 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -288,8 +288,8 @@ e_drixagh = {
             title_female = duke
         }
         d_medelpad = {
-            color = { 161 198 194 }
-            color2 = { 161 198 194 }
+            color = { 117 57 90 }
+            color2 = { 115 76 97 }
             capital = 608
             c_kjerulf = {
                 b_dabbyn = {
@@ -308,8 +308,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 166 216 184 }
-                color2 = { 166 216 184 }
+                color = { 109 59 99 }
+                color2 = { 90 58 84 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -336,8 +336,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 173 207 205 }
-                color2 = { 173 207 205 }
+                color = { 91 72 69 }
+                color2 = { 74 62 60 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -364,8 +364,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 161 198 194 }
-                color2 = { 161 198 194 }
+                color = { 134 100 108 }
+                color2 = { 111 89 94 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -387,8 +387,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 174 203 184 }
-                color2 = { 174 203 184 }
+                color = { 90 84 75 }
+                color2 = { 70 66 60 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -410,8 +410,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 174 204 168 }
-                color2 = { 174 204 168 }
+                color = { 109 46 80 }
+                color2 = { 109 68 90 }
                 culture = hoglander
                 title = count
                 title_female = count
@@ -425,12 +425,12 @@ e_drixagh = {
         title_female = king
     }
     k_bergeland = {
-        color = { 134 217 177 }
-        color2 = { 134 217 177 }
+        color = { 99 125 69 }
+        color2 = { 106 123 86 }
         capital = 613
         d_bergenhav = {
-            color = { 134 217 177 }
-            color2 = { 134 217 177 }
+            color = { 75 125 83 }
+            color2 = { 64 96 69 }
             capital = 613
             c_bergenhav = {
                 b_kronoby = {
@@ -454,8 +454,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 148 221 169 }
-                color2 = { 148 221 169 }
+                color = { 79 128 72 }
+                color2 = { 66 98 61 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -487,8 +487,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 134 217 177 }
-                color2 = { 134 217 177 }
+                color = { 81 104 68 }
+                color2 = { 76 91 68 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -520,8 +520,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 162 209 190 }
-                color2 = { 162 209 190 }
+                color = { 75 111 75 }
+                color2 = { 61 85 61 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -543,8 +543,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 157 210 172 }
-                color2 = { 157 210 172 }
+                color = { 70 98 109 }
+                color2 = { 94 112 119 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -554,8 +554,8 @@ e_drixagh = {
             title_female = duke
         }
         d_lundenes = {
-            color = { 131 206 173 }
-            color2 = { 131 206 173 }
+            color = { 77 120 97 }
+            color2 = { 100 128 113 }
             capital = 617
             c_hylgeberg = {
                 b_pulsund = {
@@ -584,8 +584,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 159 206 169 }
-                color2 = { 159 206 169 }
+                color = { 109 144 117 }
+                color2 = { 127 150 132 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -607,8 +607,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 133 198 169 }
-                color2 = { 133 198 169 }
+                color = { 73 138 122 }
+                color2 = { 104 147 136 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -635,8 +635,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 131 206 173 }
-                color2 = { 131 206 173 }
+                color = { 102 124 127 }
+                color2 = { 115 129 131 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -663,8 +663,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 145 192 157 }
-                color2 = { 145 192 157 }
+                color = { 94 113 122 }
+                color2 = { 82 94 100 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -674,8 +674,8 @@ e_drixagh = {
             title_female = duke
         }
         d_rodsand = {
-            color = { 131 205 189 }
-            color2 = { 131 205 189 }
+            color = { 80 125 54 }
+            color2 = { 90 119 73 }
             capital = 621
             c_hurvaldberg = {
                 b_flngsvik = {
@@ -694,8 +694,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 146 204 183 }
-                color2 = { 146 204 183 }
+                color = { 86 134 55 }
+                color2 = { 98 129 78 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -727,8 +727,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 131 205 189 }
-                color2 = { 131 205 189 }
+                color = { 82 114 41 }
+                color2 = { 98 119 71 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -750,8 +750,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 140 219 168 }
-                color2 = { 140 219 168 }
+                color = { 91 112 86 }
+                color2 = { 106 119 102 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -778,8 +778,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 135 200 153 }
-                color2 = { 135 200 153 }
+                color = { 88 132 80 }
+                color2 = { 81 110 76 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -806,8 +806,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 158 218 173 }
-                color2 = { 158 218 173 }
+                color = { 106 121 73 }
+                color2 = { 112 122 90 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -829,8 +829,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 147 197 163 }
-                color2 = { 147 197 163 }
+                color = { 93 138 91 }
+                color2 = { 113 142 112 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -840,8 +840,8 @@ e_drixagh = {
             title_female = duke
         }
         d_tormyr = {
-            color = { 164 219 172 }
-            color2 = { 164 219 172 }
+            color = { 89 128 103 }
+            color2 = { 86 112 95 }
             capital = 627
             c_halsberg = {
                 b_fngsta = {
@@ -860,8 +860,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 164 219 172 }
-                color2 = { 164 219 172 }
+                color = { 118 143 132 }
+                color2 = { 106 122 115 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -875,12 +875,12 @@ e_drixagh = {
         title_female = king
     }
     k_fjordeland = {
-        color = { 133 206 180 }
-        color2 = { 133 206 180 }
+        color = { 69 124 92 }
+        color2 = { 65 101 80 }
         capital = 628
         d_fylkesund = {
-            color = { 133 206 180 }
-            color2 = { 133 206 180 }
+            color = { 98 102 79 }
+            color2 = { 89 92 77 }
             capital = 628
             c_fylkesund = {
                 b_bjrstarp = {
@@ -904,8 +904,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 135 198 156 }
-                color2 = { 135 198 156 }
+                color = { 74 73 86 }
+                color2 = { 85 85 93 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -937,8 +937,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 133 206 180 }
-                color2 = { 133 206 180 }
+                color = { 78 81 93 }
+                color2 = { 69 71 79 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -965,8 +965,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 134 180 171 }
-                color2 = { 134 180 171 }
+                color = { 116 112 77 }
+                color2 = { 103 100 78 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -976,8 +976,8 @@ e_drixagh = {
             title_female = duke
         }
         d_garangerfjorden = {
-            color = { 148 211 165 }
-            color2 = { 148 211 165 }
+            color = { 56 128 77 }
+            color2 = { 77 124 90 }
             capital = 631
             c_firingerfjord = {
                 b_apperud = {
@@ -1001,8 +1001,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 149 206 177 }
-                color2 = { 149 206 177 }
+                color = { 67 103 56 }
+                color2 = { 62 85 55 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1024,8 +1024,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 148 211 165 }
-                color2 = { 148 211 165 }
+                color = { 65 120 87 }
+                color2 = { 85 121 99 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1057,8 +1057,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 150 184 165 }
-                color2 = { 150 184 165 }
+                color = { 73 119 72 }
+                color2 = { 71 101 71 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1068,8 +1068,8 @@ e_drixagh = {
             title_female = duke
         }
         d_norrveneoya = {
-            color = { 136 207 156 }
-            color2 = { 136 207 156 }
+            color = { 103 101 99 }
+            color2 = { 89 88 87 }
             capital = 634
             c_kerilfjord = {
                 b_hsterg = {
@@ -1093,8 +1093,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 139 215 171 }
-                color2 = { 139 215 171 }
+                color = { 128 109 102 }
+                color2 = { 108 95 91 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1116,8 +1116,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 167 185 185 }
-                color2 = { 167 185 185 }
+                color = { 110 116 107 }
+                color2 = { 128 132 126 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1139,8 +1139,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 161 183 156 }
-                color2 = { 161 183 156 }
+                color = { 108 123 106 }
+                color2 = { 126 136 125 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1172,8 +1172,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 136 207 156 }
-                color2 = { 136 207 156 }
+                color = { 121 102 101 }
+                color2 = { 108 96 95 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1183,8 +1183,8 @@ e_drixagh = {
             title_female = duke
         }
         d_osrenoy = {
-            color = { 136 192 154 }
-            color2 = { 136 192 154 }
+            color = { 72 97 75 }
+            color2 = { 68 84 70 }
             capital = 638
             c_ingeney = {
                 b_stanwic = {
@@ -1208,8 +1208,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 163 176 172 }
-                color2 = { 163 176 172 }
+                color = { 58 93 99 }
+                color2 = { 57 80 83 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -1231,8 +1231,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 165 179 152 }
-                color2 = { 165 179 152 }
+                color = { 69 65 59 }
+                color2 = { 49 47 43 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1254,8 +1254,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 155 179 148 }
-                color2 = { 155 179 148 }
+                color = { 102 112 102 }
+                color2 = { 121 128 121 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1287,8 +1287,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 145 182 174 }
-                color2 = { 145 182 174 }
+                color = { 51 68 82 }
+                color2 = { 39 50 59 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1310,8 +1310,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 144 192 152 }
-                color2 = { 144 192 152 }
+                color = { 99 120 107 }
+                color2 = { 114 127 119 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1338,8 +1338,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 136 192 154 }
-                color2 = { 136 192 154 }
+                color = { 43 65 51 }
+                color2 = { 28 43 34 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1353,12 +1353,12 @@ e_drixagh = {
         title_female = king
     }
     k_heikeland = {
-        color = { 136 200 168 }
-        color2 = { 136 200 168 }
+        color = { 71 99 123 }
+        color2 = { 63 82 97 }
         capital = 644
         d_kankaanpaeae = {
-            color = { 136 200 168 }
-            color2 = { 136 200 168 }
+            color = { 79 105 122 }
+            color2 = { 77 94 105 }
             capital = 644
             c_helsund = {
                 b_saulene = {
@@ -1382,8 +1382,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 138 176 150 }
-                color2 = { 138 176 150 }
+                color = { 102 129 144 }
+                color2 = { 100 118 127 }
                 culture = tarkin
                 title = count
                 title_female = count
@@ -1410,8 +1410,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 138 190 171 }
-                color2 = { 138 190 171 }
+                color = { 102 93 93 }
+                color2 = { 109 103 103 }
                 culture = tarkin
                 title = count
                 title_female = count
@@ -1443,8 +1443,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 136 200 168 }
-                color2 = { 136 200 168 }
+                color = { 86 102 137 }
+                color2 = { 105 115 138 }
                 culture = tarkin
                 title = count
                 title_female = count
@@ -1454,8 +1454,8 @@ e_drixagh = {
             title_female = duke
         }
         d_peltola = {
-            color = { 140 180 161 }
-            color2 = { 140 180 161 }
+            color = { 57 67 85 }
+            color2 = { 72 78 90 }
             capital = 647
             c_itteksund = {
                 b_friden = {
@@ -1479,8 +1479,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 140 180 161 }
-                color2 = { 140 180 161 }
+                color = { 60 62 94 }
+                color2 = { 75 76 97 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1507,8 +1507,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 148 182 159 }
-                color2 = { 148 182 159 }
+                color = { 49 90 74 }
+                color2 = { 64 90 80 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1530,8 +1530,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 160 179 169 }
-                color2 = { 160 179 169 }
+                color = { 81 78 78 }
+                color2 = { 62 60 60 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1541,8 +1541,8 @@ e_drixagh = {
             title_female = duke
         }
         d_pieksimaksi = {
-            color = { 131 184 158 }
-            color2 = { 131 184 158 }
+            color = { 113 120 147 }
+            color2 = { 104 108 126 }
             capital = 650
             c_angermann = {
                 b_kaltene = {
@@ -1561,8 +1561,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 156 179 164 }
-                color2 = { 156 179 164 }
+                color = { 107 124 156 }
+                color2 = { 122 133 154 }
                 culture = tarkin
                 title = count
                 title_female = count
@@ -1589,8 +1589,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 131 184 158 }
-                color2 = { 131 184 158 }
+                color = { 132 111 133 }
+                color2 = { 147 133 147 }
                 culture = tarkin
                 title = count
                 title_female = count
@@ -1612,8 +1612,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 132 199 168 }
-                color2 = { 132 199 168 }
+                color = { 138 155 169 }
+                color2 = { 160 171 180 }
                 culture = tarkin
                 title = count
                 title_female = count
@@ -1635,8 +1635,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 153 175 146 }
-                color2 = { 153 175 146 }
+                color = { 139 106 160 }
+                color2 = { 150 128 163 }
                 culture = tarkin
                 title = count
                 title_female = count
@@ -1646,8 +1646,8 @@ e_drixagh = {
             title_female = duke
         }
         d_vileikenes = {
-            color = { 120 204 153 }
-            color2 = { 120 204 153 }
+            color = { 84 77 123 }
+            color2 = { 73 68 98 }
             capital = 654
             c_isheim = {
                 b_kocka = {
@@ -1666,8 +1666,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 120 204 153 }
-                color2 = { 120 204 153 }
+                color = { 90 63 92 }
+                color2 = { 93 76 94 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1689,8 +1689,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 131 176 165 }
-                color2 = { 131 176 165 }
+                color = { 97 107 141 }
+                color2 = { 109 116 138 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1717,8 +1717,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 150 184 157 }
-                color2 = { 150 184 157 }
+                color = { 78 54 84 }
+                color2 = { 66 50 70 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1745,8 +1745,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 131 173 158 }
-                color2 = { 131 173 158 }
+                color = { 65 104 107 }
+                color2 = { 85 111 113 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1783,8 +1783,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 144 175 154 }
-                color2 = { 144 175 154 }
+                color = { 82 78 121 }
+                color2 = { 75 73 101 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1798,12 +1798,12 @@ e_drixagh = {
         title_female = king
     }
     k_vladnovolgar = {
-        color = { 131 136 134 }
-        color2 = { 131 136 134 }
+        color = { 117 72 129 }
+        color2 = { 101 72 109 }
         capital = 1110
         d_mosokovo = {
-            color = { 131 136 134 }
-            color2 = { 131 136 134 }
+            color = { 86 59 113 }
+            color2 = { 100 82 118 }
             capital = 1110
             c_mosokovo = {
                 b_kulynia = {
@@ -1822,8 +1822,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 165 138 114 }
-                color2 = { 165 138 114 }
+                color = { 83 53 124 }
+                color2 = { 69 50 96 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -1855,8 +1855,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 154 133 133 }
-                color2 = { 154 133 133 }
+                color = { 101 69 86 }
+                color2 = { 89 69 80 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -1883,8 +1883,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 131 136 134 }
-                color2 = { 131 136 134 }
+                color = { 92 70 96 }
+                color2 = { 84 70 86 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -1916,8 +1916,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 149 157 122 }
-                color2 = { 149 157 122 }
+                color = { 92 99 130 }
+                color2 = { 107 112 132 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -1927,8 +1927,8 @@ e_drixagh = {
             title_female = duke
         }
         d_muromorsk = {
-            color = { 129 131 110 }
-            color2 = { 129 131 110 }
+            color = { 110 58 108 }
+            color2 = { 88 54 86 }
             capital = 1114
             c_beloyarsk = {
                 b_okhivka = {
@@ -1947,8 +1947,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 158 143 121 }
-                color2 = { 158 143 121 }
+                color = { 92 66 117 }
+                color2 = { 101 84 117 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -1975,8 +1975,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 164 162 128 }
-                color2 = { 164 162 128 }
+                color = { 75 41 82 }
+                color2 = { 90 68 94 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1998,8 +1998,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 129 131 110 }
-                color2 = { 129 131 110 }
+                color = { 79 38 77 }
+                color2 = { 91 64 90 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -2009,8 +2009,8 @@ e_drixagh = {
             title_female = duke
         }
         d_novigrad = {
-            color = { 136 141 112 }
-            color2 = { 136 141 112 }
+            color = { 93 60 126 }
+            color2 = { 75 54 96 }
             capital = 1117
             c_archalskgrad = {
                 b_urzhanka = {
@@ -2039,8 +2039,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 145 125 144 }
-                color2 = { 145 125 144 }
+                color = { 66 67 113 }
+                color2 = { 88 88 118 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -2062,8 +2062,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 136 141 112 }
-                color2 = { 136 141 112 }
+                color = { 106 69 119 }
+                color2 = { 95 71 104 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -2095,8 +2095,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 163 159 110 }
-                color2 = { 163 159 110 }
+                color = { 75 94 131 }
+                color2 = { 102 114 138 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -2128,8 +2128,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 147 139 138 }
-                color2 = { 147 139 138 }
+                color = { 100 61 104 }
+                color2 = { 84 58 86 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -2156,8 +2156,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 142 158 117 }
-                color2 = { 142 158 117 }
+                color = { 110 54 90 }
+                color2 = { 117 81 104 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -2167,8 +2167,8 @@ e_drixagh = {
             title_female = duke
         }
         d_novolgar = {
-            color = { 136 131 144 }
-            color2 = { 136 131 144 }
+            color = { 118 96 134 }
+            color2 = { 133 119 144 }
             capital = 1122
             c_novolgar = {
                 b_vinka = {
@@ -2192,8 +2192,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 136 131 144 }
-                color2 = { 136 131 144 }
+                color = { 116 95 140 }
+                color2 = { 109 96 125 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -2225,8 +2225,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 147 157 135 }
-                color2 = { 147 157 135 }
+                color = { 92 92 146 }
+                color2 = { 113 113 148 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -2253,8 +2253,8 @@ e_drixagh = {
                 
                 }
 
-                color = { 164 131 121 }
-                color2 = { 164 131 121 }
+                color = { 144 86 154 }
+                color2 = { 154 117 161 }
                 culture = krainivaya
                 title = count
                 title_female = count

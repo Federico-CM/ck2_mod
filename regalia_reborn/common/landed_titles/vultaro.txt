@@ -1,14 +1,14 @@
 e_vultar = {
-    color = { 139 158 124 }
-    color2 = { 139 158 124 }
+    color = { 146 85 127 }
+    color2 = { 147 107 134 }
     capital = 985 #Lampeport / c_campa_vasta
     k_chiaria = {
-        color = { 139 158 124 }
-        color2 = { 139 158 124 }
+        color = { 73 118 127 }
+        color2 = { 72 101 107 }
         capital = 939
         d_castania = {
-            color = { 139 158 124 }
-            color2 = { 139 158 124 }
+            color = { 80 128 125 }
+            color2 = { 108 139 137 }
             capital = 939
             c_camastra = {
                 b_calafara = {
@@ -32,8 +32,8 @@ e_vultar = {
                 
                 }
 
-                color = { 139 158 124 }
-                color2 = { 139 158 124 }
+                color = { 115 108 125 }
+                color2 = { 108 104 115 }
                 culture = azzizzari
                 title = count
                 title_female = count
@@ -60,8 +60,8 @@ e_vultar = {
                 
                 }
 
-                color = { 166 160 94 }
-                color2 = { 166 160 94 }
+                color = { 70 128 111 }
+                color2 = { 73 110 99 }
                 culture = azzizzari
                 title = count
                 title_female = count
@@ -83,8 +83,8 @@ e_vultar = {
                 
                 }
 
-                color = { 143 170 108 }
-                color2 = { 143 170 108 }
+                color = { 76 106 114 }
+                color2 = { 98 118 123 }
                 culture = azzizzari
                 title = count
                 title_female = count
@@ -106,8 +106,8 @@ e_vultar = {
                 
                 }
 
-                color = { 164 179 106 }
-                color2 = { 164 179 106 }
+                color = { 99 117 109 }
+                color2 = { 95 107 102 }
                 culture = azzizzari
                 title = count
                 title_female = count
@@ -129,8 +129,8 @@ e_vultar = {
                 
                 }
 
-                color = { 147 156 100 }
-                color2 = { 147 156 100 }
+                color = { 83 133 95 }
+                color2 = { 99 132 107 }
                 culture = azzizzari
                 title = count
                 title_female = count
@@ -140,8 +140,8 @@ e_vultar = {
             title_female = duke
         }
         d_salerma = {
-            color = { 135 169 94 }
-            color2 = { 135 169 94 }
+            color = { 64 103 131 }
+            color2 = { 85 111 129 }
             capital = 944
             c_castella_di_stabia = {
                 b_lunessa = {
@@ -160,8 +160,8 @@ e_vultar = {
                 
                 }
 
-                color = { 135 186 102 }
-                color2 = { 135 186 102 }
+                color = { 75 126 125 }
+                color2 = { 104 137 136 }
                 culture = azzizzari
                 title = count
                 title_female = count
@@ -193,8 +193,8 @@ e_vultar = {
                 
                 }
 
-                color = { 135 169 94 }
-                color2 = { 135 169 94 }
+                color = { 54 102 137 }
+                color2 = { 52 84 106 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -216,8 +216,8 @@ e_vultar = {
                 
                 }
 
-                color = { 137 178 109 }
-                color2 = { 137 178 109 }
+                color = { 83 114 126 }
+                color2 = { 81 101 109 }
                 culture = azzizzari
                 title = count
                 title_female = count
@@ -239,8 +239,8 @@ e_vultar = {
                 
                 }
 
-                color = { 155 154 99 }
-                color2 = { 155 154 99 }
+                color = { 96 121 149 }
+                color2 = { 92 108 127 }
                 culture = azzizzari
                 title = count
                 title_female = count
@@ -250,8 +250,8 @@ e_vultar = {
             title_female = duke
         }
         d_trapiani = {
-            color = { 131 166 118 }
-            color2 = { 131 166 118 }
+            color = { 61 94 102 }
+            color2 = { 86 107 112 }
             capital = 948
             c_boparta = {
                 b_metto = {
@@ -275,8 +275,8 @@ e_vultar = {
                 
                 }
 
-                color = { 166 154 92 }
-                color2 = { 166 154 92 }
+                color = { 65 80 107 }
+                color2 = { 87 96 114 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -298,8 +298,8 @@ e_vultar = {
                 
                 }
 
-                color = { 153 177 92 }
-                color2 = { 153 177 92 }
+                color = { 70 68 96 }
+                color2 = { 58 56 75 }
                 culture = azzizzari
                 title = count
                 title_female = count
@@ -326,8 +326,8 @@ e_vultar = {
                 
                 }
 
-                color = { 131 173 114 }
-                color2 = { 131 173 114 }
+                color = { 73 67 109 }
+                color2 = { 90 86 113 }
                 culture = azzizzari
                 title = count
                 title_female = count
@@ -349,8 +349,8 @@ e_vultar = {
                 
                 }
 
-                color = { 136 158 105 }
-                color2 = { 136 158 105 }
+                color = { 58 67 117 }
+                color2 = { 54 60 92 }
                 culture = azzizzari
                 title = count
                 title_female = count
@@ -377,8 +377,8 @@ e_vultar = {
                 
                 }
 
-                color = { 133 169 129 }
-                color2 = { 133 169 129 }
+                color = { 46 73 72 }
+                color2 = { 65 83 82 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -405,8 +405,8 @@ e_vultar = {
                 
                 }
 
-                color = { 131 166 118 }
-                color2 = { 131 166 118 }
+                color = { 79 101 95 }
+                color2 = { 101 115 111 }
                 culture = azzizzari
                 title = count
                 title_female = count
@@ -420,12 +420,12 @@ e_vultar = {
         title_female = king
     }
     k_etna = {
-        color = { 125 159 113 }
-        color2 = { 125 159 113 }
+        color = { 124 71 131 }
+        color2 = { 134 99 138 }
         capital = 954
         d_capualla = {
-            color = { 125 159 113 }
-            color2 = { 125 159 113 }
+            color = { 126 81 115 }
+            color2 = { 101 72 94 }
             capital = 954
             c_capualla = {
                 b_reoli = {
@@ -444,8 +444,8 @@ e_vultar = {
                 
                 }
 
-                color = { 145 171 110 }
-                color2 = { 145 171 110 }
+                color = { 121 110 127 }
+                color2 = { 109 102 113 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -472,8 +472,8 @@ e_vultar = {
                 
                 }
 
-                color = { 143 167 78 }
-                color2 = { 143 167 78 }
+                color = { 111 98 103 }
+                color2 = { 117 108 111 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -500,8 +500,8 @@ e_vultar = {
                 
                 }
 
-                color = { 154 183 114 }
-                color2 = { 154 183 114 }
+                color = { 95 61 81 }
+                color2 = { 78 56 69 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -523,8 +523,8 @@ e_vultar = {
                 
                 }
 
-                color = { 145 149 86 }
-                color2 = { 145 149 86 }
+                color = { 135 73 116 }
+                color2 = { 142 101 129 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -546,8 +546,8 @@ e_vultar = {
                 
                 }
 
-                color = { 125 159 113 }
-                color2 = { 125 159 113 }
+                color = { 96 92 94 }
+                color2 = { 103 101 102 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -579,8 +579,8 @@ e_vultar = {
                 
                 }
 
-                color = { 145 185 92 }
-                color2 = { 145 185 92 }
+                color = { 120 62 91 }
+                color2 = { 121 83 102 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -590,8 +590,8 @@ e_vultar = {
             title_female = duke
         }
         d_radicofani = {
-            color = { 128 178 98 }
-            color2 = { 128 178 98 }
+            color = { 113 92 125 }
+            color2 = { 125 111 133 }
             capital = 960
             c_ischia = {
                 b_poglio = {
@@ -620,8 +620,8 @@ e_vultar = {
                 
                 }
 
-                color = { 128 178 98 }
-                color2 = { 128 178 98 }
+                color = { 99 102 144 }
+                color2 = { 111 113 140 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -648,8 +648,8 @@ e_vultar = {
                 
                 }
 
-                color = { 157 166 81 }
-                color2 = { 157 166 81 }
+                color = { 95 70 104 }
+                color2 = { 78 62 84 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -671,8 +671,8 @@ e_vultar = {
                 
                 }
 
-                color = { 159 156 105 }
-                color2 = { 159 156 105 }
+                color = { 111 85 102 }
+                color2 = { 98 81 92 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -699,8 +699,8 @@ e_vultar = {
                 
                 }
 
-                color = { 151 155 99 }
-                color2 = { 151 155 99 }
+                color = { 106 76 120 }
+                color2 = { 96 77 105 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -710,8 +710,8 @@ e_vultar = {
             title_female = duke
         }
         d_ustica = {
-            color = { 133 163 103 }
-            color2 = { 133 163 103 }
+            color = { 135 91 143 }
+            color2 = { 139 110 144 }
             capital = 964
             c_sabanti = {
                 b_cassena = {
@@ -730,8 +730,8 @@ e_vultar = {
                 
                 }
 
-                color = { 146 165 89 }
-                color2 = { 146 165 89 }
+                color = { 113 82 125 }
+                color2 = { 126 106 134 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -758,8 +758,8 @@ e_vultar = {
                 
                 }
 
-                color = { 143 146 80 }
-                color2 = { 143 146 80 }
+                color = { 150 115 161 }
+                color2 = { 163 140 170 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -786,8 +786,8 @@ e_vultar = {
                 
                 }
 
-                color = { 159 145 79 }
-                color2 = { 159 145 79 }
+                color = { 110 76 125 }
+                color2 = { 94 72 104 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -809,8 +809,8 @@ e_vultar = {
                 
                 }
 
-                color = { 144 147 117 }
-                color2 = { 144 147 117 }
+                color = { 133 116 146 }
+                color2 = { 140 129 148 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -832,8 +832,8 @@ e_vultar = {
                 
                 }
 
-                color = { 133 163 103 }
-                color2 = { 133 163 103 }
+                color = { 110 75 147 }
+                color2 = { 127 105 151 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -847,12 +847,12 @@ e_vultar = {
         title_female = king
     }
     k_montania = {
-        color = { 117 151 113 }
-        color2 = { 117 151 113 }
+        color = { 125 91 67 }
+        color2 = { 121 99 83 }
         capital = 969
         d_chiettina = {
-            color = { 117 151 113 }
-            color2 = { 117 151 113 }
+            color = { 141 118 63 }
+            color2 = { 114 99 63 }
             capital = 969
             c_alania_siorba = {
                 b_corile = {
@@ -876,8 +876,8 @@ e_vultar = {
                 
                 }
 
-                color = { 142 138 108 }
-                color2 = { 142 138 108 }
+                color = { 138 92 53 }
+                color2 = { 135 105 79 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -909,8 +909,8 @@ e_vultar = {
                 
                 }
 
-                color = { 117 151 113 }
-                color2 = { 117 151 113 }
+                color = { 135 133 100 }
+                color2 = { 140 138 117 }
 
 		holy_site = amended
 
@@ -940,8 +940,8 @@ e_vultar = {
                 
                 }
 
-                color = { 127 131 113 }
-                color2 = { 127 131 113 }
+                color = { 131 118 67 }
+                color2 = { 108 99 66 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -951,8 +951,8 @@ e_vultar = {
             title_female = duke
         }
         d_medavirra = {
-            color = { 115 132 96 }
-            color2 = { 115 132 96 }
+            color = { 136 109 99 }
+            color2 = { 143 125 119 }
             capital = 972
             c_martini = {
                 b_campassa = {
@@ -971,8 +971,8 @@ e_vultar = {
                 
                 }
 
-                color = { 138 155 99 }
-                color2 = { 138 155 99 }
+                color = { 102 89 91 }
+                color2 = { 108 100 101 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -994,8 +994,8 @@ e_vultar = {
                 
                 }
 
-                color = { 140 137 108 }
-                color2 = { 140 137 108 }
+                color = { 124 92 87 }
+                color2 = { 109 88 85 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1017,8 +1017,8 @@ e_vultar = {
                 
                 }
 
-                color = { 115 132 96 }
-                color2 = { 115 132 96 }
+                color = { 145 122 109 }
+                color2 = { 152 137 129 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1045,8 +1045,8 @@ e_vultar = {
                 
                 }
 
-                color = { 131 144 88 }
-                color2 = { 131 144 88 }
+                color = { 130 131 92 }
+                color2 = { 111 111 86 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1056,8 +1056,8 @@ e_vultar = {
             title_female = duke
         }
         d_parta = {
-            color = { 124 167 109 }
-            color2 = { 124 167 109 }
+            color = { 115 72 95 }
+            color2 = { 126 98 113 }
             capital = 976
             c_alania_sur = {
                 b_podera = {
@@ -1081,8 +1081,8 @@ e_vultar = {
                 
                 }
 
-                color = { 130 141 88 }
-                color2 = { 130 141 88 }
+                color = { 127 63 86 }
+                color2 = { 108 66 81 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1114,8 +1114,8 @@ e_vultar = {
                 
                 }
 
-                color = { 140 166 100 }
-                color2 = { 140 166 100 }
+                color = { 114 66 100 }
+                color2 = { 122 90 113 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1142,8 +1142,8 @@ e_vultar = {
                 
                 }
 
-                color = { 124 167 109 }
-                color2 = { 124 167 109 }
+                color = { 126 59 97 }
+                color2 = { 107 63 88 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1153,8 +1153,8 @@ e_vultar = {
             title_female = duke
         }
         d_savarolesta = {
-            color = { 115 138 94 }
-            color2 = { 115 138 94 }
+            color = { 129 109 62 }
+            color2 = { 127 114 83 }
             capital = 979
             c_alania_corona = {
                 b_cofano = {
@@ -1183,8 +1183,8 @@ e_vultar = {
                 
                 }
 
-                color = { 150 167 89 }
-                color2 = { 150 167 89 }
+                color = { 96 76 47 }
+                color2 = { 103 90 71 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1216,8 +1216,8 @@ e_vultar = {
                 
                 }
 
-                color = { 115 142 78 }
-                color2 = { 115 142 78 }
+                color = { 109 120 59 }
+                color2 = { 90 98 58 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1239,8 +1239,8 @@ e_vultar = {
                 
                 }
 
-                color = { 115 138 94 }
-                color2 = { 115 138 94 }
+                color = { 137 93 63 }
+                color2 = { 112 84 64 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1262,8 +1262,8 @@ e_vultar = {
                 
                 }
 
-                color = { 149 137 112 }
-                color2 = { 149 137 112 }
+                color = { 93 97 64 }
+                color2 = { 73 76 54 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1285,8 +1285,8 @@ e_vultar = {
                 
                 }
 
-                color = { 125 160 104 }
-                color2 = { 125 160 104 }
+                color = { 142 125 76 }
+                color2 = { 125 114 82 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1300,12 +1300,12 @@ e_vultar = {
         title_female = king
     }
     k_vultaro = {
-        color = { 152 173 112 }
-        color2 = { 152 173 112 }
+        color = { 89 123 69 }
+        color2 = { 100 122 87 }
         capital = 985 #Lampeport / c_campa_vasta
         d_fogiatina = {
-            color = { 152 173 112 }
-            color2 = { 152 173 112 }
+            color = { 96 122 104 }
+            color2 = { 110 127 115 }
             capital = 984
             c_campa_vallenta = {
                 b_figlia = {
@@ -1324,8 +1324,8 @@ e_vultar = {
                 
                 }
 
-                color = { 181 201 110 }
-                color2 = { 181 201 110 }
+                color = { 115 110 86 }
+                color2 = { 120 117 101 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1352,8 +1352,8 @@ e_vultar = {
                 
                 }
 
-                color = { 164 198 139 }
-                color2 = { 164 198 139 }
+                color = { 82 98 87 }
+                color2 = { 74 85 78 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1380,8 +1380,8 @@ e_vultar = {
                 
                 }
 
-                color = { 166 198 125 }
-                color2 = { 166 198 125 }
+                color = { 79 133 106 }
+                color2 = { 76 112 94 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1403,8 +1403,8 @@ e_vultar = {
                 
                 }
 
-                color = { 152 173 112 }
-                color2 = { 152 173 112 }
+                color = { 98 99 104 }
+                color2 = { 92 92 96 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1414,8 +1414,8 @@ e_vultar = {
             title_female = duke
         }
         d_lampeport = {
-            color = { 159 186 110 }
-            color2 = { 159 186 110 }
+            color = { 107 105 67 }
+            color2 = { 111 110 85 }
             capital = 985 #Lampeport / c_campa_vasta
             c_campa_vasta = { #Lampeport
                 b_solcini = {
@@ -1434,8 +1434,8 @@ e_vultar = {
                 
                 }
 
-                color = { 163 207 140 }
-                color2 = { 163 207 140 }
+                color = { 111 90 90 }
+                color2 = { 121 107 107 }
 
 		holy_site = unionism #where the vultaran heresy nearly broke the faith
 		holy_site = amended
@@ -1461,8 +1461,8 @@ e_vultar = {
                 
                 }
 
-                color = { 174 193 106 }
-                color2 = { 174 193 106 }
+                color = { 109 105 53 }
+                color2 = { 95 92 59 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1484,8 +1484,8 @@ e_vultar = {
                 
                 }
 
-                color = { 174 191 127 }
-                color2 = { 174 191 127 }
+                color = { 86 95 72 }
+                color2 = { 75 81 66 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1517,8 +1517,8 @@ e_vultar = {
                 
                 }
 
-                color = { 175 204 130 }
-                color2 = { 175 204 130 }
+                color = { 71 82 52 }
+                color2 = { 56 63 44 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1550,8 +1550,8 @@ e_vultar = {
                 
                 }
 
-                color = { 159 186 110 }
-                color2 = { 159 186 110 }
+                color = { 105 111 74 }
+                color2 = { 90 94 70 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1561,8 +1561,8 @@ e_vultar = {
             title_female = duke
         }
         d_paduavena = {
-            color = { 187 135 118 }
-            color2 = { 187 135 118 }
+            color = { 62 110 53 }
+            color2 = { 51 82 45 }
             capital = 993
             c_campa_costiari = {
                 b_ioglio = {
@@ -1581,8 +1581,8 @@ e_vultar = {
                 
                 }
 
-                color = { 178 188 139 }
-                color2 = { 178 188 139 }
+                color = { 78 76 50 }
+                color2 = { 66 65 48 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1604,8 +1604,8 @@ e_vultar = {
                 
                 }
 
-                color = { 184 184 111 }
-                color2 = { 184 184 111 }
+                color = { 62 71 45 }
+                color2 = { 43 49 32 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1627,8 +1627,8 @@ e_vultar = {
                 
                 }
 
-                color = { 187 135 118 }
-                color2 = { 187 135 118 }
+                color = { 80 108 60 }
+                color2 = { 67 85 54 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1655,8 +1655,8 @@ e_vultar = {
                 
                 }
 
-                color = { 161 201 106 }
-                color2 = { 161 201 106 }
+                color = { 52 93 47 }
+                color2 = { 64 91 61 }
                 culture = cantaluna
                 title = count
                 title_female = count
@@ -1678,8 +1678,8 @@ e_vultar = {
                 
                 }
 
-                color = { 184 196 127 }
-                color2 = { 184 196 127 }
+                color = { 63 113 79 }
+                color2 = { 81 113 91 }
                 culture = cantaluna
                 title = count
                 title_female = count

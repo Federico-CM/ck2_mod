@@ -1,7 +1,7 @@
 ## Regalian Empire title for if Archipelago is controlled ##
 e_regalian_empire = {
-	color = { 84 44 93 }
-	color2 = { 255 255 255 }
+	color = { 154 120 92 }
+	color2 = { 158 136 118 }
 
 	capital = 1 #Regalia
 

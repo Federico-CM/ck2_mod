@@ -1,14 +1,14 @@
 e_mineria = {
-    color = { 144 176 172 }
-    color2 = { 144 176 172 }
+    color = { 87 152 124 }
+    color2 = { 81 123 105 }
     capital = 545
     k_erlen = {
-        color = { 144 176 172 }
-        color2 = { 144 176 172 }
+        color = { 79 122 66 }
+        color2 = { 66 93 57 }
         capital = 545
         d_elfenbos_kust = {
-            color = { 144 176 172 }
-            color2 = { 144 176 172 }
+            color = { 68 116 47 }
+            color2 = { 59 90 46 }
             capital = 545
             c_elfenbos = {
                 b_gebuurt = {
@@ -27,8 +27,8 @@ e_mineria = {
                 
                 }
 
-                color = { 165 183 189 }
-                color2 = { 165 183 189 }
+                color = { 86 106 57 }
+                color2 = { 71 84 52 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -50,8 +50,8 @@ e_mineria = {
                 
                 }
 
-                color = { 144 176 172 }
-                color2 = { 144 176 172 }
+                color = { 55 91 41 }
+                color2 = { 47 71 38 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -61,8 +61,8 @@ e_mineria = {
             title_female = duke
         }
         d_elfenbos_march = {
-            color = { 135 162 161 }
-            color2 = { 135 162 161 }
+            color = { 111 113 100 }
+            color2 = { 127 128 120 }
             capital = 547
             c_elfenmuur = {
                 b_hulseind = {
@@ -96,8 +96,8 @@ e_mineria = {
                 
                 }
 
-                color = { 166 167 185 }
-                color2 = { 166 167 185 }
+                color = { 122 120 98 }
+                color2 = { 110 109 94 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -119,8 +119,8 @@ e_mineria = {
                 
                 }
 
-                color = { 135 162 161 }
-                color2 = { 135 162 161 }
+                color = { 122 94 96 }
+                color2 = { 100 82 83 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -152,8 +152,8 @@ e_mineria = {
                 
                 }
 
-                color = { 140 189 172 }
-                color2 = { 140 189 172 }
+                color = { 85 106 106 }
+                color2 = { 72 86 86 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -175,8 +175,8 @@ e_mineria = {
                 
                 }
 
-                color = { 151 156 175 }
-                color2 = { 151 156 175 }
+                color = { 126 114 117 }
+                color2 = { 130 122 124 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -186,8 +186,8 @@ e_mineria = {
             title_female = duke
         }
         d_solmer_march = {
-            color = { 133 196 165 }
-            color2 = { 133 196 165 }
+            color = { 85 135 72 }
+            color2 = { 74 107 66 }
             capital = 551
             c_marken = {
                 b_berkenwijk = {
@@ -206,8 +206,8 @@ e_mineria = {
                 
                 }
 
-                color = { 154 158 173 }
-                color2 = { 154 158 173 }
+                color = { 75 149 108 }
+                color2 = { 72 120 93 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -234,8 +234,8 @@ e_mineria = {
                 
                 }
 
-                color = { 133 196 165 }
-                color2 = { 133 196 165 }
+                color = { 68 126 96 }
+                color2 = { 85 123 103 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -262,8 +262,8 @@ e_mineria = {
                 
                 }
 
-                color = { 149 158 185 }
-                color2 = { 149 158 185 }
+                color = { 65 117 100 }
+                color2 = { 88 122 111 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -290,8 +290,8 @@ e_mineria = {
                 
                 }
 
-                color = { 145 166 160 }
-                color2 = { 145 166 160 }
+                color = { 67 100 56 }
+                color2 = { 53 75 46 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -301,8 +301,8 @@ e_mineria = {
             title_female = duke
         }
         d_solmer_punt = {
-            color = { 156 156 166 }
-            color2 = { 156 156 166 }
+            color = { 90 115 87 }
+            color2 = { 80 97 78 }
             capital = 555
             c_midsollen = {
                 b_voorten = {
@@ -326,8 +326,8 @@ e_mineria = {
                 
                 }
 
-                color = { 156 156 166 }
-                color2 = { 156 156 166 }
+                color = { 75 81 73 }
+                color2 = { 88 92 87 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -349,8 +349,8 @@ e_mineria = {
                 
                 }
 
-                color = { 158 166 176 }
-                color2 = { 158 166 176 }
+                color = { 117 93 100 }
+                color2 = { 122 106 111 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -360,8 +360,8 @@ e_mineria = {
             title_female = duke
         }
         d_thurmar = {
-            color = { 132 162 160 }
-            color2 = { 132 162 160 }
+            color = { 67 92 88 }
+            color2 = { 84 100 98 }
             capital = 557
             c_gan_arm = {
                 b_fenross = {
@@ -385,8 +385,8 @@ e_mineria = {
                 
                 }
 
-                color = { 151 163 173 }
-                color2 = { 151 163 173 }
+                color = { 88 76 78 }
+                color2 = { 70 62 63 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -413,8 +413,8 @@ e_mineria = {
                 
                 }
 
-                color = { 143 196 178 }
-                color2 = { 143 196 178 }
+                color = { 61 93 89 }
+                color2 = { 85 106 103 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -446,8 +446,8 @@ e_mineria = {
                 
                 }
 
-                color = { 132 162 160 }
-                color2 = { 132 162 160 }
+                color = { 93 83 91 }
+                color2 = { 105 98 103 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -461,12 +461,12 @@ e_mineria = {
         title_female = king
     }
     k_sinnedh = {
-        color = { 137 199 172 }
-        color2 = { 137 199 172 }
+        color = { 76 125 127 }
+        color2 = { 102 133 135 }
         capital = 560
         d_fear_glas = {
-            color = { 137 199 172 }
-            color2 = { 137 199 172 }
+            color = { 68 143 143 }
+            color2 = { 100 148 148 }
             capital = 560
             c_aonair = {
                 b_rathbane = {
@@ -500,8 +500,8 @@ e_mineria = {
                 
                 }
 
-                color = { 161 167 163 }
-                color2 = { 161 167 163 }
+                color = { 97 115 124 }
+                color2 = { 89 101 107 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -523,8 +523,8 @@ e_mineria = {
                 
                 }
 
-                color = { 167 179 178 }
-                color2 = { 167 179 178 }
+                color = { 58 101 102 }
+                color2 = { 54 82 83 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -551,8 +551,8 @@ e_mineria = {
                 
                 }
 
-                color = { 137 199 172 }
-                color2 = { 137 199 172 }
+                color = { 60 106 122 }
+                color2 = { 58 88 98 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -574,8 +574,8 @@ e_mineria = {
                 
                 }
 
-                color = { 139 176 184 }
-                color2 = { 139 176 184 }
+                color = { 72 145 135 }
+                color2 = { 73 120 114 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -585,8 +585,8 @@ e_mineria = {
             title_female = duke
         }
         d_loughdonairt = {
-            color = { 156 187 173 }
-            color2 = { 156 187 173 }
+            color = { 58 100 104 }
+            color2 = { 59 86 89 }
             capital = 564
             c_aille = {
                 b_fenwick = {
@@ -610,8 +610,8 @@ e_mineria = {
                 
                 }
 
-                color = { 163 174 145 }
-                color2 = { 163 174 145 }
+                color = { 88 91 118 }
+                color2 = { 107 109 126 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -633,8 +633,8 @@ e_mineria = {
                 
                 }
 
-                color = { 165 167 173 }
-                color2 = { 165 167 173 }
+                color = { 92 116 121 }
+                color2 = { 111 127 130 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -656,8 +656,8 @@ e_mineria = {
                 
                 }
 
-                color = { 157 171 184 }
-                color2 = { 157 171 184 }
+                color = { 43 86 84 }
+                color2 = { 35 63 61 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -689,8 +689,8 @@ e_mineria = {
                 
                 }
 
-                color = { 156 187 173 }
-                color2 = { 156 187 173 }
+                color = { 48 82 108 }
+                color2 = { 52 74 91 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -717,8 +717,8 @@ e_mineria = {
                 
                 }
 
-                color = { 166 174 178 }
-                color2 = { 166 174 178 }
+                color = { 93 83 121 }
+                color2 = { 85 79 103 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -728,8 +728,8 @@ e_mineria = {
             title_female = duke
         }
         d_thiar = {
-            color = { 135 182 164 }
-            color2 = { 135 182 164 }
+            color = { 113 127 147 }
+            color2 = { 132 141 154 }
             capital = 569
             c_fada = {
                 b_ballydun = {
@@ -748,8 +748,8 @@ e_mineria = {
                 
                 }
 
-                color = { 138 170 172 }
-                color2 = { 138 170 172 }
+                color = { 123 125 119 }
+                color2 = { 135 136 132 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -771,8 +771,8 @@ e_mineria = {
                 
                 }
 
-                color = { 135 182 164 }
-                color2 = { 135 182 164 }
+                color = { 118 149 150 }
+                color2 = { 119 140 140 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -799,8 +799,8 @@ e_mineria = {
                 
                 }
 
-                color = { 149 199 146 }
-                color2 = { 149 199 146 }
+                color = { 104 107 151 }
+                color2 = { 102 104 132 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -822,8 +822,8 @@ e_mineria = {
                 
                 }
 
-                color = { 141 167 182 }
-                color2 = { 141 167 182 }
+                color = { 109 134 123 }
+                color2 = { 130 146 139 }
                 culture = aontaithe
                 title = count
                 title_female = count
@@ -837,12 +837,12 @@ e_mineria = {
         title_female = king
     }
     k_sylvaraine = {
-        color = { 101 123 144 }
-        color2 = { 101 123 144 }
+        color = { 102 68 128 }
+        color2 = { 117 95 134 }
         capital = 573
         d_falorene = {
-            color = { 101 123 144 }
-            color2 = { 101 123 144 }
+            color = { 73 82 91 }
+            color2 = { 94 100 106 }
             capital = 573
             c_calirene = {
                 b_mareva = {
@@ -866,8 +866,8 @@ e_mineria = {
                 
                 }
 
-                color = { 101 123 144 }
-                color2 = { 101 123 144 }
+                color = { 90 57 66 }
+                color2 = { 69 48 54 }
                 culture = finul
                 title = count
                 title_female = count
@@ -894,8 +894,8 @@ e_mineria = {
                 
                 }
 
-                color = { 112 130 140 }
-                color2 = { 112 130 140 }
+                color = { 80 61 97 }
+                color2 = { 93 80 104 }
                 culture = finul
                 title = count
                 title_female = count
@@ -927,8 +927,8 @@ e_mineria = {
                 
                 }
 
-                color = { 123 108 127 }
-                color2 = { 123 108 127 }
+                color = { 80 110 103 }
+                color2 = { 100 120 115 }
                 culture = finul
                 title = count
                 title_female = count
@@ -938,8 +938,8 @@ e_mineria = {
             title_female = duke
         }
         d_lirinaye = {
-            color = { 121 117 142 }
-            color2 = { 121 117 142 }
+            color = { 126 84 106 }
+            color2 = { 106 78 93 }
             capital = 576
             c_oltenesse = {
                 b_profenir = {
@@ -958,8 +958,8 @@ e_mineria = {
                 
                 }
 
-                color = { 110 111 120 }
-                color2 = { 110 111 120 }
+                color = { 114 104 93 }
+                color2 = { 120 113 106 }
                 culture = llasada
                 title = count
                 title_female = count
@@ -986,8 +986,8 @@ e_mineria = {
                 
                 }
 
-                color = { 121 117 142 }
-                color2 = { 121 117 142 }
+                color = { 98 65 88 }
+                color2 = { 101 80 95 }
                 culture = solvaan
                 title = count
                 title_female = count
@@ -997,8 +997,8 @@ e_mineria = {
             title_female = duke
         }
         d_senavelle = {
-            color = { 110 140 137 }
-            color2 = { 110 140 137 }
+            color = { 91 57 116 }
+            color2 = { 79 57 95 }
             capital = 578
             c_siltaleyne = {
                 b_costerna = {
@@ -1027,8 +1027,8 @@ e_mineria = {
                 
                 }
 
-                color = { 107 120 146 }
-                color2 = { 107 120 146 }
+                color = { 88 62 123 }
+                color2 = { 103 86 126 }
 
 		holy_site = estelley
 
@@ -1058,8 +1058,8 @@ e_mineria = {
                 
                 }
 
-                color = { 110 140 137 }
-                color2 = { 110 140 137 }
+                color = { 72 60 98 }
+                color2 = { 58 50 75 }
                 culture = finul
                 title = count
                 title_female = count
@@ -1069,8 +1069,8 @@ e_mineria = {
             title_female = duke
         }
         d_vassarena = {
-            color = { 125 116 138 }
-            color2 = { 125 116 138 }
+            color = { 91 79 103 }
+            color2 = { 75 67 83 }
             capital = 580
             c_fenassene = {
                 b_cornyssia = {
@@ -1089,8 +1089,8 @@ e_mineria = {
                 
                 }
 
-                color = { 101 113 147 }
-                color2 = { 101 113 147 }
+                color = { 101 106 80 }
+                color2 = { 92 96 79 }
                 culture = llasada
                 title = count
                 title_female = count
@@ -1112,8 +1112,8 @@ e_mineria = {
                 
                 }
 
-                color = { 110 131 145 }
-                color2 = { 110 131 145 }
+                color = { 106 113 130 }
+                color2 = { 100 104 115 }
                 culture = llasada
                 title = count
                 title_female = count
@@ -1135,8 +1135,8 @@ e_mineria = {
                 
                 }
 
-                color = { 133 143 142 }
-                color2 = { 133 143 142 }
+                color = { 117 92 100 }
+                color2 = { 130 114 119 }
                 culture = finul
                 title = count
                 title_female = count
@@ -1163,8 +1163,8 @@ e_mineria = {
                 
                 }
 
-                color = { 121 146 124 }
-                color2 = { 121 146 124 }
+                color = { 98 99 103 }
+                color2 = { 84 84 87 }
                 culture = llasada
                 title = count
                 title_female = count
@@ -1186,8 +1186,8 @@ e_mineria = {
                 
                 }
 
-                color = { 141 113 122 }
-                color2 = { 141 113 122 }
+                color = { 94 103 77 }
+                color2 = { 81 87 70 }
                 culture = llasada
                 title = count
                 title_female = count
@@ -1209,8 +1209,8 @@ e_mineria = {
                 
                 }
 
-                color = { 125 116 138 }
-                color2 = { 125 116 138 }
+                color = { 94 66 101 }
+                color2 = { 81 62 85 }
                 culture = finul
                 title = count
                 title_female = count
@@ -1224,12 +1224,12 @@ e_mineria = {
         title_female = king
     }
     k_valessaria = {
-        color = { 153 153 142 }
-        color2 = { 153 153 142 }
+        color = { 125 98 69 }
+        color2 = { 99 82 63 }
         capital = 586
         d_orsana = {
-            color = { 153 153 142 }
-            color2 = { 153 153 142 }
+            color = { 133 121 67 }
+            color2 = { 111 103 68 }
             capital = 586
             c_pellayne = {
                 b_clarissa = {
@@ -1248,8 +1248,8 @@ e_mineria = {
                 
                 }
 
-                color = { 149 148 166 }
-                color2 = { 149 148 166 }
+                color = { 138 113 93 }
+                color2 = { 114 98 85 }
                 culture = finul
                 title = count
                 title_female = count
@@ -1276,8 +1276,8 @@ e_mineria = {
                 
                 }
 
-                color = { 153 153 142 }
-                color2 = { 153 153 142 }
+                color = { 107 101 58 }
+                color2 = { 92 88 60 }
                 culture = finul
                 title = count
                 title_female = count
@@ -1287,8 +1287,8 @@ e_mineria = {
             title_female = duke
         }
         d_rosalena = {
-            color = { 128 159 155 }
-            color2 = { 128 159 155 }
+            color = { 99 82 86 }
+            color2 = { 84 72 75 }
             capital = 588
             c_serratenyo = {
                 b_brisenel = {
@@ -1307,8 +1307,8 @@ e_mineria = {
                 
                 }
 
-                color = { 136 138 158 }
-                color2 = { 136 138 158 }
+                color = { 117 91 111 }
+                color2 = { 121 104 117 }
                 culture = finul
                 title = count
                 title_female = count
@@ -1330,8 +1330,8 @@ e_mineria = {
                 
                 }
 
-                color = { 143 122 169 }
-                color2 = { 143 122 169 }
+                color = { 69 87 71 }
+                color2 = { 59 71 61 }
                 culture = finul
                 title = count
                 title_female = count
@@ -1363,8 +1363,8 @@ e_mineria = {
                 
                 }
 
-                color = { 128 159 155 }
-                color2 = { 128 159 155 }
+                color = { 79 97 84 }
+                color2 = { 70 82 73 }
                 culture = finul
                 title = count
                 title_female = count
@@ -1386,8 +1386,8 @@ e_mineria = {
                 
                 }
 
-                color = { 147 126 143 }
-                color2 = { 147 126 143 }
+                color = { 78 109 103 }
+                color2 = { 95 115 111 }
 
 		holy_site = estelley
 
@@ -1400,8 +1400,8 @@ e_mineria = {
             title_female = duke
         }
         d_selmarisse = {
-            color = { 125 156 166 }
-            color2 = { 125 156 166 }
+            color = { 93 81 61 }
+            color2 = { 70 62 49 }
             capital = 592
             c_montessene = {
                 b_brisel = {
@@ -1420,8 +1420,8 @@ e_mineria = {
                 
                 }
 
-                color = { 119 147 155 }
-                color2 = { 119 147 155 }
+                color = { 98 108 92 }
+                color2 = { 107 114 103 }
                 culture = finul
                 title = count
                 title_female = count
@@ -1443,8 +1443,8 @@ e_mineria = {
                 
                 }
 
-                color = { 125 156 166 }
-                color2 = { 125 156 166 }
+                color = { 66 89 76 }
+                color2 = { 62 77 68 }
                 culture = finul
                 title = count
                 title_female = count
@@ -1454,8 +1454,8 @@ e_mineria = {
             title_female = duke
         }
         d_ventenaye = {
-            color = { 118 162 149 }
-            color2 = { 118 162 149 }
+            color = { 130 91 81 }
+            color2 = { 108 82 76 }
             capital = 594
             c_carvelleno = {
                 b_calorintha = {
@@ -1474,8 +1474,8 @@ e_mineria = {
                 
                 }
 
-                color = { 135 126 142 }
-                color2 = { 135 126 142 }
+                color = { 146 114 112 }
+                color2 = { 152 132 130 }
                 culture = finul
                 title = count
                 title_female = count
@@ -1502,8 +1502,8 @@ e_mineria = {
                 
                 }
 
-                color = { 138 145 148 }
-                color2 = { 138 145 148 }
+                color = { 100 72 65 }
+                color2 = { 106 87 83 }
                 culture = finul
                 title = count
                 title_female = count
@@ -1540,8 +1540,8 @@ e_mineria = {
                 
                 }
 
-                color = { 149 126 142 }
-                color2 = { 149 126 142 }
+                color = { 131 89 80 }
+                color2 = { 112 85 79 }
                 culture = finul
                 title = count
                 title_female = count
@@ -1563,8 +1563,8 @@ e_mineria = {
                 
                 }
 
-                color = { 118 162 149 }
-                color2 = { 118 162 149 }
+                color = { 98 72 100 }
+                color2 = { 77 60 78 }
                 culture = finul
                 title = count
                 title_female = count

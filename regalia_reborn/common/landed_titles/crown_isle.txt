@@ -1,14 +1,14 @@
 e_regalia = {
-    color = { 128 73 124 }
-    color2 = { 128 73 124 }
+    color = { 150 90 87 }
+    color2 = { 148 109 107 }
     capital = 1
     k_regalia = {
-        color = { 128 73 124 }
-        color2 = { 128 73 124 }
+        color = { 74 125 128 }
+        color2 = { 101 134 136 }
         capital = 1
         d_regalia = {
-            color = { 128 73 124 }
-            color2 = { 128 73 124 }
+            color = { 75 105 108 }
+            color2 = { 68 88 90 }
             capital = 1
             c_regalia = {
                 b_graygate = {
@@ -47,8 +47,8 @@ e_regalia = {
                 
                 }
 
-                color = { 128 73 124 }
-                color2 = { 128 73 124 }
+                color = { 60 114 110 }
+                color2 = { 59 94 92 }
 
 		holy_site = unionism
 		holy_site = draconism

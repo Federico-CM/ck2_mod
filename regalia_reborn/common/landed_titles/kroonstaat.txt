@@ -1,14 +1,14 @@
 e_kroonstaat = {
-    color = { 104 123 147 }
-    color2 = { 104 123 147 }
+    color = { 136 153 89 }
+    color2 = { 144 156 114 }
     capital = 2
     k_merredweg = {
-        color = { 119 153 179 }
-        color2 = { 119 153 179 }
+        color = { 71 109 127 }
+        color2 = { 70 95 106 }
         capital = 519
         d_bergengreep = {
-            color = { 119 153 179 }
-            color2 = { 119 153 179 }
+            color = { 93 82 100 }
+            color2 = { 85 78 89 }
             capital = 519
             c_bergengreep = {
                 b_sonduin = {
@@ -32,8 +32,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 146 147 148 }
-                color2 = { 146 147 148 }
+                color = { 85 107 97 }
+                color2 = { 74 88 82 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -65,8 +65,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 119 153 179 }
-                color2 = { 119 153 179 }
+                color = { 93 94 118 }
+                color2 = { 103 104 119 }
 
 		holy_site = warda
 
@@ -101,8 +101,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 136 143 170 }
-                color2 = { 136 143 170 }
+                color = { 102 83 112 }
+                color2 = { 114 102 120 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -112,8 +112,8 @@ e_kroonstaat = {
             title_female = duke
         }
         d_harling = {
-            color = { 121 143 154 }
-            color2 = { 121 143 154 }
+            color = { 81 97 109 }
+            color2 = { 78 89 96 }
             capital = 522
             c_pol_callant = {
                 b_karum = {
@@ -132,8 +132,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 122 126 149 }
-                color2 = { 122 126 149 }
+                color = { 69 70 83 }
+                color2 = { 86 86 95 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -155,8 +155,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 131 138 143 }
-                color2 = { 131 138 143 }
+                color = { 105 106 111 }
+                color2 = { 91 91 95 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -178,8 +178,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 121 143 154 }
-                color2 = { 121 143 154 }
+                color = { 65 114 79 }
+                color2 = { 66 98 75 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -189,8 +189,8 @@ e_kroonstaat = {
             title_female = duke
         }
         d_valkmaar = {
-            color = { 118 154 174 }
-            color2 = { 118 154 174 }
+            color = { 67 86 93 }
+            color2 = { 82 95 99 }
             capital = 525
             c_de_aker = {
                 b_bovenbroek = {
@@ -214,8 +214,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 125 125 180 }
-                color2 = { 125 125 180 }
+                color = { 77 61 70 }
+                color2 = { 59 49 55 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -242,8 +242,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 140 142 152 }
-                color2 = { 140 142 152 }
+                color = { 99 108 108 }
+                color2 = { 89 95 95 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -270,8 +270,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 118 154 174 }
-                color2 = { 118 154 174 }
+                color = { 88 83 107 }
+                color2 = { 76 72 88 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -281,8 +281,8 @@ e_kroonstaat = {
             title_female = duke
         }
         d_vrouweaven = {
-            color = { 113 148 176 }
-            color2 = { 113 148 176 }
+            color = { 76 88 100 }
+            color2 = { 87 95 103 }
             capital = 528
             c_pol_helder = {
                 b_alnum = {
@@ -301,8 +301,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 133 150 179 }
-                color2 = { 133 150 179 }
+                color = { 106 113 95 }
+                color2 = { 89 93 82 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -329,8 +329,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 113 148 176 }
-                color2 = { 113 148 176 }
+                color = { 100 100 126 }
+                color2 = { 111 111 128 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -344,12 +344,12 @@ e_kroonstaat = {
         title_female = king
     }
     k_schierland = {
-        color = { 92 125 135 }
-        color2 = { 92 125 135 }
+        color = { 100 68 127 }
+        color2 = { 91 70 109 }
         capital = 530
         d_koolplaats = {
-            color = { 92 125 135 }
-            color2 = { 92 125 135 }
+            color = { 103 80 140 }
+            color2 = { 99 84 123 }
             capital = 530
             c_ermeplaat = {
                 b_beijl = {
@@ -368,8 +368,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 92 125 135 }
-                color2 = { 92 125 135 }
+                color = { 115 84 143 }
+                color2 = { 106 86 124 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -396,8 +396,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 120 129 140 }
-                color2 = { 120 129 140 }
+                color = { 83 106 126 }
+                color2 = { 82 97 110 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -419,8 +419,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 116 121 133 }
-                color2 = { 116 121 133 }
+                color = { 109 113 119 }
+                color2 = { 94 96 100 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -447,8 +447,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 105 95 168 }
-                color2 = { 105 95 168 }
+                color = { 107 92 130 }
+                color2 = { 93 83 108 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -475,8 +475,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 115 104 135 }
-                color2 = { 115 104 135 }
+                color = { 95 73 105 }
+                color2 = { 110 95 116 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -498,8 +498,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 102 101 169 }
-                color2 = { 102 101 169 }
+                color = { 76 90 107 }
+                color2 = { 92 101 112 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -509,8 +509,8 @@ e_kroonstaat = {
             title_female = duke
         }
         d_tierensche = {
-            color = { 93 125 163 }
-            color2 = { 93 125 163 }
+            color = { 113 104 142 }
+            color2 = { 98 93 117 }
             capital = 536
             c_dallevald = {
                 b_feind = {
@@ -529,8 +529,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 93 125 163 }
-                color2 = { 93 125 163 }
+                color = { 99 114 114 }
+                color2 = { 96 106 106 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -552,8 +552,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 118 94 142 }
-                color2 = { 118 94 142 }
+                color = { 117 95 148 }
+                color2 = { 102 88 122 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -575,8 +575,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 112 99 145 }
-                color2 = { 112 99 145 }
+                color = { 114 105 125 }
+                color2 = { 103 98 110 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -608,8 +608,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 108 109 149 }
-                color2 = { 108 109 149 }
+                color = { 124 136 154 }
+                color2 = { 122 130 141 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -619,8 +619,8 @@ e_kroonstaat = {
             title_female = duke
         }
         d_waddenzat = {
-            color = { 97 123 164 }
-            color2 = { 97 123 164 }
+            color = { 90 97 125 }
+            color2 = { 87 91 110 }
             capital = 540
             c_dee_horn = {
                 b_blauwwaard = {
@@ -639,8 +639,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 97 123 164 }
-                color2 = { 97 123 164 }
+                color = { 74 99 110 }
+                color2 = { 91 107 114 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -667,8 +667,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 117 128 141 }
-                color2 = { 117 128 141 }
+                color = { 70 116 96 }
+                color2 = { 94 124 111 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -690,8 +690,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 119 131 147 }
-                color2 = { 119 131 147 }
+                color = { 108 110 124 }
+                color2 = { 127 128 138 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -713,8 +713,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 101 129 143 }
-                color2 = { 101 129 143 }
+                color = { 72 113 103 }
+                color2 = { 63 90 84 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -741,8 +741,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 117 113 139 }
-                color2 = { 117 113 139 }
+                color = { 77 98 111 }
+                color2 = { 92 106 114 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -756,12 +756,12 @@ e_kroonstaat = {
         title_female = king
     }
     k_verreland = {
-        color = { 104 123 147 }
-        color2 = { 104 123 147 }
+        color = { 122 67 81 }
+        color2 = { 103 67 76 }
         capital = 2
         d_ruisterbroek = {
-            color = { 104 123 147 }
-            color2 = { 104 123 147 }
+            color = { 118 70 91 }
+            color2 = { 125 94 108 }
             capital = 2
             c_de_paaj = {
                 b_zedijk = {
@@ -785,8 +785,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 104 123 147 }
-                color2 = { 104 123 147 }
+                color = { 90 84 108 }
+                color2 = { 109 106 121 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -813,8 +813,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 114 138 172 }
-                color2 = { 114 138 172 }
+                color = { 112 68 69 }
+                color2 = { 120 91 92 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -841,8 +841,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 112 130 165 }
-                color2 = { 112 130 165 }
+                color = { 135 90 102 }
+                color2 = { 132 103 110 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -874,8 +874,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 105 149 177 }
-                color2 = { 105 149 177 }
+                color = { 137 71 119 }
+                color2 = { 110 67 98 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -902,8 +902,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 135 121 152 }
-                color2 = { 135 121 152 }
+                color = { 98 54 106 }
+                color2 = { 112 83 117 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -913,8 +913,8 @@ e_kroonstaat = {
             title_female = duke
         }
         d_tonkheere = {
-            color = { 110 127 176 }
-            color2 = { 110 127 176 }
+            color = { 99 61 59 }
+            color2 = { 74 49 48 }
             capital = 7
             c_passenaar = {
                 b_wolkenveen = {
@@ -938,8 +938,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 124 147 179 }
-                color2 = { 124 147 179 }
+                color = { 94 82 54 }
+                color2 = { 96 88 70 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -961,8 +961,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 110 127 176 }
-                color2 = { 110 127 176 }
+                color = { 73 75 84 }
+                color2 = { 92 94 100 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -994,8 +994,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 139 128 163 }
-                color2 = { 139 128 163 }
+                color = { 80 68 84 }
+                color2 = { 69 61 72 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -1017,8 +1017,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 124 143 176 }
-                color2 = { 124 143 176 }
+                color = { 87 80 84 }
+                color2 = { 101 96 99 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -1028,8 +1028,8 @@ e_kroonstaat = {
             title_female = duke
         }
         d_vierenpoort = {
-            color = { 105 148 150 }
-            color2 = { 105 148 150 }
+            color = { 131 67 72 }
+            color2 = { 125 83 86 }
             capital = 11
             c_grootburg = {
                 b_nacht = {
@@ -1058,8 +1058,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 123 144 143 }
-                color2 = { 123 144 143 }
+                color = { 105 60 81 }
+                color2 = { 114 85 98 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -1086,8 +1086,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 105 148 150 }
-                color2 = { 105 148 150 }
+                color = { 127 85 91 }
+                color2 = { 106 79 82 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -1114,8 +1114,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 114 129 144 }
-                color2 = { 114 129 144 }
+                color = { 108 66 82 }
+                color2 = { 91 64 74 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -1125,8 +1125,8 @@ e_kroonstaat = {
             title_female = duke
         }
         d_vierheere = {
-            color = { 107 139 143 }
-            color2 = { 107 139 143 }
+            color = { 119 69 73 }
+            color2 = { 91 58 61 }
             capital = 14
             c_de_pier = {
                 b_leenhout = {
@@ -1150,8 +1150,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 107 139 143 }
-                color2 = { 107 139 143 }
+                color = { 123 94 71 }
+                color2 = { 105 86 71 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -1178,8 +1178,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 114 149 173 }
-                color2 = { 114 149 173 }
+                color = { 125 71 91 }
+                color2 = { 107 72 85 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -1206,8 +1206,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 127 111 147 }
-                color2 = { 127 111 147 }
+                color = { 105 99 90 }
+                color2 = { 89 85 79 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -1221,12 +1221,12 @@ e_kroonstaat = {
         title_female = king
     }
     k_waddenland = {
-        color = { 100 133 172 }
-        color2 = { 100 133 172 }
+        color = { 115 128 71 }
+        color2 = { 118 126 89 }
         capital = 17
         d_borkum = {
-            color = { 100 133 172 }
-            color2 = { 100 133 172 }
+            color = { 136 136 95 }
+            color2 = { 143 143 116 }
             capital = 17
             c_schierkum = {
                 b_marsveen = {
@@ -1250,8 +1250,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 100 133 172 }
-                color2 = { 100 133 172 }
+                color = { 149 144 129 }
+                color2 = { 137 134 124 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -1261,8 +1261,8 @@ e_kroonstaat = {
             title_female = duke
         }
         d_texellen = {
-            color = { 101 149 195 }
-            color2 = { 101 149 195 }
+            color = { 114 104 103 }
+            color2 = { 100 93 92 }
             capital = 18
             c_kooge = {
                 b_polderdam = {
@@ -1286,8 +1286,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 101 149 195 }
-                color2 = { 101 149 195 }
+                color = { 134 129 111 }
+                color2 = { 119 116 104 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -1309,8 +1309,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 135 122 182 }
-                color2 = { 135 122 182 }
+                color = { 133 113 123 }
+                color2 = { 114 102 108 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -1320,8 +1320,8 @@ e_kroonstaat = {
             title_female = duke
         }
         d_wangeroog = {
-            color = { 107 140 173 }
-            color2 = { 107 140 173 }
+            color = { 140 146 76 }
+            color2 = { 145 149 104 }
             capital = 20
             c_langeoog = {
                 b_haaft = {
@@ -1345,8 +1345,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 110 152 168 }
-                color2 = { 110 152 168 }
+                color = { 151 131 90 }
+                color2 = { 125 112 85 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -1373,8 +1373,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 107 140 173 }
-                color2 = { 107 140 173 }
+                color = { 120 138 97 }
+                color2 = { 129 141 114 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -1388,12 +1388,12 @@ e_kroonstaat = {
         title_female = king
     }
     k_zandhoven = {
-        color = { 143 158 134 }
-        color2 = { 143 158 134 }
+        color = { 65 124 81 }
+        color2 = { 86 124 96 }
         capital = 22
         d_borghout = {
-            color = { 143 158 134 }
-            color2 = { 143 158 134 }
+            color = { 67 136 107 }
+            color2 = { 72 116 98 }
             capital = 22
             c_brandwoud = {
                 b_asdum = {
@@ -1417,8 +1417,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 143 158 134 }
-                color2 = { 143 158 134 }
+                color = { 84 136 125 }
+                color2 = { 85 119 112 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -1450,8 +1450,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 126 150 136 }
-                color2 = { 126 150 136 }
+                color = { 69 106 80 }
+                color2 = { 60 84 67 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -1478,8 +1478,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 159 169 109 }
-                color2 = { 159 169 109 }
+                color = { 74 128 90 }
+                color2 = { 91 126 101 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -1501,8 +1501,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 152 165 115 }
-                color2 = { 152 165 115 }
+                color = { 69 117 129 }
+                color2 = { 69 100 108 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -1512,8 +1512,8 @@ e_kroonstaat = {
             title_female = duke
         }
         d_dordam = {
-            color = { 124 153 119 }
-            color2 = { 124 153 119 }
+            color = { 94 133 76 }
+            color2 = { 107 133 96 }
             capital = 26
             c_felmeer = {
                 b_olgum = {
@@ -1542,8 +1542,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 133 165 122 }
-                color2 = { 133 165 122 }
+                color = { 103 98 63 }
+                color2 = { 110 106 84 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -1570,8 +1570,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 124 153 119 }
-                color2 = { 124 153 119 }
+                color = { 116 139 97 }
+                color2 = { 103 118 91 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -1581,8 +1581,8 @@ e_kroonstaat = {
             title_female = duke
         }
         d_erveld = {
-            color = { 149 163 134 }
-            color2 = { 149 163 134 }
+            color = { 59 92 72 }
+            color2 = { 50 72 59 }
             capital = 28
             c_dordam = {
                 b_dorgum = {
@@ -1606,8 +1606,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 134 155 145 }
-                color2 = { 134 155 145 }
+                color = { 60 64 86 }
+                color2 = { 56 59 73 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -1634,8 +1634,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 149 163 134 }
-                color2 = { 149 163 134 }
+                color = { 39 92 55 }
+                color2 = { 34 68 44 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -1645,8 +1645,8 @@ e_kroonstaat = {
             title_female = duke
         }
         d_garveld = {
-            color = { 136 180 132 }
-            color2 = { 136 180 132 }
+            color = { 81 116 70 }
+            color2 = { 93 116 86 }
             capital = 30
             c_doldermeer = {
                 b_korum = {
@@ -1675,8 +1675,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 135 177 116 }
-                color2 = { 135 177 116 }
+                color = { 65 121 100 }
+                color2 = { 60 97 83 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -1698,8 +1698,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 158 178 131 }
-                color2 = { 158 178 131 }
+                color = { 111 135 83 }
+                color2 = { 96 111 77 }
                 culture = eronidas
                 title = count
                 title_female = count
@@ -1726,8 +1726,8 @@ e_kroonstaat = {
                 
                 }
 
-                color = { 136 180 132 }
-                color2 = { 136 180 132 }
+                color = { 55 76 70 }
+                color2 = { 45 59 55 }
                 culture = eronidas
                 title = count
                 title_female = count

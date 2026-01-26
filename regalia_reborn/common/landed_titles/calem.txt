@@ -1,14 +1,14 @@
 e_calem = {
-    color = { 109 163 117 }
-    color2 = { 109 163 117 }
+    color = { 145 140 88 }
+    color2 = { 125 121 88 }
     capital = 1125 #Calemberg
     k_calderliga = {
-        color = { 152 198 122 }
-        color2 = { 152 198 122 }
+        color = { 111 69 129 }
+        color2 = { 102 75 114 }
         capital = 1076
         d_caldrinburg = {
-            color = { 152 198 122 }
-            color2 = { 152 198 122 }
+            color = { 103 90 113 }
+            color2 = { 96 87 102 }
             capital = 1076
             c_caldrinburg = {
                 b_lohborn = {
@@ -37,8 +37,8 @@ e_calem = {
                 
                 }
 
-                color = { 152 198 122 }
-                color2 = { 152 198 122 }
+                color = { 110 100 128 }
+                color2 = { 117 111 129 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -48,8 +48,8 @@ e_calem = {
             title_female = duke
         }
         d_joggeland = {
-            color = { 135 183 143 }
-            color2 = { 135 183 143 }
+            color = { 124 69 128 }
+            color2 = { 112 76 115 }
             capital = 1077
             c_joggeland = {
                 b_ulbach = {
@@ -78,8 +78,8 @@ e_calem = {
                 
                 }
 
-                color = { 148 171 143 }
-                color2 = { 148 171 143 }
+                color = { 112 96 126 }
+                color2 = { 126 115 135 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -101,8 +101,8 @@ e_calem = {
                 
                 }
 
-                color = { 135 183 143 }
-                color2 = { 135 183 143 }
+                color = { 120 109 148 }
+                color2 = { 115 108 133 }
                 culture = calderliga
                 title = count
                 title_female = count
@@ -129,8 +129,8 @@ e_calem = {
                 
                 }
 
-                color = { 172 198 118 }
-                color2 = { 172 198 118 }
+                color = { 103 103 129 }
+                color2 = { 116 116 133 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -157,8 +157,8 @@ e_calem = {
                 
                 }
 
-                color = { 163 185 136 }
-                color2 = { 163 185 136 }
+                color = { 133 61 104 }
+                color2 = { 109 62 90 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -168,8 +168,8 @@ e_calem = {
             title_female = duke
         }
         d_skileburg = {
-            color = { 138 173 126 }
-            color2 = { 138 173 126 }
+            color = { 114 110 145 }
+            color2 = { 130 128 150 }
             capital = 1081
             c_hasa = {
                 b_stingen = {
@@ -193,8 +193,8 @@ e_calem = {
                 
                 }
 
-                color = { 146 196 117 }
-                color2 = { 146 196 117 }
+                color = { 147 139 158 }
+                color2 = { 163 158 170 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -226,8 +226,8 @@ e_calem = {
                 
                 }
 
-                color = { 138 173 126 }
-                color2 = { 138 173 126 }
+                color = { 121 96 149 }
+                color2 = { 111 95 130 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -254,8 +254,8 @@ e_calem = {
                 
                 }
 
-                color = { 157 164 126 }
-                color2 = { 157 164 126 }
+                color = { 118 107 159 }
+                color2 = { 138 131 165 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -269,12 +269,12 @@ e_calem = {
         title_female = king
     }
     k_calemberg = {
-        color = { 131 183 117 }
-        color2 = { 131 183 117 }
+        color = { 126 66 89 }
+        color2 = { 99 60 75 }
         capital = 1125
         d_calemberg = {
-            color = { 131 183 117 }
-            color2 = { 131 183 117 }
+            color = { 134 94 78 }
+            color2 = { 108 82 71 }
             capital = 1125
             c_essen = {
                 b_loibach = {
@@ -293,8 +293,8 @@ e_calem = {
                 
                 }
 
-                color = { 154 180 118 }
-                color2 = { 154 180 118 }
+                color = { 137 74 93 }
+                color2 = { 135 94 107 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -316,8 +316,8 @@ e_calem = {
                 
                 }
 
-                color = { 134 159 107 }
-                color2 = { 134 159 107 }
+                color = { 117 67 59 }
+                color2 = { 113 81 76 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -339,8 +339,8 @@ e_calem = {
                 
                 }
 
-                color = { 136 174 125 }
-                color2 = { 136 174 125 }
+                color = { 127 82 71 }
+                color2 = { 107 78 71 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -362,8 +362,8 @@ e_calem = {
                 
                 }
 
-                color = { 127 151 120 }
-                color2 = { 136 174 125 }
+                color = { 137 101 95 }
+                color2 = { 121 98 94 }
 
 		holy_site = unionism
 
@@ -388,8 +388,8 @@ e_calem = {
                 
                 }
 
-                color = { 131 183 117 }
-                color2 = { 131 183 117 }
+                color = { 133 91 111 }
+                color2 = { 120 92 105 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -416,8 +416,8 @@ e_calem = {
                 
                 }
 
-                color = { 148 161 116 }
-                color2 = { 148 161 116 }
+                color = { 136 75 89 }
+                color2 = { 115 76 85 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -427,8 +427,8 @@ e_calem = {
             title_female = duke
         }
         d_charlotteburg = {
-            color = { 126 164 107 }
-            color2 = { 126 164 107 }
+            color = { 119 86 104 }
+            color2 = { 100 79 91 }
             capital = 1089
             c_bluenberg = {
                 b_suden = {
@@ -452,8 +452,8 @@ e_calem = {
                 
                 }
 
-                color = { 149 177 109 }
-                color2 = { 149 177 109 }
+                color = { 105 64 83 }
+                color2 = { 105 78 90 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -475,8 +475,8 @@ e_calem = {
                 
                 }
 
-                color = { 129 184 100 }
-                color2 = { 129 184 100 }
+                color = { 102 105 100 }
+                color2 = { 96 98 95 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -503,8 +503,8 @@ e_calem = {
                 
                 }
 
-                color = { 126 164 107 }
-                color2 = { 126 164 107 }
+                color = { 88 103 91 }
+                color2 = { 99 109 101 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -514,8 +514,8 @@ e_calem = {
             title_female = duke
         }
         d_hintenberg = {
-            color = { 125 186 99 }
-            color2 = { 125 186 99 }
+            color = { 90 84 87 }
+            color2 = { 106 102 104 }
             capital = 1092
             c_bispingen = {
                 b_fagerby = {
@@ -539,8 +539,8 @@ e_calem = {
                 
                 }
 
-                color = { 135 179 99 }
-                color2 = { 135 179 99 }
+                color = { 85 107 75 }
+                color2 = { 102 117 96 }
                 culture = hoglander
                 title = count
                 title_female = count
@@ -567,8 +567,8 @@ e_calem = {
                 
                 }
 
-                color = { 136 159 103 }
-                color2 = { 136 159 103 }
+                color = { 105 103 106 }
+                color2 = { 93 92 94 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -595,8 +595,8 @@ e_calem = {
                 
                 }
 
-                color = { 125 186 99 }
-                color2 = { 125 186 99 }
+                color = { 101 64 103 }
+                color2 = { 114 90 115 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -623,8 +623,8 @@ e_calem = {
                 
                 }
 
-                color = { 148 171 97 }
-                color2 = { 148 171 97 }
+                color = { 114 94 116 }
+                color2 = { 127 114 128 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -638,12 +638,12 @@ e_calem = {
         title_female = king
     }
     k_ostfriesland = {
-        color = { 125 163 123 }
-        color2 = { 125 163 123 }
+        color = { 127 115 72 }
+        color2 = { 128 120 93 }
         capital = 1096
         d_grabice = {
-            color = { 125 163 123 }
-            color2 = { 125 163 123 }
+            color = { 120 90 79 }
+            color2 = { 101 81 74 }
             capital = 1096
             c_alexanderburg = {
                 b_wszebor = {
@@ -672,8 +672,8 @@ e_calem = {
                 
                 }
 
-                color = { 140 145 131 }
-                color2 = { 140 145 131 }
+                color = { 108 100 101 }
+                color2 = { 97 92 93 }
                 culture = wruclav
                 title = count
                 title_female = count
@@ -695,8 +695,8 @@ e_calem = {
                 
                 }
 
-                color = { 139 157 101 }
-                color2 = { 139 157 101 }
+                color = { 115 91 79 }
+                color2 = { 97 81 74 }
                 culture = wruclav
                 title = count
                 title_female = count
@@ -718,8 +718,8 @@ e_calem = {
                 
                 }
 
-                color = { 145 165 110 }
-                color2 = { 145 165 110 }
+                color = { 128 108 94 }
+                color2 = { 140 127 118 }
                 culture = wruclav
                 title = count
                 title_female = count
@@ -751,8 +751,8 @@ e_calem = {
                 
                 }
 
-                color = { 125 163 123 }
-                color2 = { 125 163 123 }
+                color = { 106 68 82 }
+                color2 = { 106 81 90 }
                 culture = wruclav
                 title = count
                 title_female = count
@@ -762,8 +762,8 @@ e_calem = {
             title_female = duke
         }
         d_littorien = {
-            color = { 132 163 115 }
-            color2 = { 132 163 115 }
+            color = { 106 127 73 }
+            color2 = { 113 126 91 }
             capital = 1100
             c_estorieen = {
                 b_variku = {
@@ -787,8 +787,8 @@ e_calem = {
                 
                 }
 
-                color = { 158 173 121 }
-                color2 = { 158 173 121 }
+                color = { 112 98 62 }
+                color2 = { 120 111 87 }
                 culture = zvorun
                 title = count
                 title_female = count
@@ -815,8 +815,8 @@ e_calem = {
                 
                 }
 
-                color = { 132 163 115 }
-                color2 = { 132 163 115 }
+                color = { 101 141 75 }
+                color2 = { 115 141 98 }
                 culture = zvorun
                 title = count
                 title_female = count
@@ -843,8 +843,8 @@ e_calem = {
                 
                 }
 
-                color = { 145 166 110 }
-                color2 = { 145 166 110 }
+                color = { 120 121 78 }
+                color2 = { 128 129 101 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -854,8 +854,8 @@ e_calem = {
             title_female = duke
         }
         d_prezcil = {
-            color = { 134 148 130 }
-            color2 = { 134 148 130 }
+            color = { 104 110 102 }
+            color2 = { 120 124 119 }
             capital = 1103
             c_bad_muskau = {
                 b_mirogost = {
@@ -879,8 +879,8 @@ e_calem = {
                 
                 }
 
-                color = { 163 149 106 }
-                color2 = { 163 149 106 }
+                color = { 90 122 101 }
+                color2 = { 83 104 90 }
                 culture = wruclav
                 title = count
                 title_female = count
@@ -907,8 +907,8 @@ e_calem = {
                 
                 }
 
-                color = { 134 148 130 }
-                color2 = { 134 148 130 }
+                color = { 123 133 101 }
+                color2 = { 133 139 118 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -935,8 +935,8 @@ e_calem = {
                 
                 }
 
-                color = { 157 147 129 }
-                color2 = { 157 147 129 }
+                color = { 80 94 122 }
+                color2 = { 93 102 120 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -963,8 +963,8 @@ e_calem = {
                 
                 }
 
-                color = { 158 168 127 }
-                color2 = { 158 168 127 }
+                color = { 126 106 89 }
+                color2 = { 126 113 102 }
                 culture = wruclav
                 title = count
                 title_female = count
@@ -991,8 +991,8 @@ e_calem = {
                 
                 }
 
-                color = { 142 172 133 }
-                color2 = { 142 172 133 }
+                color = { 100 114 89 }
+                color2 = { 94 103 87 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1019,8 +1019,8 @@ e_calem = {
                 
                 }
 
-                color = { 149 174 118 }
-                color2 = { 149 174 118 }
+                color = { 108 104 91 }
+                color2 = { 118 115 106 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1052,8 +1052,8 @@ e_calem = {
                 
                 }
 
-                color = { 145 170 108 }
-                color2 = { 145 170 108 }
+                color = { 92 112 81 }
+                color2 = { 102 115 95 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1067,12 +1067,12 @@ e_calem = {
         title_female = king
     }
     k_carpenmark = {
-        color = { 109 163 117 }
-        color2 = { 109 163 117 }
+        color = { 72 122 65 }
+        color2 = { 71 103 66 }
         capital = 126
         d_krumvalia = {
-            color = { 109 163 117 }
-            color2 = { 109 163 117 }
+            color = { 83 100 81 }
+            color2 = { 79 90 77 }
             capital = 126
             c_bauerland = {
                 b_selberg = {
@@ -1096,8 +1096,8 @@ e_calem = {
                 
                 }
 
-                color = { 112 150 82 }
-                color2 = { 112 150 82 }
+                color = { 65 94 95 }
+                color2 = { 80 99 100 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1124,8 +1124,8 @@ e_calem = {
                 
                 }
 
-                color = { 134 163 106 }
-                color2 = { 134 163 106 }
+                color = { 88 80 82 }
+                color2 = { 92 87 88 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1152,8 +1152,8 @@ e_calem = {
                 
                 }
 
-                color = { 121 173 104 }
-                color2 = { 121 173 104 }
+                color = { 59 103 57 }
+                color2 = { 73 102 72 }
                 culture = ania
                 title = count
                 title_female = count
@@ -1185,8 +1185,8 @@ e_calem = {
                 
                 }
 
-                color = { 109 163 117 }
-                color2 = { 109 163 117 }
+                color = { 106 85 74 }
+                color2 = { 116 102 95 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1208,8 +1208,8 @@ e_calem = {
                 
                 }
 
-                color = { 142 147 87 }
-                color2 = { 142 147 87 }
+                color = { 67 109 68 }
+                color2 = { 90 117 91 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1231,8 +1231,8 @@ e_calem = {
                 
                 }
 
-                color = { 120 153 89 }
-                color2 = { 120 153 89 }
+                color = { 55 69 53 }
+                color2 = { 64 74 63 }
                 culture = ania
                 title = count
                 title_female = count
@@ -1242,8 +1242,8 @@ e_calem = {
             title_female = duke
         }
         d_odoretz = {
-            color = { 129 137 103 }
-            color2 = { 129 137 103 }
+            color = { 53 81 69 }
+            color2 = { 43 61 54 }
             capital = 132
             c_eibenwitz = {
                 b_meler = {
@@ -1267,8 +1267,8 @@ e_calem = {
                 
                 }
 
-                color = { 129 137 103 }
-                color2 = { 129 137 103 }
+                color = { 40 63 65 }
+                color2 = { 36 51 52 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1295,8 +1295,8 @@ e_calem = {
                 
                 }
 
-                color = { 131 141 109 }
-                color2 = { 131 141 109 }
+                color = { 71 90 95 }
+                color2 = { 84 96 100 }
                 culture = ania
                 title = count
                 title_female = count
@@ -1328,8 +1328,8 @@ e_calem = {
                 
                 }
 
-                color = { 131 166 114 }
-                color2 = { 131 166 114 }
+                color = { 55 79 74 }
+                color2 = { 42 58 54 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1356,8 +1356,8 @@ e_calem = {
                 
                 }
 
-                color = { 142 153 117 }
-                color2 = { 142 153 117 }
+                color = { 83 88 87 }
+                color2 = { 70 73 73 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1384,8 +1384,8 @@ e_calem = {
                 
                 }
 
-                color = { 145 170 94 }
-                color2 = { 145 170 94 }
+                color = { 47 71 63 }
+                color2 = { 59 74 69 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1395,8 +1395,8 @@ e_calem = {
             title_female = duke
         }
         d_rundstede = {
-            color = { 107 137 97 }
-            color2 = { 107 137 97 }
+            color = { 72 97 81 }
+            color2 = { 64 80 70 }
             capital = 137
             c_bautzder = {
                 b_holen = {
@@ -1415,8 +1415,8 @@ e_calem = {
                 
                 }
 
-                color = { 143 150 82 }
-                color2 = { 143 150 82 }
+                color = { 94 70 64 }
+                color2 = { 77 61 57 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1443,8 +1443,8 @@ e_calem = {
                 
                 }
 
-                color = { 132 143 101 }
-                color2 = { 132 143 101 }
+                color = { 84 74 97 }
+                color2 = { 70 64 79 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1476,8 +1476,8 @@ e_calem = {
                 
                 }
 
-                color = { 126 171 109 }
-                color2 = { 126 171 109 }
+                color = { 81 115 82 }
+                color2 = { 68 90 69 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1499,8 +1499,8 @@ e_calem = {
                 
                 }
 
-                color = { 107 137 97 }
-                color2 = { 107 137 97 }
+                color = { 76 80 93 }
+                color2 = { 60 63 72 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1514,12 +1514,12 @@ e_calem = {
         title_female = king
     }
     k_hinter_calem = {
-        color = { 119 167 121 }
-        color2 = { 119 167 121 }
+        color = { 72 126 111 }
+        color2 = { 91 126 116 }
         capital = 141
         d_erzberge = {
-            color = { 119 167 121 }
-            color2 = { 119 167 121 }
+            color = { 73 122 85 }
+            color2 = { 91 123 99 }
             capital = 141
             c_erzberge = {
                 b_zieglein = {
@@ -1538,8 +1538,8 @@ e_calem = {
                 
                 }
 
-                color = { 119 167 121 }
-                color2 = { 119 167 121 }
+                color = { 100 132 95 }
+                color2 = { 94 115 91 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1566,8 +1566,8 @@ e_calem = {
                 
                 }
 
-                color = { 135 146 117 }
-                color2 = { 135 146 117 }
+                color = { 87 113 98 }
+                color2 = { 73 90 80 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1599,8 +1599,8 @@ e_calem = {
                 
                 }
 
-                color = { 128 137 124 }
-                color2 = { 128 137 124 }
+                color = { 104 129 104 }
+                color2 = { 119 135 119 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1627,8 +1627,8 @@ e_calem = {
                 
                 }
 
-                color = { 121 169 96 }
-                color2 = { 121 169 96 }
+                color = { 60 119 102 }
+                color2 = { 80 118 107 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1660,8 +1660,8 @@ e_calem = {
                 
                 }
 
-                color = { 138 134 100 }
-                color2 = { 138 134 100 }
+                color = { 89 102 91 }
+                color2 = { 85 93 86 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1671,8 +1671,8 @@ e_calem = {
             title_female = duke
         }
         d_neufoundland = {
-            color = { 127 138 102 }
-            color2 = { 127 138 102 }
+            color = { 72 106 117 }
+            color2 = { 74 96 103 }
             capital = 146
             c_hollifarland = {
                 b_rheide = {
@@ -1691,8 +1691,8 @@ e_calem = {
                 
                 }
 
-                color = { 138 146 99 }
-                color2 = { 138 146 99 }
+                color = { 104 84 115 }
+                color2 = { 119 106 126 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1719,8 +1719,8 @@ e_calem = {
                 
                 }
 
-                color = { 137 141 113 }
-                color2 = { 137 141 113 }
+                color = { 69 99 100 }
+                color2 = { 65 84 85 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1747,8 +1747,8 @@ e_calem = {
                 
                 }
 
-                color = { 127 138 102 }
-                color2 = { 127 138 102 }
+                color = { 64 93 106 }
+                color2 = { 85 104 113 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -1775,8 +1775,8 @@ e_calem = {
                 
                 }
 
-                color = { 134 159 122 }
-                color2 = { 134 159 122 }
+                color = { 82 104 129 }
+                color2 = { 96 110 127 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -1798,8 +1798,8 @@ e_calem = {
                 
                 }
 
-                color = { 151 138 117 }
-                color2 = { 151 138 117 }
+                color = { 102 100 120 }
+                color2 = { 95 93 106 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1821,8 +1821,8 @@ e_calem = {
                 
                 }
 
-                color = { 130 130 125 }
-                color2 = { 130 130 125 }
+                color = { 113 136 139 }
+                color2 = { 106 121 122 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1832,8 +1832,8 @@ e_calem = {
             title_female = duke
         }
         d_silmark = {
-            color = { 121 155 113 }
-            color2 = { 121 155 113 }
+            color = { 101 110 134 }
+            color2 = { 88 94 109 }
             capital = 152
             c_bleiken_am_see = {
                 b_waigen = {
@@ -1852,8 +1852,8 @@ e_calem = {
                 
                 }
 
-                color = { 121 155 113 }
-                color2 = { 121 155 113 }
+                color = { 82 89 143 }
+                color2 = { 77 82 117 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1875,8 +1875,8 @@ e_calem = {
                 
                 }
 
-                color = { 145 135 106 }
-                color2 = { 145 135 106 }
+                color = { 88 111 128 }
+                color2 = { 85 100 111 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1908,8 +1908,8 @@ e_calem = {
                 
                 }
 
-                color = { 141 149 97 }
-                color2 = { 141 149 97 }
+                color = { 85 114 134 }
+                color2 = { 110 129 142 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1931,8 +1931,8 @@ e_calem = {
                 
                 }
 
-                color = { 150 133 116 }
-                color2 = { 150 133 116 }
+                color = { 83 95 118 }
+                color2 = { 95 102 117 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1946,12 +1946,12 @@ e_calem = {
         title_female = king
     }
     k_opper_calem = {
-        color = { 116 177 126 }
-        color2 = { 116 177 126 }
+        color = { 68 79 120 }
+        color2 = { 67 74 101 }
         capital = 156
         d_attliebel = {
-            color = { 116 177 126 }
-            color2 = { 116 177 126 }
+            color = { 55 94 118 }
+            color2 = { 55 80 96 }
             capital = 156
             c_attliebel = {
                 b_wacker = {
@@ -1975,8 +1975,8 @@ e_calem = {
                 
                 }
 
-                color = { 121 164 106 }
-                color2 = { 121 164 106 }
+                color = { 62 80 103 }
+                color2 = { 60 72 87 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -2003,8 +2003,8 @@ e_calem = {
                 
                 }
 
-                color = { 144 163 106 }
-                color2 = { 144 163 106 }
+                color = { 81 78 123 }
+                color2 = { 103 101 130 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -2026,8 +2026,8 @@ e_calem = {
                 
                 }
 
-                color = { 116 177 126 }
-                color2 = { 116 177 126 }
+                color = { 92 123 123 }
+                color2 = { 92 112 112 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -2054,8 +2054,8 @@ e_calem = {
                 
                 }
 
-                color = { 138 150 102 }
-                color2 = { 138 150 102 }
+                color = { 47 102 95 }
+                color2 = { 46 82 77 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -2065,8 +2065,8 @@ e_calem = {
             title_female = duke
         }
         d_moritzberg = {
-            color = { 131 152 97 }
-            color2 = { 131 152 97 }
+            color = { 97 63 101 }
+            color2 = { 100 78 103 }
             capital = 160
             c_brzerg = {
                 b_grodnik = {
@@ -2090,8 +2090,8 @@ e_calem = {
                 
                 }
 
-                color = { 138 173 125 }
-                color2 = { 138 173 125 }
+                color = { 109 61 80 }
+                color2 = { 88 57 69 }
                 culture = wruclav
                 title = count
                 title_female = count
@@ -2118,8 +2118,8 @@ e_calem = {
                 
                 }
 
-                color = { 150 174 96 }
-                color2 = { 150 174 96 }
+                color = { 94 61 120 }
+                color2 = { 84 63 101 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -2146,8 +2146,8 @@ e_calem = {
                 
                 }
 
-                color = { 139 140 111 }
-                color2 = { 139 140 111 }
+                color = { 100 95 85 }
+                color2 = { 107 103 97 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -2169,8 +2169,8 @@ e_calem = {
                 
                 }
 
-                color = { 152 176 97 }
-                color2 = { 152 176 97 }
+                color = { 109 77 93 }
+                color2 = { 121 101 111 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -2197,8 +2197,8 @@ e_calem = {
                 
                 }
 
-                color = { 150 154 118 }
-                color2 = { 150 154 118 }
+                color = { 86 49 87 }
+                color2 = { 100 76 100 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -2225,8 +2225,8 @@ e_calem = {
                 
                 }
 
-                color = { 131 152 97 }
-                color2 = { 131 152 97 }
+                color = { 93 52 81 }
+                color2 = { 69 42 61 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -2236,8 +2236,8 @@ e_calem = {
             title_female = duke
         }
         d_vornfelde = {
-            color = { 115 172 122 }
-            color2 = { 115 172 122 }
+            color = { 89 78 118 }
+            color2 = { 105 98 124 }
             capital = 166
             c_orienburg = {
                 b_feuch = {
@@ -2256,8 +2256,8 @@ e_calem = {
                 
                 }
 
-                color = { 115 172 122 }
-                color2 = { 115 172 122 }
+                color = { 86 59 104 }
+                color2 = { 97 79 109 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -2284,8 +2284,8 @@ e_calem = {
                 
                 }
 
-                color = { 130 152 93 }
-                color2 = { 130 152 93 }
+                color = { 67 72 106 }
+                color2 = { 82 86 108 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -2307,8 +2307,8 @@ e_calem = {
                 
                 }
 
-                color = { 130 159 129 }
-                color2 = { 130 159 129 }
+                color = { 117 92 115 }
+                color2 = { 107 91 106 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -2330,8 +2330,8 @@ e_calem = {
                 
                 }
 
-                color = { 140 158 93 }
-                color2 = { 140 158 93 }
+                color = { 100 107 134 }
+                color2 = { 96 100 118 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -2353,8 +2353,8 @@ e_calem = {
                 
                 }
 
-                color = { 152 151 113 }
-                color2 = { 152 151 113 }
+                color = { 90 104 126 }
+                color2 = { 80 89 103 }
                 culture = wirtem
                 title = count
                 title_female = count

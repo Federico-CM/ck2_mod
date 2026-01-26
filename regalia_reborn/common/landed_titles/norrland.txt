@@ -1,14 +1,14 @@
 e_norrland = {
-    color = { 139 169 177 }
-    color2 = { 139 169 177 }
+    color = { 152 80 84 }
+    color2 = { 124 77 79 }
     capital = 659
     k_brynholt = {
-        color = { 139 169 177 }
-        color2 = { 139 169 177 }
+        color = { 127 112 72 }
+        color2 = { 109 99 73 }
         capital = 659
         d_farsund = {
-            color = { 139 169 177 }
-            color2 = { 139 169 177 }
+            color = { 122 132 76 }
+            color2 = { 136 142 106 }
             capital = 659
             c_eidslind = {
                 b_malund = {
@@ -32,8 +32,8 @@ e_norrland = {
                 
                 }
 
-                color = { 153 152 141 }
-                color2 = { 153 152 141 }
+                color = { 93 106 71 }
+                color2 = { 103 111 89 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -65,8 +65,8 @@ e_norrland = {
                 
                 }
 
-                color = { 137 156 150 }
-                color2 = { 137 156 150 }
+                color = { 128 126 106 }
+                color2 = { 113 112 99 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -93,8 +93,8 @@ e_norrland = {
                 
                 }
 
-                color = { 139 169 177 }
-                color2 = { 139 169 177 }
+                color = { 145 138 98 }
+                color2 = { 153 148 122 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -104,8 +104,8 @@ e_norrland = {
             title_female = duke
         }
         d_harstorn = {
-            color = { 128 182 167 }
-            color2 = { 128 182 167 }
+            color = { 122 110 78 }
+            color2 = { 100 93 72 }
             capital = 662
             c_gismund = {
                 b_slstad = {
@@ -129,8 +129,8 @@ e_norrland = {
                 
                 }
 
-                color = { 128 182 167 }
-                color2 = { 128 182 167 }
+                color = { 107 89 61 }
+                color2 = { 116 104 86 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -162,8 +162,8 @@ e_norrland = {
                 
                 }
 
-                color = { 128 182 154 }
-                color2 = { 128 182 154 }
+                color = { 97 115 85 }
+                color2 = { 86 97 78 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -190,8 +190,8 @@ e_norrland = {
                 
                 }
 
-                color = { 140 153 166 }
-                color2 = { 140 153 166 }
+                color = { 133 135 86 }
+                color2 = { 145 146 114 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -223,8 +223,8 @@ e_norrland = {
                 
                 }
 
-                color = { 150 175 176 }
-                color2 = { 150 175 176 }
+                color = { 128 104 93 }
+                color2 = { 137 121 114 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -234,8 +234,8 @@ e_norrland = {
             title_female = duke
         }
         d_runmar = {
-            color = { 138 150 144 }
-            color2 = { 138 150 144 }
+            color = { 129 98 67 }
+            color2 = { 100 80 60 }
             capital = 666
             c_kirkaby = {
                 b_viggarum = {
@@ -259,8 +259,8 @@ e_norrland = {
                 
                 }
 
-                color = { 138 150 144 }
-                color2 = { 138 150 144 }
+                color = { 124 76 69 }
+                color2 = { 129 98 93 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -282,8 +282,8 @@ e_norrland = {
                 
                 }
 
-                color = { 129 149 163 }
-                color2 = { 129 149 163 }
+                color = { 145 128 86 }
+                color2 = { 151 140 113 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -305,8 +305,8 @@ e_norrland = {
                 
                 }
 
-                color = { 135 181 152 }
-                color2 = { 135 181 152 }
+                color = { 120 91 65 }
+                color2 = { 122 103 86 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -328,8 +328,8 @@ e_norrland = {
                 
                 }
 
-                color = { 147 168 153 }
-                color2 = { 147 168 153 }
+                color = { 115 118 75 }
+                color2 = { 125 127 99 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -339,8 +339,8 @@ e_norrland = {
             title_female = duke
         }
         d_vindal = {
-            color = { 161 182 158 }
-            color2 = { 161 182 158 }
+            color = { 110 94 90 }
+            color2 = { 120 109 107 }
             capital = 670
             c_augheim = {
                 b_vitsen = {
@@ -364,8 +364,8 @@ e_norrland = {
                 
                 }
 
-                color = { 134 169 155 }
-                color2 = { 134 169 155 }
+                color = { 122 113 77 }
+                color2 = { 128 122 98 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -392,8 +392,8 @@ e_norrland = {
                 
                 }
 
-                color = { 160 170 152 }
-                color2 = { 160 170 152 }
+                color = { 88 69 80 }
+                color2 = { 67 54 62 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -415,8 +415,8 @@ e_norrland = {
                 
                 }
 
-                color = { 150 187 163 }
-                color2 = { 150 187 163 }
+                color = { 93 103 105 }
+                color2 = { 82 89 90 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -438,8 +438,8 @@ e_norrland = {
                 
                 }
 
-                color = { 161 182 158 }
-                color2 = { 161 182 158 }
+                color = { 93 90 85 }
+                color2 = { 75 73 69 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -453,12 +453,12 @@ e_norrland = {
         title_female = king
     }
     k_nornvald = {
-        color = { 138 148 130 }
-        color2 = { 138 148 130 }
+        color = { 82 123 66 }
+        color2 = { 74 100 63 }
         capital = 674
         d_mistmar = {
-            color = { 138 148 130 }
-            color2 = { 138 148 130 }
+            color = { 74 137 97 }
+            color2 = { 93 134 108 }
             capital = 674
             c_bjeren = {
                 b_skarden = {
@@ -477,8 +477,8 @@ e_norrland = {
                 
                 }
 
-                color = { 138 148 130 }
-                color2 = { 138 148 130 }
+                color = { 53 105 67 }
+                color2 = { 47 80 56 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -505,8 +505,8 @@ e_norrland = {
                 
                 }
 
-                color = { 118 141 148 }
-                color2 = { 118 141 148 }
+                color = { 77 148 86 }
+                color2 = { 72 119 78 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -528,8 +528,8 @@ e_norrland = {
                 
                 }
 
-                color = { 124 135 132 }
-                color2 = { 124 135 132 }
+                color = { 104 112 98 }
+                color2 = { 89 95 85 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -539,8 +539,8 @@ e_norrland = {
             title_female = duke
         }
         d_ornfell = {
-            color = { 138 153 154 }
-            color2 = { 138 153 154 }
+            color = { 95 123 97 }
+            color2 = { 116 134 117 }
             capital = 677
             c_iseney = {
                 b_tumlen = {
@@ -564,8 +564,8 @@ e_norrland = {
                 
                 }
 
-                color = { 111 153 158 }
-                color2 = { 111 153 158 }
+                color = { 117 128 85 }
+                color2 = { 128 135 107 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -587,8 +587,8 @@ e_norrland = {
                 
                 }
 
-                color = { 138 153 154 }
-                color2 = { 138 153 154 }
+                color = { 82 136 104 }
+                color2 = { 99 134 113 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -598,8 +598,8 @@ e_norrland = {
             title_female = duke
         }
         d_stronvik = {
-            color = { 135 140 136 }
-            color2 = { 135 140 136 }
+            color = { 69 100 63 }
+            color2 = { 83 103 79 }
             capital = 679
             c_arasoya = {
                 b_kunger = {
@@ -618,8 +618,8 @@ e_norrland = {
                 
                 }
 
-                color = { 112 166 151 }
-                color2 = { 112 166 151 }
+                color = { 82 114 65 }
+                color2 = { 77 98 66 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -641,8 +641,8 @@ e_norrland = {
                 
                 }
 
-                color = { 133 169 151 }
-                color2 = { 133 169 151 }
+                color = { 85 96 50 }
+                color2 = { 93 100 70 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -664,8 +664,8 @@ e_norrland = {
                 
                 }
 
-                color = { 135 140 136 }
-                color2 = { 135 140 136 }
+                color = { 84 120 96 }
+                color2 = { 102 125 109 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -692,8 +692,8 @@ e_norrland = {
                 
                 }
 
-                color = { 111 150 141 }
-                color2 = { 111 150 141 }
+                color = { 60 84 84 }
+                color2 = { 77 92 92 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -720,8 +720,8 @@ e_norrland = {
                 
                 }
 
-                color = { 135 140 136 }
-                color2 = { 135 140 136 }
+                color = { 72 101 61 }
+                color2 = { 64 83 57 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -731,8 +731,8 @@ e_norrland = {
             title_female = duke
         }
         d_ullnes = {
-            color = { 140 133 134 }
-            color2 = { 140 133 134 }
+            color = { 84 97 57 }
+            color2 = { 94 103 77 }
             capital = 684
             c_eneby = {
                 b_lnset = {
@@ -751,8 +751,8 @@ e_norrland = {
                 
                 }
 
-                color = { 140 133 134 }
-                color2 = { 140 133 134 }
+                color = { 93 90 68 }
+                color2 = { 78 76 62 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -766,12 +766,12 @@ e_norrland = {
         title_female = king
     }
     k_ravnholt = {
-        color = { 106 166 148 }
-        color2 = { 106 166 148 }
+        color = { 73 128 119 }
+        color2 = { 98 134 128 }
         capital = 685
         d_balfell = {
-            color = { 106 166 148 }
-            color2 = { 106 166 148 }
+            color = { 108 115 131 }
+            color2 = { 126 131 141 }
             capital = 685
             c_sleney = {
                 b_singelby = {
@@ -800,8 +800,8 @@ e_norrland = {
                 
                 }
 
-                color = { 106 166 148 }
-                color2 = { 106 166 148 }
+                color = { 95 125 131 }
+                color2 = { 86 105 109 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -838,8 +838,8 @@ e_norrland = {
                 
                 }
 
-                color = { 110 175 149 }
-                color2 = { 110 175 149 }
+                color = { 121 125 114 }
+                color2 = { 110 112 105 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -849,8 +849,8 @@ e_norrland = {
             title_female = duke
         }
         d_brunfell = {
-            color = { 125 162 137 }
-            color2 = { 125 162 137 }
+            color = { 91 126 136 }
+            color2 = { 116 139 146 }
             capital = 687
             c_halheim = {
                 b_hknstorp = {
@@ -874,8 +874,8 @@ e_norrland = {
                 
                 }
 
-                color = { 89 150 158 }
-                color2 = { 89 150 158 }
+                color = { 100 138 120 }
+                color2 = { 125 149 138 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -902,8 +902,8 @@ e_norrland = {
                 
                 }
 
-                color = { 102 151 163 }
-                color2 = { 102 151 163 }
+                color = { 124 140 114 }
+                color2 = { 141 151 134 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -925,8 +925,8 @@ e_norrland = {
                 
                 }
 
-                color = { 101 153 143 }
-                color2 = { 101 153 143 }
+                color = { 99 105 141 }
+                color2 = { 90 94 117 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -953,8 +953,8 @@ e_norrland = {
                 
                 }
 
-                color = { 125 162 137 }
-                color2 = { 125 162 137 }
+                color = { 124 120 118 }
+                color2 = { 114 111 110 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -981,8 +981,8 @@ e_norrland = {
                 
                 }
 
-                color = { 111 145 141 }
-                color2 = { 111 145 141 }
+                color = { 123 119 152 }
+                color2 = { 119 116 138 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1004,8 +1004,8 @@ e_norrland = {
                 
                 }
 
-                color = { 111 174 141 }
-                color2 = { 111 174 141 }
+                color = { 92 138 139 }
+                color2 = { 95 125 125 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1015,8 +1015,8 @@ e_norrland = {
             title_female = duke
         }
         d_stenvik = {
-            color = { 126 162 142 }
-            color2 = { 126 162 142 }
+            color = { 86 110 108 }
+            color2 = { 101 117 116 }
             capital = 693
             c_kotheim = {
                 b_bulla = {
@@ -1040,8 +1040,8 @@ e_norrland = {
                 
                 }
 
-                color = { 126 162 142 }
-                color2 = { 126 162 142 }
+                color = { 97 99 109 }
+                color2 = { 114 115 122 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1063,8 +1063,8 @@ e_norrland = {
                 
                 }
 
-                color = { 88 145 137 }
-                color2 = { 88 145 137 }
+                color = { 85 78 80 }
+                color2 = { 77 72 73 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1091,8 +1091,8 @@ e_norrland = {
                 
                 }
 
-                color = { 104 146 137 }
-                color2 = { 104 146 137 }
+                color = { 92 88 98 }
+                color2 = { 76 74 80 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1119,8 +1119,8 @@ e_norrland = {
                 
                 }
 
-                color = { 97 148 164 }
-                color2 = { 97 148 164 }
+                color = { 105 93 95 }
+                color2 = { 115 107 108 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1130,8 +1130,8 @@ e_norrland = {
             title_female = duke
         }
         d_stonvar = {
-            color = { 114 159 159 }
-            color2 = { 114 159 159 }
+            color = { 71 94 103 }
+            color2 = { 85 100 106 }
             capital = 697
             c_lutesfishheim = {
                 b_kiveden = {
@@ -1160,8 +1160,8 @@ e_norrland = {
                 
                 }
 
-                color = { 114 159 159 }
-                color2 = { 114 159 159 }
+                color = { 79 72 94 }
+                color2 = { 63 58 73 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1183,8 +1183,8 @@ e_norrland = {
                 
                 }
 
-                color = { 92 183 129 }
-                color2 = { 92 183 129 }
+                color = { 74 88 74 }
+                color2 = { 59 68 59 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1198,12 +1198,12 @@ e_norrland = {
         title_female = king
     }
     k_viksalbard = {
-        color = { 119 192 142 }
-        color2 = { 119 192 142 }
+        color = { 79 68 120 }
+        color2 = { 92 85 119 }
         capital = 699
         d_brensholmen = {
-            color = { 119 192 142 }
-            color2 = { 119 192 142 }
+            color = { 90 85 103 }
+            color2 = { 75 72 84 }
             capital = 699
             c_langbyen = {
                 b_korns = {
@@ -1227,8 +1227,8 @@ e_norrland = {
                 
                 }
 
-                color = { 132 186 154 }
-                color2 = { 132 186 154 }
+                color = { 69 69 110 }
+                color2 = { 60 60 87 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1250,8 +1250,8 @@ e_norrland = {
                 
                 }
 
-                color = { 119 192 142 }
-                color2 = { 119 192 142 }
+                color = { 102 99 97 }
+                color2 = { 88 86 85 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1273,8 +1273,8 @@ e_norrland = {
                 
                 }
 
-                color = { 138 187 166 }
-                color2 = { 138 187 166 }
+                color = { 97 98 90 }
+                color2 = { 109 110 105 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1296,8 +1296,8 @@ e_norrland = {
                 
                 }
 
-                color = { 128 174 167 }
-                color2 = { 128 174 167 }
+                color = { 102 114 118 }
+                color2 = { 123 131 134 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1307,8 +1307,8 @@ e_norrland = {
             title_female = duke
         }
         d_brorstad = {
-            color = { 105 152 168 }
-            color2 = { 105 152 168 }
+            color = { 58 58 118 }
+            color2 = { 75 75 114 }
             capital = 703
             c_botn = {
                 b_galtan = {
@@ -1332,8 +1332,8 @@ e_norrland = {
                 
                 }
 
-                color = { 105 152 168 }
-                color2 = { 105 152 168 }
+                color = { 62 64 126 }
+                color2 = { 60 61 101 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1355,8 +1355,8 @@ e_norrland = {
                 
                 }
 
-                color = { 126 157 160 }
-                color2 = { 126 157 160 }
+                color = { 57 88 124 }
+                color2 = { 63 83 106 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1378,8 +1378,8 @@ e_norrland = {
                 
                 }
 
-                color = { 123 173 150 }
-                color2 = { 123 173 150 }
+                color = { 80 39 84 }
+                color2 = { 63 36 65 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1406,8 +1406,8 @@ e_norrland = {
                 
                 }
 
-                color = { 127 173 152 }
-                color2 = { 127 173 152 }
+                color = { 42 40 96 }
+                color2 = { 37 36 72 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1417,8 +1417,8 @@ e_norrland = {
             title_female = duke
         }
         d_gamlevik = {
-            color = { 125 170 138 }
-            color2 = { 125 170 138 }
+            color = { 62 55 90 }
+            color2 = { 47 43 66 }
             capital = 707
             c_gamlevik = {
                 b_djurfors = {
@@ -1442,8 +1442,8 @@ e_norrland = {
                 
                 }
 
-                color = { 125 170 138 }
-                color2 = { 125 170 138 }
+                color = { 55 66 85 }
+                color2 = { 74 81 93 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1465,8 +1465,8 @@ e_norrland = {
                 
                 }
 
-                color = { 130 164 140 }
-                color2 = { 130 164 140 }
+                color = { 43 78 80 }
+                color2 = { 42 65 66 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1493,8 +1493,8 @@ e_norrland = {
                 
                 }
 
-                color = { 130 183 168 }
-                color2 = { 130 183 168 }
+                color = { 83 38 90 }
+                color2 = { 85 56 90 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1516,8 +1516,8 @@ e_norrland = {
                 
                 }
 
-                color = { 130 159 158 }
-                color2 = { 130 159 158 }
+                color = { 45 43 77 }
+                color2 = { 66 65 87 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1531,12 +1531,12 @@ e_norrland = {
         title_female = king
     }
     k_viksfoten = {
-        color = { 145 203 175 }
-        color2 = { 145 203 175 }
+        color = { 127 71 109 }
+        color2 = { 109 73 98 }
         capital = 711
         d_flakstad = {
-            color = { 145 203 175 }
-            color2 = { 145 203 175 }
+            color = { 102 79 115 }
+            color2 = { 93 78 101 }
             capital = 711
             c_laudevik = {
                 b_rasjryd = {
@@ -1555,8 +1555,8 @@ e_norrland = {
                 
                 }
 
-                color = { 151 204 180 }
-                color2 = { 151 204 180 }
+                color = { 88 88 115 }
+                color2 = { 85 85 103 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1583,8 +1583,8 @@ e_norrland = {
                 
                 }
 
-                color = { 146 205 185 }
-                color2 = { 146 205 185 }
+                color = { 101 98 93 }
+                color2 = { 94 92 88 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1606,8 +1606,8 @@ e_norrland = {
                 
                 }
 
-                color = { 145 203 175 }
-                color2 = { 145 203 175 }
+                color = { 109 77 99 }
+                color2 = { 115 94 109 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1617,8 +1617,8 @@ e_norrland = {
             title_female = duke
         }
         d_harstad = {
-            color = { 145 181 183 }
-            color2 = { 145 181 183 }
+            color = { 128 80 89 }
+            color2 = { 127 96 102 }
             capital = 714
             c_harstad = {
                 b_skllanda = {
@@ -1637,8 +1637,8 @@ e_norrland = {
                 
                 }
 
-                color = { 154 197 170 }
-                color2 = { 154 197 170 }
+                color = { 133 70 109 }
+                color2 = { 133 92 117 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1665,8 +1665,8 @@ e_norrland = {
                 
                 }
 
-                color = { 150 187 178 }
-                color2 = { 150 187 178 }
+                color = { 94 73 84 }
+                color2 = { 74 61 68 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1693,8 +1693,8 @@ e_norrland = {
                 
                 }
 
-                color = { 145 181 183 }
-                color2 = { 145 181 183 }
+                color = { 134 78 104 }
+                color2 = { 117 80 97 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1704,8 +1704,8 @@ e_norrland = {
             title_female = duke
         }
         d_horsund = {
-            color = { 139 169 167 }
-            color2 = { 139 169 167 }
+            color = { 126 93 98 }
+            color2 = { 103 82 85 }
             capital = 717
             c_gravdal = {
                 b_byggebyn = {
@@ -1729,8 +1729,8 @@ e_norrland = {
                 
                 }
 
-                color = { 139 169 167 }
-                color2 = { 139 169 167 }
+                color = { 130 83 90 }
+                color2 = { 112 81 86 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1752,8 +1752,8 @@ e_norrland = {
                 
                 }
 
-                color = { 163 174 153 }
-                color2 = { 163 174 153 }
+                color = { 111 102 125 }
+                color2 = { 103 97 112 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1763,8 +1763,8 @@ e_norrland = {
             title_female = duke
         }
         d_nykesund = {
-            color = { 156 193 159 }
-            color2 = { 156 193 159 }
+            color = { 107 82 111 }
+            color2 = { 87 70 89 }
             capital = 719
             c_hunneberg = {
                 b_nogryd = {
@@ -1783,8 +1783,8 @@ e_norrland = {
                 
                 }
 
-                color = { 156 193 159 }
-                color2 = { 156 193 159 }
+                color = { 100 93 126 }
+                color2 = { 112 108 129 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1811,8 +1811,8 @@ e_norrland = {
                 
                 }
 
-                color = { 163 196 156 }
-                color2 = { 163 196 156 }
+                color = { 109 88 126 }
+                color2 = { 117 103 128 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1844,8 +1844,8 @@ e_norrland = {
                 
                 }
 
-                color = { 158 198 190 }
-                color2 = { 158 198 190 }
+                color = { 77 71 112 }
+                color2 = { 70 67 93 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1855,8 +1855,8 @@ e_norrland = {
             title_female = duke
         }
         d_skalaland = {
-            color = { 131 171 184 }
-            color2 = { 131 171 184 }
+            color = { 110 55 91 }
+            color2 = { 111 76 99 }
             capital = 722
             c_bjarke = {
                 b_hrden = {
@@ -1880,8 +1880,8 @@ e_norrland = {
                 
                 }
 
-                color = { 131 171 184 }
-                color2 = { 131 171 184 }
+                color = { 98 61 92 }
+                color2 = { 104 80 100 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1908,8 +1908,8 @@ e_norrland = {
                 
                 }
 
-                color = { 150 182 169 }
-                color2 = { 150 182 169 }
+                color = { 118 51 104 }
+                color2 = { 100 56 90 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -1931,8 +1931,8 @@ e_norrland = {
                 
                 }
 
-                color = { 151 192 159 }
-                color2 = { 151 192 159 }
+                color = { 83 66 88 }
+                color2 = { 67 56 70 }
                 culture = velheim
                 title = count
                 title_female = count

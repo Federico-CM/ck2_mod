@@ -1,14 +1,14 @@
 e_alba = {
-    color = { 155 127 170 }
-    color2 = { 155 127 170 }
+    color = { 113 145 85 }
+    color2 = { 98 119 80 }
     capital = 33
     k_clannadh_alba = {
-        color = { 155 127 170 }
-        color2 = { 155 127 170 }
+        color = { 95 126 67 }
+        color2 = { 111 132 93 }
         capital = 33
         d_glaick = {
-            color = { 155 127 170 }
-            color2 = { 155 127 170 }
+            color = { 87 123 56 }
+            color2 = { 101 124 81 }
             capital = 33
             c_dundarne = {
                 b_aikridge = {
@@ -32,8 +32,8 @@ e_alba = {
                 
                 }
 
-                color = { 155 127 170 }
-                color2 = { 155 127 170 }
+                color = { 95 110 57 }
+                color2 = { 107 117 82 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -55,8 +55,8 @@ e_alba = {
                 
                 }
 
-                color = { 170 104 182 }
-                color2 = { 170 104 182 }
+                color = { 86 117 85 }
+                color2 = { 84 104 83 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -78,8 +78,8 @@ e_alba = {
                 
                 }
 
-                color = { 174 134 159 }
-                color2 = { 174 134 159 }
+                color = { 82 96 60 }
+                color2 = { 73 82 59 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -116,8 +116,8 @@ e_alba = {
                 
                 }
 
-                color = { 168 140 181 }
-                color2 = { 168 140 181 }
+                color = { 59 92 36 }
+                color2 = { 51 72 36 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -127,8 +127,8 @@ e_alba = {
             title_female = duke
         }
         d_kerrickwayle = {
-            color = { 146 107 163 }
-            color2 = { 146 107 163 }
+            color = { 85 115 93 }
+            color2 = { 72 91 77 }
             capital = 37
             c_ballywydgown = {
                 b_rostwood = {
@@ -152,8 +152,8 @@ e_alba = {
                 
                 }
 
-                color = { 164 127 184 }
-                color2 = { 164 127 184 }
+                color = { 101 116 110 }
+                color2 = { 119 129 125 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -180,8 +180,8 @@ e_alba = {
                 
                 }
 
-                color = { 146 107 163 }
-                color2 = { 146 107 163 }
+                color = { 102 128 74 }
+                color2 = { 87 104 68 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -208,8 +208,8 @@ e_alba = {
                 
                 }
 
-                color = { 159 141 150 }
-                color2 = { 159 141 150 }
+                color = { 66 101 112 }
+                color2 = { 57 80 87 }
 
 		holy_site = warda
 
@@ -239,8 +239,8 @@ e_alba = {
                 
                 }
 
-                color = { 155 115 165 }
-                color2 = { 155 115 165 }
+                color = { 108 133 95 }
+                color2 = { 115 132 107 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -262,8 +262,8 @@ e_alba = {
                 
                 }
 
-                color = { 152 135 171 }
-                color2 = { 152 135 171 }
+                color = { 70 120 89 }
+                color2 = { 95 128 107 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -273,8 +273,8 @@ e_alba = {
             title_female = duke
         }
         d_ultaniss = {
-            color = { 141 108 171 }
-            color2 = { 141 108 171 }
+            color = { 78 123 52 }
+            color2 = { 97 126 80 }
             capital = 42
             c_atherdin = {
                 b_asley = {
@@ -303,8 +303,8 @@ e_alba = {
                 
                 }
 
-                color = { 154 112 164 }
-                color2 = { 154 112 164 }
+                color = { 102 112 41 }
+                color2 = { 86 93 46 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -326,8 +326,8 @@ e_alba = {
                 
                 }
 
-                color = { 156 125 158 }
-                color2 = { 156 125 158 }
+                color = { 76 108 76 }
+                color2 = { 70 91 70 }
                 culture = url
                 title = count
                 title_female = count
@@ -359,8 +359,8 @@ e_alba = {
                 
                 }
 
-                color = { 158 113 167 }
-                color2 = { 158 113 167 }
+                color = { 85 112 43 }
+                color2 = { 99 117 72 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -382,8 +382,8 @@ e_alba = {
                 
                 }
 
-                color = { 173 126 173 }
-                color2 = { 173 126 173 }
+                color = { 63 90 53 }
+                color2 = { 74 92 68 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -405,8 +405,8 @@ e_alba = {
                 
                 }
 
-                color = { 141 108 171 }
-                color2 = { 141 108 171 }
+                color = { 62 91 51 }
+                color2 = { 55 74 48 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -433,8 +433,8 @@ e_alba = {
                 
                 }
 
-                color = { 164 109 177 }
-                color2 = { 164 109 177 }
+                color = { 79 108 74 }
+                color2 = { 90 109 87 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -448,12 +448,12 @@ e_alba = {
         title_female = king
     }
     k_kintyr = {
-        color = { 163 130 143 }
-        color2 = { 163 130 143 }
+        color = { 67 95 126 }
+        color2 = { 88 106 126 }
         capital = 48
         d_alstyr = {
-            color = { 163 130 143 }
-            color2 = { 163 130 143 }
+            color = { 99 103 132 }
+            color2 = { 88 91 110 }
             capital = 48
             c_alstyr = {
                 b_wyrmton = {
@@ -472,8 +472,8 @@ e_alba = {
                 
                 }
 
-                color = { 169 132 128 }
-                color2 = { 169 132 128 }
+                color = { 115 134 149 }
+                color2 = { 133 146 155 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -495,8 +495,8 @@ e_alba = {
                 
                 }
 
-                color = { 194 136 120 }
-                color2 = { 194 136 120 }
+                color = { 123 90 102 }
+                color2 = { 129 107 115 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -518,8 +518,8 @@ e_alba = {
                 
                 }
 
-                color = { 189 152 120 }
-                color2 = { 189 152 120 }
+                color = { 88 79 121 }
+                color2 = { 107 101 128 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -541,8 +541,8 @@ e_alba = {
                 
                 }
 
-                color = { 163 130 143 }
-                color2 = { 163 130 143 }
+                color = { 117 97 127 }
+                color2 = { 99 86 105 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -552,8 +552,8 @@ e_alba = {
             title_female = duke
         }
         d_gaerwen = {
-            color = { 164 164 120 }
-            color2 = { 164 164 120 }
+            color = { 98 86 91 }
+            color2 = { 112 104 107 }
             capital = 52
             c_abertyr = {
                 b_wicmere = {
@@ -577,8 +577,8 @@ e_alba = {
                 
                 }
 
-                color = { 193 143 118 }
-                color2 = { 193 143 118 }
+                color = { 120 90 118 }
+                color2 = { 130 111 129 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -600,8 +600,8 @@ e_alba = {
                 
                 }
 
-                color = { 194 147 140 }
-                color2 = { 194 147 140 }
+                color = { 128 109 123 }
+                color2 = { 140 128 137 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -628,8 +628,8 @@ e_alba = {
                 
                 }
 
-                color = { 164 164 120 }
-                color2 = { 164 164 120 }
+                color = { 98 110 105 }
+                color2 = { 117 125 122 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -661,8 +661,8 @@ e_alba = {
                 
                 }
 
-                color = { 202 145 114 }
-                color2 = { 202 145 114 }
+                color = { 109 90 107 }
+                color2 = { 101 88 99 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -699,8 +699,8 @@ e_alba = {
                 
                 }
 
-                color = { 170 145 113 }
-                color2 = { 170 145 113 }
+                color = { 104 112 117 }
+                color2 = { 116 122 125 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -727,8 +727,8 @@ e_alba = {
                 
                 }
 
-                color = { 183 137 109 }
-                color2 = { 183 137 109 }
+                color = { 90 97 71 }
+                color2 = { 71 75 58 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -738,8 +738,8 @@ e_alba = {
             title_female = duke
         }
         d_twyntyr = {
-            color = { 174 126 143 }
-            color2 = { 174 126 143 }
+            color = { 97 78 113 }
+            color2 = { 87 74 97 }
             capital = 58
             c_coltyr = {
                 b_lormere = {
@@ -768,8 +768,8 @@ e_alba = {
                 
                 }
 
-                color = { 174 126 143 }
-                color2 = { 174 126 143 }
+                color = { 94 99 128 }
+                color2 = { 114 117 136 }
 
 		holy_site = warda
 
@@ -794,8 +794,8 @@ e_alba = {
                 
                 }
 
-                color = { 188 144 143 }
-                color2 = { 188 144 143 }
+                color = { 117 102 117 }
+                color2 = { 108 98 108 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -827,8 +827,8 @@ e_alba = {
                 
                 }
 
-                color = { 183 143 142 }
-                color2 = { 183 143 142 }
+                color = { 97 107 109 }
+                color2 = { 113 120 121 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -850,8 +850,8 @@ e_alba = {
                 
                 }
 
-                color = { 177 162 138 }
-                color2 = { 177 162 138 }
+                color = { 113 97 98 }
+                color2 = { 96 85 86 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -873,8 +873,8 @@ e_alba = {
                 
                 }
 
-                color = { 190 132 145 }
-                color2 = { 190 132 145 }
+                color = { 96 110 132 }
+                color2 = { 94 103 117 }
                 culture = breizh
                 title = count
                 title_female = count
@@ -888,12 +888,12 @@ e_alba = {
         title_female = king
     }
     k_mannadh_alba = {
-        color = { 126 94 148 }
-        color2 = { 126 94 148 }
+        color = { 122 62 65 }
+        color2 = { 93 54 56 }
         capital = 63
         d_alban = {
-            color = { 126 94 148 }
-            color2 = { 126 94 148 }
+            color = { 112 53 56 }
+            color2 = { 111 72 74 }
             capital = 63
             c_armendhale = {
                 b_baldon = {
@@ -912,8 +912,8 @@ e_alba = {
                 
                 }
 
-                color = { 126 94 148 }
-                color2 = { 126 94 148 }
+                color = { 80 32 59 }
+                color2 = { 55 24 41 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -935,8 +935,8 @@ e_alba = {
                 
                 }
 
-                color = { 146 91 153 }
-                color2 = { 146 91 153 }
+                color = { 127 61 83 }
+                color2 = { 107 64 78 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -968,8 +968,8 @@ e_alba = {
                 
                 }
 
-                color = { 126 127 134 }
-                color2 = { 126 127 134 }
+                color = { 106 54 43 }
+                color2 = { 102 68 61 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -991,8 +991,8 @@ e_alba = {
                 
                 }
 
-                color = { 133 113 131 }
-                color2 = { 133 113 131 }
+                color = { 113 60 88 }
+                color2 = { 110 75 94 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -1014,8 +1014,8 @@ e_alba = {
                 
                 }
 
-                color = { 129 130 140 }
-                color2 = { 129 130 140 }
+                color = { 112 43 57 }
+                color2 = { 115 70 79 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -1037,8 +1037,8 @@ e_alba = {
                 
                 }
 
-                color = { 158 110 161 }
-                color2 = { 158 110 161 }
+                color = { 96 70 54 }
+                color2 = { 97 80 70 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -1048,8 +1048,8 @@ e_alba = {
             title_female = duke
         }
         d_culnanoc = {
-            color = { 122 98 159 }
-            color2 = { 122 98 159 }
+            color = { 123 74 70 }
+            color2 = { 99 67 65 }
             capital = 69
             c_loch_anchan = {
                 b_lornach = {
@@ -1073,8 +1073,8 @@ e_alba = {
                 
                 }
 
-                color = { 125 126 128 }
-                color2 = { 125 126 128 }
+                color = { 105 73 72 }
+                color2 = { 103 82 82 }
                 culture = url
                 title = count
                 title_female = count
@@ -1096,8 +1096,8 @@ e_alba = {
                 
                 }
 
-                color = { 131 124 145 }
-                color2 = { 131 124 145 }
+                color = { 119 75 70 }
+                color2 = { 118 90 86 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -1119,8 +1119,8 @@ e_alba = {
                 
                 }
 
-                color = { 143 110 145 }
-                color2 = { 143 110 145 }
+                color = { 94 89 57 }
+                color2 = { 79 76 55 }
                 culture = url
                 title = count
                 title_female = count
@@ -1147,8 +1147,8 @@ e_alba = {
                 
                 }
 
-                color = { 122 98 159 }
-                color2 = { 122 98 159 }
+                color = { 94 70 83 }
+                color2 = { 73 57 66 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -1158,8 +1158,8 @@ e_alba = {
             title_female = duke
         }
         d_greshornish = {
-            color = { 131 92 131 }
-            color2 = { 131 92 131 }
+            color = { 116 94 75 }
+            color2 = { 97 82 70 }
             capital = 73
             c_dinwall = {
                 b_talmore = {
@@ -1183,8 +1183,8 @@ e_alba = {
                 
                 }
 
-                color = { 157 90 147 }
-                color2 = { 157 90 147 }
+                color = { 99 72 66 }
+                color2 = { 106 88 85 }
                 culture = url
                 title = count
                 title_female = count
@@ -1216,8 +1216,8 @@ e_alba = {
                 
                 }
 
-                color = { 139 116 137 }
-                color2 = { 139 116 137 }
+                color = { 121 77 56 }
+                color2 = { 116 88 74 }
                 culture = url
                 title = count
                 title_female = count
@@ -1244,8 +1244,8 @@ e_alba = {
                 
                 }
 
-                color = { 147 112 130 }
-                color2 = { 147 112 130 }
+                color = { 138 90 111 }
+                color2 = { 142 111 125 }
                 culture = url
                 title = count
                 title_female = count
@@ -1277,8 +1277,8 @@ e_alba = {
                 
                 }
 
-                color = { 131 92 131 }
-                color2 = { 131 92 131 }
+                color = { 98 99 97 }
+                color2 = { 88 89 87 }
                 culture = url
                 title = count
                 title_female = count

@@ -1,14 +1,14 @@
 e_girobalda = {
-    color = { 186 188 160 }
-    color2 = { 186 188 160 }
+    color = { 160 96 138 }
+    color2 = { 157 115 143 }
     capital = 872
     k_girobalda = {
-        color = { 186 188 160 }
-        color2 = { 186 188 160 }
+        color = { 123 87 68 }
+        color2 = { 118 95 83 }
         capital = 872
         d_lbertade = {
-            color = { 186 188 160 }
-            color2 = { 186 188 160 }
+            color = { 94 111 75 }
+            color2 = { 109 120 96 }
             capital = 872
             c_alcaniz = {
                 b_casana = {
@@ -27,8 +27,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 186 188 160 }
-                color2 = { 186 188 160 }
+                color = { 94 96 83 }
+                color2 = { 83 84 76 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -55,8 +55,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 196 197 161 }
-                color2 = { 196 197 161 }
+                color = { 97 76 57 }
+                color2 = { 100 86 74 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -78,8 +78,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 192 200 146 }
-                color2 = { 192 200 146 }
+                color = { 111 92 100 }
+                color2 = { 120 107 112 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -106,8 +106,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 193 184 152 }
-                color2 = { 193 184 152 }
+                color = { 79 88 79 }
+                color2 = { 67 73 67 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -117,8 +117,8 @@ e_girobalda = {
             title_female = duke
         }
         d_plasencia = {
-            color = { 183 191 146 }
-            color2 = { 183 191 146 }
+            color = { 82 76 48 }
+            color2 = { 94 91 72 }
             capital = 876
             c_forriesta_sul = {
                 b_rines = {
@@ -142,8 +142,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 205 198 140 }
-                color2 = { 205 198 140 }
+                color = { 95 87 64 }
+                color2 = { 77 72 57 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -175,8 +175,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 199 192 141 }
-                color2 = { 199 192 141 }
+                color = { 64 47 66 }
+                color2 = { 72 61 74 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -198,8 +198,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 202 187 129 }
-                color2 = { 202 187 129 }
+                color = { 53 79 36 }
+                color2 = { 63 80 52 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -231,8 +231,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 183 191 146 }
-                color2 = { 183 191 146 }
+                color = { 101 81 64 }
+                color2 = { 107 94 83 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -242,8 +242,8 @@ e_girobalda = {
             title_female = duke
         }
         d_rugulia = {
-            color = { 196 191 137 }
-            color2 = { 196 191 137 }
+            color = { 87 68 46 }
+            color2 = { 71 59 44 }
             capital = 880
             c_lacabera = {
                 b_llamaio = {
@@ -262,8 +262,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 199 173 160 }
-                color2 = { 199 173 160 }
+                color = { 99 83 64 }
+                color2 = { 83 73 60 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -290,8 +290,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 196 191 137 }
-                color2 = { 196 191 137 }
+                color = { 78 44 43 }
+                color2 = { 55 33 32 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -318,8 +318,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 201 177 167 }
-                color2 = { 201 177 167 }
+                color = { 92 51 52 }
+                color2 = { 99 72 73 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -329,8 +329,8 @@ e_girobalda = {
             title_female = duke
         }
         d_tallaverda = {
-            color = { 177 193 136 }
-            color2 = { 177 193 136 }
+            color = { 122 112 76 }
+            color2 = { 122 116 92 }
             capital = 883
             c_anahacasa = {
                 b_ordas = {
@@ -349,8 +349,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 208 165 151 }
-                color2 = { 208 165 151 }
+                color = { 111 105 64 }
+                color2 = { 120 116 89 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -372,8 +372,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 177 193 136 }
-                color2 = { 177 193 136 }
+                color = { 132 84 66 }
+                color2 = { 127 96 84 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -395,8 +395,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 192 172 158 }
-                color2 = { 192 172 158 }
+                color = { 86 89 59 }
+                color2 = { 93 95 76 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -418,8 +418,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 186 198 140 }
-                color2 = { 186 198 140 }
+                color = { 112 80 62 }
+                color2 = { 93 72 60 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -433,12 +433,12 @@ e_girobalda = {
         title_female = king
     }
     k_natal = {
-        color = { 188 171 154 }
-        color2 = { 188 171 154 }
+        color = { 95 123 71 }
+        color2 = { 84 103 69 }
         capital = 887
         d_penilla = {
-            color = { 188 171 154 }
-            color2 = { 188 171 154 }
+            color = { 91 102 53 }
+            color2 = { 103 110 78 }
             capital = 887
             c_forriesta_natal = {
                 b_valdo = {
@@ -462,8 +462,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 200 184 137 }
-                color2 = { 200 184 137 }
+                color = { 118 124 88 }
+                color2 = { 121 125 102 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -490,8 +490,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 208 173 120 }
-                color2 = { 208 173 120 }
+                color = { 102 91 84 }
+                color2 = { 110 103 99 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -518,8 +518,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 188 171 154 }
-                color2 = { 188 171 154 }
+                color = { 110 104 62 }
+                color2 = { 113 109 82 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -541,8 +541,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 208 188 144 }
-                color2 = { 208 188 144 }
+                color = { 101 103 49 }
+                color2 = { 112 113 78 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -552,8 +552,8 @@ e_girobalda = {
             title_female = duke
         }
         d_pondevega = {
-            color = { 193 189 138 }
-            color2 = { 193 189 138 }
+            color = { 104 96 71 }
+            color2 = { 108 103 87 }
             capital = 891
             c_corazon = {
                 b_cullo = {
@@ -572,8 +572,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 207 187 127 }
-                color2 = { 207 187 127 }
+                color = { 71 87 61 }
+                color2 = { 81 91 74 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -605,8 +605,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 193 189 138 }
-                color2 = { 193 189 138 }
+                color = { 115 108 107 }
+                color2 = { 100 96 95 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -628,8 +628,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 222 196 129 }
-                color2 = { 222 196 129 }
+                color = { 79 101 82 }
+                color2 = { 67 81 69 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -656,8 +656,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 212 183 135 }
-                color2 = { 212 183 135 }
+                color = { 114 85 82 }
+                color2 = { 97 78 76 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -667,8 +667,8 @@ e_girobalda = {
             title_female = duke
         }
         d_tollavega = {
-            color = { 196 176 128 }
-            color2 = { 196 176 128 }
+            color = { 95 129 106 }
+            color2 = { 115 137 122 }
             capital = 895
             c_cahecho = {
                 b_calla = {
@@ -692,8 +692,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 219 196 119 }
-                color2 = { 219 196 119 }
+                color = { 105 130 91 }
+                color2 = { 97 114 88 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -720,8 +720,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 202 191 126 }
-                color2 = { 202 191 126 }
+                color = { 83 139 109 }
+                color2 = { 76 113 93 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -743,8 +743,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 220 194 148 }
-                color2 = { 220 194 148 }
+                color = { 105 140 118 }
+                color2 = { 117 139 125 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -771,8 +771,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 221 183 147 }
-                color2 = { 221 183 147 }
+                color = { 91 113 100 }
+                color2 = { 106 121 112 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -794,8 +794,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 196 176 128 }
-                color2 = { 196 176 128 }
+                color = { 86 129 85 }
+                color2 = { 84 112 83 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -809,12 +809,12 @@ e_girobalda = {
         title_female = king
     }
     k_san_dirva = {
-        color = { 202 197 151 }
-        color2 = { 202 197 151 }
+        color = { 74 129 130 }
+        color2 = { 97 133 133 }
         capital = 900
         d_eivsa = {
-            color = { 202 197 151 }
-            color2 = { 202 197 151 }
+            color = { 94 133 113 }
+            color2 = { 116 141 128 }
             capital = 900
             c_eivsa = {
                 b_elgiri = {
@@ -833,8 +833,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 225 200 144 }
-                color2 = { 225 200 144 }
+                color = { 125 131 113 }
+                color2 = { 110 114 102 }
                 culture = suvial
                 title = count
                 title_female = count
@@ -856,8 +856,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 202 197 151 }
-                color2 = { 202 197 151 }
+                color = { 126 131 141 }
+                color2 = { 135 139 145 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -867,8 +867,8 @@ e_girobalda = {
             title_female = duke
         }
         d_karwar = {
-            color = { 194 200 130 }
-            color2 = { 194 200 130 }
+            color = { 84 98 122 }
+            color2 = { 98 107 123 }
             capital = 902
             c_canaguinim = {
                 b_meraval = {
@@ -887,8 +887,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 215 176 115 }
-                color2 = { 215 176 115 }
+                color = { 115 113 135 }
+                color2 = { 125 124 138 }
                 culture = suvial
                 title = count
                 title_female = count
@@ -910,8 +910,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 194 200 130 }
-                color2 = { 194 200 130 }
+                color = { 106 97 127 }
+                color2 = { 91 86 105 }
                 culture = suvial
                 title = count
                 title_female = count
@@ -933,8 +933,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 204 178 134 }
-                color2 = { 204 178 134 }
+                color = { 109 78 119 }
+                color2 = { 121 100 127 }
                 culture = suvial
                 title = count
                 title_female = count
@@ -956,8 +956,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 220 182 123 }
-                color2 = { 220 182 123 }
+                color = { 94 82 107 }
+                color2 = { 77 69 85 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -967,8 +967,8 @@ e_girobalda = {
             title_female = duke
         }
         d_mapusa = {
-            color = { 204 174 116 }
-            color2 = { 204 174 116 }
+            color = { 77 135 139 }
+            color2 = { 101 139 141 }
             capital = 906
             c_barrsa = {
                 b_lejos = {
@@ -992,8 +992,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 204 174 116 }
-                color2 = { 204 174 116 }
+                color = { 101 114 135 }
+                color2 = { 116 124 138 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1020,8 +1020,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 214 171 125 }
-                color2 = { 214 171 125 }
+                color = { 100 139 117 }
+                color2 = { 91 116 102 }
                 culture = suvial
                 title = count
                 title_female = count
@@ -1031,8 +1031,8 @@ e_girobalda = {
             title_female = duke
         }
         d_nagoa = {
-            color = { 200 204 123 }
-            color2 = { 200 204 123 }
+            color = { 61 105 113 }
+            color2 = { 61 90 95 }
             capital = 908
             c_chandagad = {
                 b_lantira = {
@@ -1051,8 +1051,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 223 190 114 }
-                color2 = { 223 190 114 }
+                color = { 79 119 116 }
+                color2 = { 73 99 97 }
                 culture = suvial
                 title = count
                 title_female = count
@@ -1074,8 +1074,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 217 200 113 }
-                color2 = { 217 200 113 }
+                color = { 54 100 112 }
+                color2 = { 51 81 89 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1102,8 +1102,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 200 204 123 }
-                color2 = { 200 204 123 }
+                color = { 75 109 82 }
+                color2 = { 64 86 68 }
                 culture = suvial
                 title = count
                 title_female = count
@@ -1125,8 +1125,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 210 199 147 }
-                color2 = { 210 199 147 }
+                color = { 71 99 118 }
+                color2 = { 72 90 102 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1140,12 +1140,12 @@ e_girobalda = {
         title_female = king
     }
     k_san_maverda = {
-        color = { 166 182 147 }
-        color2 = { 166 182 147 }
+        color = { 80 68 120 }
+        color2 = { 77 69 103 }
         capital = 912
         d_algarindro = {
-            color = { 166 182 147 }
-            color2 = { 166 182 147 }
+            color = { 105 103 141 }
+            color2 = { 117 116 140 }
             capital = 912
             c_algarindro = {
                 b_marga = {
@@ -1174,8 +1174,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 166 182 147 }
-                color2 = { 166 182 147 }
+                color = { 117 86 145 }
+                color2 = { 135 114 153 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1202,8 +1202,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 183 168 139 }
-                color2 = { 183 168 139 }
+                color = { 88 106 138 }
+                color2 = { 113 125 146 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1230,8 +1230,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 181 147 146 }
-                color2 = { 181 147 146 }
+                color = { 89 109 134 }
+                color2 = { 83 96 112 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1253,8 +1253,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 173 170 134 }
-                color2 = { 173 170 134 }
+                color = { 112 112 155 }
+                color2 = { 100 100 128 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1264,8 +1264,8 @@ e_girobalda = {
             title_female = duke
         }
         d_mataverda = {
-            color = { 166 147 129 }
-            color2 = { 166 147 129 }
+            color = { 65 86 97 }
+            color2 = { 85 99 106 }
             capital = 916
             c_algaidos = {
                 b_vivel = {
@@ -1289,8 +1289,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 183 148 114 }
-                color2 = { 183 148 114 }
+                color = { 86 93 97 }
+                color2 = { 70 75 77 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1317,8 +1317,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 166 147 129 }
-                color2 = { 166 147 129 }
+                color = { 74 98 104 }
+                color2 = { 87 103 107 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1340,8 +1340,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 192 147 116 }
-                color2 = { 192 147 116 }
+                color = { 71 96 74 }
+                color2 = { 85 101 87 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1368,8 +1368,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 172 171 137 }
-                color2 = { 172 171 137 }
+                color = { 91 72 113 }
+                color2 = { 105 93 120 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1401,8 +1401,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 190 167 117 }
-                color2 = { 190 167 117 }
+                color = { 56 92 83 }
+                color2 = { 48 72 66 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1412,8 +1412,8 @@ e_girobalda = {
             title_female = duke
         }
         d_romera = {
-            color = { 169 186 144 }
-            color2 = { 169 186 144 }
+            color = { 57 48 103 }
+            color2 = { 53 47 83 }
             capital = 921
             c_gilena = {
                 b_barroa = {
@@ -1442,8 +1442,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 169 186 144 }
-                color2 = { 169 186 144 }
+                color = { 88 48 116 }
+                color2 = { 99 73 117 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1465,8 +1465,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 173 154 137 }
-                color2 = { 173 154 137 }
+                color = { 46 75 74 }
+                color2 = { 65 84 83 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1498,8 +1498,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 183 160 132 }
-                color2 = { 183 160 132 }
+                color = { 43 40 85 }
+                color2 = { 59 57 86 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1526,8 +1526,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 194 161 115 }
-                color2 = { 194 161 115 }
+                color = { 48 61 99 }
+                color2 = { 38 47 72 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1554,8 +1554,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 193 167 119 }
-                color2 = { 193 167 119 }
+                color = { 87 51 108 }
+                color2 = { 73 50 87 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1577,8 +1577,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 181 161 127 }
-                color2 = { 181 161 127 }
+                color = { 62 36 69 }
+                color2 = { 78 61 82 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1592,12 +1592,12 @@ e_girobalda = {
         title_female = king
     }
     k_san_selin = {
-        color = { 167 153 108 }
-        color2 = { 167 153 108 }
+        color = { 129 73 122 }
+        color2 = { 114 77 109 }
         capital = 927
         d_elmaigmo = {
-            color = { 167 153 108 }
-            color2 = { 167 153 108 }
+            color = { 141 67 101 }
+            color2 = { 137 89 111 }
             capital = 927
             c_alcantarilla = {
                 b_moedo = {
@@ -1616,8 +1616,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 176 173 105 }
-                color2 = { 176 173 105 }
+                color = { 102 87 74 }
+                color2 = { 80 70 62 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1644,8 +1644,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 182 172 112 }
-                color2 = { 182 172 112 }
+                color = { 122 80 115 }
+                color2 = { 131 104 127 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1667,8 +1667,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 188 179 104 }
-                color2 = { 188 179 104 }
+                color = { 126 87 111 }
+                color2 = { 114 88 104 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1690,8 +1690,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 167 153 108 }
-                color2 = { 167 153 108 }
+                color = { 137 103 93 }
+                color2 = { 116 94 87 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1723,8 +1723,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 192 176 137 }
-                color2 = { 192 176 137 }
+                color = { 124 84 119 }
+                color2 = { 136 110 132 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1734,8 +1734,8 @@ e_girobalda = {
             title_female = duke
         }
         d_san_selin = {
-            color = { 177 180 130 }
-            color2 = { 177 180 130 }
+            color = { 132 62 112 }
+            color2 = { 128 82 114 }
             capital = 932
             c_quesada = {
                 b_valduri = {
@@ -1754,8 +1754,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 177 180 130 }
-                color2 = { 177 180 130 }
+                color = { 140 51 84 }
+                color2 = { 138 80 102 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1782,8 +1782,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 200 176 112 }
-                color2 = { 200 176 112 }
+                color = { 107 78 100 }
+                color2 = { 117 98 112 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1815,8 +1815,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 196 174 125 }
-                color2 = { 196 174 125 }
+                color = { 114 57 129 }
+                color2 = { 125 88 135 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1848,8 +1848,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 179 180 112 }
-                color2 = { 179 180 112 }
+                color = { 115 81 134 }
+                color2 = { 119 97 132 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1859,8 +1859,8 @@ e_girobalda = {
             title_female = duke
         }
         d_santomera = {
-            color = { 160 162 112 }
-            color2 = { 160 162 112 }
+            color = { 124 59 108 }
+            color2 = { 122 79 111 }
             capital = 936
             c_callosa = {
                 b_ronal = {
@@ -1884,8 +1884,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 169 155 103 }
-                color2 = { 169 155 103 }
+                color = { 84 46 89 }
+                color2 = { 73 48 76 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1907,8 +1907,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 174 184 107 }
-                color2 = { 174 184 107 }
+                color = { 143 68 131 }
+                color2 = { 139 90 131 }
                 culture = tierravera
                 title = count
                 title_female = count
@@ -1930,8 +1930,8 @@ e_girobalda = {
                 
                 }
 
-                color = { 160 162 112 }
-                color2 = { 160 162 112 }
+                color = { 102 46 109 }
+                color2 = { 104 68 109 }
                 culture = tierravera
                 title = count
                 title_female = count

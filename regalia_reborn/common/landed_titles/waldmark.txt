@@ -1,15 +1,15 @@
 e_waldmark = {
-    color = { 199 121 118 }
-    color2 = { 199 121 118 }
+    color = { 143 156 89 }
+    color2 = { 148 157 113 }
     capital = 176 #Drachenwald
     k_waldmark = {
-        color = { 160 129 113 }
-        color2 = { 160 129 113 }
+        color = { 84 125 65 }
+        color2 = { 104 131 92 }
         capital = 176 #Drachenwald
 
         d_schwerin = {
-            color = { 170 143 130 }
-            color2 = { 170 143 130 }
+            color = { 73 121 82 }
+            color2 = { 70 101 76 }
             capital = 172
             c_markenburgh = {
                 b_rllsheim = {
@@ -28,8 +28,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 171 114 117 }
-                color2 = { 171 114 117 }
+                color = { 78 121 110 }
+                color2 = { 94 122 115 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -56,8 +56,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 170 143 130 }
-                color2 = { 170 143 130 }
+                color = { 59 90 70 }
+                color2 = { 81 101 88 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -67,8 +67,8 @@ e_waldmark = {
             title_female = duke
         }
         d_sondburgh = {
-            color = { 172 115 120 }
-            color2 = { 172 115 120 }
+            color = { 94 92 75 }
+            color2 = { 79 77 66 }
             capital = 174
             c_sondburgh = {
                 b_altsberg = {
@@ -87,8 +87,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 175 132 136 }
-                color2 = { 175 132 136 }
+                color = { 108 119 87 }
+                color2 = { 123 130 109 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -110,8 +110,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 172 115 120 }
-                color2 = { 172 115 120 }
+                color = { 106 93 104 }
+                color2 = { 115 107 114 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -121,8 +121,8 @@ e_waldmark = {
             title_female = duke
         }
         d_von_drachenburg = {
-            color = { 167 144 143 }
-            color2 = { 167 144 143 }
+            color = { 80 109 57 }
+            color2 = { 69 88 54 }
             capital = 176
             c_drachenwald = {
                 b_untern = {
@@ -141,8 +141,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 167 144 143 }
-                color2 = { 167 144 143 }
+                color = { 90 118 77 }
+                color2 = { 84 102 75 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -164,8 +164,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 193 141 145 }
-                color2 = { 193 141 145 }
+                color = { 89 78 69 }
+                color2 = { 98 90 84 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -187,8 +187,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 160 129 113 }
-                color2 = { 160 129 113 }
+                color = { 72 101 40 }
+                color2 = { 65 84 44 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -215,8 +215,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 184 118 146 }
-                color2 = { 184 118 146 }
+                color = { 92 79 57 }
+                color2 = { 73 65 51 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -230,12 +230,12 @@ e_waldmark = {
         title_female = king
     }
     k_haltover = {
-        color = { 199 121 118 }
-        color2 = { 199 121 118 }
+        color = { 71 127 114 }
+        color2 = { 73 109 100 }
         capital = 355
         d_chedring = {
-            color = { 199 121 118 }
-            color2 = { 199 121 118 }
+            color = { 60 105 102 }
+            color2 = { 83 112 110 }
             capital = 355
             c_castlefair = {
                 b_beven = {
@@ -259,8 +259,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 207 132 133 }
-                color2 = { 207 132 133 }
+                color = { 62 104 116 }
+                color2 = { 59 86 94 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -282,8 +282,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 199 121 118 }
-                color2 = { 199 121 118 }
+                color = { 86 123 80 }
+                color2 = { 96 120 92 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -315,8 +315,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 212 126 96 }
-                color2 = { 212 126 96 }
+                color = { 92 124 107 }
+                color2 = { 105 125 114 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -326,8 +326,8 @@ e_waldmark = {
             title_female = duke
         }
         d_ettrick = {
-            color = { 187 100 116 }
-            color2 = { 187 100 116 }
+            color = { 96 132 107 }
+            color2 = { 90 113 97 }
             capital = 358
             c_carron = {
                 b_stallach = {
@@ -346,8 +346,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 191 108 97 }
-                color2 = { 191 108 97 }
+                color = { 116 103 100 }
+                color2 = { 122 113 111 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -369,8 +369,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 220 110 120 }
-                color2 = { 220 110 120 }
+                color = { 86 96 82 }
+                color2 = { 78 84 75 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -392,8 +392,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 213 125 99 }
-                color2 = { 213 125 99 }
+                color = { 122 105 124 }
+                color2 = { 130 119 132 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -425,8 +425,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 187 100 116 }
-                color2 = { 187 100 116 }
+                color = { 107 144 133 }
+                color2 = { 107 131 124 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -448,8 +448,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 195 121 115 }
-                color2 = { 195 121 115 }
+                color = { 112 133 94 }
+                color2 = { 129 143 118 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -459,8 +459,8 @@ e_waldmark = {
             title_female = duke
         }
         d_stilton = {
-            color = { 181 107 119 }
-            color2 = { 181 107 119 }
+            color = { 74 126 109 }
+            color2 = { 99 133 122 }
             capital = 363
             c_garsmarket = {
                 b_annsdorf = {
@@ -479,8 +479,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 213 118 126 }
-                color2 = { 213 118 126 }
+                color = { 61 105 79 }
+                color2 = { 55 84 67 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -507,8 +507,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 181 107 119 }
-                color2 = { 181 107 119 }
+                color = { 70 103 117 }
+                color2 = { 93 115 124 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -540,8 +540,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 184 106 125 }
-                color2 = { 184 106 125 }
+                color = { 66 144 123 }
+                color2 = { 100 150 137 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -563,8 +563,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 202 113 104 }
-                color2 = { 202 113 104 }
+                color = { 88 89 78 }
+                color2 = { 105 106 98 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -578,12 +578,12 @@ e_waldmark = {
         title_female = king
     }
     k_north_wessink = {
-        color = { 195 120 101 }
-        color2 = { 195 120 101 }
+        color = { 62 71 123 }
+        color2 = { 78 84 118 }
         capital = 367
         d_bootlecastle = {
-            color = { 195 120 101 }
-            color2 = { 195 120 101 }
+            color = { 80 99 100 }
+            color2 = { 73 85 86 }
             capital = 367
             c_bolton = {
                 b_obersau = {
@@ -612,8 +612,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 201 119 123 }
-                color2 = { 201 119 123 }
+                color = { 83 110 91 }
+                color2 = { 101 119 106 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -635,8 +635,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 195 120 101 }
-                color2 = { 195 120 101 }
+                color = { 79 112 124 }
+                color2 = { 101 123 130 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -663,8 +663,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 203 122 130 }
-                color2 = { 203 122 130 }
+                color = { 71 114 120 }
+                color2 = { 91 119 123 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -691,8 +691,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 203 135 118 }
-                color2 = { 203 135 118 }
+                color = { 103 90 115 }
+                color2 = { 113 105 121 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -702,8 +702,8 @@ e_waldmark = {
             title_female = duke
         }
         d_dalern = {
-            color = { 176 111 125 }
-            color2 = { 176 111 125 }
+            color = { 62 78 115 }
+            color2 = { 79 89 114 }
             capital = 371
             c_dalern = {
                 b_barside = {
@@ -732,8 +732,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 197 140 127 }
-                color2 = { 197 140 127 }
+                color = { 70 81 96 }
+                color2 = { 64 71 81 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -760,8 +760,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 197 115 126 }
-                color2 = { 197 115 126 }
+                color = { 99 107 108 }
+                color2 = { 110 115 116 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -788,8 +788,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 177 137 139 }
-                color2 = { 177 137 139 }
+                color = { 82 78 122 }
+                color2 = { 98 96 124 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -811,8 +811,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 185 130 101 }
-                color2 = { 185 130 101 }
+                color = { 51 61 119 }
+                color2 = { 68 75 112 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -844,8 +844,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 181 112 125 }
-                color2 = { 181 112 125 }
+                color = { 73 92 91 }
+                color2 = { 69 82 81 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -867,8 +867,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 176 111 125 }
-                color2 = { 176 111 125 }
+                color = { 87 87 128 }
+                color2 = { 104 104 131 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -878,8 +878,8 @@ e_waldmark = {
             title_female = duke
         }
         d_thorne = {
-            color = { 173 144 111 }
-            color2 = { 173 144 111 }
+            color = { 95 97 128 }
+            color2 = { 91 92 113 }
             capital = 377
             c_ellesmere = {
                 b_hawbank = {
@@ -898,8 +898,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 173 144 111 }
-                color2 = { 173 144 111 }
+                color = { 80 79 131 }
+                color2 = { 76 75 109 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -926,8 +926,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 185 109 117 }
-                color2 = { 185 109 117 }
+                color = { 94 80 141 }
+                color2 = { 113 104 143 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -954,8 +954,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 202 136 114 }
-                color2 = { 202 136 114 }
+                color = { 92 109 96 }
+                color2 = { 83 94 86 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -982,8 +982,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 208 139 122 }
-                color2 = { 208 139 122 }
+                color = { 114 79 95 }
+                color2 = { 122 99 109 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -997,12 +997,12 @@ e_waldmark = {
         title_female = king
     }
     k_south_wessink = {
-        color = { 190 138 113 }
-        color2 = { 190 138 113 }
+        color = { 128 74 129 }
+        color2 = { 108 73 108 }
         capital = 381
         d_birming = {
-            color = { 190 138 113 }
-            color2 = { 190 138 113 }
+            color = { 96 74 103 }
+            color2 = { 110 96 115 }
             capital = 381
             c_birming = {
                 b_macewood = {
@@ -1031,8 +1031,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 194 145 131 }
-                color2 = { 194 145 131 }
+                color = { 71 86 86 }
+                color2 = { 64 74 74 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1059,8 +1059,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 190 138 113 }
-                color2 = { 190 138 113 }
+                color = { 108 84 75 }
+                color2 = { 117 102 96 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1087,8 +1087,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 212 138 118 }
-                color2 = { 212 138 118 }
+                color = { 75 77 120 }
+                color2 = { 88 89 117 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1110,8 +1110,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 204 143 137 }
-                color2 = { 204 143 137 }
+                color = { 114 86 89 }
+                color2 = { 125 106 108 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1121,8 +1121,8 @@ e_waldmark = {
             title_female = duke
         }
         d_brummyby = {
-            color = { 196 143 106 }
-            color2 = { 196 143 106 }
+            color = { 144 110 119 }
+            color2 = { 121 99 105 }
             capital = 385
             c_bromyard = {
                 b_depton = {
@@ -1146,8 +1146,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 212 109 127 }
-                color2 = { 212 109 127 }
+                color = { 134 97 137 }
+                color2 = { 143 119 145 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1174,8 +1174,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 207 131 106 }
-                color2 = { 207 131 106 }
+                color = { 117 116 129 }
+                color2 = { 104 104 112 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1207,8 +1207,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 200 130 105 }
-                color2 = { 200 130 105 }
+                color = { 144 125 109 }
+                color2 = { 125 112 102 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1235,8 +1235,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 196 143 106 }
-                color2 = { 196 143 106 }
+                color = { 140 123 136 }
+                color2 = { 120 108 117 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1246,8 +1246,8 @@ e_waldmark = {
             title_female = duke
         }
         d_kidminister = {
-            color = { 185 111 106 }
-            color2 = { 185 111 106 }
+            color = { 125 74 123 }
+            color2 = { 128 95 126 }
             capital = 389
             c_droitwich = {
                 b_stasset = {
@@ -1266,8 +1266,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 203 118 107 }
-                color2 = { 203 118 107 }
+                color = { 96 72 106 }
+                color2 = { 80 65 87 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1294,8 +1294,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 216 144 114 }
-                color2 = { 216 144 114 }
+                color = { 99 93 117 }
+                color2 = { 114 110 126 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1322,8 +1322,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 185 111 106 }
-                color2 = { 185 111 106 }
+                color = { 112 108 125 }
+                color2 = { 127 124 136 }
 
 		holy_site = unionism
 
@@ -1336,8 +1336,8 @@ e_waldmark = {
             title_female = duke
         }
         d_swebern = {
-            color = { 192 133 136 }
-            color2 = { 192 133 136 }
+            color = { 111 62 106 }
+            color2 = { 114 82 110 }
             capital = 392
             c_covet = {
                 b_walmall = {
@@ -1361,8 +1361,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 192 133 136 }
-                color2 = { 192 133 136 }
+                color = { 107 89 86 }
+                color2 = { 95 84 82 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1389,8 +1389,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 201 140 137 }
-                color2 = { 201 140 137 }
+                color = { 126 61 95 }
+                color2 = { 130 88 110 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1412,8 +1412,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 196 135 103 }
-                color2 = { 196 135 103 }
+                color = { 125 98 83 }
+                color2 = { 110 92 83 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1435,8 +1435,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 222 135 102 }
-                color2 = { 222 135 102 }
+                color = { 79 52 76 }
+                color2 = { 88 71 87 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1450,12 +1450,12 @@ e_waldmark = {
         title_female = king
     }
     k_treppewiss = {
-        color = { 185 119 121 }
-        color2 = { 185 119 121 }
+        color = { 122 84 68 }
+        color2 = { 100 75 65 }
         capital = 407 #Treppewitz
         d_albanfurd = {
-            color = { 185 119 121 }
-            color2 = { 185 119 121 }
+            color = { 94 96 67 }
+            color2 = { 84 86 67 }
             capital = 396
             c_aden = {
                 b_remsdorf = {
@@ -1479,8 +1479,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 185 119 121 }
-                color2 = { 185 119 121 }
+                color = { 119 102 93 }
+                color2 = { 127 116 110 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1507,8 +1507,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 215 117 116 }
-                color2 = { 215 117 116 }
+                color = { 66 82 84 }
+                color2 = { 88 98 100 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1540,8 +1540,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 220 117 149 }
-                color2 = { 220 117 149 }
+                color = { 105 110 96 }
+                color2 = { 91 94 85 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1563,8 +1563,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 208 119 114 }
-                color2 = { 208 119 114 }
+                color = { 70 105 55 }
+                color2 = { 58 81 49 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1601,8 +1601,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 215 157 125 }
-                color2 = { 215 157 125 }
+                color = { 83 96 83 }
+                color2 = { 66 75 66 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1612,8 +1612,8 @@ e_waldmark = {
             title_female = duke
         }
         d_altenburg = {
-            color = { 180 149 138 }
-            color2 = { 180 149 138 }
+            color = { 120 92 65 }
+            color2 = { 123 105 87 }
             capital = 401
             c_altenburg = {
                 b_klaffen = {
@@ -1632,8 +1632,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 180 149 138 }
-                color2 = { 180 149 138 }
+                color = { 92 65 73 }
+                color2 = { 95 77 82 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1655,8 +1655,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 195 119 121 }
-                color2 = { 195 119 121 }
+                color = { 122 109 59 }
+                color2 = { 104 96 63 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1666,8 +1666,8 @@ e_waldmark = {
             title_female = duke
         }
         d_treppewitz = {
-            color = { 194 126 140 }
-            color2 = { 194 126 140 }
+            color = { 138 99 83 }
+            color2 = { 112 87 76 }
             capital = 407 #Treppewitz
             c_durchenstein = {
                 b_giesheim = {
@@ -1691,8 +1691,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 200 127 143 }
-                color2 = { 200 127 143 }
+                color = { 113 119 98 }
+                color2 = { 104 108 94 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1719,8 +1719,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 194 126 140 }
-                color2 = { 194 126 140 }
+                color = { 111 98 103 }
+                color2 = { 95 86 89 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1742,8 +1742,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 203 137 140 }
-                color2 = { 203 137 140 }
+                color = { 139 111 113 }
+                color2 = { 117 98 100 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1765,8 +1765,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 207 153 149 }
-                color2 = { 207 153 149 }
+                color = { 108 117 86 }
+                color2 = { 92 97 77 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1793,8 +1793,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 200 143 135 }
-                color2 = { 200 143 135 }
+                color = { 143 107 89 }
+                color2 = { 124 100 88 }
                 culture = wirtem
                 title = count
                 title_female = count
@@ -1821,8 +1821,8 @@ e_waldmark = {
                 
                 }
 
-                color = { 201 130 113 }
-                color2 = { 201 130 113 }
+                color = { 119 76 74 }
+                color2 = { 100 72 71 }
                 culture = wirtem
                 title = count
                 title_female = count

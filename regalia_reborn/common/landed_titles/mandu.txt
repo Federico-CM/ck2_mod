@@ -1,14 +1,14 @@
 e_sudland = {
-    color = { 185 151 95 }
-    color2 = { 185 151 95 }
+    color = { 135 89 151 }
+    color2 = { 144 115 155 }
     capital = 831
     k_kassar = {
-        color = { 185 151 95 }
-        color2 = { 185 151 95 }
+        color = { 86 69 122 }
+        color2 = { 74 63 98 }
         capital = 831
         d_ammasadjef = {
-            color = { 185 151 95 }
-            color2 = { 185 151 95 }
+            color = { 71 59 101 }
+            color2 = { 56 48 76 }
             capital = 831
             c_essakos_isles = {
                 b_karamugu = {
@@ -27,8 +27,8 @@ e_sudland = {
                 
                 }
 
-                color = { 186 140 92 }
-                color2 = { 186 140 92 }
+                color = { 53 82 89 }
+                color2 = { 79 98 102 }
                 culture = dragonkin
                 title = count
                 title_female = count
@@ -60,8 +60,8 @@ e_sudland = {
                 
                 }
 
-                color = { 185 151 95 }
-                color2 = { 185 151 95 }
+                color = { 76 93 116 }
+                color2 = { 66 77 92 }
                 culture = dragonkin
                 title = count
                 title_female = count
@@ -71,8 +71,8 @@ e_sudland = {
             title_female = duke
         }
         d_kidal = {
-            color = { 183 131 115 }
-            color2 = { 183 131 115 }
+            color = { 106 77 139 }
+            color2 = { 117 98 139 }
             capital = 833
             c_dioran_isles = {
                 b_sabanfara = {
@@ -96,8 +96,8 @@ e_sudland = {
                 
                 }
 
-                color = { 200 161 118 }
-                color2 = { 200 161 118 }
+                color = { 83 83 120 }
+                color2 = { 69 69 93 }
                 culture = dragonkin
                 title = count
                 title_female = count
@@ -119,8 +119,8 @@ e_sudland = {
                 
                 }
 
-                color = { 194 134 93 }
-                color2 = { 194 134 93 }
+                color = { 94 106 120 }
+                color2 = { 92 99 108 }
                 culture = dragonkin
                 title = count
                 title_female = count
@@ -147,8 +147,8 @@ e_sudland = {
                 
                 }
 
-                color = { 183 131 115 }
-                color2 = { 183 131 115 }
+                color = { 84 76 138 }
+                color2 = { 101 96 136 }
                 culture = dragonkin
                 title = count
                 title_female = count
@@ -175,8 +175,8 @@ e_sudland = {
                 
                 }
 
-                color = { 211 157 92 }
-                color2 = { 211 157 92 }
+                color = { 101 100 150 }
+                color2 = { 115 114 146 }
                 culture = dragonkin
                 title = count
                 title_female = count
@@ -186,8 +186,8 @@ e_sudland = {
             title_female = duke
         }
         d_quossat = {
-            color = { 174 148 123 }
-            color2 = { 174 148 123 }
+            color = { 84 88 137 }
+            color2 = { 77 79 111 }
             capital = 837
             c_elevana = {
                 b_limna = {
@@ -216,8 +216,8 @@ e_sudland = {
                 
                 }
 
-                color = { 174 148 123 }
-                color2 = { 174 148 123 }
+                color = { 87 66 116 }
+                color2 = { 75 61 94 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -244,8 +244,8 @@ e_sudland = {
                 
                 }
 
-                color = { 200 169 128 }
-                color2 = { 200 169 128 }
+                color = { 81 101 137 }
+                color2 = { 105 118 141 }
                 culture = dragonkin
                 title = count
                 title_female = count
@@ -267,8 +267,8 @@ e_sudland = {
                 
                 }
 
-                color = { 199 133 111 }
-                color2 = { 199 133 111 }
+                color = { 114 72 138 }
+                color2 = { 98 71 114 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -300,8 +300,8 @@ e_sudland = {
                 
                 }
 
-                color = { 175 166 115 }
-                color2 = { 175 166 115 }
+                color = { 112 113 117 }
+                color2 = { 123 123 126 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -323,8 +323,8 @@ e_sudland = {
                 
                 }
 
-                color = { 205 165 89 }
-                color2 = { 205 165 89 }
+                color = { 79 101 150 }
+                color2 = { 84 98 130 }
                 culture = dragonkin
                 title = count
                 title_female = count
@@ -338,12 +338,12 @@ e_sudland = {
         title_female = king
     }
     k_khemuset = {
-        color = { 195 150 91 }
-        color2 = { 195 150 91 }
+        color = { 127 94 67 }
+        color2 = { 129 108 90 }
         capital = 842
         d_akeru = {
-            color = { 195 150 91 }
-            color2 = { 195 150 91 }
+            color = { 110 70 70 }
+            color2 = { 84 58 58 }
             capital = 842
             c_akheseru = {
                 b_tjarak = {
@@ -367,8 +367,8 @@ e_sudland = {
                 
                 }
 
-                color = { 171 131 95 }
-                color2 = { 171 131 95 }
+                color = { 118 76 82 }
+                color2 = { 126 99 102 }
                 culture = asha
                 title = count
                 title_female = count
@@ -395,8 +395,8 @@ e_sudland = {
                 
                 }
 
-                color = { 186 129 125 }
-                color2 = { 186 129 125 }
+                color = { 95 100 91 }
+                color2 = { 84 87 81 }
                 culture = asha
                 title = count
                 title_female = count
@@ -423,8 +423,8 @@ e_sudland = {
                 
                 }
 
-                color = { 194 152 96 }
-                color2 = { 194 152 96 }
+                color = { 118 95 72 }
+                color2 = { 125 110 95 }
                 culture = asha
                 title = count
                 title_female = count
@@ -451,8 +451,8 @@ e_sudland = {
                 
                 }
 
-                color = { 195 150 91 }
-                color2 = { 195 150 91 }
+                color = { 77 71 69 }
+                color2 = { 83 79 78 }
                 culture = skyborn
                 title = count
                 title_female = count
@@ -462,8 +462,8 @@ e_sudland = {
             title_female = duke
         }
         d_imenru = {
-            color = { 166 146 111 }
-            color2 = { 166 146 111 }
+            color = { 138 106 82 }
+            color2 = { 120 99 83 }
             capital = 846
             c_nubaret = {
                 b_zakara = {
@@ -487,8 +487,8 @@ e_sudland = {
                 
                 }
 
-                color = { 188 134 116 }
-                color2 = { 188 134 116 }
+                color = { 145 107 79 }
+                color2 = { 150 125 107 }
                 culture = asha
                 title = count
                 title_female = count
@@ -510,8 +510,8 @@ e_sudland = {
                 
                 }
 
-                color = { 182 140 103 }
-                color2 = { 182 140 103 }
+                color = { 126 114 101 }
+                color2 = { 133 125 117 }
                 culture = asha
                 title = count
                 title_female = count
@@ -533,8 +533,8 @@ e_sudland = {
                 
                 }
 
-                color = { 166 146 111 }
-                color2 = { 166 146 111 }
+                color = { 129 111 117 }
+                color2 = { 120 108 112 }
                 culture = asha
                 title = count
                 title_female = count
@@ -561,8 +561,8 @@ e_sudland = {
                 
                 }
 
-                color = { 185 167 95 }
-                color2 = { 185 167 95 }
+                color = { 139 102 84 }
+                color2 = { 113 89 77 }
                 culture = asha
                 title = count
                 title_female = count
@@ -572,8 +572,8 @@ e_sudland = {
             title_female = duke
         }
         d_khemar = {
-            color = { 195 131 106 }
-            color2 = { 195 131 106 }
+            color = { 123 88 76 }
+            color2 = { 124 101 93 }
             capital = 850
             c_gandermeer = {
                 b_goudenwijk = {
@@ -602,8 +602,8 @@ e_sudland = {
                 
                 }
 
-                color = { 184 160 110 }
-                color2 = { 184 160 110 }
+                color = { 127 100 61 }
+                color2 = { 100 83 57 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -635,8 +635,8 @@ e_sudland = {
                 
                 }
 
-                color = { 198 134 127 }
-                color2 = { 198 134 127 }
+                color = { 120 108 71 }
+                color2 = { 127 119 95 }
                 culture = asha
                 title = count
                 title_female = count
@@ -668,8 +668,8 @@ e_sudland = {
                 
                 }
 
-                color = { 195 131 106 }
-                color2 = { 195 131 106 }
+                color = { 125 96 92 }
+                color2 = { 136 117 114 }
                 culture = asha
                 title = count
                 title_female = count
@@ -691,8 +691,8 @@ e_sudland = {
                 
                 }
 
-                color = { 170 146 100 }
-                color2 = { 170 146 100 }
+                color = { 86 68 86 }
+                color2 = { 67 55 67 }
                 culture = asha
                 title = count
                 title_female = count
@@ -702,8 +702,8 @@ e_sudland = {
             title_female = duke
         }
         d_osheper = {
-            color = { 192 165 117 }
-            color2 = { 192 165 117 }
+            color = { 126 98 55 }
+            color2 = { 103 85 57 }
             capital = 854
             c_drostmeer = {
                 b_smalde = {
@@ -722,8 +722,8 @@ e_sudland = {
                 
                 }
 
-                color = { 194 154 103 }
-                color2 = { 194 154 103 }
+                color = { 115 106 56 }
+                color2 = { 117 111 79 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -755,8 +755,8 @@ e_sudland = {
                 
                 }
 
-                color = { 192 165 117 }
-                color2 = { 192 165 117 }
+                color = { 86 80 67 }
+                color2 = { 77 73 65 }
                 culture = anglian
                 title = count
                 title_female = count
@@ -783,8 +783,8 @@ e_sudland = {
                 
                 }
 
-                color = { 197 137 92 }
-                color2 = { 197 137 92 }
+                color = { 124 90 77 }
+                color2 = { 128 105 97 }
                 culture = asha
                 title = count
                 title_female = count
@@ -798,12 +798,12 @@ e_sudland = {
         title_female = king
     }
     k_southerland = {
-        color = { 190 169 120 }
-        color2 = { 190 169 120 }
+        color = { 70 128 111 }
+        color2 = { 88 125 114 }
         capital = 857
         d_erimovia = {
-            color = { 190 169 120 }
-            color2 = { 190 169 120 }
+            color = { 91 112 91 }
+            color2 = { 106 120 106 }
             capital = 857
             c_arestal = {
                 b_malorin = {
@@ -827,8 +827,8 @@ e_sudland = {
                 
                 }
 
-                color = { 196 178 106 }
-                color2 = { 196 178 106 }
+                color = { 118 121 97 }
+                color2 = { 101 103 87 }
                 culture = yanar
                 title = count
                 title_female = count
@@ -855,8 +855,8 @@ e_sudland = {
                 
                 }
 
-                color = { 190 169 120 }
-                color2 = { 190 169 120 }
+                color = { 103 128 84 }
+                color2 = { 86 102 73 }
                 culture = yanar
                 title = count
                 title_female = count
@@ -883,8 +883,8 @@ e_sudland = {
                 
                 }
 
-                color = { 200 143 124 }
-                color2 = { 200 143 124 }
+                color = { 80 116 117 }
+                color2 = { 73 97 97 }
                 culture = selvath
                 title = count
                 title_female = count
@@ -894,8 +894,8 @@ e_sudland = {
             title_female = duke
         }
         d_fesheru = {
-            color = { 194 178 95 }
-            color2 = { 194 178 95 }
+            color = { 98 119 119 }
+            color2 = { 94 108 108 }
             capital = 860
             c_pashmu = {
                 b_khenara = {
@@ -924,8 +924,8 @@ e_sudland = {
                 
                 }
 
-                color = { 194 178 95 }
-                color2 = { 194 178 95 }
+                color = { 103 141 115 }
+                color2 = { 94 119 102 }
                 culture = asha
                 title = count
                 title_female = count
@@ -952,8 +952,8 @@ e_sudland = {
                 
                 }
 
-                color = { 201 139 134 }
-                color2 = { 201 139 134 }
+                color = { 91 135 125 }
+                color2 = { 109 138 131 }
                 culture = asha
                 title = count
                 title_female = count
@@ -963,8 +963,8 @@ e_sudland = {
             title_female = duke
         }
         d_lashenu = {
-            color = { 190 161 98 }
-            color2 = { 190 161 98 }
+            color = { 104 99 105 }
+            color2 = { 120 116 120 }
             capital = 862
             c_aqetru = {
                 b_saberet = {
@@ -988,8 +988,8 @@ e_sudland = {
                 
                 }
 
-                color = { 190 161 98 }
-                color2 = { 190 161 98 }
+                color = { 99 104 86 }
+                color2 = { 80 83 72 }
                 culture = asha
                 title = count
                 title_female = count
@@ -999,8 +999,8 @@ e_sudland = {
             title_female = duke
         }
         d_nalestia = {
-            color = { 206 175 100 }
-            color2 = { 206 175 100 }
+            color = { 83 133 114 }
+            color2 = { 80 113 101 }
             capital = 863
             c_sardovia = {
                 b_floravel = {
@@ -1029,8 +1029,8 @@ e_sudland = {
                 
                 }
 
-                color = { 206 175 100 }
-                color2 = { 206 175 100 }
+                color = { 91 139 136 }
+                color2 = { 119 150 148 }
                 culture = selvath
                 title = count
                 title_female = count
@@ -1057,8 +1057,8 @@ e_sudland = {
                 
                 }
 
-                color = { 195 151 95 }
-                color2 = { 195 151 95 }
+                color = { 68 127 87 }
+                color2 = { 83 121 95 }
                 culture = selvath
                 title = count
                 title_female = count
@@ -1068,8 +1068,8 @@ e_sudland = {
             title_female = duke
         }
         d_osmeron = {
-            color = { 210 159 118 }
-            color2 = { 210 159 118 }
+            color = { 108 138 121 }
+            color2 = { 128 147 136 }
             capital = 865
             c_eslavena = {
                 b_dororin = {
@@ -1088,8 +1088,8 @@ e_sudland = {
                 
                 }
 
-                color = { 178 172 128 }
-                color2 = { 178 172 128 }
+                color = { 136 133 141 }
+                color2 = { 152 150 156 }
                 culture = selvath
                 title = count
                 title_female = count
@@ -1111,8 +1111,8 @@ e_sudland = {
                 
                 }
 
-                color = { 210 159 118 }
-                color2 = { 210 159 118 }
+                color = { 114 135 114 }
+                color2 = { 124 138 124 }
                 culture = selvath
                 title = count
                 title_female = count
@@ -1122,8 +1122,8 @@ e_sudland = {
             title_female = duke
         }
         d_valtoria = {
-            color = { 190 166 127 }
-            color2 = { 190 166 127 }
+            color = { 92 128 115 }
+            color2 = { 81 104 96 }
             capital = 867
             c_cresolina = {
                 b_rivessae = {
@@ -1152,8 +1152,8 @@ e_sudland = {
                 
                 }
 
-                color = { 198 147 97 }
-                color2 = { 198 147 97 }
+                color = { 75 119 128 }
+                color2 = { 95 124 130 }
                 culture = selvath
                 title = count
                 title_female = count
@@ -1175,8 +1175,8 @@ e_sudland = {
                 
                 }
 
-                color = { 179 176 126 }
-                color2 = { 179 176 126 }
+                color = { 84 102 102 }
+                color2 = { 104 116 116 }
                 culture = selvath
                 title = count
                 title_female = count
@@ -1198,8 +1198,8 @@ e_sudland = {
                 
                 }
 
-                color = { 181 162 98 }
-                color2 = { 181 162 98 }
+                color = { 122 142 132 }
+                color2 = { 114 128 121 }
                 culture = asha
                 title = count
                 title_female = count
@@ -1226,8 +1226,8 @@ e_sudland = {
                 
                 }
 
-                color = { 190 166 127 }
-                color2 = { 190 166 127 }
+                color = { 124 119 109 }
+                color2 = { 135 131 125 }
 
 		holy_site = estelley
 
@@ -1240,8 +1240,8 @@ e_sudland = {
             title_female = duke
         }
         d_wadi = {
-            color = { 208 164 102 }
-            color2 = { 208 164 102 }
+            color = { 98 105 97 }
+            color2 = { 89 93 88 }
             capital = 871
             c_tourougur = {
                 b_hammonet = {
@@ -1270,8 +1270,8 @@ e_sudland = {
                 
                 }
 
-                color = { 208 164 102 }
-                color2 = { 208 164 102 }
+                color = { 109 96 112 }
+                color2 = { 115 106 117 }
                 culture = skyborn
                 title = count
                 title_female = count

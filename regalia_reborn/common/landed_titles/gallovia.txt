@@ -1,14 +1,14 @@
 e_gallovia = {
-    color = { 151 160 204 }
-    color2 = { 151 160 204 }
+    color = { 84 135 150 }
+    color2 = { 115 148 158 }
     capital = 236
     k_balraith = {
-        color = { 151 160 204 }
-        color2 = { 151 160 204 }
+        color = { 67 127 99 }
+        color2 = { 60 99 81 }
         capital = 236
         d_bencruar = {
-            color = { 151 160 204 }
-            color2 = { 151 160 204 }
+            color = { 62 131 92 }
+            color2 = { 64 108 83 }
             capital = 236
             c_creach = {
                 b_lairn = {
@@ -32,8 +32,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 170 157 186 }
-                color2 = { 170 157 186 }
+                color = { 94 115 82 }
+                color2 = { 88 102 80 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -60,8 +60,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 151 160 204 }
-                color2 = { 151 160 204 }
+                color = { 83 116 85 }
+                color2 = { 97 119 98 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -83,8 +83,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 164 157 178 }
-                color2 = { 164 157 178 }
+                color = { 81 114 74 }
+                color2 = { 91 113 87 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -94,8 +94,8 @@ e_gallovia = {
             title_female = duke
         }
         d_cullavie = {
-            color = { 183 165 203 }
-            color2 = { 183 165 203 }
+            color = { 84 113 113 }
+            color2 = { 84 102 102 }
             capital = 239
             c_bredei = {
                 b_callogie = {
@@ -114,8 +114,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 175 151 196 }
-                color2 = { 175 151 196 }
+                color = { 68 124 105 }
+                color2 = { 95 131 119 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -142,8 +142,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 176 164 204 }
-                color2 = { 176 164 204 }
+                color = { 116 135 105 }
+                color2 = { 101 113 94 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -170,8 +170,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 183 165 203 }
-                color2 = { 183 165 203 }
+                color = { 70 105 109 }
+                color2 = { 86 108 111 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -193,8 +193,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 154 142 186 }
-                color2 = { 154 142 186 }
+                color = { 66 90 118 }
+                color2 = { 82 97 116 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -216,8 +216,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 146 125 170 }
-                color2 = { 183 165 203 }
+                color = { 88 124 106 }
+                color2 = { 109 133 121 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -227,8 +227,8 @@ e_gallovia = {
             title_female = duke
         }
         d_glenvarrick = {
-            color = { 175 134 195 }
-            color2 = { 175 134 195 }
+            color = { 83 137 95 }
+            color2 = { 102 137 110 }
             capital = 244
             c_ingedurst = {
                 b_aravill = {
@@ -252,8 +252,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 175 134 195 }
-                color2 = { 175 134 195 }
+                color = { 89 112 113 }
+                color2 = { 77 92 92 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -275,8 +275,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 165 161 199 }
-                color2 = { 165 161 199 }
+                color = { 84 139 103 }
+                color2 = { 87 122 99 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -303,8 +303,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 158 155 203 }
-                color2 = { 158 155 203 }
+                color = { 69 100 112 }
+                color2 = { 87 107 115 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -331,8 +331,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 175 166 199 }
-                color2 = { 175 166 199 }
+                color = { 114 121 104 }
+                color2 = { 104 108 97 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -354,8 +354,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 166 137 179 }
-                color2 = { 166 137 179 }
+                color = { 83 138 111 }
+                color2 = { 104 140 122 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -365,8 +365,8 @@ e_gallovia = {
             title_female = duke
         }
         d_mareston = {
-            color = { 169 155 193 }
-            color2 = { 169 155 193 }
+            color = { 76 119 75 }
+            color2 = { 94 122 93 }
             capital = 249
             c_fintry = {
                 b_fasky = {
@@ -385,8 +385,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 169 155 193 }
-                color2 = { 169 155 193 }
+                color = { 61 85 62 }
+                color2 = { 78 93 78 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -413,8 +413,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 167 153 182 }
-                color2 = { 167 153 182 }
+                color = { 56 92 54 }
+                color2 = { 75 98 74 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -446,8 +446,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 153 155 173 }
-                color2 = { 153 155 173 }
+                color = { 56 88 94 }
+                color2 = { 73 94 98 }
                 culture = caeren
                 title = count
                 title_female = count
@@ -461,12 +461,12 @@ e_gallovia = {
         title_female = king
     }
     k_bergheimr = {
-        color = { 131 192 143 }
-        color2 = { 131 192 143 }
+        color = { 66 67 118 }
+        color2 = { 58 59 92 }
         capital = 252
         d_gralund = {
-            color = { 131 192 143 }
-            color2 = { 131 192 143 }
+            color = { 77 53 83 }
+            color2 = { 63 47 67 }
             capital = 252
             c_garelania = {
                 b_tistberg = {
@@ -495,8 +495,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 127 161 152 }
-                color2 = { 127 161 152 }
+                color = { 88 71 91 }
+                color2 = { 78 67 80 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -518,8 +518,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 116 166 163 }
-                color2 = { 116 166 163 }
+                color = { 91 72 62 }
+                color2 = { 100 88 82 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -556,8 +556,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 147 162 151 }
-                color2 = { 147 162 151 }
+                color = { 88 85 68 }
+                color2 = { 70 68 57 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -579,8 +579,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 131 192 143 }
-                color2 = { 131 192 143 }
+                color = { 49 33 74 }
+                color2 = { 58 48 74 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -607,8 +607,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 131 192 143 }
-                color2 = { 131 192 143 }
+                color = { 99 84 67 }
+                color2 = { 77 68 57 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -618,8 +618,8 @@ e_gallovia = {
             title_female = duke
         }
         d_stenvar = {
-            color = { 117 182 140 }
-            color2 = { 117 182 140 }
+            color = { 62 67 121 }
+            color2 = { 78 82 117 }
             capital = 257
             c_alanfjell = {
                 b_sidsberg = {
@@ -638,8 +638,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 142 177 151 }
-                color2 = { 142 177 151 }
+                color = { 70 68 120 }
+                color2 = { 58 56 90 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -661,8 +661,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 127 186 143 }
-                color2 = { 127 186 143 }
+                color = { 60 51 83 }
+                color2 = { 52 46 67 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -684,8 +684,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 117 182 140 }
-                color2 = { 117 182 140 }
+                color = { 56 61 121 }
+                color2 = { 58 61 100 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -717,8 +717,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 112 173 168 }
-                color2 = { 112 173 168 }
+                color = { 64 83 87 }
+                color2 = { 59 71 74 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -750,8 +750,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 131 159 175 }
-                color2 = { 131 159 175 }
+                color = { 57 55 83 }
+                color2 = { 69 68 86 }
                 culture = velheim
                 title = count
                 title_female = count
@@ -761,8 +761,8 @@ e_gallovia = {
             title_female = duke
         }
         d_strondal = {
-            color = { 139 187 167 }
-            color2 = { 139 187 167 }
+            color = { 86 58 132 }
+            color2 = { 80 62 110 }
             capital = 266
             c_enetun = {
                 b_vexorum = {
@@ -786,8 +786,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 139 187 167 }
-                color2 = { 139 187 167 }
+                color = { 113 90 100 }
+                color2 = { 125 110 116 }
                 culture = dwarven
                 title = count
                 title_female = count
@@ -824,8 +824,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 146 189 154 }
-                color2 = { 146 189 154 }
+                color = { 69 71 135 }
+                color2 = { 95 96 138 }
                 culture = dwarven
                 title = count
                 title_female = count
@@ -852,8 +852,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 148 173 160 }
-                color2 = { 148 173 160 }
+                color = { 92 74 120 }
+                color2 = { 110 98 128 }
                 culture = dwarven
                 title = count
                 title_female = count
@@ -863,8 +863,8 @@ e_gallovia = {
             title_female = duke
         }
         d_torgar = {
-            color = { 131 159 175 }
-            color2 = { 131 159 175 }
+            color = { 63 85 104 }
+            color2 = { 88 103 115 }
             capital = 264
             c_beory = {
                 b_malzethun = {
@@ -883,8 +883,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 146 189 154 }
-                color2 = { 146 189 154 }
+                color = { 72 67 85 }
+                color2 = { 55 52 64 }
                 culture = dwarven
                 title = count
                 title_female = count
@@ -906,8 +906,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 121 174 140 }
-                color2 = { 121 174 140 }
+                color = { 83 79 96 }
+                color2 = { 98 95 106 }
                 culture = dwarven
                 title = count
                 title_female = count
@@ -934,8 +934,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 129 181 161 }
-                color2 = { 129 181 161 }
+                color = { 68 65 113 }
+                color2 = { 62 60 91 }
                 culture = dwarven
                 title = count
                 title_female = count
@@ -949,12 +949,12 @@ e_gallovia = {
         title_female = king
     }
     k_elderthrone = {
-        color = { 127 147 187 }
-        color2 = { 127 147 187 }
+        color = { 125 72 108 }
+        color2 = { 133 98 122 }
         capital = 268
         d_eversden = {
-            color = { 127 147 187 }
-            color2 = { 127 147 187 }
+            color = { 138 85 110 }
+            color2 = { 120 85 101 }
             capital = 268
             c_asterisle = {
                 b_penham = {
@@ -973,8 +973,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 167 120 168 }
-                color2 = { 167 120 168 }
+                color = { 129 111 113 }
+                color2 = { 107 95 97 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1006,8 +1006,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 127 147 187 }
-                color2 = { 127 147 187 }
+                color = { 110 95 129 }
+                color2 = { 120 111 133 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1034,8 +1034,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 150 140 183 }
-                color2 = { 150 140 183 }
+                color = { 104 114 97 }
+                color2 = { 93 100 89 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1045,8 +1045,8 @@ e_gallovia = {
             title_female = duke
         }
         d_greyfen = {
-            color = { 160 115 171 }
-            color2 = { 160 115 171 }
+            color = { 107 62 125 }
+            color2 = { 87 58 99 }
             capital = 271
             c_circmor = {
                 b_caerhall = {
@@ -1065,8 +1065,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 160 115 171 }
-                color2 = { 160 115 171 }
+                color = { 86 88 104 }
+                color2 = { 94 96 106 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1093,8 +1093,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 133 117 188 }
-                color2 = { 133 117 188 }
+                color = { 80 91 109 }
+                color2 = { 69 76 87 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1116,8 +1116,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 138 111 185 }
-                color2 = { 138 111 185 }
+                color = { 122 81 93 }
+                color2 = { 125 98 106 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1139,8 +1139,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 133 117 188 }
-                color2 = { 133 117 188 }
+                color = { 121 99 119 }
+                color2 = { 103 89 102 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1150,8 +1150,8 @@ e_gallovia = {
             title_female = duke
         }
         d_harpsden = {
-            color = { 166 130 185 }
-            color2 = { 166 130 185 }
+            color = { 146 111 108 }
+            color2 = { 125 102 100 }
             capital = 275
             c_corkwell = {
                 b_whites = {
@@ -1180,8 +1180,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 166 145 164 }
-                color2 = { 166 145 164 }
+                color = { 139 122 124 }
+                color2 = { 150 139 140 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1213,8 +1213,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 166 128 157 }
-                color2 = { 166 128 157 }
+                color = { 150 104 116 }
+                color2 = { 158 128 135 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1236,8 +1236,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 166 130 185 }
-                color2 = { 166 130 185 }
+                color = { 134 93 131 }
+                color2 = { 145 118 143 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1259,8 +1259,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 146 116 172 }
-                color2 = { 166 128 157 }
+                color = { 148 93 96 }
+                color2 = { 149 114 116 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1270,8 +1270,8 @@ e_gallovia = {
             title_female = duke
         }
         d_oldmere = {
-            color = { 154 142 173 }
-            color2 = { 154 142 173 }
+            color = { 132 81 113 }
+            color2 = { 136 103 124 }
             capital = 279
             c_beewall = {
                 b_culvers = {
@@ -1300,8 +1300,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 163 125 158 }
-                color2 = { 163 125 158 }
+                color = { 123 77 101 }
+                color2 = { 97 67 83 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1328,8 +1328,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 162 139 177 }
-                color2 = { 162 139 177 }
+                color = { 130 90 95 }
+                color2 = { 113 87 90 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1356,8 +1356,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 154 142 173 }
-                color2 = { 154 142 173 }
+                color = { 114 111 101 }
+                color2 = { 100 98 92 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1379,8 +1379,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 132 143 181 }
-                color2 = { 132 143 181 }
+                color = { 112 93 104 }
+                color2 = { 92 80 87 }
                 culture = cearden
                 title = count
                 title_female = count
@@ -1394,12 +1394,12 @@ e_gallovia = {
         title_female = king
     }
     k_morvaine = {
-        color = { 165 145 179 }
-        color2 = { 165 145 179 }
+        color = { 126 112 71 }
+        color2 = { 108 99 72 }
         capital = 283
         d_braeholm = {
-            color = { 165 145 179 }
-            color2 = { 165 145 179 }
+            color = { 123 102 71 }
+            color2 = { 125 111 91 }
             capital = 283
             c_blebsen = {
                 b_dundean = {
@@ -1428,8 +1428,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 167 127 205 }
-                color2 = { 167 127 205 }
+                color = { 101 123 94 }
+                color2 = { 97 111 92 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1451,8 +1451,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 158 155 197 }
-                color2 = { 158 155 197 }
+                color = { 135 110 107 }
+                color2 = { 140 123 122 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1474,8 +1474,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 179 130 202 }
-                color2 = { 179 130 202 }
+                color = { 99 88 87 }
+                color2 = { 82 75 74 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1497,8 +1497,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 165 145 179 }
-                color2 = { 165 145 179 }
+                color = { 129 124 72 }
+                color2 = { 138 134 101 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1520,8 +1520,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 143 151 202 }
-                color2 = { 143 151 202 }
+                color = { 136 106 108 }
+                color2 = { 112 93 94 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1548,8 +1548,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 150 137 183 }
-                color2 = { 150 137 183 }
+                color = { 92 75 65 }
+                color2 = { 93 82 75 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1559,8 +1559,8 @@ e_gallovia = {
             title_female = duke
         }
         d_dunleith = {
-            color = { 177 154 181 }
-            color2 = { 177 154 181 }
+            color = { 134 121 94 }
+            color2 = { 141 132 115 }
             capital = 289
             c_ceorsholt = {
                 b_needmoor = {
@@ -1579,8 +1579,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 177 154 181 }
-                color2 = { 177 154 181 }
+                color = { 115 95 90 }
+                color2 = { 93 80 76 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1607,8 +1607,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 177 154 181 }
-                color2 = { 177 154 181 }
+                color = { 104 107 119 }
+                color2 = { 116 118 126 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1635,8 +1635,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 151 158 180 }
-                color2 = { 151 158 180 }
+                color = { 120 101 100 }
+                color2 = { 132 120 119 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1658,8 +1658,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 156 140 173 }
-                color2 = { 156 140 173 }
+                color = { 103 132 82 }
+                color2 = { 91 110 77 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1696,8 +1696,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 164 121 187 }
-                color2 = { 164 121 187 }
+                color = { 105 134 105 }
+                color2 = { 100 119 100 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1707,8 +1707,8 @@ e_gallovia = {
             title_female = duke
         }
         d_lairdholm = {
-            color = { 163 151 204 }
-            color2 = { 163 151 204 }
+            color = { 110 103 81 }
+            color2 = { 116 111 97 }
             capital = 294
             c_midwude = {
                 b_mawton = {
@@ -1732,8 +1732,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 163 151 204 }
-                color2 = { 163 151 204 }
+                color = { 113 98 74 }
+                color2 = { 94 84 68 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1755,8 +1755,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 172 129 207 }
-                color2 = { 172 129 207 }
+                color = { 126 95 68 }
+                color2 = { 132 111 94 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1778,8 +1778,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 143 124 184 }
-                color2 = { 143 124 184 }
+                color = { 122 92 70 }
+                color2 = { 130 110 96 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1789,8 +1789,8 @@ e_gallovia = {
             title_female = duke
         }
         d_stronlea = {
-            color = { 160 146 196 }
-            color2 = { 160 146 196 }
+            color = { 111 113 101 }
+            color2 = { 95 96 88 }
             capital = 297
             c_pachnor = {
                 b_alverley = {
@@ -1814,8 +1814,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 160 146 196 }
-                color2 = { 160 146 196 }
+                color = { 105 134 110 }
+                color2 = { 103 122 106 }
                 culture = dunbrae
                 title = count
                 title_female = count
@@ -1847,8 +1847,8 @@ e_gallovia = {
                 
                 }
 
-                color = { 169 157 201 }
-                color2 = { 169 157 201 }
+                color = { 129 89 91 }
+                color2 = { 114 88 89 }
                 culture = dunbrae
                 title = count
                 title_female = count

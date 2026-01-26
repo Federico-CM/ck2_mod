@@ -1,14 +1,14 @@
 e_hellatia = {
-    color = { 168 175 145 }
-    color2 = { 168 175 145 }
+    color = { 145 85 79 }
+    color2 = { 145 106 102 }
     capital = 409
     k_bladmark = {
-        color = { 168 175 145 }
-        color2 = { 168 175 145 }
+        color = { 69 125 96 }
+        color2 = { 61 97 78 }
         capital = 409
         d_boss_herze = {
-            color = { 168 175 145 }
-            color2 = { 168 175 145 }
+            color = { 57 98 96 }
+            color2 = { 48 75 74 }
             capital = 409
             c_boss_herze = {
                 b_miravac = {
@@ -32,8 +32,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 192 169 153 }
-                color2 = { 192 169 153 }
+                color = { 63 77 71 }
+                color2 = { 75 85 81 }
                 culture = dvala
                 title = count
                 title_female = count
@@ -55,8 +55,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 189 173 130 }
-                color2 = { 189 173 130 }
+                color = { 46 65 70 }
+                color2 = { 67 79 82 }
                 culture = dvala
                 title = count
                 title_female = count
@@ -83,8 +83,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 168 175 145 }
-                color2 = { 168 175 145 }
+                color = { 82 86 74 }
+                color2 = { 65 67 59 }
                 culture = szabadok
                 title = count
                 title_female = count
@@ -94,8 +94,8 @@ e_hellatia = {
             title_female = duke
         }
         d_rhodokia = {
-            color = { 158 150 132 }
-            color2 = { 158 150 132 }
+            color = { 78 104 106 }
+            color2 = { 98 115 116 }
             capital = 412
             c_allachia = {
                 b_lunari = {
@@ -114,8 +114,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 158 150 132 }
-                color2 = { 158 150 132 }
+                color = { 71 121 117 }
+                color2 = { 64 97 94 }
                 culture = ania
                 title = count
                 title_female = count
@@ -142,8 +142,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 194 159 153 }
-                color2 = { 194 159 153 }
+                color = { 77 120 94 }
+                color2 = { 66 94 77 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -175,8 +175,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 158 150 140 }
-                color2 = { 158 150 140 }
+                color = { 104 104 83 }
+                color2 = { 120 120 106 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -186,8 +186,8 @@ e_hellatia = {
             title_female = duke
         }
         d_rumvalia = {
-            color = { 160 173 142 }
-            color2 = { 160 173 142 }
+            color = { 84 138 78 }
+            color2 = { 79 114 75 }
             capital = 415
             c_bulvakia = {
                 b_sredets = {
@@ -211,8 +211,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 160 173 142 }
-                color2 = { 160 173 142 }
+                color = { 112 121 114 }
+                color2 = { 127 133 129 }
                 culture = byala
                 title = count
                 title_female = count
@@ -234,8 +234,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 193 163 127 }
-                color2 = { 193 163 127 }
+                color = { 84 120 70 }
+                color2 = { 76 100 67 }
                 culture = szabadok
                 title = count
                 title_female = count
@@ -257,8 +257,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 180 178 153 }
-                color2 = { 180 178 153 }
+                color = { 73 144 93 }
+                color2 = { 70 116 82 }
                 culture = ania
                 title = count
                 title_female = count
@@ -280,8 +280,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 189 147 130 }
-                color2 = { 189 147 130 }
+                color = { 59 99 61 }
+                color2 = { 46 72 47 }
                 culture = ania
                 title = count
                 title_female = count
@@ -291,8 +291,8 @@ e_hellatia = {
             title_female = duke
         }
         d_sarve = {
-            color = { 172 142 122 }
-            color2 = { 172 142 122 }
+            color = { 54 134 76 }
+            color2 = { 75 127 89 }
             capital = 419
             c_boss_sarve = {
                 b_smolnik = {
@@ -311,8 +311,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 184 173 132 }
-                color2 = { 184 173 132 }
+                color = { 76 135 73 }
+                color2 = { 73 111 71 }
                 culture = dvala
                 title = count
                 title_female = count
@@ -339,8 +339,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 178 176 152 }
-                color2 = { 178 176 152 }
+                color = { 77 116 80 }
+                color2 = { 73 98 75 }
                 culture = byala
                 title = count
                 title_female = count
@@ -362,8 +362,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 172 142 122 }
-                color2 = { 172 142 122 }
+                color = { 46 138 91 }
+                color2 = { 79 139 108 }
                 culture = byala
                 title = count
                 title_female = count
@@ -385,8 +385,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 176 173 136 }
-                color2 = { 176 173 136 }
+                color = { 85 137 76 }
+                color2 = { 75 109 69 }
                 culture = dvala
                 title = count
                 title_female = count
@@ -400,12 +400,12 @@ e_hellatia = {
         title_female = king
     }
     k_hellatos = {
-        color = { 103 162 147 }
-        color2 = { 103 162 147 }
+        color = { 76 67 121 }
+        color2 = { 69 63 98 }
         capital = 423
         d_megara = {
-            color = { 103 162 147 }
-            color2 = { 103 162 147 }
+            color = { 74 96 97 }
+            color2 = { 65 80 80 }
             capital = 423
             c_athenai_nisia = {
                 b_sartona = {
@@ -429,8 +429,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 103 162 147 }
-                color2 = { 103 162 147 }
+                color = { 70 115 89 }
+                color2 = { 65 95 78 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -452,8 +452,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 141 143 137 }
-                color2 = { 141 143 137 }
+                color = { 74 86 84 }
+                color2 = { 66 74 73 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -480,8 +480,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 134 141 142 }
-                color2 = { 134 141 142 }
+                color = { 75 80 91 }
+                color2 = { 59 63 70 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -513,8 +513,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 129 135 146 }
-                color2 = { 129 135 146 }
+                color = { 112 119 126 }
+                color2 = { 101 106 111 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -536,8 +536,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 116 149 147 }
-                color2 = { 116 149 147 }
+                color = { 58 113 76 }
+                color2 = { 54 90 66 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -559,8 +559,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 115 132 163 }
-                color2 = { 115 132 163 }
+                color = { 56 70 105 }
+                color2 = { 55 64 87 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -570,8 +570,8 @@ e_hellatia = {
             title_female = duke
         }
         d_tessoliki = {
-            color = { 103 128 135 }
-            color2 = { 103 128 135 }
+            color = { 49 56 84 }
+            color2 = { 41 45 64 }
             capital = 429
             c_athous = {
                 b_elona = {
@@ -595,8 +595,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 110 155 148 }
-                color2 = { 110 155 148 }
+                color = { 78 66 62 }
+                color2 = { 67 59 56 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -623,8 +623,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 143 150 167 }
-                color2 = { 143 150 167 }
+                color = { 36 32 81 }
+                color2 = { 55 52 84 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -651,8 +651,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 134 151 143 }
-                color2 = { 134 151 143 }
+                color = { 33 54 98 }
+                color2 = { 60 74 102 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -674,8 +674,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 103 128 135 }
-                color2 = { 103 128 135 }
+                color = { 30 36 52 }
+                color2 = { 20 24 34 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -685,8 +685,8 @@ e_hellatia = {
             title_female = duke
         }
         d_therma = {
-            color = { 108 138 153 }
-            color2 = { 108 138 153 }
+            color = { 60 69 132 }
+            color2 = { 87 93 134 }
             capital = 433
             c_karpenissi = {
                 b_karpa = {
@@ -710,8 +710,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 131 138 134 }
-                color2 = { 131 138 134 }
+                color = { 67 63 99 }
+                color2 = { 55 53 76 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -733,8 +733,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 108 138 153 }
-                color2 = { 108 138 153 }
+                color = { 54 78 126 }
+                color2 = { 80 96 127 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -748,12 +748,12 @@ e_hellatia = {
         title_female = king
     }
     k_kappados = {
-        color = { 156 186 186 }
-        color2 = { 156 186 186 }
+        color = { 125 69 99 }
+        color2 = { 124 87 107 }
         capital = 435
         d_heraclea = {
-            color = { 156 186 186 }
-            color2 = { 156 186 186 }
+            color = { 123 96 127 }
+            color2 = { 112 95 115 }
             capital = 435
             c_esmira = {
                 b_astra = {
@@ -772,8 +772,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 158 195 211 }
-                color2 = { 158 195 211 }
+                color = { 105 126 131 }
+                color2 = { 129 142 146 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -800,8 +800,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 159 195 196 }
-                color2 = { 159 195 196 }
+                color = { 106 121 120 }
+                color2 = { 92 101 101 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -828,8 +828,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 168 195 184 }
-                color2 = { 168 195 184 }
+                color = { 113 98 134 }
+                color2 = { 127 117 140 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -856,8 +856,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 156 186 186 }
-                color2 = { 156 186 186 }
+                color = { 109 112 106 }
+                color2 = { 93 95 91 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -867,8 +867,8 @@ e_hellatia = {
             title_female = duke
         }
         d_limnosa = {
-            color = { 151 180 186 }
-            color2 = { 151 180 186 }
+            color = { 139 82 106 }
+            color2 = { 140 102 118 }
             capital = 439
             c_alexandroupoli = {
                 b_lamos = {
@@ -887,8 +887,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 164 169 201 }
-                color2 = { 164 169 201 }
+                color = { 150 106 107 }
+                color2 = { 149 120 121 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -920,8 +920,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 183 178 213 }
-                color2 = { 183 178 213 }
+                color = { 114 99 82 }
+                color2 = { 122 113 102 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -948,8 +948,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 153 183 174 }
-                color2 = { 153 183 174 }
+                color = { 130 88 106 }
+                color2 = { 108 81 93 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -971,8 +971,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 172 176 213 }
-                color2 = { 172 176 213 }
+                color = { 118 105 121 }
+                color2 = { 123 114 125 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -994,8 +994,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 151 180 186 }
-                color2 = { 151 180 186 }
+                color = { 149 91 125 }
+                color2 = { 156 118 140 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -1017,8 +1017,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 160 192 187 }
-                color2 = { 160 192 187 }
+                color = { 134 76 112 }
+                color2 = { 110 72 95 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -1028,8 +1028,8 @@ e_hellatia = {
             title_female = duke
         }
         d_tzakazvilis = {
-            color = { 153 172 184 }
-            color2 = { 153 172 184 }
+            color = { 100 103 121 }
+            color2 = { 120 122 133 }
             capital = 445
             c_sardes = {
                 b_kardeti = {
@@ -1048,8 +1048,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 153 172 184 }
-                color2 = { 153 172 184 }
+                color = { 116 121 134 }
+                color2 = { 135 138 146 }
                 culture = tsalqvanes
                 title = count
                 title_female = count
@@ -1076,8 +1076,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 166 207 174 }
-                color2 = { 166 207 174 }
+                color = { 108 99 93 }
+                color2 = { 90 84 80 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -1104,8 +1104,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 184 178 189 }
-                color2 = { 184 178 189 }
+                color = { 81 119 131 }
+                color2 = { 85 110 118 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -1127,8 +1127,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 180 190 202 }
-                color2 = { 180 190 202 }
+                color = { 125 89 124 }
+                color2 = { 130 106 129 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -1142,12 +1142,12 @@ e_hellatia = {
         title_female = king
     }
     k_rustvani = {
-        color = { 128 163 183 }
-        color2 = { 128 163 183 }
+        color = { 126 109 71 }
+        color2 = { 130 119 94 }
         capital = 449
         d_beylagan = {
-            color = { 128 163 183 }
-            color2 = { 128 163 183 }
+            color = { 92 123 69 }
+            color2 = { 85 105 70 }
             capital = 449
             c_akhalakaio = {
                 b_keraka = {
@@ -1171,8 +1171,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 128 163 183 }
-                color2 = { 128 163 183 }
+                color = { 105 105 64 }
+                color2 = { 83 83 56 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -1194,8 +1194,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 156 176 159 }
-                color2 = { 156 176 159 }
+                color = { 91 117 80 }
+                color2 = { 99 116 92 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -1222,8 +1222,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 142 147 171 }
-                color2 = { 142 147 171 }
+                color = { 93 84 55 }
+                color2 = { 94 89 70 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -1250,8 +1250,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 150 174 189 }
-                color2 = { 150 174 189 }
+                color = { 114 119 73 }
+                color2 = { 125 128 98 }
                 culture = etosian
                 title = count
                 title_female = count
@@ -1261,8 +1261,8 @@ e_hellatia = {
             title_female = duke
         }
         d_hrzavdanda = {
-            color = { 130 170 189 }
-            color2 = { 130 170 189 }
+            color = { 124 109 103 }
+            color2 = { 110 100 96 }
             capital = 453
             c_alverdishvan = {
                 b_akhorgori = {
@@ -1281,8 +1281,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 151 169 163 }
-                color2 = { 151 169 163 }
+                color = { 110 85 90 }
+                color2 = { 116 100 103 }
                 culture = tsalqvanes
                 title = count
                 title_female = count
@@ -1309,8 +1309,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 164 147 154 }
-                color2 = { 164 147 154 }
+                color = { 116 114 109 }
+                color2 = { 101 100 96 }
                 culture = tsalqvanes
                 title = count
                 title_female = count
@@ -1332,8 +1332,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 130 170 189 }
-                color2 = { 130 170 189 }
+                color = { 104 125 107 }
+                color2 = { 124 137 126 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -1355,8 +1355,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 142 153 178 }
-                color2 = { 142 153 178 }
+                color = { 107 125 132 }
+                color2 = { 99 111 115 }
                 culture = tsalqvanes
                 title = count
                 title_female = count
@@ -1366,8 +1366,8 @@ e_hellatia = {
             title_female = duke
         }
         d_tsaikvansu = {
-            color = { 129 173 188 }
-            color2 = { 129 173 188 }
+            color = { 103 95 59 }
+            color2 = { 108 103 79 }
             capital = 457
             c_anaklia = {
                 b_polyanky = {
@@ -1391,8 +1391,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 164 176 175 }
-                color2 = { 164 176 175 }
+                color = { 91 108 65 }
+                color2 = { 74 85 57 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -1414,8 +1414,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 132 163 155 }
-                color2 = { 132 163 155 }
+                color = { 116 79 70 }
+                color2 = { 121 97 91 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -1447,8 +1447,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 144 171 178 }
-                color2 = { 144 171 178 }
+                color = { 109 114 79 }
+                color2 = { 112 115 93 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -1470,8 +1470,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 161 157 187 }
-                color2 = { 161 157 187 }
+                color = { 102 76 81 }
+                color2 = { 80 64 67 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -1493,8 +1493,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 129 173 188 }
-                color2 = { 129 173 188 }
+                color = { 78 74 79 }
+                color2 = { 88 85 88 }
                 culture = krainivaya
                 title = count
                 title_female = count
@@ -1516,8 +1516,8 @@ e_hellatia = {
                 
                 }
 
-                color = { 133 156 180 }
-                color2 = { 133 156 180 }
+                color = { 100 100 93 }
+                color2 = { 92 92 88 }
                 culture = krainivaya
                 title = count
                 title_female = count

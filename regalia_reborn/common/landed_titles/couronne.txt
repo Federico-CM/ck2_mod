@@ -1,15 +1,15 @@
 e_couronne = {
-    color = { 167 156 173 }
-    color2 = { 167 156 173 }
+    color = { 90 150 162 }
+    color2 = { 93 132 140 }
     capital = 300
 
     k_coulance = {
-        color = { 175 111 156 }
-        color2 = { 175 111 156 }
+        color = { 111 72 125 }
+        color2 = { 121 96 130 }
         capital = 300
         d_alouse = {
-            color = { 175 111 156 }
-            color2 = { 175 111 156 }
+            color = { 98 85 108 }
+            color2 = { 105 96 111 }
             capital = 300
             c_alouse = {
                 b_gauce = {
@@ -33,8 +33,8 @@ e_couronne = {
                 
                 }
 
-                color = { 187 108 134 }
-                color2 = { 187 108 134 }
+                color = { 129 119 128 }
+                color2 = { 111 104 110 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -56,8 +56,8 @@ e_couronne = {
                 
                 }
 
-                color = { 175 111 156 }
-                color2 = { 175 111 156 }
+                color = { 87 95 109 }
+                color2 = { 80 86 95 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -84,8 +84,8 @@ e_couronne = {
                 
                 }
 
-                color = { 177 121 159 }
-                color2 = { 177 121 159 }
+                color = { 113 83 97 }
+                color2 = { 124 104 113 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -112,8 +112,8 @@ e_couronne = {
                 
                 }
 
-                color = { 184 125 150 }
-                color2 = { 184 125 150 }
+                color = { 80 77 80 }
+                color2 = { 71 69 71 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -123,8 +123,8 @@ e_couronne = {
             title_female = duke
         }
         d_coutance = {
-            color = { 156 140 127 }
-            color2 = { 156 140 127 }
+            color = { 127 95 138 }
+            color2 = { 134 113 141 }
             capital = 304
             c_la_coutance = {
                 b_jurvey = {
@@ -153,8 +153,8 @@ e_couronne = {
                 
                 }
 
-                color = { 156 140 127 }
-                color2 = { 156 140 127 }
+                color = { 127 94 115 }
+                color2 = { 114 92 106 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -164,8 +164,8 @@ e_couronne = {
             title_female = duke
         }
         d_pellier = {
-            color = { 184 113 161 }
-            color2 = { 184 113 161 }
+            color = { 83 70 93 }
+            color2 = { 96 87 102 }
             capital = 305
             c_limousse = {
                 b_azaux = {
@@ -184,8 +184,8 @@ e_couronne = {
                 
                 }
 
-                color = { 184 113 161 }
-                color2 = { 184 113 161 }
+                color = { 88 91 94 }
+                color2 = { 77 79 81 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -207,8 +207,8 @@ e_couronne = {
                 
                 }
 
-                color = { 194 115 144 }
-                color2 = { 194 115 144 }
+                color = { 62 84 70 }
+                color2 = { 48 62 53 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -218,8 +218,8 @@ e_couronne = {
             title_female = duke
         }
         d_vanoise = {
-            color = { 163 117 125 }
-            color2 = { 163 117 125 }
+            color = { 88 62 135 }
+            color2 = { 78 62 109 }
             capital = 307
             c_mercatour = {
                 b_nancres = {
@@ -243,8 +243,8 @@ e_couronne = {
                 
                 }
 
-                color = { 166 131 139 }
-                color2 = { 166 131 139 }
+                color = { 69 76 113 }
+                color2 = { 91 96 120 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -271,8 +271,8 @@ e_couronne = {
                 
                 }
 
-                color = { 163 117 125 }
-                color2 = { 163 117 125 }
+                color = { 118 100 136 }
+                color2 = { 104 92 116 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -299,8 +299,8 @@ e_couronne = {
                 
                 }
 
-                color = { 185 107 159 }
-                color2 = { 185 107 159 }
+                color = { 68 96 124 }
+                color2 = { 69 87 105 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -314,12 +314,12 @@ e_couronne = {
         title_female = king
     }
     k_pays_noble = {
-        color = { 183 128 161 }
-        color2 = { 183 128 161 }
+        color = { 120 65 73 }
+        color2 = { 124 88 94 }
         capital = 310
         d_lacerion = {
-            color = { 183 128 161 }
-            color2 = { 183 128 161 }
+            color = { 102 80 56 }
+            color2 = { 102 88 72 }
             capital = 310
             c_boisse_ivoire = {
                 b_elvilly = {
@@ -338,8 +338,8 @@ e_couronne = {
                 
                 }
 
-                color = { 183 128 161 }
-                color2 = { 183 128 161 }
+                color = { 97 105 80 }
+                color2 = { 90 95 79 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -366,8 +366,8 @@ e_couronne = {
                 
                 }
 
-                color = { 207 136 161 }
-                color2 = { 207 136 161 }
+                color = { 106 105 56 }
+                color2 = { 84 83 52 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -394,8 +394,8 @@ e_couronne = {
                 
                 }
 
-                color = { 203 144 153 }
-                color2 = { 203 144 153 }
+                color = { 72 70 44 }
+                color2 = { 58 57 40 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -417,8 +417,8 @@ e_couronne = {
                 
                 }
 
-                color = { 191 138 157 }
-                color2 = { 191 138 157 }
+                color = { 70 72 47 }
+                color2 = { 74 75 59 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -428,8 +428,8 @@ e_couronne = {
             title_female = duke
         }
         d_lunnais = {
-            color = { 179 150 149 }
-            color2 = { 179 150 149 }
+            color = { 122 73 78 }
+            color2 = { 117 85 89 }
             capital = 314
             c_dinnan = {
                 b_laballe = {
@@ -463,8 +463,8 @@ e_couronne = {
                 
                 }
 
-                color = { 185 155 163 }
-                color2 = { 185 155 163 }
+                color = { 135 107 83 }
+                color2 = { 132 113 98 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -496,8 +496,8 @@ e_couronne = {
                 
                 }
 
-                color = { 179 150 149 }
-                color2 = { 179 150 149 }
+                color = { 99 64 87 }
+                color2 = { 101 79 94 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -519,8 +519,8 @@ e_couronne = {
                 
                 }
 
-                color = { 216 137 169 }
-                color2 = { 216 137 169 }
+                color = { 84 79 67 }
+                color2 = { 72 68 60 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -552,8 +552,8 @@ e_couronne = {
                 
                 }
 
-                color = { 200 129 181 }
-                color2 = { 200 129 181 }
+                color = { 126 102 64 }
+                color2 = { 131 115 91 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -563,8 +563,8 @@ e_couronne = {
             title_female = duke
         }
         d_tullerion = {
-            color = { 206 151 159 }
-            color2 = { 206 151 159 }
+            color = { 88 78 100 }
+            color2 = { 105 99 113 }
             capital = 318
             c_duvion = {
                 b_pompeaux = {
@@ -588,8 +588,8 @@ e_couronne = {
                 
                 }
 
-                color = { 206 151 159 }
-                color2 = { 206 151 159 }
+                color = { 80 61 96 }
+                color2 = { 69 56 79 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -603,12 +603,12 @@ e_couronne = {
         title_female = king
     }
     k_pays_vert = {
-        color = { 153 132 155 }
-        color2 = { 153 132 155 }
+        color = { 129 122 72 }
+        color2 = { 113 108 76 }
         capital = 319
         d_attanais = {
-            color = { 153 132 155 }
-            color2 = { 153 132 155 }
+            color = { 107 92 63 }
+            color2 = { 87 77 58 }
             capital = 319
             c_attanais = {
                 b_autreux = {
@@ -632,8 +632,8 @@ e_couronne = {
                 
                 }
 
-                color = { 181 140 129 }
-                color2 = { 181 140 129 }
+                color = { 84 72 92 }
+                color2 = { 74 66 79 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -655,8 +655,8 @@ e_couronne = {
                 
                 }
 
-                color = { 182 133 137 }
-                color2 = { 182 133 137 }
+                color = { 74 74 69 }
+                color2 = { 89 89 86 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -683,8 +683,8 @@ e_couronne = {
                 
                 }
 
-                color = { 178 122 131 }
-                color2 = { 178 122 131 }
+                color = { 122 89 84 }
+                color2 = { 127 105 102 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -711,8 +711,8 @@ e_couronne = {
                 
                 }
 
-                color = { 153 132 155 }
-                color2 = { 153 132 155 }
+                color = { 108 104 93 }
+                color2 = { 96 93 86 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -734,8 +734,8 @@ e_couronne = {
                 
                 }
 
-                color = { 161 105 130 }
-                color2 = { 161 105 130 }
+                color = { 93 67 50 }
+                color2 = { 96 79 68 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -745,8 +745,8 @@ e_couronne = {
             title_female = duke
         }
         d_lorelle = {
-            color = { 160 130 146 }
-            color2 = { 160 130 146 }
+            color = { 110 96 67 }
+            color2 = { 111 102 83 }
             capital = 324
             c_vattanais = {
                 b_villeroc = {
@@ -775,8 +775,8 @@ e_couronne = {
                 
                 }
 
-                color = { 160 130 146 }
-                color2 = { 160 130 146 }
+                color = { 99 69 75 }
+                color2 = { 109 89 93 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -786,8 +786,8 @@ e_couronne = {
             title_female = duke
         }
         d_versonne = {
-            color = { 162 121 124 }
-            color2 = { 162 121 124 }
+            color = { 123 120 70 }
+            color2 = { 134 132 100 }
             capital = 325
             c_cacedarconne = {
                 b_ceigny = {
@@ -806,8 +806,8 @@ e_couronne = {
                 
                 }
 
-                color = { 168 134 132 }
-                color2 = { 168 134 132 }
+                color = { 109 122 84 }
+                color2 = { 91 99 74 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -844,8 +844,8 @@ e_couronne = {
                 
                 }
 
-                color = { 162 121 124 }
-                color2 = { 162 121 124 }
+                color = { 96 126 77 }
+                color2 = { 105 125 93 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -859,12 +859,12 @@ e_couronne = {
         title_female = king
     }
     k_tulliere = {
-        color = { 178 148 157 }
-        color2 = { 178 148 157 }
+        color = { 69 121 64 }
+        color2 = { 93 126 89 }
         capital = 327
         d_gimont = {
-            color = { 178 148 157 }
-            color2 = { 178 148 157 }
+            color = { 63 131 98 }
+            color2 = { 64 108 87 }
             capital = 327
             c_gimont = {
                 b_aguis = {
@@ -888,8 +888,8 @@ e_couronne = {
                 
                 }
 
-                color = { 178 148 157 }
-                color2 = { 178 148 157 }
+                color = { 63 126 120 }
+                color2 = { 95 136 132 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -911,8 +911,8 @@ e_couronne = {
 			
 			}
 
-			color = { 167 156 173 }
-			color2 = { 167 156 173 }
+			color = { 73 128 93 }
+			color2 = { 70 106 83 }
 			culture = ithanian
 			title = count
 			title_female = count
@@ -934,8 +934,8 @@ e_couronne = {
                 
                 }
 
-                color = { 187 136 166 }
-                color2 = { 187 136 166 }
+                color = { 89 136 102 }
+                color2 = { 113 144 121 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -957,8 +957,8 @@ e_couronne = {
                 
                 }
 
-                color = { 198 123 160 }
-                color2 = { 198 123 160 }
+                color = { 98 113 105 }
+                color2 = { 87 97 92 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -968,8 +968,8 @@ e_couronne = {
             title_female = duke
         }
         d_grisolle = {
-            color = { 177 123 165 }
-            color2 = { 177 123 165 }
+            color = { 99 111 101 }
+            color2 = { 118 126 119 }
             capital = 330
             c_bangnac = {
                 b_comme = {
@@ -988,8 +988,8 @@ e_couronne = {
                 
                 }
 
-                color = { 197 148 175 }
-                color2 = { 197 148 175 }
+                color = { 86 129 125 }
+                color2 = { 83 111 109 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1016,8 +1016,8 @@ e_couronne = {
                 
                 }
 
-                color = { 199 152 147 }
-                color2 = { 199 152 147 }
+                color = { 114 133 116 }
+                color2 = { 123 136 125 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1039,8 +1039,8 @@ e_couronne = {
                 
                 }
 
-                color = { 182 136 141 }
-                color2 = { 182 136 141 }
+                color = { 101 108 124 }
+                color2 = { 118 122 132 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1062,8 +1062,8 @@ e_couronne = {
                 
                 }
 
-                color = { 198 149 149 }
-                color2 = { 198 149 149 }
+                color = { 94 128 115 }
+                color2 = { 82 104 96 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1085,8 +1085,8 @@ e_couronne = {
                 
                 }
 
-                color = { 177 123 165 }
-                color2 = { 177 123 165 }
+                color = { 96 86 87 }
+                color2 = { 86 79 80 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1096,8 +1096,8 @@ e_couronne = {
             title_female = duke
         }
         d_rabastence = {
-            color = { 175 134 173 }
-            color2 = { 175 134 173 }
+            color = { 82 128 84 }
+            color2 = { 81 110 82 }
             capital = 335
             c_nouveaux_bije = {
                 b_rivecy = {
@@ -1116,8 +1116,8 @@ e_couronne = {
                 
                 }
 
-                color = { 204 152 168 }
-                color2 = { 204 152 168 }
+                color = { 109 130 115 }
+                color2 = { 101 115 105 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1144,8 +1144,8 @@ e_couronne = {
                 
                 }
 
-                color = { 175 134 173 }
-                color2 = { 175 134 173 }
+                color = { 81 133 64 }
+                color2 = { 76 110 65 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1182,8 +1182,8 @@ e_couronne = {
                 
                 }
 
-                color = { 178 126 135 }
-                color2 = { 178 126 135 }
+                color = { 61 94 91 }
+                color2 = { 58 80 78 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1205,8 +1205,8 @@ e_couronne = {
                 
                 }
 
-                color = { 189 125 152 }
-                color2 = { 189 125 152 }
+                color = { 105 140 100 }
+                color2 = { 102 124 98 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1216,8 +1216,8 @@ e_couronne = {
             title_female = duke
         }
         d_samatan = {
-            color = { 174 132 175 }
-            color2 = { 174 132 175 }
+            color = { 46 105 46 }
+            color2 = { 46 84 46 }
             capital = 339
             c_lombez_trois = {
                 b_offoux = {
@@ -1236,8 +1236,8 @@ e_couronne = {
                 
                 }
 
-                color = { 191 122 146 }
-                color2 = { 191 122 146 }
+                color = { 33 68 49 }
+                color2 = { 50 73 60 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1264,8 +1264,8 @@ e_couronne = {
                 
                 }
 
-                color = { 174 132 175 }
-                color2 = { 174 132 175 }
+                color = { 77 88 70 }
+                color2 = { 69 76 65 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1279,12 +1279,12 @@ e_couronne = {
         title_female = king
     }
     k_vixhall = {
-        color = { 176 139 147 }
-        color2 = { 176 139 147 }
+        color = { 74 128 125 }
+        color2 = { 68 103 101 }
         capital = 341
         d_chambery = {
-            color = { 176 139 147 }
-            color2 = { 176 139 147 }
+            color = { 96 106 106 }
+            color2 = { 88 95 95 }
             capital = 341
             c_chambery = {
                 b_venels = {
@@ -1308,8 +1308,8 @@ e_couronne = {
                 
                 }
 
-                color = { 205 129 155 }
-                color2 = { 205 129 155 }
+                color = { 79 124 109 }
+                color2 = { 101 130 120 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1331,8 +1331,8 @@ e_couronne = {
                 
                 }
 
-                color = { 176 139 147 }
-                color2 = { 176 139 147 }
+                color = { 76 83 94 }
+                color2 = { 72 76 84 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1354,8 +1354,8 @@ e_couronne = {
                 
                 }
 
-                color = { 187 105 154 }
-                color2 = { 176 139 147 }
+                color = { 85 123 95 }
+                color2 = { 103 127 109 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1387,8 +1387,8 @@ e_couronne = {
                 
                 }
 
-                color = { 183 118 147 }
-                color2 = { 183 118 147 }
+                color = { 85 129 122 }
+                color2 = { 77 106 102 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1398,8 +1398,8 @@ e_couronne = {
             title_female = duke
         }
         d_charmenix = {
-            color = { 177 139 146 }
-            color2 = { 177 139 146 }
+            color = { 98 100 139 }
+            color2 = { 110 111 137 }
             capital = 345
             c_charmenix = {
                 b_renon = {
@@ -1418,8 +1418,8 @@ e_couronne = {
                 
                 }
 
-                color = { 197 103 146 }
-                color2 = { 197 103 146 }
+                color = { 112 105 112 }
+                color2 = { 117 113 117 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1451,8 +1451,8 @@ e_couronne = {
                 
                 }
 
-                color = { 177 139 146 }
-                color2 = { 177 139 146 }
+                color = { 89 96 119 }
+                color2 = { 85 90 105 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1479,8 +1479,8 @@ e_couronne = {
                 
                 }
 
-                color = { 185 112 167 }
-                color2 = { 185 112 167 }
+                color = { 105 93 114 }
+                color2 = { 114 106 120 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1507,8 +1507,8 @@ e_couronne = {
                 
                 }
 
-                color = { 195 101 152 }
-                color2 = { 195 101 152 }
+                color = { 122 92 109 }
+                color2 = { 127 108 119 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1530,8 +1530,8 @@ e_couronne = {
                 
                 }
 
-                color = { 206 127 162 }
-                color2 = { 206 127 162 }
+                color = { 79 117 102 }
+                color2 = { 79 104 94 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1541,8 +1541,8 @@ e_couronne = {
             title_female = duke
         }
         d_couronne = {
-            color = { 170 123 151 }
-            color2 = { 170 123 151 }
+            color = { 66 112 127 }
+            color2 = { 61 90 100 }
             capital = 350
             c_centre_vixe = {
                 b_caigne = {
@@ -1561,8 +1561,8 @@ e_couronne = {
                 
                 }
 
-                color = { 170 123 151 }
-                color2 = { 170 123 151 }
+                color = { 58 108 115 }
+                color2 = { 85 117 122 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1604,8 +1604,8 @@ e_couronne = {
                 
                 }
 
-                color = { 202 119 139 }
-                color2 = { 202 119 139 }
+                color = { 70 131 102 }
+                color2 = { 95 134 116 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1615,8 +1615,8 @@ e_couronne = {
             title_female = duke
         }
         d_pays_de_liberte = {
-            color = { 179 137 168 }
-            color2 = { 179 137 168 }
+            color = { 112 129 132 }
+            color2 = { 98 109 111 }
             capital = 352
             c_loiree_haute = { #Couronne
                 b_maize = {
@@ -1635,8 +1635,8 @@ e_couronne = {
                 
                 }
 
-                color = { 186 131 151 }
-                color2 = { 186 131 151 }
+                color = { 140 137 142 }
+                color2 = { 151 149 152 }
 
                 culture = ithanian
                 title = count
@@ -1669,8 +1669,8 @@ e_couronne = {
                 
                 }
 
-                color = { 179 137 168 }
-                color2 = { 179 137 168 }
+                color = { 134 150 115 }
+                color2 = { 150 160 137 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1697,8 +1697,8 @@ e_couronne = {
                 
                 }
 
-                color = { 200 109 162 }
-                color2 = { 200 109 162 }
+                color = { 133 125 114 }
+                color2 = { 116 111 104 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1712,12 +1712,12 @@ e_couronne = {
         title_female = king
     }
     k_basta = {
-        color = { 103 134 115 }
-        color2 = { 103 134 115 }
+        color = { 68 78 119 }
+        color2 = { 66 72 99 }
         capital = 467 #Bastadon
         d_bastadon = {
-            color = { 103 134 115 }
-            color2 = { 103 134 115 }
+            color = { 90 87 113 }
+            color2 = { 102 100 117 }
             capital = 467
             c_ais_surgenne = {
                 b_berin = {
@@ -1746,8 +1746,8 @@ e_couronne = {
                 
                 }
 
-                color = { 137 105 130 }
-                color2 = { 137 105 130 }
+                color = { 121 110 123 }
+                color2 = { 137 130 138 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1769,8 +1769,8 @@ e_couronne = {
                 
                 }
 
-                color = { 139 109 113 }
-                color2 = { 139 109 113 }
+                color = { 109 99 108 }
+                color2 = { 93 86 92 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1802,8 +1802,8 @@ e_couronne = {
                 
                 }
 
-                color = { 103 134 115 }
-                color2 = { 103 134 115 }
+                color = { 70 66 92 }
+                color2 = { 59 56 73 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1825,8 +1825,8 @@ e_couronne = {
                 
                 }
 
-                color = { 133 129 132 }
-                color2 = { 133 129 132 }
+                color = { 95 78 130 }
+                color2 = { 110 99 133 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1853,8 +1853,8 @@ e_couronne = {
                 
                 }
 
-                color = { 136 128 125 }
-                color2 = { 136 128 125 }
+                color = { 110 66 92 }
+                color2 = { 115 86 103 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1864,8 +1864,8 @@ e_couronne = {
             title_female = duke
         }
         d_haarle = {
-            color = { 109 123 129 }
-            color2 = { 109 123 129 }
+            color = { 60 93 130 }
+            color2 = { 58 79 103 }
             capital = 468
             c_haarle = {
                 b_disan = {
@@ -1889,8 +1889,8 @@ e_couronne = {
                 
                 }
 
-                color = { 115 102 101 }
-                color2 = { 115 102 101 }
+                color = { 90 85 104 }
+                color2 = { 85 82 94 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1917,8 +1917,8 @@ e_couronne = {
                 
                 }
 
-                color = { 136 122 117 }
-                color2 = { 136 122 117 }
+                color = { 88 89 138 }
+                color2 = { 102 103 134 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1945,8 +1945,8 @@ e_couronne = {
                 
                 }
 
-                color = { 133 139 113 }
-                color2 = { 133 139 113 }
+                color = { 75 75 118 }
+                color2 = { 69 69 97 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1968,8 +1968,8 @@ e_couronne = {
                 
                 }
 
-                color = { 109 123 129 }
-                color2 = { 109 123 129 }
+                color = { 40 76 91 }
+                color2 = { 33 57 66 }
                 culture = ithanian
                 title = count
                 title_female = count
@@ -1979,8 +1979,8 @@ e_couronne = {
             title_female = duke
         }
         d_irvelle = {
-            color = { 111 137 135 }
-            color2 = { 111 137 135 }
+            color = { 83 89 100 }
+            color2 = { 80 84 91 }
             capital = 472
             c_irvelle = {
                 b_cornicel = {
@@ -1999,8 +1999,8 @@ e_couronne = {
                 
                 }
 
-                color = { 111 137 135 }
-                color2 = { 111 137 135 }
+                color = { 104 68 104 }
+                color2 = { 83 59 83 }
                 culture = ithanian
                 title = count
                 title_female = count
