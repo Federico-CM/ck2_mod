@@ -215,11 +215,11 @@
 		template = 0
 		layer = {
 			texture = 1
-			texture_internal = 0
+			texture_internal = 20
 			emblem = 0
 			color = 0
-			color = 0
-			color = 0
+			color = 5
+			color = 3
 		}
 	}
 }
@@ -957,6 +957,17 @@
 192 = {
 	name = "Elvaine"
 	culture = skyborn
+	coat_of_arms = {
+		template = 0
+		layer = {
+			texture = 1
+			texture_internal = 5
+			emblem = 0
+			color = 0
+			color = 5
+			color = 2
+		}
+	}
 }
 
 193 = {
