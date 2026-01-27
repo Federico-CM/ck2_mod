@@ -33,8 +33,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_trait_creature_dwarves"
-		texturefile = "gfx/traits/creature_dwarves.dds"
+		name = "GFX_trait_creature_dwarf"
+		texturefile = "gfx/traits/creature_dwarf.dds"
 		noOfFrames = 1
 		norefcount = yes
 		effectFile = "gfx/FX/buttonstate.lua"

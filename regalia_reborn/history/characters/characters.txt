@@ -702,17 +702,20 @@
 		death = 370.1.1
 	}
 	dynasty = 9
+	father = 1087
 
-	diplomacy = 12
-	martial = 7
-	stewardship = 12
+	diplomacy = 5
+	martial = 5
+	stewardship = 5
 	intrigue = 5
-	learning = 10
+	learning = 5
 	add_trait = "creature_ailor"
-	add_trait = "mastermind_theologian"
-	add_trait = "chaste"
-	add_trait = "patient"
-	add_trait = "hunter"
+	add_trait = "skilled_tactician"
+	add_trait = "twin"
+	add_trait = "trickster"
+	add_trait = "genius"
+	add_trait = "diligent"
+	add_trait = "ambitious"
 	disallow_random_traits = yes
 }
 
@@ -5033,6 +5036,7 @@
 		death = 238.1.1
 	}
 	dynasty = 9
+	father = 1090
 	add_trait = "creature_ailor"
 }
 
@@ -14493,6 +14497,7 @@
 		death = 300.1.1
 	}
 	dynasty = 9
+	father = 1089
 	add_trait = "creature_ailor"
 }
 
@@ -17753,6 +17758,7 @@
 		death = 370.1.1
 	}
 	dynasty = 9
+	father = 1087
 
 	diplomacy = 5
 	martial = 5
@@ -17761,6 +17767,7 @@
 	learning = 5
 	add_trait = "creature_ailor"
 	add_trait = "skilled_tactician"
+	add_trait = "twin"
 	add_trait = "trickster"
 	add_trait = "genius"
 	add_trait = "diligent"
@@ -21535,19 +21542,21 @@
 	381.1.1 = {
 		death = 381.1.1
 	}
+	father = 1085
 	dynasty = 191
 
-	diplomacy = 5
-	martial = 8
-	stewardship = 9
-	intrigue = 6
-	learning = 8
+	diplomacy = 10
+	martial = 6
+	stewardship = 7
+	intrigue = 7
+	learning = 7
 	add_trait = "creature_ailor"
-	add_trait = "tough_soldier"
-	add_trait = "light_foot_leader"
-	add_trait = "erudite"
-	add_trait = "proud"
-	add_trait = "robust"
+	add_trait = "grey_eminence"
+	add_trait = "diligent"
+	add_trait = "shrewd"
+	add_trait = "ambitious"
+	add_trait = "legit_bastard"
+
 	disallow_random_traits = yes
 }
 
@@ -25438,17 +25447,16 @@
 	}
 	dynasty = 195
 
-	diplomacy = 11
+	diplomacy = 13
 	martial = 5
 	stewardship = 5
-	intrigue = 9
-	learning = 8
+	intrigue = 5
+	learning = 5
 	add_trait = "creature_ailor"
-	add_trait = "scholarly_theologian"
-	add_trait = "kind"
+	add_trait = "charismatic_negotiator"
 	add_trait = "patient"
-	add_trait = "poet"
-	add_trait = "paranoid"
+	add_trait = "humble"
+	add_trait = "cynical"
 	disallow_random_traits = yes
 }
 
@@ -26087,5 +26095,112 @@
 	}
 	dynasty = 192
 
+	add_trait = "creature_skyborn"
+}
+
+1085 = {
+	name = "Syver" # Eidsvik
+	culture = velheim
+	religion = fornoss
+	256.1.1 = {
+		birth = 256.1.1
+	}
+	315.1.1 = {
+		death = 315.1.1
+	}
+	dynasty = 192
+
+	add_trait = "creature_ailor"
+}
+
+1086 = {
+	name = "Yvelisede" # de la Corbière
+	female = yes
+
+	culture = ithanian
+	religion = estelley
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	dynasty = 321
+
+	diplomacy = 10
+	martial = 6
+	stewardship = 7
+	intrigue = 11
+	learning = 12
+	add_trait = "creature_teled"
+	add_trait = "naive_appeaser"
+	add_trait = "mystic"
+	add_trait = "ambitious"
+	add_trait = "patient"
+	add_trait = "proud"
+	disallow_random_traits = yes
+}
+
+1087 = {
+	name = "Clovis" # Braquemont
+	culture = ithanian
+	religion = unionism
+	231.1.1 = {
+		birth = 231.1.1
+	}
+	331.1.1 = {
+		death = 331.1.1
+	}
+	dynasty = 9
+	father = 1089
+
+	add_trait = "creature_ailor"
+}
+
+1088 = {
+	name = "Thibaut" # Braquemont
+	culture = ithanian
+	religion = unionism
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 9
+	father = 1087
+
+	add_trait = "creature_ailor"
+}
+
+1089 = {
+	name = "Raoul" # Braquemont
+	culture = ithanian
+	religion = unionism
+	170.1.1 = {
+		birth = 170.1.1
+	}
+	265.1.1 = {
+		death = 265.1.1
+	}
+	dynasty = 9
+	father = 1090
+
+	add_trait = "creature_ailor"
+}
+
+1090 = {
+	name = "Bertrand" # Braquemont
+	culture = ithanian
+	religion = unionism
+	140.1.1 = {
+		birth = 140.1.1
+	}
+	220.1.1 = {
+		death = 220.1.1
+	}
+	dynasty = 9
+
+	add_trait = "creature_ailor"
 }
 

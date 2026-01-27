@@ -3,7 +3,7 @@ creature_ailor = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -31,7 +31,7 @@ creature_skyborn = {
 		creature_ailor
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -59,7 +59,7 @@ creature_teled = {
 		creature_ailor
 		creature_skyborn
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -87,7 +87,7 @@ creature_sihai = {
 		creature_ailor
 		creature_skyborn
 		creature_teled
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -110,7 +110,7 @@ creature_sihai = {
 	customizer = no
 }
 
-creature_dwarves = {
+creature_dwarf = {
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -144,7 +144,7 @@ creature_dragonkin = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_isldar
 		creature_suvial
 		creature_kathar
@@ -172,7 +172,7 @@ creature_isldar = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_suvial
 		creature_kathar
@@ -200,7 +200,7 @@ creature_suvial = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_kathar
@@ -228,7 +228,7 @@ creature_kathar = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -256,7 +256,7 @@ creature_sihndar = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -284,7 +284,7 @@ creature_selvath = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -312,7 +312,7 @@ creature_yanar = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -340,7 +340,7 @@ creature_asha = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -368,7 +368,7 @@ creature_narim = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -396,7 +396,7 @@ creature_eronidas = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -424,7 +424,7 @@ creature_urlan = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -452,7 +452,7 @@ creature_allar = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -480,7 +480,7 @@ creature_slizzar = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -508,7 +508,7 @@ creature_maraya = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
@@ -536,7 +536,7 @@ creature_bralona = {
 		creature_skyborn
 		creature_teled
 		creature_sihai
-		creature_dwarves
+		creature_dwarf
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
