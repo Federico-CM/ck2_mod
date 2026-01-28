@@ -21204,6 +21204,7 @@
 		death = 386.1.1
 	}
 	dynasty = 178
+	mother = 1091
 
 	diplomacy = 7
 	martial = 6
@@ -21648,6 +21649,7 @@
 		death = 387.1.1
 	}
 	dynasty = 195
+	mother = 1055
 
 	diplomacy = 5
 	martial = 6
@@ -25424,11 +25426,11 @@
 	culture = ithanian
 	religion = unionism
 	female = yes
-	289.1.1 = {
-		birth = 289.1.1
+	266.1.1 = {
+		birth = 266.1.1
 	}
-	391.1.1 = {
-		death = 391.1.1
+	312.1.1 = {
+		death = 312.1.1
 	}
 	dynasty = 195
 	add_trait = "creature_ailor"
@@ -25446,6 +25448,7 @@
 		death = 391.1.1
 	}
 	dynasty = 195
+	mother = 1055
 
 	diplomacy = 13
 	martial = 5
@@ -25471,7 +25474,7 @@
 	410.1.1 = {
 		death = 410.1.1
 	}
-	dynasty = 195
+	dynasty = 44
 	father = 260
 	mother = 722
 	add_trait = "creature_ailor"
@@ -25487,7 +25490,7 @@
 	410.1.1 = {
 		death = 410.1.1
 	}
-	dynasty = 195
+	dynasty = 44
 	father = 260
 	mother = 722
 
@@ -25505,7 +25508,7 @@
 	410.1.1 = {
 		death = 413.1.1
 	}
-	dynasty = 195
+	dynasty = 44
 	father = 260
 	mother = 722
 	add_trait = "creature_ailor"
@@ -25522,7 +25525,7 @@
 	410.1.1 = {
 		death = 413.1.1
 	}
-	dynasty = 195
+	dynasty = 44
 	father = 260
 	mother = 722
 	add_trait = "creature_ailor"
@@ -26204,3 +26207,19 @@
 	add_trait = "creature_ailor"
 }
 
+1087 = {
+	name = "Maria" #  Beauchene
+	female = yes
+
+	culture = ithanian
+	religion = estelley
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 321
+
+	add_trait = "creature_ailor"
+}
