@@ -1,0 +1,288 @@
+8686=
+{
+	name="Sapieha"
+	culture="zvorun"
+}
+
+8687=
+{
+	name="Ostrogski"
+	culture="zvorun"
+}
+
+8688=
+{
+	name="Chodkiewicz"
+	culture="zvorun"
+}
+
+8689=
+{
+	name="Pac"
+	culture="zvorun"
+}
+
+8690=
+{
+	name="Tyszkiewicz"
+	culture="zvorun"
+}
+
+8691=
+{
+	name="Zamoyski"
+	culture="zvorun"
+}
+
+8692=
+{
+	name="Potocki"
+	culture="zvorun"
+}
+
+8693=
+{
+	name="Czartoryski"
+	culture="zvorun"
+}
+
+8694=
+{
+	name="Sanguszko"
+	culture="zvorun"
+}
+
+8695=
+{
+	name="Firlej"
+	culture="zvorun"
+}
+
+8696=
+{
+	name="Kiszka"
+	culture="zvorun"
+}
+
+8697=
+{
+	name="Narbutt"
+	culture="zvorun"
+}
+
+8698=
+{
+	name="Dowgird"
+	culture="zvorun"
+}
+
+8699=
+{
+	name="Rzewuski"
+	culture="zvorun"
+}
+
+8700=
+{
+	name="Korybut"
+	culture="zvorun"
+}
+
+8701=
+{
+	name="Skumin"
+	culture="zvorun"
+}
+
+8702=
+{
+	name="Hlebowicz"
+	culture="zvorun"
+}
+
+8703=
+{
+	name="Massalski"
+	culture="zvorun"
+}
+
+8704=
+{
+	name="Poniatowski"
+	culture="zvorun"
+}
+
+8705=
+{
+	name="Radziszewski"
+	culture="zvorun"
+}
+
+8706=
+{
+	name="Sobieski"
+	culture="zvorun"
+}
+
+8707=
+{
+	name="Komorowski"
+	culture="zvorun"
+}
+
+8708=
+{
+	name="Bogdanowicz"
+	culture="zvorun"
+}
+
+8709=
+{
+	name="Iwanowski"
+	culture="zvorun"
+}
+
+8710=
+{
+	name="Kmicic"
+	culture="zvorun"
+}
+
+8711=
+{
+	name="Mieleszko"
+	culture="zvorun"
+}
+
+8712=
+{
+	name="Niemcewicz"
+	culture="zvorun"
+}
+
+8713=
+{
+	name="Plater"
+	culture="zvorun"
+}
+
+8714=
+{
+	name="Rokitnicki"
+	culture="zvorun"
+}
+
+8715=
+{
+	name="Skoruta"
+	culture="zvorun"
+}
+
+8716=
+{
+	name="Szczuka"
+	culture="zvorun"
+}
+
+8717=
+{
+	name="Tarnowski"
+	culture="zvorun"
+}
+
+8718=
+{
+	name="Zborowski"
+	culture="zvorun"
+}
+
+8719=
+{
+	name="Czartoryski"
+	culture="zvorun"
+}
+
+8720=
+{
+	name="Potocki"
+	culture="zvorun"
+}
+
+8721=
+{
+	name="Sapieha"
+	culture="zvorun"
+}
+
+8722=
+{
+	name="Zamoyski"
+	culture="zvorun"
+}
+
+8723=
+{
+	name="Ostrogski"
+	culture="zvorun"
+}
+
+8724=
+{
+	name="Chodkiewicz"
+	culture="zvorun"
+}
+
+8725=
+{
+	name="Poniatowski"
+	culture="zvorun"
+}
+
+8726=
+{
+	name="Branicki"
+	culture="zvorun"
+}
+
+8727=
+{
+	name="Tarnowski"
+	culture="zvorun"
+}
+
+8728=
+{
+	name="Rzewuski"
+	culture="zvorun"
+}
+
+8729=
+{
+	name="Sobieski"
+	culture="zvorun"
+}
+
+8730=
+{
+	name="Sanguszko"
+	culture="zvorun"
+}
+
+8731=
+{
+	name="Firlej"
+	culture="zvorun"
+}
+
+8732=
+{
+	name="Pac"
+	culture="zvorun"
+}
+
+8733=
+{
+	name="Krasicki"
+	culture="zvorun"
+}
+

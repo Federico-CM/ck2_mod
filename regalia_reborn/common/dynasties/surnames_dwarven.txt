@@ -1,0 +1,1002 @@
+6247=
+{
+	name="Ironbeard"
+	culture="dwarven"
+}
+
+6248=
+{
+	name="Stonehelm"
+	culture="dwarven"
+}
+
+6249=
+{
+	name="Goldhand"
+	culture="dwarven"
+}
+
+6250=
+{
+	name="Deepdelve"
+	culture="dwarven"
+}
+
+6251=
+{
+	name="Bronzeforge"
+	culture="dwarven"
+}
+
+6252=
+{
+	name="Steelshield"
+	culture="dwarven"
+}
+
+6253=
+{
+	name="Granitefist"
+	culture="dwarven"
+}
+
+6254=
+{
+	name="Runebeard"
+	culture="dwarven"
+}
+
+6255=
+{
+	name="Hammerfall"
+	culture="dwarven"
+}
+
+6256=
+{
+	name="Oathstone"
+	culture="dwarven"
+}
+
+6257=
+{
+	name="Fireanvil"
+	culture="dwarven"
+}
+
+6258=
+{
+	name="Blackrock"
+	culture="dwarven"
+}
+
+6259=
+{
+	name="Strongpick"
+	culture="dwarven"
+}
+
+6260=
+{
+	name="Deepvault"
+	culture="dwarven"
+}
+
+6261=
+{
+	name="Stonevein"
+	culture="dwarven"
+}
+
+6262=
+{
+	name="Forgefather"
+	culture="dwarven"
+}
+
+6263=
+{
+	name="Ironmantle"
+	culture="dwarven"
+}
+
+6264=
+{
+	name="Goldvein"
+	culture="dwarven"
+}
+
+6265=
+{
+	name="Anvilborn"
+	culture="dwarven"
+}
+
+6266=
+{
+	name="Rockwarden"
+	culture="dwarven"
+}
+
+6267=
+{
+	name="Earthshaper"
+	culture="dwarven"
+}
+
+6268=
+{
+	name="Steelvein"
+	culture="dwarven"
+}
+
+6269=
+{
+	name="Hammerdeep"
+	culture="dwarven"
+}
+
+6270=
+{
+	name="Stoneward"
+	culture="dwarven"
+}
+
+6271=
+{
+	name="Runeforge"
+	culture="dwarven"
+}
+
+6272=
+{
+	name="Deepstone"
+	culture="dwarven"
+}
+
+6273=
+{
+	name="Firebeard"
+	culture="dwarven"
+}
+
+6274=
+{
+	name="Bronzebeard"
+	culture="dwarven"
+}
+
+6275=
+{
+	name="Goldbeard"
+	culture="dwarven"
+}
+
+6276=
+{
+	name="Ironfist"
+	culture="dwarven"
+}
+
+6277=
+{
+	name="Stonefist"
+	culture="dwarven"
+}
+
+6278=
+{
+	name="Rockhammer"
+	culture="dwarven"
+}
+
+6279=
+{
+	name="Anvilheart"
+	culture="dwarven"
+}
+
+6280=
+{
+	name="Forgehelm"
+	culture="dwarven"
+}
+
+6281=
+{
+	name="Deepanvil"
+	culture="dwarven"
+}
+
+6282=
+{
+	name="Grimdelver"
+	culture="dwarven"
+}
+
+6283=
+{
+	name="Steelhand"
+	culture="dwarven"
+}
+
+6284=
+{
+	name="Orekeeper"
+	culture="dwarven"
+}
+
+6285=
+{
+	name="Vaultwarden"
+	culture="dwarven"
+}
+
+6286=
+{
+	name="Stonecrown"
+	culture="dwarven"
+}
+
+6287=
+{
+	name="Runekeeper"
+	culture="dwarven"
+}
+
+6288=
+{
+	name="Ironwarden"
+	culture="dwarven"
+}
+
+6289=
+{
+	name="Deepforge"
+	culture="dwarven"
+}
+
+6290=
+{
+	name="Blackanvil"
+	culture="dwarven"
+}
+
+6291=
+{
+	name="Bronzeshield"
+	culture="dwarven"
+}
+
+6292=
+{
+	name="Goldshield"
+	culture="dwarven"
+}
+
+6293=
+{
+	name="Stonecarver"
+	culture="dwarven"
+}
+
+6294=
+{
+	name="Earthwarden"
+	culture="dwarven"
+}
+
+6295=
+{
+	name="Forgebrand"
+	culture="dwarven"
+}
+
+6296=
+{
+	name="Granithelm"
+	culture="dwarven"
+}
+
+6297=
+{
+	name="Steelbeard"
+	culture="dwarven"
+}
+
+6298=
+{
+	name="Rockvein"
+	culture="dwarven"
+}
+
+6299=
+{
+	name="Hammerward"
+	culture="dwarven"
+}
+
+6300=
+{
+	name="Deepwarden"
+	culture="dwarven"
+}
+
+6301=
+{
+	name="Ironbrand"
+	culture="dwarven"
+}
+
+6302=
+{
+	name="Runestone"
+	culture="dwarven"
+}
+
+6303=
+{
+	name="Stonebrand"
+	culture="dwarven"
+}
+
+6304=
+{
+	name="Firehammer"
+	culture="dwarven"
+}
+
+6305=
+{
+	name="Bronzefist"
+	culture="dwarven"
+}
+
+6306=
+{
+	name="Goldfist"
+	culture="dwarven"
+}
+
+6307=
+{
+	name="Anvilwarden"
+	culture="dwarven"
+}
+
+6308=
+{
+	name="Deepcrown"
+	culture="dwarven"
+}
+
+6309=
+{
+	name="Rockshield"
+	culture="dwarven"
+}
+
+6310=
+{
+	name="Steelcrown"
+	culture="dwarven"
+}
+
+6311=
+{
+	name="Forgeguard"
+	culture="dwarven"
+}
+
+6312=
+{
+	name="Ironvault"
+	culture="dwarven"
+}
+
+6313=
+{
+	name="Stonevault"
+	culture="dwarven"
+}
+
+6314=
+{
+	name="Goldvault"
+	culture="dwarven"
+}
+
+6315=
+{
+	name="Bronzevault"
+	culture="dwarven"
+}
+
+6316=
+{
+	name="Deepguard"
+	culture="dwarven"
+}
+
+6317=
+{
+	name="Rockguard"
+	culture="dwarven"
+}
+
+6318=
+{
+	name="Hammerguard"
+	culture="dwarven"
+}
+
+6319=
+{
+	name="Forgeguard"
+	culture="dwarven"
+}
+
+6320=
+{
+	name="Stoneguard"
+	culture="dwarven"
+}
+
+6321=
+{
+	name="Ironguard"
+	culture="dwarven"
+}
+
+6322=
+{
+	name="Runeguard"
+	culture="dwarven"
+}
+
+6323=
+{
+	name="Deepbeard"
+	culture="dwarven"
+}
+
+6324=
+{
+	name="Earthbeard"
+	culture="dwarven"
+}
+
+6325=
+{
+	name="Firebeard"
+	culture="dwarven"
+}
+
+6326=
+{
+	name="Grimbeard"
+	culture="dwarven"
+}
+
+6327=
+{
+	name="Anvilbeard"
+	culture="dwarven"
+}
+
+6328=
+{
+	name="Stonebeard"
+	culture="dwarven"
+}
+
+6329=
+{
+	name="Steelbeard"
+	culture="dwarven"
+}
+
+6330=
+{
+	name="Bronzebeard"
+	culture="dwarven"
+}
+
+6331=
+{
+	name="Goldbeard"
+	culture="dwarven"
+}
+
+6332=
+{
+	name="Rockbeard"
+	culture="dwarven"
+}
+
+6333=
+{
+	name="Hammerbeard"
+	culture="dwarven"
+}
+
+6334=
+{
+	name="Forgebeard"
+	culture="dwarven"
+}
+
+6335=
+{
+	name="Deepdelver"
+	culture="dwarven"
+}
+
+6336=
+{
+	name="Rockdelver"
+	culture="dwarven"
+}
+
+6337=
+{
+	name="Oredelver"
+	culture="dwarven"
+}
+
+6338=
+{
+	name="Goldfinder"
+	culture="dwarven"
+}
+
+6339=
+{
+	name="Ironfinder"
+	culture="dwarven"
+}
+
+6340=
+{
+	name="Stonefinder"
+	culture="dwarven"
+}
+
+6341=
+{
+	name="Deepfinder"
+	culture="dwarven"
+}
+
+6342=
+{
+	name="Forgefinder"
+	culture="dwarven"
+}
+
+6343=
+{
+	name="Vaultfinder"
+	culture="dwarven"
+}
+
+6344=
+{
+	name="Anvilfinder"
+	culture="dwarven"
+}
+
+6345=
+{
+	name="Stonebreaker"
+	culture="dwarven"
+}
+
+6346=
+{
+	name="Rockbreaker"
+	culture="dwarven"
+}
+
+6347=
+{
+	name="Ironbreaker"
+	culture="dwarven"
+}
+
+6348=
+{
+	name="Steelbreaker"
+	culture="dwarven"
+}
+
+6349=
+{
+	name="Hammerbreaker"
+	culture="dwarven"
+}
+
+6350=
+{
+	name="Forgebreaker"
+	culture="dwarven"
+}
+
+6351=
+{
+	name="Deepbreaker"
+	culture="dwarven"
+}
+
+6352=
+{
+	name="Earthbreaker"
+	culture="dwarven"
+}
+
+6353=
+{
+	name="Anvilbreaker"
+	culture="dwarven"
+}
+
+6354=
+{
+	name="Stoneforged"
+	culture="dwarven"
+}
+
+6355=
+{
+	name="Ironforged"
+	culture="dwarven"
+}
+
+6356=
+{
+	name="Steelforged"
+	culture="dwarven"
+}
+
+6357=
+{
+	name="Bronzeforged"
+	culture="dwarven"
+}
+
+6358=
+{
+	name="Goldforged"
+	culture="dwarven"
+}
+
+6359=
+{
+	name="Fireforged"
+	culture="dwarven"
+}
+
+6360=
+{
+	name="Deepforged"
+	culture="dwarven"
+}
+
+6361=
+{
+	name="Runeforged"
+	culture="dwarven"
+}
+
+6362=
+{
+	name="Earthforged"
+	culture="dwarven"
+}
+
+6363=
+{
+	name="Anvilforged"
+	culture="dwarven"
+}
+
+6364=
+{
+	name="Stonehewer"
+	culture="dwarven"
+}
+
+6365=
+{
+	name="Rockhewer"
+	culture="dwarven"
+}
+
+6366=
+{
+	name="Ironhewer"
+	culture="dwarven"
+}
+
+6367=
+{
+	name="Steelhewer"
+	culture="dwarven"
+}
+
+6368=
+{
+	name="Bronzehewer"
+	culture="dwarven"
+}
+
+6369=
+{
+	name="Goldhewer"
+	culture="dwarven"
+}
+
+6370=
+{
+	name="Deephewer"
+	culture="dwarven"
+}
+
+6371=
+{
+	name="Forgehewer"
+	culture="dwarven"
+}
+
+6372=
+{
+	name="Vaulthewer"
+	culture="dwarven"
+}
+
+6373=
+{
+	name="Anvilhewer"
+	culture="dwarven"
+}
+
+6374=
+{
+	name="Stonewarder"
+	culture="dwarven"
+}
+
+6375=
+{
+	name="Ironwarder"
+	culture="dwarven"
+}
+
+6376=
+{
+	name="Steelwarder"
+	culture="dwarven"
+}
+
+6377=
+{
+	name="Bronzewarder"
+	culture="dwarven"
+}
+
+6378=
+{
+	name="Goldwarder"
+	culture="dwarven"
+}
+
+6379=
+{
+	name="Deepwarder"
+	culture="dwarven"
+}
+
+6380=
+{
+	name="Forgewarder"
+	culture="dwarven"
+}
+
+6381=
+{
+	name="Vaultwarder"
+	culture="dwarven"
+}
+
+6382=
+{
+	name="Runewarder"
+	culture="dwarven"
+}
+
+6383=
+{
+	name="Anvilwarder"
+	culture="dwarven"
+}
+
+6384=
+{
+	name="Stonekeeper"
+	culture="dwarven"
+}
+
+6385=
+{
+	name="Ironkeeper"
+	culture="dwarven"
+}
+
+6386=
+{
+	name="Goldkeeper"
+	culture="dwarven"
+}
+
+6387=
+{
+	name="Forgekeeper"
+	culture="dwarven"
+}
+
+6388=
+{
+	name="Vaultkeeper"
+	culture="dwarven"
+}
+
+6389=
+{
+	name="Runeholder"
+	culture="dwarven"
+}
+
+6390=
+{
+	name="Oathkeeper"
+	culture="dwarven"
+}
+
+6391=
+{
+	name="Hallkeeper"
+	culture="dwarven"
+}
+
+6392=
+{
+	name="Deepkeeper"
+	culture="dwarven"
+}
+
+6393=
+{
+	name="Anvilkeeper"
+	culture="dwarven"
+}
+
+6394=
+{
+	name="Stonecutter"
+	culture="dwarven"
+}
+
+6395=
+{
+	name="Ironcutter"
+	culture="dwarven"
+}
+
+6396=
+{
+	name="Goldcutter"
+	culture="dwarven"
+}
+
+6397=
+{
+	name="Forgecutter"
+	culture="dwarven"
+}
+
+6398=
+{
+	name="Rockcutter"
+	culture="dwarven"
+}
+
+6399=
+{
+	name="Deepcutter"
+	culture="dwarven"
+}
+
+6400=
+{
+	name="Steelcutter"
+	culture="dwarven"
+}
+
+6401=
+{
+	name="Bronzecutter"
+	culture="dwarven"
+}
+
+6402=
+{
+	name="Anvilcutter"
+	culture="dwarven"
+}
+
+6403=
+{
+	name="Runecutter"
+	culture="dwarven"
+}
+
+6404=
+{
+	name="Stonecaller"
+	culture="dwarven"
+}
+
+6405=
+{
+	name="Ironcaller"
+	culture="dwarven"
+}
+
+6406=
+{
+	name="Forgecaller"
+	culture="dwarven"
+}
+
+6407=
+{
+	name="Deepcaller"
+	culture="dwarven"
+}
+
+6408=
+{
+	name="Anvilcaller"
+	culture="dwarven"
+}
+
+6409=
+{
+	name="Rockcaller"
+	culture="dwarven"
+}
+
+6410=
+{
+	name="Goldcaller"
+	culture="dwarven"
+}
+
+6411=
+{
+	name="Runevoice"
+	culture="dwarven"
+}
+
+6412=
+{
+	name="Earthvoice"
+	culture="dwarven"
+}
+
+6413=
+{
+	name="Hammercall"
+	culture="dwarven"
+}
+

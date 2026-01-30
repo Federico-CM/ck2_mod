@@ -1,0 +1,1122 @@
+6574=
+{
+	name="Selven"
+	culture="teled"
+}
+
+6575=
+{
+	name="Eylen"
+	culture="teled"
+}
+
+6576=
+{
+	name="Arvila"
+	culture="teled"
+}
+
+6577=
+{
+	name="Caloren"
+	culture="teled"
+}
+
+6578=
+{
+	name="Isendal"
+	culture="teled"
+}
+
+6579=
+{
+	name="Valessa"
+	culture="teled"
+}
+
+6580=
+{
+	name="Lorandel"
+	culture="teled"
+}
+
+6581=
+{
+	name="Mariven"
+	culture="teled"
+}
+
+6582=
+{
+	name="Solarya"
+	culture="teled"
+}
+
+6583=
+{
+	name="Envaril"
+	culture="teled"
+}
+
+6584=
+{
+	name="Talinor"
+	culture="teled"
+}
+
+6585=
+{
+	name="Ravella"
+	culture="teled"
+}
+
+6586=
+{
+	name="Silvaren"
+	culture="teled"
+}
+
+6587=
+{
+	name="Alveron"
+	culture="teled"
+}
+
+6588=
+{
+	name="Miraval"
+	culture="teled"
+}
+
+6589=
+{
+	name="Estalen"
+	culture="teled"
+}
+
+6590=
+{
+	name="Ceravel"
+	culture="teled"
+}
+
+6591=
+{
+	name="Novella"
+	culture="teled"
+}
+
+6592=
+{
+	name="Ismoren"
+	culture="teled"
+}
+
+6593=
+{
+	name="Valenor"
+	culture="teled"
+}
+
+6594=
+{
+	name="Saliera"
+	culture="teled"
+}
+
+6595=
+{
+	name="Dariven"
+	culture="teled"
+}
+
+6596=
+{
+	name="Orlisen"
+	culture="teled"
+}
+
+6597=
+{
+	name="Navarel"
+	culture="teled"
+}
+
+6598=
+{
+	name="Esvarin"
+	culture="teled"
+}
+
+6599=
+{
+	name="Lumessa"
+	culture="teled"
+}
+
+6600=
+{
+	name="Rosenil"
+	culture="teled"
+}
+
+6601=
+{
+	name="Maliven"
+	culture="teled"
+}
+
+6602=
+{
+	name="Talorin"
+	culture="teled"
+}
+
+6603=
+{
+	name="Sevaris"
+	culture="teled"
+}
+
+6604=
+{
+	name="Caliven"
+	culture="teled"
+}
+
+6605=
+{
+	name="Isavera"
+	culture="teled"
+}
+
+6606=
+{
+	name="Lanorel"
+	culture="teled"
+}
+
+6607=
+{
+	name="Morisel"
+	culture="teled"
+}
+
+6608=
+{
+	name="Valorin"
+	culture="teled"
+}
+
+6609=
+{
+	name="Elvaris"
+	culture="teled"
+}
+
+6610=
+{
+	name="Salenor"
+	culture="teled"
+}
+
+6611=
+{
+	name="Ravinel"
+	culture="teled"
+}
+
+6612=
+{
+	name="Danoril"
+	culture="teled"
+}
+
+6613=
+{
+	name="Silessa"
+	culture="teled"
+}
+
+6614=
+{
+	name="Arvenor"
+	culture="teled"
+}
+
+6615=
+{
+	name="Estavela"
+	culture="teled"
+}
+
+6616=
+{
+	name="Navilen"
+	culture="teled"
+}
+
+6617=
+{
+	name="Corisel"
+	culture="teled"
+}
+
+6618=
+{
+	name="Malorin"
+	culture="teled"
+}
+
+6619=
+{
+	name="Soliven"
+	culture="teled"
+}
+
+6620=
+{
+	name="Ismaril"
+	culture="teled"
+}
+
+6621=
+{
+	name="Velanor"
+	culture="teled"
+}
+
+6622=
+{
+	name="Rosella"
+	culture="teled"
+}
+
+6623=
+{
+	name="Calorin"
+	culture="teled"
+}
+
+6624=
+{
+	name="Daravel"
+	culture="teled"
+}
+
+6625=
+{
+	name="Selanor"
+	culture="teled"
+}
+
+6626=
+{
+	name="Mirisel"
+	culture="teled"
+}
+
+6627=
+{
+	name="Alenor"
+	culture="teled"
+}
+
+6628=
+{
+	name="Virella"
+	culture="teled"
+}
+
+6629=
+{
+	name="Taliven"
+	culture="teled"
+}
+
+6630=
+{
+	name="Esmeril"
+	culture="teled"
+}
+
+6631=
+{
+	name="Navessa"
+	culture="teled"
+}
+
+6632=
+{
+	name="Loriven"
+	culture="teled"
+}
+
+6633=
+{
+	name="Salorin"
+	culture="teled"
+}
+
+6634=
+{
+	name="Isvenor"
+	culture="teled"
+}
+
+6635=
+{
+	name="Marisel"
+	culture="teled"
+}
+
+6636=
+{
+	name="Valessa"
+	culture="teled"
+}
+
+6637=
+{
+	name="Elanil"
+	culture="teled"
+}
+
+6638=
+{
+	name="Ravelor"
+	culture="teled"
+}
+
+6639=
+{
+	name="Danessa"
+	culture="teled"
+}
+
+6640=
+{
+	name="Solanor"
+	culture="teled"
+}
+
+6641=
+{
+	name="Arisel"
+	culture="teled"
+}
+
+6642=
+{
+	name="Calessa"
+	culture="teled"
+}
+
+6643=
+{
+	name="Moriven"
+	culture="teled"
+}
+
+6644=
+{
+	name="Lanorin"
+	culture="teled"
+}
+
+6645=
+{
+	name="Selvara"
+	culture="teled"
+}
+
+6646=
+{
+	name="Isloren"
+	culture="teled"
+}
+
+6647=
+{
+	name="Navisel"
+	culture="teled"
+}
+
+6648=
+{
+	name="Talessa"
+	culture="teled"
+}
+
+6649=
+{
+	name="Velorin"
+	culture="teled"
+}
+
+6650=
+{
+	name="Rosiven"
+	culture="teled"
+}
+
+6651=
+{
+	name="Darorin"
+	culture="teled"
+}
+
+6652=
+{
+	name="Alessa"
+	culture="teled"
+}
+
+6653=
+{
+	name="Miralen"
+	culture="teled"
+}
+
+6654=
+{
+	name="Solvara"
+	culture="teled"
+}
+
+6655=
+{
+	name="Esnorel"
+	culture="teled"
+}
+
+6656=
+{
+	name="Valorin"
+	culture="teled"
+}
+
+6657=
+{
+	name="Sariven"
+	culture="teled"
+}
+
+6658=
+{
+	name="Calenor"
+	culture="teled"
+}
+
+6659=
+{
+	name="Ismessa"
+	culture="teled"
+}
+
+6660=
+{
+	name="Lorisel"
+	culture="teled"
+}
+
+6661=
+{
+	name="Navanor"
+	culture="teled"
+}
+
+6662=
+{
+	name="Mariven"
+	culture="teled"
+}
+
+6663=
+{
+	name="Elessa"
+	culture="teled"
+}
+
+6664=
+{
+	name="Talorin"
+	culture="teled"
+}
+
+6665=
+{
+	name="Rosenor"
+	culture="teled"
+}
+
+6666=
+{
+	name="Darisel"
+	culture="teled"
+}
+
+6667=
+{
+	name="Solessa"
+	culture="teled"
+}
+
+6668=
+{
+	name="Arvilen"
+	culture="teled"
+}
+
+6669=
+{
+	name="Calorin"
+	culture="teled"
+}
+
+6670=
+{
+	name="Moressa"
+	culture="teled"
+}
+
+6671=
+{
+	name="Lanivel"
+	culture="teled"
+}
+
+6672=
+{
+	name="Selorin"
+	culture="teled"
+}
+
+6673=
+{
+	name="Isarela"
+	culture="teled"
+}
+
+6674=
+{
+	name="Naviren"
+	culture="teled"
+}
+
+6675=
+{
+	name="Valessa"
+	culture="teled"
+}
+
+6676=
+{
+	name="Mirisel"
+	culture="teled"
+}
+
+6677=
+{
+	name="Elorin"
+	culture="teled"
+}
+
+6678=
+{
+	name="Savilen"
+	culture="teled"
+}
+
+6679=
+{
+	name="Danorel"
+	culture="teled"
+}
+
+6680=
+{
+	name="Rosessa"
+	culture="teled"
+}
+
+6681=
+{
+	name="Taliven"
+	culture="teled"
+}
+
+6682=
+{
+	name="Esvaril"
+	culture="teled"
+}
+
+6683=
+{
+	name="Calessa"
+	culture="teled"
+}
+
+6684=
+{
+	name="Marorin"
+	culture="teled"
+}
+
+6685=
+{
+	name="Isvenel"
+	culture="teled"
+}
+
+6686=
+{
+	name="Navella"
+	culture="teled"
+}
+
+6687=
+{
+	name="Lororin"
+	culture="teled"
+}
+
+6688=
+{
+	name="Soliven"
+	culture="teled"
+}
+
+6689=
+{
+	name="Arisella"
+	culture="teled"
+}
+
+6690=
+{
+	name="Darivel"
+	culture="teled"
+}
+
+6691=
+{
+	name="Selorin"
+	culture="teled"
+}
+
+6692=
+{
+	name="Velessa"
+	culture="teled"
+}
+
+6693=
+{
+	name="Morisel"
+	culture="teled"
+}
+
+6694=
+{
+	name="Talorin"
+	culture="teled"
+}
+
+6695=
+{
+	name="Ismarin"
+	culture="teled"
+}
+
+6696=
+{
+	name="Navorel"
+	culture="teled"
+}
+
+6697=
+{
+	name="Caliven"
+	culture="teled"
+}
+
+6698=
+{
+	name="Roselin"
+	culture="teled"
+}
+
+6699=
+{
+	name="Lanessa"
+	culture="teled"
+}
+
+6700=
+{
+	name="Solorin"
+	culture="teled"
+}
+
+6701=
+{
+	name="Eliven"
+	culture="teled"
+}
+
+6702=
+{
+	name="Darorin"
+	culture="teled"
+}
+
+6703=
+{
+	name="Valenel"
+	culture="teled"
+}
+
+6704=
+{
+	name="Saressa"
+	culture="teled"
+}
+
+6705=
+{
+	name="Mirorin"
+	culture="teled"
+}
+
+6706=
+{
+	name="Isalven"
+	culture="teled"
+}
+
+6707=
+{
+	name="Navisel"
+	culture="teled"
+}
+
+6708=
+{
+	name="Calorin"
+	culture="teled"
+}
+
+6709=
+{
+	name="Rosessa"
+	culture="teled"
+}
+
+6710=
+{
+	name="Taliven"
+	culture="teled"
+}
+
+6711=
+{
+	name="Moralen"
+	culture="teled"
+}
+
+6712=
+{
+	name="Selessa"
+	culture="teled"
+}
+
+6713=
+{
+	name="Velorin"
+	culture="teled"
+}
+
+6714=
+{
+	name="Danisel"
+	culture="teled"
+}
+
+6715=
+{
+	name="Solessa"
+	culture="teled"
+}
+
+6716=
+{
+	name="Arvenil"
+	culture="teled"
+}
+
+6717=
+{
+	name="Lororin"
+	culture="teled"
+}
+
+6718=
+{
+	name="Isvarel"
+	culture="teled"
+}
+
+6719=
+{
+	name="Navalen"
+	culture="teled"
+}
+
+6720=
+{
+	name="Maressa"
+	culture="teled"
+}
+
+6721=
+{
+	name="Calorin"
+	culture="teled"
+}
+
+6722=
+{
+	name="Rosiven"
+	culture="teled"
+}
+
+6723=
+{
+	name="Talorin"
+	culture="teled"
+}
+
+6724=
+{
+	name="Elvarin"
+	culture="teled"
+}
+
+6725=
+{
+	name="Daressa"
+	culture="teled"
+}
+
+6726=
+{
+	name="Solorin"
+	culture="teled"
+}
+
+6727=
+{
+	name="Isnorel"
+	culture="teled"
+}
+
+6728=
+{
+	name="Navessa"
+	culture="teled"
+}
+
+6729=
+{
+	name="Miriven"
+	culture="teled"
+}
+
+6730=
+{
+	name="Selorin"
+	culture="teled"
+}
+
+6731=
+{
+	name="Valessa"
+	culture="teled"
+}
+
+6732=
+{
+	name="Lanisel"
+	culture="teled"
+}
+
+6733=
+{
+	name="Calorin"
+	culture="teled"
+}
+
+6734=
+{
+	name="Roselin"
+	culture="teled"
+}
+
+6735=
+{
+	name="Taliven"
+	culture="teled"
+}
+
+6736=
+{
+	name="Mororin"
+	culture="teled"
+}
+
+6737=
+{
+	name="Solessa"
+	culture="teled"
+}
+
+6738=
+{
+	name="Isaril"
+	culture="teled"
+}
+
+6739=
+{
+	name="Navorel"
+	culture="teled"
+}
+
+6740=
+{
+	name="Dariven"
+	culture="teled"
+}
+
+6741=
+{
+	name="Elessa"
+	culture="teled"
+}
+
+6742=
+{
+	name="Selorin"
+	culture="teled"
+}
+
+6743=
+{
+	name="Velorin"
+	culture="teled"
+}
+
+6744=
+{
+	name="Calessa"
+	culture="teled"
+}
+
+6745=
+{
+	name="Marivel"
+	culture="teled"
+}
+
+6746=
+{
+	name="Rosessa"
+	culture="teled"
+}
+
+6747=
+{
+	name="Talorin"
+	culture="teled"
+}
+
+6748=
+{
+	name="Isvenil"
+	culture="teled"
+}
+
+6749=
+{
+	name="Navessa"
+	culture="teled"
+}
+
+6750=
+{
+	name="Solorin"
+	culture="teled"
+}
+
+6751=
+{
+	name="Arisel"
+	culture="teled"
+}
+
+6752=
+{
+	name="Loressa"
+	culture="teled"
+}
+
+6753=
+{
+	name="Valorin"
+	culture="teled"
+}
+
+6754=
+{
+	name="Darorin"
+	culture="teled"
+}
+
+6755=
+{
+	name="Caliven"
+	culture="teled"
+}
+
+6756=
+{
+	name="Rosiven"
+	culture="teled"
+}
+
+6757=
+{
+	name="Talessa"
+	culture="teled"
+}
+
+6758=
+{
+	name="Mirorin"
+	culture="teled"
+}
+
+6759=
+{
+	name="Selorin"
+	culture="teled"
+}
+
+6760=
+{
+	name="Isalven"
+	culture="teled"
+}
+

@@ -1,0 +1,342 @@
+8043=
+{
+	name="Nowak"
+	culture="wruclav"
+}
+
+8044=
+{
+	name="Kowalski"
+	culture="wruclav"
+}
+
+8045=
+{
+	name="Kowalczyk"
+	culture="wruclav"
+}
+
+8046=
+{
+	name="Lewandowski"
+	culture="wruclav"
+}
+
+8047=
+{
+	name="Jankowski"
+	culture="wruclav"
+}
+
+8048=
+{
+	name="Mazur"
+	culture="wruclav"
+}
+
+8049=
+{
+	name="Kwiatkowski"
+	culture="wruclav"
+}
+
+8050=
+{
+	name="Krawczyk"
+	culture="wruclav"
+}
+
+8051=
+{
+	name="Kaczmarek"
+	culture="wruclav"
+}
+
+8052=
+{
+	name="Piotrowski"
+	culture="wruclav"
+}
+
+8053=
+{
+	name="Grabowski"
+	culture="wruclav"
+}
+
+8054=
+{
+	name="Michalski"
+	culture="wruclav"
+}
+
+8055=
+{
+	name="Wieczorek"
+	culture="wruclav"
+}
+
+8056=
+{
+	name="Nowicki"
+	culture="wruclav"
+}
+
+8057=
+{
+	name="Majewski"
+	culture="wruclav"
+}
+
+8058=
+{
+	name="Olszewski"
+	culture="wruclav"
+}
+
+8059=
+{
+	name="Duda"
+	culture="wruclav"
+}
+
+8060=
+{
+	name="Jaworski"
+	culture="wruclav"
+}
+
+8061=
+{
+	name="Malinowski"
+	culture="wruclav"
+}
+
+8062=
+{
+	name="Pawlak"
+	culture="wruclav"
+}
+
+8063=
+{
+	name="Piasecki"
+	culture="wruclav"
+}
+
+8064=
+{
+	name="Baran"
+	culture="wruclav"
+}
+
+8065=
+{
+	name="Sikora"
+	culture="wruclav"
+}
+
+8066=
+{
+	name="Walczak"
+	culture="wruclav"
+}
+
+8067=
+{
+	name="Czarnecki"
+	culture="wruclav"
+}
+
+8068=
+{
+	name="Kubiak"
+	culture="wruclav"
+}
+
+8069=
+{
+	name="Sawicki"
+	culture="wruclav"
+}
+
+8070=
+{
+	name="Lis"
+	culture="wruclav"
+}
+
+8071=
+{
+	name="Chmielewski"
+	culture="wruclav"
+}
+
+8072=
+{
+	name="Szewczyk"
+	culture="wruclav"
+}
+
+8073=
+{
+	name="Kalinowski"
+	culture="wruclav"
+}
+
+8074=
+{
+	name="Mazurek"
+	culture="wruclav"
+}
+
+8075=
+{
+	name="Witkowski"
+	culture="wruclav"
+}
+
+8076=
+{
+	name="Adamczyk"
+	culture="wruclav"
+}
+
+8077=
+{
+	name="Zawadzki"
+	culture="wruclav"
+}
+
+8078=
+{
+	name="Piekarski"
+	culture="wruclav"
+}
+
+8079=
+{
+	name="Borkowski"
+	culture="wruclav"
+}
+
+8080=
+{
+	name="Rutkowski"
+	culture="wruclav"
+}
+
+8081=
+{
+	name="Kurek"
+	culture="wruclav"
+}
+
+8082=
+{
+	name="Marciniak"
+	culture="wruclav"
+}
+
+8083=
+{
+	name="Bednarek"
+	culture="wruclav"
+}
+
+8084=
+{
+	name="Romanowski"
+	culture="wruclav"
+}
+
+8085=
+{
+	name="Madej"
+	culture="wruclav"
+}
+
+8086=
+{
+	name="Sobczak"
+	culture="wruclav"
+}
+
+8087=
+{
+	name="Wilk"
+	culture="wruclav"
+}
+
+8088=
+{
+	name="Dziedzic"
+	culture="wruclav"
+}
+
+8089=
+{
+	name="Maciejewski"
+	culture="wruclav"
+}
+
+8090=
+{
+	name="Szulc"
+	culture="wruclav"
+}
+
+8091=
+{
+	name="Kaczor"
+	culture="wruclav"
+}
+
+8092=
+{
+	name="Przybylski"
+	culture="wruclav"
+}
+
+8093=
+{
+	name="Krupa"
+	culture="wruclav"
+}
+
+8094=
+{
+	name="Gajewski"
+	culture="wruclav"
+}
+
+8095=
+{
+	name="Sadowski"
+	culture="wruclav"
+}
+
+8096=
+{
+	name="Kot"
+	culture="wruclav"
+}
+
+8097=
+{
+	name="Urban"
+	culture="wruclav"
+}
+
+8098=
+{
+	name="Janik"
+	culture="wruclav"
+}
+
+8099=
+{
+	name="Kurowski"
+	culture="wruclav"
+}
+

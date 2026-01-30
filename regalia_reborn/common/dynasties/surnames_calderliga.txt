@@ -1,0 +1,270 @@
+8734=
+{
+	name="Danziger"
+	culture="calderliga"
+}
+
+8735=
+{
+	name="Rostock"
+	culture="calderliga"
+}
+
+8736=
+{
+	name="Wismar"
+	culture="calderliga"
+}
+
+8737=
+{
+	name="Greifswald"
+	culture="calderliga"
+}
+
+8738=
+{
+	name="Stralsund"
+	culture="calderliga"
+}
+
+8739=
+{
+	name="Kolberg"
+	culture="calderliga"
+}
+
+8740=
+{
+	name="Elbing"
+	culture="calderliga"
+}
+
+8741=
+{
+	name="Stettin"
+	culture="calderliga"
+}
+
+8742=
+{
+	name="Reval"
+	culture="calderliga"
+}
+
+8743=
+{
+	name="Riga"
+	culture="calderliga"
+}
+
+8744=
+{
+	name="Visby"
+	culture="calderliga"
+}
+
+8745=
+{
+	name="Gotlander"
+	culture="calderliga"
+}
+
+8746=
+{
+	name="Holsteiner"
+	culture="calderliga"
+}
+
+8747=
+{
+	name="Mecklen"
+	culture="calderliga"
+}
+
+8748=
+{
+	name="Oldenburg"
+	culture="calderliga"
+}
+
+8749=
+{
+	name="Bremermann"
+	culture="calderliga"
+}
+
+8750=
+{
+	name="Hamburger"
+	culture="calderliga"
+}
+
+8751=
+{
+	name="Westphal"
+	culture="calderliga"
+}
+
+8752=
+{
+	name="Sachsen"
+	culture="calderliga"
+}
+
+8753=
+{
+	name="Pommer"
+	culture="calderliga"
+}
+
+8754=
+{
+	name="Preusser"
+	culture="calderliga"
+}
+
+8755=
+{
+	name="Friesen"
+	culture="calderliga"
+}
+
+8756=
+{
+	name="VanDamme"
+	culture="calderliga"
+}
+
+8757=
+{
+	name="VanBrugge"
+	culture="calderliga"
+}
+
+8758=
+{
+	name="VanGent"
+	culture="calderliga"
+}
+
+8759=
+{
+	name="VanKampen"
+	culture="calderliga"
+}
+
+8760=
+{
+	name="DeHaan"
+	culture="calderliga"
+}
+
+8761=
+{
+	name="DeVries"
+	culture="calderliga"
+}
+
+8762=
+{
+	name="Claessen"
+	culture="calderliga"
+}
+
+8763=
+{
+	name="Janssen"
+	culture="calderliga"
+}
+
+8764=
+{
+	name="Petersen"
+	culture="calderliga"
+}
+
+8765=
+{
+	name="Andersen"
+	culture="calderliga"
+}
+
+8766=
+{
+	name="Olsson"
+	culture="calderliga"
+}
+
+8767=
+{
+	name="Larsson"
+	culture="calderliga"
+}
+
+8768=
+{
+	name="Nilsson"
+	culture="calderliga"
+}
+
+8769=
+{
+	name="Knudsen"
+	culture="calderliga"
+}
+
+8770=
+{
+	name="Bjornstad"
+	culture="calderliga"
+}
+
+8771=
+{
+	name="Lindholm"
+	culture="calderliga"
+}
+
+8772=
+{
+	name="Falkenberg"
+	culture="calderliga"
+}
+
+8773=
+{
+	name="Greve"
+	culture="calderliga"
+}
+
+8774=
+{
+	name="Kaufmann"
+	culture="calderliga"
+}
+
+8775=
+{
+	name="Handels"
+	culture="calderliga"
+}
+
+8776=
+{
+	name="Seefahrer"
+	culture="calderliga"
+}
+
+8777=
+{
+	name="Schiffer"
+	culture="calderliga"
+}
+
+8778=
+{
+	name="Zollner"
+	culture="calderliga"
+}
+

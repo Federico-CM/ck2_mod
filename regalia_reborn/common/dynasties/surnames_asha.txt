@@ -1,0 +1,498 @@
+8100=
+{
+	name="Amenhotep"
+	culture="asha"
+}
+
+8101=
+{
+	name="Ankhef"
+	culture="asha"
+}
+
+8102=
+{
+	name="Ankhmahor"
+	culture="asha"
+}
+
+8103=
+{
+	name="Ankhtifi"
+	culture="asha"
+}
+
+8104=
+{
+	name="Atumemheb"
+	culture="asha"
+}
+
+8105=
+{
+	name="Bakenkhonsu"
+	culture="asha"
+}
+
+8106=
+{
+	name="Djedefhor"
+	culture="asha"
+}
+
+8107=
+{
+	name="Djedefre"
+	culture="asha"
+}
+
+8108=
+{
+	name="Djehutyemheb"
+	culture="asha"
+}
+
+8109=
+{
+	name="Djoserankh"
+	culture="asha"
+}
+
+8110=
+{
+	name="Hapuseneb"
+	culture="asha"
+}
+
+8111=
+{
+	name="Harkhuf"
+	culture="asha"
+}
+
+8112=
+{
+	name="Hekaib"
+	culture="asha"
+}
+
+8113=
+{
+	name="Hemaka"
+	culture="asha"
+}
+
+8114=
+{
+	name="Horemheb"
+	culture="asha"
+}
+
+8115=
+{
+	name="Idu"
+	culture="asha"
+}
+
+8116=
+{
+	name="Irsu"
+	culture="asha"
+}
+
+8117=
+{
+	name="Iyerniutef"
+	culture="asha"
+}
+
+8118=
+{
+	name="Kaaper"
+	culture="asha"
+}
+
+8119=
+{
+	name="Kagemni"
+	culture="asha"
+}
+
+8120=
+{
+	name="Khaba"
+	culture="asha"
+}
+
+8121=
+{
+	name="Khaemwaset"
+	culture="asha"
+}
+
+8122=
+{
+	name="Khafre"
+	culture="asha"
+}
+
+8123=
+{
+	name="Kheti"
+	culture="asha"
+}
+
+8124=
+{
+	name="Khnummose"
+	culture="asha"
+}
+
+8125=
+{
+	name="Mahuhy"
+	culture="asha"
+}
+
+8126=
+{
+	name="Meketre"
+	culture="asha"
+}
+
+8127=
+{
+	name="Mereruka"
+	culture="asha"
+}
+
+8128=
+{
+	name="Meriptah"
+	culture="asha"
+}
+
+8129=
+{
+	name="Meryre"
+	culture="asha"
+}
+
+8130=
+{
+	name="Montuemhat"
+	culture="asha"
+}
+
+8131=
+{
+	name="Nakht"
+	culture="asha"
+}
+
+8132=
+{
+	name="Nebamun"
+	culture="asha"
+}
+
+8133=
+{
+	name="Nebet"
+	culture="asha"
+}
+
+8134=
+{
+	name="Nebhotep"
+	culture="asha"
+}
+
+8135=
+{
+	name="Nebitka"
+	culture="asha"
+}
+
+8136=
+{
+	name="Neferhotep"
+	culture="asha"
+}
+
+8137=
+{
+	name="Nefermaat"
+	culture="asha"
+}
+
+8138=
+{
+	name="Nefermenu"
+	culture="asha"
+}
+
+8139=
+{
+	name="Neferu"
+	culture="asha"
+}
+
+8140=
+{
+	name="Niankhkhnum"
+	culture="asha"
+}
+
+8141=
+{
+	name="Nikaure"
+	culture="asha"
+}
+
+8142=
+{
+	name="Pairy"
+	culture="asha"
+}
+
+8143=
+{
+	name="Paser"
+	culture="asha"
+}
+
+8144=
+{
+	name="Ptahhotep"
+	culture="asha"
+}
+
+8145=
+{
+	name="Rahotep"
+	culture="asha"
+}
+
+8146=
+{
+	name="Ramose"
+	culture="asha"
+}
+
+8147=
+{
+	name="Rekhmire"
+	culture="asha"
+}
+
+8148=
+{
+	name="Sabni"
+	culture="asha"
+}
+
+8149=
+{
+	name="Sahure"
+	culture="asha"
+}
+
+8150=
+{
+	name="Sennefer"
+	culture="asha"
+}
+
+8151=
+{
+	name="Seshatnefer"
+	culture="asha"
+}
+
+8152=
+{
+	name="Shepseskaf"
+	culture="asha"
+}
+
+8153=
+{
+	name="Siamun"
+	culture="asha"
+}
+
+8154=
+{
+	name="Sobekhotep"
+	culture="asha"
+}
+
+8155=
+{
+	name="Tia"
+	culture="asha"
+}
+
+8156=
+{
+	name="Tjay"
+	culture="asha"
+}
+
+8157=
+{
+	name="To"
+	culture="asha"
+}
+
+8158=
+{
+	name="Tutu"
+	culture="asha"
+}
+
+8159=
+{
+	name="Udjahorresnet"
+	culture="asha"
+}
+
+8160=
+{
+	name="Uni"
+	culture="asha"
+}
+
+8161=
+{
+	name="Usermontu"
+	culture="asha"
+}
+
+8162=
+{
+	name="Wah"
+	culture="asha"
+}
+
+8163=
+{
+	name="Weni"
+	culture="asha"
+}
+
+8164=
+{
+	name="Werner"
+	culture="asha"
+}
+
+8165=
+{
+	name="Yam"
+	culture="asha"
+}
+
+8166=
+{
+	name="Yanhamu"
+	culture="asha"
+}
+
+8167=
+{
+	name="Zau"
+	culture="asha"
+}
+
+8168=
+{
+	name="Zazamankh"
+	culture="asha"
+}
+
+8169=
+{
+	name="Ahmose"
+	culture="asha"
+}
+
+8170=
+{
+	name="Antef"
+	culture="asha"
+}
+
+8171=
+{
+	name="Bek"
+	culture="asha"
+}
+
+8172=
+{
+	name="Hori"
+	culture="asha"
+}
+
+8173=
+{
+	name="Ipy"
+	culture="asha"
+}
+
+8174=
+{
+	name="Kawab"
+	culture="asha"
+}
+
+8175=
+{
+	name="Menna"
+	culture="asha"
+}
+
+8176=
+{
+	name="Minmose"
+	culture="asha"
+}
+
+8177=
+{
+	name="Neferrenpet"
+	culture="asha"
+}
+
+8178=
+{
+	name="Pay"
+	culture="asha"
+}
+
+8179=
+{
+	name="Qar"
+	culture="asha"
+}
+
+8180=
+{
+	name="Senbi"
+	culture="asha"
+}
+
+8181=
+{
+	name="Suty"
+	culture="asha"
+}
+
+8182=
+{
+	name="Thutmose"
+	culture="asha"
+}
+

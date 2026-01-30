@@ -1,0 +1,72 @@
+9256=
+{
+	name="Svoboda"
+	culture="zemevcel"
+}
+
+9257=
+{
+	name="Marek"
+	culture="zemevcel"
+}
+
+9258=
+{
+	name="Fiala"
+	culture="zemevcel"
+}
+
+9259=
+{
+	name="Urban"
+	culture="zemevcel"
+}
+
+9260=
+{
+	name="Zeman"
+	culture="zemevcel"
+}
+
+9261=
+{
+	name="Kadlec"
+	culture="zemevcel"
+}
+
+9262=
+{
+	name="Toman"
+	culture="zemevcel"
+}
+
+9263=
+{
+	name="Mach"
+	culture="zemevcel"
+}
+
+9264=
+{
+	name="Janda"
+	culture="zemevcel"
+}
+
+9265=
+{
+	name="Holub"
+	culture="zemevcel"
+}
+
+9266=
+{
+	name="Soukup"
+	culture="zemevcel"
+}
+
+9267=
+{
+	name="Moravec"
+	culture="zemevcel"
+}
+

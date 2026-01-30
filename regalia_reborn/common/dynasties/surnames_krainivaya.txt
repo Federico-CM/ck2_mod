@@ -1,0 +1,300 @@
+8593=
+{
+	name="Shevchenko"
+	culture="krainivaya"
+}
+
+8594=
+{
+	name="Kovalenko"
+	culture="krainivaya"
+}
+
+8595=
+{
+	name="Bondarenko"
+	culture="krainivaya"
+}
+
+8596=
+{
+	name="Tkachenko"
+	culture="krainivaya"
+}
+
+8597=
+{
+	name="Kravchenko"
+	culture="krainivaya"
+}
+
+8598=
+{
+	name="Marchenko"
+	culture="krainivaya"
+}
+
+8599=
+{
+	name="Melnyk"
+	culture="krainivaya"
+}
+
+8600=
+{
+	name="Boyko"
+	culture="krainivaya"
+}
+
+8601=
+{
+	name="Kozak"
+	culture="krainivaya"
+}
+
+8602=
+{
+	name="Moroz"
+	culture="krainivaya"
+}
+
+8603=
+{
+	name="Lysenko"
+	culture="krainivaya"
+}
+
+8604=
+{
+	name="Rudenko"
+	culture="krainivaya"
+}
+
+8605=
+{
+	name="Petrenko"
+	culture="krainivaya"
+}
+
+8606=
+{
+	name="Hrytsenko"
+	culture="krainivaya"
+}
+
+8607=
+{
+	name="Polishchuk"
+	culture="krainivaya"
+}
+
+8608=
+{
+	name="Zakharchenko"
+	culture="krainivaya"
+}
+
+8609=
+{
+	name="Panchenko"
+	culture="krainivaya"
+}
+
+8610=
+{
+	name="Yaremchuk"
+	culture="krainivaya"
+}
+
+8611=
+{
+	name="Honchar"
+	culture="krainivaya"
+}
+
+8612=
+{
+	name="Didyk"
+	culture="krainivaya"
+}
+
+8613=
+{
+	name="Pavlenko"
+	culture="krainivaya"
+}
+
+8614=
+{
+	name="Romanyuk"
+	culture="krainivaya"
+}
+
+8615=
+{
+	name="Klymenko"
+	culture="krainivaya"
+}
+
+8616=
+{
+	name="Chornyi"
+	culture="krainivaya"
+}
+
+8617=
+{
+	name="Bilous"
+	culture="krainivaya"
+}
+
+8618=
+{
+	name="Holub"
+	culture="krainivaya"
+}
+
+8619=
+{
+	name="Zayets"
+	culture="krainivaya"
+}
+
+8620=
+{
+	name="Skrypnyk"
+	culture="krainivaya"
+}
+
+8621=
+{
+	name="Oliynyk"
+	culture="krainivaya"
+}
+
+8622=
+{
+	name="Vasylenko"
+	culture="krainivaya"
+}
+
+8623=
+{
+	name="Danylenko"
+	culture="krainivaya"
+}
+
+8624=
+{
+	name="Levchenko"
+	culture="krainivaya"
+}
+
+8625=
+{
+	name="Sytnyk"
+	culture="krainivaya"
+}
+
+8626=
+{
+	name="Turchyn"
+	culture="krainivaya"
+}
+
+8627=
+{
+	name="Berezenko"
+	culture="krainivaya"
+}
+
+8628=
+{
+	name="Nyzhnyk"
+	culture="krainivaya"
+}
+
+8629=
+{
+	name="Kucher"
+	culture="krainivaya"
+}
+
+8630=
+{
+	name="Horobets"
+	culture="krainivaya"
+}
+
+8631=
+{
+	name="Fedorenko"
+	culture="krainivaya"
+}
+
+8632=
+{
+	name="Mykhailenko"
+	culture="krainivaya"
+}
+
+8633=
+{
+	name="Soroka"
+	culture="krainivaya"
+}
+
+8634=
+{
+	name="Shapoval"
+	culture="krainivaya"
+}
+
+8635=
+{
+	name="Kostenko"
+	culture="krainivaya"
+}
+
+8636=
+{
+	name="Yevtushenko"
+	culture="krainivaya"
+}
+
+8637=
+{
+	name="Matviyenko"
+	culture="krainivaya"
+}
+
+8638=
+{
+	name="Petryshyn"
+	culture="krainivaya"
+}
+
+8639=
+{
+	name="Voitenko"
+	culture="krainivaya"
+}
+
+8640=
+{
+	name="Yakymenko"
+	culture="krainivaya"
+}
+
+8641=
+{
+	name="Ostapenko"
+	culture="krainivaya"
+}
+
+8642=
+{
+	name="Halushka"
+	culture="krainivaya"
+}
+

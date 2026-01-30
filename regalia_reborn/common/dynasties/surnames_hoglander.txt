@@ -1,0 +1,210 @@
+8008=
+{
+	name="Lindberg"
+	culture="hoglander"
+}
+
+8009=
+{
+	name="Holmgren"
+	culture="hoglander"
+}
+
+8010=
+{
+	name="Lundqvist"
+	culture="hoglander"
+}
+
+8011=
+{
+	name="Sandberg"
+	culture="hoglander"
+}
+
+8012=
+{
+	name="Berglund"
+	culture="hoglander"
+}
+
+8013=
+{
+	name="Norberg"
+	culture="hoglander"
+}
+
+8014=
+{
+	name="Forsberg"
+	culture="hoglander"
+}
+
+8015=
+{
+	name="Lindholm"
+	culture="hoglander"
+}
+
+8016=
+{
+	name="Rosengren"
+	culture="hoglander"
+}
+
+8017=
+{
+	name="Blomqvist"
+	culture="hoglander"
+}
+
+8018=
+{
+	name="Strandberg"
+	culture="hoglander"
+}
+
+8019=
+{
+	name="Almgren"
+	culture="hoglander"
+}
+
+8020=
+{
+	name="Bergman"
+	culture="hoglander"
+}
+
+8021=
+{
+	name="Sundberg"
+	culture="hoglander"
+}
+
+8022=
+{
+	name="Ljungberg"
+	culture="hoglander"
+}
+
+8023=
+{
+	name="Wallgren"
+	culture="hoglander"
+}
+
+8024=
+{
+	name="Granlund"
+	culture="hoglander"
+}
+
+8025=
+{
+	name="Kjellberg"
+	culture="hoglander"
+}
+
+8026=
+{
+	name="Falkenberg"
+	culture="hoglander"
+}
+
+8027=
+{
+	name="Nyberg"
+	culture="hoglander"
+}
+
+8028=
+{
+	name="Silverberg"
+	culture="hoglander"
+}
+
+8029=
+{
+	name="Stormberg"
+	culture="hoglander"
+}
+
+8030=
+{
+	name="Frostberg"
+	culture="hoglander"
+}
+
+8031=
+{
+	name="Ekdahl"
+	culture="hoglander"
+}
+
+8032=
+{
+	name="Lindgren"
+	culture="hoglander"
+}
+
+8033=
+{
+	name="Hammarberg"
+	culture="hoglander"
+}
+
+8034=
+{
+	name="Skoglund"
+	culture="hoglander"
+}
+
+8035=
+{
+	name="Vinterberg"
+	culture="hoglander"
+}
+
+8036=
+{
+	name="Nordmark"
+	culture="hoglander"
+}
+
+8037=
+{
+	name="Stenlund"
+	culture="hoglander"
+}
+
+8038=
+{
+	name="Solberg"
+	culture="hoglander"
+}
+
+8039=
+{
+	name="Vallgren"
+	culture="hoglander"
+}
+
+8040=
+{
+	name="Rosenberg"
+	culture="hoglander"
+}
+
+8041=
+{
+	name="Fjellmark"
+	culture="hoglander"
+}
+
+8042=
+{
+	name="Brattberg"
+	culture="hoglander"
+}
+

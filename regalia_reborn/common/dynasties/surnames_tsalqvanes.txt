@@ -1,0 +1,300 @@
+9401=
+{
+	name="Beridze"
+	culture="tsalqvanes"
+}
+
+9402=
+{
+	name="Gogoladze"
+	culture="tsalqvanes"
+}
+
+9403=
+{
+	name="Chkheidze"
+	culture="tsalqvanes"
+}
+
+9404=
+{
+	name="Kalandadze"
+	culture="tsalqvanes"
+}
+
+9405=
+{
+	name="Maisuradze"
+	culture="tsalqvanes"
+}
+
+9406=
+{
+	name="Gabunia"
+	culture="tsalqvanes"
+}
+
+9407=
+{
+	name="Khutsishvili"
+	culture="tsalqvanes"
+}
+
+9408=
+{
+	name="Mikadze"
+	culture="tsalqvanes"
+}
+
+9409=
+{
+	name="Lomidze"
+	culture="tsalqvanes"
+}
+
+9410=
+{
+	name="Gelashvili"
+	culture="tsalqvanes"
+}
+
+9411=
+{
+	name="Tsiklauri"
+	culture="tsalqvanes"
+}
+
+9412=
+{
+	name="Kiknadze"
+	culture="tsalqvanes"
+}
+
+9413=
+{
+	name="Japaridze"
+	culture="tsalqvanes"
+}
+
+9414=
+{
+	name="Makharadze"
+	culture="tsalqvanes"
+}
+
+9415=
+{
+	name="Abashidze"
+	culture="tsalqvanes"
+}
+
+9416=
+{
+	name="Chavchavadze"
+	culture="tsalqvanes"
+}
+
+9417=
+{
+	name="Amilakhvari"
+	culture="tsalqvanes"
+}
+
+9418=
+{
+	name="Dadiani"
+	culture="tsalqvanes"
+}
+
+9419=
+{
+	name="Guramishvili"
+	culture="tsalqvanes"
+}
+
+9420=
+{
+	name="Baramidze"
+	culture="tsalqvanes"
+}
+
+9421=
+{
+	name="Tsereteli"
+	culture="tsalqvanes"
+}
+
+9422=
+{
+	name="Orbeliani"
+	culture="tsalqvanes"
+}
+
+9423=
+{
+	name="Machavariani"
+	culture="tsalqvanes"
+}
+
+9424=
+{
+	name="Akhaladze"
+	culture="tsalqvanes"
+}
+
+9425=
+{
+	name="Sharvashidze"
+	culture="tsalqvanes"
+}
+
+9426=
+{
+	name="Papashvili"
+	culture="tsalqvanes"
+}
+
+9427=
+{
+	name="Melikishvili"
+	culture="tsalqvanes"
+}
+
+9428=
+{
+	name="Nadareishvili"
+	culture="tsalqvanes"
+}
+
+9429=
+{
+	name="Kobaladze"
+	culture="tsalqvanes"
+}
+
+9430=
+{
+	name="Kvitsiani"
+	culture="tsalqvanes"
+}
+
+9431=
+{
+	name="Lortkipanidze"
+	culture="tsalqvanes"
+}
+
+9432=
+{
+	name="Tsitsishvili"
+	culture="tsalqvanes"
+}
+
+9433=
+{
+	name="Eristavi"
+	culture="tsalqvanes"
+}
+
+9434=
+{
+	name="Zurabishvili"
+	culture="tsalqvanes"
+}
+
+9435=
+{
+	name="Mchedlishvili"
+	culture="tsalqvanes"
+}
+
+9436=
+{
+	name="Khmaladze"
+	culture="tsalqvanes"
+}
+
+9437=
+{
+	name="Imnadze"
+	culture="tsalqvanes"
+}
+
+9438=
+{
+	name="Vashakidze"
+	culture="tsalqvanes"
+}
+
+9439=
+{
+	name="Tavartkiladze"
+	culture="tsalqvanes"
+}
+
+9440=
+{
+	name="Tevdoradze"
+	culture="tsalqvanes"
+}
+
+9441=
+{
+	name="Bakradze"
+	culture="tsalqvanes"
+}
+
+9442=
+{
+	name="Revazishvili"
+	culture="tsalqvanes"
+}
+
+9443=
+{
+	name="Kharabadze"
+	culture="tsalqvanes"
+}
+
+9444=
+{
+	name="Begashvili"
+	culture="tsalqvanes"
+}
+
+9445=
+{
+	name="Cheishvili"
+	culture="tsalqvanes"
+}
+
+9446=
+{
+	name="Tsuladze"
+	culture="tsalqvanes"
+}
+
+9447=
+{
+	name="Okruashvili"
+	culture="tsalqvanes"
+}
+
+9448=
+{
+	name="Khomeriki"
+	culture="tsalqvanes"
+}
+
+9449=
+{
+	name="Arabuli"
+	culture="tsalqvanes"
+}
+
+9450=
+{
+	name="Margvelashvili"
+	culture="tsalqvanes"
+}
+

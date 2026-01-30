@@ -1,0 +1,276 @@
+8460=
+{
+	name="Silva"
+	culture="bragacao"
+}
+
+8461=
+{
+	name="Sousa"
+	culture="bragacao"
+}
+
+8462=
+{
+	name="Pereira"
+	culture="bragacao"
+}
+
+8463=
+{
+	name="Almeida"
+	culture="bragacao"
+}
+
+8464=
+{
+	name="Costa"
+	culture="bragacao"
+}
+
+8465=
+{
+	name="Rodrigues"
+	culture="bragacao"
+}
+
+8466=
+{
+	name="Martins"
+	culture="bragacao"
+}
+
+8467=
+{
+	name="Fernandes"
+	culture="bragacao"
+}
+
+8468=
+{
+	name="Lopes"
+	culture="bragacao"
+}
+
+8469=
+{
+	name="Gomes"
+	culture="bragacao"
+}
+
+8470=
+{
+	name="Ribeiro"
+	culture="bragacao"
+}
+
+8471=
+{
+	name="Carvalho"
+	culture="bragacao"
+}
+
+8472=
+{
+	name="Rocha"
+	culture="bragacao"
+}
+
+8473=
+{
+	name="Teixeira"
+	culture="bragacao"
+}
+
+8474=
+{
+	name="Moreira"
+	culture="bragacao"
+}
+
+8475=
+{
+	name="Pinto"
+	culture="bragacao"
+}
+
+8476=
+{
+	name="Nogueira"
+	culture="bragacao"
+}
+
+8477=
+{
+	name="Barbosa"
+	culture="bragacao"
+}
+
+8478=
+{
+	name="Monteiro"
+	culture="bragacao"
+}
+
+8479=
+{
+	name="Macedo"
+	culture="bragacao"
+}
+
+8480=
+{
+	name="Correia"
+	culture="bragacao"
+}
+
+8481=
+{
+	name="Figueiredo"
+	culture="bragacao"
+}
+
+8482=
+{
+	name="Tavares"
+	culture="bragacao"
+}
+
+8483=
+{
+	name="Vieira"
+	culture="bragacao"
+}
+
+8484=
+{
+	name="Freitas"
+	culture="bragacao"
+}
+
+8485=
+{
+	name="Moura"
+	culture="bragacao"
+}
+
+8486=
+{
+	name="Peixoto"
+	culture="bragacao"
+}
+
+8487=
+{
+	name="Castro"
+	culture="bragacao"
+}
+
+8488=
+{
+	name="Cunha"
+	culture="bragacao"
+}
+
+8489=
+{
+	name="Ramos"
+	culture="bragacao"
+}
+
+8490=
+{
+	name="Azevedo"
+	culture="bragacao"
+}
+
+8491=
+{
+	name="Leite"
+	culture="bragacao"
+}
+
+8492=
+{
+	name="Coelho"
+	culture="bragacao"
+}
+
+8493=
+{
+	name="Sampaio"
+	culture="bragacao"
+}
+
+8494=
+{
+	name="Pacheco"
+	culture="bragacao"
+}
+
+8495=
+{
+	name="Valente"
+	culture="bragacao"
+}
+
+8496=
+{
+	name="Brito"
+	culture="bragacao"
+}
+
+8497=
+{
+	name="Antunes"
+	culture="bragacao"
+}
+
+8498=
+{
+	name="Fonseca"
+	culture="bragacao"
+}
+
+8499=
+{
+	name="Amaral"
+	culture="bragacao"
+}
+
+8500=
+{
+	name="Vasconcelos"
+	culture="bragacao"
+}
+
+8501=
+{
+	name="Lacerda"
+	culture="bragacao"
+}
+
+8502=
+{
+	name="Torres"
+	culture="bragacao"
+}
+
+8503=
+{
+	name="Faria"
+	culture="bragacao"
+}
+
+8504=
+{
+	name="Henriques"
+	culture="bragacao"
+}
+
+8505=
+{
+	name="Morais"
+	culture="bragacao"
+}
+

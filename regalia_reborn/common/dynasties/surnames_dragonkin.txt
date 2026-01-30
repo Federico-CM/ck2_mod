@@ -1,0 +1,300 @@
+8861=
+{
+	name="Keita"
+	culture="dragonkin"
+}
+
+8862=
+{
+	name="Toure"
+	culture="dragonkin"
+}
+
+8863=
+{
+	name="Traore"
+	culture="dragonkin"
+}
+
+8864=
+{
+	name="Diarra"
+	culture="dragonkin"
+}
+
+8865=
+{
+	name="Konate"
+	culture="dragonkin"
+}
+
+8866=
+{
+	name="Cisse"
+	culture="dragonkin"
+}
+
+8867=
+{
+	name="Camara"
+	culture="dragonkin"
+}
+
+8868=
+{
+	name="Kante"
+	culture="dragonkin"
+}
+
+8869=
+{
+	name="Kouyate"
+	culture="dragonkin"
+}
+
+8870=
+{
+	name="Sissoko"
+	culture="dragonkin"
+}
+
+8871=
+{
+	name="Doumbia"
+	culture="dragonkin"
+}
+
+8872=
+{
+	name="Dabo"
+	culture="dragonkin"
+}
+
+8873=
+{
+	name="Fofana"
+	culture="dragonkin"
+}
+
+8874=
+{
+	name="Sidibe"
+	culture="dragonkin"
+}
+
+8875=
+{
+	name="Coulibaly"
+	culture="dragonkin"
+}
+
+8876=
+{
+	name="Bamba"
+	culture="dragonkin"
+}
+
+8877=
+{
+	name="Bagayogo"
+	culture="dragonkin"
+}
+
+8878=
+{
+	name="Sanogo"
+	culture="dragonkin"
+}
+
+8879=
+{
+	name="Dembele"
+	culture="dragonkin"
+}
+
+8880=
+{
+	name="Samake"
+	culture="dragonkin"
+}
+
+8881=
+{
+	name="Maiga"
+	culture="dragonkin"
+}
+
+8882=
+{
+	name="Diallo"
+	culture="dragonkin"
+}
+
+8883=
+{
+	name="Barry"
+	culture="dragonkin"
+}
+
+8884=
+{
+	name="Sow"
+	culture="dragonkin"
+}
+
+8885=
+{
+	name="Sylla"
+	culture="dragonkin"
+}
+
+8886=
+{
+	name="Jallow"
+	culture="dragonkin"
+}
+
+8887=
+{
+	name="Kaba"
+	culture="dragonkin"
+}
+
+8888=
+{
+	name="Yattara"
+	culture="dragonkin"
+}
+
+8889=
+{
+	name="Kone"
+	culture="dragonkin"
+}
+
+8890=
+{
+	name="Soumare"
+	culture="dragonkin"
+}
+
+8891=
+{
+	name="Diawara"
+	culture="dragonkin"
+}
+
+8892=
+{
+	name="Magassa"
+	culture="dragonkin"
+}
+
+8893=
+{
+	name="Tandia"
+	culture="dragonkin"
+}
+
+8894=
+{
+	name="Diakite"
+	culture="dragonkin"
+}
+
+8895=
+{
+	name="Sangare"
+	culture="dragonkin"
+}
+
+8896=
+{
+	name="Togola"
+	culture="dragonkin"
+}
+
+8897=
+{
+	name="Kourouma"
+	culture="dragonkin"
+}
+
+8898=
+{
+	name="Dante"
+	culture="dragonkin"
+}
+
+8899=
+{
+	name="Sako"
+	culture="dragonkin"
+}
+
+8900=
+{
+	name="Karamoko"
+	culture="dragonkin"
+}
+
+8901=
+{
+	name="Fadiga"
+	culture="dragonkin"
+}
+
+8902=
+{
+	name="Tunkara"
+	culture="dragonkin"
+}
+
+8903=
+{
+	name="Kamissoko"
+	culture="dragonkin"
+}
+
+8904=
+{
+	name="Berete"
+	culture="dragonkin"
+}
+
+8905=
+{
+	name="Niare"
+	culture="dragonkin"
+}
+
+8906=
+{
+	name="Sangho"
+	culture="dragonkin"
+}
+
+8907=
+{
+	name="Demba"
+	culture="dragonkin"
+}
+
+8908=
+{
+	name="Balla"
+	culture="dragonkin"
+}
+
+8909=
+{
+	name="Tiemoko"
+	culture="dragonkin"
+}
+
+8910=
+{
+	name="Diomande"
+	culture="dragonkin"
+}
+

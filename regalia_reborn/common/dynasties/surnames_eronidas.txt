@@ -1,0 +1,264 @@
+8283=
+{
+	name="Alulim"
+	culture="eronidas"
+}
+
+8284=
+{
+	name="Alalngar"
+	culture="eronidas"
+}
+
+8285=
+{
+	name="Dumuzid"
+	culture="eronidas"
+}
+
+8286=
+{
+	name="Lugalbanda"
+	culture="eronidas"
+}
+
+8287=
+{
+	name="Gilgamesh"
+	culture="eronidas"
+}
+
+8288=
+{
+	name="Aga"
+	culture="eronidas"
+}
+
+8289=
+{
+	name="Ur-Nammu"
+	culture="eronidas"
+}
+
+8290=
+{
+	name="Shulgi"
+	culture="eronidas"
+}
+
+8291=
+{
+	name="Amar-Sin"
+	culture="eronidas"
+}
+
+8292=
+{
+	name="Shu-Sin"
+	culture="eronidas"
+}
+
+8293=
+{
+	name="Ibbi-Sin"
+	culture="eronidas"
+}
+
+8294=
+{
+	name="Gudea"
+	culture="eronidas"
+}
+
+8295=
+{
+	name="Eannatum"
+	culture="eronidas"
+}
+
+8296=
+{
+	name="Entemena"
+	culture="eronidas"
+}
+
+8297=
+{
+	name="Lugalzagesi"
+	culture="eronidas"
+}
+
+8298=
+{
+	name="Mesannepada"
+	culture="eronidas"
+}
+
+8299=
+{
+	name="Meskiagnunna"
+	culture="eronidas"
+}
+
+8300=
+{
+	name="Enannatum"
+	culture="eronidas"
+}
+
+8301=
+{
+	name="Urukagina"
+	culture="eronidas"
+}
+
+8302=
+{
+	name="Akurgal"
+	culture="eronidas"
+}
+
+8303=
+{
+	name="Naram-Suen"
+	culture="eronidas"
+}
+
+8304=
+{
+	name="Sargon"
+	culture="eronidas"
+}
+
+8305=
+{
+	name="Rimush"
+	culture="eronidas"
+}
+
+8306=
+{
+	name="Manishtushu"
+	culture="eronidas"
+}
+
+8307=
+{
+	name="Enheduanna"
+	culture="eronidas"
+}
+
+8308=
+{
+	name="Lugalanda"
+	culture="eronidas"
+}
+
+8309=
+{
+	name="Baranamtarra"
+	culture="eronidas"
+}
+
+8310=
+{
+	name="Enlil-bani"
+	culture="eronidas"
+}
+
+8311=
+{
+	name="Ishme-Dagan"
+	culture="eronidas"
+}
+
+8312=
+{
+	name="Sin-Magir"
+	culture="eronidas"
+}
+
+8313=
+{
+	name="Erra-imitti"
+	culture="eronidas"
+}
+
+8314=
+{
+	name="Zimri-Lim"
+	culture="eronidas"
+}
+
+8315=
+{
+	name="Yahdun-Lim"
+	culture="eronidas"
+}
+
+8316=
+{
+	name="Sumu-la-El"
+	culture="eronidas"
+}
+
+8317=
+{
+	name="Ilushu-ilia"
+	culture="eronidas"
+}
+
+8318=
+{
+	name="Ur-Enlil"
+	culture="eronidas"
+}
+
+8319=
+{
+	name="Ur-Ningirsu"
+	culture="eronidas"
+}
+
+8320=
+{
+	name="Namti"
+	culture="eronidas"
+}
+
+8321=
+{
+	name="Nungal"
+	culture="eronidas"
+}
+
+8322=
+{
+	name="Ninsun"
+	culture="eronidas"
+}
+
+8323=
+{
+	name="Ninurta"
+	culture="eronidas"
+}
+
+8324=
+{
+	name="Enki"
+	culture="eronidas"
+}
+
+8325=
+{
+	name="Inanna"
+	culture="eronidas"
+}
+
+8326=
+{
+	name="Utu"
+	culture="eronidas"
+}
+

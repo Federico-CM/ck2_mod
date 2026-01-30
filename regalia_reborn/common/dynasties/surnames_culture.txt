@@ -1,0 +1,18 @@
+8005=
+{
+	name="name"
+	culture="culture"
+}
+
+8006=
+{
+	name="name"
+	culture="culture"
+}
+
+8007=
+{
+	name="name"
+	culture="culture"
+}
+

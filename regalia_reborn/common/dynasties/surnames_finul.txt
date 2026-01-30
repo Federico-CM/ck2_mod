@@ -1,0 +1,1164 @@
+7123=
+{
+	name="Bravel"
+	culture="finul"
+}
+
+7124=
+{
+	name="Salvor"
+	culture="finul"
+}
+
+7125=
+{
+	name="Corvan"
+	culture="finul"
+}
+
+7126=
+{
+	name="Rasnel"
+	culture="finul"
+}
+
+7127=
+{
+	name="Marcos"
+	culture="finul"
+}
+
+7128=
+{
+	name="Torvel"
+	culture="finul"
+}
+
+7129=
+{
+	name="Vandor"
+	culture="finul"
+}
+
+7130=
+{
+	name="Calros"
+	culture="finul"
+}
+
+7131=
+{
+	name="Barlen"
+	culture="finul"
+}
+
+7132=
+{
+	name="Rovalen"
+	culture="finul"
+}
+
+7133=
+{
+	name="Morcan"
+	culture="finul"
+}
+
+7134=
+{
+	name="Selvar"
+	culture="finul"
+}
+
+7135=
+{
+	name="Dravel"
+	culture="finul"
+}
+
+7136=
+{
+	name="Navros"
+	culture="finul"
+}
+
+7137=
+{
+	name="Carven"
+	culture="finul"
+}
+
+7138=
+{
+	name="Raskel"
+	culture="finul"
+}
+
+7139=
+{
+	name="Valcor"
+	culture="finul"
+}
+
+7140=
+{
+	name="Stormel"
+	culture="finul"
+}
+
+7141=
+{
+	name="Marven"
+	culture="finul"
+}
+
+7142=
+{
+	name="Talros"
+	culture="finul"
+}
+
+7143=
+{
+	name="Borcan"
+	culture="finul"
+}
+
+7144=
+{
+	name="Rendal"
+	culture="finul"
+}
+
+7145=
+{
+	name="Salcor"
+	culture="finul"
+}
+
+7146=
+{
+	name="Cravel"
+	culture="finul"
+}
+
+7147=
+{
+	name="Norven"
+	culture="finul"
+}
+
+7148=
+{
+	name="Vaskar"
+	culture="finul"
+}
+
+7149=
+{
+	name="Corlan"
+	culture="finul"
+}
+
+7150=
+{
+	name="Ravros"
+	culture="finul"
+}
+
+7151=
+{
+	name="Malden"
+	culture="finul"
+}
+
+7152=
+{
+	name="Tervan"
+	culture="finul"
+}
+
+7153=
+{
+	name="Barros"
+	culture="finul"
+}
+
+7154=
+{
+	name="Skavel"
+	culture="finul"
+}
+
+7155=
+{
+	name="Navren"
+	culture="finul"
+}
+
+7156=
+{
+	name="Rocan"
+	culture="finul"
+}
+
+7157=
+{
+	name="Valtor"
+	culture="finul"
+}
+
+7158=
+{
+	name="Morvel"
+	culture="finul"
+}
+
+7159=
+{
+	name="Salden"
+	culture="finul"
+}
+
+7160=
+{
+	name="Carros"
+	culture="finul"
+}
+
+7161=
+{
+	name="Raskor"
+	culture="finul"
+}
+
+7162=
+{
+	name="Vandrel"
+	culture="finul"
+}
+
+7163=
+{
+	name="Torcan"
+	culture="finul"
+}
+
+7164=
+{
+	name="Marros"
+	culture="finul"
+}
+
+7165=
+{
+	name="Branor"
+	culture="finul"
+}
+
+7166=
+{
+	name="Selden"
+	culture="finul"
+}
+
+7167=
+{
+	name="Cravan"
+	culture="finul"
+}
+
+7168=
+{
+	name="Norros"
+	culture="finul"
+}
+
+7169=
+{
+	name="Vaskel"
+	culture="finul"
+}
+
+7170=
+{
+	name="Corvan"
+	culture="finul"
+}
+
+7171=
+{
+	name="Ravdel"
+	culture="finul"
+}
+
+7172=
+{
+	name="Malros"
+	culture="finul"
+}
+
+7173=
+{
+	name="Torkan"
+	culture="finul"
+}
+
+7174=
+{
+	name="Barvel"
+	culture="finul"
+}
+
+7175=
+{
+	name="Skoran"
+	culture="finul"
+}
+
+7176=
+{
+	name="Navros"
+	culture="finul"
+}
+
+7177=
+{
+	name="Rocvel"
+	culture="finul"
+}
+
+7178=
+{
+	name="Valden"
+	culture="finul"
+}
+
+7179=
+{
+	name="Morros"
+	culture="finul"
+}
+
+7180=
+{
+	name="Salkan"
+	culture="finul"
+}
+
+7181=
+{
+	name="Carvel"
+	culture="finul"
+}
+
+7182=
+{
+	name="Rasken"
+	culture="finul"
+}
+
+7183=
+{
+	name="Vandor"
+	culture="finul"
+}
+
+7184=
+{
+	name="Torros"
+	culture="finul"
+}
+
+7185=
+{
+	name="Marcan"
+	culture="finul"
+}
+
+7186=
+{
+	name="Bravel"
+	culture="finul"
+}
+
+7187=
+{
+	name="Selros"
+	culture="finul"
+}
+
+7188=
+{
+	name="Cradel"
+	culture="finul"
+}
+
+7189=
+{
+	name="Norcan"
+	culture="finul"
+}
+
+7190=
+{
+	name="Vaskar"
+	culture="finul"
+}
+
+7191=
+{
+	name="Corros"
+	culture="finul"
+}
+
+7192=
+{
+	name="Ravlen"
+	culture="finul"
+}
+
+7193=
+{
+	name="Malcan"
+	culture="finul"
+}
+
+7194=
+{
+	name="Tervel"
+	culture="finul"
+}
+
+7195=
+{
+	name="Barros"
+	culture="finul"
+}
+
+7196=
+{
+	name="Skavel"
+	culture="finul"
+}
+
+7197=
+{
+	name="Navden"
+	culture="finul"
+}
+
+7198=
+{
+	name="Rocros"
+	culture="finul"
+}
+
+7199=
+{
+	name="Valcan"
+	culture="finul"
+}
+
+7200=
+{
+	name="Morlen"
+	culture="finul"
+}
+
+7201=
+{
+	name="Salros"
+	culture="finul"
+}
+
+7202=
+{
+	name="Carcan"
+	culture="finul"
+}
+
+7203=
+{
+	name="Raskor"
+	culture="finul"
+}
+
+7204=
+{
+	name="Vandrel"
+	culture="finul"
+}
+
+7205=
+{
+	name="Torvel"
+	culture="finul"
+}
+
+7206=
+{
+	name="Marros"
+	culture="finul"
+}
+
+7207=
+{
+	name="Branor"
+	culture="finul"
+}
+
+7208=
+{
+	name="Seldor"
+	culture="finul"
+}
+
+7209=
+{
+	name="Cravan"
+	culture="finul"
+}
+
+7210=
+{
+	name="Norros"
+	culture="finul"
+}
+
+7211=
+{
+	name="Vaskel"
+	culture="finul"
+}
+
+7212=
+{
+	name="Corvan"
+	culture="finul"
+}
+
+7213=
+{
+	name="Ravros"
+	culture="finul"
+}
+
+7214=
+{
+	name="Malden"
+	culture="finul"
+}
+
+7215=
+{
+	name="Torkan"
+	culture="finul"
+}
+
+7216=
+{
+	name="Barvel"
+	culture="finul"
+}
+
+7217=
+{
+	name="Skoran"
+	culture="finul"
+}
+
+7218=
+{
+	name="Navros"
+	culture="finul"
+}
+
+7219=
+{
+	name="Rocvel"
+	culture="finul"
+}
+
+7220=
+{
+	name="Valden"
+	culture="finul"
+}
+
+7221=
+{
+	name="Morros"
+	culture="finul"
+}
+
+7222=
+{
+	name="Salkan"
+	culture="finul"
+}
+
+7223=
+{
+	name="Carvel"
+	culture="finul"
+}
+
+7224=
+{
+	name="Rasken"
+	culture="finul"
+}
+
+7225=
+{
+	name="Vandor"
+	culture="finul"
+}
+
+7226=
+{
+	name="Torros"
+	culture="finul"
+}
+
+7227=
+{
+	name="Marcan"
+	culture="finul"
+}
+
+7228=
+{
+	name="Bravel"
+	culture="finul"
+}
+
+7229=
+{
+	name="Selros"
+	culture="finul"
+}
+
+7230=
+{
+	name="Cradel"
+	culture="finul"
+}
+
+7231=
+{
+	name="Norcan"
+	culture="finul"
+}
+
+7232=
+{
+	name="Vaskar"
+	culture="finul"
+}
+
+7233=
+{
+	name="Corros"
+	culture="finul"
+}
+
+7234=
+{
+	name="Ravlen"
+	culture="finul"
+}
+
+7235=
+{
+	name="Malcan"
+	culture="finul"
+}
+
+7236=
+{
+	name="Tervel"
+	culture="finul"
+}
+
+7237=
+{
+	name="Barros"
+	culture="finul"
+}
+
+7238=
+{
+	name="Skavel"
+	culture="finul"
+}
+
+7239=
+{
+	name="Navden"
+	culture="finul"
+}
+
+7240=
+{
+	name="Rocros"
+	culture="finul"
+}
+
+7241=
+{
+	name="Valcan"
+	culture="finul"
+}
+
+7242=
+{
+	name="Morlen"
+	culture="finul"
+}
+
+7243=
+{
+	name="Salros"
+	culture="finul"
+}
+
+7244=
+{
+	name="Carcan"
+	culture="finul"
+}
+
+7245=
+{
+	name="Raskor"
+	culture="finul"
+}
+
+7246=
+{
+	name="Vandrel"
+	culture="finul"
+}
+
+7247=
+{
+	name="Torvel"
+	culture="finul"
+}
+
+7248=
+{
+	name="Marros"
+	culture="finul"
+}
+
+7249=
+{
+	name="Branor"
+	culture="finul"
+}
+
+7250=
+{
+	name="Seldor"
+	culture="finul"
+}
+
+7251=
+{
+	name="Cravan"
+	culture="finul"
+}
+
+7252=
+{
+	name="Norros"
+	culture="finul"
+}
+
+7253=
+{
+	name="Vaskel"
+	culture="finul"
+}
+
+7254=
+{
+	name="Corvan"
+	culture="finul"
+}
+
+7255=
+{
+	name="Ravros"
+	culture="finul"
+}
+
+7256=
+{
+	name="Malden"
+	culture="finul"
+}
+
+7257=
+{
+	name="Torkan"
+	culture="finul"
+}
+
+7258=
+{
+	name="Barvel"
+	culture="finul"
+}
+
+7259=
+{
+	name="Skoran"
+	culture="finul"
+}
+
+7260=
+{
+	name="Navros"
+	culture="finul"
+}
+
+7261=
+{
+	name="Rocvel"
+	culture="finul"
+}
+
+7262=
+{
+	name="Valden"
+	culture="finul"
+}
+
+7263=
+{
+	name="Morros"
+	culture="finul"
+}
+
+7264=
+{
+	name="Salkan"
+	culture="finul"
+}
+
+7265=
+{
+	name="Carvel"
+	culture="finul"
+}
+
+7266=
+{
+	name="Rasken"
+	culture="finul"
+}
+
+7267=
+{
+	name="Vandor"
+	culture="finul"
+}
+
+7268=
+{
+	name="Torros"
+	culture="finul"
+}
+
+7269=
+{
+	name="Marcan"
+	culture="finul"
+}
+
+7270=
+{
+	name="Bravel"
+	culture="finul"
+}
+
+7271=
+{
+	name="Selros"
+	culture="finul"
+}
+
+7272=
+{
+	name="Cradel"
+	culture="finul"
+}
+
+7273=
+{
+	name="Norcan"
+	culture="finul"
+}
+
+7274=
+{
+	name="Vaskar"
+	culture="finul"
+}
+
+7275=
+{
+	name="Corros"
+	culture="finul"
+}
+
+7276=
+{
+	name="Ravlen"
+	culture="finul"
+}
+
+7277=
+{
+	name="Malcan"
+	culture="finul"
+}
+
+7278=
+{
+	name="Tervel"
+	culture="finul"
+}
+
+7279=
+{
+	name="Barros"
+	culture="finul"
+}
+
+7280=
+{
+	name="Skavel"
+	culture="finul"
+}
+
+7281=
+{
+	name="Navden"
+	culture="finul"
+}
+
+7282=
+{
+	name="Rocros"
+	culture="finul"
+}
+
+7283=
+{
+	name="Valcan"
+	culture="finul"
+}
+
+7284=
+{
+	name="Morlen"
+	culture="finul"
+}
+
+7285=
+{
+	name="Salros"
+	culture="finul"
+}
+
+7286=
+{
+	name="Carcan"
+	culture="finul"
+}
+
+7287=
+{
+	name="Raskor"
+	culture="finul"
+}
+
+7288=
+{
+	name="Vandrel"
+	culture="finul"
+}
+
+7289=
+{
+	name="Torvel"
+	culture="finul"
+}
+
+7290=
+{
+	name="Marros"
+	culture="finul"
+}
+
+7291=
+{
+	name="Branor"
+	culture="finul"
+}
+
+7292=
+{
+	name="Seldor"
+	culture="finul"
+}
+
+7293=
+{
+	name="Cravan"
+	culture="finul"
+}
+
+7294=
+{
+	name="Norros"
+	culture="finul"
+}
+
+7295=
+{
+	name="Vaskel"
+	culture="finul"
+}
+
+7296=
+{
+	name="Corvan"
+	culture="finul"
+}
+
+7297=
+{
+	name="Ravros"
+	culture="finul"
+}
+
+7298=
+{
+	name="Malden"
+	culture="finul"
+}
+
+7299=
+{
+	name="Torkan"
+	culture="finul"
+}
+
+7300=
+{
+	name="Barvel"
+	culture="finul"
+}
+
+7301=
+{
+	name="Skoran"
+	culture="finul"
+}
+
+7302=
+{
+	name="Navros"
+	culture="finul"
+}
+
+7303=
+{
+	name="Rocvel"
+	culture="finul"
+}
+
+7304=
+{
+	name="Valden"
+	culture="finul"
+}
+
+7305=
+{
+	name="Morros"
+	culture="finul"
+}
+
+7306=
+{
+	name="Salkan"
+	culture="finul"
+}
+
+7307=
+{
+	name="Carvel"
+	culture="finul"
+}
+
+7308=
+{
+	name="Rasken"
+	culture="finul"
+}
+
+7309=
+{
+	name="Vandor"
+	culture="finul"
+}
+
+7310=
+{
+	name="Torros"
+	culture="finul"
+}
+
+7311=
+{
+	name="Marcan"
+	culture="finul"
+}
+
+7312=
+{
+	name="Bravel"
+	culture="finul"
+}
+
+7313=
+{
+	name="Selros"
+	culture="finul"
+}
+
+7314=
+{
+	name="Cradel"
+	culture="finul"
+}
+
+7315=
+{
+	name="Norcan"
+	culture="finul"
+}
+
+7316=
+{
+	name="Vaskar"
+	culture="finul"
+}
+
