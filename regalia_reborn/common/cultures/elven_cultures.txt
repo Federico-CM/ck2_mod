@@ -22,34 +22,79 @@ elven_group = {
         mother_name_chance = 5
     }
 
-    finul = {
-        graphical_cultures = { frankishgfx }
-        
-        color = { 0.8 0.2 0.2 }
-        
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
 
-	feminist = yes
-        modifier = default_culture_modifier
-        pat_grf_name_chance = 30
-        mat_grf_name_chance = 10
-        father_name_chance = 25
-        
-        pat_grm_name_chance = 20
-        mat_grm_name_chance = 40
-        mother_name_chance = 5
-    }
+	finul = {
+    	graphical_cultures = { frankishgfx }
+    
+    	color = { 0.8 0.2 0.2 }
+    
+    	male_names = {
+        	Andren Lusyen Naul Noven Orlen Malsen Alosol Isendal Erhennen Calren
+        	Soranel Valen Rodel Marquen Selvarn Iverel Toranel Darsen Pelorin Galren
+        	Aleron Braniel Esten Moralen Carden Elvarn Jesran Lorian Veynel Samren
+        	Corval Nelorin Arsen Helion Duranel Meren Taloren Jovanel Rassel Orenil
+        	Palren Sorelin Valorin Naren Karsel Alren Ferinel Domren Silren Bravel
+        	Endorin Calven Lorinel Ersen Havel Joren Malorin Avenel Torren Eslorin
+        	Narvel Pelren Salorin Varren Isonel Karven Delorin Jesnel Marven Olren
+        	Sarinel Brenel Valren Elorin Corren Halorin Sanrel Dorinel Miren Alorin
+        	Tasren Velorin Parven Norel Jesorin Arvel Morren Selorin Branen Calorin
+        	Daven Helren Laren Feronel Orelan Malren Eravel Torinel Sanvel Valenor
+    	}
+    	female_names = {
+        	Samila Isavela Salia Savnella Nassissa Eyra Talintra Devaris Lirena Calista
+        	Marisa Valessa Arlena Serina Dorisa Elira Novella Arelia Selissa Lorena
+        	Ismara Renisa Palessa Galira Samora Alissa Verena Estara Malisa Cerina
+        	Halessa Orisa Delara Mirena Sanissa Talora Velira Nassara Iveris Calena
+        	Jesara Sorina Arissa Pelara Veyla Marissa Selara Dorena Elissa Lareva
+        	Renara Savira Nalissa Valira Tamera Corissa Alena Seressa Delissa Norisa
+        	Halira Esmera Galessa Palira Samessa Arvela Morisa Talissa Velessa Cerela
+        	Issera Lorissa Nalira Sanara Marila Selessa Dorissa Elara Jesissa Alvara
+        	Renessa Valissa Talisra Pelissa Soraya Calira Mirissa Norala Halessa Savora
+        	Arlissa Delara Verissa Elissa Sanessa Loraya Nalessa Jesara Maressa Talira
+    	}
+    	from_dynasty_prefix = "of "
+    	bastard_dynasty_prefix = "Fitz"
+
+    	feminist = yes
+    	modifier = default_culture_modifier
+    	pat_grf_name_chance = 30
+    	mat_grf_name_chance = 10
+    	father_name_chance = 25
+    
+    	pat_grm_name_chance = 20
+    	mat_grm_name_chance = 40
+    	mother_name_chance = 5
+	}
 
     selvath = {
         graphical_cultures = { frankishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = { Adam }
-        female_names = { Adela }
+        male_names = {
+            Easiel Lusias Naul Noven Auonshe Lavlo Mancel Sonsalo Nael Alosso
+            Dariel Ruviel Maurel Isanio Velaro Coriel Samelio Jarelo Fenar Lareto
+            Moniel Varelo Senaro Alvaro Rassiel Domelo Pelar Toriel Isonio Mariel
+            Valeno Arvion Sorelo Calion Neravo Talero Joviel Branio Melaro Cariel
+            Estavo Danelio Lorano Silvaro Argeno Feriel Ramelo Ovelar Jesano Paliel
+            Virelo Saniel Delavo Noriel Casaro Moriel Alreno Verano Temiel Salvaro
+            Duriel Kaleno Raviel Lomaro Ismael Cirelo Valerio Avenar Torano Miriel
+            Lenario Daravo Pelion Savel Monaro Arvelo Finiel Corano Halero Jovel
+            Melion Sanavo Orelio Braniel Velion Tasaro Raniel Delion Moravo Calero
+            Seriel Palvaro Neriel Luvano Ferano Jovaro Arionel Selaro Naviel Valion
+        }
+        female_names = {
+            Samila Isavela Saalia Siliana Fisonia Savniella Veani Nassissa Eyfa Camira
+            Lurena Valessa Arlina Serana Dorina Elira Novella Arelia Selissa Lorena
+            Ismara Renisa Palessa Galira Samora Alissa Verena Estara Malisa Cerina
+            Halessa Orina Delara Mirena Sanissa Talora Velira Nassara Iveria Calena
+            Jesara Sorina Arissa Pelara Veyla Marissa Selara Dorena Elissa Lareva
+            Renara Savira Nalissa Valira Tamera Corissa Alena Seressa Delissa Norisa
+            Halira Esmera Galessa Palira Samessa Arvela Morisa Talissa Velessa Cerela
+            Issera Lorissa Nalira Sanara Marila Selessa Dorissa Elara Jesissa Alvara
+            Renessa Valissa Talisra Pelissa Soraya Calira Mirissa Norala Halena Savora
+            Arlissa Delina Verissa Elina Sanessa Loraya Nalessa Jesena Maressa Talira
+        }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -63,14 +108,37 @@ elven_group = {
         mat_grm_name_chance = 40
         mother_name_chance = 5
     }
+
 
     yanar = {
         graphical_cultures = { frankishgfx }
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = { Adam }
-        female_names = { Adela }
+        male_names = {
+            Easiel Lusias Naul Noven Auonshe Lavlo Mancel Sonsalo Nael Alosso
+            Dariel Ruviel Maurel Isanio Velaro Coriel Samelio Jarelo Fenar Lareto
+            Moniel Varelo Senaro Alvaro Rassiel Domelo Pelar Toriel Isonio Mariel
+            Valeno Arvion Sorelo Calion Neravo Talero Joviel Branio Melaro Cariel
+            Estavo Danelio Lorano Silvaro Argeno Feriel Ramelo Ovelar Jesano Paliel
+            Virelo Saniel Delavo Noriel Casaro Moriel Alreno Verano Temiel Salvaro
+            Duriel Kaleno Raviel Lomaro Ismael Cirelo Valerio Avenar Torano Miriel
+            Lenario Daravo Pelion Savel Monaro Arvelo Finiel Corano Halero Jovel
+            Melion Sanavo Orelio Braniel Velion Tasaro Raniel Delion Moravo Calero
+            Seriel Palvaro Neriel Luvano Ferano Jovaro Arionel Selaro Naviel Valion
+        }
+        female_names = {
+            Samila Isavela Saalia Siliana Fisonia Savniella Veani Nassissa Eyfa Camira
+            Lurena Valessa Arlina Serana Dorina Elira Novella Arelia Selissa Lorena
+            Ismara Renisa Palessa Galira Samora Alissa Verena Estara Malisa Cerina
+            Halessa Orina Delara Mirena Sanissa Talora Velira Nassara Iveria Calena
+            Jesara Sorina Arissa Pelara Veyla Marissa Selara Dorena Elissa Lareva
+            Renara Savira Nalissa Valira Tamera Corissa Alena Seressa Delissa Norisa
+            Halira Esmera Galessa Palira Samessa Arvela Morisa Talissa Velessa Cerela
+            Issera Lorissa Nalira Sanara Marila Selessa Dorissa Elara Jesissa Alvara
+            Renessa Valissa Talisra Pelissa Soraya Calira Mirissa Norala Halena Savora
+            Arlissa Delina Verissa Elina Sanessa Loraya Nalessa Jesena Maressa Talira
+        }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
@@ -84,27 +152,50 @@ elven_group = {
         mat_grm_name_chance = 40
         mother_name_chance = 5
     }
+
 
     llasada = {
-        graphical_cultures = { frankishgfx }
-        
-        color = { 0.8 0.2 0.2 }
-        
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+    	graphical_cultures = { frankishgfx }
+    
+    	color = { 0.8 0.2 0.2 }
+    
+    	male_names = {
+        	Andren Lusyen Naul Noven Orlen Malsen Alosol Isendal Erhennen Calren
+        	Soranel Valen Rodel Marquen Selvarn Iverel Toranel Darsen Pelorin Galren
+        	Aleron Braniel Esten Moralen Carden Elvarn Jesran Lorian Veynel Samren
+        	Corval Nelorin Arsen Helion Duranel Meren Taloren Jovanel Rassel Orenil
+        	Palren Sorelin Valorin Naren Karsel Alren Ferinel Domren Silren Bravel
+        	Endorin Calven Lorinel Ersen Havel Joren Malorin Avenel Torren Eslorin
+        	Narvel Pelren Salorin Varren Isonel Karven Delorin Jesnel Marven Olren
+        	Sarinel Brenel Valren Elorin Corren Halorin Sanrel Dorinel Miren Alorin
+        	Tasren Velorin Parven Norel Jesorin Arvel Morren Selorin Branen Calorin
+        	Daven Helren Laren Feronel Orelan Malren Eravel Torinel Sanvel Valenor
+    	}
+    	female_names = {
+        	Samila Isavela Salia Savnella Nassissa Eyra Talintra Devaris Lirena Calista
+        	Marisa Valessa Arlena Serina Dorisa Elira Novella Arelia Selissa Lorena
+        	Ismara Renisa Palessa Galira Samora Alissa Verena Estara Malisa Cerina
+        	Halessa Orisa Delara Mirena Sanissa Talora Velira Nassara Iveris Calena
+        	Jesara Sorina Arissa Pelara Veyla Marissa Selara Dorena Elissa Lareva
+        	Renara Savira Nalissa Valira Tamera Corissa Alena Seressa Delissa Norisa
+        	Halira Esmera Galessa Palira Samessa Arvela Morisa Talissa Velessa Cerela
+        	Issera Lorissa Nalira Sanara Marila Selessa Dorissa Elara Jesissa Alvara
+        	Renessa Valissa Talisra Pelissa Soraya Calira Mirissa Norala Halessa Savora
+        	Arlissa Delara Verissa Elissa Sanessa Loraya Nalessa Jesara Maressa Talira
+    	}
+    	from_dynasty_prefix = "of "
+    	bastard_dynasty_prefix = "Fitz"
 
-	feminist = yes
-        modifier = default_culture_modifier
-        pat_grf_name_chance = 30
-        mat_grf_name_chance = 10
-        father_name_chance = 25
-        
-        pat_grm_name_chance = 20
-        mat_grm_name_chance = 40
-        mother_name_chance = 5
-    }
+    	feminist = yes
+    	modifier = default_culture_modifier
+    	pat_grf_name_chance = 30
+    	mat_grf_name_chance = 10
+    	father_name_chance = 25
+    
+    	pat_grm_name_chance = 20
+    	mat_grm_name_chance = 40
+    	mother_name_chance = 5
+	}
 
     kathar = {
         graphical_cultures = { frankishgfx }
@@ -170,24 +261,45 @@ elven_group = {
     }
 
     solvaan = {
-        graphical_cultures = { frankishgfx }
-        
-        color = { 0.8 0.2 0.2 }
-        
+    	graphical_cultures = { frankishgfx }
+    
+    	color = { 0.8 0.2 0.2 }
+    
+    	male_names = {
+        	Andren Lusyen Naul Noven Orlen Malsen Alosol Isendal Erhennen Calren
+        	Soranel Valen Rodel Marquen Selvarn Iverel Toranel Darsen Pelorin Galren
+        	Aleron Braniel Esten Moralen Carden Elvarn Jesran Lorian Veynel Samren
+        	Corval Nelorin Arsen Helion Duranel Meren Taloren Jovanel Rassel Orenil
+        	Palren Sorelin Valorin Naren Karsel Alren Ferinel Domren Silren Bravel
+        	Endorin Calven Lorinel Ersen Havel Joren Malorin Avenel Torren Eslorin
+        	Narvel Pelren Salorin Varren Isonel Karven Delorin Jesnel Marven Olren
+        	Sarinel Brenel Valren Elorin Corren Halorin Sanrel Dorinel Miren Alorin
+        	Tasren Velorin Parven Norel Jesorin Arvel Morren Selorin Branen Calorin
+        	Daven Helren Laren Feronel Orelan Malren Eravel Torinel Sanvel Valenor
+    	}
+    	female_names = {
+        	Samila Isavela Salia Savnella Nassissa Eyra Talintra Devaris Lirena Calista
+        	Marisa Valessa Arlena Serina Dorisa Elira Novella Arelia Selissa Lorena
+        	Ismara Renisa Palessa Galira Samora Alissa Verena Estara Malisa Cerina
+        	Halessa Orisa Delara Mirena Sanissa Talora Velira Nassara Iveris Calena
+        	Jesara Sorina Arissa Pelara Veyla Marissa Selara Dorena Elissa Lareva
+        	Renara Savira Nalissa Valira Tamera Corissa Alena Seressa Delissa Norisa
+        	Halira Esmera Galessa Palira Samessa Arvela Morisa Talissa Velessa Cerela
+        	Issera Lorissa Nalira Sanara Marila Selessa Dorissa Elara Jesissa Alvara
+        	Renessa Valissa Talisra Pelissa Soraya Calira Mirissa Norala Halessa Savora
+        	Arlissa Delara Verissa Elissa Sanessa Loraya Nalessa Jesara Maressa Talira
+    	}
+    	from_dynasty_prefix = "of "
+    	bastard_dynasty_prefix = "Fitz"
 
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
-
-	feminist = yes
-        modifier = default_culture_modifier
-        pat_grf_name_chance = 30
-        mat_grf_name_chance = 10
-        father_name_chance = 25
-        
-        pat_grm_name_chance = 20
-        mat_grm_name_chance = 40
-        mother_name_chance = 5
-    }
+    	feminist = yes
+    	modifier = default_culture_modifier
+    	pat_grf_name_chance = 30
+    	mat_grf_name_chance = 10
+    	father_name_chance = 25
+    
+    	pat_grm_name_chance = 20
+    	mat_grm_name_chance = 40
+    	mother_name_chance = 5
+	}
 }

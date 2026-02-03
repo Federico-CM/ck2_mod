@@ -6,13 +6,36 @@ allar_group = {
 
         color = { 0.8 0.2 0.2 }
 
-        male_names = { Adam }
-        female_names = { Adela }
+        male_names = {
+            Ard Vahlor Bledan Nairikh Rron Mal Luan Flaronn Ilir Dritan
+            Arber Besarto Dardan Vullron Jetteron Freskhar Rimmikh Kaldrin Orlan Tervan
+            Halrik Branon Velmar Karsen Milor Andrek Fesran Torvin Lirkan Selron
+            Vardik Brenor Ulmir Nestor Ravik Delron Harven Kledar Morik Zanrik
+            Elron Perdan Jarlon Fendrik Lokar Amdir Relvan Tranor Keshan Volrik
+            Ildar Serkan Barlan Mardek Ulran Veskor Tharin Olver Draven Korrin
+            Edrik Palron Narvik Selmar Galdor Rennik Falrik Yarden Krovan Leran
+            Dervik Helran Borik Alren Valtor Meshan Kaldan Ronel Fenrik Arvik
+            Trelan Jorvan Milrek Dornik Savren Ulvek Kerlan Morven Talrik Gervan
+            Elrik Branek Vorlan Neldar Riklan Orven Zalrik Feron Karsik Lendrik
+        }
+
+        female_names = {
+            Lira Bora Vesa Illirka Era Besa Bledana Genta Tekhta Mira
+            Arda Dakina Aulona Nisa Zana Arkera Liriqa Agimossa Shilahra Elira
+            Serina Valona Driana Kalina Merisa Talena Rovena Halira Andira Belora
+            Norisa Kireza Lurina Savina Eralda Pelina Virela Zorina Malira Denisa
+            Arlena Fenira Jolena Brisa Selira Karisa Ulona Trina Ravena Lestara
+            Milena Orisa Yelina Dalira Vernisa Kalora Emira Tersina Halena Belisa
+            Zanira Felina Marena Ilona Sorela Valira Nerisa Arelia Kandisa Lorena
+            Sireta Pelora Dorela Mirena Elsona Venira Tarisa Alena Kesira Olira
+            Jorina Melisa Sanira Relina Vorena Lamera Kordisa Tralina Erina Malena
+            Vesira Jolira Kirela Dalena Surina Arisa Fenela Norina Zelira Kalessa
+        }
 
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
-	feminist = yes
+        feminist = yes
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
         mat_grf_name_chance = 10

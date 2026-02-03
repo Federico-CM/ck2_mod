@@ -6,13 +6,35 @@ asha_group = {
 
         color = { 0.8 0.2 0.2 }
 
-        male_names = { Adam }
-        female_names = { Adela }
+        male_names = {
+            Aksa Aksi Aksat Akneb Akmeri Akuser Akkha Akankh Akhotep Aknefert
+            Aknebet Akheka Akwoser Akmes Aksahu Akmose Akmenkau Akkhaf Khansa Khansi
+            Khansat Khanneb Khanmeri Khanuser Khankha Khanankh Khanhotep Khannefert Khannebet Khanheka
+            Khanwoser Khanmes Khansahu Khanmose Khanmenkau Khankhaf Disa Disi Disat Dineb
+            Dimeri Diuser Dikha Diankh Dihotep Dinefert Dinebet Diheka Diwoser Dimes
+            Disahu Dimose Dimenkau Dikhaf Mausa Mausi Mausat Mauneb Maumeri Mauuser
+            Maukha Mauankh Mauhotep Maunefert Maunebet Mauheka Mauwoser Maumes Mausahu Maumose
+            Maumenkau Maukhaf Zasa Zasi Zasat Zaneb Zameri Zauser Zakha Zaankh Zahotep
+            Zanefert Zanebet Zaheka Zawoser Zames Zasahu Zamose Zamenkau Zakhaf
+        }
+
+        female_names = {
+            Asa Asi Asat Aneb Ameri Auser Akha Aankh Ahotep Anefert
+            Saak Sakhan Sadi Samau Saza Saa Saqa Sase Saan Sara
+            Sapah Saga Saka Saneph Sahes Sary Sai Siak Sikhan Sidi
+            Simau Siza Sia Siqa Sise Sian Sira Sipah Siga Sika
+            Sineph Sihes Siry Satak Satkhan Satdi Satmau Satza Sata
+            Satqa Satse Satan Satra Satpah Satga Satka Satneph Sathes Satry
+            Sati Nebak Nebkhan Nebdi Nebmau Nebza Neba Nebqa Nebse Neban
+            Nebra Nebpah Nebga Nebka Nebneph Nebhes Nebry Nebi Meriak Merikhan
+            Meridi Merimau Meriza Meria Meriqa Merise Merian Merira Meripah Meriga
+            Merika Merineph Merihes Meriry
+        }
 
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
-	feminist = yes
+        feminist = yes
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
         mat_grf_name_chance = 10
