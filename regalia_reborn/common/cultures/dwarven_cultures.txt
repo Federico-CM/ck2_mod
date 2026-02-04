@@ -6,12 +6,34 @@ dwarven_group = {
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = { Adam }
-        female_names = { Adela }
+        male_names = {
+            Orakh Zurr Bormn Khar Drenn Hurg Thoz Garrn Vokh Rekk
+            Zulmn Barok Karn Morth Lokk Denr Krav Xorr Henn Turkh
+            Jarn Volmn Serrk Bronn Kelm Durk Rath Korrn Zemn Tharr
+            Balk Gornn Keth Hram Lorik Menn Drokh Varrn Xemn Karn
+            Rulmn Threk Borun Zark Kheth Orrn Damm Hozr Garruk Korr
+            Velmn Trakk Zorrn Brak Kerth Donr Xurk Marn Thokk Renn
+            Durrk Kram Zelm Vorrn Kram Halk Torunn Serk Borr Khenn
+            Dazr Lokmn Thrunn Velk Ronn Zarth Korr Durn Xark Mennr
+            Hark Borimn Korn Gremm Thalr Vurn Zekk Khorunn Ramm Deth
+            Lokh Serrn Brunn Kurk Zorn Kelmnn Vorr Thorrk Drennok Hurrk
+        }
+        female_names = {
+            Alenna Zurrina Khomena Darnixa Belurra Kiranna Haxenna Murnila Sorrina Thaluna
+            Bennora Gelrima Vexanna Zelmira Korratha Durinna Xavrena Orlena Hannora Kemina
+            Zurratha Melorra Draxina Sennula Borrina Thiraxa Kelmora Velruna Zannetha Hurrila
+            Karina Loxenna Murrella Zoranna Dennixa Khurina Selratha Vonnila Korrima Brannora
+            Hethina Zelmotha Durrella Xennara Morrila Thennora Kharixa Zurrenna Belrima Karotha
+            Luranna Dremila Haxorra Zorixa Mennora Korrina Velnatha Kemorra Brunnila Thalixa
+            Zarnetha Muranna Dennora Xorrila Helruna Zelmixa Duratha Karrella Vonnora Hurratha
+            Selmina Berrixa Zorrena Kelmara Thirona Morratha Kurrina Lannora Draxella Hethorra
+            Zelmuna Brannixa Vexorra Karnila Murentha Dennatha Zurrila Kharona Selrima Thennixa
+            Borratha Zorunna Helratha Durixa Karanna Lorrila Xennora Morrina Zelmara Hurrena
+        }
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
-	feminist = yes
+        feminist = yes
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
         mat_grf_name_chance = 10
@@ -23,3 +45,4 @@ dwarven_group = {
     }
 
 }
+

@@ -6,12 +6,35 @@ elven_group = {
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = { Adam }
-        female_names = { Adela }
+        male_names = {
+            Aviraj Devran Kairav Ranesh Sahil Tavir Ishan Virek Amarun Kalir
+            Niral Rajen Sovan Darvik Harin Milan Yuvan Arjen Kavir Ratan
+            Mahir Javin Suresh Varik Dilan Ashren Tejas Rohit Kiran Anvik
+            Ramesh Sanjay Vasant Naren Balin Tarun Govin Sharan Mural Deepan
+            Selvan Karthan Arulan Madan Rithan Sivan Velan Nilan Kuman Peran
+            Jayant Pravin Sachin Dattar Anant Shirish Hemant Vinay Keshav Udayan
+            Gaurav Nikhil Paresh Sameer Manav Raghav Yogesh Ajinkya Tanmay Suyash
+            Kunal Amey Pritham Nagesh Vimal Shlok Parth Ashok Mohan Lalit
+            Devraj Ishvar Bhavin Rupal Arvind Sunil Punit Harshal Mukesh Dinesh
+            Narayan Kailas Rudran Shankar Vallan Thiran Maruth Elavan Kanin Velmur
+        }
+        female_names = {
+            Anika Kavya Riya Meera Saira Tavini Ishani Vireya Amala Kalini
+            Nira Rajika Sovanthi Darini Harini Milana Yuvika Aruna Kavini Ratna
+            Mahira Jivika Sureshi Varsha Dilani Ashira Tejal Rohini Kirana Anvitha
+            Ramesha Sanjana Vasanti Nandini Balika Tarini Govina Sharika Murali Deepika
+            Selvani Karthika Arulani Madani Rithika Sivani Velani Nilani Kumari Perini
+            Jayanti Pravina Sachika Dattani Ananta Shirina Hemani Vinita Keshini Udaya
+            Gaurika Nikhita Pareshi Sameera Manasi Raghini Yogita Ajira Tanvika Suyasha
+            Kunali Ameya Pritha Nageshi Vimala Shloka Parvati Ashoka Mohini Lalita
+            Devika Ishvara Bhavini Rupali Arvani Sunita Punita Harshala Mukta Dinesha
+            Narani Kailasi Rudrani Shankari Vallari Thiravi Marutha Elavani Kanika Velmuri
+        }
+
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
-	feminist = yes
+        feminist = yes
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
         mat_grf_name_chance = 10
@@ -21,7 +44,6 @@ elven_group = {
         mat_grm_name_chance = 40
         mother_name_chance = 5
     }
-
 
 	finul = {
     	graphical_cultures = { frankishgfx }
@@ -197,68 +219,140 @@ elven_group = {
     	mother_name_chance = 5
 	}
 
-    kathar = {
-        graphical_cultures = { frankishgfx }
-        
-        color = { 0.8 0.2 0.2 }
-        
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+	kathar = {
+    	graphical_cultures = { frankishgfx }
+    
+    	color = { 0.8 0.2 0.2 }
+    	
+    	male_names = {
+        	Ketharr Kronnarr Ryzokh Velnor Marrdryl Zannokh Relahc Nokarr Kaldryn Rethonn
+        	Menzarr Calokh Zorloc Vathnor Krennarr Naldokh Ryznor Mordryl Cazarr Ronnokh
+        	Velarr Kethloc Zannor Malkarr Rydryl Nokharr Calnor Vezokh Ralonn Korrdryl
+        	Zetharr Mornokh Relnor Nazzarr Kaldokh Rethdryl Valarr Zoronn Menzokh Calarr
+        	Rykarr Kothnor Zannarr Velokh Mordarr Relonn Narkarr Kethnor Raldokh Mazdryl
+        	Zokarr Calonn Vornor Retharr Krennokh Zaldryl Mornarr Relokh Noknor Karrdryl
+        	Zethokh Valnor Rykonn Mordokh Caldryl Netharr Zorarr Velonn Kaldarr Rethnor
+        	Mazzokh Relarr Nokdryl Korrarr Zannokh Valdryl Ralarr Mordnor Calokh Narkonn
+        	Zethdryl Velarr Kethokh Rynnarr Mornor Reldryl Nokarr Kaldnor Zorokh Valarr
+        	Rethokh Morddryl Calarr Nazzokh Zannarr Velnor Korrokh Ralnor Menzarr Relokh
+    	}	
+    	
+    	female_names = {
+    	    Velyssarr Relinahc Zannarr Kethahc Nethonn Calahc Rylnor Vezarr Mornahc Zethonn
+    	    Relarr Kaldahc Nazzonn Valarr Rethahc Calonn Velynor Zorrahc Menzarr Relonn
+    	    Ketharr Naldahc Zannor Velahc Rylnarr Calarr Vezonn Mordahc Relnor Kaldarr
+    	    Nethahc Zoronn Valahc Rethonn Calnor Velyarr Zannahc Mornarr Relahc Kethonn
+    	    Nazzarr Velonn Rylnor Calahc Vezarr Zethahc Mordonn Relarr Kaldonn Netharr
+    	    Valonn Zorarr Velyahc Calonn Rylnarr Velarr Menzahc Relonn Kethnor Naldarr
+    	    Zannonn Valarr Rethnor Calarr Vezahc Zoronn Mordarr Relahc Kaldnor Nazzonn
+    	    Velahc Rylnor Calonn Velyarr Zetharr Mornonn Relarr Kethahc Nethonn Valnor
+    	    Zannarr Velonn Rylnahc Calahc Vezonn Mordahc Relonn Kaldarr Nazzahc Valarr
+    	    Zorrahc Velynor Calarr Rylnonn Velarr Menzarr Relahc Kethonn Naldnor Zannahc
+    	}
+    	
+    	from_dynasty_prefix = "of "
+    	bastard_dynasty_prefix = "Fitz"
+	
+		feminist = yes
+    	modifier = default_culture_modifier
+    	pat_grf_name_chance = 30
+    	mat_grf_name_chance = 10
+    	father_name_chance = 25
+    	
+    	pat_grm_name_chance = 20
+    	mat_grm_name_chance = 40
+    	mother_name_chance = 5
+	}
 
-	feminist = yes
-        modifier = default_culture_modifier
-        pat_grf_name_chance = 30
-        mat_grf_name_chance = 10
-        father_name_chance = 25
-        
-        pat_grm_name_chance = 20
-        mat_grm_name_chance = 40
-        mother_name_chance = 5
-    }
 
-    isldar = {
-        graphical_cultures = { frankishgfx }
-        
-        color = { 0.8 0.2 0.2 }
-        
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
 
-	feminist = yes
-        modifier = default_culture_modifier
-        pat_grf_name_chance = 30
-        mat_grf_name_chance = 10
-        father_name_chance = 25
-        
-        pat_grm_name_chance = 20
-        mat_grm_name_chance = 40
-        mother_name_chance = 5
-    }
+	isldar = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Asrel Henqaan Nayaal Anshaar Ravlan Sonraal Narvael Alrifar Qiravel Kharion
+			Vaelran Syrakal Ghavaen Qanreth Rilkaar Asqarel Khoryn Naqirion Valkaar Seraqen
+			Arkhavel Qaylen Gharion Ravael Thaqran Soryaal Khalven Qirash Alqorin Narethil
+			Kavaan Syrren Ghoryaal Asraek Qelvaren Rakhiel Narqaan Velkar Arsael Khavaar
+			Rysqen Alvaar Qironen Savael Gharrek Naelkar Qanthir Asravaen Karvael Syqaar
+			Ravaen Alqaar Thirakel Qorvaan Kharvael Soraqen Narghil Arqavel Valqaar Khiraen
+			Ghaelin Asqorin Qirael Ralvaar Naqaren Khorvaen Syrqaal Arvalen Gharvael Qanthaal
+			Asraen Kavael Rysqaar Althiren Qirhaal Narvaan Khoryaal Savaqen Arqorin Velqaar
+			Ghaqren Asrion Qelkaar Rakharen Naqvael Kharqen Syraen Arvaal Ghorqal Qiraen
+			Alqiren Ravaal Narqel Khavaen Soryen Asqaal Qoralen Ghariel Velqen Arkhion
+		}
+		female_names = {
+			Samala Isavaila Saaliya Silyana Fismeya Savraela Veana Naerassa Qiraya Khaleya
+			Vaelisa Syrameya Gharessa Qanira Rilaya Asqila Khorya Naqira Valessa Seraeya
+			Arkhisa Qayela Gharaya Ravaela Thaqira Soryana Khalessa Qirayael Alqisa Naressa
+			Kavaya Syrila Ghoryssa Asraya Qelissa Rakhiya Narqila Velessa Arsaela Khavaya
+			Rysila Alvaela Qirissa Savaya Gharessael Naelisa Qanthia Asravaela Karissa Syqaya
+			Ravaessa Alqaya Thirisa Qoraya Khalvaela Soraissa Narghila Arqaya Valissa Khiraela
+			Ghaelia Asqissa Qiraela Ralvaessa Naqissa Khoryssa Syraya Arvalissa Gharvaela Qanthessa
+			Asraela Kavessa Rysaya Althira Qirhessa Narvaela Khoryana Savissa Arqissa Velaya
+			Ghaqressa Asrissa Qelaya Rakhessa Naqvaela Kharissa Syraela Arvaessa Ghorqala Qiraessa
+			Alqissael Ravaela Narqessa Khavaela Soryssa Asqaya Qorissa Gharisa Velessael Arkhessa
+		}
+		from_dynasty_prefix = "of "
+		bastard_dynasty_prefix = "Fitz"
 
-    sihndar = {
-        graphical_cultures = { frankishgfx }
-        
-        color = { 0.8 0.2 0.2 }
-        
-        male_names = { Adam }
-        female_names = { Adela }
-        from_dynasty_prefix = "of "
-        bastard_dynasty_prefix = "Fitz"
+		feminist = yes
+		modifier = default_culture_modifier
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
 
-	feminist = yes
-        modifier = default_culture_modifier
-        pat_grf_name_chance = 30
-        mat_grf_name_chance = 10
-        father_name_chance = 25
-        
-        pat_grm_name_chance = 20
-        mat_grm_name_chance = 40
-        mother_name_chance = 5
-    }
+
+	sihndar = {
+		graphical_cultures = { frankishgfx }
+		
+		color = { 0.8 0.2 0.2 }
+		
+		male_names = {
+			Easiel Lusias Naul Novein Auonse Lavlo Mancel Sonsalo Naael Alosso
+			Silen Aurel Calien Velas Isano Elyon Savelo Amiel Noelin Vaelos
+			Caelis Malio Eson Alven Sorein Valio Naelis Osien Elaso Ravel
+			Aison Solien Melas Ilven Caelo Vasion Lanoel Eryon Savel Nolias
+			Alion Vesio Miloen Naelor Elion Saelin Orien Calo Aviel Ismael
+			Nalen Avero Solas Lirien Valen Emilo Naeso Alino Esvel Ralion
+			Malen Orelio Caiven Aelio Sorian Velio Isen Naiven Elaso Molien
+			Savion Arelio Noeso Cavel Lasion Arven Emino Solen Valerio Alvenio
+			Isaro Naelio Osean Elino Raviel Selo Calion Mavel Aisonel Noriel
+			Velo Erian Saelo Laren Avino Caeson Melio Olan Elvar Savelo
+		}
+		female_names = {
+			Samila Isavel Saalia Siliana Fisonia Savniella Veani Nassissa Eyfa Alina
+			Selia Naelia Velina Camila Elisia Soreya Avela Noelia Isana Malina
+			Caelia Valisa Emila Solina Ariael Lavia Naessa Elaria Savia Melisa
+			Alessa Isaria Velia Noesa Calina Arelia Sanelia Elina Mavisa Oria
+			Saelis Nalia Elysia Valena Amila Solia Lirisa Naeva Alisia Ismela
+			Caessa Velora Norelia Emelia Savina Arisa Malessa Evania Selina Alora
+			Isella Naelis Velesa Calisa Solessa Avenia Elora Mirisa Saenia Noeva
+			Valisa Elarin Amessa Lania Caelia Neris Selora Alenia Isava Velissa
+			Savera Melora Arvela Naesia Elissa Solira Valoria Aelina Saria Norisa
+			Camela Esila Lirena Avessa Naoria Selessa Alvera Isenia Velina Saoria
+		}
+		from_dynasty_prefix = "of "
+		bastard_dynasty_prefix = "Fitz"
+
+		feminist = yes
+		modifier = default_culture_modifier
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+
 
     solvaan = {
     	graphical_cultures = { frankishgfx }

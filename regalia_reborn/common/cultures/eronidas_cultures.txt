@@ -6,12 +6,32 @@ eronidas_group = {
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = { Adam }
-        female_names = { Adela }
+        male_names = {
+            Gorlstan Borlwulf Surnred Azrulf Cenric Grishald Ragthorn Harthric Dunwold Branrik
+            Ulfric Mordren Skarnulf Veldric Rothgar Kelnor Wyrmred Falkren Ormrik Tharwold
+            Drunric Aeldorn Grimwald Hrosten Varkred Stornulf Breldric Karngrim Eldwulf Ragnor
+            Torvren Ashric Wulfram Dornred Halvric Skeldor Brynulf Corvren Maldrik Fenwold
+            Rimthorn Uldric Brandor Korthan Zarnulf Helgrin Norrik Valdren Thrainor Osgar
+            Kelmric Runvold Targan Wolgren Brundir Eldrik Morvren Skorald Harnulf Brekan
+            Rundric Tholmar Arngrim Velthorn Garrik Norvren Dunric Halgrim Styrnulf Kelthorn
+            Ormvald Falkric Brenwold Zargrim Ulmren
+        }
+        
+        female_names = {
+            Thornwina Ralkessa Zorlinda Eorlthryth Beornhilda Aethelfura Branwina Skarhilda Ulfrina Dornessa
+            Valkessa Hrethwina Morlinda Fenhilda Arlwina Grythessa Wulfhilda Tormira Eldwina Brynhilda
+            Korlena Ashwina Ragnissa Halvessa Stormira Aelwina Dunhilda Vorlena Thryssa Grimwina
+            Zarnessa Frethilda Skelmira Orlwina Branessa Harnissa Ulmira Wyrthilda Dornwina Kessara
+            Velmira Nordhilda Rynessa Malwina Thorlena Fenessa Arnhilda Gorlina Brethessa Valkira
+            Hildrenna Stormwina Eldessa Skarwina Morhilda Tarnessa Wulfessa Brynmira Halwina Grenthilda
+            Runessa Ormira Ashlena Zorhilda Falkessa Rimwina Kelmira Thornessa Aeldrissa Norwina Branlena
+            Skornessa Velhilda
+        }
+
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
-	feminist = yes
+        feminist = yes
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
         mat_grf_name_chance = 10
@@ -21,5 +41,5 @@ eronidas_group = {
         mat_grm_name_chance = 40
         mother_name_chance = 5
     }
-
 }
+

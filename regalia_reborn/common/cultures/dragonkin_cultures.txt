@@ -6,12 +6,34 @@ dragonkin_group = {
         
         color = { 0.8 0.2 0.2 }
         
-        male_names = { Adam }
-        female_names = { Adela }
+        male_names = {
+            Sundiata Keita Maghan Mari Musa Mansa Fakoli Tiramakan Balla Yaya
+            Sekou Modibo Bakari Alpha Fode Mamadou Samba Lamine Ibrahima Abdoulaye
+            Ismaila Ousmane Hamadou Salif Daouda Demba Malick Souleymane Boubacar Karim
+            Cheikh Amadou Sory Lansana Mamadi Kante Diarra Traore Konate Camara
+            Kouyate Soumare Bagayogo Sidibe Cisse Fofana Diawara Sanogo Coulibaly Togola
+            Niani Dankaran Kanku Wali Zubairu Bilal Idrissa Harouna Yahya Abdallah
+            Sulaiman Umar Salim Habib Bashir Tijani Lawal Kebe Kemo Fara
+            Sadio Moro Djibril Gassama Diallo Ba Sissoko Gakou Tamboura Koli
+            Wague Kourouma Sako Diakite Soumah Bary Bah Sene Kane Ndao Jatta
+        }
+
+        female_names = {
+            Sogolon Nana Fatou Fanta Aminata Mariama Kadidia Aissata Kumba Nene
+            Hawa Adama Salimata Bintou Maimouna Rokiatou Djeneba Sira Coumba Rama
+            Fadima Kadiatou Safiatou Sokhna Yandere Tene Nyama Fily Dado Tening
+            Kesso Titi Doussou Kine Awa Ramata Hadiya Nafissatou Kankou Fatumata
+            Taba Kadi Jene Toun Fama Sona Dela Saye Mame Penda
+            Lala Badiya Nala Soma Sita Yaye Djenne Kadiata Sali Mari Saliha
+            Kande Baya Yama Mouna Korka Jula Sita Tene Binta Fanta
+            Sira Rama Nene Kadiatou Aminata Mariama Fatou Hawa Awa Salimata
+            Bintou Maimouna Rokiatou Djeneba Sogolon Nana Fadima Kumba Nene Hawa
+        }
+
         from_dynasty_prefix = "of "
         bastard_dynasty_prefix = "Fitz"
 
-	feminist = yes
+        feminist = yes
         modifier = default_culture_modifier
         pat_grf_name_chance = 30
         mat_grf_name_chance = 10
@@ -23,3 +45,4 @@ dragonkin_group = {
     }
 
 }
+

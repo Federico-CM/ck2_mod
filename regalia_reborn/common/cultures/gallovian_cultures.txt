@@ -7,27 +7,44 @@ gallovian_group = {
         color = { 0.3 0.7 0.7 }
         
 		male_names = {
-			Adam_Adam Alpin_Alwin Alan_Alan Alastair_Alexander Alexander_Alexander Andrew_Andrew
-			Angus_Angus Archibald_Archibald Arthur_Arthur Arran Aulay_Olaf Beathan Brian_Brian Brice_Brice Cailean_Nicholas Calum_Nicholas Carbrey_Carbrey Colban_Kolbein
-			Colin_Nicholas Conall_Conall Conan_Conan Constantine_Constantine David_David Dermid_Dermid Donald_Donald Douglas_Douglas Duff_Duff Dugald_Dugald
-			Duncan_Duncan Edgar_Edgar Edward_Edward Edwin_Edwin Eric_Eric Evander_Ivar Ewan_Eugene Farquhar_Farquhar Fergus_Fergus Fingal_Finn Findlay_Findlay Frang_Francis
-			Gavin_Gavin Gilbert_Gilbert Gilbride_Gilbert Gilchrist_Gilchrist Gillespie Gilpatrick_Gilpatrick Gilroy_Gilroy Giric_Gregory Glenn Godfrey_Godfrey Gregor_Gregory
-			Hamish_Jacob Hector_Hector Henry_Henry Hugh_Hugh Iain_John Indulf James_Jacob John_John Kenneth_Kenneth Kentigern_Kentigern Lachlan_Roland Laurence_Laurence Lennon_Lennon
-			Lulach Macbeth Magnus_Magnus Malcolm_Malcolm Maldoven_Maldoven Maldred_Maldred Malise_Malise Malmure_Malmure Maoilios Marcas_Marcus
-			Matad_Matad Matthew_Matthew Michael_Michael Morgan_Morgan Muir Mungo_Mungo Murdoch_Murdoch Murray Neil_Nigel Ninian_Ninian Oscar_Oscar
-			Patrick_Patrick Paul_Paul Peter_Peter Philip_Philip Radulf_Ralph Ranald_Reinhold Richard_Richard Robert_Robert Roderick_Roderick Ronald_Ragnvald Rory_Roderick Ross Roy_Roy
-			Shaw_Shaw Simon_Simon Somerled_Somerled Stephan_Stephen Sweeny_Sweeny Tadhg_Tadg Talore_Talore Thomas_Thomas Torquil_Torkel Uhtred_Uhtred Uisdean_Eysteinn Walan_Valentin
-			Waldeve_Waltheof Walter_Walter William_William
+			Angus Duncan Malcolm Kenneth Donald Alpin Ferchar Gillebride Gillecrist Gillepatric
+			Gilleroy Gilchrist Murdoch Finlay Somerled Torquil Ranald Rory Lachlan Neil
+			Niall Ewen Ewan Aulay Dougal Fergus Keir Connell Conall Artair
+			Feradach Maelcoluim Maelrubha Maelmore Maelpatrick Maelbride Maelduin Maelchon Breasal Cormac
+			Domnall Fearghas Fearchar Fionnlagh Gofraid Iainnot Macbeath Muireadhach Nechtan Nectan
+			Orm Ruairidh Seoras Talorc Taran Uilleamnot Uisdean Aed Aidan Baithene
+			Blathmac Cinaed Causantin Donnchadh Dubhghall Eochaid Eoghan Faolan Gairm Gartnait
+			Illiam Lonan Murchad Ninian Odran Ragnall Suibhne Tadg Tuathal Ultan
+			Aonghas Brodie Calder Crinan Dalri Errol Iver Kester Lorcan Moray
+			Nessan Ochiltree Ross Skene Struan Teague Tolmie Ualan Vey Yair
 		}
 		female_names = {
-			Ada Affraic_Euphemia Agnes_Agnes Aileen_Helen Alice_Alice Anna_Anna Annabella Aufrica_Euphemia Barabal_Barbara Beileag_Elizabeth Beitris_Beatrice Beathoc_Beatrice Bride_Brigit
-			Catriona_Catherine Cecilia_Cecilia Christina_Christina Deirdre_Deirdre Derilla_Derilla Dervorgilla_Dervorgilla Donada Donella
-			Edith_Edith Edna_Eithne Effie Eilionoir_Eleanor Eimhir_Emer Eithne_Eithne Ela Eleanor_Eleanor Elspeth_Elizabeth Euna Eva_Eva Fenella_Finnguala Fingola_Finnguala Flora_Flora 
-			Forflissa Galiena Glenna Gormelia_Gormflaith Gruoch Helen_Helen Innes Iona Isabel_Elizabeth Isla Isobel_Elizabeth Jean_Joan Julia_Julia
-			Kenna Kentigerna Kirstin_Christina Lillias_Lillian Lorna Malmure_Malmure Maisie_Margaret Malina Margaret_Margaret Mariota_Mariota Marjory_Marjory Mary_Maria
-			Martha_Martha Marthoc_Marjory Maud_Matilda Maura_Maria Mirren_Murron Mor_Mor Morag_Mor Morna_Morna Moyna_Mona Muriel_Muriel
-			Murron_Murron Nuala_Finnguala Orabilia Peigi_Margaret Rhonda Rodina Ronalda_Ragnhild Ros_Ros Saundra_Alexandra Sheena_Joan Shona_Joan Sholto Slaine_Slaine Sorcha_Sorcha Una_Una
+			Aileen Ailsa Beathag Bethoc Brigid Caitrinnot Curstan Deirdre Devorgilla Donalda
+			Effie Elspeth Eithne Ermina Fenella Forbhlaith Gillian Gormlaith Greer Isobel
+			Iseabail Kenna Kirstin Lileas Mairiott Maisie Mared Morag Muireall Muriel
+			Ness Oighrig Peigi Ragnhild Rona Rowan Senga Sorcha Una Ysabell
+			Aithbhreac Annabel Barabal Beileag Cairistiona Catriona Davina Ealasaid Eimhir Elin
+			Fionnghal Fynvola Gillean Gredda Ingibiorg Iona Jeannie Kennoch Lorna Mactilda
+			Maili Mallaidh Marsaili Meggan Mhor Moira Nainsi Orabel Padruigina Raghnailt
+			Rait Rhiannon Ronnat Sile Skye Tamsin Teneu Unaigh Vaila Ysolt
+			Ada Ainsley Beatrix Caira Elva Eppie Fenia Grethe Hild Isla
+			Jeana Keena Maisri Nessa Oona Rorie Seona Tilda Wilma Zella
 		}
+		
+		from_dynasty_prefix = "de "
+		prefix = yes
+		feminist = yes
+
+        modifier = default_culture_modifier
+        pat_grf_name_chance = 30
+        mat_grf_name_chance = 10
+        father_name_chance = 25
+        
+        pat_grm_name_chance = 20
+        mat_grm_name_chance = 40
+        mother_name_chance = 5
+    }
+
 		
 		from_dynasty_prefix = "de "
 		prefix = yes
@@ -49,17 +66,28 @@ gallovian_group = {
         color = { 0.2 0.6 0.6 }
         
 		male_names = {
-			Achiuir_Arthur Aethon_Hugh Aenbecan Allan_Alan Allcallorred Allisander_Alexander Aniel Ardle Auust_August Bili_Beli Bran_Bran Breth Bridei_Bride Briog_Briog Broichan_Brychan
-			Brude_Bride Caltram Canu_Conn Canuall_Conall Canan_Conan Caradaig_Caradog Caruorst Castant_Constans Castantin_Constantine Ciniod_Kenneth Crup Dabuut_David Deocillimon Deoord
-			Domelch_Donald Drest Drosten_Tristan Eddarrnonn Elpin_Alwin Enuidaig_Enfidaig Erpin_Urban Galam Ganant_Gerontius Garalt_Gerald Gede Gest Gigurum_Gregory Girom Idual_Idwal
-			Iduallon_Idwallon Iestan_Justin Iuan_John Irb_Urban Lutrin Mael_Mael Maelchon_Malcolm Manath Mordeleg Morleo Murtolic Naiton_Nathan Ninian_Ninian Pedric_Patrick Pedur_Peter
-			Paul_Paul Pidarnoin_Paternus Ru_Rucenus Ruatirch_Roderick Rubert_Robert Rudri_Roderick Telurg_Talore Telurgan_Talorcán Taran_Taran Tarla_Tadg Uipoig Uist Uuochu_Eochaid
-			Uoret Unen Unuist_Angus Urguist_Fergus Usuullt_Oswald Uthoil Uudrost Uuen_Eugene Uuid Uuirp_Eric Uuredach_Feradach Uuroid
+			Branoch Talven Corven Drustan Braelor Brynden Ercan Vortan Calmor Rethan
+			Galric Senach Urdan Pellor Morcant Kethan Dervan Lomach Arveth Brolan
+			Carven Dathen Elvar Forgan Gravan Hethor Isven Jorcan Kelvan Lorgan
+			Mervan Nethan Orven Parlan Queren Ralven Sordan Tervan Ulcan Valren
+			Wethan Yervan Yorcan Zervan Brathen Colren Droman Eltan Fravan Gorlan
+			Harlon Irven Jethan Korman Lethan Morven Norlan Othar Perlan Rorven
+			Salthen Torlan Urven Varlen Worlac Corlan Yethan Dorlan Brivor Calthen
+			Derlor Emran Fethan Gorlac Helvar Irlan Jorlen Kervan Lorlac Marlen
+			Narlac Orelan Pethan Borlan Rethor Sorlac Tethan Urelan Verlan Wervan
+			Ethran Yorlan Zethan Brathor Calven Dorlan Ervan Farlac Gethan Horlan
 		}
 		female_names = {
-			Addiena_Addiena Abrella_Abrelda Allust_Alice Arnemetia Brethoc_Beatrice Bride_Brigit Bronuen_Bronwen Caitrion_Catherine Cristin_Christina Durilia_Derilla Elaine_Elaine
-			Elen_Helen Eua_Eva Madru_Matrona Maelmurie_Malmure Mairi_Maria Margrud_Margaret Maud_Matilda Mor_Mor Morag_Mor Morien_Murron Muriel_Muriel Neulina_Neulenna Sara_Sarah
-			Siunod_Joan Uen_Gwen Uluen_Olwen Uuena_Eugenia Uunis_Agnes Uusbail_Elizabeth
+			Arlena Brivna Cethra Dervia Elvara Fethra Galena Hethra Irvona Jethra
+			Kelvia Morena Marvna Nethra Orvina Pervia Rella Thervia Selvia Tervia
+			Ulvina Elora Wethra Celvia Yervia Belora Bratha Calvia Dethra Ervina
+			Falena Gorvia Helora Isvena Jorvia Kelora Lethra Morvia Norena Orelva
+			Pelvia Penra Relvia Sorena Telvia Urvina Verlina Werlina Corena Yelvia
+			Zelena Brilva Calena Delvia Ervona Felora Gervia Helvina Ilvara Jorena
+			Kelvina Lerena Merlina Nelvia Othena Parvia Velena Rilvia Selora Telena
+			Ulvara Velvina Worlena Carola Ylvara Zelvina Brorena Calora Derlina Erelva
+			Ferlina Gorlena Harlena Irelva Jarlena Kerlina Lorlena Mervena Narlena Orelia
+			Perelva Barlena Relena Sorlena Tarlena Urelva Vorlena Werlora Harlena Yorlena
 		}
 		
 		male_patronym = "map "
@@ -77,32 +105,36 @@ gallovian_group = {
         mother_name_chance = 5
     }
 
+
+
     dunbrae = { # Lowland Scots like culture
         graphical_cultures = { celticgfx }
         
         color = { 0.3 0.5 0.4 }
         
 		male_names = {
-			Adam_Adam Alpin_Alwin Alan_Alan Alastair_Alexander Alexander_Alexander Andrew_Andrew
-			Angus_Angus Archibald_Archibald Arthur_Arthur Arran Aulay_Olaf Beathan Brian_Brian Brice_Brice Cailean_Nicholas Calum_Nicholas Carbrey_Carbrey Colban_Kolbein
-			Colin_Nicholas Conall_Conall Conan_Conan Constantine_Constantine David_David Dermid_Dermid Donald_Donald Douglas_Douglas Duff_Duff Dugald_Dugald
-			Duncan_Duncan Edgar_Edgar Edward_Edward Edwin_Edwin Eric_Eric Evander_Ivar Ewan_Eugene Farquhar_Farquhar Fergus_Fergus Fingal_Finn Findlay_Findlay Frang_Francis
-			Gavin_Gavin Gilbert_Gilbert Gilbride_Gilbert Gilchrist_Gilchrist Gillespie Gilpatrick_Gilpatrick Gilroy_Gilroy Giric_Gregory Glenn Godfrey_Godfrey Gregor_Gregory
-			Hamish_Jacob Hector_Hector Henry_Henry Hugh_Hugh Iain_John Indulf James_Jacob John_John Kenneth_Kenneth Kentigern_Kentigern Lachlan_Roland Laurence_Laurence Lennon_Lennon
-			Lulach Macbeth Magnus_Magnus Malcolm_Malcolm Maldoven_Maldoven Maldred_Maldred Malise_Malise Malmure_Malmure Maoilios Marcas_Marcus
-			Matad_Matad Matthew_Matthew Michael_Michael Morgan_Morgan Muir Mungo_Mungo Murdoch_Murdoch Murray Neil_Nigel Ninian_Ninian Oscar_Oscar
-			Patrick_Patrick Paul_Paul Peter_Peter Philip_Philip Radulf_Ralph Ranald_Reinhold Richard_Richard Robert_Robert Roderick_Roderick Ronald_Ragnvald Rory_Roderick Ross Roy_Roy
-			Shaw_Shaw Simon_Simon Somerled_Somerled Stephan_Stephen Sweeny_Sweeny Tadhg_Tadg Talore_Talore Thomas_Thomas Torquil_Torkel Uhtred_Uhtred Uisdean_Eysteinn Walan_Valentin
-			Waldeve_Waltheof Walter_Walter William_William
+			Alwin Athelwulf Baldric Beringar Brand Broder Cospatric Dufgal Dungal Eadric
+			Eanfrid Ethelred Everard Fergus Forne Gamel Godric Gospatrick Grim Hacon
+			Haldane Halfdan Hallbert Hamond Hereward Hrolf Ivar Ketill Leofric Maldred
+			Morcar Njal Orm Osbert Osric Radulf Ragnald Ranulf Roderic Seward
+			Sigurd Siward Skuli Snorri Sweyn Thorfinn Thorald Thorbrand Thorkell Thormod
+			Thorstein Thurstan Tostig Ulf Uhtred Waldeve Waltheof Wymund Alfric
+			Ailwin Berengar Colban Cuthbertson Drem Eirik Erlend Fastolf Frode Geirmund
+			Glendinning Gunnald Hauk Heming Hjortr Ingolf Jarl Ketilbert Leiknir Magnusson
+			Meldred Olafson Orrok Rolfson Sigtrygg Skapti Sumerled Torquil Tovi Ulfketil
+			Valthjof Wulfric Yngvar Athis Brandolf Cormac Dovenald Gillmor Hardwin Kolbein Thorleif
 		}
 		female_names = {
-			Ada Affraic_Euphemia Agnes_Agnes Aileen_Helen Alice_Alice Anna_Anna Annabella Aufrica_Euphemia Barabal_Barbara Beileag_Elizabeth Beitris_Beatrice Beathoc_Beatrice Bride_Brigit
-			Catriona_Catherine Cecilia_Cecilia Christina_Christina Deirdre_Deirdre Derilla_Derilla Dervorgilla_Dervorgilla Donada Donella
-			Edith_Edith Edna_Eithne Effie Eilionoir_Eleanor Eimhir_Emer Eithne_Eithne Ela Eleanor_Eleanor Elspeth_Elizabeth Euna Eva_Eva Fenella_Finnguala Fingola_Finnguala Flora_Flora 
-			Forflissa Galiena Glenna Gormelia_Gormflaith Gruoch Helen_Helen Innes Iona Isabel_Elizabeth Isla Isobel_Elizabeth Jean_Joan Julia_Julia
-			Kenna Kentigerna Kirstin_Christina Lillias_Lillian Lorna Malmure_Malmure Maisie_Margaret Malina Margaret_Margaret Mariota_Mariota Marjory_Marjory Mary_Maria
-			Martha_Martha Marthoc_Marjory Maud_Matilda Maura_Maria Mirren_Murron Mor_Mor Morag_Mor Morna_Morna Moyna_Mona Muriel_Muriel
-			Murron_Murron Nuala_Finnguala Orabilia Peigi_Margaret Rhonda Rodina Ronalda_Ragnhild Ros_Ros Saundra_Alexandra Sheena_Joan Shona_Joan Sholto Slaine_Slaine Sorcha_Sorcha Una_Una
+			Aethelflaed Ailsa Alfdis Arnbjorg Astrid Bergljot Brenna Brynhild Dalla Eadgifu
+			Ealdgith Eithne Estrith Fenella Frida Geira Gertrud Gormlaith Groa Gunhild
+			Halla Helga Herborg Hilda Ingibjorg Ingeborg Isolde Jorunn Kenna Lagertha
+			Lif Malfrid Mairead Melkorka Morna Oda Orabel Ragnhild Ragnfrid Rind
+			Sela Sigdis Signy Sigrid Skadi Svanhild Thora Thorhild Thorunn Ulfhild
+			Unn Vigdis Ylva Aedwen Aelfgifu Aife Alfhild Arngunn Aslaug Berit
+			Bera Dyrfinna Eirny Eydis Freydis Gudlaug Gunnvor Hlif Hrodny Ingunn
+			Jodis Kalfhild Ljot Magnhild Ragnthora Runa Saera Signe Solveig Steinunn
+			Thordis Thorgerd Thorkatla Torhild Ulfdis Valborg Vedis Yrsa Ailswith
+			Arnora Bergthora Daga Eydrun Hjordis Hrothild Jarnhild Ketilrid Rannveig Thrainy Yngvild
 		}
 		
 		from_dynasty_prefix = "de "
@@ -119,48 +151,31 @@ gallovian_group = {
         mother_name_chance = 5
     }
 
-    aontaithe = {
-        graphical_cultures = { celticgfx }
-        
-        color = { 38 191 114 }
-        
+
+	aontaithe = { # Irish like culture
+		graphical_cultures = { celticgfx }
+		
+		color = { 38 191 114 }
+		
 		male_names = {
-			Aaron_Aaron Abbán Abner_Abner Abél_Abel Adomnán Áed_Hugh Áedgen Áeducán Áedán_Hugh Áengus_Angus Affiath Ailbe Ailbrend Ailbrenn Ailchú Aildobur Ailgel Áilgenán Ailgus
-			Ailill Ailpín_Alwin Ainbchellach Áindle Ainftech_Enfidaig Ainmere Airechtach Airfhindán Airfhinnán Airleid Airmedach Amalgaid Amlaíb_Olaf Anfudán Anlón Anmchaid Ánrothán Ardgal
-			Ardgar Art_Arthur Artbran Artgal Artgus Artucán Artúr_Arthur Assiucc Augaire Augustín_Augustine Aurthuile Báethgalach Báethíne Báetán Béoáed Barrfhind Beccán Berrach Bhátair_Walter
-			Blathmacc Bran_Bran Brandub Brangen Bressal Brian_Brian Briccéne Briccíne Broccán Bruatur Bruide_Bride Brénaind Brénainn Bróen Búaidbéo Caicher Cailech Cailte Cairbre_Carbrey
-			Cairell Caisséne Caissín Caissíne Canann Canannán Carlus_Charles Cathal Cathalán Cathassach Cathbad Cathmáel Cathmál Cathnio Cathub Causantín_Constantine Caílte Caínchomrac
-			Caíndelbán Ceithernach Cellach Cellachán Cennétig_Kentigern Cenn-Fáelad Cennlachán Cerball Cernach Cernachán Cian Ciarán Cilléne Cillíne Cináed_Kenneth Clemens_Clement Cobthach
-			Coirpre Colcu Colmán_Nicholas Columb_Nicholas Comgán Conaing Conall_Conall Conallán Conamail Conán_Conan Conchenn Conchobar Condla Congal Congalach Congus Conlang Conmac Conmacc
-			Conmáel Conmál Conn_Conn Connla Conrí Constans_Constantius Constantín_Constantine Corbb Corbán Corccán Corcrán Cormac Coscrach Coílboth Crimthann Crundmáel_Crundmáel Cruinnmáel_Crundmáel
-			Críchán Crónán Cuilén Cuindles Cuircthe Cummascach Cáemán Cóelbad Cóelub Cóemán Cú-Allaid Cú-Bretan Cú-Caech Cú-Cen Cú-Cen-Máthair Cú-Cúaráin Cú-Gamna Cú-Roí Cúanu Cúldub Cúán
-			Cúánán Dabíd_David Daigre Dalbach Dallán Daniél_Daniel Dathal Dathgus Demmán Diarmait_Dermid Doedgus Domangart Domnall_Donald Donn Donnchad_Duncan Donncuan_Duncan Donndubán Donngal
-			Donnucán_Duncan Doélgus Drost Drust Dub-dá-Lethe Dubcenn Dubgenn Dubh_Duff Dubhghall_Dugald Dubhglais_Douglas Dubthach Dubáed Dubán Duiblesc Duibne Dunáed Dálach Dícuill Díglach Dímmae
-			Dímmasach Dímmán Dínertach Dúnacán Dúnadach Dúnchad_Duncan Dúngal Dúngalach Dúnlang Éamonn_Edmund Echmarcach Échtgal Échtgus Echthigern Echuid Éicnech Éicnechán Eláir Énna Énri_Henry Éochad
-			Eochaid_Eochaid Eochu Eochucán Éogan_Eugene Erc_Eric Ercaid Ercáed Ercán Éremón Érennach Ernán Eterscél Eógan_Eugene Eóganán_Eugene Fachtna Fairchellach Fallaman Farannán Faílbe Fearghus_Fergus
-			Fechtnach Fedach Fearchar_Farquhar Fedelmid Feirgil Felic Fer-Fugaill Feradach_Feradach Ferdomnach Fergal Fergus_Fergus Fiachnae Fianchú Findbarr Fingen Finguine Finn_Finn Finnacán Finnbarr
-			Finnchú Finnlagh_Findlay Finnsnechtae Fintan Flaithbertach Flaithem Flaithemán Flaithgus Flaithrí Flann Flannacán Flannchad Flannán Fogartach Folachtach Forannán Forbassach Fothad Fothud
-			Fuacarta Fubthad Fuirechtach Fursu Fáelcar Fáelchad Fáelchú Fáeldobur Fáelgus Fáelán Fáelbe Fíachnae Fíadchú Fíngin Fínsnechta Fócarta Gabrán Garalt Garbith Gilla-Íosa Gilla-Brígte_Gilbert
-			Gilla-Coluim Gilla-Comgáin Gilla-Críst_Gilchrist Gilla-na-Náem Gilla-Pátraic_Gilpatrick Gilla-Ruad_Gilroy Glaisiuc Glaschu Glún-Iairn Gofraid_Godfrey Gormacán Gormgus Gormán Guaire Gáethán
-			Gáethíne Gósacht Iacob_Jacob Iarlaithe Imchad Indrechtach Ioseph_Joseph Íomhar_Ivar Labraid Lachtnae Lachtnán Lachtnéne Laidcenn Laidgenn Laidíne Laisrén Lennán_Lennon Lethlobur Liam_William
-			Liber Lochlann Loingsech Lonán Lorcán Lugh_Leon Lugaid Lugáed Láegaire Lóchéne Lóchíne Lóeguire Mac-Laisre Mainchíne Maine Manchán Martan Mathgamain Matudán Minchán Mo-Chonna Mo-Lua Móenach
-			Morand Morann Mugrón Muirchertach Muirecán Muiredach_Murdoch Muirgius Murchad Murchú Máel-Anfaid Máel-Bresail Máel-Brígte Máel-Cein Máel-Cianáin Máel-Ciaráin Máel-Coluim_Malcolm Máel-Corgis
-			Máel-Dubh_Maldoven Máel-Dúin Máel-Fothartaig Máel-Fábaill Máel-Íosa_Malise Máel-Máedóc Máel-Martain Máel-Mórda Máel-Muire_Malmure Máel-Míchíl Máel-Petair Máel-Pátraic Máel-Ruanaid Máel-Sechnaill
-			Máel-Tólai Máelán Máenach Máthair Múadán Nadarchu Nannid Natfraech Natfraich Natsluaig Nechtan_Nathan Niall_Nigel Niallgus Niallán Nuadu Odrán Óengus_Angus Óenucán Oisséne Oissíne Olcán Ólchobar
-			Onchú Orthanach Oscar_Oscar Pátraic_Patrick Petair_Peter Pilib_Philip Pól_Paul Proinsias_Francis Rechtabra Riacán Riaguil Robartach Rogallach Rogellach Ruah_Roy Ruaidrí_Roderick Ruarcc Rumann
-			Ráthach Rígán Ríán Ródán Rónchú Rónán_Ronan Rúadacán Rúadán Scandal Scandlán Scellán Scolaige Séaghdha_Shaw Séafra_Godfrey Séamas_Jacob Seán_John Sechnassach Selbach Senchán Seoán_John Sinach
-			Siothrún_Godfrey Slébíne Snedgus Sogan Somhairle_Somerled Suibne_Sweeny Sáerbrethach Sárán Séigíne Sétna Sétnae Tadg_Tadg Taithlech Talorc_Talore Talorcán_Talorcán Temnén Tigernach Tigernán
-			Tipraite Tomaltach Tomás_Thomas Torccán Trenchad Trengus Tressach Tuathalán Tuireann_Taran Tálán Tóla Túathal_Tuathal Ualgarg Ualan_Valentin Ualtar_Walter Úamnachán Uargal Uargalach Uargus
-			Uilliam_William Ultán
+			Aed Aedan Aengus Brian Bresal Cathal Cellach Cennfaelad Cernach Ciaran
+			Conall Congal Conmael Cormac Cuanu Cuan Diarmaid Donnchad Dubthach Eochaid
+			Fergus Fiachra Fiachu Flann Fogartach Gilla Loegaire Lorcain Maelduin Maelruain
+			Maelsechlainn Murchad Muiredach Niall Oengus Raghnall Ruaidri Suibne Tadg Tigernan
+			Tuathal Uilliam Art Ailill Becan Bela Bran Breandan Cairbre Colman
+			Crimthann Cuchulainn Domnall Dungal Fachtna Fergal Fintan Lonan Lugaid Manchan
+			Mongan Nath Ronain Senchan Sithric Toirdelbach Ultan Amlaib Dubdalach Eogan
+			Guaire Macnia Oscar Riordan Seanan Torna
 		}
 		female_names = {
-			Ablach Áedammair Affraic_Euphemia Aíbinn Aibilín_Eva Aileann Áine_Agnes Anlaith Aróc Barrdub Ben-Laigen Ben-Míde Ben-Muman Ben-Ulad Brigit_Brigit  Bé-Fáil Bébinn Cacht Caillech-Fhinnéin
-			Cainnech Caisséne Caitilín_Catherine Caíntigern Caírech Cathán Catríona_Catherine Cellach Ciar Cnes Coblaith_Cobflaith Cobflaith_Cobflaith Conchenn Condál Crínóch Crístina_Christina Cumman
-			Deirdre Der-bForgaill_Devorguilla Derbáil Derborgaill_Devorguilla Der-Ilei_Derilla Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla Dúinsech Dúnlaith Echrad Éibhleann
-			Eilionora_Eleanor Eithne_Eithne Ellbríg Emer_Emer Étaín Éua_Eva Euginia_Eugenia Faílenn Fedelm Finneacht Finnguala_Finnguala Flann Forbflaith Fíne Garb Gelgéis Gerróc Gnathnad Gormflaith_Gormflaith
-			Gormlaith_Gormflaith Gráinne Imag Íte Lann Lasairfíona Lathir Lerben Lerthan Lígach Lucia_Lucia Martha_Martha Mauda_Matilda Muadhnait_Mona Muirenn_Murron Muirgel_Muriel Muirne_Morna Máel-Mide
-			Máel-Muire_Malmure Máire_Maria Máiread Máirgred_Margaret Mór_Mor Mór-Muman Nárbflaith Nuala_Finnguala Órlaith Órnat Róis_Ros Sadb Samthann Scáthach Sébdann Selblaith Seonaid_Joan Sinech Siobán_Joan
-			Sisuile Sláíne_Slaine Sorcha_Sorcha Suaibsech Sáerlaith Sétach Síthmaith Tailefhlaith Tailltiu Temair Tuathflaith Tómnat Uallach Uasal Úna_Una
+			Aine Aoife Bebinn Becuma Blathnat Brig Cainnear Clidna Crede Dechtire
+			Derbforgaill Eithne Emer Etain Fedelm Fionnuala Gormlaith Grainne Lasair Liadain
+			Medb Macha Mairenn Mor Muireann Nessa Rionach Sadbh Sadb Scathach
+			Sinead Tailltiu Uallach Aillbe Aithne Banbha Beccnat Cellach Coblaith
+			Doirend Dunlaith Eile Flaithri Forbhlaith Gelgeis Indiu Lassarina Muirgel
+			Niam Orlaith Ragnailt Roisin Samthann Sorcha Tuilelaith Aenach Blath Bri
+			Cacht Der Ethniu Fainche Flidais Fuamnach Grian Luchair Mairgen Meadhbh
+			Mugain Onchu Sela Slaine Tlachtga Aicill Baine Blenna Cuill Dairine
 		}
 		
 		from_dynasty_prefix = "de "
@@ -169,13 +184,14 @@ gallovian_group = {
 		prefix = yes
 		feminist = yes
 
-        modifier = default_culture_modifier
-        pat_grf_name_chance = 30
-        mat_grf_name_chance = 10
-        father_name_chance = 25
-        
-        pat_grm_name_chance = 20
-        mat_grm_name_chance = 40
-        mother_name_chance = 5
-    }
+		modifier = default_culture_modifier
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+
 }
