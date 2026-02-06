@@ -1,0 +1,125 @@
+namespace = RR # 1001-1200 for set_race events
+
+# The following event ensures every char has a race on startup
+character_event = {
+    id = RR.1001
+    hide_window = yes
+    is_triggered_only = yes
+
+    trigger = {
+        NOR = {
+            trait = creature_ailor
+            trait = creature_allar
+            trait = creature_asha
+            trait = creature_bralona
+            trait = creature_dragonkin
+            trait = creature_dwarf
+            trait = creature_suvial
+            trait = creature_teled
+            trait = creature_selvath
+            trait = creature_yanar
+            trait = creature_kathar
+            trait = creature_isldar
+            trait = creature_sihndar
+            trait = creature_eronidas
+            trait = creature_maraya
+            trait = creature_narim
+            trait = creature_orion
+            trait = creature_sihai
+            trait = creature_skyborn
+            trait = creature_urlan
+        }
+    }
+
+    immediate = {
+        # One-to-one culture -> race mappings
+        if = {
+            limit = { culture = allar }
+            add_trait = creature_allar
+        }
+        else_if = {
+            limit = { culture = asha }
+            add_trait = creature_asha
+        }
+        else_if = {
+            limit = { culture = bralona }
+            add_trait = creature_bralona
+        }
+        else_if = {
+            limit = { culture = dragonkin }
+            add_trait = creature_dragonkin
+        }
+        else_if = {
+            limit = { culture = dwarven }
+            add_trait = creature_dwarf
+        }
+        else_if = {
+            limit = { culture = suvival }
+            add_trait = creature_suvial
+        }
+        else_if = {
+            limit = {
+                OR = {
+                    culture = finul
+                    culture = llasada
+                    culture = solvaan
+                }
+            }
+            add_trait = creature_teled
+        }
+        else_if = {
+            limit = { culture = selvath }
+            add_trait = creature_selvath
+        }
+        else_if = {
+            limit = { culture = yanar }
+            add_trait = creature_yanar
+        }
+        else_if = {
+            limit = { culture = kathar }
+            add_trait = creature_kathar
+        }
+        else_if = {
+            limit = { culture = isldar }
+            add_trait = creature_isldar
+        }
+        else_if = {
+            limit = { culture = sihndar }
+            add_trait = creature_sihndar
+        }
+        else_if = {
+            limit = { culture = eronidas }
+            add_trait = creature_eronidas
+        }
+        else_if = {
+            limit = { culture = sihai }
+            add_trait = creature_sihai
+        }
+        else_if = {
+            limit = { culture = skyborn }
+            add_trait = creature_skyborn
+        }
+        else_if = {
+            limit = { culture = url }
+            add_trait = creature_urlan
+        }
+        else_if = {
+            limit = { culture = maraya }
+            add_trait = creature_maraya
+        }
+        else_if = {
+            limit = { culture = narim }
+            add_trait = creature_narim
+        }
+        else_if = {
+            limit = { culture = orion }
+            add_trait = creature_orion
+        }
+
+        # Everything else fallback to Ailor (and this also covers any unmapped cultures)
+        else = {
+            add_trait = creature_ailor
+        }
+    }
+}
+
