@@ -1,456 +1,456 @@
 9010=
 {
 	name="Azure Pearls"
-	culture="allar"
+	culture=allar
 }
 
 9011=
 {
 	name="Flying Daggers"
-	culture="allar"
+	culture=allar
 }
 
 9012=
 {
 	name="Silent Anvil"
-	culture="allar"
+	culture=allar
 }
 
 9013=
 {
 	name="Burning Sigil"
-	culture="allar"
+	culture=allar
 }
 
 9014=
 {
 	name="Veiled Horizon"
-	culture="allar"
+	culture=allar
 }
 
 9015=
 {
 	name="Golden Reeds"
-	culture="allar"
+	culture=allar
 }
 
 9016=
 {
 	name="Shattered Crown"
-	culture="allar"
+	culture=allar
 }
 
 9017=
 {
 	name="Echoing Depths"
-	culture="allar"
+	culture=allar
 }
 
 9018=
 {
 	name="Iron Petals"
-	culture="allar"
+	culture=allar
 }
 
 9019=
 {
 	name="Luminous Path"
-	culture="allar"
+	culture=allar
 }
 
 9020=
 {
 	name="Obsidian Tide"
-	culture="allar"
+	culture=allar
 }
 
 9021=
 {
 	name="Ninefold Oath"
-	culture="allar"
+	culture=allar
 }
 
 9022=
 {
 	name="Crimson Balance"
-	culture="allar"
+	culture=allar
 }
 
 9023=
 {
 	name="Whispering Flame"
-	culture="allar"
+	culture=allar
 }
 
 9024=
 {
 	name="Moonlit Scale"
-	culture="allar"
+	culture=allar
 }
 
 9025=
 {
 	name="Falling Star"
-	culture="allar"
+	culture=allar
 }
 
 9026=
 {
 	name="Twin Serpents"
-	culture="allar"
+	culture=allar
 }
 
 9027=
 {
 	name="Open Hand"
-	culture="allar"
+	culture=allar
 }
 
 9028=
 {
 	name="Stormbound Seal"
-	culture="allar"
+	culture=allar
 }
 
 9029=
 {
 	name="Hidden Loom"
-	culture="allar"
+	culture=allar
 }
 
 9030=
 {
 	name="Sunken Banner"
-	culture="allar"
+	culture=allar
 }
 
 9031=
 {
 	name="Pale Crescent"
-	culture="allar"
+	culture=allar
 }
 
 9032=
 {
 	name="Shining Knot"
-	culture="allar"
+	culture=allar
 }
 
 9033=
 {
 	name="Broken Compass"
-	culture="allar"
+	culture=allar
 }
 
 9034=
 {
 	name="Verdant Coil"
-	culture="allar"
+	culture=allar
 }
 
 9035=
 {
 	name="Glass Citadel"
-	culture="allar"
+	culture=allar
 }
 
 9036=
 {
 	name="Blackened Rose"
-	culture="allar"
+	culture=allar
 }
 
 9037=
 {
 	name="Roaring Current"
-	culture="allar"
+	culture=allar
 }
 
 9038=
 {
 	name="Amber Lock"
-	culture="allar"
+	culture=allar
 }
 
 9039=
 {
 	name="Still Waters"
-	culture="allar"
+	culture=allar
 }
 
 9040=
 {
 	name="Piercing Gale"
-	culture="allar"
+	culture=allar
 }
 
 9041=
 {
 	name="Hollow Mountain"
-	culture="allar"
+	culture=allar
 }
 
 9042=
 {
 	name="Burning Quill"
-	culture="allar"
+	culture=allar
 }
 
 9043=
 {
 	name="Endless Ledger"
-	culture="allar"
+	culture=allar
 }
 
 9044=
 {
 	name="Ivory Threshold"
-	culture="allar"
+	culture=allar
 }
 
 9045=
 {
 	name="Flickering Veil"
-	culture="allar"
+	culture=allar
 }
 
 9046=
 {
 	name="Silver Measure"
-	culture="allar"
+	culture=allar
 }
 
 9047=
 {
 	name="Sundered Chain"
-	culture="allar"
+	culture=allar
 }
 
 9048=
 {
 	name="Ascendant Wing"
-	culture="allar"
+	culture=allar
 }
 
 9049=
 {
 	name="Quiet Forge"
-	culture="allar"
+	culture=allar
 }
 
 9050=
 {
 	name="Sapphire Wake"
-	culture="allar"
+	culture=allar
 }
 
 9051=
 {
 	name="Hidden Orchard"
-	culture="allar"
+	culture=allar
 }
 
 9052=
 {
 	name="Brazen Key"
-	culture="allar"
+	culture=allar
 }
 
 9053=
 {
 	name="Gilded Ash"
-	culture="allar"
+	culture=allar
 }
 
 9054=
 {
 	name="Turning Wheel"
-	culture="allar"
+	culture=allar
 }
 
 9055=
 {
 	name="Sealed Mirror"
-	culture="allar"
+	culture=allar
 }
 
 9056=
 {
 	name="Blazing Meridian"
-	culture="allar"
+	culture=allar
 }
 
 9057=
 {
 	name="Deep Archives"
-	culture="allar"
+	culture=allar
 }
 
 9058=
 {
 	name="Waning Torch"
-	culture="allar"
+	culture=allar
 }
 
 9059=
 {
 	name="Verdigris Crown"
-	culture="allar"
+	culture=allar
 }
 
 9060=
 {
 	name="Open Sky"
-	culture="allar"
+	culture=allar
 }
 
 9061=
 {
 	name="Folding Blade"
-	culture="allar"
+	culture=allar
 }
 
 9062=
 {
 	name="Drowned Sun"
-	culture="allar"
+	culture=allar
 }
 
 9063=
 {
 	name="Silent Verdict"
-	culture="allar"
+	culture=allar
 }
 
 9064=
 {
 	name="Shimmering Wake"
-	culture="allar"
+	culture=allar
 }
 
 9065=
 {
 	name="Braided Current"
-	culture="allar"
+	culture=allar
 }
 
 9066=
 {
 	name="Final Accord"
-	culture="allar"
+	culture=allar
 }
 
 9067=
 {
 	name="Golden Silence"
-	culture="allar"
+	culture=allar
 }
 
 9068=
 {
 	name="Cindered Hall"
-	culture="allar"
+	culture=allar
 }
 
 9069=
 {
 	name="Radiant Seal"
-	culture="allar"
+	culture=allar
 }
 
 9070=
 {
 	name="Vein of Stars"
-	culture="allar"
+	culture=allar
 }
 
 9071=
 {
 	name="Watchful Ember"
-	culture="allar"
+	culture=allar
 }
 
 9072=
 {
 	name="Locked Horizon"
-	culture="allar"
+	culture=allar
 }
 
 9073=
 {
 	name="Trembling Reed"
-	culture="allar"
+	culture=allar
 }
 
 9074=
 {
 	name="Broken Diadem"
-	culture="allar"
+	culture=allar
 }
 
 9075=
 {
 	name="Flowing Script"
-	culture="allar"
+	culture=allar
 }
 
 9076=
 {
 	name="Adamant Wake"
-	culture="allar"
+	culture=allar
 }
 
 9077=
 {
 	name="Lifting Fog"
-	culture="allar"
+	culture=allar
 }
 
 9078=
 {
 	name="Last Measure"
-	culture="allar"
+	culture=allar
 }
 
 9079=
 {
 	name="Unbound Scale"
-	culture="allar"
+	culture=allar
 }
 
 9080=
 {
 	name="Pierced Dawn"
-	culture="allar"
+	culture=allar
 }
 
 9081=
 {
 	name="Echoing Antechamber"
-	culture="allar"
+	culture=allar
 }
 
 9082=
 {
 	name="Burning Balance"
-	culture="allar"
+	culture=allar
 }
 
 9083=
 {
 	name="Final Horizon"
-	culture="allar"
+	culture=allar
 }
 
 9084=
 {
 	name="Living Seal"
-	culture="allar"
+	culture=allar
 }
 
 9085=
 {
 	name="Numbered Flame"
-	culture="allar"
+	culture=allar
 }
 

@@ -1,1020 +1,1020 @@
 6077=
 {
 	name="Yngling"
-	culture="velheim"
+	culture=velheim
 }
 
 6078=
 {
 	name="Skjoldung"
-	culture="velheim"
+	culture=velheim
 }
 
 6079=
 {
 	name="Wolfcloak"
-	culture="velheim"
+	culture=velheim
 }
 
 6080=
 {
 	name="Greycloak"
-	culture="velheim"
+	culture=velheim
 }
 
 6081=
 {
 	name="Ravenbanner"
-	culture="velheim"
+	culture=velheim
 }
 
 6082=
 {
 	name="Ironside"
-	culture="velheim"
+	culture=velheim
 }
 
 6083=
 {
 	name="Bloodaxe"
-	culture="velheim"
+	culture=velheim
 }
 
 6084=
 {
 	name="Frostbeard"
-	culture="velheim"
+	culture=velheim
 }
 
 6085=
 {
 	name="Stonehelm"
-	culture="velheim"
+	culture=velheim
 }
 
 6086=
 {
 	name="Stormborn"
-	culture="velheim"
+	culture=velheim
 }
 
 6087=
 {
 	name="Sea-Wolf"
-	culture="velheim"
+	culture=velheim
 }
 
 6088=
 {
 	name="Firebrand"
-	culture="velheim"
+	culture=velheim
 }
 
 6089=
 {
 	name="Oakshield"
-	culture="velheim"
+	culture=velheim
 }
 
 6090=
 {
 	name="Bearcloak"
-	culture="velheim"
+	culture=velheim
 }
 
 6091=
 {
 	name="Icefang"
-	culture="velheim"
+	culture=velheim
 }
 
 6092=
 {
 	name="Thunderhand"
-	culture="velheim"
+	culture=velheim
 }
 
 6093=
 {
 	name="Blackwolf"
-	culture="velheim"
+	culture=velheim
 }
 
 6094=
 {
 	name="WhiteRaven"
-	culture="velheim"
+	culture=velheim
 }
 
 6095=
 {
 	name="RedAxe"
-	culture="velheim"
+	culture=velheim
 }
 
 6096=
 {
 	name="Goldbeard"
-	culture="velheim"
+	culture=velheim
 }
 
 6097=
 {
 	name="Deepfjord"
-	culture="velheim"
+	culture=velheim
 }
 
 6098=
 {
 	name="Northwind"
-	culture="velheim"
+	culture=velheim
 }
 
 6099=
 {
 	name="Frostwolf"
-	culture="velheim"
+	culture=velheim
 }
 
 6100=
 {
 	name="Ironcloak"
-	culture="velheim"
+	culture=velheim
 }
 
 6101=
 {
 	name="Stormcloak"
-	culture="velheim"
+	culture=velheim
 }
 
 6102=
 {
 	name="Ravenshield"
-	culture="velheim"
+	culture=velheim
 }
 
 6103=
 {
 	name="Skullsplitter"
-	culture="velheim"
+	culture=velheim
 }
 
 6104=
 {
 	name="Wyrmthane"
-	culture="velheim"
+	culture=velheim
 }
 
 6105=
 {
 	name="Drakeblood"
-	culture="velheim"
+	culture=velheim
 }
 
 6106=
 {
 	name="Wavecutter"
-	culture="velheim"
+	culture=velheim
 }
 
 6107=
 {
 	name="Saltbeard"
-	culture="velheim"
+	culture=velheim
 }
 
 6108=
 {
 	name="Fjallborn"
-	culture="velheim"
+	culture=velheim
 }
 
 6109=
 {
 	name="Snowmantle"
-	culture="velheim"
+	culture=velheim
 }
 
 6110=
 {
 	name="Nightblade"
-	culture="velheim"
+	culture=velheim
 }
 
 6111=
 {
 	name="Blackfjord"
-	culture="velheim"
+	culture=velheim
 }
 
 6112=
 {
 	name="Whalebone"
-	culture="velheim"
+	culture=velheim
 }
 
 6113=
 {
 	name="Firespear"
-	culture="velheim"
+	culture=velheim
 }
 
 6114=
 {
 	name="Coldsteel"
-	culture="velheim"
+	culture=velheim
 }
 
 6115=
 {
 	name="Stonefist"
-	culture="velheim"
+	culture=velheim
 }
 
 6116=
 {
 	name="Shieldbreaker"
-	culture="velheim"
+	culture=velheim
 }
 
 6117=
 {
 	name="Longship"
-	culture="velheim"
+	culture=velheim
 }
 
 6118=
 {
 	name="Frostmantle"
-	culture="velheim"
+	culture=velheim
 }
 
 6119=
 {
 	name="Skyspear"
-	culture="velheim"
+	culture=velheim
 }
 
 6120=
 {
 	name="Rimecloak"
-	culture="velheim"
+	culture=velheim
 }
 
 6121=
 {
 	name="Stormrider"
-	culture="velheim"
+	culture=velheim
 }
 
 6122=
 {
 	name="Icebound"
-	culture="velheim"
+	culture=velheim
 }
 
 6123=
 {
 	name="Grimwolf"
-	culture="velheim"
+	culture=velheim
 }
 
 6124=
 {
 	name="Redcloak"
-	culture="velheim"
+	culture=velheim
 }
 
 6125=
 {
 	name="Ravenhelm"
-	culture="velheim"
+	culture=velheim
 }
 
 6126=
 {
 	name="Northstar"
-	culture="velheim"
+	culture=velheim
 }
 
 6127=
 {
 	name="Seaborn"
-	culture="velheim"
+	culture=velheim
 }
 
 6128=
 {
 	name="Frostvein"
-	culture="velheim"
+	culture=velheim
 }
 
 6129=
 {
 	name="Ironjaw"
-	culture="velheim"
+	culture=velheim
 }
 
 6130=
 {
 	name="Blackaxe"
-	culture="velheim"
+	culture=velheim
 }
 
 6131=
 {
 	name="Stormaxe"
-	culture="velheim"
+	culture=velheim
 }
 
 6132=
 {
 	name="Snowdrake"
-	culture="velheim"
+	culture=velheim
 }
 
 6133=
 {
 	name="Deepwater"
-	culture="velheim"
+	culture=velheim
 }
 
 6134=
 {
 	name="Saltwind"
-	culture="velheim"
+	culture=velheim
 }
 
 6135=
 {
 	name="Whiterock"
-	culture="velheim"
+	culture=velheim
 }
 
 6136=
 {
 	name="Coldshore"
-	culture="velheim"
+	culture=velheim
 }
 
 6137=
 {
 	name="Fjordsbane"
-	culture="velheim"
+	culture=velheim
 }
 
 6138=
 {
 	name="Waveborn"
-	culture="velheim"
+	culture=velheim
 }
 
 6139=
 {
 	name="Greywolf"
-	culture="velheim"
+	culture=velheim
 }
 
 6140=
 {
 	name="Bloodshield"
-	culture="velheim"
+	culture=velheim
 }
 
 6141=
 {
 	name="Steelhand"
-	culture="velheim"
+	culture=velheim
 }
 
 6142=
 {
 	name="Stormshield"
-	culture="velheim"
+	culture=velheim
 }
 
 6143=
 {
 	name="Runespear"
-	culture="velheim"
+	culture=velheim
 }
 
 6144=
 {
 	name="Blackrock"
-	culture="velheim"
+	culture=velheim
 }
 
 6145=
 {
 	name="Raveneye"
-	culture="velheim"
+	culture=velheim
 }
 
 6146=
 {
 	name="Frosthammer"
-	culture="velheim"
+	culture=velheim
 }
 
 6147=
 {
 	name="Northcliff"
-	culture="velheim"
+	culture=velheim
 }
 
 6148=
 {
 	name="Seafoam"
-	culture="velheim"
+	culture=velheim
 }
 
 6149=
 {
 	name="Grimshield"
-	culture="velheim"
+	culture=velheim
 }
 
 6150=
 {
 	name="Icebreaker"
-	culture="velheim"
+	culture=velheim
 }
 
 6151=
 {
 	name="Firecloak"
-	culture="velheim"
+	culture=velheim
 }
 
 6152=
 {
 	name="Stormhelm"
-	culture="velheim"
+	culture=velheim
 }
 
 6153=
 {
 	name="Rimebeard"
-	culture="velheim"
+	culture=velheim
 }
 
 6154=
 {
 	name="Coldheart"
-	culture="velheim"
+	culture=velheim
 }
 
 6155=
 {
 	name="Skullhelm"
-	culture="velheim"
+	culture=velheim
 }
 
 6156=
 {
 	name="Wavebreaker"
-	culture="velheim"
+	culture=velheim
 }
 
 6157=
 {
 	name="Snowfall"
-	culture="velheim"
+	culture=velheim
 }
 
 6158=
 {
 	name="Stonebeard"
-	culture="velheim"
+	culture=velheim
 }
 
 6159=
 {
 	name="Ironrune"
-	culture="velheim"
+	culture=velheim
 }
 
 6160=
 {
 	name="Frostborn"
-	culture="velheim"
+	culture=velheim
 }
 
 6161=
 {
 	name="Darkfjord"
-	culture="velheim"
+	culture=velheim
 }
 
 6162=
 {
 	name="Blackpine"
-	culture="velheim"
+	culture=velheim
 }
 
 6163=
 {
 	name="Redwolf"
-	culture="velheim"
+	culture=velheim
 }
 
 6164=
 {
 	name="Whalefang"
-	culture="velheim"
+	culture=velheim
 }
 
 6165=
 {
 	name="Stormpeak"
-	culture="velheim"
+	culture=velheim
 }
 
 6166=
 {
 	name="Seawolf"
-	culture="velheim"
+	culture=velheim
 }
 
 6167=
 {
 	name="Greybeard"
-	culture="velheim"
+	culture=velheim
 }
 
 6168=
 {
 	name="Runestone"
-	culture="velheim"
+	culture=velheim
 }
 
 6169=
 {
 	name="Icecloak"
-	culture="velheim"
+	culture=velheim
 }
 
 6170=
 {
 	name="Northaxe"
-	culture="velheim"
+	culture=velheim
 }
 
 6171=
 {
 	name="Coldhammer"
-	culture="velheim"
+	culture=velheim
 }
 
 6172=
 {
 	name="Stormbeard"
-	culture="velheim"
+	culture=velheim
 }
 
 6173=
 {
 	name="Frostshield"
-	culture="velheim"
+	culture=velheim
 }
 
 6174=
 {
 	name="Ravensong"
-	culture="velheim"
+	culture=velheim
 }
 
 6175=
 {
 	name="Blackstorm"
-	culture="velheim"
+	culture=velheim
 }
 
 6176=
 {
 	name="Drakeshield"
-	culture="velheim"
+	culture=velheim
 }
 
 6177=
 {
 	name="Wavehelm"
-	culture="velheim"
+	culture=velheim
 }
 
 6178=
 {
 	name="Snowrune"
-	culture="velheim"
+	culture=velheim
 }
 
 6179=
 {
 	name="Grimfang"
-	culture="velheim"
+	culture=velheim
 }
 
 6180=
 {
 	name="Ironpeak"
-	culture="velheim"
+	culture=velheim
 }
 
 6181=
 {
 	name="Stonewolf"
-	culture="velheim"
+	culture=velheim
 }
 
 6182=
 {
 	name="Bloodraven"
-	culture="velheim"
+	culture=velheim
 }
 
 6183=
 {
 	name="Coldwind"
-	culture="velheim"
+	culture=velheim
 }
 
 6184=
 {
 	name="Firefang"
-	culture="velheim"
+	culture=velheim
 }
 
 6185=
 {
 	name="Stormfury"
-	culture="velheim"
+	culture=velheim
 }
 
 6186=
 {
 	name="Deepstone"
-	culture="velheim"
+	culture=velheim
 }
 
 6187=
 {
 	name="Northwatch"
-	culture="velheim"
+	culture=velheim
 }
 
 6188=
 {
 	name="Seahelm"
-	culture="velheim"
+	culture=velheim
 }
 
 6189=
 {
 	name="Frostsong"
-	culture="velheim"
+	culture=velheim
 }
 
 6190=
 {
 	name="Ravencliff"
-	culture="velheim"
+	culture=velheim
 }
 
 6191=
 {
 	name="Blackfrost"
-	culture="velheim"
+	culture=velheim
 }
 
 6192=
 {
 	name="Skyrune"
-	culture="velheim"
+	culture=velheim
 }
 
 6193=
 {
 	name="Icefang"
-	culture="velheim"
+	culture=velheim
 }
 
 6194=
 {
 	name="Stormward"
-	culture="velheim"
+	culture=velheim
 }
 
 6195=
 {
 	name="Grimcloak"
-	culture="velheim"
+	culture=velheim
 }
 
 6196=
 {
 	name="Coldsteel"
-	culture="velheim"
+	culture=velheim
 }
 
 6197=
 {
 	name="Runeblade"
-	culture="velheim"
+	culture=velheim
 }
 
 6198=
 {
 	name="Snowcloak"
-	culture="velheim"
+	culture=velheim
 }
 
 6199=
 {
 	name="Wavefury"
-	culture="velheim"
+	culture=velheim
 }
 
 6200=
 {
 	name="Stoneward"
-	culture="velheim"
+	culture=velheim
 }
 
 6201=
 {
 	name="Northguard"
-	culture="velheim"
+	culture=velheim
 }
 
 6202=
 {
 	name="Fireward"
-	culture="velheim"
+	culture=velheim
 }
 
 6203=
 {
 	name="Blackhelm"
-	culture="velheim"
+	culture=velheim
 }
 
 6204=
 {
 	name="Frostward"
-	culture="velheim"
+	culture=velheim
 }
 
 6205=
 {
 	name="Ravenshade"
-	culture="velheim"
+	culture=velheim
 }
 
 6206=
 {
 	name="Ironward"
-	culture="velheim"
+	culture=velheim
 }
 
 6207=
 {
 	name="Stormshade"
-	culture="velheim"
+	culture=velheim
 }
 
 6208=
 {
 	name="Deepfrost"
-	culture="velheim"
+	culture=velheim
 }
 
 6209=
 {
 	name="Coldshore"
-	culture="velheim"
+	culture=velheim
 }
 
 6210=
 {
 	name="Skullward"
-	culture="velheim"
+	culture=velheim
 }
 
 6211=
 {
 	name="Waveward"
-	culture="velheim"
+	culture=velheim
 }
 
 6212=
 {
 	name="Snowward"
-	culture="velheim"
+	culture=velheim
 }
 
 6213=
 {
 	name="Firehelm"
-	culture="velheim"
+	culture=velheim
 }
 
 6214=
 {
 	name="Northward"
-	culture="velheim"
+	culture=velheim
 }
 
 6215=
 {
 	name="Rimeward"
-	culture="velheim"
+	culture=velheim
 }
 
 6216=
 {
 	name="Stormwatch"
-	culture="velheim"
+	culture=velheim
 }
 
 6217=
 {
 	name="Blackward"
-	culture="velheim"
+	culture=velheim
 }
 
 6218=
 {
 	name="Frostwatch"
-	culture="velheim"
+	culture=velheim
 }
 
 6219=
 {
 	name="Ravenward"
-	culture="velheim"
+	culture=velheim
 }
 
 6220=
 {
 	name="Stonewatch"
-	culture="velheim"
+	culture=velheim
 }
 
 6221=
 {
 	name="Coldwatch"
-	culture="velheim"
+	culture=velheim
 }
 
 6222=
 {
 	name="Ironwatch"
-	culture="velheim"
+	culture=velheim
 }
 
 6223=
 {
 	name="Seaeye"
-	culture="velheim"
+	culture=velheim
 }
 
 6224=
 {
 	name="Northwind"
-	culture="velheim"
+	culture=velheim
 }
 
 6225=
 {
 	name="Frostwind"
-	culture="velheim"
+	culture=velheim
 }
 
 6226=
 {
 	name="Stormwind"
-	culture="velheim"
+	culture=velheim
 }
 
 6227=
 {
 	name="Rimewind"
-	culture="velheim"
+	culture=velheim
 }
 
 6228=
 {
 	name="Blackwind"
-	culture="velheim"
+	culture=velheim
 }
 
 6229=
 {
 	name="Coldwind"
-	culture="velheim"
+	culture=velheim
 }
 
 6230=
 {
 	name="Ravenwind"
-	culture="velheim"
+	culture=velheim
 }
 
 6231=
 {
 	name="Stonewind"
-	culture="velheim"
+	culture=velheim
 }
 
 6232=
 {
 	name="Ironwind"
-	culture="velheim"
+	culture=velheim
 }
 
 6233=
 {
 	name="Wavewind"
-	culture="velheim"
+	culture=velheim
 }
 
 6234=
 {
 	name="Snowwind"
-	culture="velheim"
+	culture=velheim
 }
 
 6235=
 {
 	name="Firewind"
-	culture="velheim"
+	culture=velheim
 }
 
 6236=
 {
 	name="Northfire"
-	culture="velheim"
+	culture=velheim
 }
 
 6237=
 {
 	name="Frostfire"
-	culture="velheim"
+	culture=velheim
 }
 
 6238=
 {
 	name="Stormfire"
-	culture="velheim"
+	culture=velheim
 }
 
 6239=
 {
 	name="Blackfire"
-	culture="velheim"
+	culture=velheim
 }
 
 6240=
 {
 	name="Coldflame"
-	culture="velheim"
+	culture=velheim
 }
 
 6241=
 {
 	name="Ravenfire"
-	culture="velheim"
+	culture=velheim
 }
 
 6242=
 {
 	name="Stonefire"
-	culture="velheim"
+	culture=velheim
 }
 
 6243=
 {
 	name="Ironfire"
-	culture="velheim"
+	culture=velheim
 }
 
 6244=
 {
 	name="Wavefire"
-	culture="velheim"
+	culture=velheim
 }
 
 6245=
 {
 	name="Snowfire"
-	culture="velheim"
+	culture=velheim
 }
 
 6246=
 {
 	name="Firebrand"
-	culture="velheim"
+	culture=velheim
 }
 

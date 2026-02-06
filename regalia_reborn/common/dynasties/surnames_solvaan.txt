@@ -1,1020 +1,1020 @@
 7317=
 {
 	name="Vaelcor"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7318=
 {
 	name="Ravendel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7319=
 {
 	name="Solvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7320=
 {
 	name="Darkenel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7321=
 {
 	name="Mistrel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7322=
 {
 	name="Gravelen"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7323=
 {
 	name="Velthorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7324=
 {
 	name="Corvanel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7325=
 {
 	name="Valdren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7326=
 {
 	name="Raskorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7327=
 {
 	name="Morvanel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7328=
 {
 	name="Steelan"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7329=
 {
 	name="Vornel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7330=
 {
 	name="Nightrel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7331=
 {
 	name="Grimval"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7332=
 {
 	name="Ravorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7333=
 {
 	name="Caldrin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7334=
 {
 	name="Stormel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7335=
 {
 	name="Varaken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7336=
 {
 	name="Mordrel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7337=
 {
 	name="Selvarn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7338=
 {
 	name="Darkorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7339=
 {
 	name="Vaelren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7340=
 {
 	name="Grasnel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7341=
 {
 	name="Corvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7342=
 {
 	name="Velmorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7343=
 {
 	name="Ravakin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7344=
 {
 	name="Solvren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7345=
 {
 	name="Nighten"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7346=
 {
 	name="Gravelorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7347=
 {
 	name="Valcorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7348=
 {
 	name="Mistren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7349=
 {
 	name="Steelren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7350=
 {
 	name="Vornakin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7351=
 {
 	name="Raskel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7352=
 {
 	name="Morvalen"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7353=
 {
 	name="Darkel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7354=
 {
 	name="Stormorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7355=
 {
 	name="Calvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7356=
 {
 	name="Grimren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7357=
 {
 	name="Vaelorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7358=
 {
 	name="Ravdren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7359=
 {
 	name="Solvarin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7360=
 {
 	name="Nightorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7361=
 {
 	name="Grasren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7362=
 {
 	name="Velcor"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7363=
 {
 	name="Mordakin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7364=
 {
 	name="Selvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7365=
 {
 	name="Darkren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7366=
 {
 	name="Valmorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7367=
 {
 	name="Ravorel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7368=
 {
 	name="Steelorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7369=
 {
 	name="Vornel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7370=
 {
 	name="Moraken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7371=
 {
 	name="Stormren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7372=
 {
 	name="Caldran"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7373=
 {
 	name="Grimel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7374=
 {
 	name="Vaelvar"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7375=
 {
 	name="Nightorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7376=
 {
 	name="Solvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7377=
 {
 	name="Raskorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7378=
 {
 	name="Gravelren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7379=
 {
 	name="Velorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7380=
 {
 	name="Mistran"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7381=
 {
 	name="Darkval"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7382=
 {
 	name="Corvren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7383=
 {
 	name="Valdrin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7384=
 {
 	name="Ravornel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7385=
 {
 	name="Steelan"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7386=
 {
 	name="Vornaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7387=
 {
 	name="Morrel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7388=
 {
 	name="Stormel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7389=
 {
 	name="Calvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7390=
 {
 	name="Grimorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7391=
 {
 	name="Vaelken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7392=
 {
 	name="Nightrel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7393=
 {
 	name="Solvorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7394=
 {
 	name="Rasken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7395=
 {
 	name="Grasval"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7396=
 {
 	name="Veldrin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7397=
 {
 	name="Mordel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7398=
 {
 	name="Darkorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7399=
 {
 	name="Corvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7400=
 {
 	name="Valorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7401=
 {
 	name="Ravaken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7402=
 {
 	name="Steelren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7403=
 {
 	name="Vornorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7404=
 {
 	name="Morval"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7405=
 {
 	name="Stormren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7406=
 {
 	name="Caldrin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7407=
 {
 	name="Grimken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7408=
 {
 	name="Vaelren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7409=
 {
 	name="Nighten"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7410=
 {
 	name="Solvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7411=
 {
 	name="Raskorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7412=
 {
 	name="Gravelin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7413=
 {
 	name="Velaken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7414=
 {
 	name="Mistren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7415=
 {
 	name="Darkel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7416=
 {
 	name="Corvorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7417=
 {
 	name="Valdran"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7418=
 {
 	name="Ravren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7419=
 {
 	name="Steelorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7420=
 {
 	name="Vornel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7421=
 {
 	name="Moraken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7422=
 {
 	name="Stormorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7423=
 {
 	name="Calvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7424=
 {
 	name="Grimrel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7425=
 {
 	name="Vaelorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7426=
 {
 	name="Nightorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7427=
 {
 	name="Solvren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7428=
 {
 	name="Raskel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7429=
 {
 	name="Grasren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7430=
 {
 	name="Velmorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7431=
 {
 	name="Mordrin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7432=
 {
 	name="Darkval"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7433=
 {
 	name="Corvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7434=
 {
 	name="Valorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7435=
 {
 	name="Ravaken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7436=
 {
 	name="Steelan"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7437=
 {
 	name="Vornaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7438=
 {
 	name="Morrel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7439=
 {
 	name="Stormren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7440=
 {
 	name="Caldran"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7441=
 {
 	name="Grimel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7442=
 {
 	name="Vaelvar"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7443=
 {
 	name="Nightorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7444=
 {
 	name="Solvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7445=
 {
 	name="Raskorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7446=
 {
 	name="Gravelorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7447=
 {
 	name="Velorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7448=
 {
 	name="Mistran"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7449=
 {
 	name="Darkorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7450=
 {
 	name="Corvren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7451=
 {
 	name="Valdrin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7452=
 {
 	name="Ravornel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7453=
 {
 	name="Steelren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7454=
 {
 	name="Vornorin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7455=
 {
 	name="Morval"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7456=
 {
 	name="Stormel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7457=
 {
 	name="Calvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7458=
 {
 	name="Grimorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7459=
 {
 	name="Vaelken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7460=
 {
 	name="Nightrel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7461=
 {
 	name="Solvorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7462=
 {
 	name="Rasken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7463=
 {
 	name="Grasval"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7464=
 {
 	name="Veldrin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7465=
 {
 	name="Mordel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7466=
 {
 	name="Darkel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7467=
 {
 	name="Corvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7468=
 {
 	name="Valorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7469=
 {
 	name="Ravaken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7470=
 {
 	name="Steelorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7471=
 {
 	name="Vornel"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7472=
 {
 	name="Moraken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7473=
 {
 	name="Stormren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7474=
 {
 	name="Caldrin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7475=
 {
 	name="Grimken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7476=
 {
 	name="Vaelren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7477=
 {
 	name="Nighten"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7478=
 {
 	name="Solvaren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7479=
 {
 	name="Raskorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7480=
 {
 	name="Gravelin"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7481=
 {
 	name="Velaken"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7482=
 {
 	name="Mistren"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7483=
 {
 	name="Darkval"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7484=
 {
 	name="Corvorn"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7485=
 {
 	name="Valdran"
-	culture="solvaan"
+	culture=solvaan
 }
 
 7486=
 {
 	name="Ravren"
-	culture="solvaan"
+	culture=solvaan
 }
 

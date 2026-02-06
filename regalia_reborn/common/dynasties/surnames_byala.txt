@@ -1,300 +1,300 @@
 9351=
 {
 	name="Ivanov"
-	culture="byala"
+	culture=byala
 }
 
 9352=
 {
 	name="Petrov"
-	culture="byala"
+	culture=byala
 }
 
 9353=
 {
 	name="Dimitrov"
-	culture="byala"
+	culture=byala
 }
 
 9354=
 {
 	name="Georgiev"
-	culture="byala"
+	culture=byala
 }
 
 9355=
 {
 	name="Nikolov"
-	culture="byala"
+	culture=byala
 }
 
 9356=
 {
 	name="Todorov"
-	culture="byala"
+	culture=byala
 }
 
 9357=
 {
 	name="Stoyanov"
-	culture="byala"
+	culture=byala
 }
 
 9358=
 {
 	name="Vasilev"
-	culture="byala"
+	culture=byala
 }
 
 9359=
 {
 	name="Hristov"
-	culture="byala"
+	culture=byala
 }
 
 9360=
 {
 	name="Angelov"
-	culture="byala"
+	culture=byala
 }
 
 9361=
 {
 	name="Kolev"
-	culture="byala"
+	culture=byala
 }
 
 9362=
 {
 	name="Marinov"
-	culture="byala"
+	culture=byala
 }
 
 9363=
 {
 	name="Kostov"
-	culture="byala"
+	culture=byala
 }
 
 9364=
 {
 	name="Stefanov"
-	culture="byala"
+	culture=byala
 }
 
 9365=
 {
 	name="Popov"
-	culture="byala"
+	culture=byala
 }
 
 9366=
 {
 	name="Iliev"
-	culture="byala"
+	culture=byala
 }
 
 9367=
 {
 	name="Pavlov"
-	culture="byala"
+	culture=byala
 }
 
 9368=
 {
 	name="Radev"
-	culture="byala"
+	culture=byala
 }
 
 9369=
 {
 	name="Kaloyanov"
-	culture="byala"
+	culture=byala
 }
 
 9370=
 {
 	name="Ganchev"
-	culture="byala"
+	culture=byala
 }
 
 9371=
 {
 	name="Milchev"
-	culture="byala"
+	culture=byala
 }
 
 9372=
 {
 	name="Tsvetkov"
-	culture="byala"
+	culture=byala
 }
 
 9373=
 {
 	name="Bozhilov"
-	culture="byala"
+	culture=byala
 }
 
 9374=
 {
 	name="Velikov"
-	culture="byala"
+	culture=byala
 }
 
 9375=
 {
 	name="Yankov"
-	culture="byala"
+	culture=byala
 }
 
 9376=
 {
 	name="Zhelev"
-	culture="byala"
+	culture=byala
 }
 
 9377=
 {
 	name="Kirov"
-	culture="byala"
+	culture=byala
 }
 
 9378=
 {
 	name="Lazarov"
-	culture="byala"
+	culture=byala
 }
 
 9379=
 {
 	name="Nenov"
-	culture="byala"
+	culture=byala
 }
 
 9380=
 {
 	name="Spasov"
-	culture="byala"
+	culture=byala
 }
 
 9381=
 {
 	name="Terziev"
-	culture="byala"
+	culture=byala
 }
 
 9382=
 {
 	name="Dobrev"
-	culture="byala"
+	culture=byala
 }
 
 9383=
 {
 	name="Mladenov"
-	culture="byala"
+	culture=byala
 }
 
 9384=
 {
 	name="Rangelov"
-	culture="byala"
+	culture=byala
 }
 
 9385=
 {
 	name="Nachev"
-	culture="byala"
+	culture=byala
 }
 
 9386=
 {
 	name="Penchev"
-	culture="byala"
+	culture=byala
 }
 
 9387=
 {
 	name="Radkov"
-	culture="byala"
+	culture=byala
 }
 
 9388=
 {
 	name="Slavov"
-	culture="byala"
+	culture=byala
 }
 
 9389=
 {
 	name="Stankov"
-	culture="byala"
+	culture=byala
 }
 
 9390=
 {
 	name="Valchev"
-	culture="byala"
+	culture=byala
 }
 
 9391=
 {
 	name="Zdravkov"
-	culture="byala"
+	culture=byala
 }
 
 9392=
 {
 	name="Kamenov"
-	culture="byala"
+	culture=byala
 }
 
 9393=
 {
 	name="Kirilov"
-	culture="byala"
+	culture=byala
 }
 
 9394=
 {
 	name="Apostolov"
-	culture="byala"
+	culture=byala
 }
 
 9395=
 {
 	name="Bogdanov"
-	culture="byala"
+	culture=byala
 }
 
 9396=
 {
 	name="Delchev"
-	culture="byala"
+	culture=byala
 }
 
 9397=
 {
 	name="Draganov"
-	culture="byala"
+	culture=byala
 }
 
 9398=
 {
 	name="Manolov"
-	culture="byala"
+	culture=byala
 }
 
 9399=
 {
 	name="Simeonov"
-	culture="byala"
+	culture=byala
 }
 
 9400=
 {
 	name="Zhivkov"
-	culture="byala"
+	culture=byala
 }
 

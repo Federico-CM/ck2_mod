@@ -1,276 +1,276 @@
 8460=
 {
 	name="Silva"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8461=
 {
 	name="Sousa"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8462=
 {
 	name="Pereira"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8463=
 {
 	name="Almeida"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8464=
 {
 	name="Costa"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8465=
 {
 	name="Rodrigues"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8466=
 {
 	name="Martins"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8467=
 {
 	name="Fernandes"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8468=
 {
 	name="Lopes"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8469=
 {
 	name="Gomes"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8470=
 {
 	name="Ribeiro"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8471=
 {
 	name="Carvalho"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8472=
 {
 	name="Rocha"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8473=
 {
 	name="Teixeira"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8474=
 {
 	name="Moreira"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8475=
 {
 	name="Pinto"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8476=
 {
 	name="Nogueira"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8477=
 {
 	name="Barbosa"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8478=
 {
 	name="Monteiro"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8479=
 {
 	name="Macedo"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8480=
 {
 	name="Correia"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8481=
 {
 	name="Figueiredo"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8482=
 {
 	name="Tavares"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8483=
 {
 	name="Vieira"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8484=
 {
 	name="Freitas"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8485=
 {
 	name="Moura"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8486=
 {
 	name="Peixoto"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8487=
 {
 	name="Castro"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8488=
 {
 	name="Cunha"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8489=
 {
 	name="Ramos"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8490=
 {
 	name="Azevedo"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8491=
 {
 	name="Leite"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8492=
 {
 	name="Coelho"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8493=
 {
 	name="Sampaio"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8494=
 {
 	name="Pacheco"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8495=
 {
 	name="Valente"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8496=
 {
 	name="Brito"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8497=
 {
 	name="Antunes"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8498=
 {
 	name="Fonseca"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8499=
 {
 	name="Amaral"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8500=
 {
 	name="Vasconcelos"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8501=
 {
 	name="Lacerda"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8502=
 {
 	name="Torres"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8503=
 {
 	name="Faria"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8504=
 {
 	name="Henriques"
-	culture="bragacao"
+	culture=bragacao
 }
 
 8505=
 {
 	name="Morais"
-	culture="bragacao"
+	culture=bragacao
 }
 

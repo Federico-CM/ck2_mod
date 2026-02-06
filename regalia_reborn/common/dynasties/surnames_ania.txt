@@ -1,258 +1,258 @@
 8643=
 {
 	name="Popescu"
-	culture="ania"
+	culture=ania
 }
 
 8644=
 {
 	name="Ionescu"
-	culture="ania"
+	culture=ania
 }
 
 8645=
 {
 	name="Georgescu"
-	culture="ania"
+	culture=ania
 }
 
 8646=
 {
 	name="Dumitrescu"
-	culture="ania"
+	culture=ania
 }
 
 8647=
 {
 	name="Petrescu"
-	culture="ania"
+	culture=ania
 }
 
 8648=
 {
 	name="Marinescu"
-	culture="ania"
+	culture=ania
 }
 
 8649=
 {
 	name="Constantinescu"
-	culture="ania"
+	culture=ania
 }
 
 8650=
 {
 	name="Radu"
-	culture="ania"
+	culture=ania
 }
 
 8651=
 {
 	name="Matei"
-	culture="ania"
+	culture=ania
 }
 
 8652=
 {
 	name="Enache"
-	culture="ania"
+	culture=ania
 }
 
 8653=
 {
 	name="Stoica"
-	culture="ania"
+	culture=ania
 }
 
 8654=
 {
 	name="Iliescu"
-	culture="ania"
+	culture=ania
 }
 
 8655=
 {
 	name="Vasile"
-	culture="ania"
+	culture=ania
 }
 
 8656=
 {
 	name="Tudor"
-	culture="ania"
+	culture=ania
 }
 
 8657=
 {
 	name="Florescu"
-	culture="ania"
+	culture=ania
 }
 
 8658=
 {
 	name="Manolescu"
-	culture="ania"
+	culture=ania
 }
 
 8659=
 {
 	name="Voicu"
-	culture="ania"
+	culture=ania
 }
 
 8660=
 {
 	name="Neagu"
-	culture="ania"
+	culture=ania
 }
 
 8661=
 {
 	name="Preda"
-	culture="ania"
+	culture=ania
 }
 
 8662=
 {
 	name="Costache"
-	culture="ania"
+	culture=ania
 }
 
 8663=
 {
 	name="Ursu"
-	culture="ania"
+	culture=ania
 }
 
 8664=
 {
 	name="Cristea"
-	culture="ania"
+	culture=ania
 }
 
 8665=
 {
 	name="Avram"
-	culture="ania"
+	culture=ania
 }
 
 8666=
 {
 	name="Barbu"
-	culture="ania"
+	culture=ania
 }
 
 8667=
 {
 	name="Chiriac"
-	culture="ania"
+	culture=ania
 }
 
 8668=
 {
 	name="Diaconu"
-	culture="ania"
+	culture=ania
 }
 
 8669=
 {
 	name="Florea"
-	culture="ania"
+	culture=ania
 }
 
 8670=
 {
 	name="Gheorghiu"
-	culture="ania"
+	culture=ania
 }
 
 8671=
 {
 	name="Moraru"
-	culture="ania"
+	culture=ania
 }
 
 8672=
 {
 	name="Moldovan"
-	culture="ania"
+	culture=ania
 }
 
 8673=
 {
 	name="Nistor"
-	culture="ania"
+	culture=ania
 }
 
 8674=
 {
 	name="Sandu"
-	culture="ania"
+	culture=ania
 }
 
 8675=
 {
 	name="Serban"
-	culture="ania"
+	culture=ania
 }
 
 8676=
 {
 	name="Spataru"
-	culture="ania"
+	culture=ania
 }
 
 8677=
 {
 	name="Teodorescu"
-	culture="ania"
+	culture=ania
 }
 
 8678=
 {
 	name="Toader"
-	culture="ania"
+	culture=ania
 }
 
 8679=
 {
 	name="Vlad"
-	culture="ania"
+	culture=ania
 }
 
 8680=
 {
 	name="Zamfir"
-	culture="ania"
+	culture=ania
 }
 
 8681=
 {
 	name="Boeru"
-	culture="ania"
+	culture=ania
 }
 
 8682=
 {
 	name="Bratu"
-	culture="ania"
+	culture=ania
 }
 
 8683=
 {
 	name="Cojocaru"
-	culture="ania"
+	culture=ania
 }
 
 8684=
 {
 	name="Lupu"
-	culture="ania"
+	culture=ania
 }
 
 8685=
 {
 	name="Munteanu"
-	culture="ania"
+	culture=ania
 }
 

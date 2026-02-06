@@ -1,156 +1,156 @@
 8257=
 {
 	name="Botond"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8258=
 {
 	name="Csaba"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8259=
 {
 	name="Emese"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8260=
 {
 	name="Fajsz"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8261=
 {
 	name="Gyula"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8262=
 {
 	name="Harka"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8263=
 {
 	name="Huba"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8264=
 {
 	name="Kadosa"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8265=
 {
 	name="Kende"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8266=
 {
 	name="Kond"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8267=
 {
 	name="Levente"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8268=
 {
 	name="Ond"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8269=
 {
 	name="Pata"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8270=
 {
 	name="Sobamoger"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8271=
 {
 	name="Szabolcs"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8272=
 {
 	name="Szemere"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8273=
 {
 	name="Tarcsa"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8274=
 {
 	name="Tas"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8275=
 {
 	name="Torda"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8276=
 {
 	name="Turul"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8277=
 {
 	name="Ubul"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8278=
 {
 	name="Vajk"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8279=
 {
 	name="Zolta"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8280=
 {
 	name="Zombor"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8281=
 {
 	name="Zsombor"
-	culture="szabadok"
+	culture=szabadok
 }
 
 8282=
 {
 	name="Tarhos"
-	culture="szabadok"
+	culture=szabadok
 }
 

@@ -1,1062 +1,1062 @@
 6761=
 {
 	name="Willowcreek"
-	culture="selvath"
+	culture=selvath
 }
 
 6762=
 {
 	name="Woodforge"
-	culture="selvath"
+	culture=selvath
 }
 
 6763=
 {
 	name="Firekindle"
-	culture="selvath"
+	culture=selvath
 }
 
 6764=
 {
 	name="Moongsong"
-	culture="selvath"
+	culture=selvath
 }
 
 6765=
 {
 	name="Oakshield"
-	culture="selvath"
+	culture=selvath
 }
 
 6766=
 {
 	name="Ravenwatch"
-	culture="selvath"
+	culture=selvath
 }
 
 6767=
 {
 	name="Thornpath"
-	culture="selvath"
+	culture=selvath
 }
 
 6768=
 {
 	name="Silverbrook"
-	culture="selvath"
+	culture=selvath
 }
 
 6769=
 {
 	name="Stormbark"
-	culture="selvath"
+	culture=selvath
 }
 
 6770=
 {
 	name="Sunleaf"
-	culture="selvath"
+	culture=selvath
 }
 
 6771=
 {
 	name="Nightwillow"
-	culture="selvath"
+	culture=selvath
 }
 
 6772=
 {
 	name="Emberroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6773=
 {
 	name="Greenmantle"
-	culture="selvath"
+	culture=selvath
 }
 
 6774=
 {
 	name="Frostfern"
-	culture="selvath"
+	culture=selvath
 }
 
 6775=
 {
 	name="Brightwater"
-	culture="selvath"
+	culture=selvath
 }
 
 6776=
 {
 	name="Shadowgrove"
-	culture="selvath"
+	culture=selvath
 }
 
 6777=
 {
 	name="Stonebranch"
-	culture="selvath"
+	culture=selvath
 }
 
 6778=
 {
 	name="Dawnpetal"
-	culture="selvath"
+	culture=selvath
 }
 
 6779=
 {
 	name="Blackthorn"
-	culture="selvath"
+	culture=selvath
 }
 
 6780=
 {
 	name="Whisperwind"
-	culture="selvath"
+	culture=selvath
 }
 
 6781=
 {
 	name="Ironbough"
-	culture="selvath"
+	culture=selvath
 }
 
 6782=
 {
 	name="Mistvale"
-	culture="selvath"
+	culture=selvath
 }
 
 6783=
 {
 	name="Goldenacorn"
-	culture="selvath"
+	culture=selvath
 }
 
 6784=
 {
 	name="Firebloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6785=
 {
 	name="Riverwatch"
-	culture="selvath"
+	culture=selvath
 }
 
 6786=
 {
 	name="Moonwillow"
-	culture="selvath"
+	culture=selvath
 }
 
 6787=
 {
 	name="Highcanopy"
-	culture="selvath"
+	culture=selvath
 }
 
 6788=
 {
 	name="Ashgrove"
-	culture="selvath"
+	culture=selvath
 }
 
 6789=
 {
 	name="Starfall"
-	culture="selvath"
+	culture=selvath
 }
 
 6790=
 {
 	name="Briarhide"
-	culture="selvath"
+	culture=selvath
 }
 
 6791=
 {
 	name="Wildroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6792=
 {
 	name="Thundersap"
-	culture="selvath"
+	culture=selvath
 }
 
 6793=
 {
 	name="Leafward"
-	culture="selvath"
+	culture=selvath
 }
 
 6794=
 {
 	name="Redmaple"
-	culture="selvath"
+	culture=selvath
 }
 
 6795=
 {
 	name="Glowmoss"
-	culture="selvath"
+	culture=selvath
 }
 
 6796=
 {
 	name="Deepbark"
-	culture="selvath"
+	culture=selvath
 }
 
 6797=
 {
 	name="Skybranch"
-	culture="selvath"
+	culture=selvath
 }
 
 6798=
 {
 	name="Flamepetal"
-	culture="selvath"
+	culture=selvath
 }
 
 6799=
 {
 	name="Hollowoak"
-	culture="selvath"
+	culture=selvath
 }
 
 6800=
 {
 	name="Greenshade"
-	culture="selvath"
+	culture=selvath
 }
 
 6801=
 {
 	name="Moonfern"
-	culture="selvath"
+	culture=selvath
 }
 
 6802=
 {
 	name="Stormpetal"
-	culture="selvath"
+	culture=selvath
 }
 
 6803=
 {
 	name="Rootwarden"
-	culture="selvath"
+	culture=selvath
 }
 
 6804=
 {
 	name="Sunbark"
-	culture="selvath"
+	culture=selvath
 }
 
 6805=
 {
 	name="Fallenleaf"
-	culture="selvath"
+	culture=selvath
 }
 
 6806=
 {
 	name="Brightgrove"
-	culture="selvath"
+	culture=selvath
 }
 
 6807=
 {
 	name="Riversong"
-	culture="selvath"
+	culture=selvath
 }
 
 6808=
 {
 	name="Nightbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6809=
 {
 	name="Thornwatch"
-	culture="selvath"
+	culture=selvath
 }
 
 6810=
 {
 	name="Windroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6811=
 {
 	name="Amberleaf"
-	culture="selvath"
+	culture=selvath
 }
 
 6812=
 {
 	name="Starbough"
-	culture="selvath"
+	culture=selvath
 }
 
 6813=
 {
 	name="Fireveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6814=
 {
 	name="Oakwatch"
-	culture="selvath"
+	culture=selvath
 }
 
 6815=
 {
 	name="Mossclaw"
-	culture="selvath"
+	culture=selvath
 }
 
 6816=
 {
 	name="Silverleaf"
-	culture="selvath"
+	culture=selvath
 }
 
 6817=
 {
 	name="Wildcanopy"
-	culture="selvath"
+	culture=selvath
 }
 
 6818=
 {
 	name="Shadowleaf"
-	culture="selvath"
+	culture=selvath
 }
 
 6819=
 {
 	name="Emberbark"
-	culture="selvath"
+	culture=selvath
 }
 
 6820=
 {
 	name="Rainwhisper"
-	culture="selvath"
+	culture=selvath
 }
 
 6821=
 {
 	name="Sunwillow"
-	culture="selvath"
+	culture=selvath
 }
 
 6822=
 {
 	name="Frostbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6823=
 {
 	name="Deepgrove"
-	culture="selvath"
+	culture=selvath
 }
 
 6824=
 {
 	name="Moonbranch"
-	culture="selvath"
+	culture=selvath
 }
 
 6825=
 {
 	name="Windpetal"
-	culture="selvath"
+	culture=selvath
 }
 
 6826=
 {
 	name="Rootsong"
-	culture="selvath"
+	culture=selvath
 }
 
 6827=
 {
 	name="Highfern"
-	culture="selvath"
+	culture=selvath
 }
 
 6828=
 {
 	name="Ashwillow"
-	culture="selvath"
+	culture=selvath
 }
 
 6829=
 {
 	name="Starroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6830=
 {
 	name="Barkshield"
-	culture="selvath"
+	culture=selvath
 }
 
 6831=
 {
 	name="Glowbranch"
-	culture="selvath"
+	culture=selvath
 }
 
 6832=
 {
 	name="Riverbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6833=
 {
 	name="Nightroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6834=
 {
 	name="Thornsong"
-	culture="selvath"
+	culture=selvath
 }
 
 6835=
 {
 	name="Goldenbark"
-	culture="selvath"
+	culture=selvath
 }
 
 6836=
 {
 	name="Stormwillow"
-	culture="selvath"
+	culture=selvath
 }
 
 6837=
 {
 	name="Leafsong"
-	culture="selvath"
+	culture=selvath
 }
 
 6838=
 {
 	name="Redfern"
-	culture="selvath"
+	culture=selvath
 }
 
 6839=
 {
 	name="Mistbough"
-	culture="selvath"
+	culture=selvath
 }
 
 6840=
 {
 	name="Firebranch"
-	culture="selvath"
+	culture=selvath
 }
 
 6841=
 {
 	name="Hollowgrove"
-	culture="selvath"
+	culture=selvath
 }
 
 6842=
 {
 	name="Greenthorn"
-	culture="selvath"
+	culture=selvath
 }
 
 6843=
 {
 	name="Moonwatch"
-	culture="selvath"
+	culture=selvath
 }
 
 6844=
 {
 	name="Windbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6845=
 {
 	name="Rootveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6846=
 {
 	name="Sunpetal"
-	culture="selvath"
+	culture=selvath
 }
 
 6847=
 {
 	name="Frostroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6848=
 {
 	name="Deepwillow"
-	culture="selvath"
+	culture=selvath
 }
 
 6849=
 {
 	name="Starleaf"
-	culture="selvath"
+	culture=selvath
 }
 
 6850=
 {
 	name="Briarwatch"
-	culture="selvath"
+	culture=selvath
 }
 
 6851=
 {
 	name="Wildsong"
-	culture="selvath"
+	culture=selvath
 }
 
 6852=
 {
 	name="Thundershade"
-	culture="selvath"
+	culture=selvath
 }
 
 6853=
 {
 	name="Leafcloak"
-	culture="selvath"
+	culture=selvath
 }
 
 6854=
 {
 	name="Amberbough"
-	culture="selvath"
+	culture=selvath
 }
 
 6855=
 {
 	name="Silverroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6856=
 {
 	name="Firewatch"
-	culture="selvath"
+	culture=selvath
 }
 
 6857=
 {
 	name="Oakveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6858=
 {
 	name="Mossveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6859=
 {
 	name="Brightfern"
-	culture="selvath"
+	culture=selvath
 }
 
 6860=
 {
 	name="Riverroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6861=
 {
 	name="Nightbark"
-	culture="selvath"
+	culture=selvath
 }
 
 6862=
 {
 	name="Thornveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6863=
 {
 	name="Goldenfern"
-	culture="selvath"
+	culture=selvath
 }
 
 6864=
 {
 	name="Stormgrove"
-	culture="selvath"
+	culture=selvath
 }
 
 6865=
 {
 	name="Leafwhisper"
-	culture="selvath"
+	culture=selvath
 }
 
 6866=
 {
 	name="Redbough"
-	culture="selvath"
+	culture=selvath
 }
 
 6867=
 {
 	name="Mistroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6868=
 {
 	name="Firewillow"
-	culture="selvath"
+	culture=selvath
 }
 
 6869=
 {
 	name="Hollowbranch"
-	culture="selvath"
+	culture=selvath
 }
 
 6870=
 {
 	name="Greensong"
-	culture="selvath"
+	culture=selvath
 }
 
 6871=
 {
 	name="Mooncloak"
-	culture="selvath"
+	culture=selvath
 }
 
 6872=
 {
 	name="Windwatch"
-	culture="selvath"
+	culture=selvath
 }
 
 6873=
 {
 	name="Rootbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6874=
 {
 	name="Sunveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6875=
 {
 	name="Frostbark"
-	culture="selvath"
+	culture=selvath
 }
 
 6876=
 {
 	name="Deepfern"
-	culture="selvath"
+	culture=selvath
 }
 
 6877=
 {
 	name="Starveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6878=
 {
 	name="Briarroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6879=
 {
 	name="Wildbark"
-	culture="selvath"
+	culture=selvath
 }
 
 6880=
 {
 	name="Thunderleaf"
-	culture="selvath"
+	culture=selvath
 }
 
 6881=
 {
 	name="Leafbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6882=
 {
 	name="Amberroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6883=
 {
 	name="Silvergrove"
-	culture="selvath"
+	culture=selvath
 }
 
 6884=
 {
 	name="Firewhisper"
-	culture="selvath"
+	culture=selvath
 }
 
 6885=
 {
 	name="Oakbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6886=
 {
 	name="Mossroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6887=
 {
 	name="Brightbough"
-	culture="selvath"
+	culture=selvath
 }
 
 6888=
 {
 	name="Riverveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6889=
 {
 	name="Nightfern"
-	culture="selvath"
+	culture=selvath
 }
 
 6890=
 {
 	name="Thornsnap"
-	culture="selvath"
+	culture=selvath
 }
 
 6891=
 {
 	name="Goldenroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6892=
 {
 	name="Stormleaf"
-	culture="selvath"
+	culture=selvath
 }
 
 6893=
 {
 	name="Leafveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6894=
 {
 	name="Redwillow"
-	culture="selvath"
+	culture=selvath
 }
 
 6895=
 {
 	name="Mistfern"
-	culture="selvath"
+	culture=selvath
 }
 
 6896=
 {
 	name="Firegrove"
-	culture="selvath"
+	culture=selvath
 }
 
 6897=
 {
 	name="Hollowroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6898=
 {
 	name="Greenbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6899=
 {
 	name="Moonroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6900=
 {
 	name="Windcloak"
-	culture="selvath"
+	culture=selvath
 }
 
 6901=
 {
 	name="Rootwatch"
-	culture="selvath"
+	culture=selvath
 }
 
 6902=
 {
 	name="Sunroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6903=
 {
 	name="Frostveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6904=
 {
 	name="Deepbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6905=
 {
 	name="Starwatch"
-	culture="selvath"
+	culture=selvath
 }
 
 6906=
 {
 	name="Briarveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6907=
 {
 	name="Wildfern"
-	culture="selvath"
+	culture=selvath
 }
 
 6908=
 {
 	name="Thunderroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6909=
 {
 	name="Leafwatch"
-	culture="selvath"
+	culture=selvath
 }
 
 6910=
 {
 	name="Amberveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6911=
 {
 	name="Silverbark"
-	culture="selvath"
+	culture=selvath
 }
 
 6912=
 {
 	name="Fireleaf"
-	culture="selvath"
+	culture=selvath
 }
 
 6913=
 {
 	name="Oakroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6914=
 {
 	name="Mossbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6915=
 {
 	name="Brightroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6916=
 {
 	name="Riverbark"
-	culture="selvath"
+	culture=selvath
 }
 
 6917=
 {
 	name="Nightveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6918=
 {
 	name="Thornbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6919=
 {
 	name="Goldenfern"
-	culture="selvath"
+	culture=selvath
 }
 
 6920=
 {
 	name="Stormroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6921=
 {
 	name="Leafroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6922=
 {
 	name="Redgrove"
-	culture="selvath"
+	culture=selvath
 }
 
 6923=
 {
 	name="Mistveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6924=
 {
 	name="Firefern"
-	culture="selvath"
+	culture=selvath
 }
 
 6925=
 {
 	name="Hollowbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6926=
 {
 	name="Greenroot"
-	culture="selvath"
+	culture=selvath
 }
 
 6927=
 {
 	name="Moonveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6928=
 {
 	name="Windleaf"
-	culture="selvath"
+	culture=selvath
 }
 
 6929=
 {
 	name="Rootcloak"
-	culture="selvath"
+	culture=selvath
 }
 
 6930=
 {
 	name="Sunbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6931=
 {
 	name="Frostwatch"
-	culture="selvath"
+	culture=selvath
 }
 
 6932=
 {
 	name="Deeproot"
-	culture="selvath"
+	culture=selvath
 }
 
 6933=
 {
 	name="Starbloom"
-	culture="selvath"
+	culture=selvath
 }
 
 6934=
 {
 	name="Briarfern"
-	culture="selvath"
+	culture=selvath
 }
 
 6935=
 {
 	name="Wildveil"
-	culture="selvath"
+	culture=selvath
 }
 
 6936=
 {
 	name="Thunderbark"
-	culture="selvath"
+	culture=selvath
 }
 
 6937=
 {
 	name="Leafbark"
-	culture="selvath"
+	culture=selvath
 }
 

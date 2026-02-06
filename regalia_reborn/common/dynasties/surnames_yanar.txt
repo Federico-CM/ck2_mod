@@ -1,1110 +1,1110 @@
 6938=
 {
 	name="Willowguard"
-	culture="yanar"
+	culture=yanar
 }
 
 6939=
 {
 	name="Moonwatchers"
-	culture="yanar"
+	culture=yanar
 }
 
 6940=
 {
 	name="Thornbreak"
-	culture="yanar"
+	culture=yanar
 }
 
 6941=
 {
 	name="Sunward"
-	culture="yanar"
+	culture=yanar
 }
 
 6942=
 {
 	name="Greenwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 6943=
 {
 	name="Firepath"
-	culture="yanar"
+	culture=yanar
 }
 
 6944=
 {
 	name="Silvercanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 6945=
 {
 	name="Rootbound"
-	culture="yanar"
+	culture=yanar
 }
 
 6946=
 {
 	name="Nightwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 6947=
 {
 	name="Oakward"
-	culture="yanar"
+	culture=yanar
 }
 
 6948=
 {
 	name="Stormcall"
-	culture="yanar"
+	culture=yanar
 }
 
 6949=
 {
 	name="Brightleaf"
-	culture="yanar"
+	culture=yanar
 }
 
 6950=
 {
 	name="Deepcanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 6951=
 {
 	name="Whispergrove"
-	culture="yanar"
+	culture=yanar
 }
 
 6952=
 {
 	name="Emberveil"
-	culture="yanar"
+	culture=yanar
 }
 
 6953=
 {
 	name="Ravenbough"
-	culture="yanar"
+	culture=yanar
 }
 
 6954=
 {
 	name="Frostshade"
-	culture="yanar"
+	culture=yanar
 }
 
 6955=
 {
 	name="Leafwardens"
-	culture="yanar"
+	culture=yanar
 }
 
 6956=
 {
 	name="Moonbark"
-	culture="yanar"
+	culture=yanar
 }
 
 6957=
 {
 	name="Suncrest"
-	culture="yanar"
+	culture=yanar
 }
 
 6958=
 {
 	name="Blackgrove"
-	culture="yanar"
+	culture=yanar
 }
 
 6959=
 {
 	name="Windwardens"
-	culture="yanar"
+	culture=yanar
 }
 
 6960=
 {
 	name="Firewatchers"
-	culture="yanar"
+	culture=yanar
 }
 
 6961=
 {
 	name="Silverfern"
-	culture="yanar"
+	culture=yanar
 }
 
 6962=
 {
 	name="Rootclasp"
-	culture="yanar"
+	culture=yanar
 }
 
 6963=
 {
 	name="Nightbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 6964=
 {
 	name="Oakcall"
-	culture="yanar"
+	culture=yanar
 }
 
 6965=
 {
 	name="Stormpetals"
-	culture="yanar"
+	culture=yanar
 }
 
 6966=
 {
 	name="Brightroot"
-	culture="yanar"
+	culture=yanar
 }
 
 6967=
 {
 	name="Deepbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 6968=
 {
 	name="Whisperleaf"
-	culture="yanar"
+	culture=yanar
 }
 
 6969=
 {
 	name="Emberwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 6970=
 {
 	name="Ravenroot"
-	culture="yanar"
+	culture=yanar
 }
 
 6971=
 {
 	name="Frostveil"
-	culture="yanar"
+	culture=yanar
 }
 
 6972=
 {
 	name="Leafguard"
-	culture="yanar"
+	culture=yanar
 }
 
 6973=
 {
 	name="Mooncrest"
-	culture="yanar"
+	culture=yanar
 }
 
 6974=
 {
 	name="Sunbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 6975=
 {
 	name="Blackbark"
-	culture="yanar"
+	culture=yanar
 }
 
 6976=
 {
 	name="Windveil"
-	culture="yanar"
+	culture=yanar
 }
 
 6977=
 {
 	name="Firegrovekeepers"
-	culture="yanar"
+	culture=yanar
 }
 
 6978=
 {
 	name="Silverbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 6979=
 {
 	name="Rootward"
-	culture="yanar"
+	culture=yanar
 }
 
 6980=
 {
 	name="Nightcrest"
-	culture="yanar"
+	culture=yanar
 }
 
 6981=
 {
 	name="Oakveil"
-	culture="yanar"
+	culture=yanar
 }
 
 6982=
 {
 	name="Stormbloomers"
-	culture="yanar"
+	culture=yanar
 }
 
 6983=
 {
 	name="Brightfern"
-	culture="yanar"
+	culture=yanar
 }
 
 6984=
 {
 	name="Deepwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 6985=
 {
 	name="Whisperroot"
-	culture="yanar"
+	culture=yanar
 }
 
 6986=
 {
 	name="Emberbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 6987=
 {
 	name="Ravenveil"
-	culture="yanar"
+	culture=yanar
 }
 
 6988=
 {
 	name="Frostbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 6989=
 {
 	name="Leafcloak"
-	culture="yanar"
+	culture=yanar
 }
 
 6990=
 {
 	name="Moonwatchers"
-	culture="yanar"
+	culture=yanar
 }
 
 6991=
 {
 	name="Sunveil"
-	culture="yanar"
+	culture=yanar
 }
 
 6992=
 {
 	name="Blackroot"
-	culture="yanar"
+	culture=yanar
 }
 
 6993=
 {
 	name="Windbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 6994=
 {
 	name="Firewardens"
-	culture="yanar"
+	culture=yanar
 }
 
 6995=
 {
 	name="Silverwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 6996=
 {
 	name="Rootgrove"
-	culture="yanar"
+	culture=yanar
 }
 
 6997=
 {
 	name="Nightveil"
-	culture="yanar"
+	culture=yanar
 }
 
 6998=
 {
 	name="Oakbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 6999=
 {
 	name="Stormrooters"
-	culture="yanar"
+	culture=yanar
 }
 
 7000=
 {
 	name="Brightcanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 7001=
 {
 	name="Deepfern"
-	culture="yanar"
+	culture=yanar
 }
 
 7002=
 {
 	name="Whisperwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 7003=
 {
 	name="Emberrooted"
-	culture="yanar"
+	culture=yanar
 }
 
 7004=
 {
 	name="Ravencrest"
-	culture="yanar"
+	culture=yanar
 }
 
 7005=
 {
 	name="Frostgrove"
-	culture="yanar"
+	culture=yanar
 }
 
 7006=
 {
 	name="Leafsentinels"
-	culture="yanar"
+	culture=yanar
 }
 
 7007=
 {
 	name="Moonbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 7008=
 {
 	name="Sunwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 7009=
 {
 	name="Blackcanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 7010=
 {
 	name="Windroot"
-	culture="yanar"
+	culture=yanar
 }
 
 7011=
 {
 	name="Firebloomers"
-	culture="yanar"
+	culture=yanar
 }
 
 7012=
 {
 	name="Silverroot"
-	culture="yanar"
+	culture=yanar
 }
 
 7013=
 {
 	name="Rootwatchers"
-	culture="yanar"
+	culture=yanar
 }
 
 7014=
 {
 	name="Nightgrove"
-	culture="yanar"
+	culture=yanar
 }
 
 7015=
 {
 	name="Oakcrest"
-	culture="yanar"
+	culture=yanar
 }
 
 7016=
 {
 	name="Stormwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 7017=
 {
 	name="Brightbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 7018=
 {
 	name="Deepgrovekeepers"
-	culture="yanar"
+	culture=yanar
 }
 
 7019=
 {
 	name="Whisperbark"
-	culture="yanar"
+	culture=yanar
 }
 
 7020=
 {
 	name="Embercanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 7021=
 {
 	name="Ravenwatchers"
-	culture="yanar"
+	culture=yanar
 }
 
 7022=
 {
 	name="Frostroot"
-	culture="yanar"
+	culture=yanar
 }
 
 7023=
 {
 	name="Leafwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 7024=
 {
 	name="Moonveil"
-	culture="yanar"
+	culture=yanar
 }
 
 7025=
 {
 	name="Sunroot"
-	culture="yanar"
+	culture=yanar
 }
 
 7026=
 {
 	name="Blackfern"
-	culture="yanar"
+	culture=yanar
 }
 
 7027=
 {
 	name="Windwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 7028=
 {
 	name="Firecanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 7029=
 {
 	name="Silverveil"
-	culture="yanar"
+	culture=yanar
 }
 
 7030=
 {
 	name="Rootcrest"
-	culture="yanar"
+	culture=yanar
 }
 
 7031=
 {
 	name="Nightroot"
-	culture="yanar"
+	culture=yanar
 }
 
 7032=
 {
 	name="Oakwatchers"
-	culture="yanar"
+	culture=yanar
 }
 
 7033=
 {
 	name="Stormcanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 7034=
 {
 	name="Brightgrove"
-	culture="yanar"
+	culture=yanar
 }
 
 7035=
 {
 	name="Deepbark"
-	culture="yanar"
+	culture=yanar
 }
 
 7036=
 {
 	name="Whisperveil"
-	culture="yanar"
+	culture=yanar
 }
 
 7037=
 {
 	name="Embergrove"
-	culture="yanar"
+	culture=yanar
 }
 
 7038=
 {
 	name="Ravenbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 7039=
 {
 	name="Frostwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 7040=
 {
 	name="Leafgrove"
-	culture="yanar"
+	culture=yanar
 }
 
 7041=
 {
 	name="Moonroot"
-	culture="yanar"
+	culture=yanar
 }
 
 7042=
 {
 	name="Sunbark"
-	culture="yanar"
+	culture=yanar
 }
 
 7043=
 {
 	name="Blackveil"
-	culture="yanar"
+	culture=yanar
 }
 
 7044=
 {
 	name="Windcanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 7045=
 {
 	name="Firebark"
-	culture="yanar"
+	culture=yanar
 }
 
 7046=
 {
 	name="Silvergrove"
-	culture="yanar"
+	culture=yanar
 }
 
 7047=
 {
 	name="Rootbloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7048=
 {
 	name="Nightbark"
-	culture="yanar"
+	culture=yanar
 }
 
 7049=
 {
 	name="Oakgrove"
-	culture="yanar"
+	culture=yanar
 }
 
 7050=
 {
 	name="Stormveil"
-	culture="yanar"
+	culture=yanar
 }
 
 7051=
 {
 	name="Brightwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 7052=
 {
 	name="Deepbranchers"
-	culture="yanar"
+	culture=yanar
 }
 
 7053=
 {
 	name="Whispercanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 7054=
 {
 	name="Emberwatchers"
-	culture="yanar"
+	culture=yanar
 }
 
 7055=
 {
 	name="Ravenbark"
-	culture="yanar"
+	culture=yanar
 }
 
 7056=
 {
 	name="Frostcanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 7057=
 {
 	name="Leafroot"
-	culture="yanar"
+	culture=yanar
 }
 
 7058=
 {
 	name="Moonbloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7059=
 {
 	name="Sunfern"
-	culture="yanar"
+	culture=yanar
 }
 
 7060=
 {
 	name="Blackbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 7061=
 {
 	name="Windbark"
-	culture="yanar"
+	culture=yanar
 }
 
 7062=
 {
 	name="Fireveil"
-	culture="yanar"
+	culture=yanar
 }
 
 7063=
 {
 	name="Silverwatchers"
-	culture="yanar"
+	culture=yanar
 }
 
 7064=
 {
 	name="Rootfern"
-	culture="yanar"
+	culture=yanar
 }
 
 7065=
 {
 	name="Nightbranchers"
-	culture="yanar"
+	culture=yanar
 }
 
 7066=
 {
 	name="Oakbloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7067=
 {
 	name="Stormbark"
-	culture="yanar"
+	culture=yanar
 }
 
 7068=
 {
 	name="Brightveil"
-	culture="yanar"
+	culture=yanar
 }
 
 7069=
 {
 	name="Deepcanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 7070=
 {
 	name="Whispergrovekeepers"
-	culture="yanar"
+	culture=yanar
 }
 
 7071=
 {
 	name="Emberbloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7072=
 {
 	name="Ravenfern"
-	culture="yanar"
+	culture=yanar
 }
 
 7073=
 {
 	name="Frostbark"
-	culture="yanar"
+	culture=yanar
 }
 
 7074=
 {
 	name="Leafbloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7075=
 {
 	name="Moonfern"
-	culture="yanar"
+	culture=yanar
 }
 
 7076=
 {
 	name="Sunbranchers"
-	culture="yanar"
+	culture=yanar
 }
 
 7077=
 {
 	name="Blackgrovekeepers"
-	culture="yanar"
+	culture=yanar
 }
 
 7078=
 {
 	name="Windfern"
-	culture="yanar"
+	culture=yanar
 }
 
 7079=
 {
 	name="Firewatch"
-	culture="yanar"
+	culture=yanar
 }
 
 7080=
 {
 	name="Silverbloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7081=
 {
 	name="Rootveil"
-	culture="yanar"
+	culture=yanar
 }
 
 7082=
 {
 	name="Nightfern"
-	culture="yanar"
+	culture=yanar
 }
 
 7083=
 {
 	name="Oakfern"
-	culture="yanar"
+	culture=yanar
 }
 
 7084=
 {
 	name="Stormfern"
-	culture="yanar"
+	culture=yanar
 }
 
 7085=
 {
 	name="Brightbark"
-	culture="yanar"
+	culture=yanar
 }
 
 7086=
 {
 	name="Deepwatchers"
-	culture="yanar"
+	culture=yanar
 }
 
 7087=
 {
 	name="Whisperbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 7088=
 {
 	name="Emberfern"
-	culture="yanar"
+	culture=yanar
 }
 
 7089=
 {
 	name="Ravenbloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7090=
 {
 	name="Frostfern"
-	culture="yanar"
+	culture=yanar
 }
 
 7091=
 {
 	name="Leaffern"
-	culture="yanar"
+	culture=yanar
 }
 
 7092=
 {
 	name="Mooncanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 7093=
 {
 	name="Sunveilkeepers"
-	culture="yanar"
+	culture=yanar
 }
 
 7094=
 {
 	name="Blackwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 7095=
 {
 	name="Windbloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7096=
 {
 	name="Firefern"
-	culture="yanar"
+	culture=yanar
 }
 
 7097=
 {
 	name="Silverfernkeepers"
-	culture="yanar"
+	culture=yanar
 }
 
 7098=
 {
 	name="Rootbark"
-	culture="yanar"
+	culture=yanar
 }
 
 7099=
 {
 	name="Nightbloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7100=
 {
 	name="Oakbark"
-	culture="yanar"
+	culture=yanar
 }
 
 7101=
 {
 	name="Stormbloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7102=
 {
 	name="Brightfernkeepers"
-	culture="yanar"
+	culture=yanar
 }
 
 7103=
 {
 	name="Deepveil"
-	culture="yanar"
+	culture=yanar
 }
 
 7104=
 {
 	name="Whisperfern"
-	culture="yanar"
+	culture=yanar
 }
 
 7105=
 {
 	name="Emberbark"
-	culture="yanar"
+	culture=yanar
 }
 
 7106=
 {
 	name="Ravenrooted"
-	culture="yanar"
+	culture=yanar
 }
 
 7107=
 {
 	name="Frostbloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7108=
 {
 	name="Leafbark"
-	culture="yanar"
+	culture=yanar
 }
 
 7109=
 {
 	name="Moonwatch"
-	culture="yanar"
+	culture=yanar
 }
 
 7110=
 {
 	name="Sunrooted"
-	culture="yanar"
+	culture=yanar
 }
 
 7111=
 {
 	name="Blackbloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7112=
 {
 	name="Windveilkeepers"
-	culture="yanar"
+	culture=yanar
 }
 
 7113=
 {
 	name="Firebloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7114=
 {
 	name="Silverbranchers"
-	culture="yanar"
+	culture=yanar
 }
 
 7115=
 {
 	name="Rootcanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 7116=
 {
 	name="Nightcanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 7117=
 {
 	name="Oakcanopy"
-	culture="yanar"
+	culture=yanar
 }
 
 7118=
 {
 	name="Stormbranch"
-	culture="yanar"
+	culture=yanar
 }
 
 7119=
 {
 	name="Brightcanopykeepers"
-	culture="yanar"
+	culture=yanar
 }
 
 7120=
 {
 	name="Deepbloom"
-	culture="yanar"
+	culture=yanar
 }
 
 7121=
 {
 	name="Whisperrooted"
-	culture="yanar"
+	culture=yanar
 }
 
 7122=
 {
 	name="Emberveilkeepers"
-	culture="yanar"
+	culture=yanar
 }
 

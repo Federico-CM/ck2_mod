@@ -1,294 +1,294 @@
 8183=
 {
 	name="Brude"
-	culture="aber"
+	culture=aber
 }
 
 8184=
 {
 	name="Talorc"
-	culture="aber"
+	culture=aber
 }
 
 8185=
 {
 	name="Uurad"
-	culture="aber"
+	culture=aber
 }
 
 8186=
 {
 	name="Drust"
-	culture="aber"
+	culture=aber
 }
 
 8187=
 {
 	name="Necton"
-	culture="aber"
+	culture=aber
 }
 
 8188=
 {
 	name="Galan"
-	culture="aber"
+	culture=aber
 }
 
 8189=
 {
 	name="Drest"
-	culture="aber"
+	culture=aber
 }
 
 8190=
 {
 	name="Onuist"
-	culture="aber"
+	culture=aber
 }
 
 8191=
 {
 	name="Ciniod"
-	culture="aber"
+	culture=aber
 }
 
 8192=
 {
 	name="Wrguist"
-	culture="aber"
+	culture=aber
 }
 
 8193=
 {
 	name="Canutulachama"
-	culture="aber"
+	culture=aber
 }
 
 8194=
 {
 	name="Vipoig"
-	culture="aber"
+	culture=aber
 }
 
 8195=
 {
 	name="Ethernan"
-	culture="aber"
+	culture=aber
 }
 
 8196=
 {
 	name="Fergus"
-	culture="aber"
+	culture=aber
 }
 
 8197=
 {
 	name="Uven"
-	culture="aber"
+	culture=aber
 }
 
 8198=
 {
 	name="Bredei"
-	culture="aber"
+	culture=aber
 }
 
 8199=
 {
 	name="Uipoig"
-	culture="aber"
+	culture=aber
 }
 
 8200=
 {
 	name="Talorcan"
-	culture="aber"
+	culture=aber
 }
 
 8201=
 {
 	name="Gartnait"
-	culture="aber"
+	culture=aber
 }
 
 8202=
 {
 	name="Uurguist"
-	culture="aber"
+	culture=aber
 }
 
 8203=
 {
 	name="Mailcon"
-	culture="aber"
+	culture=aber
 }
 
 8204=
 {
 	name="Nehtonn"
-	culture="aber"
+	culture=aber
 }
 
 8205=
 {
 	name="Calise"
-	culture="aber"
+	culture=aber
 }
 
 8206=
 {
 	name="Peanfahel"
-	culture="aber"
+	culture=aber
 }
 
 8207=
 {
 	name="Pant"
-	culture="aber"
+	culture=aber
 }
 
 8208=
 {
 	name="Rerigon"
-	culture="aber"
+	culture=aber
 }
 
 8209=
 {
 	name="Decantae"
-	culture="aber"
+	culture=aber
 }
 
 8210=
 {
 	name="Fib"
-	culture="aber"
+	culture=aber
 }
 
 8211=
 {
 	name="Fotla"
-	culture="aber"
+	culture=aber
 }
 
 8212=
 {
 	name="Circinn"
-	culture="aber"
+	culture=aber
 }
 
 8213=
 {
 	name="Ce"
-	culture="aber"
+	culture=aber
 }
 
 8214=
 {
 	name="Cait"
-	culture="aber"
+	culture=aber
 }
 
 8215=
 {
 	name="Veponius"
-	culture="aber"
+	culture=aber
 }
 
 8216=
 {
 	name="Broichan"
-	culture="aber"
+	culture=aber
 }
 
 8217=
 {
 	name="Lutrin"
-	culture="aber"
+	culture=aber
 }
 
 8218=
 {
 	name="Ord"
-	culture="aber"
+	culture=aber
 }
 
 8219=
 {
 	name="Restenn"
-	culture="aber"
+	culture=aber
 }
 
 8220=
 {
 	name="Scollon"
-	culture="aber"
+	culture=aber
 }
 
 8221=
 {
 	name="Taran"
-	culture="aber"
+	culture=aber
 }
 
 8222=
 {
 	name="Uar"
-	culture="aber"
+	culture=aber
 }
 
 8223=
 {
 	name="Maqq"
-	culture="aber"
+	culture=aber
 }
 
 8224=
 {
 	name="Bran"
-	culture="aber"
+	culture=aber
 }
 
 8225=
 {
 	name="Artre"
-	culture="aber"
+	culture=aber
 }
 
 8226=
 {
 	name="Domnall"
-	culture="aber"
+	culture=aber
 }
 
 8227=
 {
 	name="Nechton"
-	culture="aber"
+	culture=aber
 }
 
 8228=
 {
 	name="Talorgen"
-	culture="aber"
+	culture=aber
 }
 
 8229=
 {
 	name="Galanan"
-	culture="aber"
+	culture=aber
 }
 
 8230=
 {
 	name="Drustan"
-	culture="aber"
+	culture=aber
 }
 
 8231=
 {
 	name="Uurgu"
-	culture="aber"
+	culture=aber
 }
 

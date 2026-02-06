@@ -1,384 +1,384 @@
 9287=
 {
 	name="Horvat"
-	culture="dvala"
+	culture=dvala
 }
 
 9288=
 {
 	name="Novak"
-	culture="dvala"
+	culture=dvala
 }
 
 9289=
 {
 	name="Kranjc"
-	culture="dvala"
+	culture=dvala
 }
 
 9290=
 {
 	name="Vidmar"
-	culture="dvala"
+	culture=dvala
 }
 
 9291=
 {
 	name="Kos"
-	culture="dvala"
+	culture=dvala
 }
 
 9292=
 {
 	name="Golob"
-	culture="dvala"
+	culture=dvala
 }
 
 9293=
 {
 	name="Turk"
-	culture="dvala"
+	culture=dvala
 }
 
 9294=
 {
 	name="Bizjak"
-	culture="dvala"
+	culture=dvala
 }
 
 9295=
 {
 	name="Mlakar"
-	culture="dvala"
+	culture=dvala
 }
 
 9296=
 {
 	name="Hribar"
-	culture="dvala"
+	culture=dvala
 }
 
 9297=
 {
 	name="Kralj"
-	culture="dvala"
+	culture=dvala
 }
 
 9298=
 {
 	name="Oblak"
-	culture="dvala"
+	culture=dvala
 }
 
 9299=
 {
 	name="Rozman"
-	culture="dvala"
+	culture=dvala
 }
 
 9300=
 {
 	name="Zajc"
-	culture="dvala"
+	culture=dvala
 }
 
 9301=
 {
 	name="Ivanov"
-	culture="dvala"
+	culture=dvala
 }
 
 9302=
 {
 	name="Petrov"
-	culture="dvala"
+	culture=dvala
 }
 
 9303=
 {
 	name="Dimitrov"
-	culture="dvala"
+	culture=dvala
 }
 
 9304=
 {
 	name="Georgiev"
-	culture="dvala"
+	culture=dvala
 }
 
 9305=
 {
 	name="Nikolov"
-	culture="dvala"
+	culture=dvala
 }
 
 9306=
 {
 	name="Stoyanov"
-	culture="dvala"
+	culture=dvala
 }
 
 9307=
 {
 	name="Todorov"
-	culture="dvala"
+	culture=dvala
 }
 
 9308=
 {
 	name="Vasilev"
-	culture="dvala"
+	culture=dvala
 }
 
 9309=
 {
 	name="Atanasov"
-	culture="dvala"
+	culture=dvala
 }
 
 9310=
 {
 	name="Hristov"
-	culture="dvala"
+	culture=dvala
 }
 
 9311=
 {
 	name="Angelov"
-	culture="dvala"
+	culture=dvala
 }
 
 9312=
 {
 	name="Kolev"
-	culture="dvala"
+	culture=dvala
 }
 
 9313=
 {
 	name="Marinov"
-	culture="dvala"
+	culture=dvala
 }
 
 9314=
 {
 	name="Kostov"
-	culture="dvala"
+	culture=dvala
 }
 
 9315=
 {
 	name="Stefanov"
-	culture="dvala"
+	culture=dvala
 }
 
 9316=
 {
 	name="Popov"
-	culture="dvala"
+	culture=dvala
 }
 
 9317=
 {
 	name="Iliev"
-	culture="dvala"
+	culture=dvala
 }
 
 9318=
 {
 	name="Pavlov"
-	culture="dvala"
+	culture=dvala
 }
 
 9319=
 {
 	name="Radev"
-	culture="dvala"
+	culture=dvala
 }
 
 9320=
 {
 	name="Kaloyanov"
-	culture="dvala"
+	culture=dvala
 }
 
 9321=
 {
 	name="Ganchev"
-	culture="dvala"
+	culture=dvala
 }
 
 9322=
 {
 	name="Milchev"
-	culture="dvala"
+	culture=dvala
 }
 
 9323=
 {
 	name="Tsvetkov"
-	culture="dvala"
+	culture=dvala
 }
 
 9324=
 {
 	name="Bozhilov"
-	culture="dvala"
+	culture=dvala
 }
 
 9325=
 {
 	name="Velikov"
-	culture="dvala"
+	culture=dvala
 }
 
 9326=
 {
 	name="Yankov"
-	culture="dvala"
+	culture=dvala
 }
 
 9327=
 {
 	name="Zhelev"
-	culture="dvala"
+	culture=dvala
 }
 
 9328=
 {
 	name="Kirov"
-	culture="dvala"
+	culture=dvala
 }
 
 9329=
 {
 	name="Lazarov"
-	culture="dvala"
+	culture=dvala
 }
 
 9330=
 {
 	name="Nenov"
-	culture="dvala"
+	culture=dvala
 }
 
 9331=
 {
 	name="Spasov"
-	culture="dvala"
+	culture=dvala
 }
 
 9332=
 {
 	name="Terziev"
-	culture="dvala"
+	culture=dvala
 }
 
 9333=
 {
 	name="Dobrev"
-	culture="dvala"
+	culture=dvala
 }
 
 9334=
 {
 	name="Hinkov"
-	culture="dvala"
+	culture=dvala
 }
 
 9335=
 {
 	name="Mladenov"
-	culture="dvala"
+	culture=dvala
 }
 
 9336=
 {
 	name="Rangelov"
-	culture="dvala"
+	culture=dvala
 }
 
 9337=
 {
 	name="Nachev"
-	culture="dvala"
+	culture=dvala
 }
 
 9338=
 {
 	name="Penchev"
-	culture="dvala"
+	culture=dvala
 }
 
 9339=
 {
 	name="Radkov"
-	culture="dvala"
+	culture=dvala
 }
 
 9340=
 {
 	name="Slavov"
-	culture="dvala"
+	culture=dvala
 }
 
 9341=
 {
 	name="Stankov"
-	culture="dvala"
+	culture=dvala
 }
 
 9342=
 {
 	name="Valchev"
-	culture="dvala"
+	culture=dvala
 }
 
 9343=
 {
 	name="Zdravkov"
-	culture="dvala"
+	culture=dvala
 }
 
 9344=
 {
 	name="Kamenov"
-	culture="dvala"
+	culture=dvala
 }
 
 9345=
 {
 	name="Kirilov"
-	culture="dvala"
+	culture=dvala
 }
 
 9346=
 {
 	name="Mitrev"
-	culture="dvala"
+	culture=dvala
 }
 
 9347=
 {
 	name="Trajkov"
-	culture="dvala"
+	culture=dvala
 }
 
 9348=
 {
 	name="Apostolov"
-	culture="dvala"
+	culture=dvala
 }
 
 9349=
 {
 	name="Bogdanov"
-	culture="dvala"
+	culture=dvala
 }
 
 9350=
 {
 	name="Delchev"
-	culture="dvala"
+	culture=dvala
 }
 

@@ -1,1032 +1,1032 @@
 7487=
 {
 	name="Corvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7488=
 {
 	name="Malroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7489=
 {
 	name="Navrion"
-	culture="llasada"
+	culture=llasada
 }
 
 7490=
 {
 	name="Raskella"
-	culture="llasada"
+	culture=llasada
 }
 
 7491=
 {
 	name="Velcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7492=
 {
 	name="Morvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7493=
 {
 	name="Salroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7494=
 {
 	name="Brasken"
-	culture="llasada"
+	culture=llasada
 }
 
 7495=
 {
 	name="Torvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7496=
 {
 	name="Ravorel"
-	culture="llasada"
+	culture=llasada
 }
 
 7497=
 {
 	name="Calroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7498=
 {
 	name="Norvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7499=
 {
 	name="Draskel"
-	culture="llasada"
+	culture=llasada
 }
 
 7500=
 {
 	name="Valcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7501=
 {
 	name="Marroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7502=
 {
 	name="Selvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7503=
 {
 	name="Kravel"
-	culture="llasada"
+	culture=llasada
 }
 
 7504=
 {
 	name="Navroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7505=
 {
 	name="Raskorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7506=
 {
 	name="Borvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7507=
 {
 	name="Morcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7508=
 {
 	name="Salvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7509=
 {
 	name="Torroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7510=
 {
 	name="Bravorel"
-	culture="llasada"
+	culture=llasada
 }
 
 7511=
 {
 	name="Velrask"
-	culture="llasada"
+	culture=llasada
 }
 
 7512=
 {
 	name="Carroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7513=
 {
 	name="Norcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7514=
 {
 	name="Dravane"
-	culture="llasada"
+	culture=llasada
 }
 
 7515=
 {
 	name="Valroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7516=
 {
 	name="Marvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7517=
 {
 	name="Selcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7518=
 {
 	name="Krasken"
-	culture="llasada"
+	culture=llasada
 }
 
 7519=
 {
 	name="Navvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7520=
 {
 	name="Ravroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7521=
 {
 	name="Borcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7522=
 {
 	name="Morask"
-	culture="llasada"
+	culture=llasada
 }
 
 7523=
 {
 	name="Salroven"
-	culture="llasada"
+	culture=llasada
 }
 
 7524=
 {
 	name="Torvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7525=
 {
 	name="Brarroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7526=
 {
 	name="Velcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7527=
 {
 	name="Carvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7528=
 {
 	name="Norroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7529=
 {
 	name="Draskorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7530=
 {
 	name="Valvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7531=
 {
 	name="Marcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7532=
 {
 	name="Selroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7533=
 {
 	name="Kravor"
-	culture="llasada"
+	culture=llasada
 }
 
 7534=
 {
 	name="Navroven"
-	culture="llasada"
+	culture=llasada
 }
 
 7535=
 {
 	name="Raskel"
-	culture="llasada"
+	culture=llasada
 }
 
 7536=
 {
 	name="Borvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7537=
 {
 	name="Morroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7538=
 {
 	name="Salcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7539=
 {
 	name="Torask"
-	culture="llasada"
+	culture=llasada
 }
 
 7540=
 {
 	name="Bravane"
-	culture="llasada"
+	culture=llasada
 }
 
 7541=
 {
 	name="Velroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7542=
 {
 	name="Carcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7543=
 {
 	name="Norvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7544=
 {
 	name="Drarroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7545=
 {
 	name="Valask"
-	culture="llasada"
+	culture=llasada
 }
 
 7546=
 {
 	name="Marvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7547=
 {
 	name="Selcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7548=
 {
 	name="Kravessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7549=
 {
 	name="Navcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7550=
 {
 	name="Ravask"
-	culture="llasada"
+	culture=llasada
 }
 
 7551=
 {
 	name="Borroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7552=
 {
 	name="Morvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7553=
 {
 	name="Salroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7554=
 {
 	name="Torcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7555=
 {
 	name="Braskorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7556=
 {
 	name="Velvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7557=
 {
 	name="Carroven"
-	culture="llasada"
+	culture=llasada
 }
 
 7558=
 {
 	name="Norask"
-	culture="llasada"
+	culture=llasada
 }
 
 7559=
 {
 	name="Dravessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7560=
 {
 	name="Valcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7561=
 {
 	name="Marask"
-	culture="llasada"
+	culture=llasada
 }
 
 7562=
 {
 	name="Selvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7563=
 {
 	name="Kroroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7564=
 {
 	name="Navask"
-	culture="llasada"
+	culture=llasada
 }
 
 7565=
 {
 	name="Ravcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7566=
 {
 	name="Borvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7567=
 {
 	name="Morcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7568=
 {
 	name="Salvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7569=
 {
 	name="Torroven"
-	culture="llasada"
+	culture=llasada
 }
 
 7570=
 {
 	name="Bracor"
-	culture="llasada"
+	culture=llasada
 }
 
 7571=
 {
 	name="Velask"
-	culture="llasada"
+	culture=llasada
 }
 
 7572=
 {
 	name="Carvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7573=
 {
 	name="Norcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7574=
 {
 	name="Droroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7575=
 {
 	name="Valvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7576=
 {
 	name="Marcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7577=
 {
 	name="Selask"
-	culture="llasada"
+	culture=llasada
 }
 
 7578=
 {
 	name="Kravane"
-	culture="llasada"
+	culture=llasada
 }
 
 7579=
 {
 	name="Navroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7580=
 {
 	name="Ravvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7581=
 {
 	name="Borask"
-	culture="llasada"
+	culture=llasada
 }
 
 7582=
 {
 	name="Morroven"
-	culture="llasada"
+	culture=llasada
 }
 
 7583=
 {
 	name="Salcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7584=
 {
 	name="Torvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7585=
 {
 	name="Broroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7586=
 {
 	name="Velcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7587=
 {
 	name="Carask"
-	culture="llasada"
+	culture=llasada
 }
 
 7588=
 {
 	name="Norvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7589=
 {
 	name="Dravroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7590=
 {
 	name="Valcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7591=
 {
 	name="Marvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7592=
 {
 	name="Selroven"
-	culture="llasada"
+	culture=llasada
 }
 
 7593=
 {
 	name="Krask"
-	culture="llasada"
+	culture=llasada
 }
 
 7594=
 {
 	name="Navcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7595=
 {
 	name="Ravroven"
-	culture="llasada"
+	culture=llasada
 }
 
 7596=
 {
 	name="Borcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7597=
 {
 	name="Morvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7598=
 {
 	name="Salask"
-	culture="llasada"
+	culture=llasada
 }
 
 7599=
 {
 	name="Torcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7600=
 {
 	name="Bravessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7601=
 {
 	name="Velroven"
-	culture="llasada"
+	culture=llasada
 }
 
 7602=
 {
 	name="Carcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7603=
 {
 	name="Norroven"
-	culture="llasada"
+	culture=llasada
 }
 
 7604=
 {
 	name="Drask"
-	culture="llasada"
+	culture=llasada
 }
 
 7605=
 {
 	name="Valvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7606=
 {
 	name="Marcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7607=
 {
 	name="Selvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7608=
 {
 	name="Krorask"
-	culture="llasada"
+	culture=llasada
 }
 
 7609=
 {
 	name="Navvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7610=
 {
 	name="Ravcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7611=
 {
 	name="Borvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7612=
 {
 	name="Morask"
-	culture="llasada"
+	culture=llasada
 }
 
 7613=
 {
 	name="Salroven"
-	culture="llasada"
+	culture=llasada
 }
 
 7614=
 {
 	name="Torvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7615=
 {
 	name="Brorask"
-	culture="llasada"
+	culture=llasada
 }
 
 7616=
 {
 	name="Velcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7617=
 {
 	name="Carvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7618=
 {
 	name="Norcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7619=
 {
 	name="Dravane"
-	culture="llasada"
+	culture=llasada
 }
 
 7620=
 {
 	name="Valroven"
-	culture="llasada"
+	culture=llasada
 }
 
 7621=
 {
 	name="Marask"
-	culture="llasada"
+	culture=llasada
 }
 
 7622=
 {
 	name="Selcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7623=
 {
 	name="Kravessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7624=
 {
 	name="Navroven"
-	culture="llasada"
+	culture=llasada
 }
 
 7625=
 {
 	name="Ravask"
-	culture="llasada"
+	culture=llasada
 }
 
 7626=
 {
 	name="Borcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7627=
 {
 	name="Morvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7628=
 {
 	name="Salcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7629=
 {
 	name="Torask"
-	culture="llasada"
+	culture=llasada
 }
 
 7630=
 {
 	name="Bravane"
-	culture="llasada"
+	culture=llasada
 }
 
 7631=
 {
 	name="Velroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7632=
 {
 	name="Carcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7633=
 {
 	name="Norvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7634=
 {
 	name="Drarroven"
-	culture="llasada"
+	culture=llasada
 }
 
 7635=
 {
 	name="Valask"
-	culture="llasada"
+	culture=llasada
 }
 
 7636=
 {
 	name="Marvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7637=
 {
 	name="Selcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7638=
 {
 	name="Kravane"
-	culture="llasada"
+	culture=llasada
 }
 
 7639=
 {
 	name="Navcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7640=
 {
 	name="Ravroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7641=
 {
 	name="Borask"
-	culture="llasada"
+	culture=llasada
 }
 
 7642=
 {
 	name="Morroth"
-	culture="llasada"
+	culture=llasada
 }
 
 7643=
 {
 	name="Salvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7644=
 {
 	name="Torcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7645=
 {
 	name="Brask"
-	culture="llasada"
+	culture=llasada
 }
 
 7646=
 {
 	name="Velvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7647=
 {
 	name="Carvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7648=
 {
 	name="Norcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7649=
 {
 	name="Drorask"
-	culture="llasada"
+	culture=llasada
 }
 
 7650=
 {
 	name="Valvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7651=
 {
 	name="Marcorin"
-	culture="llasada"
+	culture=llasada
 }
 
 7652=
 {
 	name="Selask"
-	culture="llasada"
+	culture=llasada
 }
 
 7653=
 {
 	name="Krorvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7654=
 {
 	name="Navvane"
-	culture="llasada"
+	culture=llasada
 }
 
 7655=
 {
 	name="Ravcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7656=
 {
 	name="Borvessa"
-	culture="llasada"
+	culture=llasada
 }
 
 7657=
 {
 	name="Morcor"
-	culture="llasada"
+	culture=llasada
 }
 
 7658=
 {
 	name="Salroth"
-	culture="llasada"
+	culture=llasada
 }
 

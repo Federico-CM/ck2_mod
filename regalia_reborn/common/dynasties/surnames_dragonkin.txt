@@ -1,300 +1,300 @@
 8861=
 {
 	name="Keita"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8862=
 {
 	name="Toure"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8863=
 {
 	name="Traore"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8864=
 {
 	name="Diarra"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8865=
 {
 	name="Konate"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8866=
 {
 	name="Cisse"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8867=
 {
 	name="Camara"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8868=
 {
 	name="Kante"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8869=
 {
 	name="Kouyate"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8870=
 {
 	name="Sissoko"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8871=
 {
 	name="Doumbia"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8872=
 {
 	name="Dabo"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8873=
 {
 	name="Fofana"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8874=
 {
 	name="Sidibe"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8875=
 {
 	name="Coulibaly"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8876=
 {
 	name="Bamba"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8877=
 {
 	name="Bagayogo"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8878=
 {
 	name="Sanogo"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8879=
 {
 	name="Dembele"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8880=
 {
 	name="Samake"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8881=
 {
 	name="Maiga"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8882=
 {
 	name="Diallo"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8883=
 {
 	name="Barry"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8884=
 {
 	name="Sow"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8885=
 {
 	name="Sylla"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8886=
 {
 	name="Jallow"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8887=
 {
 	name="Kaba"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8888=
 {
 	name="Yattara"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8889=
 {
 	name="Kone"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8890=
 {
 	name="Soumare"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8891=
 {
 	name="Diawara"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8892=
 {
 	name="Magassa"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8893=
 {
 	name="Tandia"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8894=
 {
 	name="Diakite"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8895=
 {
 	name="Sangare"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8896=
 {
 	name="Togola"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8897=
 {
 	name="Kourouma"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8898=
 {
 	name="Dante"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8899=
 {
 	name="Sako"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8900=
 {
 	name="Karamoko"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8901=
 {
 	name="Fadiga"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8902=
 {
 	name="Tunkara"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8903=
 {
 	name="Kamissoko"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8904=
 {
 	name="Berete"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8905=
 {
 	name="Niare"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8906=
 {
 	name="Sangho"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8907=
 {
 	name="Demba"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8908=
 {
 	name="Balla"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8909=
 {
 	name="Tiemoko"
-	culture="dragonkin"
+	culture=dragonkin
 }
 
 8910=
 {
 	name="Diomande"
-	culture="dragonkin"
+	culture=dragonkin
 }
 

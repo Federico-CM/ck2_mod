@@ -1,300 +1,300 @@
 8593=
 {
 	name="Shevchenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8594=
 {
 	name="Kovalenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8595=
 {
 	name="Bondarenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8596=
 {
 	name="Tkachenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8597=
 {
 	name="Kravchenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8598=
 {
 	name="Marchenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8599=
 {
 	name="Melnyk"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8600=
 {
 	name="Boyko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8601=
 {
 	name="Kozak"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8602=
 {
 	name="Moroz"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8603=
 {
 	name="Lysenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8604=
 {
 	name="Rudenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8605=
 {
 	name="Petrenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8606=
 {
 	name="Hrytsenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8607=
 {
 	name="Polishchuk"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8608=
 {
 	name="Zakharchenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8609=
 {
 	name="Panchenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8610=
 {
 	name="Yaremchuk"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8611=
 {
 	name="Honchar"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8612=
 {
 	name="Didyk"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8613=
 {
 	name="Pavlenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8614=
 {
 	name="Romanyuk"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8615=
 {
 	name="Klymenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8616=
 {
 	name="Chornyi"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8617=
 {
 	name="Bilous"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8618=
 {
 	name="Holub"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8619=
 {
 	name="Zayets"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8620=
 {
 	name="Skrypnyk"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8621=
 {
 	name="Oliynyk"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8622=
 {
 	name="Vasylenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8623=
 {
 	name="Danylenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8624=
 {
 	name="Levchenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8625=
 {
 	name="Sytnyk"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8626=
 {
 	name="Turchyn"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8627=
 {
 	name="Berezenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8628=
 {
 	name="Nyzhnyk"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8629=
 {
 	name="Kucher"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8630=
 {
 	name="Horobets"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8631=
 {
 	name="Fedorenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8632=
 {
 	name="Mykhailenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8633=
 {
 	name="Soroka"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8634=
 {
 	name="Shapoval"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8635=
 {
 	name="Kostenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8636=
 {
 	name="Yevtushenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8637=
 {
 	name="Matviyenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8638=
 {
 	name="Petryshyn"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8639=
 {
 	name="Voitenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8640=
 {
 	name="Yakymenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8641=
 {
 	name="Ostapenko"
-	culture="krainivaya"
+	culture=krainivaya
 }
 
 8642=
 {
 	name="Halushka"
-	culture="krainivaya"
+	culture=krainivaya
 }
 

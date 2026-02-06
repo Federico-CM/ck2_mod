@@ -1,294 +1,294 @@
 8911=
 {
 	name="Lo Monaco"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8912=
 {
 	name="Di Salvo"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8913=
 {
 	name="Russo"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8914=
 {
 	name="Greco"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8915=
 {
 	name="Lombardo"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8916=
 {
 	name="Messina"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8917=
 {
 	name="Palumbo"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8918=
 {
 	name="Vitale"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8919=
 {
 	name="Rizzo"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8920=
 {
 	name="Caruso"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8921=
 {
 	name="Gallo"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8922=
 {
 	name="Marino"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8923=
 {
 	name="Faro"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8924=
 {
 	name="Grasso"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8925=
 {
 	name="Battaglia"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8926=
 {
 	name="Pappalardo"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8927=
 {
 	name="Catania"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8928=
 {
 	name="Randazzo"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8929=
 {
 	name="Siracusa"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8930=
 {
 	name="Modica"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8931=
 {
 	name="Alessi"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8932=
 {
 	name="Amato"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8933=
 {
 	name="Barone"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8934=
 {
 	name="Buscemi"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8935=
 {
 	name="Calabrese"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8936=
 {
 	name="Cappello"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8937=
 {
 	name="Cirillo"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8938=
 {
 	name="Conti"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8939=
 {
 	name="Falsone"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8940=
 {
 	name="Ferrara"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8941=
 {
 	name="Giordano"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8942=
 {
 	name="Ingrassia"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8943=
 {
 	name="Licata"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8944=
 {
 	name="Mangano"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8945=
 {
 	name="Miceli"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8946=
 {
 	name="Napoli"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8947=
 {
 	name="Orlando"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8948=
 {
 	name="Privitera"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8949=
 {
 	name="Salerno"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8950=
 {
 	name="Santoro"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8951=
 {
 	name="Scalia"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8952=
 {
 	name="Spada"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8953=
 {
 	name="Tornabene"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8954=
 {
 	name="Trapani"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8955=
 {
 	name="Vella"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8956=
 {
 	name="Bonanno"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8957=
 {
 	name="Corleone"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8958=
 {
 	name="Montagna"
-	culture="azzizzari"
+	culture=azzizzari
 }
 
 8959=
 {
 	name="Pellegrino"
-	culture="azzizzari"
+	culture=azzizzari
 }
 

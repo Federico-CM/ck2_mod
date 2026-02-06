@@ -1,150 +1,150 @@
 8232=
 {
 	name="Ailill"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8233=
 {
 	name="Artgal"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8234=
 {
 	name="Blathmac"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8235=
 {
 	name="Bresal"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8236=
 {
 	name="Cairbre"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8237=
 {
 	name="Cellach"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8238=
 {
 	name="Congal"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8239=
 {
 	name="Cormacc"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8240=
 {
 	name="Crimthann"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8241=
 {
 	name="Diarmait"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8242=
 {
 	name="Domnall"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8243=
 {
 	name="Eochaid"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8244=
 {
 	name="Fachtna"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8245=
 {
 	name="Fergus"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8246=
 {
 	name="Fiachnae"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8247=
 {
 	name="Flann"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8248=
 {
 	name="Garban"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8249=
 {
 	name="Muirchertach"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8250=
 {
 	name="Niall"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8251=
 {
 	name="Suibne"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8252=
 {
 	name="Tadc"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8253=
 {
 	name="Tuathal"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8254=
 {
 	name="Uallach"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8255=
 {
 	name="Feradach"
-	culture="aontaithe"
+	culture=aontaithe
 }
 
 8256=
 {
 	name="Lugaid"
-	culture="aontaithe"
+	culture=aontaithe
 }
 

@@ -1,114 +1,114 @@
 9268=
 {
 	name="Ozolins"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9269=
 {
 	name="Jansons"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9270=
 {
 	name="Petersons"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9271=
 {
 	name="Liepa"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9272=
 {
 	name="Balodis"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9273=
 {
 	name="Vilks"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9274=
 {
 	name="Rozenbergs"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9275=
 {
 	name="Freimanis"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9276=
 {
 	name="Vanags"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9277=
 {
 	name="Ziedonis"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9278=
 {
 	name="Pumpurs"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9279=
 {
 	name="Stalts"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9280=
 {
 	name="Jaunzems"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9281=
 {
 	name="Vecvagars"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9282=
 {
 	name="Strazds"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9283=
 {
 	name="Baumanis"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9284=
 {
 	name="Zvejnieks"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9285=
 {
 	name="Skudra"
-	culture="tarkin"
+	culture=tarkin
 }
 
 9286=
 {
 	name="Runcis"
-	culture="tarkin"
+	culture=tarkin
 }
 

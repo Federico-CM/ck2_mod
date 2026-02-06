@@ -1,300 +1,300 @@
 9401=
 {
 	name="Beridze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9402=
 {
 	name="Gogoladze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9403=
 {
 	name="Chkheidze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9404=
 {
 	name="Kalandadze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9405=
 {
 	name="Maisuradze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9406=
 {
 	name="Gabunia"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9407=
 {
 	name="Khutsishvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9408=
 {
 	name="Mikadze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9409=
 {
 	name="Lomidze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9410=
 {
 	name="Gelashvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9411=
 {
 	name="Tsiklauri"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9412=
 {
 	name="Kiknadze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9413=
 {
 	name="Japaridze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9414=
 {
 	name="Makharadze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9415=
 {
 	name="Abashidze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9416=
 {
 	name="Chavchavadze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9417=
 {
 	name="Amilakhvari"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9418=
 {
 	name="Dadiani"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9419=
 {
 	name="Guramishvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9420=
 {
 	name="Baramidze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9421=
 {
 	name="Tsereteli"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9422=
 {
 	name="Orbeliani"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9423=
 {
 	name="Machavariani"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9424=
 {
 	name="Akhaladze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9425=
 {
 	name="Sharvashidze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9426=
 {
 	name="Papashvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9427=
 {
 	name="Melikishvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9428=
 {
 	name="Nadareishvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9429=
 {
 	name="Kobaladze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9430=
 {
 	name="Kvitsiani"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9431=
 {
 	name="Lortkipanidze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9432=
 {
 	name="Tsitsishvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9433=
 {
 	name="Eristavi"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9434=
 {
 	name="Zurabishvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9435=
 {
 	name="Mchedlishvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9436=
 {
 	name="Khmaladze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9437=
 {
 	name="Imnadze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9438=
 {
 	name="Vashakidze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9439=
 {
 	name="Tavartkiladze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9440=
 {
 	name="Tevdoradze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9441=
 {
 	name="Bakradze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9442=
 {
 	name="Revazishvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9443=
 {
 	name="Kharabadze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9444=
 {
 	name="Begashvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9445=
 {
 	name="Cheishvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9446=
 {
 	name="Tsuladze"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9447=
 {
 	name="Okruashvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9448=
 {
 	name="Khomeriki"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9449=
 {
 	name="Arabuli"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 
 9450=
 {
 	name="Margvelashvili"
-	culture="tsalqvanes"
+	culture=tsalqvanes
 }
 

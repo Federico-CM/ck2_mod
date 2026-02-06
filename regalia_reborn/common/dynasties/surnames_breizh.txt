@@ -1,522 +1,522 @@
 8506=
 {
 	name="Clare"
-	culture="breizh"
+	culture=breizh
 }
 
 8507=
 {
 	name="Warenne"
-	culture="breizh"
+	culture=breizh
 }
 
 8508=
 {
 	name="Percy"
-	culture="breizh"
+	culture=breizh
 }
 
 8509=
 {
 	name="Beaumont"
-	culture="breizh"
+	culture=breizh
 }
 
 8510=
 {
 	name="Montgomery"
-	culture="breizh"
+	culture=breizh
 }
 
 8511=
 {
 	name="Vere"
-	culture="breizh"
+	culture=breizh
 }
 
 8512=
 {
 	name="Bohun"
-	culture="breizh"
+	culture=breizh
 }
 
 8513=
 {
 	name="Mandeville"
-	culture="breizh"
+	culture=breizh
 }
 
 8514=
 {
 	name="Mortimer"
-	culture="breizh"
+	culture=breizh
 }
 
 8515=
 {
 	name="Lacy"
-	culture="breizh"
+	culture=breizh
 }
 
 8516=
 {
 	name="Braose"
-	culture="breizh"
+	culture=breizh
 }
 
 8517=
 {
 	name="Ferrers"
-	culture="breizh"
+	culture=breizh
 }
 
 8518=
 {
 	name="Courcy"
-	culture="breizh"
+	culture=breizh
 }
 
 8519=
 {
 	name="Balliol"
-	culture="breizh"
+	culture=breizh
 }
 
 8520=
 {
 	name="Ros"
-	culture="breizh"
+	culture=breizh
 }
 
 8521=
 {
 	name="Aumale"
-	culture="breizh"
+	culture=breizh
 }
 
 8522=
 {
 	name="Gournay"
-	culture="breizh"
+	culture=breizh
 }
 
 8523=
 {
 	name="Quincy"
-	culture="breizh"
+	culture=breizh
 }
 
 8524=
 {
 	name="Cantilupe"
-	culture="breizh"
+	culture=breizh
 }
 
 8525=
 {
 	name="Umfraville"
-	culture="breizh"
+	culture=breizh
 }
 
 8526=
 {
 	name="Tosny"
-	culture="breizh"
+	culture=breizh
 }
 
 8527=
 {
 	name="Stuteville"
-	culture="breizh"
+	culture=breizh
 }
 
 8528=
 {
 	name="Bigod"
-	culture="breizh"
+	culture=breizh
 }
 
 8529=
 {
 	name="Burgh"
-	culture="breizh"
+	culture=breizh
 }
 
 8530=
 {
 	name="Grey"
-	culture="breizh"
+	culture=breizh
 }
 
 8531=
 {
 	name="FitzAlan"
-	culture="breizh"
+	culture=breizh
 }
 
 8532=
 {
 	name="FitzGerald"
-	culture="breizh"
+	culture=breizh
 }
 
 8533=
 {
 	name="FitzWalter"
-	culture="breizh"
+	culture=breizh
 }
 
 8534=
 {
 	name="FitzHugh"
-	culture="breizh"
+	culture=breizh
 }
 
 8535=
 {
 	name="FitzRoy"
-	culture="breizh"
+	culture=breizh
 }
 
 8536=
 {
 	name="Maltravers"
-	culture="breizh"
+	culture=breizh
 }
 
 8537=
 {
 	name="Hastings"
-	culture="breizh"
+	culture=breizh
 }
 
 8538=
 {
 	name="Arundel"
-	culture="breizh"
+	culture=breizh
 }
 
 8539=
 {
 	name="Savoy"
-	culture="breizh"
+	culture=breizh
 }
 
 8540=
 {
 	name="Albini"
-	culture="breizh"
+	culture=breizh
 }
 
 8541=
 {
 	name="Camville"
-	culture="breizh"
+	culture=breizh
 }
 
 8542=
 {
 	name="Valence"
-	culture="breizh"
+	culture=breizh
 }
 
 8543=
 {
 	name="Vaux"
-	culture="breizh"
+	culture=breizh
 }
 
 8544=
 {
 	name="Mohun"
-	culture="breizh"
+	culture=breizh
 }
 
 8545=
 {
 	name="Harcourt"
-	culture="breizh"
+	culture=breizh
 }
 
 8546=
 {
 	name="Courtenay"
-	culture="breizh"
+	culture=breizh
 }
 
 8547=
 {
 	name="Poitou"
-	culture="breizh"
+	culture=breizh
 }
 
 8548=
 {
 	name="Bayeux"
-	culture="breizh"
+	culture=breizh
 }
 
 8549=
 {
 	name="Roumare"
-	culture="breizh"
+	culture=breizh
 }
 
 8550=
 {
 	name="Senlis"
-	culture="breizh"
+	culture=breizh
 }
 
 8551=
 {
 	name="Gaunt"
-	culture="breizh"
+	culture=breizh
 }
 
 8552=
 {
 	name="Falaise"
-	culture="breizh"
+	culture=breizh
 }
 
 8553=
 {
 	name="Eu"
-	culture="breizh"
+	culture=breizh
 }
 
 8554=
 {
 	name="Ponthieu"
-	culture="breizh"
+	culture=breizh
 }
 
 8555=
 {
 	name="Tancarville"
-	culture="breizh"
+	culture=breizh
 }
 
 8556=
 {
 	name="Beauchamp"
-	culture="breizh"
+	culture=breizh
 }
 
 8557=
 {
 	name="Lovaine"
-	culture="breizh"
+	culture=breizh
 }
 
 8558=
 {
 	name="Dreux"
-	culture="breizh"
+	culture=breizh
 }
 
 8559=
 {
 	name="Meulan"
-	culture="breizh"
+	culture=breizh
 }
 
 8560=
 {
 	name="Ivry"
-	culture="breizh"
+	culture=breizh
 }
 
 8561=
 {
 	name="Vernon"
-	culture="breizh"
+	culture=breizh
 }
 
 8562=
 {
 	name="Avesnes"
-	culture="breizh"
+	culture=breizh
 }
 
 8563=
 {
 	name="Laval"
-	culture="breizh"
+	culture=breizh
 }
 
 8564=
 {
 	name="Montfort"
-	culture="breizh"
+	culture=breizh
 }
 
 8565=
 {
 	name="Nemours"
-	culture="breizh"
+	culture=breizh
 }
 
 8566=
 {
 	name="Rohan"
-	culture="breizh"
+	culture=breizh
 }
 
 8567=
 {
 	name="Dinan"
-	culture="breizh"
+	culture=breizh
 }
 
 8568=
 {
 	name="Dol"
-	culture="breizh"
+	culture=breizh
 }
 
 8569=
 {
 	name="Rennes"
-	culture="breizh"
+	culture=breizh
 }
 
 8570=
 {
 	name="Saint-Sauveur"
-	culture="breizh"
+	culture=breizh
 }
 
 8571=
 {
 	name="Avranches"
-	culture="breizh"
+	culture=breizh
 }
 
 8572=
 {
 	name="Mortain"
-	culture="breizh"
+	culture=breizh
 }
 
 8573=
 {
 	name="Coutances"
-	culture="breizh"
+	culture=breizh
 }
 
 8574=
 {
 	name="Lisieux"
-	culture="breizh"
+	culture=breizh
 }
 
 8575=
 {
 	name="Baynard"
-	culture="breizh"
+	culture=breizh
 }
 
 8576=
 {
 	name="Peverel"
-	culture="breizh"
+	culture=breizh
 }
 
 8577=
 {
 	name="Marmion"
-	culture="breizh"
+	culture=breizh
 }
 
 8578=
 {
 	name="Grandmesnil"
-	culture="breizh"
+	culture=breizh
 }
 
 8579=
 {
 	name="Criquetot"
-	culture="breizh"
+	culture=breizh
 }
 
 8580=
 {
 	name="Tillieres"
-	culture="breizh"
+	culture=breizh
 }
 
 8581=
 {
 	name="Escalles"
-	culture="breizh"
+	culture=breizh
 }
 
 8582=
 {
 	name="Briquebec"
-	culture="breizh"
+	culture=breizh
 }
 
 8583=
 {
 	name="Carentan"
-	culture="breizh"
+	culture=breizh
 }
 
 8584=
 {
 	name="Argentan"
-	culture="breizh"
+	culture=breizh
 }
 
 8585=
 {
 	name="Torigny"
-	culture="breizh"
+	culture=breizh
 }
 
 8586=
 {
 	name="La Haye"
-	culture="breizh"
+	culture=breizh
 }
 
 8587=
 {
 	name="Valognes"
-	culture="breizh"
+	culture=breizh
 }
 
 8588=
 {
 	name="Tesson"
-	culture="breizh"
+	culture=breizh
 }
 
 8589=
 {
 	name="Saint-Clair"
-	culture="breizh"
+	culture=breizh
 }
 
 8590=
 {
 	name="Taillebois"
-	culture="breizh"
+	culture=breizh
 }
 
 8591=
 {
 	name="Mowbray"
-	culture="breizh"
+	culture=breizh
 }
 
 8592=
 {
 	name="Aincourt"
-	culture="breizh"
+	culture=breizh
 }
 

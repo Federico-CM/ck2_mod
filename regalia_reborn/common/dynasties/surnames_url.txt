@@ -1,1020 +1,1020 @@
 9086=
 {
 	name="Yngling"
-	culture="url"
+	culture=url
 }
 
 9087=
 {
 	name="Skjoldung"
-	culture="url"
+	culture=url
 }
 
 9088=
 {
 	name="Wolfcloak"
-	culture="url"
+	culture=url
 }
 
 9089=
 {
 	name="Greycloak"
-	culture="url"
+	culture=url
 }
 
 9090=
 {
 	name="Ravenbanner"
-	culture="url"
+	culture=url
 }
 
 9091=
 {
 	name="Ironside"
-	culture="url"
+	culture=url
 }
 
 9092=
 {
 	name="Bloodaxe"
-	culture="url"
+	culture=url
 }
 
 9093=
 {
 	name="Frostbeard"
-	culture="url"
+	culture=url
 }
 
 9094=
 {
 	name="Stonehelm"
-	culture="url"
+	culture=url
 }
 
 9095=
 {
 	name="Stormborn"
-	culture="url"
+	culture=url
 }
 
 9096=
 {
 	name="Sea-Wolf"
-	culture="url"
+	culture=url
 }
 
 9097=
 {
 	name="Firebrand"
-	culture="url"
+	culture=url
 }
 
 9098=
 {
 	name="Oakshield"
-	culture="url"
+	culture=url
 }
 
 9099=
 {
 	name="Bearcloak"
-	culture="url"
+	culture=url
 }
 
 9100=
 {
 	name="Icefang"
-	culture="url"
+	culture=url
 }
 
 9101=
 {
 	name="Thunderhand"
-	culture="url"
+	culture=url
 }
 
 9102=
 {
 	name="Blackwolf"
-	culture="url"
+	culture=url
 }
 
 9103=
 {
 	name="WhiteRaven"
-	culture="url"
+	culture=url
 }
 
 9104=
 {
 	name="RedAxe"
-	culture="url"
+	culture=url
 }
 
 9105=
 {
 	name="Goldbeard"
-	culture="url"
+	culture=url
 }
 
 9106=
 {
 	name="Deepfjord"
-	culture="url"
+	culture=url
 }
 
 9107=
 {
 	name="Northwind"
-	culture="url"
+	culture=url
 }
 
 9108=
 {
 	name="Frostwolf"
-	culture="url"
+	culture=url
 }
 
 9109=
 {
 	name="Ironcloak"
-	culture="url"
+	culture=url
 }
 
 9110=
 {
 	name="Stormcloak"
-	culture="url"
+	culture=url
 }
 
 9111=
 {
 	name="Ravenshield"
-	culture="url"
+	culture=url
 }
 
 9112=
 {
 	name="Skullsplitter"
-	culture="url"
+	culture=url
 }
 
 9113=
 {
 	name="Wyrmthane"
-	culture="url"
+	culture=url
 }
 
 9114=
 {
 	name="Drakeblood"
-	culture="url"
+	culture=url
 }
 
 9115=
 {
 	name="Wavecutter"
-	culture="url"
+	culture=url
 }
 
 9116=
 {
 	name="Saltbeard"
-	culture="url"
+	culture=url
 }
 
 9117=
 {
 	name="Fjallborn"
-	culture="url"
+	culture=url
 }
 
 9118=
 {
 	name="Snowmantle"
-	culture="url"
+	culture=url
 }
 
 9119=
 {
 	name="Nightblade"
-	culture="url"
+	culture=url
 }
 
 9120=
 {
 	name="Blackfjord"
-	culture="url"
+	culture=url
 }
 
 9121=
 {
 	name="Whalebone"
-	culture="url"
+	culture=url
 }
 
 9122=
 {
 	name="Firespear"
-	culture="url"
+	culture=url
 }
 
 9123=
 {
 	name="Coldsteel"
-	culture="url"
+	culture=url
 }
 
 9124=
 {
 	name="Stonefist"
-	culture="url"
+	culture=url
 }
 
 9125=
 {
 	name="Shieldbreaker"
-	culture="url"
+	culture=url
 }
 
 9126=
 {
 	name="Longship"
-	culture="url"
+	culture=url
 }
 
 9127=
 {
 	name="Frostmantle"
-	culture="url"
+	culture=url
 }
 
 9128=
 {
 	name="Skyspear"
-	culture="url"
+	culture=url
 }
 
 9129=
 {
 	name="Rimecloak"
-	culture="url"
+	culture=url
 }
 
 9130=
 {
 	name="Stormrider"
-	culture="url"
+	culture=url
 }
 
 9131=
 {
 	name="Icebound"
-	culture="url"
+	culture=url
 }
 
 9132=
 {
 	name="Grimwolf"
-	culture="url"
+	culture=url
 }
 
 9133=
 {
 	name="Redcloak"
-	culture="url"
+	culture=url
 }
 
 9134=
 {
 	name="Ravenhelm"
-	culture="url"
+	culture=url
 }
 
 9135=
 {
 	name="Northstar"
-	culture="url"
+	culture=url
 }
 
 9136=
 {
 	name="Seaborn"
-	culture="url"
+	culture=url
 }
 
 9137=
 {
 	name="Frostvein"
-	culture="url"
+	culture=url
 }
 
 9138=
 {
 	name="Ironjaw"
-	culture="url"
+	culture=url
 }
 
 9139=
 {
 	name="Blackaxe"
-	culture="url"
+	culture=url
 }
 
 9140=
 {
 	name="Stormaxe"
-	culture="url"
+	culture=url
 }
 
 9141=
 {
 	name="Snowdrake"
-	culture="url"
+	culture=url
 }
 
 9142=
 {
 	name="Deepwater"
-	culture="url"
+	culture=url
 }
 
 9143=
 {
 	name="Saltwind"
-	culture="url"
+	culture=url
 }
 
 9144=
 {
 	name="Whiterock"
-	culture="url"
+	culture=url
 }
 
 9145=
 {
 	name="Coldshore"
-	culture="url"
+	culture=url
 }
 
 9146=
 {
 	name="Fjordsbane"
-	culture="url"
+	culture=url
 }
 
 9147=
 {
 	name="Waveborn"
-	culture="url"
+	culture=url
 }
 
 9148=
 {
 	name="Greywolf"
-	culture="url"
+	culture=url
 }
 
 9149=
 {
 	name="Bloodshield"
-	culture="url"
+	culture=url
 }
 
 9150=
 {
 	name="Steelhand"
-	culture="url"
+	culture=url
 }
 
 9151=
 {
 	name="Stormshield"
-	culture="url"
+	culture=url
 }
 
 9152=
 {
 	name="Runespear"
-	culture="url"
+	culture=url
 }
 
 9153=
 {
 	name="Blackrock"
-	culture="url"
+	culture=url
 }
 
 9154=
 {
 	name="Raveneye"
-	culture="url"
+	culture=url
 }
 
 9155=
 {
 	name="Frosthammer"
-	culture="url"
+	culture=url
 }
 
 9156=
 {
 	name="Northcliff"
-	culture="url"
+	culture=url
 }
 
 9157=
 {
 	name="Seafoam"
-	culture="url"
+	culture=url
 }
 
 9158=
 {
 	name="Grimshield"
-	culture="url"
+	culture=url
 }
 
 9159=
 {
 	name="Icebreaker"
-	culture="url"
+	culture=url
 }
 
 9160=
 {
 	name="Firecloak"
-	culture="url"
+	culture=url
 }
 
 9161=
 {
 	name="Stormhelm"
-	culture="url"
+	culture=url
 }
 
 9162=
 {
 	name="Rimebeard"
-	culture="url"
+	culture=url
 }
 
 9163=
 {
 	name="Coldheart"
-	culture="url"
+	culture=url
 }
 
 9164=
 {
 	name="Skullhelm"
-	culture="url"
+	culture=url
 }
 
 9165=
 {
 	name="Wavebreaker"
-	culture="url"
+	culture=url
 }
 
 9166=
 {
 	name="Snowfall"
-	culture="url"
+	culture=url
 }
 
 9167=
 {
 	name="Stonebeard"
-	culture="url"
+	culture=url
 }
 
 9168=
 {
 	name="Ironrune"
-	culture="url"
+	culture=url
 }
 
 9169=
 {
 	name="Frostborn"
-	culture="url"
+	culture=url
 }
 
 9170=
 {
 	name="Darkfjord"
-	culture="url"
+	culture=url
 }
 
 9171=
 {
 	name="Blackpine"
-	culture="url"
+	culture=url
 }
 
 9172=
 {
 	name="Redwolf"
-	culture="url"
+	culture=url
 }
 
 9173=
 {
 	name="Whalefang"
-	culture="url"
+	culture=url
 }
 
 9174=
 {
 	name="Stormpeak"
-	culture="url"
+	culture=url
 }
 
 9175=
 {
 	name="Seawolf"
-	culture="url"
+	culture=url
 }
 
 9176=
 {
 	name="Greybeard"
-	culture="url"
+	culture=url
 }
 
 9177=
 {
 	name="Runestone"
-	culture="url"
+	culture=url
 }
 
 9178=
 {
 	name="Icecloak"
-	culture="url"
+	culture=url
 }
 
 9179=
 {
 	name="Northaxe"
-	culture="url"
+	culture=url
 }
 
 9180=
 {
 	name="Coldhammer"
-	culture="url"
+	culture=url
 }
 
 9181=
 {
 	name="Stormbeard"
-	culture="url"
+	culture=url
 }
 
 9182=
 {
 	name="Frostshield"
-	culture="url"
+	culture=url
 }
 
 9183=
 {
 	name="Ravensong"
-	culture="url"
+	culture=url
 }
 
 9184=
 {
 	name="Blackstorm"
-	culture="url"
+	culture=url
 }
 
 9185=
 {
 	name="Drakeshield"
-	culture="url"
+	culture=url
 }
 
 9186=
 {
 	name="Wavehelm"
-	culture="url"
+	culture=url
 }
 
 9187=
 {
 	name="Snowrune"
-	culture="url"
+	culture=url
 }
 
 9188=
 {
 	name="Grimfang"
-	culture="url"
+	culture=url
 }
 
 9189=
 {
 	name="Ironpeak"
-	culture="url"
+	culture=url
 }
 
 9190=
 {
 	name="Stonewolf"
-	culture="url"
+	culture=url
 }
 
 9191=
 {
 	name="Bloodraven"
-	culture="url"
+	culture=url
 }
 
 9192=
 {
 	name="Coldwind"
-	culture="url"
+	culture=url
 }
 
 9193=
 {
 	name="Firefang"
-	culture="url"
+	culture=url
 }
 
 9194=
 {
 	name="Stormfury"
-	culture="url"
+	culture=url
 }
 
 9195=
 {
 	name="Deepstone"
-	culture="url"
+	culture=url
 }
 
 9196=
 {
 	name="Northwatch"
-	culture="url"
+	culture=url
 }
 
 9197=
 {
 	name="Seahelm"
-	culture="url"
+	culture=url
 }
 
 9198=
 {
 	name="Frostsong"
-	culture="url"
+	culture=url
 }
 
 9199=
 {
 	name="Ravencliff"
-	culture="url"
+	culture=url
 }
 
 9200=
 {
 	name="Blackfrost"
-	culture="url"
+	culture=url
 }
 
 9201=
 {
 	name="Skyrune"
-	culture="url"
+	culture=url
 }
 
 9202=
 {
 	name="Icefang"
-	culture="url"
+	culture=url
 }
 
 9203=
 {
 	name="Stormward"
-	culture="url"
+	culture=url
 }
 
 9204=
 {
 	name="Grimcloak"
-	culture="url"
+	culture=url
 }
 
 9205=
 {
 	name="Coldsteel"
-	culture="url"
+	culture=url
 }
 
 9206=
 {
 	name="Runeblade"
-	culture="url"
+	culture=url
 }
 
 9207=
 {
 	name="Snowcloak"
-	culture="url"
+	culture=url
 }
 
 9208=
 {
 	name="Wavefury"
-	culture="url"
+	culture=url
 }
 
 9209=
 {
 	name="Stoneward"
-	culture="url"
+	culture=url
 }
 
 9210=
 {
 	name="Northguard"
-	culture="url"
+	culture=url
 }
 
 9211=
 {
 	name="Fireward"
-	culture="url"
+	culture=url
 }
 
 9212=
 {
 	name="Blackhelm"
-	culture="url"
+	culture=url
 }
 
 9213=
 {
 	name="Frostward"
-	culture="url"
+	culture=url
 }
 
 9214=
 {
 	name="Ravenshade"
-	culture="url"
+	culture=url
 }
 
 9215=
 {
 	name="Ironward"
-	culture="url"
+	culture=url
 }
 
 9216=
 {
 	name="Stormshade"
-	culture="url"
+	culture=url
 }
 
 9217=
 {
 	name="Deepfrost"
-	culture="url"
+	culture=url
 }
 
 9218=
 {
 	name="Coldshore"
-	culture="url"
+	culture=url
 }
 
 9219=
 {
 	name="Skullward"
-	culture="url"
+	culture=url
 }
 
 9220=
 {
 	name="Waveward"
-	culture="url"
+	culture=url
 }
 
 9221=
 {
 	name="Snowward"
-	culture="url"
+	culture=url
 }
 
 9222=
 {
 	name="Firehelm"
-	culture="url"
+	culture=url
 }
 
 9223=
 {
 	name="Northward"
-	culture="url"
+	culture=url
 }
 
 9224=
 {
 	name="Rimeward"
-	culture="url"
+	culture=url
 }
 
 9225=
 {
 	name="Stormwatch"
-	culture="url"
+	culture=url
 }
 
 9226=
 {
 	name="Blackward"
-	culture="url"
+	culture=url
 }
 
 9227=
 {
 	name="Frostwatch"
-	culture="url"
+	culture=url
 }
 
 9228=
 {
 	name="Ravenward"
-	culture="url"
+	culture=url
 }
 
 9229=
 {
 	name="Stonewatch"
-	culture="url"
+	culture=url
 }
 
 9230=
 {
 	name="Coldwatch"
-	culture="url"
+	culture=url
 }
 
 9231=
 {
 	name="Ironwatch"
-	culture="url"
+	culture=url
 }
 
 9232=
 {
 	name="Seaeye"
-	culture="url"
+	culture=url
 }
 
 9233=
 {
 	name="Northwind"
-	culture="url"
+	culture=url
 }
 
 9234=
 {
 	name="Frostwind"
-	culture="url"
+	culture=url
 }
 
 9235=
 {
 	name="Stormwind"
-	culture="url"
+	culture=url
 }
 
 9236=
 {
 	name="Rimewind"
-	culture="url"
+	culture=url
 }
 
 9237=
 {
 	name="Blackwind"
-	culture="url"
+	culture=url
 }
 
 9238=
 {
 	name="Coldwind"
-	culture="url"
+	culture=url
 }
 
 9239=
 {
 	name="Ravenwind"
-	culture="url"
+	culture=url
 }
 
 9240=
 {
 	name="Stonewind"
-	culture="url"
+	culture=url
 }
 
 9241=
 {
 	name="Ironwind"
-	culture="url"
+	culture=url
 }
 
 9242=
 {
 	name="Wavewind"
-	culture="url"
+	culture=url
 }
 
 9243=
 {
 	name="Snowwind"
-	culture="url"
+	culture=url
 }
 
 9244=
 {
 	name="Firewind"
-	culture="url"
+	culture=url
 }
 
 9245=
 {
 	name="Northfire"
-	culture="url"
+	culture=url
 }
 
 9246=
 {
 	name="Frostfire"
-	culture="url"
+	culture=url
 }
 
 9247=
 {
 	name="Stormfire"
-	culture="url"
+	culture=url
 }
 
 9248=
 {
 	name="Blackfire"
-	culture="url"
+	culture=url
 }
 
 9249=
 {
 	name="Coldflame"
-	culture="url"
+	culture=url
 }
 
 9250=
 {
 	name="Ravenfire"
-	culture="url"
+	culture=url
 }
 
 9251=
 {
 	name="Stonefire"
-	culture="url"
+	culture=url
 }
 
 9252=
 {
 	name="Ironfire"
-	culture="url"
+	culture=url
 }
 
 9253=
 {
 	name="Wavefire"
-	culture="url"
+	culture=url
 }
 
 9254=
 {
 	name="Snowfire"
-	culture="url"
+	culture=url
 }
 
 9255=
 {
 	name="Firebrand"
-	culture="url"
+	culture=url
 }
 

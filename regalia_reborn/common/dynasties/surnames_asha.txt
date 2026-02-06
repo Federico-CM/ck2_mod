@@ -1,498 +1,498 @@
 8100=
 {
 	name="Amenhotep"
-	culture="asha"
+	culture=asha
 }
 
 8101=
 {
 	name="Ankhef"
-	culture="asha"
+	culture=asha
 }
 
 8102=
 {
 	name="Ankhmahor"
-	culture="asha"
+	culture=asha
 }
 
 8103=
 {
 	name="Ankhtifi"
-	culture="asha"
+	culture=asha
 }
 
 8104=
 {
 	name="Atumemheb"
-	culture="asha"
+	culture=asha
 }
 
 8105=
 {
 	name="Bakenkhonsu"
-	culture="asha"
+	culture=asha
 }
 
 8106=
 {
 	name="Djedefhor"
-	culture="asha"
+	culture=asha
 }
 
 8107=
 {
 	name="Djedefre"
-	culture="asha"
+	culture=asha
 }
 
 8108=
 {
 	name="Djehutyemheb"
-	culture="asha"
+	culture=asha
 }
 
 8109=
 {
 	name="Djoserankh"
-	culture="asha"
+	culture=asha
 }
 
 8110=
 {
 	name="Hapuseneb"
-	culture="asha"
+	culture=asha
 }
 
 8111=
 {
 	name="Harkhuf"
-	culture="asha"
+	culture=asha
 }
 
 8112=
 {
 	name="Hekaib"
-	culture="asha"
+	culture=asha
 }
 
 8113=
 {
 	name="Hemaka"
-	culture="asha"
+	culture=asha
 }
 
 8114=
 {
 	name="Horemheb"
-	culture="asha"
+	culture=asha
 }
 
 8115=
 {
 	name="Idu"
-	culture="asha"
+	culture=asha
 }
 
 8116=
 {
 	name="Irsu"
-	culture="asha"
+	culture=asha
 }
 
 8117=
 {
 	name="Iyerniutef"
-	culture="asha"
+	culture=asha
 }
 
 8118=
 {
 	name="Kaaper"
-	culture="asha"
+	culture=asha
 }
 
 8119=
 {
 	name="Kagemni"
-	culture="asha"
+	culture=asha
 }
 
 8120=
 {
 	name="Khaba"
-	culture="asha"
+	culture=asha
 }
 
 8121=
 {
 	name="Khaemwaset"
-	culture="asha"
+	culture=asha
 }
 
 8122=
 {
 	name="Khafre"
-	culture="asha"
+	culture=asha
 }
 
 8123=
 {
 	name="Kheti"
-	culture="asha"
+	culture=asha
 }
 
 8124=
 {
 	name="Khnummose"
-	culture="asha"
+	culture=asha
 }
 
 8125=
 {
 	name="Mahuhy"
-	culture="asha"
+	culture=asha
 }
 
 8126=
 {
 	name="Meketre"
-	culture="asha"
+	culture=asha
 }
 
 8127=
 {
 	name="Mereruka"
-	culture="asha"
+	culture=asha
 }
 
 8128=
 {
 	name="Meriptah"
-	culture="asha"
+	culture=asha
 }
 
 8129=
 {
 	name="Meryre"
-	culture="asha"
+	culture=asha
 }
 
 8130=
 {
 	name="Montuemhat"
-	culture="asha"
+	culture=asha
 }
 
 8131=
 {
 	name="Nakht"
-	culture="asha"
+	culture=asha
 }
 
 8132=
 {
 	name="Nebamun"
-	culture="asha"
+	culture=asha
 }
 
 8133=
 {
 	name="Nebet"
-	culture="asha"
+	culture=asha
 }
 
 8134=
 {
 	name="Nebhotep"
-	culture="asha"
+	culture=asha
 }
 
 8135=
 {
 	name="Nebitka"
-	culture="asha"
+	culture=asha
 }
 
 8136=
 {
 	name="Neferhotep"
-	culture="asha"
+	culture=asha
 }
 
 8137=
 {
 	name="Nefermaat"
-	culture="asha"
+	culture=asha
 }
 
 8138=
 {
 	name="Nefermenu"
-	culture="asha"
+	culture=asha
 }
 
 8139=
 {
 	name="Neferu"
-	culture="asha"
+	culture=asha
 }
 
 8140=
 {
 	name="Niankhkhnum"
-	culture="asha"
+	culture=asha
 }
 
 8141=
 {
 	name="Nikaure"
-	culture="asha"
+	culture=asha
 }
 
 8142=
 {
 	name="Pairy"
-	culture="asha"
+	culture=asha
 }
 
 8143=
 {
 	name="Paser"
-	culture="asha"
+	culture=asha
 }
 
 8144=
 {
 	name="Ptahhotep"
-	culture="asha"
+	culture=asha
 }
 
 8145=
 {
 	name="Rahotep"
-	culture="asha"
+	culture=asha
 }
 
 8146=
 {
 	name="Ramose"
-	culture="asha"
+	culture=asha
 }
 
 8147=
 {
 	name="Rekhmire"
-	culture="asha"
+	culture=asha
 }
 
 8148=
 {
 	name="Sabni"
-	culture="asha"
+	culture=asha
 }
 
 8149=
 {
 	name="Sahure"
-	culture="asha"
+	culture=asha
 }
 
 8150=
 {
 	name="Sennefer"
-	culture="asha"
+	culture=asha
 }
 
 8151=
 {
 	name="Seshatnefer"
-	culture="asha"
+	culture=asha
 }
 
 8152=
 {
 	name="Shepseskaf"
-	culture="asha"
+	culture=asha
 }
 
 8153=
 {
 	name="Siamun"
-	culture="asha"
+	culture=asha
 }
 
 8154=
 {
 	name="Sobekhotep"
-	culture="asha"
+	culture=asha
 }
 
 8155=
 {
 	name="Tia"
-	culture="asha"
+	culture=asha
 }
 
 8156=
 {
 	name="Tjay"
-	culture="asha"
+	culture=asha
 }
 
 8157=
 {
 	name="To"
-	culture="asha"
+	culture=asha
 }
 
 8158=
 {
 	name="Tutu"
-	culture="asha"
+	culture=asha
 }
 
 8159=
 {
 	name="Udjahorresnet"
-	culture="asha"
+	culture=asha
 }
 
 8160=
 {
 	name="Uni"
-	culture="asha"
+	culture=asha
 }
 
 8161=
 {
 	name="Usermontu"
-	culture="asha"
+	culture=asha
 }
 
 8162=
 {
 	name="Wah"
-	culture="asha"
+	culture=asha
 }
 
 8163=
 {
 	name="Weni"
-	culture="asha"
+	culture=asha
 }
 
 8164=
 {
 	name="Werner"
-	culture="asha"
+	culture=asha
 }
 
 8165=
 {
 	name="Yam"
-	culture="asha"
+	culture=asha
 }
 
 8166=
 {
 	name="Yanhamu"
-	culture="asha"
+	culture=asha
 }
 
 8167=
 {
 	name="Zau"
-	culture="asha"
+	culture=asha
 }
 
 8168=
 {
 	name="Zazamankh"
-	culture="asha"
+	culture=asha
 }
 
 8169=
 {
 	name="Ahmose"
-	culture="asha"
+	culture=asha
 }
 
 8170=
 {
 	name="Antef"
-	culture="asha"
+	culture=asha
 }
 
 8171=
 {
 	name="Bek"
-	culture="asha"
+	culture=asha
 }
 
 8172=
 {
 	name="Hori"
-	culture="asha"
+	culture=asha
 }
 
 8173=
 {
 	name="Ipy"
-	culture="asha"
+	culture=asha
 }
 
 8174=
 {
 	name="Kawab"
-	culture="asha"
+	culture=asha
 }
 
 8175=
 {
 	name="Menna"
-	culture="asha"
+	culture=asha
 }
 
 8176=
 {
 	name="Minmose"
-	culture="asha"
+	culture=asha
 }
 
 8177=
 {
 	name="Neferrenpet"
-	culture="asha"
+	culture=asha
 }
 
 8178=
 {
 	name="Pay"
-	culture="asha"
+	culture=asha
 }
 
 8179=
 {
 	name="Qar"
-	culture="asha"
+	culture=asha
 }
 
 8180=
 {
 	name="Senbi"
-	culture="asha"
+	culture=asha
 }
 
 8181=
 {
 	name="Suty"
-	culture="asha"
+	culture=asha
 }
 
 8182=
 {
 	name="Thutmose"
-	culture="asha"
+	culture=asha
 }
 

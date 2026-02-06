@@ -1,492 +1,492 @@
 8779=
 {
 	name="Bourgogne"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8780=
 {
 	name="Beaune"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8781=
 {
 	name="Dijon"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8782=
 {
 	name="Chalon"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8783=
 {
 	name="Nevers"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8784=
 {
 	name="Auxerre"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8785=
 {
 	name="Semur"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8786=
 {
 	name="Cluny"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8787=
 {
 	name="Tournus"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8788=
 {
 	name="Autun"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8789=
 {
 	name="Sens"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8790=
 {
 	name="Tonnerre"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8791=
 {
 	name="Saulieu"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8792=
 {
 	name="Montbard"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8793=
 {
 	name="Nuits"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8794=
 {
 	name="Vergy"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8795=
 {
 	name="Rully"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8796=
 {
 	name="Meursault"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8797=
 {
 	name="Pommard"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8798=
 {
 	name="Volnay"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8799=
 {
 	name="Chagny"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8800=
 {
 	name="Louhans"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8801=
 {
 	name="Brion"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8802=
 {
 	name="Charolais"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8803=
 {
 	name="Bresse"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8804=
 {
 	name="Morvan"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8805=
 {
 	name="Salins"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8806=
 {
 	name="Gray"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8807=
 {
 	name="Dole"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8808=
 {
 	name="Poligny"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8809=
 {
 	name="Lons"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8810=
 {
 	name="Arlay"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8811=
 {
 	name="Rochefort"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8812=
 {
 	name="Montfaucon"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8813=
 {
 	name="Vienne"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8814=
 {
 	name="Valois"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8815=
 {
 	name="Bar"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8816=
 {
 	name="Dampierre"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8817=
 {
 	name="Joinville"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8818=
 {
 	name="Mirebeau"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8819=
 {
 	name="Champlitte"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8820=
 {
 	name="Lux"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8821=
 {
 	name="Choiseul"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8822=
 {
 	name="Nozeroy"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8823=
 {
 	name="Faucogney"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8824=
 {
 	name="Pesmes"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8825=
 {
 	name="Ray"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8826=
 {
 	name="Berthelot"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8827=
 {
 	name="Chambellan"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8828=
 {
 	name="Chevalier"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8829=
 {
 	name="Desmarets"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8830=
 {
 	name="Faure"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8831=
 {
 	name="Garnier"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8832=
 {
 	name="Giraud"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8833=
 {
 	name="Humbert"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8834=
 {
 	name="Lombard"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8835=
 {
 	name="Marchand"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8836=
 {
 	name="Mercier"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8837=
 {
 	name="Morel"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8838=
 {
 	name="Pelletier"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8839=
 {
 	name="Perrin"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8840=
 {
 	name="Picard"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8841=
 {
 	name="Renaud"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8842=
 {
 	name="Richer"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8843=
 {
 	name="Roux"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8844=
 {
 	name="Simonnet"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8845=
 {
 	name="Tisserand"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8846=
 {
 	name="Vallet"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8847=
 {
 	name="Vernier"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8848=
 {
 	name="Villard"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8849=
 {
 	name="Charpentier"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8850=
 {
 	name="Legrand"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8851=
 {
 	name="Petitjean"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8852=
 {
 	name="Colomb"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8853=
 {
 	name="Chappuis"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8854=
 {
 	name="Monnier"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8855=
 {
 	name="Berthier"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8856=
 {
 	name="Deschamps"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8857=
 {
 	name="Dubois"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8858=
 {
 	name="Dufour"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8859=
 {
 	name="Meunier"
-	culture="burdigala"
+	culture=burdigala
 }
 
 8860=
 {
 	name="Robert"
-	culture="burdigala"
+	culture=burdigala
 }
 

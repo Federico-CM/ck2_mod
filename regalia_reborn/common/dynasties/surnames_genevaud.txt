@@ -1,288 +1,288 @@
 8327=
 {
 	name="Aymon"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8328=
 {
 	name="Baudichon"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8329=
 {
 	name="Berchtold"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8330=
 {
 	name="Besson"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8331=
 {
 	name="Bonvin"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8332=
 {
 	name="Bourquin"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8333=
 {
 	name="Chappuis"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8334=
 {
 	name="Clerc"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8335=
 {
 	name="Colomb"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8336=
 {
 	name="Combe"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8337=
 {
 	name="Courvoisier"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8338=
 {
 	name="Cuendet"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8339=
 {
 	name="Devenoz"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8340=
 {
 	name="Dutoit"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8341=
 {
 	name="Favre"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8342=
 {
 	name="Favez"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8343=
 {
 	name="Fellay"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8344=
 {
 	name="Frossard"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8345=
 {
 	name="Gaudin"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8346=
 {
 	name="Girard"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8347=
 {
 	name="Grangier"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8348=
 {
 	name="Guignard"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8349=
 {
 	name="Humbert"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8350=
 {
 	name="Jaccard"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8351=
 {
 	name="Jost"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8352=
 {
 	name="Lambert"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8353=
 {
 	name="Lovis"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8354=
 {
 	name="Mermod"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8355=
 {
 	name="Montandon"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8356=
 {
 	name="Morel"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8357=
 {
 	name="Naef"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8358=
 {
 	name="Perret"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8359=
 {
 	name="Perrin"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8360=
 {
 	name="Pictet"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8361=
 {
 	name="Poncet"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8362=
 {
 	name="Quisard"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8363=
 {
 	name="Reymond"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8364=
 {
 	name="Rochat"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8365=
 {
 	name="Rossier"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8366=
 {
 	name="Ruffy"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8367=
 {
 	name="Saudan"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8368=
 {
 	name="Schmid"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8369=
 {
 	name="Seydoux"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8370=
 {
 	name="Tissot"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8371=
 {
 	name="Viret"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8372=
 {
 	name="Vuagnat"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8373=
 {
 	name="Wenger"
-	culture="genevaud"
+	culture=genevaud
 }
 
 8374=
 {
 	name="Widmer"
-	culture="genevaud"
+	culture=genevaud
 }
 

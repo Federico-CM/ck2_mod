@@ -1,342 +1,342 @@
 8043=
 {
 	name="Nowak"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8044=
 {
 	name="Kowalski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8045=
 {
 	name="Kowalczyk"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8046=
 {
 	name="Lewandowski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8047=
 {
 	name="Jankowski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8048=
 {
 	name="Mazur"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8049=
 {
 	name="Kwiatkowski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8050=
 {
 	name="Krawczyk"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8051=
 {
 	name="Kaczmarek"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8052=
 {
 	name="Piotrowski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8053=
 {
 	name="Grabowski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8054=
 {
 	name="Michalski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8055=
 {
 	name="Wieczorek"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8056=
 {
 	name="Nowicki"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8057=
 {
 	name="Majewski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8058=
 {
 	name="Olszewski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8059=
 {
 	name="Duda"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8060=
 {
 	name="Jaworski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8061=
 {
 	name="Malinowski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8062=
 {
 	name="Pawlak"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8063=
 {
 	name="Piasecki"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8064=
 {
 	name="Baran"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8065=
 {
 	name="Sikora"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8066=
 {
 	name="Walczak"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8067=
 {
 	name="Czarnecki"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8068=
 {
 	name="Kubiak"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8069=
 {
 	name="Sawicki"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8070=
 {
 	name="Lis"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8071=
 {
 	name="Chmielewski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8072=
 {
 	name="Szewczyk"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8073=
 {
 	name="Kalinowski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8074=
 {
 	name="Mazurek"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8075=
 {
 	name="Witkowski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8076=
 {
 	name="Adamczyk"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8077=
 {
 	name="Zawadzki"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8078=
 {
 	name="Piekarski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8079=
 {
 	name="Borkowski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8080=
 {
 	name="Rutkowski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8081=
 {
 	name="Kurek"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8082=
 {
 	name="Marciniak"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8083=
 {
 	name="Bednarek"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8084=
 {
 	name="Romanowski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8085=
 {
 	name="Madej"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8086=
 {
 	name="Sobczak"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8087=
 {
 	name="Wilk"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8088=
 {
 	name="Dziedzic"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8089=
 {
 	name="Maciejewski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8090=
 {
 	name="Szulc"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8091=
 {
 	name="Kaczor"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8092=
 {
 	name="Przybylski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8093=
 {
 	name="Krupa"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8094=
 {
 	name="Gajewski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8095=
 {
 	name="Sadowski"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8096=
 {
 	name="Kot"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8097=
 {
 	name="Urban"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8098=
 {
 	name="Janik"
-	culture="wruclav"
+	culture=wruclav
 }
 
 8099=
 {
 	name="Kurowski"
-	culture="wruclav"
+	culture=wruclav
 }
 
