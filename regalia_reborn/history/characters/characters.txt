@@ -4333,8 +4333,8 @@
 }
 
 183 = {
-	name = "Guinevere" # Westbrook
-	culture = cearden
+	name = "Guinevere" # Hinter-Dessau
+	culture = wirtem
 	religion = unionism
 	female = yes
 	235.1.1 = {
@@ -10265,8 +10265,8 @@
 }
 
 445 = {
-	name = "Wilhelmina" # Westbrook
-	culture = cearden
+	name = "Wilhelmina" # Hinter-Dessau
+	culture = wirtem
 	religion = unionism
 	female = yes
 	174.1.1 = {
@@ -11165,8 +11165,8 @@
 }
 
 478 = {
-	name = "Gunther" # Westbrook
-	culture = cearden
+	name = "Gunther" # Hinter-Dessau
+	culture = wirtem
 	religion = unionism
 	178.1.1 = {
 		birth = 178.1.1
@@ -13530,8 +13530,8 @@
 }
 
 578 = {
-	name = "Herbert" # Westbrook
-	culture = cearden
+	name = "Herbert" # Hinter-Dessau
+	culture = wirtem
 	religion = unionism
 	150.1.1 = {
 		birth = 150.1.1
@@ -15457,17 +15457,18 @@
 	mother = 671
 	father = 639
 
-	diplomacy = 21
-	martial = 9
-	stewardship = 9
-	intrigue = 22
-	learning = 12
+	diplomacy = 18
+	martial = 14
+	stewardship = 12
+	intrigue = 21
+	learning = 10
 	add_trait = "creature_ailor"
-	add_trait = "fortune_builder"
-	add_trait = "proud"
-	add_trait = "just"
-	add_trait = "gregarious"
-	add_trait = "shrewd"
+	add_trait = "elusive_shadow"
+	add_trait = "schemer"
+	add_trait = "greedy"
+	add_trait = "deceitful"
+	add_trait = "ambitious"
+	add_trait = "patient"
 	disallow_random_traits = yes
 }
 
@@ -20159,7 +20160,7 @@
 }
 
 850 = {
-	name = "Carl" # von Treppewitz
+	name = "Karl" # von Treppewitz
 	culture = wirtem
 	religion = unionism
 	266.1.1 = {
@@ -22349,7 +22350,7 @@
 }
 
 935 = {
-	name = "Erik" # Stormsen
+	name = "Quin" # Goretaan
 	culture = url
 	religion = unionism
 	244.1.1 = {
@@ -23937,7 +23938,7 @@
 }
 
 996 = {
-	name = "Benjamin" # Holloway
+	name = "Richarr" # Tryrmont
 	culture = leutz_vixe
 	religion = unionism
 	252.1.1 = {
@@ -26207,7 +26208,7 @@
 	add_trait = "creature_ailor"
 }
 
-1087 = {
+1091 = {
 	name = "Maria" #  Beauchene
 	female = yes
 
@@ -26219,7 +26220,82 @@
 	310.1.1 = {
 		death = 310.1.1
 	}
-	dynasty = 321
+	dynasty = 178
 
 	add_trait = "creature_ailor"
 }
+
+
+1092 = {
+	name = "Budlöwe" #  "von Treppewitz"
+
+	culture = wirtem
+	religion = unionism
+	269.1.1 = {
+		birth = 269.1.1
+	}
+	369.1.1 = {
+		death = 369.1.1
+	}
+	dynasty = 167
+	mother = 854
+	father = 853
+
+	add_trait = "creature_ailor"
+}
+
+
+1093 = {
+	name = "Arnaulf" # Hinter-Dessau
+	culture = wirtem
+	religion = unionism
+	231.1.1 = {
+		birth = 231.1.1
+	}
+
+	308.1.1 = {
+		death = 308.1.1
+	}
+	dynasty = 36
+	father = 478
+
+	add_trait = "creature_ailor"
+}
+
+1094 = {
+	name = "Alania" # Hinter-Dessau
+	culture = wirtem
+	religion = unionism
+	female = yes
+	268.1.1 = {
+		birth = 268.1.1
+	}
+
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 36
+	father = 1093
+
+	add_trait = "creature_ailor"
+}
+
+1096 = {
+	name = "Florian" # Hinter-Dessau
+	culture = wirtem
+	religion = unionism
+	288.1.1 = {
+		birth = 288.1.1
+	}
+
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 36
+	father = 1094
+
+	add_trait = "creature_ailor"
+}
+
+
+

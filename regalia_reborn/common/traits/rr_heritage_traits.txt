@@ -1,5 +1,5 @@
 creature_ailor = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_skyborn
 		creature_teled
@@ -28,7 +28,7 @@ creature_ailor = {
 }
 
 creature_skyborn = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_teled
@@ -57,7 +57,7 @@ creature_skyborn = {
 }
 
 creature_teled = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -86,7 +86,7 @@ creature_teled = {
 }
 
 creature_sihai = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -115,7 +115,7 @@ creature_sihai = {
 }
 
 creature_dwarf = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -144,7 +144,7 @@ creature_dwarf = {
 }
 
 creature_dragonkin = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -173,7 +173,7 @@ creature_dragonkin = {
 }
 
 creature_isldar = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -202,7 +202,7 @@ creature_isldar = {
 }
 
 creature_suvial = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -231,7 +231,7 @@ creature_suvial = {
 }
 
 creature_kathar = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -260,7 +260,7 @@ creature_kathar = {
 }
 
 creature_sihndar = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -289,7 +289,7 @@ creature_sihndar = {
 }
 
 creature_selvath = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -318,7 +318,7 @@ creature_selvath = {
 }
 
 creature_yanar = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -347,7 +347,7 @@ creature_yanar = {
 }
 
 creature_asha = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -376,7 +376,7 @@ creature_asha = {
 }
 
 creature_narim = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -405,7 +405,7 @@ creature_narim = {
 }
 
 creature_eronidas = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -434,7 +434,7 @@ creature_eronidas = {
 }
 
 creature_urlan = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -463,7 +463,7 @@ creature_urlan = {
 }
 
 creature_allar = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -492,7 +492,7 @@ creature_allar = {
 }
 
 creature_slizzar = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -521,7 +521,7 @@ creature_slizzar = {
 }
 
 creature_maraya = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn
@@ -550,7 +550,7 @@ creature_maraya = {
 }
 
 creature_bralona = {
-	agnatic = yes # Always inherited from fathers
+	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
 		creature_skyborn

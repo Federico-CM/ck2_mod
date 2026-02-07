@@ -169,8 +169,8 @@
 }
 
 36 = {
-	name = "Westbrook"
-	culture = cearden
+	name = "Hinter-Dessau"
+	culture = wirtem
 }
 
 37 = {
@@ -1111,7 +1111,7 @@
 }
 
 221 = {
-	name = "Stormsen"
+	name = "Goretaan"
 	culture = url
 }
 
@@ -1416,7 +1416,7 @@
 }
 
 282 = {
-	name = "Holloway"
+	name = "Tyrmont"
 	culture = leutz_vixe
 }
 
@@ -1614,3 +1614,4 @@
 	name = "de la Corbière"
 	culture = ithanian
 }
+
