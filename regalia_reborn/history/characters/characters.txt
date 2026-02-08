@@ -8329,18 +8329,7 @@
 	mother = 324
 	father = 389
 
-	diplomacy = 11
-	martial = 19
-	stewardship = 9
-	intrigue = 12
-	learning = 22
 	add_trait = "creature_ailor"
-	add_trait = "elusive_shadow"
-	add_trait = "temperate"
-	add_trait = "theologian"
-	add_trait = "envious"
-	add_trait = "chaste"
-	disallow_random_traits = yes
 }
 
 366 = {
@@ -8584,25 +8573,15 @@
 	dynasty = 58
 	father = 693
 
-	diplomacy = 13
-	martial = 15
-	stewardship = 8
-	intrigue = 8
-	learning = 11
 	add_trait = "creature_ailor"
-	add_trait = "amateurish_plotter"
-	add_trait = "temperate"
-	add_trait = "administrator"
-	add_trait = "robust"
-	disallow_random_traits = yes
 }
 
 375 = {
 	name = "Silvestro" # Zinni
 	culture = cantaluna
 	religion = unionism
-	266.1.1 = {
-		birth = 266.1.1
+	248.1.1 = {
+		birth = 248.1.1
 	}
 
 	298.4.1 = {
@@ -8615,18 +8594,7 @@
 	mother = 324
 	father = 389
 
-	diplomacy = 9
-	martial = 8
-	stewardship = 8
-	intrigue = 10
-	learning = 12
 	add_trait = "creature_ailor"
-	add_trait = "tough_soldier"
-	add_trait = "narrow_flank_leader"
-	add_trait = "robust"
-	add_trait = "content"
-	add_trait = "erudite"
-	disallow_random_traits = yes
 }
 
 376 = {
@@ -8643,16 +8611,8 @@
 	mother = 374
 	father = 375
 
-	diplomacy = 5
-	martial = 5
-	stewardship = 5
-	intrigue = 5
-	learning = 6
 	add_trait = "creature_ailor"
-	add_trait = "scholarly_theologian"
-	add_trait = "genius"
-	add_trait = "paranoid"
-	disallow_random_traits = yes
+
 }
 
 377 = {
@@ -8669,18 +8629,7 @@
 	mother = 374
 	father = 375
 
-	diplomacy = 6
-	martial = 5
-	stewardship = 5
-	intrigue = 9
-	learning = 5
 	add_trait = "creature_ailor"
-	add_trait = "indulgent_wastrel"
-	add_trait = "greedy"
-	add_trait = "patient"
-	add_trait = "mystic"
-	add_trait = "groomed"
-	disallow_random_traits = yes
 }
 
 378 = {
@@ -8698,17 +8647,7 @@
 	mother = 374
 	father = 375
 
-	diplomacy = 5
-	martial = 8
-	stewardship = 6
-	intrigue = 6
-	learning = 8
 	add_trait = "creature_ailor"
-	add_trait = "martial_cleric"
-	add_trait = "shrewd"
-	add_trait = "duelist"
-	add_trait = "wroth"
-	disallow_random_traits = yes
 }
 
 379 = {
@@ -10991,8 +10930,8 @@
 	name = "Diederik" # Kade
 	culture = anglian
 	religion = unionism
-	289.1.1 = {
-		birth = 289.1.1
+	310.1.1 = {
+		birth = 310.1.1
 	}
 	389.1.1 = {
 		death = 389.1.1
@@ -11001,16 +10940,8 @@
 	mother = 470
 	father = 349
 
-	diplomacy = 6
-	martial = 5
-	stewardship = 5
-	intrigue = 5
-	learning = 6
 	add_trait = "creature_ailor"
-	add_trait = "elusive_shadow"
-	add_trait = "brave"
-	add_trait = "quick"
-	disallow_random_traits = yes
+
 }
 
 473 = {
@@ -20412,19 +20343,7 @@
 	}
 	dynasty = 172
 
-	diplomacy = 9
-	martial = 16
-	stewardship = 14
-	intrigue = 11
-	learning = 11
 	add_trait = "creature_ailor"
-	add_trait = "detached_priest"
-	add_trait = "architect"
-	add_trait = "diligent"
-	add_trait = "temperate"
-	add_trait = "charitable"
-	add_trait = "zealous"
-	disallow_random_traits = yes
 }
 
 862 = {
@@ -22387,17 +22306,7 @@
 	}
 	dynasty = 222
 
-	diplomacy = 17
-	martial = 17
-	stewardship = 11
-	intrigue = 37
-	learning = 20
 	add_trait = "creature_ailor"
-	add_trait = "underhanded_rogue"
-	add_trait = "honest"
-	add_trait = "scarred"
-	add_trait = "schemer"
-	disallow_random_traits = yes
 }
 
 937 = {
@@ -22439,19 +22348,7 @@
 	}
 	dynasty = 224
 
-	diplomacy = 8
-	martial = 7
-	stewardship = 12
-	intrigue = 7
-	learning = 8
 	add_trait = "creature_ailor"
-	add_trait = "indulgent_wastrel"
-	add_trait = "content"
-	add_trait = "sturdy"
-	add_trait = "genius"
-	add_trait = "mystic"
-	add_trait = "temperate"
-	disallow_random_traits = yes
 }
 
 939 = {
@@ -22466,18 +22363,7 @@
 	}
 	dynasty = 225
 
-	diplomacy = 13
-	martial = 17
-	stewardship = 12
-	intrigue = 12
-	learning = 29
 	add_trait = "creature_ailor"
-	add_trait = "scholarly_theologian"
-	add_trait = "diligent"
-	add_trait = "patient"
-	add_trait = "proud"
-	add_trait = "mystic"
-	disallow_random_traits = yes
 }
 
 940 = {
@@ -22492,19 +22378,7 @@
 	}
 	dynasty = 226
 
-	diplomacy = 14
-	martial = 11
-	stewardship = 10
-	intrigue = 17
-	learning = 13
 	add_trait = "creature_ailor"
-	add_trait = "indulgent_wastrel"
-	add_trait = "sturdy"
-	add_trait = "chaste"
-	add_trait = "duelist"
-	add_trait = "fair"
-	add_trait = "ambitious"
-	disallow_random_traits = yes
 }
 
 941 = {
@@ -22519,18 +22393,7 @@
 	}
 	dynasty = 227
 
-	diplomacy = 13
-	martial = 5
-	stewardship = 14
-	intrigue = 25
-	learning = 15
 	add_trait = "creature_ailor"
-	add_trait = "elusive_shadow"
-	add_trait = "architect"
-	add_trait = "erudite"
-	add_trait = "greedy"
-	add_trait = "genius"
-	disallow_random_traits = yes
 }
 
 942 = {
@@ -22545,19 +22408,7 @@
 	}
 	dynasty = 228
 
-	diplomacy = 14
-	martial = 17
-	stewardship = 8
-	intrigue = 18
-	learning = 8
 	add_trait = "creature_ailor"
-	add_trait = "intricate_webweaver"
-	add_trait = "ambitious"
-	add_trait = "poet"
-	add_trait = "scarred"
-	add_trait = "gregarious"
-	add_trait = "charitable"
-	disallow_random_traits = yes
 }
 
 943 = {
@@ -22572,19 +22423,7 @@
 	}
 	dynasty = 229
 
-	diplomacy = 15
-	martial = 21
-	stewardship = 12
-	intrigue = 17
-	learning = 11
 	add_trait = "creature_ailor"
-	add_trait = "misguided_warrior"
-	add_trait = "light_foot_leader"
-	add_trait = "strategist"
-	add_trait = "patient"
-	add_trait = "quick"
-	add_trait = "envious"
-	disallow_random_traits = yes
 }
 
 944 = {
@@ -22599,17 +22438,7 @@
 	}
 	dynasty = 230
 
-	diplomacy = 12
-	martial = 6
-	stewardship = 10
-	intrigue = 9
-	learning = 12
 	add_trait = "creature_ailor"
-	add_trait = "grey_eminence"
-	add_trait = "gregarious"
-	add_trait = "groomed"
-	add_trait = "zealous"
-	disallow_random_traits = yes
 }
 
 945 = {
@@ -22624,18 +22453,7 @@
 	}
 	dynasty = 231
 
-	diplomacy = 18
-	martial = 12
-	stewardship = 18
-	intrigue = 12
-	learning = 41
 	add_trait = "creature_ailor"
-	add_trait = "naive_appeaser"
-	add_trait = "brave"
-	add_trait = "patient"
-	add_trait = "sturdy"
-	add_trait = "temperate"
-	disallow_random_traits = yes
 }
 
 946 = {
@@ -22650,17 +22468,7 @@
 	}
 	dynasty = 232
 
-	diplomacy = 9
-	martial = 26
-	stewardship = 12
-	intrigue = 10
-	learning = 8
 	add_trait = "creature_ailor"
-	add_trait = "mastermind_theologian"
-	add_trait = "ambitious"
-	add_trait = "envious"
-	add_trait = "brave"
-	disallow_random_traits = yes
 }
 
 947 = {
