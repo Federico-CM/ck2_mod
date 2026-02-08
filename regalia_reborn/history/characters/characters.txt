@@ -18868,7 +18868,7 @@
 }
 
 794 = {
-	name = "Nadia" # Celyreos
+	name = "Nadia" # Eliad
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -21231,7 +21231,7 @@
 	386.1.1 = {
 		death = 386.1.1
 	}
-	dynasty = 179
+	#dynasty = 179 # termporarially disabled
 
 	diplomacy = 5
 	martial = 5
@@ -21378,8 +21378,8 @@
 }
 
 898 = {
-	name = "Krieger" # von Altburg
-	culture = leutz_vixe
+	name = "Krieger" # von Altenburg
+	culture = wirtem
 	religion = unionism
 	289.1.1 = {
 		birth = 289.1.1
@@ -21614,28 +21614,28 @@
 }
 
 907 = {
-	name = "Nefertath" # Monterrosa
-	culture = tierravera
+	name = "Valentino" # Monterrosa
+	culture = asha
 	religion = khama
-	female = yes
 	270.1.1 = {
-		birth = 270.1.1
+		birth = 287.1.1
 	}
 	370.1.1 = {
 		death = 370.1.1
 	}
 	dynasty = 194
 
-	diplomacy = 9
-	martial = 11
-	stewardship = 14
-	intrigue = 11
-	learning = 11
-	add_trait = "creature_ailor"
-	add_trait = "charismatic_negotiator"
-	add_trait = "ambitious"
-	add_trait = "strategist"
-	add_trait = "honest"
+	diplomacy = 7
+	martial = 13
+	stewardship = 6
+	intrigue = 6
+	learning = 6
+	add_trait = "creature_asha"
+	add_trait = "tough_soldier"
+	add_trait = "brave"
+	add_trait = "strong"
+	add_trait = "slow"
+	add_trait = "proud"
 	disallow_random_traits = yes
 }
 
@@ -22031,7 +22031,7 @@
 	add_trait = "zealous"
 	add_trait = "wroth"
 	add_trait = "chaste"
-	diallow_random_traits = yes
+	disallow_random_traits = yes
 }
 
 923 = {
@@ -22675,19 +22675,7 @@
 	}
 	dynasty = 233
 
-	diplomacy = 12
-	martial = 28
-	stewardship = 11
-	intrigue = 14
-	learning = 10
 	add_trait = "creature_ailor"
-	add_trait = "amateurish_plotter"
-	add_trait = "wroth"
-	add_trait = "brave"
-	add_trait = "hunter"
-	add_trait = "humble"
-	add_trait = "honest"
-	disallow_random_traits = yes
 }
 
 948 = {
@@ -22702,19 +22690,7 @@
 	}
 	dynasty = 234
 
-	diplomacy = 15
-	martial = 11
-	stewardship = 12
-	intrigue = 6
-	learning = 8
 	add_trait = "creature_ailor"
-	add_trait = "detached_priest"
-	add_trait = "hedonist"
-	add_trait = "sturdy"
-	add_trait = "chaste"
-	add_trait = "strong"
-	add_trait = "diligent"
-	disallow_random_traits = yes
 }
 
 949 = {
@@ -22729,18 +22705,7 @@
 	}
 	dynasty = 235
 
-	diplomacy = 18
-	martial = 20
-	stewardship = 16
-	intrigue = 31
-	learning = 9
 	add_trait = "creature_ailor"
-	add_trait = "skilled_tactician"
-	add_trait = "trickster"
-	add_trait = "brave"
-	add_trait = "paranoid"
-	add_trait = "socializer"
-	disallow_random_traits = yes
 }
 
 950 = {
@@ -22755,17 +22720,7 @@
 	}
 	dynasty = 236
 
-	diplomacy = 10
-	martial = 7
-	stewardship = 13
-	intrigue = 23
-	learning = 18
 	add_trait = "creature_ailor"
-	add_trait = "grey_eminence"
-	add_trait = "charitable"
-	add_trait = "scholar"
-	add_trait = "wroth"
-	disallow_random_traits = yes
 }
 
 951 = {
@@ -22780,20 +22735,7 @@
 	}
 	dynasty = 237
 
-	diplomacy = 17
-	martial = 6
-	stewardship = 13
-	intrigue = 17
-	learning = 13
 	add_trait = "creature_ailor"
-	add_trait = "skilled_tactician"
-	add_trait = "heavy_infantry_leader"
-	add_trait = "poet"
-	add_trait = "honest"
-	add_trait = "humble"
-	add_trait = "gregarious"
-	add_trait = "envious"
-	disallow_random_traits = yes
 }
 
 952 = {
@@ -22808,17 +22750,7 @@
 	}
 	dynasty = 238
 
-	diplomacy = 21
-	martial = 14
-	stewardship = 19
-	intrigue = 18
-	learning = 39
 	add_trait = "creature_ailor"
-	add_trait = "detached_priest"
-	add_trait = "envious"
-	add_trait = "poet"
-	add_trait = "gregarious"
-	disallow_random_traits = yes
 }
 
 953 = {
@@ -22833,18 +22765,7 @@
 	}
 	dynasty = 239
 
-	diplomacy = 12
-	martial = 10
-	stewardship = 20
-	intrigue = 16
-	learning = 11
 	add_trait = "creature_ailor"
-	add_trait = "mastermind_theologian"
-	add_trait = "gregarious"
-	add_trait = "fair"
-	add_trait = "wroth"
-	add_trait = "erudite"
-	disallow_random_traits = yes
 }
 
 954 = {
@@ -22859,19 +22780,7 @@
 	}
 	dynasty = 240
 
-	diplomacy = 8
-	martial = 17
-	stewardship = 15
-	intrigue = 20
-	learning = 11
 	add_trait = "creature_ailor"
-	add_trait = "thrifty_clerk"
-	add_trait = "diligent"
-	add_trait = "strategist"
-	add_trait = "paranoid"
-	add_trait = "robust"
-	add_trait = "proud"
-	disallow_random_traits = yes
 }
 
 955 = {
@@ -22886,18 +22795,7 @@
 	}
 	dynasty = 241
 
-	diplomacy = 11
-	martial = 13
-	stewardship = 12
-	intrigue = 19
-	learning = 17
 	add_trait = "creature_ailor"
-	add_trait = "misguided_warrior"
-	add_trait = "experimenter"
-	add_trait = "greedy"
-	add_trait = "content"
-	add_trait = "administrator"
-	disallow_random_traits = yes
 }
 
 956 = {
@@ -22926,19 +22824,7 @@
 	}
 	dynasty = 243
 
-	diplomacy = 7
-	martial = 5
-	stewardship = 8
-	intrigue = 7
-	learning = 7
 	add_trait = "creature_ailor"
-	add_trait = "grey_eminence"
-	add_trait = "quick"
-	add_trait = "humble"
-	add_trait = "fair"
-	add_trait = "strong"
-	add_trait = "impaler"
-	disallow_random_traits = yes
 }
 
 958 = {
@@ -22953,17 +22839,7 @@
 	}
 	dynasty = 244
 
-	diplomacy = 14
-	martial = 11
-	stewardship = 21
-	intrigue = 9
-	learning = 15
 	add_trait = "creature_ailor"
-	add_trait = "thrifty_clerk"
-	add_trait = "charitable"
-	add_trait = "humble"
-	add_trait = "chaste"
-	disallow_random_traits = yes
 }
 
 959 = {
@@ -22978,18 +22854,7 @@
 	}
 	dynasty = 245
 
-	diplomacy = 28
-	martial = 6
-	stewardship = 14
-	intrigue = 13
-	learning = 18
 	add_trait = "creature_ailor"
-	add_trait = "underhanded_rogue"
-	add_trait = "chaste"
-	add_trait = "duelist"
-	add_trait = "just"
-	add_trait = "gregarious"
-	disallow_random_traits = yes
 }
 
 960 = {
@@ -23004,17 +22869,7 @@
 	}
 	dynasty = 246
 
-	diplomacy = 7
-	martial = 6
-	stewardship = 12
-	intrigue = 6
-	learning = 5
 	add_trait = "creature_allar"
-	add_trait = "grey_eminence"
-	add_trait = "seducer"
-	add_trait = "humble"
-	add_trait = "genius"
-	disallow_random_traits = yes
 }
 
 961 = {
@@ -23029,18 +22884,7 @@
 	}
 	dynasty = 247
 
-	diplomacy = 16
-	martial = 11
-	stewardship = 12
-	intrigue = 12
-	learning = 25
 	add_trait = "creature_ailor"
-	add_trait = "amateurish_plotter"
-	add_trait = "charitable"
-	add_trait = "honest"
-	add_trait = "brave"
-	add_trait = "genius"
-	disallow_random_traits = yes
 }
 
 962 = {
@@ -23055,19 +22899,7 @@
 	}
 	dynasty = 248
 
-	diplomacy = 10
-	martial = 9
-	stewardship = 10
-	intrigue = 11
-	learning = 12
 	add_trait = "creature_dragonkin"
-	add_trait = "amateurish_plotter"
-	add_trait = "hedonist"
-	add_trait = "strong"
-	add_trait = "honest"
-	add_trait = "patient"
-	add_trait = "envious"
-	disallow_random_traits = yes
 }
 
 963 = {
@@ -23082,18 +22914,7 @@
 	}
 	dynasty = 249
 
-	diplomacy = 17
-	martial = 8
-	stewardship = 25
-	intrigue = 10
-	learning = 27
 	add_trait = "creature_dragonkin"
-	add_trait = "indulgent_wastrel"
-	add_trait = "administrator"
-	add_trait = "groomed"
-	add_trait = "content"
-	add_trait = "fair"
-	disallow_random_traits = yes
 }
 
 964 = {
@@ -23108,19 +22929,7 @@
 	}
 	dynasty = 250
 
-	diplomacy = 12
-	martial = 12
-	stewardship = 21
-	intrigue = 11
-	learning = 14
 	add_trait = "creature_dwarf"
-	add_trait = "skilled_tactician"
-	add_trait = "holy_warrior"
-	add_trait = "duelist"
-	add_trait = "genius"
-	add_trait = "content"
-	add_trait = "proud"
-	disallow_random_traits = yes
 }
 
 965 = {
@@ -23135,18 +22944,7 @@
 	}
 	dynasty = 251
 
-	diplomacy = 5
-	martial = 5
-	stewardship = 8
-	intrigue = 8
-	learning = 7
 	add_trait = "creature_teled"
-	add_trait = "brilliant_strategist"
-	add_trait = "aggressive_leader"
-	add_trait = "ambitious"
-	add_trait = "genius"
-	add_trait = "impaler"
-	disallow_random_traits = yes
 }
 
 966 = {
@@ -23161,19 +22959,7 @@
 	}
 	dynasty = 252
 
-	diplomacy = 14
-	martial = 11
-	stewardship = 11
-	intrigue = 19
-	learning = 9
 	add_trait = "creature_selvath"
-	add_trait = "mastermind_theologian"
-	add_trait = "gardener"
-	add_trait = "just"
-	add_trait = "paranoid"
-	add_trait = "gregarious"
-	add_trait = "kind"
-	disallow_random_traits = yes
 }
 
 967 = {
@@ -23214,19 +23000,7 @@
 	}
 	dynasty = 254
 
-	diplomacy = 15
-	martial = 21
-	stewardship = 11
-	intrigue = 16
-	learning = 12
 	add_trait = "creature_asha"
-	add_trait = "martial_cleric"
-	add_trait = "gregarious"
-	add_trait = "erudite"
-	add_trait = "wroth"
-	add_trait = "zealous"
-	add_trait = "poet"
-	disallow_random_traits = yes
 }
 
 969 = {
@@ -23241,17 +23015,7 @@
 	}
 	dynasty = 255
 
-	diplomacy = 15
-	martial = 15
-	stewardship = 21
-	intrigue = 16
-	learning = 17
 	add_trait = "creature_skyborn"
-	add_trait = "fortune_builder"
-	add_trait = "greedy"
-	add_trait = "kind"
-	add_trait = "groomed"
-	disallow_random_traits = yes
 }
 
 970 = {
@@ -23266,18 +23030,7 @@
 	}
 	dynasty = 256
 
-	diplomacy = 10
-	martial = 11
-	stewardship = 14
-	intrigue = 10
-	learning = 20
 	add_trait = "creature_teled"
-	add_trait = "detached_priest"
-	add_trait = "kind"
-	add_trait = "robust"
-	add_trait = "just"
-	add_trait = "fair"
-	disallow_random_traits = yes
 }
 
 971 = {
@@ -23292,20 +23045,7 @@
 	}
 	dynasty = 257
 
-	diplomacy = 7
-	martial = 8
-	stewardship = 8
-	intrigue = 6
-	learning = 5
 	add_trait = "creature_yanar"
-	add_trait = "brilliant_strategist"
-	add_trait = "experimenter"
-	add_trait = "patient"
-	add_trait = "scholar"
-	add_trait = "brave"
-	add_trait = "diligent"
-	add_trait = "honest"
-	disallow_random_traits = yes
 }
 
 972 = {
@@ -23320,17 +23060,7 @@
 	}
 	dynasty = 258
 
-	diplomacy = 8
-	martial = 12
-	stewardship = 14
-	intrigue = 25
-	learning = 17
 	add_trait = "creature_ailor"
-	add_trait = "martial_cleric"
-	add_trait = "patient"
-	add_trait = "scholar"
-	add_trait = "humble"
-	disallow_random_traits = yes
 }
 
 973 = {
@@ -23345,20 +23075,7 @@
 	}
 	dynasty = 259
 
-	diplomacy = 12
-	martial = 12
-	stewardship = 8
-	intrigue = 11
-	learning = 8
 	add_trait = "creature_ailor"
-	add_trait = "skilled_tactician"
-	add_trait = "inspiring_leader"
-	add_trait = "architect"
-	add_trait = "proud"
-	add_trait = "ambitious"
-	add_trait = "fair"
-	add_trait = "kind"
-	disallow_random_traits = yes
 }
 
 974 = {
@@ -23373,18 +23090,7 @@
 	}
 	dynasty = 260
 
-	diplomacy = 18
-	martial = 15
-	stewardship = 14
-	intrigue = 27
-	learning = 14
 	add_trait = "creature_ailor"
-	add_trait = "charismatic_negotiator"
-	add_trait = "gregarious"
-	add_trait = "theologian"
-	add_trait = "proud"
-	add_trait = "content"
-	disallow_random_traits = yes
 }
 
 975 = {
@@ -23425,19 +23131,7 @@
 	}
 	dynasty = 262
 
-	diplomacy = 10
-	martial = 9
-	stewardship = 14
-	intrigue = 20
-	learning = 11
 	add_trait = "creature_teled"
-	add_trait = "scholarly_theologian"
-	add_trait = "just"
-	add_trait = "gregarious"
-	add_trait = "scholar"
-	add_trait = "proud"
-	add_trait = "brave"
-	disallow_random_traits = yes
 }
 
 977 = {
@@ -23452,17 +23146,7 @@
 	}
 	dynasty = 263
 
-	diplomacy = 16
-	martial = 9
-	stewardship = 16
-	intrigue = 15
-	learning = 33
 	add_trait = "creature_eronidas"
-	add_trait = "detached_priest"
-	add_trait = "fair"
-	add_trait = "humble"
-	add_trait = "honest"
-	disallow_random_traits = yes
 }
 
 978 = {
@@ -23477,18 +23161,7 @@
 	}
 	dynasty = 264
 
-	diplomacy = 13
-	martial = 10
-	stewardship = 18
-	intrigue = 8
-	learning = 22
 	add_trait = "creature_teled"
-	add_trait = "indulgent_wastrel"
-	add_trait = "honest"
-	add_trait = "erudite"
-	add_trait = "zealous"
-	add_trait = "paranoid"
-	disallow_random_traits = yes
 }
 
 979 = {
@@ -23503,19 +23176,7 @@
 	}
 	dynasty = 265
 
-	diplomacy = 10
-	martial = 6
-	stewardship = 14
-	intrigue = 7
-	learning = 21
 	add_trait = "creature_kathar"
-	add_trait = "detached_priest"
-	add_trait = "zealous"
-	add_trait = "ambitious"
-	add_trait = "envious"
-	add_trait = "patient"
-	add_trait = "temperate"
-	disallow_random_traits = yes
 }
 
 980 = {
@@ -23530,19 +23191,7 @@
 	}
 	dynasty = 266
 
-	diplomacy = 13
-	martial = 9
-	stewardship = 10
-	intrigue = 12
-	learning = 16
 	add_trait = "creature_eronidas"
-	add_trait = "grey_eminence"
-	add_trait = "humble"
-	add_trait = "diligent"
-	add_trait = "poet"
-	add_trait = "honest"
-	add_trait = "brave"
-	disallow_random_traits = yes
 }
 
 981 = {
@@ -23557,17 +23206,7 @@
 	}
 	dynasty = 267
 
-	diplomacy = 21
-	martial = 17
-	stewardship = 14
-	intrigue = 16
-	learning = 15
 	add_trait = "creature_urlan"
-	add_trait = "thrifty_clerk"
-	add_trait = "wroth"
-	add_trait = "ambitious"
-	add_trait = "kind"
-	disallow_random_traits = yes
 }
 
 982 = {
@@ -23582,18 +23221,7 @@
 	}
 	dynasty = 268
 
-	diplomacy = 16
-	martial = 11
-	stewardship = 12
-	intrigue = 5
-	learning = 20
 	add_trait = "creature_ailor"
-	add_trait = "grey_eminence"
-	add_trait = "content"
-	add_trait = "mystic"
-	add_trait = "charitable"
-	add_trait = "fair"
-	disallow_random_traits = yes
 }
 
 983 = {
@@ -23608,18 +23236,7 @@
 	}
 	dynasty = 269
 
-	diplomacy = 12
-	martial = 15
-	stewardship = 17
-	intrigue = 35
-	learning = 16
 	add_trait = "creature_ailor"
-	add_trait = "brilliant_strategist"
-	add_trait = "light_foot_leader"
-	add_trait = "wroth"
-	add_trait = "impaler"
-	add_trait = "shrewd"
-	disallow_random_traits = yes
 }
 
 984 = {
@@ -23634,19 +23251,7 @@
 	}
 	dynasty = 270
 
-	diplomacy = 6
-	martial = 6
-	stewardship = 5
-	intrigue = 7
-	learning = 6
 	add_trait = "creature_ailor"
-	add_trait = "fortune_builder"
-	add_trait = "diligent"
-	add_trait = "socializer"
-	add_trait = "zealous"
-	add_trait = "scarred"
-	add_trait = "erudite"
-	disallow_random_traits = yes
 }
 
 985 = {
@@ -23661,18 +23266,7 @@
 	}
 	dynasty = 271
 
-	diplomacy = 12
-	martial = 12
-	stewardship = 13
-	intrigue = 16
-	learning = 9
 	add_trait = "creature_ailor"
-	add_trait = "mastermind_theologian"
-	add_trait = "falconer"
-	add_trait = "zealous"
-	add_trait = "ambitious"
-	add_trait = "diligent"
-	disallow_random_traits = yes
 }
 
 986 = {
@@ -23687,18 +23281,7 @@
 	}
 	dynasty = 272
 
-	diplomacy = 7
-	martial = 6
-	stewardship = 5
-	intrigue = 6
-	learning = 8
 	add_trait = "creature_ailor"
-	add_trait = "intricate_webweaver"
-	add_trait = "fair"
-	add_trait = "content"
-	add_trait = "genius"
-	add_trait = "patient"
-	disallow_random_traits = yes
 }
 
 987 = {
@@ -23713,17 +23296,7 @@
 	}
 	dynasty = 273
 
-	diplomacy = 16
-	martial = 18
-	stewardship = 19
-	intrigue = 28
-	learning = 10
 	add_trait = "creature_ailor"
-	add_trait = "mastermind_theologian"
-	add_trait = "scholar"
-	add_trait = "brave"
-	add_trait = "shrewd"
-	disallow_random_traits = yes
 }
 
 988 = {
@@ -23738,18 +23311,7 @@
 	}
 	dynasty = 274
 
-	diplomacy = 12
-	martial = 15
-	stewardship = 21
-	intrigue = 12
-	learning = 10
 	add_trait = "creature_ailor"
-	add_trait = "flamboyant_schemer"
-	add_trait = "fair"
-	add_trait = "mystic"
-	add_trait = "envious"
-	add_trait = "sturdy"
-	disallow_random_traits = yes
 }
 
 989 = {
@@ -23764,19 +23326,7 @@
 	}
 	dynasty = 275
 
-	diplomacy = 7
-	martial = 7
-	stewardship = 23
-	intrigue = 7
-	learning = 12
 	add_trait = "creature_ailor"
-	add_trait = "mastermind_theologian"
-	add_trait = "impaler"
-	add_trait = "patient"
-	add_trait = "groomed"
-	add_trait = "honest"
-	add_trait = "robust"
-	disallow_random_traits = yes
 }
 
 990 = {
@@ -23791,19 +23341,7 @@
 	}
 	dynasty = 276
 
-	diplomacy = 7
-	martial = 7
-	stewardship = 8
-	intrigue = 9
-	learning = 7
 	add_trait = "creature_ailor"
-	add_trait = "grey_eminence"
-	add_trait = "administrator"
-	add_trait = "groomed"
-	add_trait = "zealous"
-	add_trait = "just"
-	add_trait = "charitable"
-	disallow_random_traits = yes
 }
 
 991 = {
@@ -23818,19 +23356,7 @@
 	}
 	dynasty = 277
 
-	diplomacy = 14
-	martial = 28
-	stewardship = 17
-	intrigue = 14
-	learning = 11
 	add_trait = "creature_ailor"
-	add_trait = "tough_soldier"
-	add_trait = "defensive_leader"
-	add_trait = "hedonist"
-	add_trait = "proud"
-	add_trait = "patient"
-	add_trait = "shrewd"
-	disallow_random_traits = yes
 }
 
 992 = {
@@ -23845,17 +23371,7 @@
 	}
 	dynasty = 278
 
-	diplomacy = 6
-	martial = 15
-	stewardship = 14
-	intrigue = 10
-	learning = 7
 	add_trait = "creature_ailor"
-	add_trait = "amateurish_plotter"
-	add_trait = "strong"
-	add_trait = "duelist"
-	add_trait = "brave"
-	disallow_random_traits = yes
 }
 
 993 = {
@@ -23870,19 +23386,7 @@
 	}
 	dynasty = 279
 
-	diplomacy = 10
-	martial = 8
-	stewardship = 6
-	intrigue = 10
-	learning = 12
 	add_trait = "creature_ailor"
-	add_trait = "grey_eminence"
-	add_trait = "shrewd"
-	add_trait = "groomed"
-	add_trait = "administrator"
-	add_trait = "temperate"
-	add_trait = "zealous"
-	disallow_random_traits = yes
 }
 
 994 = {
@@ -23897,18 +23401,8 @@
 	}
 	dynasty = 280
 
-	diplomacy = 7
-	martial = 16
-	stewardship = 8
-	intrigue = 10
-	learning = 11
 	add_trait = "creature_ailor"
-	add_trait = "skilled_tactician"
-	add_trait = "siege_leader"
-	add_trait = "duelist"
-	add_trait = "robust"
-	add_trait = "brave"
-	disallow_random_traits = yes
+
 }
 
 995 = {
@@ -23923,26 +23417,15 @@
 	}
 	dynasty = 281
 
-	diplomacy = 17
-	martial = 13
-	stewardship = 24
-	intrigue = 29
-	learning = 24
 	add_trait = "creature_ailor"
-	add_trait = "elusive_shadow"
-	add_trait = "temperate"
-	add_trait = "erudite"
-	add_trait = "paranoid"
-	add_trait = "envious"
-	disallow_random_traits = yes
 }
 
 996 = {
 	name = "Richarr" # Tryrmont
 	culture = leutz_vixe
 	religion = unionism
-	252.1.1 = {
-		birth = 252.1.1
+	298.1.1 = {
+		birth = 298.1.1
 	}
 	352.1.1 = {
 		death = 352.1.1
@@ -23976,18 +23459,7 @@
 	}
 	dynasty = 283
 
-	diplomacy = 9
-	martial = 20
-	stewardship = 9
-	intrigue = 11
-	learning = 9
 	add_trait = "creature_ailor"
-	add_trait = "underhanded_rogue"
-	add_trait = "hedonist"
-	add_trait = "temperate"
-	add_trait = "zealous"
-	add_trait = "brave"
-	disallow_random_traits = yes
 }
 
 998 = {
@@ -24002,18 +23474,7 @@
 	}
 	dynasty = 284
 
-	diplomacy = 21
-	martial = 26
-	stewardship = 17
-	intrigue = 22
-	learning = 16
 	add_trait = "creature_ailor"
-	add_trait = "scholarly_theologian"
-	add_trait = "mystic"
-	add_trait = "sturdy"
-	add_trait = "diligent"
-	add_trait = "greedy"
-	disallow_random_traits = yes
 }
 
 999 = {
@@ -24028,19 +23489,7 @@
 	}
 	dynasty = 285
 
-	diplomacy = 7
-	martial = 7
-	stewardship = 7
-	intrigue = 10
-	learning = 12
 	add_trait = "creature_ailor"
-	add_trait = "intricate_webweaver"
-	add_trait = "quick"
-	add_trait = "poet"
-	add_trait = "erudite"
-	add_trait = "robust"
-	add_trait = "chaste"
-	disallow_random_traits = yes
 }
 
 1000 = {
@@ -24055,17 +23504,7 @@
 	}
 	dynasty = 286
 
-	diplomacy = 21
-	martial = 13
-	stewardship = 15
-	intrigue = 26
-	learning = 17
 	add_trait = "creature_ailor"
-	add_trait = "flamboyant_schemer"
-	add_trait = "shrewd"
-	add_trait = "ambitious"
-	add_trait = "patient"
-	disallow_random_traits = yes
 }
 
 1001 = {
@@ -25556,7 +24995,7 @@
 	add_trait = "temperate"
 	add_trait = "cynical"
 	add_trait = "deceitful"
-	diallow_random_traits = yes
+	disallow_random_traits = yes
 }
 
 1062 = {
@@ -25584,7 +25023,7 @@
 	add_trait = "strong"
 	add_trait = "slow"
 	add_trait = "proud"
-	diallow_random_traits = yes
+	disallow_random_traits = yes
 }
 
 1063 = {
@@ -25745,7 +25184,7 @@
 	add_trait = "just"
 	add_trait = "stubborn"
 	add_trait = "aggressive_leader"
-	diallow_random_traits = yes
+	disallow_random_traits = yes
 }
 
 1071 = {
@@ -25893,7 +25332,7 @@
 	add_trait = "lustful"
 	add_trait = "diligent"
 	add_trait = "robust"
-	diallow_random_traits = yes
+	disallow_random_traits = yes
 }
 
 1077 = {
@@ -25922,7 +25361,7 @@
 	add_trait = "content"
 	add_trait = "honest"
 	add_trait = "stubborn"
-	diallow_random_traits = yes
+	disallow_random_traits = yes
 }
 
 1078 = {
@@ -25947,7 +25386,7 @@
 	add_trait = "tough_soldier"
 	add_trait = "bastard"
 	add_trait = "stutter"
-	diallow_random_traits = yes
+	disallow_random_traits = yes
 }
 
 1079 = {
@@ -26058,7 +25497,7 @@
 	add_trait = "envious"
 	add_trait = "cynical"
 	add_trait = "paranoid"
-	diallow_random_traits = yes
+	disallow_random_traits = yes
 }
 
 1083 = {
@@ -26292,10 +25731,115 @@
 		death = 388.1.1
 	}
 	dynasty = 36
-	father = 1094
+	mother = 1094
 
 	add_trait = "creature_ailor"
 }
 
+1097 = {
+	name = "Veronika" #  Eliopolous
+	female = yes
 
+	culture = etosian
+	religion = evintarian
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 322
+
+	diplomacy = 7
+	martial = 5
+	stewardship = 6
+	intrigue = 5
+	learning = 8
+	add_trait = "creature_ailor"
+	add_trait = "martial_cleric"
+	add_trait = "fair"
+	add_trait = "honest"
+	add_trait = "administrator"
+	disallow_random_traits = yes
+}
+
+1098 = {
+	name = "Zzhin" #  Yaotl
+
+	culture = allar
+	religion = draconism
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 323
+
+	diplomacy = 7
+	martial = 5
+	stewardship = 6
+	intrigue = 5
+	learning = 8
+	add_trait = "creature_allar"
+	add_trait = "martial_cleric"
+	add_trait = "fair"
+	add_trait = "honest"
+	add_trait = "administrator"
+	disallow_random_traits = yes
+}
+
+1099 = {
+	name = "Romona Valentina" #  Salas
+
+	culture = tierravera
+	religion = unionism
+	female = yes
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 324
+
+	diplomacy = 7
+	martial = 5
+	stewardship = 6
+	intrigue = 5
+	learning = 8
+	add_trait = "creature_ailor"
+	add_trait = "martial_cleric"
+	add_trait = "fair"
+	add_trait = "honest"
+	add_trait = "administrator"
+	disallow_random_traits = yes
+}
+
+1100 = {
+	name = "Anastasie" #  Letoirneau
+
+	culture = ithanian
+	religion = unionism
+	female = yes
+	295.1.1 = {
+		birth = 295.1.1
+	}
+	395.1.1 = {
+		death = 395.1.1
+	}
+	dynasty = 179
+
+	diplomacy = 10
+	martial = 7
+	stewardship = 7
+	intrigue = 9
+	learning = 6
+	add_trait = "creature_ailor"
+	add_trait = "detached_priest"
+	add_trait = "socializer"
+	add_trait = "envious"
+	add_trait = "just"
+	disallow_random_traits = yes
+}
 

@@ -7,19 +7,29 @@ velheim_group = {
         color = { 0.3 0.55 0.8 }
         
 		male_names = {
-			Ale Alfr_Alf Alfgeir Anders_Andrew Anlaufr Anundr_Anund Arnbjörn Arngrimr Arni_Arne Arnfast Asbjörn_Asbjörn Bagge Baldr_Balder Barid Bengt_Benedict Bersi Bertil_Berthold Birger Björn_Beorn Bo Borkvard Botulfr_Botulf Bragi_Brage Buðli
-			Dag Dan Dyre Eilif Egill_Egil Emund Einarr_Einar Eirikr_Erik Eskild Falki Faste Filip_Philip Fredrik_Frederick Frirek Froði_Frode Freyr_Frej Folki_Folke Gandalfr Geirr Georg_George Gnupa_Gnupa Gorm_Gorm Greger_Gregory Grimr_Grim Guðfrið_Godfrey Guðmundr_Gudmund Guðröðr_Gudröd Gunnarr_Gunnar Hakon_Hakon Halsten Haraldr_Harold Haukr Helgi_Helge
-			Hemming Holmger Hrafn Hrolfr_Rolf Hrane Hæsteinn Hjalmar_Hjalmar Hroðgar Hroðulfr Hrörekr_Rurik Hysing Ingólfr_Ingolf Ingemar Ingjald Ivar_Ivar Jedvard_Edward Jon_John Karl_Charles Kettil Kettilmund Kjartan Klas_Nicholas Knut_Knut Kol Kolbjörn Magnus_Magnus Markus_Marcus 
-			Magni_Magne Mats_Matthew Nils_Nicholas Niklas_Nicholas Oddr_Odd Ofeig Olafr_Olaf Ormr_Orm Ottarr_Ottar Refr Refil Ragnarr_Rainer Rikulfr Rögnvaldr_Ragnvald Skuli_Skule Snorri Sigbjörn Sigtrygg Sigurðr_Sigurd Starkaðr_Starkad Steinn_Sten Sturla Styrbjörn Styrkar Sumarliði_Somerled Suni_Sune Sveinn_Sven
-			Sverker Sæmundr_Sämund Sölvi_Sölve Sörkver Tjudmund_Tjudmund Toke_Toke Tolir Þorbjörn_Torbjörn Þorfinn_Torfinn Þorbrandr_Torbrand Þordr_Tord Þorgil_Torkel Þorsteinn_Torsten Þorolfr_Thorolf Toste Totil Tryggve Tyke Ulfr_Ulf Vagn Valdemar_Vladimir Åke Yngvar_Ingvar Örvar_Orvar Öysteinn_Eysteinn
+    		Arne Bjarni Brand Einar Finn Geir Gunnar Halfdan Hallvard Harald
+		    Hjalmar Ketil Knut Leif Magnus Odd Rolf Sigurd Sten Styrr
+		    Svend Toke Ulf Valdemar Viggo Yngvar Arvid Asmund Bersi Eilif
+		    Egil Eirik Gauti Ingolf Sigtrygg Skapti Snorri Steinar Sumarliði Tosti
+		    Torfi Vali Vemund Aki Alrik Balle Botolf Dag Eysteinn Fargrim
+		    Geirmund Hallbjorn Herleif Hord Jarl Kari Ketill Kormak Lambi Mani
+		    Neri Ofeig Rafn Roar Sigfast Skeggi Solmund Styrmir Svale Tjalfi
+		    Torarin Ufeig Valbrand Vebjorn Vifil Vikar Ymir Arnkel Bergthor Eilert
+		    Fastulf Geirodd Hallfred Herraud
 		}
+
 		female_names = {
-			Aleta Alfhildr_Alfhild Alfrið_Alfridh Alvör Anna_Anna Asa_Åsa Aslaug Asta_Asta Astrid_Astrid Beata Birgitta_Brigid Björg Bodil Bothildr_Bothild Cecilia_Cecilia
-			Edla Elin Elisabet_Elizabeth Freyja_Freja Gerðr Gloð Grima Gunnhildr_Gunhild Gurli Guðrun_Gudrun Gyla Gyrið Gyða_Gytha Hafrid Halla Helena_Helen Holmfrid
-			Iliana Inga_Inge Ingfrid Ingibjörg_Ingeborg Ingjerðr_Ingegerd Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kraka Kristina_Christina Linda Maer
-			Malmfrið_Malmfrid Margareta_Margaret Maria_Maria Rikissa Rögnfrið_Ragnfrid Rögnhildr_Ragnhild Saga Sara_Sarah Sif Sigrid_Sigrid Skuld Sofia_Sophia
-			Svanhildr_Svanhild Ulfhildr_Ulvhilde Vigdis Ylva_Ylva Yrsa_Ursula Þora_Thora Þordis_Thordis Þyra_Thyra
+		    Asta Astrid Bergljot Bodil Brynhild Dagny Eira Frida Gerda Gro
+		    Gunnhild Hallbera Helga Hilda Ingrid Jorunn Kari Kraka Liv Ragnhild
+		    Signe Sigrid Solveig Thora Tove Unn Ylva Alfhild Aslaug Aud Bergthora
+		    Bera Disa Eydis Gerd Gudrid Halla Herdis Ingibjorg Jofrid Kolbrun
+		    Leikny Magnhild Rannveig Rind Sigrun Skadi Svala Thordis Ulfhild Valdis
+		    Vigdis Yrsa Arnora Bergny Geirhild Hallfrid Hlif Hrafnhild Isgerd Jodis
+		    Kalfhild Modgunn Oddny Ragnfrid Signy Solrun Steinunn Svana Thurid Torhild
+		    Unnur Valgerd Veig Yngvild Alfdis Bergdis Eilifhild Fridgerd Geirlaug Hallveig
+		    Hjordis Ingunn Jorhild Ketilveig Leifrun Ragnveig Solbjorg Ulfrun
 		}
+
 		feminist = yes
 		from_dynasty_prefix = "af "
 		
@@ -37,35 +47,46 @@ velheim_group = {
         mother_name_chance = 5
     }
 
-    tarkin = {
-        graphical_cultures = { norsegfx }
-        
-        color = { 0.1 0.6 0.6 }
-        
+	tarkin = {
+		graphical_cultures = { norsegfx }
+		
+		color = { 0.1 0.6 0.6 }
+		
 		male_names = {
-			Aatos Ahma Aimo Armas Arvo Asikko Ensio Haapa Hannu Havu Hintsa Ihanti Into Jalo Jurva Kaleva Kalevi Kettu Kolli Lalli Lauri_Laurence Lemetti
-			Mielitty Miemo Mikko_Michael Oiva Onni Otso Pyry Päiviö Pentti Reko Sampo Satajalka Satatieto Seppo Susi Tapani Terho Toivo Ukko Uoti Urho Väinö
-			Valta Valto Veli Vesa Voitto Erkki_Erik Kaarle_Charles Johannes_John Risto_Christopher Olavi_Olaf Petri_Peter Henri_Henry Yrjö_George 
-			Valteri_Walter Riku_Richard Matti_Matthew Jaakoppi_Jacob Taisto Paavo_Paul Aatso_Adam Ahvo Aarto_Artur Asko Tuokko_David Rieti_Frederick
-			Kauro_Gabriel Kuuti_Knut Pekko Soini_Sven Tuure Turo Tommo Tohmas_Thomas
+			Aivars Alvis Andis Arnis Artis Atis Aigars Ainis Austris Dainis
+			Didzis Dzintars Edgars Elvijs Gatis Guntars Guntis Ivars Imants Indulis
+			Kaspars Kristaps Laimonis Lauris Linards Matiss Modris Normunds Oskars Raitis
+			Raimonds Reinis Rihards Rolands Toms Valdis Varis Vestards Vilnis Visvaldis
+			Ziedonis Ainars Aldis Agris Anrijs Ansis Arvids Einars Ervins Intars
+			Ivo Jurijs Leonids Maksims Miervaldis Olegs Ralfs Roberts Romans Ruslans
+			Sergejs Stanislavs Vadims Viktors Vitolds Andrejs Deniss Georgs Igors Jevgenijs
+			Kirils Konstantins Leonards Markuss Mihails Nikita Pavels Timurs Valerijs Vladimirs
+			Eduards Emils Harijs Justs Renijs Rens Valters
 		}
 		female_names = {
-			Aamu Aino Hellä Helmi Ilta Kaarina_Catherine Käpy Kielo Kukka Lauha Lempi Mahla Maija Marja Mesi Metta Päivä Päivi Pihla Pilvi Rauha Sisko Suoma
-			Taimi Terhi Titti Tuija Tuovi Tuuli Tuulikki Tyyne Tyyni Vanamo Venla Mielikki Hertta Loviisa Inkeri Ilmatar Irene_Irene Ilona_Helen Kristiina_Christina
-			Elisabet_Elizabeth Sohvi_Sofia Auni_Agnes Liekko_Helen Kivutar Lemmikki Lyylikki Salme Talvikki Tuulitar
+			Aija Alise Anete Anita Anna Arta Austra Baiba Dace Dana
+			Daina Elza Eva Guna Ilze Inese Irena Iveta Laima Laila
+			Liene Linda Madara Maija Marta Milda Rasa Renate Runa Santa
+			Selma Sigita Skaidra Spodra Una Vaira Velga Zane Zenta Zinta
+			Zita Arita Brigita Digna Dita Edite Elga Elita Evelina Gita
+			Gundega Inga Inta Jolanta Larisa Lida Livia Loreta Malvina Margarita
+			Marina Milena Monika Nadija Nika Olga Regina Sabina Sandra Tatjana
+			Tamara Valentina Valerija Vasilisa Vera Zina Zlata Diana Gabriela Mirta
+			Nora Stella Teresa Viola
 		}
 		from_dynasty_prefix = "of "
 		feminist = yes
 
-        modifier = default_culture_modifier
-        pat_grf_name_chance = 30
-        mat_grf_name_chance = 10
-        father_name_chance = 25
-        
-        pat_grm_name_chance = 20
-        mat_grm_name_chance = 40
-        mother_name_chance = 5
-    }
+		modifier = default_culture_modifier
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 25
+		
+		pat_grm_name_chance = 20
+		mat_grm_name_chance = 40
+		mother_name_chance = 5
+	}
+
 
     hoglander = {
         graphical_cultures = { norsegfx }
@@ -73,16 +94,27 @@ velheim_group = {
         color = { 0.25 0.5 0.75 }
         
 		male_names = {
-			Albrikt_Albert Alf_Alf Algot Anders_Andrew Anund_Anund Arnbjörn Arne_Arne Arnfast Asbjörn_Asbjörn Astrad Azur Bagge Balder_Balder Bengt_Benedict Bertil_Berthold Birger Björn_Beorn Bo Borkvard Botulf_Botulf Brage_Brage Bror 
-			Brynjolf Dag Dan Dyre Egil_Egil Einar_Einar Emund Erik_Erik Eskild Faste Fredrik_Frederick Filip_Philip Folke_Folke Frej_Frej Georg_George Greger_Gregory Grim_Grim Gudröd_Gudröd Gunnar_Gunnar Gustav Halsten Hans_Hans Harald_Harold
-			Helgi_Helge Henrik_Henry Hjalmar_Hjalmar Holmger Håkan_Hakon Inge_Ingolf Ingemar Ingvar_Ingvar Jedvard_Edward Johan_John Karl_Charles Kettil Kettilmund Klas_Nicholas Knut_Knut Kol Kolbjörn Lars_Laurence Magnus_Magnus Markus_Marcus 
-			Mats_Matthew Nils_Nicholas Niklas_Nicholas Odd_Odd Olaf_Olaf Orvar_Orvar Peder_Peter Ragnar_Rainer Rolf_Rolf Rörek_Rurik Ragnvald_Ragnvald Sämund_Sämund Sörkver Sigbjörn Sigtrygg Sigurd_Sigurd Starkad_Starkad Sten_Sten Styrbjörn Sune_Sune Sven_Sven
-			Sverker Sölvi_Sölve Thomas_Thomas Tjudmund_Tjudmund Toke_Toke Tolir Torbjörn_Torbjörn Tord_Tord Torbrand_Torbrand Torfinn_Torfinn Torkel_Torkel Torolf_Thorolf Torsten_Torsten Toste Totil Tyke Ulf_Ulf Valdemar_Vladimir Åke Östen_Eysteinn 
+    		Arne Bjarni Brand Einar Finn Geir Gunnar Halfdan Hallvard Harald
+		    Hjalmar Ketil Knut Leif Magnus Odd Rolf Sigurd Sten Styrr
+		    Svend Toke Ulf Valdemar Viggo Yngvar Arvid Asmund Bersi Eilif
+		    Egil Eirik Gauti Ingolf Sigtrygg Skapti Snorri Steinar Sumarliði Tosti
+		    Torfi Vali Vemund Aki Alrik Balle Botolf Dag Eysteinn Fargrim
+		    Geirmund Hallbjorn Herleif Hord Jarl Kari Ketill Kormak Lambi Mani
+		    Neri Ofeig Rafn Roar Sigfast Skeggi Solmund Styrmir Svale Tjalfi
+		    Torarin Ufeig Valbrand Vebjorn Vifil Vikar Ymir Arnkel Bergthor Eilert
+		    Fastulf Geirodd Hallfred Herraud
 		}
+
 		female_names = {
-			Aleta Alfhild Alfridh_Alfridh Anna_Anna Asta_Asta Astrid_Astrid Beata Birgitta_Brigid Bothild_Bothild Cecilia_Cecilia Edla Elin Elisabet_Elizabeth Freja_Freja Gunhild_Gunhild Gyla Gurli Gytha_Gytha Hafrid 
-			Helena_Helen Holmfrid Iliana Inga_Inge Ingeborg_Ingeborg Ingegerd_Ingegerd Ingfrid Ingrid_Ingrid Karin_Catherine Katarina_Catherine Kristina_Christina Linda Maer Malmfrid_Malmfrid
-			Margareta_Margaret Märta_Martha Ragnfrid_Ragnfrid Ragnhild_Ragnhild Rikissa Saga Sara_Sarah Sigrid_Sigrid Sofia_Sophia Svanhild_Svanhild Thordis_Thordis Ulvhilde Ylva Åsa_Åsa
+		    Asta Astrid Bergljot Bodil Brynhild Dagny Eira Frida Gerda Gro
+		    Gunnhild Hallbera Helga Hilda Ingrid Jorunn Kari Kraka Liv Ragnhild
+		    Signe Sigrid Solveig Thora Tove Unn Ylva Alfhild Aslaug Aud Bergthora
+		    Bera Disa Eydis Gerd Gudrid Halla Herdis Ingibjorg Jofrid Kolbrun
+		    Leikny Magnhild Rannveig Rind Sigrun Skadi Svala Thordis Ulfhild Valdis
+		    Vigdis Yrsa Arnora Bergny Geirhild Hallfrid Hlif Hrafnhild Isgerd Jodis
+		    Kalfhild Modgunn Oddny Ragnfrid Signy Solrun Steinunn Svana Thurid Torhild
+		    Unnur Valgerd Veig Yngvild Alfdis Bergdis Eilifhild Fridgerd Geirlaug Hallveig
+		    Hjordis Ingunn Jorhild Ketilveig Leifrun Ragnveig Solbjorg Ulfrun
 		}
 		feminist = yes
 		from_dynasty_prefix = "af "
@@ -107,46 +139,27 @@ velheim_group = {
         color = { 0.15 0.4 0.55 }
         
 		male_names = {
-			Abel_Abel Alexander_Alexander Andrés_Andrew Anton_Anthony Anund_Anund Ármann_Herman Árni_Arne Aron_Aaron Arthur_Arthur 
-			Balder_Balder Benedikt_Benedict Benjamín_Benjamin Bjørn_Bjorn Bragi 
-			Christian_Christian Christoffer_Christopher 
-			Daniel_Daniel David_David
-			Edvard_Edward Einar_Einar Eiríkur_Erik Elías_Elijah Ernst_Ernest 
-			Fridrik_Frederick Frej_Frej Frode_Frode 
-			Georg_George Gnupa_Gnupa Gorm_Gorm Gotfred_Godfrey Gregers_Gregory Grim_Grim Gunnar_Günther
-			Hákon_Hakon Halfdan Halvor Hans_John Haraldur_Harold Helgi_Helge Henrik_Henry 
-			Ingvar_Ingvar Ísak_Isaac 
-			Jakob_Jacob Jens_John Joakim_Joachim Jóhann_John Jónas_Jonah Jónatan_Jonathan Jósef_Joseph 
-			Karl_Charles Kevin_Kevin Knud_Knut Kristján_Christian Kristófer_Christopher 
-			Lárus_Lawrence Leif Lennart_Leonard Ludvik_Louis 
-			Magnús_Magnus Matthías_Matthew Mikael_Michael 
-			Njáll_Neil 
-			Odd_Odd Ólafur_Olaf Óskar_Oscar Otto_Otto 
-			Páll_Paul Pétur_Peter 
-			Ragnar_Rainer Ragnvald_Reynold Róbert_Robert Rolf_Rudolf 
-			Severin_Severinus Sigurd_Sigurd Sivard Stefán_Stephen Svend_Sven Sämund_Sämund 
-			Thorolf_Thorolf Thorvald Tómas_Thomas Torbjørn_Torben Tord_Tord Torfinn_Torfinn Torgils_Torkel 
-			Úlfur_Ulf 
-			Valdemar_Vladimir Viktor_Victor Vilfred_Wilfred Vilhjálmur_William 
-			Yngvar_Ingvar
+    		Arne Bjarni Brand Einar Finn Geir Gunnar Halfdan Hallvard Harald
+		    Hjalmar Ketil Knut Leif Magnus Odd Rolf Sigurd Sten Styrr
+		    Svend Toke Ulf Valdemar Viggo Yngvar Arvid Asmund Bersi Eilif
+		    Egil Eirik Gauti Ingolf Sigtrygg Skapti Snorri Steinar Sumarliði Tosti
+		    Torfi Vali Vemund Aki Alrik Balle Botolf Dag Eysteinn Fargrim
+		    Geirmund Hallbjorn Herleif Hord Jarl Kari Ketill Kormak Lambi Mani
+		    Neri Ofeig Rafn Roar Sigfast Skeggi Solmund Styrmir Svale Tjalfi
+		    Torarin Ufeig Valbrand Vebjorn Vifil Vikar Ymir Arnkel Bergthor Eilert
+		    Fastulf Geirodd Hallfred Herraud
 		}
+
 		female_names = {
-			Agnethe_Agatha Anna_Anna Asta_Asta 
-			Benedikte_Benedicta Birgitta_Bridget Bodil 
-			Cecilie_Cecilia Christina_Christina 
-			Dagmar Dorothea_Dorothy 
-			Elisabeth_Elizabeth Ellinor_Eleanor Emilie_Emily Erika_Erika Ester_Esther Estrid_Astrid 
-			Frederikke_Frederique Freja_Freja
-			Grethe_Margaret Gudrun_Gudrun Gunhild_Gunhild Gyda_Gytha 
-			Helena_Helen 
-			Ida_Ida Ingeborg_Ingeborg Ingegerd_Ingegerd Ingrid_Ingrid 
-			Johanne_Jane Jutta_Judith 
-			Karin_Catherine Karoline_Caroline Katarina_Catherine Katrine_Catherine Kirsten_Christina Klara_Clara 
-			Lise_Elizabeth Luitgard Lykke
-			Magdalene_Madeline Maren_Mary Margrethe_Margaret Maria_Mary Martha_Martha 
-			Ragnfrid_Ragnfrid Ragnhild_Ragnhild Rikissa Runa 
-			Sanna_Susan Signe Sigrid_Sigrid Silje_Cecilia Sofie_Sophia Svanhild_Svanhild 
-			Thyra_Thyra Tora_Thora Thordis_Thordis 
+		    Asta Astrid Bergljot Bodil Brynhild Dagny Eira Frida Gerda Gro
+		    Gunnhild Hallbera Helga Hilda Ingrid Jorunn Kari Kraka Liv Ragnhild
+		    Signe Sigrid Solveig Thora Tove Unn Ylva Alfhild Aslaug Aud Bergthora
+		    Bera Disa Eydis Gerd Gudrid Halla Herdis Ingibjorg Jofrid Kolbrun
+		    Leikny Magnhild Rannveig Rind Sigrun Skadi Svala Thordis Ulfhild Valdis
+		    Vigdis Yrsa Arnora Bergny Geirhild Hallfrid Hlif Hrafnhild Isgerd Jodis
+		    Kalfhild Modgunn Oddny Ragnfrid Signy Solrun Steinunn Svana Thurid Torhild
+		    Unnur Valgerd Veig Yngvild Alfdis Bergdis Eilifhild Fridgerd Geirlaug Hallveig
+		    Hjordis Ingunn Jorhild Ketilveig Leifrun Ragnveig Solbjorg Ulfrunra Tora_Thora Thordis_Thordis 
 			Åse_Åsa
 		}
 		feminist = yes

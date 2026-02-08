@@ -720,7 +720,7 @@
 }
 
 144 = {
-	name = "Celyreos"
+	name = "Eliad"
 	culture = solvaan
 }
 
@@ -920,8 +920,8 @@
 }
 
 185 = {
-	name = "von Altburg"
-	culture = leutz_vixe
+	name = "von Altenburg"
+	culture = wirtem
 }
 
 186 = {
@@ -1613,5 +1613,20 @@
 321 = {
 	name = "de la Corbière"
 	culture = ithanian
+}
+
+322 = {
+	name = "Eliopolous"
+	culture = etosian
+}
+
+323 = {
+	name = "Yaotl"
+	culture = allar
+}
+
+324 = {
+	name = "Salas"
+	culture = tierravera
 }
 
