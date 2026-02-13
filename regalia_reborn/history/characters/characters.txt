@@ -23240,6 +23240,7 @@
 	}
 	dynasty = 282
 	father = 1101
+	mother = 1102
 
 	diplomacy = 6
 	martial = 7
@@ -24432,17 +24433,7 @@
 	}
 	dynasty = 316
 
-	diplomacy = 6
-	martial = 6
-	stewardship = 6
-	intrigue = 5
-	learning = 10
 	add_trait = "creature_ailor"
-	add_trait = "martial_cleric"
-	add_trait = "sturdy"
-	add_trait = "quick"
-	add_trait = "scholar"
-	disallow_random_traits = yes
 }
 
 1045 = {
@@ -25655,7 +25646,7 @@
 1101 = {
 	name = "Felix" # Tyrmont
 
-	culture = leutz
+	culture = leutz_vixe
 	religion = unionism
 	251.1.1 = {
 		birth = 251.1.1
@@ -25677,3 +25668,261 @@
 	add_trait = "arbitrary"
 	disallow_random_traits = yes
 }
+
+1102 = {
+	name = "Justina" # Fischer
+	female = yes
+
+	culture = leutz_vixe
+	religion = unionism
+	253.1.1 = {
+		birth = 253.1.1
+	}
+	315.1.1 = {
+		death = 315.1.1
+	}
+	diplomacy = 12
+	martial = 12
+	stewardship = 22
+	intrigue = 22
+	learning = 14
+	add_trait = "creature_ailor"
+	add_trait = "elusive_shadow"
+	add_trait = "administrator"
+	add_trait = "cruel"
+	add_trait = "deceitful"
+	add_trait = "greedy"
+	disallow_random_traits = yes
+}
+
+1003 = {
+	name = "Benoît" # Tyrmont
+
+	culture = leutz_vixe
+	religion = unionism
+	271.1.1 = {
+		birth = 271.1.1
+	}
+	315.1.1 = {
+		death = 315.1.1
+	}
+	dynasty = 282	
+
+	father = 1101
+	mother = 1102
+	dynasty = 282	
+
+	diplomacy = 6
+	martial = 8
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	add_trait = "inspiring_leader"
+	add_trait = "creature_ailor"
+	add_trait = "brilliant_strategist"
+	add_trait = "genius"
+	add_trait = "brave"
+	disallow_random_traits = yes
+}
+
+1104 = {
+	name = "Felix" # Tyrmont
+
+	culture = leutz_vixe
+	religion = unionism
+	299.1.1 = {
+		birth = 299.1.1
+	}
+	315.1.1 = {
+		death = 315.1.1
+	}
+	father = 1101
+	mother = 1102
+	dynasty = 282	
+
+	diplomacy = 9
+	martial = 12
+	stewardship = 9
+	intrigue = 10
+	learning = 17
+	add_trait = "creature_ailor"
+	add_trait = "misguided_warrior"
+	add_trait = "scholar"
+	add_trait = "craven"
+	add_trait = "erudite"
+	disallow_random_traits = yes
+}
+
+1105 = {
+	name = "Margaretha" # Tyrmont
+	female = yes
+
+	culture = leutz_vixe
+	religion = unionism
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	father = 1101
+	mother = 1102
+	dynasty = 282	
+
+	diplomacy = 11
+	martial = 25
+	stewardship = 11
+	intrigue = 5
+	learning = 5
+	add_trait = "creature_ailor"
+	add_trait = "tough_soldier"
+	add_trait = "hunter"
+	add_trait = "brave"
+	add_trait = "dull"
+	add_trait = "aggressive_leader"
+	disallow_random_traits = yes
+}
+
+1106 = {
+	name = "Gabrielle" # Tyrmont
+	female = yes
+
+	culture = leutz_vixe
+	religion = unionism
+	289.1.1 = {
+		birth = 289.1.1
+	}
+	389.1.1 = {
+		death = 389.1.1
+	}
+	father = 1101
+	mother = 1102
+	dynasty = 282	
+
+	diplomacy = 6
+	martial = 7
+	stewardship = 6
+	intrigue = 9
+	learning = 5
+	add_trait = "creature_ailor"
+	add_trait = "charismatic_negotiator"
+	add_trait = "socializer"
+	add_trait = "groomed"
+	add_trait = "gregarious"
+	disallow_random_traits = yes
+}
+
+1107 = {
+	name = "Conrad" # Tyrmont
+
+	culture = leutz_vixe
+	religion = unionism
+	278.1.1 = {
+		birth = 278.1.1
+	}
+	378.1.1 = {
+		death = 378.1.1
+	}
+	father = 1101
+	mother = 1102
+	dynasty = 282
+
+	diplomacy = 14
+	martial = 13
+	stewardship = 13
+	intrigue = 19
+	learning = 13
+	add_trait = "creature_ailor"
+	add_trait = "elusive_shadow"
+	add_trait = "legit_bastard"
+	add_trait = "lustful"
+	add_trait = "deceitful"
+	disallow_random_traits = yes
+}
+
+1108 = {
+	name = "Balthasar" # Tyrmont
+
+	culture = leutz_vixe
+	religion = unionism
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	father = 1101
+	mother = 1102
+	dynasty = 282
+
+	diplomacy = 5
+	martial = 5
+	stewardship = 14
+	intrigue = 5
+	learning = 5
+	add_trait = "creature_ailor"
+	add_trait = "midas_touched"
+	add_trait = "legit_bastard"
+	add_trait = "sturdy"
+	add_trait = "strong"
+	disallow_random_traits = yes
+}
+
+1109 = {
+	name = "Léonie" # Tyrmont
+	female = yes
+
+	culture = zvorun
+	religion = unionism
+	287.1.1 = {
+		birth = 287.1.1
+	}
+	387.1.1 = {
+		death = 387.1.1
+	}
+	father = 1101
+	mother = 1102
+	dynasty = 282
+
+	diplomacy = 8
+	martial = 6
+	stewardship = 6
+	intrigue = 14
+	learning = 15
+	add_trait = "creature_ailor"
+	add_trait = "scholarly_theologian"
+	add_trait = "mystic"
+	add_trait = "deceitful"
+	add_trait = "diligent"
+	add_trait = "legit_bastard"
+	disallow_random_traits = yes
+}
+
+1110 = {
+	name = "Aliénor" # Tyrmont
+	female = yes
+
+	culture = leutz_vixe
+	religion = unionism
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	father = 1101
+	mother = 1102
+	dynasty = 282
+
+	diplomacy = 8
+	martial = 9
+	stewardship = 7
+	intrigue = 6
+	learning = 5
+	add_trait = "creature_ailor"
+	add_trait = "skilled_tactician"
+	add_trait = "legit_bastard"
+	add_trait = "strong"
+	disallow_random_traits = yes
+}
+
