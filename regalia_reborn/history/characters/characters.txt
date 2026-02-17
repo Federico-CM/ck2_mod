@@ -25695,7 +25695,7 @@
 	disallow_random_traits = yes
 }
 
-1003 = {
+1103 = {
 	name = "Benoît" # Tyrmont
 
 	culture = leutz_vixe
