@@ -25873,7 +25873,7 @@
 	female = yes
 
 	culture = zvorun
-	religion = unionism
+	religion = pinefather_cult
 	287.1.1 = {
 		birth = 287.1.1
 	}

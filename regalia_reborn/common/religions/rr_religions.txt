@@ -438,3 +438,43 @@ aldurism_group = {
 	}
 }
 
+cultism_group = {
+	has_coa_on_barony_only = yes
+	graphical_culture = westerngfx
+	crusade_cb = crusade
+	playable = yes
+	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
+
+	color = { 1 124 137 }
+
+	pinefather_cult = {
+		graphical_culture = westerngfx
+		icon = 9
+
+		color = { 1 124 137 }
+
+		crusade_name = CRUSADE
+		scripture_name = THE_TEACHINGS
+		priest_title = PRIEST
+
+		high_god_name = GOD_GAISROS
+
+		god_names = {
+			GOD_GAISROS
+		}
+
+		evil_god_names = {
+			GOD_THE_DARK_GODS
+		}
+
+		priests_can_marry = yes
+		allow_rivermovement = yes
+		female_temple_holders = yes
+		can_excommunicate = yes
+		can_grant_divorce = yes
+		can_grant_claim = yes
+		priests_can_inherit = no
+	}
+}
+
+

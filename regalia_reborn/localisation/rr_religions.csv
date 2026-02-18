@@ -183,3 +183,10 @@ VEL_MANON;Vel Manon;;;;;;;;;;;;;x
 ONALINN;Onalinn;;;;;;;;;;;;;x
 CATHERON;Catheron;;;;;;;;;;;;;x
 
+cultism_group;cult;;;;;;;;;;;;;x
+pinefather_cult_DESC;The Cult of the Pinefather is an ancient and austere faith devoted to Gaisros, the primordial god of the deep forests. Revered as the guardian of root and bough, Gaisros embodies the relentless strength of the wild and the patient wrath of the old growth. Central to the cult¡¯s doctrine is an uncompromising hatred of vampires and all they represent.;;;;;;;;;;;;;x
+pinefather_cult_adj;Pinefather cult;;;;;;;;;;;;;x
+pinefather_cult;Pinefather cult;;;;;;;;;;;;;x
+GOD_GAISROS;Gaisros;;;;;;;;;;;;;x
+Priest;Priest;;;;;;;;;;;;;x
+
