@@ -49,8 +49,8 @@ pre_empire_group = {
 		feminist = yes
 		
 		from_dynasty_prefix = "de "
-		male_patronym = "ap "
-		female_patronym = "ferch "
+		#male_patronym = "ap "
+		#female_patronym = "ferch "
 		prefix = yes
 
         modifier = default_culture_modifier
@@ -181,8 +181,8 @@ pre_empire_group = {
 		}
 		
 		from_dynasty_prefix = "z "
-		male_patronym = "ovic"
-		female_patronym = "evic"
+		#male_patronym = "ovic"
+		#female_patronym = "evic"
 		prefix = no
 		feminist = yes
 

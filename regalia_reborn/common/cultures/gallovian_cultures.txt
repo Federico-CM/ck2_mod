@@ -90,8 +90,8 @@ gallovian_group = {
 			Perelva Barlena Relena Sorlena Tarlena Urelva Vorlena Werlora Harlena Yorlena
 		}
 		
-		male_patronym = "map "
-		female_patronym = "verch "
+		#male_patronym = "map "
+		#female_patronym = "verch "
 		prefix = yes
 		feminist = yes
 
@@ -179,8 +179,8 @@ gallovian_group = {
 		}
 		
 		from_dynasty_prefix = "de "
-		male_patronym = "mac "
-		female_patronym = "nic "
+		#male_patronym = "mac "
+		#female_patronym = "nic "
 		prefix = yes
 		feminist = yes
 

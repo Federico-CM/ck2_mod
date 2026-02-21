@@ -20,8 +20,8 @@ tierravera_group = {
 		from_dynasty_prefix = "de "
 		feminist = yes
 
-		male_patronym = "ez"
-		female_patronym = "ez"
+		#male_patronym = "ez"
+		#female_patronym = "ez"
 		grammar_transform = spanish
 
         modifier = default_culture_modifier
@@ -53,8 +53,8 @@ tierravera_group = {
 		from_dynasty_prefix = "de "
 		feminist = yes
 
-		male_patronym = "es"
-		female_patronym = "es"
+		#male_patronym = "es"
+		#female_patronym = "es"
 		grammar_transform = spanish
 
         modifier = default_culture_modifier

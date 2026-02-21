@@ -24,7 +24,7 @@ baldmark_group = {
 		
 		from_dynasty_prefix = "de "
 		
-		male_patronym = "escu"
+		#male_patronym = "escu"
 		prefix = no
 		feminist = yes
 
@@ -56,8 +56,8 @@ baldmark_group = {
 		
 		from_dynasty_prefix = "ot "
 		
-		male_patronym = "ov"
-		female_patronym = "ova"
+		#male_patronym = "ov"
+		#female_patronym = "ova"
 		prefix = no
 		feminist = yes
 
@@ -95,7 +95,7 @@ baldmark_group = {
 		
 		from_dynasty_prefix = "a "
 		
-		male_patronym = "fi"
+		#male_patronym = "fi"
 		prefix = no
 		feminist = yes
 
@@ -130,7 +130,7 @@ baldmark_group = {
 		
 		from_dynasty_prefix = "od "
 		
-		male_patronym = "ic"
+		#male_patronym = "ic"
 		prefix = no
 		feminist = yes
 

@@ -33,8 +33,8 @@ velheim_group = {
 		feminist = yes
 		from_dynasty_prefix = "af "
 		
-		male_patronym = "sson"
-		female_patronym = "sdottir"
+		#male_patronym = "sson"
+		#female_patronym = "sdottir"
 		prefix = no # The patronym is added as a suffix
 
         modifier = default_culture_modifier
@@ -119,8 +119,8 @@ velheim_group = {
 		feminist = yes
 		from_dynasty_prefix = "af "
 		
-		male_patronym = "sson"
-		female_patronym = "sdotter"
+		#male_patronym = "sson"
+		#female_patronym = "sdotter"
 		prefix = no # The patronym is added as a suffix
 
         modifier = default_culture_modifier
@@ -165,8 +165,8 @@ velheim_group = {
 		feminist = yes
 		from_dynasty_prefix = "af "
 		
-		male_patronym = "sen"
-		female_patronym = "sdatter"
+		#male_patronym = "sen"
+		#female_patronym = "sdatter"
 		prefix = no
 
         modifier = default_culture_modifier

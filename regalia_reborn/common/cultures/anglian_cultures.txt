@@ -29,8 +29,8 @@ anglian_group = {
 		from_dynasty_prefix = "van "
 		feminist = yes
 		
-		male_patronym = "szoon"
-		female_patronym = "sdochter"
+		#male_patronym = "szoon"
+		#female_patronym = "sdochter"
 		prefix = no
 
         modifier = default_culture_modifier
