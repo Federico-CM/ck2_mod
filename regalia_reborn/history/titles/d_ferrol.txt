@@ -1,5 +1,5 @@
 315.1.1 = {
-	holder = 999 # Diego Montoya
+	holder = 1111 # Ciel zu Ferrol
 	law = succ_primogeniture
 	law = agnatic_succession
 }

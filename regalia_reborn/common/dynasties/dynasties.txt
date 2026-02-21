@@ -930,8 +930,8 @@
 }
 
 187 = {
-	name = "Nayelen"
-	culture = krainivaya
+	name = "Nayëlen"
+	culture = suvial
 }
 
 188 = {
@@ -1628,5 +1628,15 @@
 324 = {
 	name = "Salas"
 	culture = tierravera
+}
+
+325 = {
+	name = "zu Ferrol"
+	culture = wirtem
+}
+
+326 = {
+	name = "Londerry"
+	culture = cearden
 }
 

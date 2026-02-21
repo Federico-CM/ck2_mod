@@ -21271,7 +21271,7 @@
 }
 
 897 = {
-	name = "Charles" # von Rolanthe
+	name = "Adagio" # von Rolanthe
 	culture = leutz_vixe
 	religion = unionism
 	289.1.1 = {
@@ -21281,18 +21281,21 @@
 		death = 389.1.1
 	}
 	dynasty = 184
+	mother = 1112
 
 	diplomacy = 5
-	martial = 5
+	martial = 6
 	stewardship = 5
-	intrigue = 6
+	intrigue = 5
 	learning = 5
 	add_trait = "creature_ailor"
-	add_trait = "underhanded_rogue"
+	add_trait = "tough_soldier"
 	add_trait = "hunter"
-	add_trait = "strong"
-	add_trait = "wroth"
-	add_trait = "scarred"
+	add_trait = "diligent"
+	add_trait = "shrewd"
+	add_trait = "cynical"
+	add_trait = "patient"
+	add_trait = "organizer"
 	disallow_random_traits = yes
 }
 
@@ -24494,18 +24497,7 @@
 	dynasty = 103
 	father = 1047
 
-	diplomacy = 5
-	martial = 8
-	stewardship = 6
-	intrigue = 8
-	learning = 6
 	add_trait = "creature_ailor"
-	add_trait = "brilliant_strategist"
-	add_trait = "organizer"
-	add_trait = "hedonist"
-	add_trait = "wroth"
-	add_trait = "diligent"
-	disallow_random_traits = yes
 }
 
 1049 = {
@@ -24521,17 +24513,7 @@
 	dynasty = 103
 	father = 1047
 
-	diplomacy = 6
-	martial = 6
-	stewardship = 8
-	intrigue = 6
-	learning = 6
 	add_trait = "creature_ailor"
-	add_trait = "grey_eminence"
-	add_trait = "schemer"
-	add_trait = "sturdy"
-	add_trait = "diligent"
-	disallow_random_traits = yes
 }
 
 1050 = {
@@ -25926,3 +25908,128 @@
 	disallow_random_traits = yes
 }
 
+1111 = {
+	name = "Ciel" # zu Ferrol
+
+	culture = leutz_vixe
+	religion = unionism
+	288.1.1 = {
+		birth = 288.1.1
+	}
+	388.1.1 = {
+		death = 388.1.1
+	}
+	dynasty = 325
+
+	diplomacy = 5
+	martial = 7
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	add_trait = "creature_ailor"
+	add_trait = "skilled_tactician"
+	add_trait = "zealous"
+	add_trait = "holy_warrior"
+	disallow_random_traits = yes
+}
+
+
+1112 = {
+	name = "Cordelia" # von Rolanthe
+	female = yes
+
+	culture = leutz_vixe
+	religion = unionism
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+	dynasty = 184
+
+	add_trait = "creature_ailor"
+}
+
+1113 = {
+	name = "Verso" # von Rolanthe
+
+	culture = leutz_vixe
+	religion = unionism
+	297.1.1 = {
+		birth = 297.1.1
+	}
+	397.1.1 = {
+		death = 397.1.1
+	}
+	dynasty = 184
+	mother = 1112
+
+	diplomacy = 5
+	martial = 11
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	add_trait = "creature_ailor"
+	add_trait = "tough_soldier"
+	add_trait = "brave"
+	add_trait = "patient"
+	add_trait = "narrow_flank_leader"
+	disallow_random_traits = yes
+}
+
+1114 = {
+	name = "Vittoria" # von Rolanthe
+	female = yes
+
+	culture = leutz_vixe
+	religion = unionism
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 184
+	mother = 1112
+
+	diplomacy = 5
+	martial = 11
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	add_trait = "creature_ailor"
+	add_trait = "tough_soldier"
+	add_trait = "brave"
+	add_trait = "patient"
+	add_trait = "narrow_flank_leader"
+	disallow_random_traits = yes
+}
+
+1115 = {
+	name = "Anastasia Victoria" # Londerry
+	female = yes
+
+	culture = leutz_vixe
+	religion = unionism
+	283.1.1 = {
+		birth = 283.1.1
+	}
+	383.1.1 = {
+		death = 383.1.1
+	}
+	dynasty = 326
+
+	diplomacy = 8
+	martial = 7
+	stewardship = 6
+	intrigue = 7
+	learning = 7
+	add_trait = "creature_ailor"
+	add_trait = "martial_cleric"
+	add_trait = "erudite"
+	add_trait = "diligent"
+	add_trait = "duelist"
+	add_trait = "shrewd"
+	disallow_random_traits = yes
+}
