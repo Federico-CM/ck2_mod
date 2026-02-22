@@ -551,33 +551,10 @@ e_girobalda = {
             title = duke
             title_female = duke
         }
-        d_pondevega = {
+        d_ferrol = {
             color = { 104 96 71 }
             color2 = { 108 103 87 }
             capital = 891
-            c_corazon = {
-                b_cullo = {
-                    title = baron
-                    title_female = baron
-                
-                }
-                b_tiello = {
-                    title = baron
-                    title_female = baron
-                
-                }
-                b_castrain = {
-                    title = baron
-                    title_female = baron
-                
-                }
-
-                color = { 71 87 61 }
-                color2 = { 81 91 74 }
-                culture = tierravera
-                title = count
-                title_female = count
-            }
             c_ferrol = {
                 b_entoria = {
                     title = baron
@@ -607,6 +584,29 @@ e_girobalda = {
 
                 color = { 115 108 107 }
                 color2 = { 100 96 95 }
+                culture = tierravera
+                title = count
+                title_female = count
+            }
+            c_corazon = {
+                b_cullo = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_tiello = {
+                    title = baron
+                    title_female = baron
+                
+                }
+                b_castrain = {
+                    title = baron
+                    title_female = baron
+                
+                }
+
+                color = { 71 87 61 }
+                color2 = { 81 91 74 }
                 culture = tierravera
                 title = count
                 title_female = count

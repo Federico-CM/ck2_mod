@@ -174,7 +174,7 @@
 }
 
 37 = {
-	name = "Lampero"
+	name = "Lamperni"
 	culture = cantaluna
 }
 
@@ -295,7 +295,7 @@
 }
 
 59 = {
-	name = "di Orazzio"
+	name = "di Orazio"
 	culture = cantaluna
 }
 
@@ -690,7 +690,7 @@
 }
 
 138 = {
-	name = "mac Connall"
+	name = "Mac Conall"
 	culture = caeren
 }
 
@@ -1066,7 +1066,7 @@
 }
 
 212 = {
-	name = "Norrin"
+	name = "Norinn"
 	culture = caeren
 }
 

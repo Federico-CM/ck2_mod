@@ -4394,7 +4394,7 @@
 }
 
 185 = {
-	name = "Jehenna" # Lampero
+	name = "Jehenna" # Lamperni
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -7957,7 +7957,7 @@
 }
 
 349 = {
-	name = "Tristan" # Lampero
+	name = "Tristan" # Lamperni
 	culture = cantaluna
 	religion = unionism
 	272.1.1 = {
@@ -8007,7 +8007,7 @@
 }
 
 351 = {
-	name = "Thadeo" # Lampero
+	name = "Thadeo" # Lamperni
 	culture = cantaluna
 	religion = unionism
 	247.1.1 = {
@@ -8026,7 +8026,7 @@
 }
 
 352 = {
-	name = "Raffaello" # Lampero
+	name = "Raffaello" # Lamperni
 	culture = cantaluna
 	religion = amended
 	288.1.1 = {
@@ -8091,7 +8091,7 @@
 }
 
 355 = {
-	name = "Francesco" # di Orazzio
+	name = "Francesco" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	170.1.1 = {
@@ -8130,7 +8130,7 @@
 }
 
 357 = {
-	name = "Leone" # di Orazzio
+	name = "Leone" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	205.1.1 = {
@@ -8169,7 +8169,7 @@
 }
 
 359 = {
-	name = "Ruggiero" # di Orazzio
+	name = "Ruggiero" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	226.1.1 = {
@@ -8210,7 +8210,7 @@
 }
 
 361 = {
-	name = "Bernardo" # di Orazzio
+	name = "Bernardo" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	246.1.1 = {
@@ -8230,7 +8230,7 @@
 }
 
 362 = {
-	name = "Piero" # di Orazzio
+	name = "Piero" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	248.1.1 = {
@@ -8277,7 +8277,7 @@
 }
 
 364 = {
-	name = "Vincenza" # di Orazzio
+	name = "Vincenza" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -8333,7 +8333,7 @@
 }
 
 366 = {
-	name = "Luigi" # di Orazzio
+	name = "Luigi" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	276.1.1 = {
@@ -8360,7 +8360,7 @@
 }
 
 367 = {
-	name = "Terenzo" # di Orazzio
+	name = "Terenzo" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	282.1.1 = {
@@ -8388,7 +8388,7 @@
 }
 
 368 = {
-	name = "Ana" # di Orazzio
+	name = "Ana" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -8416,7 +8416,7 @@
 }
 
 369 = {
-	name = "Isabella" # di Orazzio
+	name = "Isabella" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -8475,7 +8475,7 @@
 }
 
 371 = {
-	name = "Fiorino" # di Orazzio
+	name = "Fiorino" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	279.1.1 = {
@@ -8503,7 +8503,7 @@
 }
 
 372 = {
-	name = "Pellegrino" # di Orazzio
+	name = "Pellegrino" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	260.1.1 = {
@@ -8530,7 +8530,7 @@
 }
 
 373 = {
-	name = "Isotta" # di Orazzio
+	name = "Isotta" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -8670,7 +8670,7 @@
 }
 
 380 = {
-	name = "Francesco Rauol" # di Orazzio
+	name = "Francesco Rauol" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	289.1.1 = {
@@ -8725,7 +8725,7 @@
 }
 
 384 = {
-	name = "Camilla" # di Orazzio
+	name = "Camilla" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -8752,7 +8752,7 @@
 }
 
 385 = {
-	name = "Siena" # di Orazzio
+	name = "Siena" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	female = yes
@@ -8779,7 +8779,7 @@
 }
 
 386 = {
-	name = "Zappacosta" # di Orazzio
+	name = "Zappacosta" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	236.1.1 = {
@@ -10840,7 +10840,7 @@
 }
 
 468 = {
-	name = "Gherardo" # Lampero
+	name = "Gherardo" # Lamperni
 	culture = cantaluna
 	religion = unionism
 	231.1.1 = {
@@ -10855,7 +10855,7 @@
 }
 
 469 = {
-	name = "Leontio" # Lampero
+	name = "Leontio" # Lamperni
 	culture = cantaluna
 	religion = unionism
 	211.1.1 = {
@@ -17488,7 +17488,7 @@
 }
 
 743 = {
-	name = "Alastair" # mac Connall
+	name = "Alastair" # mac Conall
 	culture = caeren
 	religion = unionism
 	198.1.1 = {
@@ -17525,7 +17525,7 @@
 }
 
 745 = {
-	name = "Brandon" # mac Connall
+	name = "Brandon" # mac Conall
 	culture = caeren
 	religion = unionism
 	220.1.1 = {
@@ -17564,7 +17564,7 @@
 }
 
 747 = {
-	name = "Arden" # mac Connall
+	name = "Arden" # mac Conall
 	culture = caeren
 	religion = unionism
 	242.1.1 = {
@@ -17604,7 +17604,7 @@
 }
 
 749 = {
-	name = "Vilhelm" # mac Connall
+	name = "Vilhelm" # mac Conall
 	culture = caeren
 	religion = unionism
 	244.1.1 = {
@@ -17644,7 +17644,7 @@
 }
 
 751 = {
-	name = "Eddair" # mac Connall
+	name = "Eddair" # mac Conall
 	culture = caeren
 	religion = unionism
 	262.1.1 = {
@@ -17708,7 +17708,7 @@
 }
 
 753 = {
-	name = "Wilmair" # mac Connall
+	name = "Wilmair" # mac Conall
 	culture = caeren
 	religion = unionism
 	264.1.1 = {
@@ -17771,7 +17771,7 @@
 }
 
 755 = {
-	name = "Saraid" # mac Connall
+	name = "Saraid" # mac Conall
 	culture = caeren
 	religion = unionism
 	female = yes
@@ -17834,7 +17834,7 @@
 }
 
 757 = {
-	name = "Patrick" # mac Connall
+	name = "Patrick" # mac Conall
 	culture = caeren
 	religion = unionism
 	268.1.1 = {
@@ -17862,7 +17862,7 @@
 }
 
 758 = {
-	name = "Ian" # mac Connall
+	name = "Ian" # mac Conall
 	culture = caeren
 	religion = unionism
 	266.1.1 = {
@@ -17888,7 +17888,7 @@
 }
 
 759 = {
-	name = "Cathal" # mac Connall
+	name = "Cathal" # mac Conall
 	culture = caeren
 	religion = unionism
 	268.1.1 = {
@@ -17915,7 +17915,7 @@
 }
 
 760 = {
-	name = "Rosalin" # mac Connall
+	name = "Rosalin" # mac Conall
 	culture = caeren
 	religion = unionism
 	female = yes
@@ -17944,7 +17944,7 @@
 }
 
 761 = {
-	name = "Alastair" # mac Connall
+	name = "Alastair" # mac Conall
 	culture = caeren
 	religion = unionism
 	289.1.1 = {
@@ -17973,7 +17973,7 @@
 }
 
 762 = {
-	name = "Calidh" # mac Connall
+	name = "Calidh" # mac Conall
 	culture = caeren
 	religion = unionism
 	291.1.1 = {
@@ -18000,7 +18000,7 @@
 }
 
 763 = {
-	name = "Arnhelm" # mac Connall
+	name = "Arnhelm" # mac Conall
 	culture = caeren
 	religion = unionism
 	293.1.1 = {
@@ -18027,7 +18027,7 @@
 }
 
 764 = {
-	name = "Greer" # mac Connall
+	name = "Greer" # mac Conall
 	culture = caeren
 	religion = unionism
 	female = yes
@@ -18056,7 +18056,7 @@
 }
 
 765 = {
-	name = "Fiona" # mac Connall
+	name = "Fiona" # mac Conall
 	culture = caeren
 	religion = unionism
 	female = yes
@@ -18084,7 +18084,7 @@
 }
 
 766 = {
-	name = "Natharia" # mac Connall
+	name = "Natharia" # mac Conall
 	culture = caeren
 	religion = unionism
 	female = yes
@@ -18113,7 +18113,7 @@
 }
 
 767 = {
-	name = "Finnidh" # mac Connall
+	name = "Finnidh" # mac Conall
 	culture = caeren
 	religion = unionism
 	293.1.1 = {
@@ -18169,7 +18169,7 @@
 }
 
 769 = {
-	name = "Robard" # mac Connall
+	name = "Robard" # mac Conall
 	culture = caeren
 	religion = unionism
 	299.1.1 = {
@@ -18194,7 +18194,7 @@
 }
 
 770 = {
-	name = "Meridath" # mac Connall
+	name = "Meridath" # mac Conall
 	culture = caeren
 	religion = unionism
 	female = yes
@@ -18643,18 +18643,7 @@
 	}
 	dynasty = 143
 
-	diplomacy = 5
-	martial = 7
-	stewardship = 5
-	intrigue = 9
-	learning = 7
 	add_trait = "creature_ailor"
-	add_trait = "charismatic_negotiator"
-	add_trait = "poet"
-	add_trait = "genius"
-	add_trait = "chaste"
-	add_trait = "envious"
-	disallow_random_traits = yes
 }
 
 788 = {
@@ -22010,7 +21999,7 @@
 }
 
 925 = {
-	name = "Lamont" # Norrin
+	name = "Lamont" # Norinn
 	culture = caeren
 	religion = fornoss
 	287.1.1 = {
@@ -24029,7 +24018,7 @@
 }
 
 1028 = {
-	name = "Jovanka" # di Orazzio
+	name = "Jovanka" # di Orazio
 	culture = cantaluna
 	religion = unionism
 	female = yes
