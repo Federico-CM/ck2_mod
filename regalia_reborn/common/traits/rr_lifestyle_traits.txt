@@ -1,1 +1,95 @@
- 
+paladin = {
+	opposites = {
+		mage
+		craftsman
+		administrator
+		architect
+		duelist
+		gamer
+		gardener
+		hedonist
+		hunter
+		impaler
+		schemer
+		seducer
+		seductress
+		mystic
+		scholar
+		socializer
+		strategist
+		theologian
+	}
+
+	martial = 2
+	learning = 1
+
+	same_opinion = 10
+	personal_combat_skill = 10
+	ai_honor = 15
+
+	ruler_designer_cost = 10
+	customizer = no
+}
+
+mage = {
+	opposites = {
+		paladin
+		craftsman
+		administrator
+		architect
+		duelist
+		gamer
+		gardener
+		hedonist
+		hunter
+		impaler
+		schemer
+		seducer
+		seductress
+		mystic
+		scholar
+		socializer
+		strategist
+		theologian
+	}
+
+	intrigue = 2
+	learning = 1
+
+	same_opinion = 10
+	plot_power_modifier = 0.10
+
+	ruler_designer_cost = 10
+	customizer = no
+}
+
+craftsman = {
+	opposites = {
+		paladin
+		mage
+		administrator
+		architect
+		duelist
+		gamer
+		gardener
+		hedonist
+		hunter
+		impaler
+		schemer
+		seducer
+		seductress
+		mystic
+		scholar
+		socializer
+		strategist
+		theologian
+	}
+
+	stewardship = 2
+	diplomacy = 1
+
+	ai_greed = 10
+
+	ruler_designer_cost = 10
+	customizer = no
+} 
