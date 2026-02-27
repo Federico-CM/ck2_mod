@@ -1102,7 +1102,7 @@
 
 219 = {
 	name = "Starweave"
-	culture = kathar
+	culture = ruinborn
 }
 
 220 = {
@@ -1332,7 +1332,7 @@
 
 265 = {
 	name = "Starfall"
-	culture = kathar
+	culture = ruinborn
 }
 
 266 = {

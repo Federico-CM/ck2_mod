@@ -1,6 +1,6 @@
 title = c_sciermanna
 max_settlements = 5
-culture = kathar
+culture = ruinborn
 religion = evolism
 
 b_zrendryl = castle

@@ -1,6 +1,6 @@
 title = c_anchal_mars
 max_settlements = 5
-culture = kathar
+culture = ruinborn
 religion = evolism
 
 b_moronn = castle

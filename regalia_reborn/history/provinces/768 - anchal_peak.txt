@@ -1,6 +1,6 @@
 title = c_anchal_peak
 max_settlements = 3
-culture = kathar
+culture = ruinborn
 religion = evolism
 
 b_krondryl = castle

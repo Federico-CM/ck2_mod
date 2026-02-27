@@ -20,8 +20,8 @@ creature_dragonkin;Dragonkin;;;;;;;;;;;;;x
 creature_dragonkin_desc;This character is a Dragonkin, a half dragon inheritor shaped by ancient blood and desert legacy.;;;;;;;;;;;;;x
 creature_sihai;Sihai;;;;;;;;;;;;;x
 creature_sihai_desc;This character is a Sihai, a sworn protector of the world rising from the depths of the Jade Sea.;;;;;;;;;;;;;x
-creature_kathar;Kathar;;;;;;;;;;;;;x
-creature_kathar_desc;This character is a Kathar elf, bound to secret cults and guided by the murmured promises of Dark Gods.;;;;;;;;;;;;;x
+creature_ruinborn;Ruinborn;;;;;;;;;;;;;x
+creature_ruinborn_desc;This character is a Ruinborn, a magic-warped elf born marked by unnatural skin tones and adaptive physiology.;;;;;;;;;;;;;x
 creature_urlan;Urlan;;;;;;;;;;;;;x
 creature_urlan_desc;This character is a Urlan, a minotaur folk hunter known for quiet strength and gentle wisdom.;;;;;;;;;;;;;x
 creature_dwarf;Dwarf;;;;;;;;;;;;;x

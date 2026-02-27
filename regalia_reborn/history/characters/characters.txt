@@ -22210,7 +22210,7 @@
 
 933 = {
 	name = "Calenor" # Starweave
-	culture = kathar
+	culture = ruinborn
 	religion = evolism
 	240.1.1 = {
 		birth = 240.1.1
@@ -22225,7 +22225,7 @@
 	stewardship = 15
 	intrigue = 28
 	learning = 13
-	add_trait = "creature_kathar"
+	add_trait = "creature_ruinborn"
 	add_trait = "intricate_webweaver"
 	add_trait = "ambitious"
 	add_trait = "falconer"
@@ -22966,7 +22966,7 @@
 
 979 = {
 	name = "Vaelis" # Starfall
-	culture = kathar
+	culture = ruinborn
 	religion = evolism
 	241.1.1 = {
 		birth = 241.1.1
@@ -22976,7 +22976,7 @@
 	}
 	dynasty = 265
 
-	add_trait = "creature_kathar"
+	add_trait = "creature_ruinborn"
 }
 
 980 = {

@@ -1,6 +1,6 @@
 title = c_paravennaar
 max_settlements = 4
-culture = kathar
+culture = ruinborn
 religion = evolism
 
 b_calzonn = castle

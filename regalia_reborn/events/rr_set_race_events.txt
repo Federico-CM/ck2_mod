@@ -18,9 +18,8 @@ character_event = {
             trait = creature_teled
             trait = creature_selvath
             trait = creature_yanar
-            trait = creature_kathar
+            trait = creature_ruinborn
             trait = creature_isldar
-            trait = creature_sihndar
             trait = creature_eronidas
             trait = creature_maraya
             trait = creature_narim
@@ -76,16 +75,12 @@ character_event = {
             add_trait = creature_yanar
         }
         else_if = {
-            limit = { culture = kathar }
-            add_trait = creature_kathar
+            limit = { culture = ruinborn }
+            add_trait = creature_ruinborn
         }
         else_if = {
             limit = { culture = isldar }
             add_trait = creature_isldar
-        }
-        else_if = {
-            limit = { culture = sihndar }
-            add_trait = creature_sihndar
         }
         else_if = {
             limit = { culture = eronidas }

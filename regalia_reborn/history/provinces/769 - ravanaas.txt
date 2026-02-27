@@ -1,6 +1,6 @@
 title = c_ravanaas
 max_settlements = 4
-culture = kathar
+culture = ruinborn
 religion = evolism
 
 b_rannokh = castle

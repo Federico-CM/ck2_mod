@@ -1,6 +1,6 @@
 title = c_meiasn_moor
 max_settlements = 3
-culture = kathar
+culture = ruinborn
 religion = evolism
 
 b_kalonn = castle

@@ -1,960 +1,960 @@
 6414=
 {
 	name="Mourdiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6415=
 {
 	name="Lozhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6416=
 {
 	name="Anvaliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6417=
 {
 	name="Kethriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6418=
 {
 	name="Zannarriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6419=
 {
 	name="Velyssiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6420=
 {
 	name="Rokhvaliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6421=
 {
 	name="Calghariirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6422=
 {
 	name="Relnoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6423=
 {
 	name="Izzdariirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6424=
 {
 	name="Dinokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6425=
 {
 	name="Lesronniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6426=
 {
 	name="Kronnastiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6427=
 {
 	name="Menzotiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6428=
 {
 	name="Sabvaliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6429=
 {
 	name="Ryldiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6430=
 {
 	name="Renlociirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6431=
 {
 	name="Tathnoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6432=
 {
 	name="Nevarriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6433=
 {
 	name="Chadryliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6434=
 {
 	name="Nathaeiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6435=
 {
 	name="Ildaniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6436=
 {
 	name="Zarkhoniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6437=
 {
 	name="Valdriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6438=
 {
 	name="Korvaniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6439=
 {
 	name="Renzakhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6440=
 {
 	name="Makthoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6441=
 {
 	name="Vaznoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6442=
 {
 	name="Krelvaniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6443=
 {
 	name="Zotharriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6444=
 {
 	name="Morvakhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6445=
 {
 	name="Carnokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6446=
 {
 	name="Rathvaliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6447=
 {
 	name="Kelzoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6448=
 {
 	name="Vornakhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6449=
 {
 	name="Nazkoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6450=
 {
 	name="Renvakhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6451=
 {
 	name="Malghoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6452=
 {
 	name="Zekthaniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6453=
 {
 	name="Korzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6454=
 {
 	name="Vathrokiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6455=
 {
 	name="Renzhaliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6456=
 {
 	name="Karnathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6457=
 {
 	name="Molzaniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6458=
 {
 	name="Zarnokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6459=
 {
 	name="Velkoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6460=
 {
 	name="Rokthaniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6461=
 {
 	name="Narvelliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6462=
 {
 	name="Keznathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6463=
 {
 	name="Valzokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6464=
 {
 	name="Ranthoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6465=
 {
 	name="Morzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6466=
 {
 	name="Zalvathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6467=
 {
 	name="Kornokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6468=
 {
 	name="Veznariirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6469=
 {
 	name="Rathzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6470=
 {
 	name="Malvokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6471=
 {
 	name="Zornathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6472=
 {
 	name="Kethzoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6473=
 {
 	name="Varnokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6474=
 {
 	name="Renvaldiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6475=
 {
 	name="Molthaniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6476=
 {
 	name="Zekvoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6477=
 {
 	name="Karnakhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6478=
 {
 	name="Vathzoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6479=
 {
 	name="Renzokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6480=
 {
 	name="Malnathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6481=
 {
 	name="Zarvelliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6482=
 {
 	name="Korzenakhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6483=
 {
 	name="Velthoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6484=
 {
 	name="Rathnoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6485=
 {
 	name="Malkoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6486=
 {
 	name="Zennakhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6487=
 {
 	name="Kornathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6488=
 {
 	name="Vazrokiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6489=
 {
 	name="Renzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6490=
 {
 	name="Molvathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6491=
 {
 	name="Zarkoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6492=
 {
 	name="Kethnariirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6493=
 {
 	name="Valnokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6494=
 {
 	name="Ranthzeniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6495=
 {
 	name="Morvelliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6496=
 {
 	name="Zalnathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6497=
 {
 	name="Korzokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6498=
 {
 	name="Velzoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6499=
 {
 	name="Roknathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6500=
 {
 	name="Narvokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6501=
 {
 	name="Kezrokiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6502=
 {
 	name="Valzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6503=
 {
 	name="Rathvathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6504=
 {
 	name="Molzoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6505=
 {
 	name="Zornakhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6506=
 {
 	name="Kethvelliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6507=
 {
 	name="Varnathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6508=
 {
 	name="Renrokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6509=
 {
 	name="Malzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6510=
 {
 	name="Zarvathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6511=
 {
 	name="Kornoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6512=
 {
 	name="Velnathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6513=
 {
 	name="Ranthokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6514=
 {
 	name="Morzenathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6515=
 {
 	name="Zalrokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6516=
 {
 	name="Korzennoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6517=
 {
 	name="Vathnathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6518=
 {
 	name="Renzvelliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6519=
 {
 	name="Molrokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6520=
 {
 	name="Zarknathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6521=
 {
 	name="Kethzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6522=
 {
 	name="Valvathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6523=
 {
 	name="Ranthoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6524=
 {
 	name="Morrokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6525=
 {
 	name="Zalzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6526=
 {
 	name="Kornvathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6527=
 {
 	name="Velrokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6528=
 {
 	name="Rokzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6529=
 {
 	name="Narvathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6530=
 {
 	name="Keznoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6531=
 {
 	name="Valrokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6532=
 {
 	name="Rathzenathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6533=
 {
 	name="Molvelliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6534=
 {
 	name="Zornoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6535=
 {
 	name="Kethrokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6536=
 {
 	name="Varnzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6537=
 {
 	name="Renvalathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6538=
 {
 	name="Malrokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6539=
 {
 	name="Zarzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6540=
 {
 	name="Kornathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6541=
 {
 	name="Velvathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6542=
 {
 	name="Ranthzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6543=
 {
 	name="Morvokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6544=
 {
 	name="Zalnoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6545=
 {
 	name="Korzvathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6546=
 {
 	name="Vathrokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6547=
 {
 	name="Renzzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6548=
 {
 	name="Molnathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6549=
 {
 	name="Zarkvelliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6550=
 {
 	name="Kethrokathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6551=
 {
 	name="Valzenoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6552=
 {
 	name="Ranthvokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6553=
 {
 	name="Morzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6554=
 {
 	name="Zalvelliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6555=
 {
 	name="Kornrokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6556=
 {
 	name="Velzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6557=
 {
 	name="Rokvathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6558=
 {
 	name="Narrokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6559=
 {
 	name="Kezzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6560=
 {
 	name="Valnoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6561=
 {
 	name="Rathvokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6562=
 {
 	name="Molzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6563=
 {
 	name="Zornvelliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6564=
 {
 	name="Kethnathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6565=
 {
 	name="Varnrokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6566=
 {
 	name="Renzenoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6567=
 {
 	name="Malvathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6568=
 {
 	name="Zarrokhiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6569=
 {
 	name="Kornzenniirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6570=
 {
 	name="Velnoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6571=
 {
 	name="Ranthvelliirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6572=
 {
 	name="Morrokathiirn"
-	culture=kathar
+	culture=ruinborn
 }
 
 6573=
 {
 	name="Zalzenoriirn"
-	culture=kathar
+	culture=ruinborn
 }
 

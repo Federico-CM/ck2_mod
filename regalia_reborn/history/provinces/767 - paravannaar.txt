@@ -1,6 +1,6 @@
 title = c_paravannaar
 max_settlements = 5
-culture = kathar
+culture = ruinborn
 religion = evolism
 
 b_kahnor = castle

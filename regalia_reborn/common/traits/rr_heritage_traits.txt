@@ -8,8 +8,7 @@ creature_ailor = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -37,8 +36,7 @@ creature_skyborn = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -66,8 +64,7 @@ creature_teled = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -95,8 +92,7 @@ creature_sihai = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -124,8 +120,7 @@ creature_dwarf = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -153,8 +148,7 @@ creature_dragonkin = {
 		creature_dwarf
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -182,8 +176,7 @@ creature_isldar = {
 		creature_dwarf
 		creature_dragonkin
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -211,8 +204,7 @@ creature_suvial = {
 		creature_dwarf
 		creature_dragonkin
 		creature_isldar
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -230,7 +222,7 @@ creature_suvial = {
 	customizer = no
 }
 
-creature_kathar = {
+creature_ruinborn = {
 	enatic = yes # Always inherited from mothers
 	opposites = {
 		creature_ailor
@@ -241,7 +233,6 @@ creature_kathar = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_sihndar
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -270,7 +261,7 @@ creature_sihndar = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -299,8 +290,7 @@ creature_selvath = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_yanar
 		creature_asha
 		creature_narim
@@ -328,8 +318,7 @@ creature_yanar = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_asha
 		creature_narim
@@ -357,8 +346,7 @@ creature_asha = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_narim
@@ -386,8 +374,7 @@ creature_narim = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -415,8 +402,7 @@ creature_eronidas = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -444,8 +430,7 @@ creature_urlan = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -473,8 +458,7 @@ creature_allar = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -502,8 +486,7 @@ creature_slizzar = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -531,8 +514,7 @@ creature_maraya = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha
@@ -560,8 +542,7 @@ creature_bralona = {
 		creature_dragonkin
 		creature_isldar
 		creature_suvial
-		creature_kathar
-		creature_sihndar
+		creature_ruinborn
 		creature_selvath
 		creature_yanar
 		creature_asha

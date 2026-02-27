@@ -1,6 +1,6 @@
 title = c_arranca
 max_settlements = 4
-culture = kathar
+culture = ruinborn
 religion = evolism
 
 b_zarnor = castle
