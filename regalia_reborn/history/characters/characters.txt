@@ -26134,7 +26134,7 @@
 }
 
 1122 = {
-	name = "Zasat" # Monterrosa, son of amon
+	name = "Zasat"
 
 	culture = asha
 	religion = khama
@@ -26154,7 +26154,7 @@
 }
 
 1123 = {
-	name = "Mauneb" # Monterrosa, son of Hejekth
+	name = "Mauneb"
 
 	culture = asha
 	religion = khama
@@ -26174,7 +26174,7 @@
 }
 
 1124 = {
-	name = "Isef" # Monterrosa son of Mauneb
+	name = "Isef"
 
 	culture = asha
 	religion = khama
@@ -26191,7 +26191,7 @@
 }
 
 1125 = {
-	name = "Gustavo" # Monterrosa son of Mauneb
+	name = "Gustavo"
 
 	culture = asha
 	religion = khama
@@ -26208,7 +26208,7 @@
 }
 
 1126 = {
-	name = "Sekhet" # Monterrosa son of Isef
+	name = "Sekhet"
 
 	culture = asha
 	religion = khama
