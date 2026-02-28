@@ -1,4 +1,4 @@
-paladin = {
+knight = {
 	opposites = {
 		mage
 		craftsman
@@ -33,7 +33,7 @@ paladin = {
 
 mage = {
 	opposites = {
-		paladin
+		knight
 		craftsman
 		administrator
 		architect
@@ -65,7 +65,7 @@ mage = {
 
 craftsman = {
 	opposites = {
-		paladin
+		knight
 		mage
 		administrator
 		architect

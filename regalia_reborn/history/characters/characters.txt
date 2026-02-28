@@ -21535,18 +21535,19 @@
 		death = 370.1.1
 	}
 	dynasty = 194
+	father = 1126
+	mother = 1127
 
-	diplomacy = 7
-	martial = 13
-	stewardship = 6
-	intrigue = 6
-	learning = 6
+	diplomacy = 5
+	martial = 6
+	stewardship = 5
+	intrigue = 5
+	learning = 5
 	add_trait = "creature_asha"
-	add_trait = "tough_soldier"
-	add_trait = "brave"
-	add_trait = "strong"
-	add_trait = "slow"
-	add_trait = "proud"
+	add_trait = "brilliant_strategist"
+	add_trait = "knight"
+	add_trait = "patient"
+	add_trait = "just"
 	disallow_random_traits = yes
 }
 
@@ -26022,3 +26023,314 @@
 	add_trait = "shrewd"
 	disallow_random_traits = yes
 }
+
+1116 = {
+	name = "Sarkhan" # Monterrosa
+
+	culture = asha
+	religion = khama
+	83.1.1 = {
+		birth = 83.1.1
+	}
+	154.1.1 = {
+		death = 154.1.1
+	}
+	dynasty = 327
+
+	add_trait = "creature_asha"
+	add_trait = "pirate"
+}
+
+1117 = {
+	name = "Sethi" # Manhetnor
+	female = yes
+
+	culture = asha
+	religion = khama
+	83.1.1 = {
+		birth = 101.1.1
+	}
+	174.1.1 = {
+		death = 174.1.1
+	}
+
+	add_trait = "creature_asha"
+}
+
+1118 = {
+	name = "Mausa" # Monterrosa
+
+	culture = asha
+	religion = khama
+	121.1.1 = {
+		birth = 121.1.1
+	}
+	174.1.1 = {
+		death = 174.1.1
+	}
+	father = 1116
+	mother = 1117
+	dynasty = 327
+
+	add_trait = "creature_asha"
+}
+
+1119 = {
+	name = "Amon" # Monterrosa
+
+	culture = asha
+	religion = khama
+	123.1.1 = {
+		birth = 123.1.1
+	}
+	177.1.1 = {
+		death = 177.1.1
+	}
+	father = 1116
+	mother = 1117
+	dynasty = 327
+
+	add_trait = "creature_asha"
+}
+
+
+1120 = {
+	name = "Meriza" # Monterrosa
+	female = yes
+
+	culture = asha
+	religion = khama
+	125.1.1 = {
+		birth = 125.1.1
+	}
+	186.1.1 = {
+		death = 186.1.1
+	}
+	father = 1116
+	mother = 1117
+	dynasty = 327
+
+	add_trait = "creature_asha"
+    add_trait = "deceitful"
+
+}
+
+1121 = {
+	name = "Hejekth" # Monterrosa
+
+	culture = asha
+	religion = khama
+	126.1.1 = {
+		birth = 126.1.1
+	}
+	182.1.1 = {
+		death = 182.1.1
+	}
+	father = 1116
+	mother = 1117
+	dynasty = 327
+
+	add_trait = "creature_asha"
+}
+
+1122 = {
+	name = "Zasat" # Monterrosa, son of amon
+
+	culture = asha
+	religion = khama
+	162.1.1 = {
+		birth = 162.1.1
+	}
+	225.1.1 = {
+		death = 225.1.1
+	}
+	father = 1119
+	dynasty = 327
+
+	add_trait = "creature_asha"
+}
+
+	add_trait = "creature_asha"
+}
+
+1123 = {
+	name = "Mauneb" # Monterrosa, son of Hejekth
+
+	culture = asha
+	religion = khama
+	162.1.1 = {
+		birth = 162.1.1
+	}
+	225.1.1 = {
+		death = 235.1.1
+	}
+	father = 1121
+	dynasty = 327
+
+	add_trait = "creature_asha"
+}
+
+	add_trait = "creature_asha"
+}
+
+1124 = {
+	name = "Isef" # Monterrosa son of Mauneb
+
+	culture = asha
+	religion = khama
+	187.1.1 = {
+		birth = 187.1.1
+	}
+	266.1.1 = {
+		death = 266.1.1
+	}
+	father = 1123
+	dynasty = 327
+
+	add_trait = "creature_asha"
+}
+
+1125 = {
+	name = "Gustavo" # Monterrosa son of Mauneb
+
+	culture = asha
+	religion = khama
+	190.1.1 = {
+		birth = 190.1.1
+	}
+	225.1.1 = {
+		death = 271.1.1
+	}
+	father = 1123
+	dynasty = 327
+
+	add_trait = "creature_asha"
+}
+
+1126 = {
+	name = "Sekhet" # Monterrosa son of Isef
+
+	culture = asha
+	religion = khama
+	250.1.1 = {
+		birth = 250.1.1
+	}
+	314.1.1 = {
+		death = 314.1.1
+	}
+	father = 1124
+	dynasty = 194
+
+	add_trait = "creature_asha"
+}
+
+1127 = {
+	name = "Nefertath" # Krazzla
+	female = yes
+
+	culture = asha
+	religion = khama
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
+
+	add_trait = "creature_asha"
+}
+
+1128 = {
+	name = "Sahu-Shai" # Monterrosa
+	female = yes
+
+	culture = asha
+	religion = khama
+	297.1.1 = {
+		birth = 297.1.1
+	}
+	397.1.1 = {
+		death = 397.1.1
+	}
+	father = 1126
+	mother = 1127
+	dynasty = 194
+
+	diplomacy = 6
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	add_trait = "creature_asha"
+	add_trait = "mage"
+	add_trait = "grey_eminence"
+	add_trait = "administrator"
+	add_trait = "patient"
+	disallow_random_traits = yes
+}
+
+1129 = {
+	name = "Sat-Kha" # Monterrosa
+	female = yes
+
+	culture = asha
+	religion = khama
+	265.1.1 = {
+		birth = 265.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	father = 1124
+	dynasty = 327
+
+	diplomacy = 6
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	add_trait = "creature_asha"
+	add_trait = "mastermind_theologian"
+	add_trait = "physician"
+	add_trait = "charitable"
+	add_trait = "patient"
+	disallow_random_traits = yes
+}
+
+1130 = {
+	name = "Akhetmes" # Monterrosa
+
+	culture = asha
+	religion = khama
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	397.1.1 = {
+		death = 397.1.1
+	}
+	father = 1126
+	mother = 1127
+	dynasty = 194
+
+	diplomacy = 5
+	martial = 8
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	add_trait = "creature_asha"
+	add_trait = "brilliant_strategist"
+	add_trait = "knight"
+	add_trait = "brave"
+	disallow_random_traits = yes
+
+}
+
+
+
+
+
+
+
+
+
+
