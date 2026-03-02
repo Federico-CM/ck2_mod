@@ -25903,8 +25903,9 @@
 
 1111 = {
 	name = "Ciel" # zu Ferrol
+	female = yes
 
-	culture = leutz_vixe
+	culture = wirtem
 	religion = unionism
 	288.1.1 = {
 		birth = 288.1.1
@@ -25913,14 +25914,16 @@
 		death = 388.1.1
 	}
 	dynasty = 325
+	father = 1148
 
-	diplomacy = 5
-	martial = 7
-	stewardship = 5
+	diplomacy = 4
+	martial = 5
+	stewardship = 4
 	intrigue = 5
-	learning = 5
+	learning = 4
 	add_trait = "creature_ailor"
-	add_trait = "skilled_tactician"
+	add_trait = "Tough Soldier"
+	add_trait = "knight"
 	add_trait = "zealous"
 	add_trait = "holy_warrior"
 	disallow_random_traits = yes
@@ -26578,6 +26581,74 @@
 
 	add_trait = "creature_ailor"
 	add_trait = "adopted"
+}
+
+1146 = {
+	name = "Siegrend" # zu Ferrol
+	culture = wirtem
+	religion = unionism
+
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
+	dynasty = 325
+	father = 1148
+
+	diplomacy = 9
+	martial = 10
+	stewardship = 11
+	intrigue = 10
+	learning = 9
+	add_trait = "creature_ailor"
+	add_trait = "underhanded_rogue"
+	add_trait = "diligent"
+	disallow_random_traits = yes
+}
+
+1147 = {
+	name = "Marcelus" # zu Ferrol
+	culture = wirtem
+	religion = unionism
+
+	294.1.1 = {
+		birth = 294.1.1
+	}
+	394.1.1 = {
+		death = 394.1.1
+	}
+	dynasty = 325
+	father = 1148
+
+	diplomacy = 9
+	martial = 14
+	stewardship = 11
+	intrigue = 10
+	learning = 9
+	add_trait = "creature_ailor"
+	add_trait = "flanker"
+	add_trait = "though_soldier"
+	add_trait = "temperate"
+	disallow_random_traits = yes
+}
+
+1148 = {
+	name = "Volker" # zu Ferrol
+	culture = wirtem
+	religion = unionism
+
+	254.1.1 = {
+		birth = 294.1.1
+	}
+	311.1.1 = {
+		death = 311.1.1
+	}
+	dynasty = 325
+
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
 }
 
 
