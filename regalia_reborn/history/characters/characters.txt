@@ -25576,6 +25576,7 @@
 		death = 395.1.1
 	}
 	dynasty = 324
+	father = 1136
 
 	diplomacy = 7
 	martial = 5
@@ -26411,6 +26412,172 @@
 	add_trait = "creature_selvath"
 }
 
+1134 = {
+	name = "Agustin" # Salas
+	culture = tierravera
+	religion = unionism
 
+	170.1.1 = { birth = 170.1.1 }
+	246.1.1 = { death = 246.1.1 }
+	dynasty = 324
+
+	add_trait = "creature_ailor"
+}
+
+1135 = {
+	name = "Luis" # Salas
+	culture = tierravera
+	religion = unionism
+
+	200.1.1 = { birth = 200.1.1 }
+	279.1.1 = { death = 279.1.1 }
+	dynasty = 324
+	father = 1134
+
+	add_trait = "creature_ailor"
+
+}
+
+1136 = {
+	name = "Jaime Hernandez" # Salas
+	culture = tierravera
+	religion = unionism
+	dynasty = 324
+
+	256.1.1 = { birth = 256.1.1 }
+	father = 1135
+
+	add_trait = "creature_ailor"
+}
+
+1137 = {
+	name = "Marisol Jovita Maria" # Calles
+	culture = tierravera
+	religion = unionism
+	female = yes
+
+	260.1.1 = { birth = 260.1.1 }
+
+	add_trait = "creature_ailor"
+}
+
+1139 = {
+	name = "Balia Nova Estradas" # Salas
+	culture = tierravera
+	religion = unionism
+	female = yes
+
+	290.1.1 = { birth = 290.1.1 }
+
+	dynasty = 324
+	father = 1136
+	mother = 1137
+
+	diplomacy = 5
+	martial = 5
+	stewardship = 7
+	intrigue = 6
+	learning = 9
+	add_trait = "creature_ailor"
+	add_trait = "flamboyant_schemer"
+	add_trait = "theologian"
+	add_trait = "just"
+	add_trait = "honest"
+	add_trait = "chaste"
+	add_trait = "charitable"
+	disallow_random_traits = yes
+}
+
+1140 = {
+	name = "Isabela" # Salas
+	culture = tierravera
+
+	291.1.1 = { birth = 291.1.1 }
+	religion = unionism
+	female = yes
+	dynasty = 324
+	father = 1136
+	mother = 1137
+
+	add_trait = "creature_ailor"
+}
+
+1141 = {
+	name = "Catalina" # Salas
+	culture = tierravera
+	religion = unionism
+	female = yes
+
+	292.1.1 = { birth = 292.1.1 }
+	dynasty = 324
+	father = 1136
+	mother = 1137
+
+	add_trait = "creature_ailor"
+}
+
+1142 = {
+	name = "Teresa" # Salas
+	culture = tierravera
+	religion = unionism
+	female = yes
+
+	293.1.1 = { birth = 293.1.1 }
+	dynasty = 324
+	father = 1136
+	mother = 1137
+
+	diplomacy = 5
+	martial = 4
+	stewardship = 6
+	intrigue = 7
+	learning = 8
+	add_trait = "creature_ailor"
+	add_trait = "mastermind_theologian"
+	add_trait = "kind"
+	add_trait = "honest"
+	add_trait = "scholar"
+	disallow_random_traits = yes
+}
+
+1143 = {
+	name = "Felipe" # Salas (adopted)
+	culture = tierravera
+	religion = unionism
+	dynasty = 324
+
+	312.1.1 = { birth = 312.1.1 }
+	mother = 1099
+
+	add_trait = "creature_ailor"
+	add_trait = "adopted"
+}
+
+1144 = {
+	name = "Francisco" # Salas (adopted)
+	culture = tierravera
+	religion = unionism
+
+	312.1.2 = { birth = 312.1.2 }
+	dynasty = 324
+	mother = 1099
+
+	add_trait = "creature_ailor"
+	add_trait = "adopted"
+}
+
+1145 = {
+	name = "Jovita" # Salas (adopted)
+	culture = tierravera
+	religion = unionism
+	female = yes
+
+	312.1.3 = { birth = 312.1.3 }
+	dynasty = 324
+	mother = 1099
+
+	add_trait = "creature_ailor"
+	add_trait = "adopted"
+}
 
 
