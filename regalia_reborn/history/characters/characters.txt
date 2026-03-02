@@ -21191,16 +21191,18 @@
 		death = 386.1.1
 	}
 	dynasty = 181
+	father = 1131
 
-	diplomacy = 5
-	martial = 6
-	stewardship = 6
-	intrigue = 6
-	learning = 9
+	diplomacy = 7
+	martial = 5
+	stewardship = 10
+	intrigue = 10
+	learning = 15
 	add_trait = "creature_selvath"
-	add_trait = "brilliant_strategist"
-	add_trait = "flanker"
-	add_trait = "impaler"
+	add_trait = "naive_appeaser"
+	add_trait = "physician"
+	add_trait = "deceitful"
+	add_trait = "ambitious"
 	add_trait = "shrewd"
 	disallow_random_traits = yes
 }
@@ -26325,11 +26327,89 @@
 
 }
 
+1130 = {
+	name = "Alynna" # Mecatl
+	female = yes
 
+	culture = selvath
+	religion = estelley
+	293.1.1 = {
+		birth = 293.1.1
+	}
+	393.1.1 = {
+		death = 393.1.1
+	}
 
+	dynasty = 181
+	mother = 1133
 
+	diplomacy = 9
+	martial = 5
+	stewardship = 8
+	intrigue = 5
+	learning = 14
+	add_trait = "creature_selvath"
+	add_trait = "scholarly_theologian"
+	add_trait = "scholar"
+	add_trait = "kind"
+	add_trait = "charitable"
+	add_trait = "shy"
+	disallow_random_traits = yes
 
+}
 
+1131 = {
+	name = "Nezahual" # Mecatl
+
+	culture = selvath
+	religion = estelley
+	261.1.1 = {
+		birth = 261.1.1
+	}
+	289.1.1 = {
+		death = 289.1.1
+	}
+	dynasty = 181
+	father = 1132
+
+	add_trait = "creature_selvath"
+}
+
+1132 = {
+	name = "Auilztli" # Mecatl
+
+	culture = selvath
+	religion = estelley
+	238.1.1 = {
+		birth = 238.1.1
+	}
+	311.1.1 = {
+		death = 311.1.1
+	}
+
+	dynasty = 181
+
+	add_trait = "creature_selvath"
+}
+
+1133 = {
+	name = "Galira" # Mecatl
+	female = yes
+
+	culture = selvath
+	religion = estelley
+	277.1.1 = {
+		birth = 277.1.1
+	}
+	310.1.1 = {
+		death = 310.1.1
+	}
+
+	dynasty = 181
+	father = 1131
+
+	add_trait = "creature_selvath"
+}
 
 
 

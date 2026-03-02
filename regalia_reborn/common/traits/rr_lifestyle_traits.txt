@@ -24,8 +24,8 @@ knight = {
 	learning = 1
 
 	same_opinion = 10
-	personal_combat_skill = 10
-	ai_honor = 15
+	combat_rating = 10
+	ai_honor = 10
 
 	ruler_designer_cost = 10
 	customizer = no

@@ -1,0 +1,8 @@
+adopted = {
+	opposites = {
+	}
+
+	diplomacy = -1
+
+	customizer = no
+} 
