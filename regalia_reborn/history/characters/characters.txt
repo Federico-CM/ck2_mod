@@ -8044,6 +8044,7 @@
 	intrigue = 9
 	learning = 7
 	add_trait = "creature_ailor"
+	add_trait = "half_eronidas"
 	add_trait = "fortune_builder"
 	add_trait = "paranoid"
 	add_trait = "temperate"

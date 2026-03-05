@@ -558,3 +558,536 @@ creature_bralona = {
 	ruler_designer_cost = 0
 	customizer = no
 }
+
+
+half_ailor = {
+	opposites = {
+		creature_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_allar = {
+	opposites = {
+		creature_allar
+		half_ailor
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_asha = {
+	opposites = {
+		creature_asha
+		half_ailor
+		half_allar
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_bralona = {
+	opposites = {
+		creature_bralona
+		half_ailor
+		half_allar
+		half_asha
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_dragonkin = {
+	opposites = {
+		creature_dragonkin
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_dwarf = {
+	opposites = {
+		creature_dwarf
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_eronidas = {
+	opposites = {
+		creature_eronidas
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_isldar = {
+	opposites = {
+		creature_isldar
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_maraya = {
+	opposites = {
+		creature_maraya
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_narim = {
+	opposites = {
+		creature_narim
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_ruinborn = {
+	opposites = {
+		creature_ruinborn
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_selvath = {
+	opposites = {
+		creature_selvath
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_sihai = {
+	opposites = {
+		creature_sihai
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_skyborn = {
+	opposites = {
+		creature_skyborn
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_slizzar = {
+	opposites = {
+		creature_slizzar
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_suvial
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_suvial = {
+	opposites = {
+		creature_suvial
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_teled
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_teled = {
+	opposites = {
+		creature_teled
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_urlan
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_urlan = {
+	opposites = {
+		creature_urlan
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_yanar
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}
+
+half_yanar = {
+	opposites = {
+		creature_yanar
+		half_ailor
+		half_allar
+		half_asha
+		half_bralona
+		half_dragonkin
+		half_dwarf
+		half_eronidas
+		half_isldar
+		half_maraya
+		half_narim
+		half_ruinborn
+		half_selvath
+		half_sihai
+		half_skyborn
+		half_slizzar
+		half_suvial
+		half_teled
+		half_urlan
+	}
+	same_opinion = 10
+	opposite_opinion = 5
+	ruler_designer_cost = 0
+	customizer = no
+}

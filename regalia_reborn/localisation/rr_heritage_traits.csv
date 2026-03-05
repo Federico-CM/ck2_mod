@@ -34,3 +34,42 @@ creature_maraya;Maraya;;;;;;;;;;;;;x
 creature_maraya_desc;This character is a Maraya, a vault dweller from another inheritor of ancient traditions and knowledge.;;;;;;;;;;;;;x
 creature_bralona;Bralona;;;;;;;;;;;;;x
 creature_bralona_desc;This character is a Bralona, an inorganic being seeking identity, purpose, and self determination.;;;;;;;;;;;;;x
+
+half_ailor;Half-Ailor;;;;;;;;;;;;;x
+half_ailor_desc;This character is a half Ailor, carrying a trace of imperial ambition and disciplined heritage.;;;;;;;;;;;;;x
+half_allar;Half-Allar;;;;;;;;;;;;;x
+half_allar_desc;This character is a half Allar, inheriting a spark of scholarly curiosity and alchemical tradition.;;;;;;;;;;;;;x
+half_asha;Half-Asha;;;;;;;;;;;;;x
+half_asha_desc;This character is a half Asha, blending animal folk instincts with another heritage.;;;;;;;;;;;;;x
+half_bralona;Half-Bralona;;;;;;;;;;;;;x
+half_bralona_desc;This character is a half Bralona, partly shaped by an inorganic lineage.;;;;;;;;;;;;;x
+half_dragonkin;Half-Dragonkin;;;;;;;;;;;;;x
+half_dragonkin_desc;This character is a half Dragonkin, carrying a faint trace of ancient draconic blood.;;;;;;;;;;;;;x
+half_dwarf;Half-Dwarf;;;;;;;;;;;;;x
+half_dwarf_desc;This character is a half Dwarf, inheriting the resilience and craft of the deep folk.;;;;;;;;;;;;;x
+half_eronidas;Half-Eronidas;;;;;;;;;;;;;x
+half_eronidas_desc;This character is a half Eronidas, touched by a warrior philosopher tradition.;;;;;;;;;;;;;x
+half_isldar;Half-Isldar;;;;;;;;;;;;;x
+half_isldar_desc;This character is a half Isldar, bearing a trace of the frostbound elven cycle.;;;;;;;;;;;;;x
+half_maraya;Half-Maraya;;;;;;;;;;;;;x
+half_maraya_desc;This character is a half Maraya, inheriting fragments of an ancient vault-born heritage.;;;;;;;;;;;;;x
+half_narim;Half-Narim;;;;;;;;;;;;;x
+half_narim_desc;This character is a half Narim, carrying the legacy of an ancient insectoid people.;;;;;;;;;;;;;x
+half_ruinborn;Half-Ruinborn;;;;;;;;;;;;;x
+half_ruinborn_desc;This character is a half Ruinborn, marked faintly by magical distortion.;;;;;;;;;;;;;x
+half_selvath;Half-Selvath;;;;;;;;;;;;;x
+half_selvath_desc;This character is a half Selvath, inheriting the hardened instincts of the wilds.;;;;;;;;;;;;;x
+half_sihai;Half-Sihai;;;;;;;;;;;;;x
+half_sihai_desc;This character is a half Sihai, touched by the guardian legacy of the Jade Sea.;;;;;;;;;;;;;x
+half_skyborn;Half-Skyborn;;;;;;;;;;;;;x
+half_skyborn_desc;This character is a half Skyborn, carrying a hint of ancient inventive heritage.;;;;;;;;;;;;;x
+half_slizzar;Half-Slizzar;;;;;;;;;;;;;x
+half_slizzar_desc;This character is a half Slizzar, inheriting subtle shapeshifting and cunning instincts.;;;;;;;;;;;;;x
+half_suvial;Half-Suvial;;;;;;;;;;;;;x
+half_suvial_desc;This character is a half Suvial, touched by disciplined flame and demon-binding traditions.;;;;;;;;;;;;;x
+half_teled;Half-Teled;;;;;;;;;;;;;x
+half_teled_desc;This character is a half Teled, bearing a fragment of ancient High Elven legacy.;;;;;;;;;;;;;x
+half_urlan;Half-Urlan;;;;;;;;;;;;;x
+half_urlan_desc;This character is a half Urlan, carrying the calm strength of the minotaur folk.;;;;;;;;;;;;;x
+half_yanar;Half-Yanar;;;;;;;;;;;;;x
+half_yanar_desc;This character is a half Yanar, touched by the quiet endurance of the plant folk.;;;;;;;;;;;;;x
