@@ -8003,6 +8003,7 @@
 		death = 294.1.1
 	}
 	dynasty = 56
+	father = 1149
 	add_trait = "creature_ailor"
 }
 
@@ -8027,7 +8028,7 @@
 
 352 = {
 	name = "Raffaello" # Lamperni
-	culture = cantaluna
+	culture = ithanian
 	religion = amended
 	288.1.1 = {
 		birth = 288.1.1
@@ -8038,18 +8039,21 @@
 	dynasty = 37
 	father = 349
 
-	diplomacy = 7
-	martial = 6
-	stewardship = 6
-	intrigue = 9
-	learning = 7
+	diplomacy = 5
+	martial = 12
+	stewardship = 5
+	intrigue = 5
+	learning = 5
 	add_trait = "creature_ailor"
 	add_trait = "half_eronidas"
-	add_trait = "fortune_builder"
-	add_trait = "paranoid"
-	add_trait = "temperate"
-	add_trait = "socializer"
-	add_trait = "groomed"
+	add_trait = "tough_soldier"
+	add_trait = "duelist"
+	add_trait = "legit_bastard"
+	add_trait = "wroth"
+	add_trait = "proud"
+	add_trait = "greedy"
+	add_trait = "brave"
+	add_trait = "inspiring_leader"
 	disallow_random_traits = yes
 }
 
@@ -14645,6 +14649,7 @@
 		death = 299.1.1
 	}
 	dynasty = 56
+	father = 1149
 	add_trait = "creature_ailor"
 }
 
@@ -26649,6 +26654,80 @@
 	dynasty = 325
 
 	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+}
+
+1149 = {
+	name = "Sigurd" # Fjelleshyge
+	culture = velheim
+	religion = fornoss
+
+	223.1.1 = {
+		birth = 223.1.1
+	}
+	282.1.1 = {
+		death = 282.1.1
+	}
+	dynasty = 56
+
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+}
+
+1150 = {
+	name = "Domenico" # Lamperni
+	culture = cantaluna
+	religion = unionism
+
+	249.1.1 = {
+		birth = 244.1.1
+	}
+	349.1.1 = {
+		death = 244.1.1
+	}
+	dynasty = 37
+	father = 468
+
+	diplomacy = 13
+	martial = 11
+	stewardship = 13
+	intrigue = 10
+	learning = 13
+	add_trait = "creature_ailor"
+	add_trait = "charismatic_negotiator"
+	add_trait = "knight"
+	add_trait = "proud"
+	add_trait = "ambitious"
+	add_trait = "patient"
+	add_trait = "just"
+	disallow_random_traits = yes
+}
+
+1151 = {
+	name = "Leilo" # Lamperni
+	culture = cantaluna
+	religion = unionism
+
+	275.1.1 = {
+		birth = 275.1.1
+	}
+	375.1.1 = {
+		death = 275.1.1
+	}
+	dynasty = 37
+	father = 351
+
+	diplomacy = 5
+	martial = 7
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	add_trait = "creature_ailor"
+	add_trait = "tough_soldier"
+	add_trait = "patient"
+	add_trait = "gamer"
+	add_trait = "fair"
+	add_trait = "just"
 	disallow_random_traits = yes
 }
 
