@@ -24661,8 +24661,8 @@
 	culture = ithanian
 	religion = unionism
 	female = yes
-	289.1.1 = {
-		birth = 289.1.1
+	291.1.1 = {
+		birth = 291.1.1
 	}
 	391.1.1 = {
 		death = 391.1.1
@@ -24670,15 +24670,15 @@
 	dynasty = 195
 	mother = 1055
 
-	diplomacy = 13
-	martial = 5
-	stewardship = 5
-	intrigue = 5
-	learning = 5
+	diplomacy = 15
+	martial = 6
+	stewardship = 7
+	intrigue = 6
+	learning = 6
 	add_trait = "creature_ailor"
 	add_trait = "charismatic_negotiator"
+	add_trait = "gardener"
 	add_trait = "patient"
-	add_trait = "humble"
 	add_trait = "cynical"
 	disallow_random_traits = yes
 }
@@ -26731,4 +26731,29 @@
 	disallow_random_traits = yes
 }
 
+1152 = {
+	name = "Young-Peyrac" # Bavere
+	culture = ithanian
+	religion = unionism
+	292.1.1 = {
+		birth = 292.1.1
+	}
+	392.1.1 = {
+		death = 392.1.1
+	}
+	dynasty = 195
+	mother = 1055
 
+	diplomacy = 7
+	martial = 10
+	stewardship = 6
+	intrigue = 6
+	learning = 5
+	add_trait = "creature_ailor"
+	add_trait = "skilled_tactician"
+	add_trait = "heavy_infantry_leader"
+	add_trait = "knight"
+	add_trait = "temperate"
+	add_trait = "chaste"
+	disallow_random_traits = yes
+}
