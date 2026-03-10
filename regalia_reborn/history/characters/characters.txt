@@ -24653,6 +24653,7 @@
 		death = 312.1.1
 	}
 	dynasty = 195
+	father = 1158
 	add_trait = "creature_ailor"
 }
 
@@ -26756,4 +26757,97 @@
 	add_trait = "temperate"
 	add_trait = "chaste"
 	disallow_random_traits = yes
+}
+
+1153 = {
+	name = "Valariea" # Bavere
+	culture = valrien
+	religion = unionism
+	female = yes
+	120.1.1 = {
+		birth = 120.1.1
+	}
+	185.1.1 = {
+		death = 185.1.1
+	}
+	dynasty = 195
+	add_trait = "creature_ailor"
+}
+
+1154 = {
+	name = "Sofia-Maria" # Bavere
+	culture = valrien
+	religion = unionism
+	female = yes
+	150.1.1 = {
+		birth = 150.1.1
+	}
+	235.1.1 = {
+		death = 235.1.1
+	}
+	dynasty = 195
+	mother = 1153
+	add_trait = "creature_ailor"
+}
+
+1155 = {
+	name = "Madlene" # Bavere
+	culture = valrien
+	religion = unionism
+	female = yes
+	175.1.1 = {
+		birth = 175.1.1
+	}
+	229.6.14 = {
+		death = 229.6.14
+	}
+	dynasty = 195
+	mother = 1154
+	add_trait = "creature_ailor"
+}
+
+1156 = {
+	name = "Lionel" # Bavere
+	culture = valrien
+	religion = unionism
+	200.1.1 = {
+		birth = 200.1.1
+	}
+	249.1.1 = {
+		death = 249.1.1
+	}
+	dynasty = 195
+	mother = 1155
+	add_trait = "creature_ailor"
+}
+
+1157 = {
+	name = "Lionelle" # Bavere
+	culture = valrien
+	religion = unionism
+	female = yes
+	220.1.1 = {
+		birth = 220.1.1
+	}
+	260.3.18 = {
+		death = 260.3.18
+	}
+	dynasty = 195
+	father = 1156
+	add_trait = "creature_ailor"
+}
+
+1158 = {
+	name = "Yvrize" # Bavere
+	culture = valrien
+	religion = unionism
+	245.1.1 = {
+		birth = 245.1.1
+	}
+	298.1.1 = {
+		death = 298.1.1
+	}
+	dynasty = 195
+	mother = 1157
+	add_trait = "creature_ailor"
 }
