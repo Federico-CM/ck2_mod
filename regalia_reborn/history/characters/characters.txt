@@ -25929,7 +25929,7 @@
 	intrigue = 5
 	learning = 4
 	add_trait = "creature_ailor"
-	add_trait = "Tough Soldier"
+	add_trait = "tough_soldier"
 	add_trait = "knight"
 	add_trait = "zealous"
 	add_trait = "holy_warrior"
