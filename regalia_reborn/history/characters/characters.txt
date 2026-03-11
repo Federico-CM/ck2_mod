@@ -26163,9 +26163,6 @@
 	add_trait = "creature_asha"
 }
 
-	add_trait = "creature_asha"
-}
-
 1123 = {
 	name = "Mauneb"
 
