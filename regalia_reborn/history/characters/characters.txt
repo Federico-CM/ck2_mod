@@ -21561,7 +21561,7 @@
 
 908 = {
 	name = "Roulain" # Bavere
-	culture = ithanian
+	culture = burdigala
 	religion = unionism
 	289.1.1 = {
 		birth = 289.1.1
@@ -24643,7 +24643,7 @@
 
 1055 = {
 	name = "Bianca" # Bavere
-	culture = ithanian
+	culture = burdigala
 	religion = unionism
 	female = yes
 	266.1.1 = {
@@ -24659,7 +24659,7 @@
 
 1056 = {
 	name = "Pauline" # Bavere
-	culture = ithanian
+	culture = burdigala
 	religion = unionism
 	female = yes
 	291.1.1 = {
@@ -26734,7 +26734,7 @@
 
 1152 = {
 	name = "Young-Peyrac" # Bavere
-	culture = ithanian
+	culture = burdigala
 	religion = unionism
 	292.1.1 = {
 		birth = 292.1.1
@@ -26761,7 +26761,7 @@
 
 1153 = {
 	name = "Valariea" # Bavere
-	culture = valrien
+	culture = burdigala
 	religion = unionism
 	female = yes
 	120.1.1 = {
@@ -26776,7 +26776,7 @@
 
 1154 = {
 	name = "Sofia-Maria" # Bavere
-	culture = valrien
+	culture = burdigala
 	religion = unionism
 	female = yes
 	150.1.1 = {
@@ -26792,7 +26792,7 @@
 
 1155 = {
 	name = "Madlene" # Bavere
-	culture = valrien
+	culture = burdigala
 	religion = unionism
 	female = yes
 	175.1.1 = {
@@ -26808,7 +26808,7 @@
 
 1156 = {
 	name = "Lionel" # Bavere
-	culture = valrien
+	culture = burdigala
 	religion = unionism
 	200.1.1 = {
 		birth = 200.1.1
@@ -26823,7 +26823,7 @@
 
 1157 = {
 	name = "Lionelle" # Bavere
-	culture = valrien
+	culture = burdigala
 	religion = unionism
 	female = yes
 	220.1.1 = {
@@ -26839,7 +26839,7 @@
 
 1158 = {
 	name = "Yvrize" # Bavere
-	culture = valrien
+	culture = burdigala
 	religion = unionism
 	245.1.1 = {
 		birth = 245.1.1
@@ -26853,8 +26853,8 @@
 }
 
 1159 = {
-	name = "Henri" # Bavere
-	culture = valrien
+	name = "Arnaut" # Bavere
+	culture = burdigala
 	religion = unionism
 	195.1.1 = {
 		birth = 195.1.1
@@ -26868,11 +26868,12 @@
 }
 
 1160 = {
-	name = "Alain" # Bavere
-	culture = valrien
+	name = "Celeste" # Bavere
+	culture = burdigala
 	religion = unionism
-	198.1.1 = {
-		birth = 198.1.1
+	female = yes
+	197.1.1 = {
+		birth = 197.1.1
 	}
 	229.6.14 = {
 		death = 229.6.14
@@ -26883,12 +26884,11 @@
 }
 
 1161 = {
-	name = "Lucienne" # Bavere
-	culture = valrien
+	name = "Etienne" # Bavere
+	culture = burdigala
 	religion = unionism
-	female = yes
-	201.1.1 = {
-		birth = 201.1.1
+	200.1.1 = {
+		birth = 200.1.1
 	}
 	229.6.14 = {
 		death = 229.6.14
@@ -26899,11 +26899,11 @@
 }
 
 1162 = {
-	name = "Etienne" # Bavere
-	culture = valrien
+	name = "Lucien" # Bavere
+	culture = burdigala
 	religion = unionism
-	205.1.1 = {
-		birth = 205.1.1
+	203.1.1 = {
+		birth = 203.1.1
 	}
 	229.6.14 = {
 		death = 229.6.14
@@ -26914,12 +26914,12 @@
 }
 
 1163 = {
-	name = "Celeste" # Bavere
-	culture = valrien
+	name = "Mariette" # Bavere
+	culture = burdigala
 	religion = unionism
 	female = yes
-	208.1.1 = {
-		birth = 208.1.1
+	206.1.1 = {
+		birth = 206.1.1
 	}
 	229.6.14 = {
 		death = 229.6.14
@@ -26930,15 +26930,14 @@
 }
 
 1164 = {
-	name = "Bianca" # Bavere
-	culture = valrien
+	name = "Arnoud" # Bavere
+	culture = burdigala
 	religion = unionism
-	female = yes
-	270.1.1 = {
-		birth = 270.1.1
+	272.1.1 = {
+		birth = 272.1.1
 	}
-	312.1.1 = {
-		death = 312.1.1
+	307.1.1 = {
+		death = 307.1.1
 	}
 	dynasty = 195
 	father = 1158
@@ -26946,14 +26945,14 @@
 }
 
 1165 = {
-	name = "Arnoud" # Bavere
-	culture = valrien
+	name = "Arnten" # Bavere
+	culture = burdigala
 	religion = unionism
-	272.1.1 = {
-		birth = 272.1.1
+	274.1.1 = {
+		birth = 274.1.1
 	}
-	304.1.1 = {
-		death = 304.1.1
+	335.1.1 = {
+		death = 335.1.1
 	}
 	dynasty = 195
 	father = 1158
@@ -26961,31 +26960,16 @@
 }
 
 1166 = {
-	name = "Arnten" # Bavere
-	culture = valrien
-	religion = unionism
-	203.1.1 = {
-		birth = 203.1.1
-	}
-	275.1.1 = {
-		death = 275.1.1
-	}
-	dynasty = 195
-	mother = 1155
-	add_trait = "creature_ailor"
-}
-
-1167 = {
 	name = "Floriant" # Bavere
-	culture = valrien
+	culture = burdigala
 	religion = unionism
-	232.1.1 = {
-		birth = 232.1.1
+	300.1.1 = {
+		birth = 300.1.1
 	}
-	295.1.1 = {
-		death = 295.1.1
+	365.1.1 = {
+		death = 365.1.1
 	}
 	dynasty = 195
-	father = 1166
+	father = 1165
 	add_trait = "creature_ailor"
 }
