@@ -26147,7 +26147,7 @@
 }
 
 1122 = {
-	name = "Zasat"
+	name = "Zasat" # Monterrosa, son of amon
 
 	culture = asha
 	religion = khama
@@ -26163,8 +26163,9 @@
 	add_trait = "creature_asha"
 }
 
+
 1123 = {
-	name = "Mauneb"
+	name = "Mauneb" # Monterrosa, son of Hejekth
 
 	culture = asha
 	religion = khama
@@ -26180,11 +26181,8 @@
 	add_trait = "creature_asha"
 }
 
-	add_trait = "creature_asha"
-}
-
 1124 = {
-	name = "Isef"
+	name = "Isef" # Monterrosa son of Mauneb
 
 	culture = asha
 	religion = khama
@@ -26201,7 +26199,7 @@
 }
 
 1125 = {
-	name = "Gustavo"
+	name = "Gustavo" # Monterrosa son of Mauneb
 
 	culture = asha
 	religion = khama
@@ -26218,7 +26216,7 @@
 }
 
 1126 = {
-	name = "Sekhet"
+	name = "Sekhet" # Monterrosa son of Isef
 
 	culture = asha
 	religion = khama
@@ -26335,36 +26333,6 @@
 
 }
 
-1130 = {
-	name = "Alynna" # Mecatl
-	female = yes
-
-	culture = selvath
-	religion = estelley
-	293.1.1 = {
-		birth = 293.1.1
-	}
-	393.1.1 = {
-		death = 393.1.1
-	}
-
-	dynasty = 181
-	mother = 1133
-
-	diplomacy = 9
-	martial = 5
-	stewardship = 8
-	intrigue = 5
-	learning = 14
-	add_trait = "creature_selvath"
-	add_trait = "scholarly_theologian"
-	add_trait = "scholar"
-	add_trait = "kind"
-	add_trait = "charitable"
-	add_trait = "shy"
-	disallow_random_traits = yes
-
-}
 
 1131 = {
 	name = "Nezahual" # Mecatl
