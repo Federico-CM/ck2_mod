@@ -21518,17 +21518,19 @@
 		death = 391.1.1
 	}
 	dynasty = 193
+	mother = 1169
 
-	diplomacy = 5
-	martial = 5
-	stewardship = 5
-	intrigue = 5
-	learning = 5
+	# trait checked
+	diplomacy = 6 
+	martial = 2
+	stewardship = 6
+	intrigue = 6
+	learning = 6
 	add_trait = "creature_ailor"
-	add_trait = "fortune_builder"
-	add_trait = "strategist"
-	add_trait = "charitable"
-	add_trait = "brave"
+	add_trait = "half_teled"
+	add_trait = "skilled_tactician"
+	add_trait = "scarred"
+	add_trait = "knight"
 	disallow_random_traits = yes
 }
 
@@ -22759,6 +22761,8 @@
 966 = {
 	name = "Edemere" # Greenbough
 	culture = selvath
+     dna="aaaaaaaaaaa"
+     properties="mmmmmm"
 	religion = estelley
 	244.1.1 = {
 		birth = 244.1.1
@@ -26937,4 +26941,81 @@
 	dynasty = 195
 	father = 1165
 	add_trait = "creature_ailor"
+}
+
+1167 = {
+	name = "Oswyn" # Norinn
+	culture = caeren
+	religion = unionism
+	313.1.1 = {
+		birth = 313.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 212
+	father = 925
+	mother = 906
+	add_trait = "creature_ailor"
+}
+
+1168 = {
+	name = "Aurora" # Silverberry
+	culture = cearden
+	religion =  unionism
+	female = yes
+	314.1.1 = {
+		birth = 314.1.1
+	}
+	365.1.1 = {
+		death = 365.1.1
+	}
+	dynasty = 193
+	father = 925
+	mother = 906
+	add_trait = "creature_ailor"
+}
+
+1169 = {
+	name = "Willow" # Silverberry
+	culture = cearden
+	religion =  unionism
+	female = yes
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	312.1.1 = {
+		death = 312.1.1
+	}
+	dynasty = 193
+	add_trait = "creature_ailor"
+}
+
+1170 = {
+	name = "Caspian" # Silverberry
+	culture = cearden
+	religion =  unionism
+	297.1.1 = {
+		birth = 297.1.1
+	}
+	397.1.1 = {
+		death = 397.1.1
+	}
+	dynasty = 193
+	mother = 1169
+
+	# trait checked
+	diplomacy = 7
+	martial = 8
+	stewardship = 12
+	intrigue = 9
+	learning = 9
+	add_trait = "creature_isldar"
+	add_trait = "adopted"
+	add_trait = "thrifty_clerk"
+	add_trait = "hunter"
+	add_trait = "kind"
+	add_trait = "trusting"
+	disallow_random_traits = yes
+
 }
