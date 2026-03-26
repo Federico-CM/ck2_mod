@@ -44,7 +44,7 @@ e_solleria = {
 
                 color = { 109 66 86 }
                 color2 = { 92 64 77 }
-                culture = kathar
+                culture = ruinborn
                 title = count
                 title_female = count
             }
@@ -105,7 +105,7 @@ e_solleria = {
 
                 color = { 113 73 97 }
                 color2 = { 89 63 79 }
-                culture = kathar
+                culture = ruinborn
                 title = count
                 title_female = count
             }
@@ -138,11 +138,11 @@ e_solleria = {
 
                 color = { 128 112 114 }
                 color2 = { 142 132 133 }
-                culture = kathar
+                culture = ruinborn
                 title = count
                 title_female = count
             }
-            culture = kathar
+            culture = ruinborn
             title = duke
             title_female = duke
         }
@@ -174,7 +174,7 @@ e_solleria = {
 
                 color = { 125 96 124 }
                 color2 = { 128 110 128 }
-                culture = kathar
+                culture = ruinborn
                 title = count
                 title_female = count
             }
@@ -230,7 +230,7 @@ e_solleria = {
 
                 color = { 100 127 133 }
                 color2 = { 97 115 118 }
-                culture = kathar
+                culture = ruinborn
                 title = count
                 title_female = count
             }
@@ -253,7 +253,7 @@ e_solleria = {
 
                 color = { 106 80 128 }
                 color2 = { 90 73 104 }
-                culture = kathar
+                culture = ruinborn
                 title = count
                 title_female = count
             }
@@ -286,11 +286,11 @@ e_solleria = {
 
                 color = { 119 126 148 }
                 color2 = { 113 118 132 }
-                culture = kathar
+                culture = ruinborn
                 title = count
                 title_female = count
             }
-            culture = kathar
+            culture = ruinborn
             title = duke
             title_female = duke
         }
@@ -327,7 +327,7 @@ e_solleria = {
 
                 color = { 116 100 130 }
                 color2 = { 126 115 135 }
-                culture = kathar
+                culture = ruinborn
                 title = count
                 title_female = count
             }
@@ -350,7 +350,7 @@ e_solleria = {
 
                 color = { 100 68 128 }
                 color2 = { 88 67 106 }
-                culture = kathar
+                culture = ruinborn
                 title = count
                 title_female = count
             }
@@ -378,7 +378,7 @@ e_solleria = {
 
                 color = { 58 66 70 }
                 color2 = { 66 72 74 }
-                culture = kathar
+                culture = ruinborn
                 title = count
                 title_female = count
             }
@@ -406,15 +406,15 @@ e_solleria = {
 
                 color = { 96 54 118 }
                 color2 = { 112 84 126 }
-                culture = kathar
+                culture = ruinborn
                 title = count
                 title_female = count
             }
-            culture = kathar
+            culture = ruinborn
             title = duke
             title_female = duke
         }
-        culture = kathar
+        culture = ruinborn
         title = king
         title_female = king
     }

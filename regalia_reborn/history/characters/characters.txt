@@ -26605,7 +26605,7 @@
 	learning = 9
 	add_trait = "creature_ailor"
 	add_trait = "flanker"
-	add_trait = "though_soldier"
+	add_trait = "tough_soldier"
 	add_trait = "temperate"
 	disallow_random_traits = yes
 }
