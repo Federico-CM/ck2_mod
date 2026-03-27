@@ -6290,7 +6290,7 @@
 	add_trait = "creature_teled"
 }
 
-269 = {
+269 = { # Theomar "The Prophet" I
 	name = "Theomar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
@@ -6304,53 +6304,54 @@
 	add_trait = "creature_ailor"
 }
 
-270 = {
-	name = "Lilienmar" # Ivrae de Sange
+270 = { #Luenmar I
+	name = "Luenmar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	17.1.1 = {
 		birth = 17.1.1
 	}
-	74.1.1 = {
-		death = 74.1.1
+	70.1.1 = {
+		death = 70.1.1
 	}
 	dynasty = 23
 	father = 269
 	add_trait = "creature_ailor"
 }
 
-271 = {
-	name = "Lilienmar" # Ivrae de Sange
+271 = { #Luenmara II
+	name = "Luenmara" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
+	female = yes
 	38.1.1 = {
 		birth = 38.1.1
 	}
-	112.1.1 = {
-		death = 112.1.1
+	85.1.1 = {
+		death = 85.1.1
 	}
 	dynasty = 23
 	father = 270
 	add_trait = "creature_ailor"
 }
 
-272 = {
-	name = "Rihonlar" # Ivrae de Sange
+272 = { #Theomar II
+	name = "Theomar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	42.1.1 = {
-		birth = 42.1.1
+	22.1.1 = {
+		birth = 22.1.1
 	}
-	108.1.1 = {
-		death = 108.1.1
+	79.1.1 = {
+		death = 79.1.1
 	}
 	dynasty = 23
-	father = 270
+	father = 269
 	add_trait = "creature_ailor"
 }
 
-273 = {
-	name = "Henri" # Ivrae de Sange
+273 = { #Hendromar the Pious
+	name = "Hendromar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	58.1.1 = {
@@ -6360,23 +6361,24 @@
 	80.4.1 = {
 		add_spouse = 268
 	}
-	123.1.1 = {
-		death = 123.1.1
+	96.1.1 = {
+		death = 96.1.1
 	}
 	dynasty = 23
-	father = 271
+	mother = 271
 	add_trait = "creature_ailor"
 }
 
-274 = {
-	name = "Leomar" # Ivrae de Sange
+274 = { #Luenmara III
+	name = "Luenmara" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
+	female = yes
 	74.1.1 = {
 		birth = 74.1.1
 	}
-	164.1.1 = {
-		death = 164.1.1
+	112.1.1 = {
+		death = 112.1.1
 	}
 	dynasty = 23
 	mother = 268
@@ -6384,15 +6386,16 @@
 	add_trait = "creature_ailor"
 }
 
-275 = {
-	name = "Maxelle" # Ivrae de Sange
+275 = { # Maxella I
+	name = "Maxella" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
+	female = yes
 	77.1.1 = {
 		birth = 77.1.1
 	}
-	178.1.1 = {
-		death = 178.1.1
+	99.1.1 = {
+		death = 99.1.1
 	}
 	dynasty = 23
 	mother = 268
@@ -6400,15 +6403,15 @@
 	add_trait = "creature_ailor"
 }
 
-276 = {
-	name = "Carvallais" # Ivrae de Sange
+276 = { # Bartomar I
+	name = "Carvomar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	79.1.1 = {
 		birth = 79.1.1
 	}
-	184.1.1 = {
-		death = 184.1.1
+	97.1.1 = {
+		death = 97.1.1
 	}
 	dynasty = 23
 	mother = 268
@@ -6416,15 +6419,15 @@
 	add_trait = "creature_ailor"
 }
 
-277 = {
-	name = "Bartolomeux" # Ivrae de Sange
+277 = { # Bartomar I
+	name = "Bartomar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	81.1.1 = {
 		birth = 81.1.1
 	}
 	186.1.1 = {
-		death = 186.1.1
+		death = 96.1.1
 	}
 	dynasty = 23
 	mother = 268
@@ -6432,55 +6435,57 @@
 	add_trait = "creature_ailor"
 }
 
-278 = {
-	name = "Henri" # Ivrae de Sange
+278 = { #Hendromar II
+	name = "Hendromar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	93.1.1 = {
 		birth = 93.1.1
 	}
-	174.1.1 = {
-		death = 174.1.1
+	129.1.1 = {
+		death = 129.1.1
 	}
 	dynasty = 23
-	father = 274
+	father = 277
 	add_trait = "creature_ailor"
 }
 
-279 = {
-	name = "Justeux" # Ivrae de Sange
+279 = { #Justomara I
+	name = "Justomara" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
+	female = yes
 	96.1.1 = {
 		birth = 96.1.1
 	}
 	135.1.1 = {
-		death = 135.1.1
+		death = 114.1.1
 	}
 	dynasty = 23
-	father = 274
+	father = 277
 	add_trait = "creature_ailor"
 }
 
-280 = {
-	name = "Heinrich" # Ivrae de Sange
+280 = { #Justomar II aka Juvin the Sage
+	name = "Justomar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	111.1.1 = {
 		birth = 111.1.1
 	}
 	166.1.1 = {
-		death = 166.1.1
+		death = 158.1.1
 	}
 	dynasty = 23
 	father = 278
 	add_trait = "creature_ailor"
 }
 
-281 = {
+281 = { #Allamara I the Lawmaker
 	name = "Allamar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
+	female = yes
 	130.1.1 = {
 		birth = 130.1.1
 	}
