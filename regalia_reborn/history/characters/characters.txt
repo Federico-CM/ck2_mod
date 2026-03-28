@@ -6489,54 +6489,53 @@
 	130.1.1 = {
 		birth = 130.1.1
 	}
-	195.1.1 = {
-		death = 195.1.1
+	180.1.1 = {
+		death = 180.1.1
 	}
 	dynasty = 23
 	father = 280
 	add_trait = "creature_ailor"
 }
 
-282 = {
-	name = "Handorien" # Ivrae de Sange
+282 = { #Hendromar III
+	name = "Hendromar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	152.1.1 = {
 		birth = 152.1.1
 	}
-	224.1.1 = {
-		death = 224.1.1
+	195.1.1 = {
+		death = 195.1.1
 	}
 	dynasty = 23
 	father = 281
 	add_trait = "creature_ailor"
 }
 
-283 = {
-	name = "Lilienmar" # Ivrae de Sange
+283 = { #Luenmar IV
+	name = "Luenmar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	135.1.1 = {
 		birth = 135.1.1
 	}
-	194.1.1 = {
-		death = 174.1.1
+	166.1.1 = {
+		death = 166.1.1
 	}
 	dynasty = 23
 	father = 280
 	add_trait = "creature_ailor"
 }
 
-284 = {
-	name = "Yvonne" # Ivrae de Sange
+284 = { #Chancellor Prince Rivein
+	name = "Rivein" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	female = yes
 	131.1.1 = {
 		birth = 131.1.1
 	}
-	210.1.1 = {
-		death = 210.1.1
+	190.1.1 = {
+		death = 190.1.1
 	}
 	dynasty = 23
 	father = 280
@@ -6604,15 +6603,15 @@
 	add_trait="lustful"
 }
 
-289 = {
-	name = "Allestrain" # Ivrae de Sange
+289 = {  # Allomar I aka Allest the Conqueror
+	name = "Allomar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	173.1.1 = {
 		birth = 173.1.1
 	}
-	255.1.1 = {
-		death = 255.1.1
+	211.1.1 = {
+		death = 211.1.1
 	}
 	dynasty = 23
 	father = 282
@@ -6741,20 +6740,19 @@
 	add_trait = "creature_ailor"
 }
 
-298 = {
-	name = "Handorien" # Ivrae de Sange
+298 = { #Hendromar VI
+	name = "Hendromar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	141.1.1 = {
 		birth = 141.1.1
 	}
-	227.1.1 = {
-		death = 227.1.1
+	219.1.1 = {
+		death = 219.1.1
 	}
 	dynasty = 23
 	father = 300
 	add_trait = "creature_ailor"
-	add_trait="lunatic"
 }
 
 299 = {
