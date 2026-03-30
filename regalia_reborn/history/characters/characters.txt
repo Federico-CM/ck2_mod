@@ -25,7 +25,7 @@
 		}
 	}
 	dynasty = 1
-	mother = 107
+	#mother = 107
 	father = 106
 	add_trait = "creature_ailor"
 }
@@ -2357,7 +2357,7 @@
 }
 
 107 = {
-	name = "Allianne" # Ivrae de Sange
+	name = "Yvonne" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -2372,8 +2372,8 @@
 		death = 341.1.1
 	}
 	dynasty = 23
-	mother = 309
-	father = 308
+	#mother = 309
+	father = 296
 
 	diplomacy = 11
 	martial = 6
@@ -3189,8 +3189,8 @@
 		death = 291.1.1
 	}
 	dynasty = 23
-	mother = 311
-	father = 310
+	# mother = 311
+	father = 308
 
 	299.4.1 = {
 		#remove_spouse = 1
@@ -3989,8 +3989,8 @@
 	culture = ithanian
 	religion = unionism
 	female = yes
-	272.1.1 = {
-		birth = 272.1.1
+	282.1.1 = {
+		birth = 282.1.1
 	}
 
 	299.4.1 = {
@@ -6623,8 +6623,8 @@
 	culture = ithanian
 	religion = unionism
 	female = yes
-	192.1.1 = {
-		birth = 192.1.1
+	232.1.1 = {
+		birth = 232.1.1
 	}
 	269.1.1 = {
 		death = 269.1.1
@@ -6638,14 +6638,14 @@
 	name = "Ottomar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	211.1.1 = {
-		birth = 211.1.1
+	164.1.1 = {
+		birth = 164.1.1
 	}
 	231.1.1 = {
 		death = 231.1.1
 	}
 	dynasty = 23
-	father = 286
+	father = 298
 	add_trait = "creature_ailor"
 }
 
@@ -6653,132 +6653,134 @@
 	name = "Balthezar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	205.1.1 = {
-		birth = 205.1.1
+	170.1.1 = {
+		birth = 170.1.1
 	}
 	235.1.1 = {
 		death = 235.1.1
-	}
-	dynasty = 23
-	father = 286
-	add_trait = "creature_ailor"
-}
-
-293 = {
-	name = "Handorien" # Ivrae de Sange
-	culture = ithanian
-	religion = unionism
-	222.1.1 = {
-		birth = 222.1.1
-	}
-	244.1.1 = {
-		death = 244.1.1
-	}
-	dynasty = 23
-	father = 292
-	add_trait = "creature_ailor"
-}
-
-294 = {
-	name = "Emerite" # Ivrae de Sange
-	culture = ithanian
-	religion = unionism
-	186.1.1 = {
-		birth = 186.1.1
-	}
-	220.1.1 = {
-		death = 220.1.1
-	}
-	dynasty = 23
-	father = 285
-	add_trait = "creature_ailor"
-}
-
-295 = {
-	name = "Rollo" # Ivrae de Sange
-	culture = ithanian
-	religion = unionism
-	202.1.1 = {
-		birth = 202.1.1
-	}
-	231.1.1 = {
-		death = 231.1.1
-	}
-	dynasty = 23
-	father = 294
-	add_trait = "creature_ailor"
-}
-
-296 = {
-	name = "Allestrain" # Ivrae de Sange
-	culture = ithanian
-	religion = unionism
-	226.1.1 = {
-		birth = 226.1.1
-	}
-	249.1.1 = {
-		death = 249.1.1
-	}
-	dynasty = 23
-	father = 295
-	add_trait = "creature_ailor"
-}
-
-297 = {
-	name = "Lisette Ponne" # Ivrae de Sange
-	culture = ithanian
-	religion = unionism
-	female = yes
-	243.1.1 = {
-		birth = 243.1.1
-	}
-	285.1.1 = {
-		death = 285.1.1
-	}
-	dynasty = 23
-	father = 296
-	add_trait = "creature_ailor"
-}
-
-298 = { #Hendromar VI
-	name = "Hendromar" # Ivrae de Sange
-	culture = ithanian
-	religion = unionism
-	141.1.1 = {
-		birth = 141.1.1
-	}
-	219.1.1 = {
-		death = 219.1.1
-	}
-	dynasty = 23
-	father = 300
-	add_trait = "creature_ailor"
-}
-
-299 = {
-	name = "Allestrain" # Ivrae de Sange
-	culture = ithanian
-	religion = unionism
-	166.1.1 = {
-		birth = 166.1.1
-	}
-	211.1.1 = {
-		death = 211.1.1
 	}
 	dynasty = 23
 	father = 298
 	add_trait = "creature_ailor"
 }
 
-300 = {
-	name = "Filipe" # Ivrae de Sange
+293 = { # Olivraise
+	name = "Olivraise" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	126.1.1 = {
-		birth = 126.1.1
+	female = yes
+	175.1.1 = {
+		birth = 175.1.1
 	}
-	220.1.1 = {
-		death = 220.1.1
+	226.1.1 = {
+		death = 226.1.1
+	}
+	dynasty = 23
+	father = 300
+	add_trait = "creature_ailor"
+}
+
+294 = {
+	name = "Hendromar" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	186.1.1 = {
+		birth = 186.1.1
+	}
+	245.1.1 = {
+		death = 245.1.1
+	}
+	dynasty = 23
+	father = 292
+	add_trait = "creature_ailor"
+}
+
+#295 = {
+#	name = "Rollo" # Ivrae de Sange
+#	culture = ithanian
+#	religion = unionism
+#	202.1.1 = {
+#		birth = 202.1.1
+#	}
+#	231.1.1 = {
+#		death = 231.1.1
+#	}
+#	dynasty = 23
+#	father = 294
+#	add_trait = "creature_ailor"
+#}
+
+296 = { # Allomar II
+	name = "Allomar" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	198.1.1 = {
+		birth = 198.1.1
+	}
+	249.1.1 = {
+		death = 249.1.1
+	}
+	dynasty = 23
+	father = 294
+	add_trait = "creature_ailor"
+}
+
+297 = { # Hendromara VI
+	name = "Hendromara" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	female = yes
+	178.1.1 = {
+		birth = 178.1.1
+	}
+	240.1.1 = {
+		death = 240.1.1
+	}
+	dynasty = 23
+	father = 292
+	add_trait = "creature_ailor"
+}
+
+298 = { #Hendromar V
+	name = "Hendromar" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	147.1.1 = {
+		birth = 147.1.1
+	}
+	227.1.1 = {
+		death = 227.1.1
+	}
+	dynasty = 23
+	father = 300
+	add_trait = "creature_ailor"
+}
+
+299 = { # Allomara III
+	name = "Allomara" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	female = yes
+	215.1.1 = {
+		birth = 215.1.1
+	}
+	255.1.1 = {
+		death = 255.1.1
+	}
+	dynasty = 23
+	father = 296
+	add_trait = "creature_ailor"
+}
+
+300 = { # Hendromar IV
+	name = "Hendromar" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	130.1.1 = {
+		birth = 130.1.1
+	}
+	219.1.1 = {
+		death = 219.1.1
 	}
 	dynasty = 23
 	father = 288
@@ -6786,14 +6788,15 @@
 }
 
 301 = {
-	name = "Handorien" # Ivrae de Sange
+	name = "Justomara" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	147.1.1 = {
-		birth = 147.1.1
+	female = yes
+	150.1.1 = {
+		birth = 150.1.1
 	}
-	219.1.1 = {
-		death = 219.1.1
+	224.1.1 = {
+		death = 224.1.1
 	}
 	dynasty = 23
 	father = 300
@@ -6830,11 +6833,11 @@
 }
 
 303 = {
-	name = "Justinian" # Ivrae de Sange
+	name = "Justomar" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	210.1.1 = {
-		birth = 210.1.1
+	250.1.1 = {
+		birth = 250.1.1
 	}
 	302.1.1 = {
 		death = 302.1.1
@@ -6844,35 +6847,35 @@
 	add_trait = "creature_ailor"
 }
 
-304 = {
-	name = "Auguste" # Ivrae de Sange
-	culture = ithanian
-	religion = unionism
-	245.1.1 = {
-		birth = 245.1.1
-	}
-	270.1.1 = {
-		death = 270.1.1
-	}
-	dynasty = 23
-	father = 303
-	add_trait = "creature_ailor"
-}
+#304 = {
+#	name = "Auguste" # Ivrae de Sange
+#	culture = ithanian
+#	religion = unionism
+#	245.1.1 = {
+#		birth = 245.1.1
+#	}
+#	270.1.1 = {
+#		death = 270.1.1
+#	}
+#	dynasty = 23
+#	father = 303
+#	add_trait = "creature_ailor"
+#}
 
-305 = {
-	name = "Juvinois" # Ivrae de Sange
-	culture = ithanian
-	religion = unionism
-	247.1.1 = {
-		birth = 247.1.1
-	}
-	270.1.1 = {
-		death = 270.1.1
-	}
-	dynasty = 23
-	father = 303
-	add_trait = "creature_ailor"
-}
+#305 = {
+#	name = "Juvinois" # Ivrae de Sange
+#	culture = ithanian
+#	religion = unionism
+#	247.1.1 = {
+#		birth = 247.1.1
+#	}
+#	270.1.1 = {
+#		death = 270.1.1
+#	}
+#	dynasty = 23
+#	father = 303
+#	add_trait = "creature_ailor"
+#}
 
 306 = {
 	name = "Therinois" # Ivrae de Sange
@@ -6908,124 +6911,126 @@
 	name = "Charlerois" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	212.1.1 = {
-		birth = 212.1.1
+	252.1.1 = {
+		birth = 252.1.1
 	}
 
-	240.4.1 = {
-		add_spouse = 309
-	}
-	283.1.1 = {
-		death = 283.1.1
+	#240.4.1 = {
+	#	add_spouse = 309
+	#}
+	300.1.1 = {
+		death = 300.1.1
 	}
 	dynasty = 23
 	father = 290
 	add_trait = "creature_ailor"
 }
 
-309 = {
-	name = "Callaire" # de Mont Vertu
-	culture = ithanian
-	religion = unionism
-	female = yes
-	213.1.1 = {
-		birth = 213.1.1
-	}
+#309 = {
+#	name = "Callaire" # de Mont Vertu
+#	culture = ithanian
+#	religion = unionism
+#	female = yes
+#	213.1.1 = {
+#		birth = 213.1.1
+#	}
+#
+#	240.4.1 = {
+#		add_spouse = 308
+#	}
+#	289.1.1 = {
+#		death = 289.1.1
+#	}
+#	dynasty = 47
+#	father = 513
+#	add_trait = "creature_ailor"
+#}
 
-	240.4.1 = {
-		add_spouse = 308
-	}
-	289.1.1 = {
-		death = 289.1.1
-	}
-	dynasty = 47
-	father = 513
-	add_trait = "creature_ailor"
-}
+#310 = {
+#	name = "Harlon" # de Montebrizere
+#	culture = ithanian
+#	religion = unionism
+#	231.1.1 = {
+#		birth = 231.1.1
+#	}
+#
+#	259.4.1 = {
+#		add_matrilineal_spouse=311
+#	}
+#	302.1.1 = {
+#		death = 302.1.1
+#	}
+#	dynasty = 48
+#	add_trait = "creature_ailor"
+#}
 
-310 = {
-	name = "Harlon" # de Montebrizere
-	culture = ithanian
-	religion = unionism
-	231.1.1 = {
-		birth = 231.1.1
-	}
+# removed when the dinasty was retconned
+#311 = {
+#	name = "Adelheid Ivrae De Sange" # Ivrae de Sange
+#	culture = ithanian
+#	religion = unionism
+#	female = yes
+#	230.1.1 = {
+#		birth = 230.1.1
+#	}
+#
+#	259.4.1 = {
+#		add_matrilineal_spouse=310
+#	}
+#	310.1.1 = {
+#		death = 310.1.1
+#	}
+#	dynasty = 23
+#	#mother = 309
+#	father = 308
+#	add_trait = "creature_ailor"
+#}
 
-	259.4.1 = {
-		add_matrilineal_spouse=311
-	}
-	302.1.1 = {
-		death = 302.1.1
-	}
-	dynasty = 48
-	add_trait = "creature_ailor"
-}
-
-311 = {
-	name = "Adelheid Ivrae De Sange" # Ivrae de Sange
-	culture = ithanian
-	religion = unionism
-	female = yes
-	230.1.1 = {
-		birth = 230.1.1
-	}
-
-	259.4.1 = {
-		add_matrilineal_spouse=310
-	}
-	310.1.1 = {
-		death = 310.1.1
-	}
-	dynasty = 23
-	mother = 309
-	father = 308
-	add_trait = "creature_ailor"
-}
-
-312 = {
-	name = "Attenaise" # Ivrae de Sange
-	culture = ithanian
-	religion = unionism
-	female = yes
-	250.1.1 = {
-		birth = 250.1.1
-	}
-	350.1.1 = {
-		death = 350.1.1
-	}
-	dynasty = 23
-	mother = 311
-	father = 310
-
-	diplomacy = 9
-	martial = 7
-	stewardship = 7
-	intrigue = 8
-	learning = 16
-	add_trait = "creature_ailor"
-	add_trait = "scholarly_theologian"
-	add_trait = "wroth"
-	add_trait = "genius"
-	add_trait = "mystic"
-	add_trait = "kind"
-	add_trait = "charitable"
-	disallow_random_traits = yes
-}
+# removed when the dinasty was retconned
+#312 = {
+#	name = "Attenaise" # Ivrae de Sange
+#	culture = ithanian
+#	religion = unionism
+#	female = yes
+#	250.1.1 = {
+#		birth = 250.1.1
+#	}
+#	350.1.1 = {
+#		death = 350.1.1
+#	}
+#	dynasty = 23
+#	#mother = 311
+#	father = 308
+#
+#	diplomacy = 9
+#	martial = 7
+#	stewardship = 7
+#	intrigue = 8
+#	learning = 16
+#	add_trait = "creature_ailor"
+#	add_trait = "scholarly_theologian"
+#	add_trait = "wroth"
+#	add_trait = "genius"
+#	add_trait = "mystic"
+#	add_trait = "kind"
+#	add_trait = "charitable"
+#	disallow_random_traits = yes
+#}
 
 313 = {
 	name = "Frederique" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	female = yes
-	256.1.1 = {
-		birth = 256.1.1
+	268.1.1 = {
+		birth = 268.1.1
 	}
 	356.1.1 = {
 		death = 356.1.1
 	}
 	dynasty = 23
-	mother = 311
-	father = 310
+	#mother = 311
+	father = 308
 
 	diplomacy = 17
 	martial = 8
@@ -7044,8 +7049,8 @@
 	name = "Antoine" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	258.1.1 = {
-		birth = 258.1.1
+	268.1.1 = {
+		birth = 268.1.1
 	}
 
 	311.4.1 = {
@@ -7055,8 +7060,8 @@
 		death = 358.1.1
 	}
 	dynasty = 23
-	mother = 311
-	father = 310
+	#mother = 311
+	father = 308
 
 	diplomacy = 14
 	martial = 10
@@ -26279,7 +26284,6 @@
 	add_trait = "creature_asha"
 	add_trait = "mage"
 	add_trait = "grey_eminence"
-	add_trait = "administrator"
 	add_trait = "patient"
 	disallow_random_traits = yes
 }
