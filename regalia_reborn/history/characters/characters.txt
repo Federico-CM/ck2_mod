@@ -6300,6 +6300,9 @@
 	67.1.1 = {
 		death = 67.1.1
 	}
+	211.1.1={
+		give_nickname = nick_the_prophet
+	}
 	dynasty = 23
 	add_trait = "creature_ailor"
 }
@@ -6363,6 +6366,9 @@
 	}
 	96.1.1 = {
 		death = 96.1.1
+	}
+	96.1.1={
+		give_nickname = nick_the_pious
 	}
 	dynasty = 23
 	mother = 271
@@ -6476,13 +6482,16 @@
 	166.1.1 = {
 		death = 158.1.1
 	}
+	166.1.1={
+		give_nickname = nick_the_sage
+	}
 	dynasty = 23
 	father = 278
 	add_trait = "creature_ailor"
 }
 
 281 = { #Allamara I the Lawmaker
-	name = "Allamar" # Ivrae de Sange
+	name = "Allamara" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
 	female = yes
@@ -6491,6 +6500,9 @@
 	}
 	180.1.1 = {
 		death = 180.1.1
+	}
+	180.1.1={
+		give_nickname = nick_the_lawmaker
 	}
 	dynasty = 23
 	father = 280
@@ -6613,6 +6625,9 @@
 	211.1.1 = {
 		death = 211.1.1
 	}
+	211.1.1={
+		give_nickname = nick_the_conqueror
+	}
 	dynasty = 23
 	father = 282
 	add_trait = "creature_ailor"
@@ -6628,6 +6643,9 @@
 	}
 	269.1.1 = {
 		death = 269.1.1
+	}
+	269.1.1={
+		give_nickname = nick_the_redeemer
 	}
 	dynasty = 23
 	father = 299
@@ -6839,53 +6857,59 @@
 	250.1.1 = {
 		birth = 250.1.1
 	}
+	301.1.1={
+		give_nickname = nick_the_dusk_swan
+	}
 	302.1.1 = {
 		death = 302.1.1
 	}
+
 	dynasty = 23
 	mother = 290
 	add_trait = "creature_ailor"
 }
 
-#304 = {
-#	name = "Auguste" # Ivrae de Sange
-#	culture = ithanian
-#	religion = unionism
-#	245.1.1 = {
-#		birth = 245.1.1
-#	}
-#	270.1.1 = {
-#		death = 270.1.1
-#	}
-#	dynasty = 23
-#	father = 303
-#	add_trait = "creature_ailor"
-#}
-
-#305 = {
-#	name = "Juvinois" # Ivrae de Sange
-#	culture = ithanian
-#	religion = unionism
-#	247.1.1 = {
-#		birth = 247.1.1
-#	}
-#	270.1.1 = {
-#		death = 270.1.1
-#	}
-#	dynasty = 23
-#	father = 303
-#	add_trait = "creature_ailor"
-#}
-
-306 = {
-	name = "Therinois" # Ivrae de Sange
+304 = {
+	name = "Augusta" # Ivrae de Sange
 	culture = ithanian
 	religion = unionism
-	251.1.1 = {
-		birth = 251.1.1
+	female = yes
+	265.1.1 = {
+		birth = 265.1.1
 	}
-	270.1.1 = {
-		death = 270.1.1
+
+	291.1.1 = {
+		death = 291.1.1
+	}
+	dynasty = 23
+	father = 303
+	add_trait = "creature_ailor"
+}
+
+305 = {
+	name = "Allamar" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	262.1.1 = {
+		birth = 262.1.1
+	}
+	291.1.1 = {
+		death = 291.1.1
+	}
+	dynasty = 23
+	father = 303
+	add_trait = "creature_ailor"
+}
+
+306 = {
+	name = "Theromar" # Ivrae de Sange
+	culture = ithanian
+	religion = unionism
+	258.1.1 = {
+		birth = 258.1.1
+	}
+	291.1.1 = {
+		death = 291.1.1
 	}
 	dynasty = 23
 	father = 303

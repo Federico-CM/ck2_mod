@@ -47,13 +47,13 @@
 	holder = 289 # Allomar I aka Allest the Conqueror
 }
 211.1.1 = {
-	holder = 298 # Hendromar IV
+	holder = 300 # Hendromar IV
 }
 219.1.1 = {
-	holder = 285 # Justomara III
+	holder = 301 # Justomara III
 }
 224.1.1 = {
-	holder = 301 # Hendromar V
+	holder = 298 # Hendromar V
 }
 227.1.1 = {
 	holder = 291 # Ottomar I
@@ -62,16 +62,16 @@
 	holder = 292 # Balthezar I
 }
 235.1.1 = {
-	holder = 293 # Hendromara VI
+	holder = 297 # Hendromara VI
 }
 240.1.1 = {
-	holder = 286 # Hendromar VII
+	holder = 294 # Hendromar VII
 }
 244.1.1 = {
-	holder = 299 # Allomar II
+	holder = 296 # Allomar II
 }
 249.1.1 = {
-	holder = 297 # Allomara III
+	holder = 299 # Allomara III
 }
 255.1.1 = {
 	holder = 290 # Vilmarga I

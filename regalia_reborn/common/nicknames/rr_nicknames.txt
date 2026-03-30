@@ -1,0 +1,15 @@
+# the following appear only in historical characters
+
+nick_the_dusk_swan = {}
+nick_the_redeemer = {}
+nick_the_silken_vixen = {}
+nick_the_lawmaker = {}
+nick_the_sage = {}
+nick_the_first = {}
+nick_the_grandfather = {}
+nick_the_writer = {}
+nick_the_giant = {}
+nick_the_soldier = {}
+nick_the_serpent = {}
+nick_the_repentant = {}
+nick_the_unprepared = {} 
