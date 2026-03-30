@@ -1,6 +1,4 @@
 adjacencies = {
-			695=1215
-453=1418
 772=517
 545=642
 747=536
@@ -71,24 +69,19 @@ adjacencies = {
 842=814
 850=805
 842=810
-695=1215
 642=545
 599=813
 734=785
 642=749
 633=835
 517=772
-453=1418
 472=814
 146=809
 141=798
 521=758
-1215=695
-1418=453
 961=853
-1360=828
 1107=812
-1269=814}
+}
 
 culture_group_spread = {
 	factor = 100
@@ -342,9 +335,9 @@ religion_group_spawn = {
 	modifier = {
 		factor = 0
 		is_island = yes
-		NOT = {
-			region = world_europe_west_brittania
-		}
+		#NOT = {
+		#	region = world_europe_west_brittania
+		#}
 	}
 }
 

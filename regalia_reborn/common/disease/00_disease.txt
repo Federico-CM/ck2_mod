@@ -798,13 +798,13 @@ bubonic_plague = {
 			excluded_regions = {
 			}
 		}
-		outbreak_scenario = {
-			chance = 0.10
-			start_provinces = {
-			1388			}
-			excluded_regions = {
-			}
-		}
+		# outbreak_scenario = {
+			# chance = 0.10
+			# start_provinces = {
+			# 1388			}
+			# excluded_regions = {
+			# }
+		# }
 	}
 	timeperiod = {
 		start_date = 1269.1.1
@@ -822,13 +822,13 @@ bubonic_plague = {
 		max_nb_province = 20
 		one_only = yes
 		province_infection_duration = 36
-		outbreak_scenario = {
-			chance = 0.30
-			start_provinces = {
-			1297			}
-			excluded_regions = {
-			}
-		}
+		# outbreak_scenario = {
+			# chance = 0.30
+			# start_provinces = {
+			# 1297			}
+			# excluded_regions = {
+			# }
+		# }
 		outbreak_scenario = {
 			chance = 0.20
 			start_provinces = {
@@ -912,13 +912,13 @@ bubonic_plague = {
 			excluded_regions = {
 			}
 		}
-		outbreak_scenario = {
-			chance = 0.10
-			start_provinces = {
-			1203			}
-			excluded_regions = {
-			}
-		}
+		# outbreak_scenario = {
+			# chance = 0.10
+			# start_provinces = {
+			# 1203			}
+			# excluded_regions = {
+			# }
+		# }
 		outbreak_scenario = {
 			chance = 0.10
 			start_provinces = {
@@ -957,13 +957,13 @@ bubonic_plague = {
 		min_nb_province = 1
 		max_nb_province = 20
 		one_only = yes
-		outbreak_scenario = {
-			chance = 0.30
-			start_provinces = {
-			1286			}
-			excluded_regions = {
-			}
-		}
+		# outbreak_scenario = {
+			# chance = 0.30
+			# start_provinces = {
+			# 1286			}
+			# excluded_regions = {
+			# }
+		# }
 		outbreak_scenario = {
 			chance = 0.20
 			start_provinces = {
@@ -985,20 +985,20 @@ bubonic_plague = {
 			excluded_regions = {
 			}
 		}
-		outbreak_scenario = {
-			chance = 0.10
-			start_provinces = {
-			1155			}
-			excluded_regions = {
-			}
-		}
-		outbreak_scenario = {
-			chance = 0.10
-			start_provinces = {
-			1319			}
-			excluded_regions = {
-			}
-		}
+		# outbreak_scenario = {
+			# chance = 0.10
+			# start_provinces = {
+			# 1155			}
+			# excluded_regions = {
+			# }
+		# }
+		# outbreak_scenario = {
+			# chance = 0.10
+			# start_provinces = {
+			# 1319			}
+			# excluded_regions = {
+			# }
+		# }
 		outbreak_scenario = {
 			chance = 0.10
 			start_provinces = {
