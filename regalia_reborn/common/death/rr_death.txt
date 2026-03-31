@@ -1,0 +1,15 @@
+# custom mod deaths
+death_undead_no_killer = {
+	long_desc = "DEATH_UNDEAD_NO_KILLER"
+}
+
+death_defenestration_no_killer = {
+	long_desc = "DEATH_DEFENESTRATION_NO_KILLER"
+}
+
+
+death_dogs_no_killer = {
+	long_desc = "DEATH_DOGS_NO_KILLER"
+}
+
+
