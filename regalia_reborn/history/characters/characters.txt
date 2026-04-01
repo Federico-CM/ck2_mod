@@ -2,6 +2,10 @@
 	name = "Alexander" # Kade
 	culture = anglian
 	religion = unionism
+	dynasty = 1
+	#mother = 107
+	father = 106
+	add_trait = "creature_ailor"
 	257.1.1 = {
 		birth = 257.1.1
 	}
@@ -24,10 +28,6 @@
 			death_reason = death_missing
 		}
 	}
-	dynasty = 1
-	#mother = 107
-	father = 106
-	add_trait = "creature_ailor"
 }
 
 2 = {
@@ -35,6 +35,8 @@
 	culture = velheim
 	religion = fornoss
 	female = yes
+	dynasty = 15
+	add_trait = "creature_ailor"
 	206.1.1 = {
 		birth = 206.1.1
 	}
@@ -45,14 +47,14 @@
 	264.1.1 = {
 		death = 264.1.1
 	}
-	dynasty = 15
-	add_trait = "creature_ailor"
 }
 
 3 = {
 	name = "Adalradr" # Oltorskr
 	culture = velheim
 	religion = fornoss
+	dynasty = 15
+	add_trait = "creature_ailor"
 	196.1.1 = {
 		birth = 196.1.1
 	}
@@ -63,8 +65,6 @@
 	256.1.1 = {
 		death = 256.1.1
 	}
-	dynasty = 15
-	add_trait = "creature_ailor"
 }
 
 4 = {
@@ -72,12 +72,6 @@
 	culture = velheim
 	religion = fornoss
 	female = yes
-	268.1.1 = {
-		birth = 268.1.1
-	}
-	368.1.1 = {
-		death = 368.1.1
-	}
 	dynasty = 15
 	mother = 5
 	father = 138
@@ -94,6 +88,12 @@
 	add_trait = "wroth"
 	add_trait = "robust"
 	disallow_random_traits = yes
+	268.1.1 = {
+		birth = 268.1.1
+	}
+	368.1.1 = {
+		death = 368.1.1
+	}
 }
 
 5 = {
@@ -101,16 +101,6 @@
 	culture = velheim
 	religion = fornoss
 	female = yes
-	243.1.1 = {
-		birth = 243.1.1
-	}
-
-	283.4.1 = {
-		add_spouse = 138
-	}
-	343.1.1 = {
-		death = 343.1.1
-	}
 	dynasty = 2
 
 	diplomacy = 17
@@ -124,18 +114,22 @@
 	add_trait = "content"
 	add_trait = "fair"
 	disallow_random_traits = yes
+	243.1.1 = {
+		birth = 243.1.1
+	}
+
+	283.4.1 = {
+		add_spouse = 138
+	}
+	343.1.1 = {
+		death = 343.1.1
+	}
 }
 
 6 = {
 	name = "Aron" # Oltorskr
 	culture = velheim
 	religion = fornoss
-	264.1.1 = {
-		birth = 264.1.1
-	}
-	364.1.1 = {
-		death = 364.1.1
-	}
 	dynasty = 15
 	mother = 5
 	father = 138
@@ -153,18 +147,18 @@
 	add_trait = "groomed"
 	add_trait = "ambitious"
 	disallow_random_traits = yes
+	264.1.1 = {
+		birth = 264.1.1
+	}
+	364.1.1 = {
+		death = 364.1.1
+	}
 }
 
 7 = {
 	name = "Enok" # Oltorskr
 	culture = velheim
 	religion = fornoss
-	262.1.1 = {
-		birth = 262.1.1
-	}
-	362.1.1 = {
-		death = 362.1.1
-	}
 	dynasty = 15
 	mother = 5
 	father = 138
@@ -181,6 +175,12 @@
 	add_trait = "zealous"
 	add_trait = "proud"
 	disallow_random_traits = yes
+	262.1.1 = {
+		birth = 262.1.1
+	}
+	362.1.1 = {
+		death = 362.1.1
+	}
 }
 
 8 = {
@@ -188,12 +188,6 @@
 	culture = velheim
 	religion = fornoss
 	female = yes
-	284.1.1 = {
-		birth = 284.1.1
-	}
-	384.1.1 = {
-		death = 384.1.1
-	}
 	dynasty = 15
 	mother = 5
 	father = 138
@@ -210,6 +204,12 @@
 	add_trait = "duelist"
 	add_trait = "gregarious"
 	disallow_random_traits = yes
+	284.1.1 = {
+		birth = 284.1.1
+	}
+	384.1.1 = {
+		death = 384.1.1
+	}
 }
 
 9 = {
