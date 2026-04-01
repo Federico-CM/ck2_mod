@@ -6946,9 +6946,9 @@
 	265.1.1 = {
 		birth = 265.1.1
 	}
-	312.1.1 = {
+	291.1.1 = {
 		death = {
-			death_reason = death_defenestration_no_killer
+			death_reason = death_undead_no_killer
 		}
 	}
 }
@@ -6965,7 +6965,9 @@
 		birth = 262.1.1
 	}
 	291.1.1 = {
-		death = 291.1.1
+		death = {
+			death_reason = death_undead_no_killer
+		}
 	}
 }
 
@@ -6981,7 +6983,9 @@
 		birth = 258.1.1
 	}
 	291.1.1 = {
-		death = 291.1.1
+		death = {
+			death_reason = death_undead_no_killer
+		}
 	}
 }
 
@@ -15590,7 +15594,9 @@
 		birth = 256.1.1
 	}
 	301.1.1 = {
-		death = 301.1.1
+		death = {
+			death_reason = death_defenestration_no_killer
+		}
 	}
 }
 
