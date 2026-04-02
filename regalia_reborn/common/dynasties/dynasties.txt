@@ -1645,3 +1645,7 @@
 	culture = asha
 }
 
+328 = {
+	name = "Croy"
+	culture = cearden
+}

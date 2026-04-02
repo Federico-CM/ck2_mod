@@ -73,6 +73,7 @@
 	dynasty = 15
 	mother = 5
 	father = 138
+
 	diplomacy = 11
 	martial = 6
 	stewardship = 6
@@ -100,6 +101,7 @@
 	religion = fornoss
 	female = yes
 	dynasty = 2
+
 	diplomacy = 17
 	martial = 10
 	stewardship = 10
@@ -130,6 +132,7 @@
 	dynasty = 15
 	mother = 5
 	father = 138
+
 	diplomacy = 11
 	martial = 12
 	stewardship = 12
@@ -159,6 +162,7 @@
 	dynasty = 15
 	mother = 5
 	father = 138
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -188,6 +192,7 @@
 	dynasty = 15
 	mother = 5
 	father = 138
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -217,6 +222,7 @@
 	dynasty = 15
 	mother = 5
 	father = 138
+
 	diplomacy = 14
 	martial = 10
 	stewardship = 12
@@ -248,6 +254,7 @@
 	dynasty = 15
 	mother = 9
 	father = 210
+
 	diplomacy = 9
 	martial = 8
 	stewardship = 14
@@ -275,6 +282,7 @@
 	dynasty = 3
 	mother = 9
 	father = 210
+
 	diplomacy = 8
 	martial = 7
 	stewardship = 6
@@ -303,6 +311,7 @@
 	dynasty = 3
 	mother = 13
 	father = 14
+
 	diplomacy = 11
 	martial = 9
 	stewardship = 11
@@ -383,6 +392,7 @@
 	dynasty = 3
 	mother = 13
 	father = 14
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 7
@@ -409,6 +419,7 @@
 	religion = unionism
 	dynasty = 5
 	father = 18
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 7
@@ -436,6 +447,7 @@
 	culture = velheim
 	religion = fornoss
 	dynasty = 6
+
 	diplomacy = 18
 	martial = 11
 	stewardship = 17
@@ -499,6 +511,7 @@
 	dynasty = 3
 	mother = 22
 	father = 23
+
 	diplomacy = 8
 	martial = 5
 	stewardship = 6
@@ -527,6 +540,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 7
+
 	diplomacy = 13
 	martial = 12
 	stewardship = 14
@@ -562,6 +576,7 @@
 	dynasty = 3
 	mother = 24
 	father = 25
+
 	diplomacy = 12
 	martial = 11
 	stewardship = 13
@@ -597,6 +612,7 @@
 	female = yes
 	dynasty = 8
 	father = 519
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 7
@@ -628,6 +644,7 @@
 	religion = unionism
 	dynasty = 3
 	father = 15
+
 	diplomacy = 20
 	martial = 9
 	stewardship = 17
@@ -658,6 +675,7 @@
 	dynasty = 3
 	mother = 27
 	father = 23
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 5
@@ -685,6 +703,7 @@
 	female = yes
 	dynasty = 9
 	father = 1087
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -718,6 +737,7 @@
 	dynasty = 3
 	mother = 27
 	father = 23
+
 	diplomacy = 10
 	martial = 6
 	stewardship = 7
@@ -746,6 +766,7 @@
 	dynasty = 3
 	mother = 24
 	father = 25
+
 	diplomacy = 9
 	martial = 7
 	stewardship = 6
@@ -795,6 +816,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 10
+
 	diplomacy = 9
 	martial = 13
 	stewardship = 7
@@ -829,6 +851,7 @@
 	dynasty = 3
 	mother = 31
 	father = 29
+
 	diplomacy = 7
 	martial = 9
 	stewardship = 5
@@ -856,6 +879,7 @@
 	dynasty = 3
 	mother = 31
 	father = 29
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 6
@@ -885,6 +909,7 @@
 	dynasty = 3
 	mother = 31
 	father = 29
+
 	diplomacy = 11
 	martial = 5
 	stewardship = 5
@@ -913,6 +938,7 @@
 	dynasty = 3
 	mother = 27
 	father = 23
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -940,6 +966,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 11
+
 	diplomacy = 21
 	martial = 11
 	stewardship = 15
@@ -1092,6 +1119,7 @@
 	religion = unionism
 	dynasty = 12
 	father = 40
+
 	diplomacy = 20
 	martial = 9
 	stewardship = 10
@@ -1118,6 +1146,7 @@
 	religion = unionism
 	dynasty = 12
 	father = 44
+
 	diplomacy = 10
 	martial = 14
 	stewardship = 10
@@ -1147,6 +1176,7 @@
 	religion = unionism
 	dynasty = 12
 	father = 44
+
 	diplomacy = 8
 	martial = 14
 	stewardship = 10
@@ -1176,6 +1206,7 @@
 	religion = unionism
 	dynasty = 12
 	father = 44
+
 	diplomacy = 14
 	martial = 8
 	stewardship = 6
@@ -1203,6 +1234,7 @@
 	dynasty = 12
 	mother = 20
 	father = 43
+
 	diplomacy = 8
 	martial = 9
 	stewardship = 12
@@ -1232,6 +1264,7 @@
 	dynasty = 12
 	mother = 479
 	father = 45
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -1260,6 +1293,7 @@
 	dynasty = 12
 	mother = 479
 	father = 45
+
 	diplomacy = 10
 	martial = 8
 	stewardship = 10
@@ -1288,6 +1322,7 @@
 	dynasty = 12
 	mother = 479
 	father = 45
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -1315,6 +1350,7 @@
 	dynasty = 12
 	mother = 20
 	father = 43
+
 	diplomacy = 12
 	martial = 7
 	stewardship = 10
@@ -1342,6 +1378,7 @@
 	religion = unionism
 	dynasty = 12
 	father = 52
+
 	diplomacy = 10
 	martial = 11
 	stewardship = 7
@@ -1369,6 +1406,7 @@
 	female = yes
 	dynasty = 12
 	father = 52
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -1395,6 +1433,7 @@
 	religion = unionism
 	dynasty = 12
 	father = 52
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -1422,6 +1461,7 @@
 	religion = unionism
 	dynasty = 12
 	father = 48
+
 	diplomacy = 10
 	martial = 6
 	stewardship = 8
@@ -1448,6 +1488,7 @@
 	religion = unionism
 	dynasty = 12
 	father = 48
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -1476,6 +1517,7 @@
 	religion = unionism
 	dynasty = 12
 	father = 48
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -1504,6 +1546,7 @@
 	female = yes
 	dynasty = 12
 	father = 48
+
 	diplomacy = 7
 	martial = 10
 	stewardship = 9
@@ -1533,6 +1576,7 @@
 	religion = unionism
 	dynasty = 12
 	father = 50
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 6
@@ -1561,6 +1605,7 @@
 	dynasty = 12
 	mother = 479
 	father = 45
+
 	diplomacy = 13
 	martial = 10
 	stewardship = 9
@@ -2384,6 +2429,7 @@
 	dynasty = 23
 	#mother = 309
 	father = 296
+
 	diplomacy = 11
 	martial = 6
 	stewardship = 15
@@ -2415,6 +2461,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 24
+
 	diplomacy = 10
 	martial = 6
 	stewardship = 6
@@ -2447,6 +2494,7 @@
 	dynasty = 1
 	mother = 108
 	father = 110
+
 	diplomacy = 7
 	martial = 10
 	stewardship = 7
@@ -2475,6 +2523,7 @@
 	dynasty = 1
 	mother = 112
 	father = 111
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 6
@@ -2507,6 +2556,7 @@
 	dynasty = 1
 	mother = 98
 	father = 97
+
 	diplomacy = 10
 	martial = 15
 	stewardship = 13
@@ -2536,6 +2586,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 25
+
 	diplomacy = 13
 	martial = 15
 	stewardship = 7
@@ -2566,6 +2617,7 @@
 	dynasty = 1
 	mother = 112
 	father = 111
+
 	diplomacy = 17
 	martial = 9
 	stewardship = 10
@@ -2593,6 +2645,7 @@
 	dynasty = 1
 	mother = 112
 	father = 111
+
 	diplomacy = 10
 	martial = 7
 	stewardship = 10
@@ -2621,6 +2674,7 @@
 	dynasty = 1
 	mother = 98
 	father = 97
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 10
@@ -2651,6 +2705,7 @@
 	dynasty = 1
 	mother = 98
 	father = 97
+
 	diplomacy = 13
 	martial = 7
 	stewardship = 24
@@ -2680,6 +2735,7 @@
 	dynasty = 1
 	mother = 98
 	father = 97
+
 	diplomacy = 10
 	martial = 9
 	stewardship = 9
@@ -2726,6 +2782,7 @@
 	culture = anglian
 	religion = unionism
 	dynasty = 26
+
 	diplomacy = 24
 	martial = 10
 	stewardship = 17
@@ -2757,6 +2814,7 @@
 	dynasty = 1
 	mother = 118
 	father = 119
+
 	diplomacy = 7
 	martial = 9
 	stewardship = 7
@@ -2839,6 +2897,7 @@
 	dynasty = 1
 	mother = 98
 	father = 97
+
 	diplomacy = 8
 	martial = 5
 	stewardship = 7
@@ -2867,6 +2926,7 @@
 	culture = ithanian
 	religion = unionism
 	dynasty = 27
+
 	diplomacy = 9
 	martial = 14
 	stewardship = 11
@@ -2898,6 +2958,7 @@
 	religion = unionism
 	dynasty = 1
 	mother = 116
+
 	diplomacy = 9
 	martial = 9
 	stewardship = 8
@@ -2927,6 +2988,7 @@
 	religion = unionism
 	dynasty = 1
 	mother = 116
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 11
@@ -2956,6 +3018,7 @@
 	female = yes
 	dynasty = 1
 	mother = 116
+
 	diplomacy = 9
 	martial = 7
 	stewardship = 8
@@ -2983,6 +3046,7 @@
 	religion = unionism
 	dynasty = 1
 	mother = 116
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -3029,6 +3093,7 @@
 	dynasty = 1
 	mother = 124
 	father = 125
+
 	diplomacy = 9
 	martial = 7
 	stewardship = 8
@@ -3057,6 +3122,7 @@
 	dynasty = 1
 	mother = 124
 	father = 125
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -3085,6 +3151,7 @@
 	dynasty = 1
 	mother = 124
 	father = 125
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -3114,6 +3181,7 @@
 	dynasty = 1
 	mother = 124
 	father = 125
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 9
@@ -3142,6 +3210,7 @@
 	dynasty = 1
 	mother = 124
 	father = 125
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 7
@@ -3169,6 +3238,7 @@
 	dynasty = 1
 	mother = 124
 	father = 125
+
 	diplomacy = 8
 	martial = 8
 	stewardship = 9
@@ -3220,6 +3290,7 @@
 	dynasty = 15
 	mother = 2
 	father = 3
+
 	diplomacy = 16
 	martial = 30
 	stewardship = 13
@@ -3272,6 +3343,7 @@
 	dynasty = 1
 	mother = 137
 	father = 1
+
 	diplomacy = 5
 	martial = 8
 	stewardship = 8
@@ -3303,6 +3375,7 @@
 	dynasty = 1
 	mother = 137
 	father = 1
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -3330,6 +3403,7 @@
 	dynasty = 1
 	mother = 137
 	father = 1
+
 	diplomacy = 9
 	martial = 10
 	stewardship = 7
@@ -3360,6 +3434,7 @@
 	dynasty = 1
 	mother = 139
 	father = 1
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -3387,6 +3462,7 @@
 	dynasty = 1
 	mother = 139
 	father = 1
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 7
@@ -3501,6 +3577,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 29
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 6
@@ -3532,6 +3609,7 @@
 	dynasty = 1
 	mother = 107
 	father = 106
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 6
@@ -3584,6 +3662,7 @@
 	dynasty = 1
 	mother = 152
 	father = 151
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 6
@@ -3611,6 +3690,7 @@
 	dynasty = 1
 	mother = 152
 	father = 151
+
 	diplomacy = 8
 	martial = 7
 	stewardship = 9
@@ -3639,6 +3719,7 @@
 	dynasty = 1
 	mother = 152
 	father = 151
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 10
@@ -3667,6 +3748,7 @@
 	dynasty = 1
 	mother = 152
 	father = 151
+
 	diplomacy = 8
 	martial = 8
 	stewardship = 7
@@ -3695,6 +3777,7 @@
 	dynasty = 1
 	mother = 152
 	father = 151
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 7
@@ -3722,6 +3805,7 @@
 	dynasty = 1
 	mother = 152
 	father = 151
+
 	diplomacy = 11
 	martial = 7
 	stewardship = 6
@@ -3750,6 +3834,7 @@
 	dynasty = 1
 	mother = 112
 	father = 111
+
 	diplomacy = 16
 	martial = 12
 	stewardship = 13
@@ -3777,6 +3862,7 @@
 	dynasty = 1
 	mother = 107
 	father = 106
+
 	diplomacy = 7
 	martial = 19
 	stewardship = 11
@@ -3804,6 +3890,7 @@
 	dynasty = 1
 	mother = 107
 	father = 106
+
 	diplomacy = 9
 	martial = 9
 	stewardship = 9
@@ -3834,6 +3921,7 @@
 	dynasty = 1
 	mother = 107
 	father = 106
+
 	diplomacy = 12
 	martial = 23
 	stewardship = 8
@@ -3864,6 +3952,7 @@
 	dynasty = 1
 	mother = 107
 	father = 106
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -3893,6 +3982,7 @@
 	dynasty = 1
 	mother = 107
 	father = 106
+
 	diplomacy = 11
 	martial = 6
 	stewardship = 9
@@ -3922,6 +4012,7 @@
 	dynasty = 1
 	mother = 107
 	father = 106
+
 	diplomacy = 5
 	martial = 8
 	stewardship = 7
@@ -3949,6 +4040,7 @@
 	dynasty = 1
 	mother = 107
 	father = 106
+
 	diplomacy = 9
 	martial = 8
 	stewardship = 6
@@ -3978,6 +4070,7 @@
 	dynasty = 1
 	mother = 107
 	father = 106
+
 	diplomacy = 6
 	martial = 10
 	stewardship = 16
@@ -4004,6 +4097,7 @@
 	female = yes
 	dynasty = 23
 	mother = 313
+
 	diplomacy = 6
 	martial = 10
 	stewardship = 6
@@ -4036,6 +4130,7 @@
 	dynasty = 1
 	mother = 168
 	father = 140
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 5
@@ -4064,6 +4159,7 @@
 	dynasty = 1
 	mother = 168
 	father = 140
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 6
@@ -4089,6 +4185,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 32
+
 	diplomacy = 6
 	martial = 11
 	stewardship = 5
@@ -4248,6 +4345,7 @@
 	dynasty = 34
 	mother = 178
 	father = 96
+
 	diplomacy = 16
 	martial = 12
 	stewardship = 18
@@ -4277,6 +4375,7 @@
 	dynasty = 34
 	mother = 178
 	father = 96
+
 	diplomacy = 14
 	martial = 12
 	stewardship = 16
@@ -4307,6 +4406,7 @@
 	dynasty = 34
 	mother = 178
 	father = 96
+
 	diplomacy = 11
 	martial = 16
 	stewardship = 9
@@ -4356,6 +4456,7 @@
 	female = yes
 	dynasty = 36
 	father = 478
+
 	diplomacy = 15
 	martial = 19
 	stewardship = 11
@@ -4388,6 +4489,7 @@
 	dynasty = 35
 	mother = 183
 	father = 182
+
 	diplomacy = 10
 	martial = 9
 	stewardship = 19
@@ -4416,6 +4518,7 @@
 	female = yes
 	dynasty = 37
 	father = 468
+
 	diplomacy = 13
 	martial = 12
 	stewardship = 7
@@ -4450,6 +4553,7 @@
 	dynasty = 35
 	mother = 183
 	father = 182
+
 	diplomacy = 14
 	martial = 19
 	stewardship = 11
@@ -4482,6 +4586,7 @@
 	dynasty = 35
 	mother = 183
 	father = 182
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 11
@@ -4511,6 +4616,7 @@
 	dynasty = 35
 	mother = 185
 	father = 186
+
 	diplomacy = 10
 	martial = 11
 	stewardship = 8
@@ -4538,6 +4644,7 @@
 	dynasty = 35
 	mother = 185
 	father = 186
+
 	diplomacy = 7
 	martial = 8
 	stewardship = 6
@@ -4568,6 +4675,7 @@
 	female = yes
 	dynasty = 35
 	father = 215
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 5
@@ -4595,6 +4703,7 @@
 	dynasty = 35
 	mother = 185
 	father = 186
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 6
@@ -4624,6 +4733,7 @@
 	dynasty = 35
 	mother = 185
 	father = 186
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 6
@@ -4654,6 +4764,7 @@
 	dynasty = 35
 	mother = 185
 	father = 186
+
 	diplomacy = 8
 	martial = 11
 	stewardship = 5
@@ -4684,6 +4795,7 @@
 	dynasty = 35
 	mother = 9
 	father = 186
+
 	diplomacy = 5
 	martial = 7
 	stewardship = 5
@@ -4712,6 +4824,7 @@
 	dynasty = 35
 	mother = 9
 	father = 186
+
 	diplomacy = 9
 	martial = 6
 	stewardship = 8
@@ -4757,6 +4870,7 @@
 	dynasty = 35
 	mother = 10
 	father = 188
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 5
@@ -4842,6 +4956,7 @@
 	dynasty = 35
 	mother = 203
 	father = 204
+
 	diplomacy = 6
 	martial = 8
 	stewardship = 7
@@ -4869,6 +4984,7 @@
 	dynasty = 35
 	mother = 183
 	father = 182
+
 	diplomacy = 10
 	martial = 12
 	stewardship = 10
@@ -4897,6 +5013,7 @@
 	dynasty = 39
 	mother = 328
 	father = 329
+
 	diplomacy = 7
 	martial = 8
 	stewardship = 11
@@ -4927,6 +5044,7 @@
 	dynasty = 35
 	mother = 183
 	father = 182
+
 	diplomacy = 11
 	martial = 6
 	stewardship = 10
@@ -4960,6 +5078,7 @@
 	dynasty = 35
 	mother = 183
 	father = 182
+
 	diplomacy = 12
 	martial = 7
 	stewardship = 9
@@ -4989,6 +5108,7 @@
 	religion = unionism
 	dynasty = 40
 	father = 317
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 10
@@ -5195,6 +5315,7 @@
 	dynasty = 35
 	mother = 199
 	father = 200
+
 	diplomacy = 11
 	martial = 19
 	stewardship = 11
@@ -5239,6 +5360,7 @@
 	religion = unionism
 	dynasty = 35
 	father = 217
+
 	diplomacy = 6
 	martial = 11
 	stewardship = 9
@@ -5266,6 +5388,7 @@
 	religion = unionism
 	dynasty = 35
 	father = 217
+
 	diplomacy = 9
 	martial = 5
 	stewardship = 10
@@ -5295,6 +5418,7 @@
 	female = yes
 	dynasty = 35
 	father = 217
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 7
@@ -5323,6 +5447,7 @@
 	dynasty = 35
 	mother = 199
 	father = 200
+
 	diplomacy = 11
 	martial = 9
 	stewardship = 7
@@ -5351,6 +5476,7 @@
 	female = yes
 	dynasty = 35
 	mother = 221
+
 	diplomacy = 8
 	martial = 11
 	stewardship = 6
@@ -5377,6 +5503,7 @@
 	religion = unionism
 	dynasty = 35
 	mother = 221
+
 	diplomacy = 7
 	martial = 8
 	stewardship = 9
@@ -5439,6 +5566,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 43
+
 	diplomacy = 14
 	martial = 16
 	stewardship = 13
@@ -5469,6 +5597,7 @@
 	dynasty = 42
 	mother = 226
 	father = 225
+
 	diplomacy = 8
 	martial = 21
 	stewardship = 9
@@ -5499,6 +5628,7 @@
 	dynasty = 42
 	mother = 226
 	father = 225
+
 	diplomacy = 10
 	martial = 17
 	stewardship = 9
@@ -5527,6 +5657,7 @@
 	dynasty = 42
 	mother = 36
 	father = 227
+
 	diplomacy = 8
 	martial = 6
 	stewardship = 8
@@ -5557,6 +5688,7 @@
 	dynasty = 42
 	mother = 36
 	father = 227
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 7
@@ -5584,6 +5716,7 @@
 	dynasty = 42
 	mother = 36
 	father = 227
+
 	diplomacy = 12
 	martial = 9
 	stewardship = 9
@@ -5612,6 +5745,7 @@
 	dynasty = 42
 	mother = 36
 	father = 227
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 7
@@ -5640,6 +5774,7 @@
 	dynasty = 42
 	mother = 36
 	father = 227
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -5668,6 +5803,7 @@
 	dynasty = 42
 	mother = 36
 	father = 227
+
 	diplomacy = 9
 	martial = 5
 	stewardship = 6
@@ -6081,6 +6217,7 @@
 	female = yes
 	dynasty = 44
 	mother = 257
+
 	diplomacy = 7
 	martial = 9
 	stewardship = 5
@@ -6107,6 +6244,7 @@
 	religion = unionism
 	dynasty = 44
 	mother = 257
+
 	diplomacy = 14
 	martial = 11
 	stewardship = 9
@@ -6162,6 +6300,7 @@
 	female = yes
 	dynasty = 44
 	mother = 257
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 9
@@ -6189,6 +6328,7 @@
 	female = yes
 	dynasty = 44
 	father = 259
+
 	diplomacy = 11
 	martial = 11
 	stewardship = 8
@@ -6251,6 +6391,7 @@
 	religion = unionism
 	dynasty = 44
 	mother = 257
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 7
@@ -6893,6 +7034,7 @@
 	female = yes
 	dynasty = 34
 	mother = 180
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 7
@@ -7119,6 +7261,7 @@
 	dynasty = 23
 	#mother = 311
 	father = 308
+
 	diplomacy = 17
 	martial = 8
 	stewardship = 17
@@ -7146,6 +7289,7 @@
 	dynasty = 23
 	#mother = 311
 	father = 308
+
 	diplomacy = 14
 	martial = 10
 	stewardship = 8
@@ -7179,6 +7323,7 @@
 	dynasty = 49
 	mother = 582
 	father = 581
+
 	diplomacy = 10
 	martial = 11
 	stewardship = 10
@@ -7207,6 +7352,7 @@
 	dynasty = 3
 	mother = 13
 	father = 14
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 8
@@ -7266,6 +7412,7 @@
 	dynasty = 40
 	mother = 205
 	father = 206
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -7293,6 +7440,7 @@
 	dynasty = 40
 	mother = 205
 	father = 206
+
 	diplomacy = 9
 	martial = 7
 	stewardship = 7
@@ -7320,6 +7468,7 @@
 	dynasty = 40
 	mother = 205
 	father = 206
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -7346,6 +7495,7 @@
 	dynasty = 40
 	mother = 205
 	father = 206
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -7373,6 +7523,7 @@
 	dynasty = 1
 	mother = 118
 	father = 119
+
 	diplomacy = 10
 	martial = 7
 	stewardship = 7
@@ -7477,6 +7628,7 @@
 	dynasty = 39
 	mother = 327
 	father = 326
+
 	diplomacy = 16
 	martial = 28
 	stewardship = 9
@@ -7511,6 +7663,7 @@
 	religion = unionism
 	dynasty = 22
 	mother = 1042
+
 	diplomacy = 20
 	martial = 12
 	stewardship = 17
@@ -7543,6 +7696,7 @@
 	culture = ithanian
 	religion = unionism
 	dynasty = 51
+
 	diplomacy = 8
 	martial = 5
 	stewardship = 5
@@ -7575,6 +7729,7 @@
 	female = yes
 	dynasty = 39
 	mother = 328
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 6
@@ -7602,6 +7757,7 @@
 	dynasty = 39
 	mother = 328
 	father = 330
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 5
@@ -7630,6 +7786,7 @@
 	dynasty = 39
 	mother = 328
 	father = 330
+
 	diplomacy = 8
 	martial = 6
 	stewardship = 7
@@ -7660,6 +7817,7 @@
 	dynasty = 39
 	mother = 328
 	father = 330
+
 	diplomacy = 10
 	martial = 7
 	stewardship = 7
@@ -7690,6 +7848,7 @@
 	dynasty = 39
 	mother = 327
 	father = 326
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -7734,6 +7893,7 @@
 	religion = unionism
 	dynasty = 39
 	mother = 327
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -7761,6 +7921,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 38
+
 	diplomacy = 8
 	martial = 11
 	stewardship = 12
@@ -7790,6 +7951,7 @@
 	dynasty = 39
 	mother = 327
 	father = 326
+
 	diplomacy = 5
 	martial = 7
 	stewardship = 5
@@ -7817,6 +7979,7 @@
 	religion = unionism
 	dynasty = 39
 	mother = 325
+
 	diplomacy = 13
 	martial = 10
 	stewardship = 11
@@ -7847,6 +8010,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 53
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 7
@@ -7879,6 +8043,7 @@
 	dynasty = 39
 	mother = 341
 	father = 340
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 9
@@ -7909,6 +8074,7 @@
 	dynasty = 39
 	mother = 341
 	father = 340
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -7936,6 +8102,7 @@
 	dynasty = 39
 	mother = 341
 	father = 340
+
 	diplomacy = 5
 	martial = 7
 	stewardship = 5
@@ -7962,6 +8129,7 @@
 	religion = fornoss
 	female = yes
 	dynasty = 54
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 12
@@ -7989,6 +8157,7 @@
 	religion = unionism
 	dynasty = 55
 	father = 348
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -8018,6 +8187,7 @@
 	female = yes
 	dynasty = 55
 	father = 348
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 6
@@ -8061,6 +8231,7 @@
 	dynasty = 37
 	mother = 350
 	father = 351
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 7
@@ -8129,6 +8300,7 @@
 	religion = amended
 	dynasty = 37
 	father = 349
+
 	diplomacy = 5
 	martial = 12
 	stewardship = 5
@@ -8338,6 +8510,7 @@
 	dynasty = 59
 	mother = 360
 	father = 359
+
 	diplomacy = 15
 	martial = 24
 	stewardship = 9
@@ -8386,6 +8559,7 @@
 	dynasty = 59
 	mother = 360
 	father = 359
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 7
@@ -8439,6 +8613,7 @@
 	dynasty = 59
 	mother = 365
 	father = 362
+
 	diplomacy = 10
 	martial = 6
 	stewardship = 7
@@ -8466,6 +8641,7 @@
 	dynasty = 59
 	mother = 365
 	father = 362
+
 	diplomacy = 5
 	martial = 8
 	stewardship = 11
@@ -8495,6 +8671,7 @@
 	dynasty = 59
 	mother = 365
 	father = 362
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -8523,6 +8700,7 @@
 	dynasty = 59
 	mother = 365
 	father = 362
+
 	diplomacy = 6
 	martial = 9
 	stewardship = 5
@@ -8549,6 +8727,7 @@
 	culture = cantaluna
 	religion = unionism
 	dynasty = 64
+
 	diplomacy = 18
 	martial = 8
 	stewardship = 14
@@ -8580,6 +8759,7 @@
 	dynasty = 59
 	mother = 364
 	father = 370
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -8607,6 +8787,7 @@
 	religion = unionism
 	dynasty = 59
 	father = 386
+
 	diplomacy = 11
 	martial = 9
 	stewardship = 12
@@ -8636,6 +8817,7 @@
 	dynasty = 59
 	mother = 364
 	father = 370
+
 	diplomacy = 8
 	martial = 5
 	stewardship = 5
@@ -8828,6 +9010,7 @@
 	female = yes
 	dynasty = 59
 	father = 372
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 8
@@ -8855,6 +9038,7 @@
 	female = yes
 	dynasty = 59
 	father = 366
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 5
@@ -9009,6 +9193,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 70
+
 	diplomacy = 9
 	martial = 25
 	stewardship = 13
@@ -9042,6 +9227,7 @@
 	dynasty = 68
 	mother = 391
 	father = 390
+
 	diplomacy = 10
 	martial = 25
 	stewardship = 14
@@ -9073,6 +9259,7 @@
 	female = yes
 	dynasty = 71
 	father = 732
+
 	diplomacy = 16
 	martial = 22
 	stewardship = 15
@@ -9121,6 +9308,7 @@
 	dynasty = 68
 	mother = 395
 	father = 392
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 8
@@ -9151,6 +9339,7 @@
 	dynasty = 68
 	mother = 395
 	father = 392
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 8
@@ -9180,6 +9369,7 @@
 	dynasty = 68
 	mother = 395
 	father = 392
+
 	diplomacy = 9
 	martial = 5
 	stewardship = 8
@@ -9209,6 +9399,7 @@
 	dynasty = 68
 	mother = 395
 	father = 392
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 5
@@ -9237,6 +9428,7 @@
 	dynasty = 68
 	mother = 395
 	father = 392
+
 	diplomacy = 5
 	martial = 9
 	stewardship = 7
@@ -9267,6 +9459,7 @@
 	dynasty = 68
 	mother = 395
 	father = 392
+
 	diplomacy = 14
 	martial = 14
 	stewardship = 8
@@ -9296,6 +9489,7 @@
 	dynasty = 68
 	mother = 393
 	father = 394
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 6
@@ -9341,6 +9535,7 @@
 	female = yes
 	dynasty = 68
 	father = 397
+
 	diplomacy = 10
 	martial = 8
 	stewardship = 15
@@ -9419,6 +9614,7 @@
 	dynasty = 68
 	mother = 393
 	father = 394
+
 	diplomacy = 17
 	martial = 8
 	stewardship = 12
@@ -9446,6 +9642,7 @@
 	dynasty = 68
 	mother = 393
 	father = 394
+
 	diplomacy = 7
 	martial = 11
 	stewardship = 9
@@ -9806,6 +10003,7 @@
 	dynasty = 75
 	mother = 421
 	father = 422
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 10
@@ -9838,6 +10036,7 @@
 	dynasty = 79
 	mother = 423
 	father = 424
+
 	diplomacy = 17
 	martial = 11
 	stewardship = 19
@@ -9868,6 +10067,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 51
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 10
@@ -9901,6 +10101,7 @@
 	dynasty = 79
 	mother = 427
 	father = 428
+
 	diplomacy = 15
 	martial = 10
 	stewardship = 9
@@ -9928,6 +10129,7 @@
 	dynasty = 79
 	mother = 427
 	father = 428
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -9957,6 +10159,7 @@
 	dynasty = 79
 	mother = 427
 	father = 428
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 6
@@ -9986,6 +10189,7 @@
 	dynasty = 79
 	mother = 427
 	father = 428
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 5
@@ -10021,6 +10225,7 @@
 	female = yes
 	dynasty = 47
 	mother = 516
+
 	diplomacy = 7
 	martial = 9
 	stewardship = 7
@@ -10054,6 +10259,7 @@
 	dynasty = 79
 	mother = 427
 	father = 428
+
 	diplomacy = 10
 	martial = 8
 	stewardship = 6
@@ -10084,6 +10290,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 82
+
 	diplomacy = 9
 	martial = 8
 	stewardship = 7
@@ -10110,6 +10317,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 65
+
 	diplomacy = 8
 	martial = 6
 	stewardship = 6
@@ -10141,6 +10349,7 @@
 	dynasty = 79
 	mother = 437
 	father = 435
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 6
@@ -10195,6 +10404,7 @@
 	dynasty = 79
 	mother = 429
 	father = 433
+
 	diplomacy = 5
 	martial = 7
 	stewardship = 6
@@ -10223,6 +10433,7 @@
 	dynasty = 79
 	mother = 429
 	father = 433
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -10401,6 +10612,7 @@
 	dynasty = 83
 	mother = 449
 	father = 448
+
 	diplomacy = 17
 	martial = 19
 	stewardship = 16
@@ -10435,6 +10647,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 26
+
 	diplomacy = 12
 	martial = 10
 	stewardship = 8
@@ -10466,6 +10679,7 @@
 	dynasty = 83
 	mother = 449
 	father = 448
+
 	diplomacy = 19
 	martial = 6
 	stewardship = 18
@@ -10496,6 +10710,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 20
+
 	diplomacy = 11
 	martial = 10
 	stewardship = 21
@@ -10526,6 +10741,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 41
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 8
@@ -10561,6 +10777,7 @@
 	dynasty = 83
 	mother = 451
 	father = 450
+
 	diplomacy = 9
 	martial = 7
 	stewardship = 8
@@ -10587,6 +10804,7 @@
 	dynasty = 83
 	mother = 451
 	father = 450
+
 	diplomacy = 13
 	martial = 9
 	stewardship = 9
@@ -10617,6 +10835,7 @@
 	dynasty = 83
 	mother = 451
 	father = 450
+
 	diplomacy = 11
 	martial = 9
 	stewardship = 9
@@ -10646,6 +10865,7 @@
 	culture = wirtem
 	religion = unionism
 	dynasty = 84
+
 	diplomacy = 8
 	martial = 9
 	stewardship = 11
@@ -10675,6 +10895,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 61
+
 	diplomacy = 8
 	martial = 5
 	stewardship = 6
@@ -10703,6 +10924,7 @@
 	dynasty = 83
 	mother = 451
 	father = 450
+
 	diplomacy = 11
 	martial = 7
 	stewardship = 9
@@ -10731,6 +10953,7 @@
 	dynasty = 83
 	mother = 451
 	father = 450
+
 	diplomacy = 7
 	martial = 9
 	stewardship = 9
@@ -10760,6 +10983,7 @@
 	dynasty = 83
 	mother = 451
 	father = 450
+
 	diplomacy = 8
 	martial = 8
 	stewardship = 6
@@ -10787,6 +11011,7 @@
 	dynasty = 83
 	mother = 453
 	father = 452
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 5
@@ -10816,6 +11041,7 @@
 	dynasty = 83
 	mother = 453
 	father = 452
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 6
@@ -10846,6 +11072,7 @@
 	dynasty = 83
 	mother = 454
 	father = 450
+
 	diplomacy = 10
 	martial = 6
 	stewardship = 10
@@ -10873,6 +11100,7 @@
 	dynasty = 84
 	mother = 457
 	father = 458
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -10901,6 +11129,7 @@
 	dynasty = 84
 	mother = 457
 	father = 458
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 7
@@ -10960,6 +11189,7 @@
 	female = yes
 	dynasty = 1
 	father = 106
+
 	diplomacy = 9
 	martial = 5
 	stewardship = 6
@@ -10989,6 +11219,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 85
+
 	diplomacy = 10
 	martial = 19
 	stewardship = 11
@@ -11035,6 +11266,7 @@
 	dynasty = 63
 	mother = 324
 	father = 389
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 7
@@ -11065,6 +11297,7 @@
 	dynasty = 83
 	mother = 449
 	father = 448
+
 	diplomacy = 13
 	martial = 11
 	stewardship = 18
@@ -11094,6 +11327,7 @@
 	dynasty = 83
 	mother = 449
 	father = 448
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 7
@@ -11127,6 +11361,7 @@
 	dynasty = 83
 	mother = 473
 	father = 475
+
 	diplomacy = 7
 	martial = 7
 	stewardship = 8
@@ -11155,6 +11390,7 @@
 	dynasty = 83
 	mother = 473
 	father = 475
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -11200,6 +11436,7 @@
 	dynasty = 83
 	mother = 449
 	father = 448
+
 	diplomacy = 11
 	martial = 9
 	stewardship = 12
@@ -11356,6 +11593,7 @@
 	dynasty = 81
 	mother = 483
 	father = 482
+
 	diplomacy = 8
 	martial = 8
 	stewardship = 13
@@ -11401,6 +11639,7 @@
 	dynasty = 81
 	mother = 483
 	father = 482
+
 	diplomacy = 10
 	martial = 10
 	stewardship = 8
@@ -11430,6 +11669,7 @@
 	dynasty = 81
 	mother = 483
 	father = 482
+
 	diplomacy = 8
 	martial = 8
 	stewardship = 18
@@ -11457,6 +11697,7 @@
 	dynasty = 81
 	mother = 483
 	father = 482
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 7
@@ -11485,6 +11726,7 @@
 	religion = unionism
 	dynasty = 81
 	mother = 487
+
 	diplomacy = 12
 	martial = 10
 	stewardship = 9
@@ -11511,6 +11753,7 @@
 	religion = unionism
 	dynasty = 81
 	mother = 489
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 7
@@ -11573,6 +11816,7 @@
 	religion = unionism
 	dynasty = 81
 	mother = 494
+
 	diplomacy = 7
 	martial = 7
 	stewardship = 6
@@ -11602,6 +11846,7 @@
 	female = yes
 	dynasty = 81
 	mother = 494
+
 	diplomacy = 19
 	martial = 7
 	stewardship = 13
@@ -11629,6 +11874,7 @@
 	religion = unionism
 	dynasty = 81
 	mother = 494
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 6
@@ -11657,6 +11903,7 @@
 	female = yes
 	dynasty = 81
 	mother = 496
+
 	diplomacy = 8
 	martial = 8
 	stewardship = 13
@@ -11699,6 +11946,7 @@
 	culture = tierravera
 	religion = unionism
 	dynasty = 88
+
 	diplomacy = 11
 	martial = 13
 	stewardship = 18
@@ -11731,6 +11979,7 @@
 	dynasty = 63
 	mother = 324
 	father = 389
+
 	diplomacy = 22
 	martial = 13
 	stewardship = 16
@@ -11785,6 +12034,7 @@
 	female = yes
 	dynasty = 89
 	father = 659
+
 	diplomacy = 5
 	martial = 9
 	stewardship = 5
@@ -11816,6 +12066,7 @@
 	dynasty = 88
 	mother = 503
 	father = 502
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 5
@@ -11845,6 +12096,7 @@
 	dynasty = 88
 	mother = 503
 	father = 502
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 5
@@ -11872,6 +12124,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 90
+
 	diplomacy = 10
 	martial = 15
 	stewardship = 10
@@ -11907,6 +12160,7 @@
 	dynasty = 88
 	mother = 506
 	father = 502
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 5
@@ -11935,6 +12189,7 @@
 	dynasty = 88
 	mother = 501
 	father = 500
+
 	diplomacy = 8
 	martial = 7
 	stewardship = 11
@@ -11962,6 +12217,7 @@
 	dynasty = 88
 	mother = 501
 	father = 500
+
 	diplomacy = 15
 	martial = 8
 	stewardship = 10
@@ -11989,6 +12245,7 @@
 	female = yes
 	dynasty = 88
 	father = 509
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 5
@@ -12017,6 +12274,7 @@
 	female = yes
 	dynasty = 88
 	father = 509
+
 	diplomacy = 7
 	martial = 7
 	stewardship = 8
@@ -12043,6 +12301,7 @@
 	religion = unionism
 	dynasty = 88
 	father = 509
+
 	diplomacy = 8
 	martial = 5
 	stewardship = 5
@@ -12119,6 +12378,7 @@
 	female = yes
 	dynasty = 47
 	mother = 515
+
 	diplomacy = 14
 	martial = 7
 	stewardship = 14
@@ -12148,6 +12408,7 @@
 	female = yes
 	dynasty = 47
 	mother = 516
+
 	diplomacy = 8
 	martial = 11
 	stewardship = 12
@@ -12238,6 +12499,7 @@
 	dynasty = 91
 	mother = 532
 	father = 533
+
 	diplomacy = 21
 	martial = 15
 	stewardship = 9
@@ -12268,6 +12530,7 @@
 	religion = draconism
 	female = yes
 	dynasty = 92
+
 	diplomacy = 8
 	martial = 7
 	stewardship = 16
@@ -12299,6 +12562,7 @@
 	dynasty = 91
 	mother = 523
 	father = 522
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 9
@@ -12327,6 +12591,7 @@
 	dynasty = 91
 	mother = 523
 	father = 522
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 5
@@ -12356,6 +12621,7 @@
 	dynasty = 91
 	mother = 523
 	father = 522
+
 	diplomacy = 8
 	martial = 6
 	stewardship = 5
@@ -12385,6 +12651,7 @@
 	dynasty = 91
 	mother = 523
 	father = 522
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 10
@@ -12413,6 +12680,7 @@
 	dynasty = 91
 	mother = 523
 	father = 522
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -12440,6 +12708,7 @@
 	dynasty = 91
 	mother = 530
 	father = 531
+
 	diplomacy = 11
 	martial = 7
 	stewardship = 6
@@ -12467,6 +12736,7 @@
 	female = yes
 	dynasty = 93
 	father = 771
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -12497,6 +12767,7 @@
 	dynasty = 91
 	mother = 532
 	father = 533
+
 	diplomacy = 10
 	martial = 6
 	stewardship = 9
@@ -12528,6 +12799,7 @@
 	religion = estelley
 	female = yes
 	dynasty = 94
+
 	diplomacy = 11
 	martial = 7
 	stewardship = 15
@@ -12556,6 +12828,7 @@
 	culture = cearden
 	religion = unionism
 	dynasty = 91
+
 	diplomacy = 20
 	martial = 18
 	stewardship = 17
@@ -12587,6 +12860,7 @@
 	female = yes
 	dynasty = 47
 	mother = 517
+
 	diplomacy = 6
 	martial = 9
 	stewardship = 8
@@ -12999,6 +13273,7 @@
 	dynasty = 314
 	mother = 554
 	father = 553
+
 	diplomacy = 17
 	martial = 6
 	stewardship = 10
@@ -13028,6 +13303,7 @@
 	dynasty = 314
 	mother = 554
 	father = 553
+
 	diplomacy = 13
 	martial = 15
 	stewardship = 12
@@ -13055,6 +13331,7 @@
 	dynasty = 314
 	mother = 554
 	father = 553
+
 	diplomacy = 9
 	martial = 12
 	stewardship = 8
@@ -13135,6 +13412,7 @@
 	religion = unionism
 	dynasty = 314
 	father = 560
+
 	diplomacy = 8
 	martial = 9
 	stewardship = 5
@@ -13162,6 +13440,7 @@
 	religion = unionism
 	dynasty = 314
 	father = 560
+
 	diplomacy = 9
 	martial = 14
 	stewardship = 11
@@ -13190,6 +13469,7 @@
 	female = yes
 	dynasty = 314
 	father = 560
+
 	diplomacy = 9
 	martial = 8
 	stewardship = 8
@@ -13290,6 +13570,7 @@
 	dynasty = 314
 	mother = 567
 	father = 551
+
 	diplomacy = 8
 	martial = 6
 	stewardship = 8
@@ -13320,6 +13601,7 @@
 	dynasty = 314
 	mother = 567
 	father = 551
+
 	diplomacy = 12
 	martial = 7
 	stewardship = 14
@@ -13409,6 +13691,7 @@
 	dynasty = 95
 	mother = 572
 	father = 571
+
 	diplomacy = 15
 	martial = 10
 	stewardship = 16
@@ -13437,6 +13720,7 @@
 	dynasty = 314
 	mother = 572
 	father = 571
+
 	diplomacy = 7
 	martial = 10
 	stewardship = 14
@@ -13464,6 +13748,7 @@
 	dynasty = 314
 	mother = 572
 	father = 571
+
 	diplomacy = 13
 	martial = 11
 	stewardship = 11
@@ -13494,6 +13779,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 108
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -13527,6 +13813,7 @@
 	dynasty = 314
 	mother = 576
 	father = 575
+
 	diplomacy = 5
 	martial = 8
 	stewardship = 8
@@ -13570,6 +13857,7 @@
 	dynasty = 314
 	mother = 576
 	father = 575
+
 	diplomacy = 5
 	martial = 9
 	stewardship = 7
@@ -13598,6 +13886,7 @@
 	dynasty = 314
 	mother = 576
 	father = 575
+
 	diplomacy = 7
 	martial = 11
 	stewardship = 8
@@ -13625,6 +13914,7 @@
 	dynasty = 49
 	mother = 613
 	father = 614
+
 	diplomacy = 12
 	martial = 7
 	stewardship = 12
@@ -13655,6 +13945,7 @@
 	culture = tierravera
 	religion = unionism
 	female = yes
+
 	diplomacy = 10
 	martial = 27
 	stewardship = 11
@@ -13689,6 +13980,7 @@
 	dynasty = 49
 	mother = 613
 	father = 614
+
 	diplomacy = 11
 	martial = 14
 	stewardship = 11
@@ -13742,6 +14034,7 @@
 	dynasty = 49
 	mother = 613
 	father = 614
+
 	diplomacy = 7
 	martial = 9
 	stewardship = 9
@@ -13774,6 +14067,7 @@
 	dynasty = 49
 	mother = 582
 	father = 581
+
 	diplomacy = 6
 	martial = 8
 	stewardship = 6
@@ -13803,6 +14097,7 @@
 	dynasty = 49
 	mother = 582
 	father = 581
+
 	diplomacy = 9
 	martial = 8
 	stewardship = 7
@@ -13830,6 +14125,7 @@
 	dynasty = 49
 	mother = 582
 	father = 581
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 6
@@ -13860,6 +14156,7 @@
 	dynasty = 49
 	mother = 582
 	father = 581
+
 	diplomacy = 9
 	martial = 6
 	stewardship = 10
@@ -13885,6 +14182,7 @@
 	culture = ithanian
 	religion = unionism
 	dynasty = 109
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 7
@@ -13910,6 +14208,7 @@
 	culture = tierravera
 	religion = unionism
 	dynasty = 110
+
 	diplomacy = 7
 	martial = 7
 	stewardship = 5
@@ -13938,6 +14237,7 @@
 	culture = tierravera
 	religion = unionism
 	dynasty = 111
+
 	diplomacy = 9
 	martial = 18
 	stewardship = 9
@@ -13969,6 +14269,7 @@
 	female = yes
 	dynasty = 107
 	mother = 737
+
 	diplomacy = 18
 	martial = 9
 	stewardship = 7
@@ -13999,6 +14300,7 @@
 	dynasty = 49
 	mother = 584
 	father = 591
+
 	diplomacy = 8
 	martial = 9
 	stewardship = 7
@@ -14026,6 +14328,7 @@
 	dynasty = 49
 	mother = 584
 	father = 591
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 7
@@ -14053,6 +14356,7 @@
 	dynasty = 49
 	mother = 584
 	father = 591
+
 	diplomacy = 9
 	martial = 9
 	stewardship = 8
@@ -14081,6 +14385,7 @@
 	dynasty = 49
 	mother = 583
 	father = 592
+
 	diplomacy = 9
 	martial = 8
 	stewardship = 8
@@ -14111,6 +14416,7 @@
 	dynasty = 49
 	mother = 583
 	father = 592
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 8
@@ -14141,6 +14447,7 @@
 	dynasty = 49
 	mother = 583
 	father = 592
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -14170,6 +14477,7 @@
 	dynasty = 49
 	mother = 583
 	father = 592
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 9
@@ -14197,6 +14505,7 @@
 	dynasty = 49
 	mother = 583
 	father = 592
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 5
@@ -14225,6 +14534,7 @@
 	dynasty = 49
 	mother = 583
 	father = 592
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 7
@@ -14253,6 +14563,7 @@
 	dynasty = 49
 	mother = 593
 	father = 585
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -14282,6 +14593,7 @@
 	dynasty = 49
 	mother = 593
 	father = 585
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -14309,6 +14621,7 @@
 	female = yes
 	dynasty = 73
 	father = 742
+
 	diplomacy = 7
 	martial = 8
 	stewardship = 8
@@ -14393,6 +14706,7 @@
 	dynasty = 49
 	mother = 597
 	father = 608
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 8
@@ -14420,6 +14734,7 @@
 	dynasty = 49
 	mother = 597
 	father = 608
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -14447,6 +14762,7 @@
 	dynasty = 49
 	mother = 597
 	father = 608
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 11
@@ -14472,6 +14788,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 112
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 5
@@ -14593,6 +14910,7 @@
 	religion = fornoss
 	female = yes
 	dynasty = 115
+
 	diplomacy = 11
 	martial = 9
 	stewardship = 18
@@ -14627,6 +14945,7 @@
 	dynasty = 113
 	mother = 616
 	father = 615
+
 	diplomacy = 25
 	martial = 12
 	stewardship = 13
@@ -14669,6 +14988,7 @@
 	dynasty = 113
 	mother = 618
 	father = 617
+
 	diplomacy = 9
 	martial = 5
 	stewardship = 16
@@ -14732,6 +15052,7 @@
 	dynasty = 117
 	mother = 782
 	father = 783
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -14761,6 +15082,7 @@
 	religion = fornoss
 	female = yes
 	dynasty = 118
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -14794,6 +15116,7 @@
 	dynasty = 113
 	mother = 618
 	father = 617
+
 	diplomacy = 7
 	martial = 17
 	stewardship = 14
@@ -14823,6 +15146,7 @@
 	dynasty = 113
 	mother = 622
 	father = 621
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 5
@@ -14851,6 +15175,7 @@
 	dynasty = 113
 	mother = 622
 	father = 621
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 5
@@ -14881,6 +15206,7 @@
 	dynasty = 113
 	mother = 624
 	father = 621
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -14908,6 +15234,7 @@
 	dynasty = 113
 	mother = 624
 	father = 621
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 7
@@ -15004,6 +15331,7 @@
 	religion = estelley
 	dynasty = 119
 	mother = 633
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 6
@@ -15031,6 +15359,7 @@
 	female = yes
 	dynasty = 119
 	mother = 633
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 7
@@ -15059,6 +15388,7 @@
 	female = yes
 	dynasty = 119
 	mother = 633
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -15085,6 +15415,7 @@
 	religion = estelley
 	dynasty = 119
 	mother = 633
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 5
@@ -15113,6 +15444,7 @@
 	female = yes
 	dynasty = 119
 	mother = 633
+
 	diplomacy = 12
 	martial = 5
 	stewardship = 6
@@ -15262,6 +15594,7 @@
 	religion = estelley
 	dynasty = 33
 	father = 643
+
 	diplomacy = 13
 	martial = 16
 	stewardship = 13
@@ -15292,6 +15625,7 @@
 	dynasty = 33
 	mother = 645
 	father = 646
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 8
@@ -15322,6 +15656,7 @@
 	dynasty = 33
 	mother = 645
 	father = 646
+
 	diplomacy = 7
 	martial = 8
 	stewardship = 5
@@ -15348,6 +15683,7 @@
 	culture = cearden
 	religion = unionism
 	dynasty = 121
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 8
@@ -15376,6 +15712,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 122
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 10
@@ -15461,6 +15798,7 @@
 	dynasty = 89
 	mother = 671
 	father = 639
+
 	diplomacy = 18
 	martial = 14
 	stewardship = 12
@@ -15489,6 +15827,7 @@
 	religion = unionism
 	dynasty = 89
 	father = 659
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 9
@@ -15516,6 +15855,7 @@
 	female = yes
 	dynasty = 89
 	mother = 654
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -15533,6 +15873,9 @@
 	277.1.1 = {
 		birth = 277.1.1
 	}
+	303.1.1 = {
+		add_spouse = 1179
+	}
 	377.1.1 = {
 		death = 377.1.1
 	}
@@ -15545,6 +15888,7 @@
 	female = yes
 	dynasty = 89
 	father = 653
+
 	diplomacy = 8
 	martial = 5
 	stewardship = 6
@@ -15607,6 +15951,7 @@
 	female = yes
 	dynasty = 89
 	father = 653
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 5
@@ -15636,6 +15981,7 @@
 	religion = amended
 	female = yes
 	dynasty = 123
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -15660,6 +16006,7 @@
 	culture = solvaan
 	religion = estelley
 	dynasty = 124
+
 	diplomacy = 16
 	martial = 12
 	stewardship = 10
@@ -15722,6 +16069,7 @@
 	dynasty = 126
 	mother = 716
 	father = 715
+
 	diplomacy = 15
 	martial = 6
 	stewardship = 10
@@ -15753,6 +16101,7 @@
 	dynasty = 125
 	mother = 664
 	father = 665
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 5
@@ -15780,6 +16129,7 @@
 	dynasty = 125
 	mother = 664
 	father = 665
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 6
@@ -15809,6 +16159,7 @@
 	dynasty = 125
 	mother = 664
 	father = 665
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 7
@@ -15886,6 +16237,7 @@
 	religion = estelley
 	dynasty = 128
 	father = 680
+
 	diplomacy = 12
 	martial = 10
 	stewardship = 11
@@ -15915,6 +16267,7 @@
 	female = yes
 	dynasty = 128
 	father = 680
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 9
@@ -15943,6 +16296,7 @@
 	female = yes
 	dynasty = 128
 	father = 680
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 8
@@ -15971,6 +16325,7 @@
 	religion = estelley
 	dynasty = 128
 	father = 680
+
 	diplomacy = 7
 	martial = 7
 	stewardship = 7
@@ -16000,6 +16355,7 @@
 	female = yes
 	dynasty = 128
 	father = 680
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -16029,6 +16385,7 @@
 	religion = estelley
 	dynasty = 128
 	father = 680
+
 	diplomacy = 10
 	martial = 8
 	stewardship = 11
@@ -16055,6 +16412,7 @@
 	religion = estelley
 	dynasty = 128
 	father = 680
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -16227,6 +16585,7 @@
 	dynasty = 129
 	mother = 685
 	father = 684
+
 	diplomacy = 18
 	martial = 18
 	stewardship = 11
@@ -16256,6 +16615,7 @@
 	dynasty = 129
 	mother = 685
 	father = 684
+
 	diplomacy = 15
 	martial = 13
 	stewardship = 17
@@ -16288,6 +16648,7 @@
 	female = yes
 	dynasty = 129
 	father = 686
+
 	diplomacy = 9
 	martial = 9
 	stewardship = 9
@@ -16314,6 +16675,7 @@
 	culture = solvaan
 	religion = estelley
 	dynasty = 131
+
 	diplomacy = 24
 	martial = 11
 	stewardship = 27
@@ -16344,6 +16706,7 @@
 	female = yes
 	dynasty = 129
 	father = 686
+
 	diplomacy = 13
 	martial = 17
 	stewardship = 13
@@ -16372,6 +16735,7 @@
 	religion = estelley
 	dynasty = 129
 	father = 686
+
 	diplomacy = 18
 	martial = 9
 	stewardship = 14
@@ -16418,6 +16782,7 @@
 	religion = estelley
 	dynasty = 129
 	father = 687
+
 	diplomacy = 10
 	martial = 7
 	stewardship = 12
@@ -16445,6 +16810,7 @@
 	female = yes
 	dynasty = 129
 	father = 687
+
 	diplomacy = 11
 	martial = 6
 	stewardship = 14
@@ -16474,6 +16840,7 @@
 	dynasty = 129
 	mother = 688
 	father = 690
+
 	diplomacy = 16
 	martial = 7
 	stewardship = 11
@@ -16502,6 +16869,7 @@
 	dynasty = 129
 	mother = 685
 	father = 684
+
 	diplomacy = 10
 	martial = 11
 	stewardship = 8
@@ -16534,6 +16902,7 @@
 	female = yes
 	dynasty = 129
 	father = 687
+
 	diplomacy = 8
 	martial = 11
 	stewardship = 9
@@ -16564,6 +16933,7 @@
 	culture = solvaan
 	religion = estelley
 	dynasty = 132
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 10
@@ -16595,6 +16965,7 @@
 	dynasty = 129
 	mother = 698
 	father = 699
+
 	diplomacy = 8
 	martial = 10
 	stewardship = 6
@@ -16623,6 +16994,7 @@
 	dynasty = 129
 	mother = 698
 	father = 699
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 6
@@ -16649,6 +17021,7 @@
 	religion = estelley
 	female = yes
 	dynasty = 133
+
 	diplomacy = 13
 	martial = 9
 	stewardship = 13
@@ -16681,6 +17054,7 @@
 	dynasty = 129
 	mother = 702
 	father = 697
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 8
@@ -16715,6 +17089,7 @@
 	dynasty = 129
 	mother = 702
 	father = 697
+
 	diplomacy = 8
 	martial = 9
 	stewardship = 8
@@ -16745,6 +17120,7 @@
 	dynasty = 129
 	mother = 702
 	father = 697
+
 	diplomacy = 8
 	martial = 6
 	stewardship = 20
@@ -16773,6 +17149,7 @@
 	dynasty = 129
 	mother = 702
 	father = 697
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 6
@@ -16800,6 +17177,7 @@
 	religion = estelley
 	female = yes
 	dynasty = 134
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 8
@@ -16832,6 +17210,7 @@
 	dynasty = 129
 	mother = 707
 	father = 703
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 5
@@ -16860,6 +17239,7 @@
 	dynasty = 129
 	mother = 707
 	father = 703
+
 	diplomacy = 9
 	martial = 8
 	stewardship = 8
@@ -17017,6 +17397,7 @@
 	dynasty = 126
 	mother = 716
 	father = 715
+
 	diplomacy = 11
 	martial = 7
 	stewardship = 12
@@ -17047,6 +17428,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 136
+
 	diplomacy = 11
 	martial = 10
 	stewardship = 11
@@ -17080,6 +17462,7 @@
 	dynasty = 126
 	mother = 718
 	father = 717
+
 	diplomacy = 10
 	martial = 6
 	stewardship = 7
@@ -17111,6 +17494,7 @@
 	dynasty = 126
 	mother = 718
 	father = 717
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -17211,6 +17595,7 @@
 	dynasty = 126
 	mother = 716
 	father = 715
+
 	diplomacy = 5
 	martial = 7
 	stewardship = 5
@@ -17283,6 +17668,7 @@
 	dynasty = 126
 	mother = 726
 	father = 725
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 6
@@ -17311,6 +17697,7 @@
 	dynasty = 126
 	mother = 726
 	father = 725
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -17435,6 +17822,7 @@
 	dynasty = 58
 	mother = 737
 	father = 693
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 6
@@ -17463,6 +17851,7 @@
 	female = yes
 	dynasty = 107
 	mother = 739
+
 	diplomacy = 7
 	martial = 7
 	stewardship = 10
@@ -17527,6 +17916,7 @@
 	religion = unionism
 	dynasty = 58
 	father = 736
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 5
@@ -17741,6 +18131,7 @@
 	dynasty = 138
 	mother = 748
 	father = 747
+
 	diplomacy = 16
 	martial = 8
 	stewardship = 11
@@ -17771,6 +18162,7 @@
 	female = yes
 	dynasty = 9
 	father = 1087
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -17803,6 +18195,7 @@
 	dynasty = 138
 	mother = 748
 	father = 747
+
 	diplomacy = 11
 	martial = 6
 	stewardship = 7
@@ -17834,6 +18227,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 20
+
 	diplomacy = 17
 	martial = 8
 	stewardship = 9
@@ -17865,6 +18259,7 @@
 	dynasty = 138
 	mother = 748
 	father = 747
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -17895,6 +18290,7 @@
 	culture = caeren
 	religion = unionism
 	dynasty = 139
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 11
@@ -17925,6 +18321,7 @@
 	dynasty = 138
 	mother = 748
 	father = 747
+
 	diplomacy = 16
 	martial = 9
 	stewardship = 11
@@ -17953,6 +18350,7 @@
 	dynasty = 138
 	mother = 750
 	father = 749
+
 	diplomacy = 18
 	martial = 6
 	stewardship = 16
@@ -17979,6 +18377,7 @@
 	dynasty = 138
 	mother = 750
 	father = 749
+
 	diplomacy = 9
 	martial = 8
 	stewardship = 5
@@ -18007,6 +18406,7 @@
 	dynasty = 138
 	mother = 750
 	father = 749
+
 	diplomacy = 10
 	martial = 14
 	stewardship = 8
@@ -18035,6 +18435,7 @@
 	dynasty = 138
 	mother = 752
 	father = 751
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 5
@@ -18064,6 +18465,7 @@
 	dynasty = 138
 	mother = 752
 	father = 751
+
 	diplomacy = 8
 	martial = 10
 	stewardship = 7
@@ -18091,6 +18493,7 @@
 	dynasty = 138
 	mother = 752
 	father = 751
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -18119,6 +18522,7 @@
 	dynasty = 138
 	mother = 752
 	father = 751
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -18148,6 +18552,7 @@
 	dynasty = 138
 	mother = 752
 	father = 751
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 10
@@ -18176,6 +18581,7 @@
 	dynasty = 138
 	mother = 754
 	father = 753
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -18204,6 +18610,7 @@
 	dynasty = 138
 	mother = 754
 	father = 753
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -18233,6 +18640,7 @@
 	dynasty = 139
 	mother = 755
 	father = 756
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -18259,6 +18667,7 @@
 	religion = unionism
 	dynasty = 138
 	father = 758
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -18315,6 +18724,7 @@
 	culture = ithanian
 	religion = unionism
 	dynasty = 140
+
 	diplomacy = 14
 	martial = 10
 	stewardship = 12
@@ -18341,6 +18751,7 @@
 	religion = unionism
 	dynasty = 140
 	father = 772
+
 	diplomacy = 5
 	martial = 7
 	stewardship = 9
@@ -18385,6 +18796,7 @@
 	culture = ania
 	religion = unionism
 	dynasty = 141
+
 	diplomacy = 28
 	martial = 10
 	stewardship = 16
@@ -18411,6 +18823,7 @@
 	culture = krainivaya
 	religion = unionism
 	dynasty = 117
+
 	diplomacy = 19
 	martial = 15
 	stewardship = 9
@@ -18439,6 +18852,7 @@
 	female = yes
 	dynasty = 117
 	father = 776
+
 	diplomacy = 8
 	martial = 6
 	stewardship = 7
@@ -18470,6 +18884,7 @@
 	religion = unionism
 	dynasty = 141
 	father = 775
+
 	diplomacy = 13
 	martial = 9
 	stewardship = 10
@@ -18501,6 +18916,7 @@
 	dynasty = 117
 	mother = 777
 	father = 778
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -18529,6 +18945,7 @@
 	dynasty = 117
 	mother = 777
 	father = 778
+
 	diplomacy = 8
 	martial = 6
 	stewardship = 5
@@ -18572,6 +18989,7 @@
 	female = yes
 	dynasty = 141
 	father = 775
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 7
@@ -18603,6 +19021,7 @@
 	culture = szabadok
 	religion = unionism
 	dynasty = 142
+
 	diplomacy = 8
 	martial = 13
 	stewardship = 6
@@ -18633,6 +19052,7 @@
 	dynasty = 142
 	mother = 782
 	father = 783
+
 	diplomacy = 7
 	martial = 7
 	stewardship = 6
@@ -18659,6 +19079,7 @@
 	dynasty = 142
 	mother = 782
 	father = 783
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 9
@@ -18686,6 +19107,7 @@
 	female = yes
 	dynasty = 117
 	father = 776
+
 	diplomacy = 7
 	martial = 16
 	stewardship = 5
@@ -18737,6 +19159,7 @@
 	dynasty = 117
 	mother = 786
 	father = 787
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -18765,6 +19188,7 @@
 	dynasty = 117
 	mother = 786
 	father = 787
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 5
@@ -18791,6 +19215,7 @@
 	religion = unionism
 	dynasty = 117
 	father = 776
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 5
@@ -18818,6 +19243,7 @@
 	female = yes
 	dynasty = 117
 	father = 776
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -18878,6 +19304,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 144
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -18939,6 +19366,7 @@
 	religion = fornoss
 	female = yes
 	dynasty = 145
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -19020,6 +19448,7 @@
 	dynasty = 113
 	mother = 799
 	father = 800
+
 	diplomacy = 9
 	martial = 5
 	stewardship = 7
@@ -19050,6 +19479,7 @@
 	female = yes
 	dynasty = 146
 	father = 798
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 9
@@ -19080,6 +19510,7 @@
 	culture = velheim
 	religion = fornoss
 	dynasty = 147
+
 	diplomacy = 10
 	martial = 9
 	stewardship = 9
@@ -19111,6 +19542,7 @@
 	dynasty = 148
 	mother = 802
 	father = 803
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -19138,6 +19570,7 @@
 	dynasty = 148
 	mother = 802
 	father = 803
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -19166,6 +19599,7 @@
 	dynasty = 148
 	mother = 802
 	father = 803
+
 	diplomacy = 9
 	martial = 6
 	stewardship = 6
@@ -19195,6 +19629,7 @@
 	dynasty = 148
 	mother = 802
 	father = 803
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -19222,6 +19657,7 @@
 	dynasty = 148
 	mother = 802
 	father = 803
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -19378,6 +19814,7 @@
 	religion = evintarian
 	dynasty = 154
 	mother = 815
+
 	diplomacy = 10
 	martial = 14
 	stewardship = 14
@@ -19407,6 +19844,7 @@
 	female = yes
 	dynasty = 154
 	father = 816
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -19492,6 +19930,7 @@
 	dynasty = 156
 	mother = 819
 	father = 820
+
 	diplomacy = 15
 	martial = 10
 	stewardship = 12
@@ -19598,6 +20037,7 @@
 	dynasty = 152
 	mother = 825
 	father = 824
+
 	diplomacy = 17
 	martial = 9
 	stewardship = 13
@@ -19627,6 +20067,7 @@
 	dynasty = 152
 	mother = 825
 	father = 824
+
 	diplomacy = 18
 	martial = 13
 	stewardship = 16
@@ -19655,6 +20096,7 @@
 	dynasty = 152
 	mother = 825
 	father = 824
+
 	diplomacy = 10
 	martial = 12
 	stewardship = 16
@@ -19724,6 +20166,7 @@
 	dynasty = 152
 	mother = 830
 	father = 829
+
 	diplomacy = 10
 	martial = 11
 	stewardship = 9
@@ -19753,6 +20196,7 @@
 	dynasty = 152
 	mother = 830
 	father = 829
+
 	diplomacy = 17
 	martial = 9
 	stewardship = 11
@@ -19803,6 +20247,7 @@
 	culture = ithanian
 	religion = unionism
 	dynasty = 107
+
 	diplomacy = 9
 	martial = 14
 	stewardship = 14
@@ -19837,6 +20282,7 @@
 	dynasty = 160
 	mother = 833
 	father = 834
+
 	diplomacy = 8
 	martial = 5
 	stewardship = 7
@@ -19865,6 +20311,7 @@
 	dynasty = 160
 	mother = 833
 	father = 834
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 6
@@ -19893,6 +20340,7 @@
 	dynasty = 160
 	mother = 833
 	father = 834
+
 	diplomacy = 7
 	martial = 10
 	stewardship = 11
@@ -19918,6 +20366,7 @@
 	culture = ithanian
 	religion = unionism
 	dynasty = 161
+
 	diplomacy = 12
 	martial = 7
 	stewardship = 8
@@ -19950,6 +20399,7 @@
 	dynasty = 160
 	mother = 833
 	father = 838
+
 	diplomacy = 5
 	martial = 9
 	stewardship = 6
@@ -20170,6 +20620,7 @@
 	dynasty = 167
 	mother = 854
 	father = 853
+
 	diplomacy = 9
 	martial = 11
 	stewardship = 7
@@ -20201,6 +20652,7 @@
 	dynasty = 167
 	mother = 162
 	father = 850
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -20230,6 +20682,7 @@
 	dynasty = 167
 	mother = 162
 	father = 850
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 5
@@ -20377,6 +20830,7 @@
 	culture = cearden
 	religion = unionism
 	dynasty = 171
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 5
@@ -20444,6 +20898,7 @@
 	dynasty = 173
 	mother = 861
 	father = 862
+
 	diplomacy = 13
 	martial = 8
 	stewardship = 12
@@ -20473,6 +20928,7 @@
 	religion = fornoss
 	female = yes
 	dynasty = 174
+
 	diplomacy = 8
 	martial = 8
 	stewardship = 12
@@ -20505,6 +20961,7 @@
 	dynasty = 173
 	mother = 864
 	father = 863
+
 	diplomacy = 7
 	martial = 7
 	stewardship = 6
@@ -20533,6 +20990,7 @@
 	dynasty = 173
 	mother = 864
 	father = 863
+
 	diplomacy = 8
 	martial = 17
 	stewardship = 8
@@ -20595,6 +21053,7 @@
 	dynasty = 173
 	mother = 864
 	father = 863
+
 	diplomacy = 10
 	martial = 6
 	stewardship = 9
@@ -20621,6 +21080,7 @@
 	religion = unionism
 	dynasty = 173
 	father = 869
+
 	diplomacy = 8
 	martial = 8
 	stewardship = 9
@@ -20649,6 +21109,7 @@
 	dynasty = 173
 	mother = 864
 	father = 863
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -20692,6 +21153,7 @@
 	dynasty = 173
 	mother = 864
 	father = 863
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 8
@@ -20719,6 +21181,7 @@
 	dynasty = 173
 	mother = 864
 	father = 863
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -20748,6 +21211,7 @@
 	dynasty = 173
 	mother = 864
 	father = 863
+
 	diplomacy = 8
 	martial = 6
 	stewardship = 12
@@ -20776,6 +21240,7 @@
 	dynasty = 173
 	mother = 861
 	father = 862
+
 	diplomacy = 8
 	martial = 12
 	stewardship = 10
@@ -20803,6 +21268,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 175
+
 	diplomacy = 16
 	martial = 11
 	stewardship = 9
@@ -20835,6 +21301,7 @@
 	dynasty = 173
 	mother = 861
 	father = 862
+
 	diplomacy = 11
 	martial = 6
 	stewardship = 5
@@ -20866,6 +21333,7 @@
 	dynasty = 173
 	mother = 877
 	father = 878
+
 	diplomacy = 8
 	martial = 7
 	stewardship = 7
@@ -20895,6 +21363,7 @@
 	dynasty = 173
 	mother = 877
 	father = 878
+
 	diplomacy = 11
 	martial = 8
 	stewardship = 9
@@ -20923,6 +21392,7 @@
 	dynasty = 173
 	mother = 877
 	father = 878
+
 	diplomacy = 9
 	martial = 5
 	stewardship = 5
@@ -20951,6 +21421,7 @@
 	dynasty = 173
 	mother = 877
 	father = 878
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -20978,6 +21449,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 176
+
 	diplomacy = 12
 	martial = 9
 	stewardship = 24
@@ -21028,6 +21500,7 @@
 	dynasty = 173
 	mother = 883
 	father = 884
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 5
@@ -21056,6 +21529,7 @@
 	dynasty = 173
 	mother = 883
 	father = 884
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -21083,6 +21557,7 @@
 	dynasty = 173
 	mother = 883
 	father = 884
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -21111,6 +21586,7 @@
 	dynasty = 173
 	mother = 861
 	father = 862
+
 	diplomacy = 12
 	martial = 12
 	stewardship = 12
@@ -21136,6 +21612,7 @@
 	religion = unionism
 	dynasty = 173
 	father = 888
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -21162,6 +21639,7 @@
 	culture = eronidas
 	religion = draconism
 	dynasty = 177
+
 	diplomacy = 7
 	martial = 8
 	stewardship = 11
@@ -21190,6 +21668,7 @@
 	female = yes
 	dynasty = 178
 	mother = 1091
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 8
@@ -21216,6 +21695,7 @@
 	religion = unionism
 	female = yes
 	#dynasty = 179 # termporarially disabled
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -21241,6 +21721,7 @@
 	culture = wirtem
 	religion = unionism
 	dynasty = 180
+
 	diplomacy = 6
 	martial = 12
 	stewardship = 13
@@ -21268,6 +21749,7 @@
 	female = yes
 	dynasty = 181
 	father = 1131
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 10
@@ -21294,6 +21776,7 @@
 	culture = krainivaya
 	religion = unionism
 	dynasty = 182
+
 	diplomacy = 9
 	martial = 5
 	stewardship = 9
@@ -21321,6 +21804,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 183
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -21349,6 +21833,7 @@
 	religion = unionism
 	dynasty = 184
 	mother = 1112
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -21377,6 +21862,7 @@
 	culture = wirtem
 	religion = unionism
 	dynasty = 185
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -21402,6 +21888,7 @@
 	culture = wirtem
 	religion = unionism
 	dynasty = 186
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -21429,6 +21916,7 @@
 	religion = estelley
 	female = yes
 	dynasty = 187
+
 	diplomacy = 9
 	martial = 6
 	stewardship = 10
@@ -21455,6 +21943,7 @@
 	culture = ithanian
 	religion = unionism
 	dynasty = 188
+
 	diplomacy = 7
 	martial = 12
 	stewardship = 9
@@ -21482,6 +21971,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 189
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -21509,6 +21999,7 @@
 	culture = cearden
 	religion = unionism
 	dynasty = 190
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -21535,6 +22026,7 @@
 	religion = fornoss
 	father = 1085
 	dynasty = 191
+
 	diplomacy = 10
 	martial = 6
 	stewardship = 7
@@ -21562,6 +22054,7 @@
 	religion = unionism
 	dynasty = 192
 	father = 1084
+
 	diplomacy = 5
 	martial = 7
 	stewardship = 5
@@ -21589,6 +22082,7 @@
 	dynasty = 193
 	mother = 1169
 	# trait checked
+
 	diplomacy = 6 
 	martial = 2
 	stewardship = 6
@@ -21616,6 +22110,7 @@
 	dynasty = 194
 	father = 1126
 	mother = 1127
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -21642,6 +22137,7 @@
 	religion = unionism
 	dynasty = 195
 	mother = 1055
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -21668,6 +22164,7 @@
 	culture = asha
 	religion = khama
 	dynasty = 196
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 6
@@ -21694,6 +22191,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 197
+
 	diplomacy = 9
 	martial = 7
 	stewardship = 8
@@ -21720,6 +22218,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 198
+
 	diplomacy = 9
 	martial = 7
 	stewardship = 5
@@ -21745,6 +22244,7 @@
 	culture = allar
 	religion = draconism
 	dynasty = 199
+
 	diplomacy = 8
 	martial = 5
 	stewardship = 6
@@ -21772,6 +22272,7 @@
 	religion = draconism
 	female = yes
 	dynasty = 200
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 8
@@ -21797,6 +22298,7 @@
 	culture = sihai
 	religion = draconism
 	dynasty = 201
+
 	diplomacy = 15
 	martial = 22
 	stewardship = 10
@@ -21823,6 +22325,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 202
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 7
@@ -21850,6 +22353,7 @@
 	culture = anglian
 	religion = unionism
 	dynasty = 203
+
 	diplomacy = 13
 	martial = 7
 	stewardship = 10
@@ -21876,6 +22380,7 @@
 	culture = cearden
 	religion = unionism
 	dynasty = 204
+
 	diplomacy = 13
 	martial = 5
 	stewardship = 8
@@ -21905,6 +22410,7 @@
 	female = yes
 	dynasty = 205
 	father = 397
+
 	diplomacy = 11
 	martial = 6
 	stewardship = 6
@@ -21930,6 +22436,7 @@
 	culture = cantaluna
 	religion = unionism
 	dynasty = 206
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 8
@@ -21956,6 +22463,7 @@
 	religion = amended
 	female = yes
 	dynasty = 207
+
 	diplomacy = 6
 	martial = 10
 	stewardship = 7
@@ -21983,6 +22491,7 @@
 	culture = wirtem
 	religion = unionism
 	dynasty = 208
+
 	diplomacy = 6
 	martial = 10
 	stewardship = 6
@@ -22011,6 +22520,7 @@
 	dynasty = 209
 	father = 1064
 	mother = 1065
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -22037,6 +22547,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 210
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -22064,6 +22575,7 @@
 	religion = draconism
 	female = yes
 	dynasty = 211
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -22089,6 +22601,7 @@
 	culture = caeren
 	religion = fornoss
 	dynasty = 212
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -22116,6 +22629,7 @@
 	culture = anglian
 	religion = draconism
 	dynasty = 319
+
 	diplomacy = 9
 	martial = 28
 	stewardship = 18
@@ -22140,6 +22654,7 @@
 	culture = anglian
 	religion = unionism
 	dynasty = 213
+
 	diplomacy = 12
 	martial = 6
 	stewardship = 10
@@ -22167,6 +22682,7 @@
 	culture = ithanian
 	religion = estelley
 	dynasty = 214
+
 	diplomacy = 19
 	martial = 31
 	stewardship = 10
@@ -22192,6 +22708,7 @@
 	culture = ithanian
 	religion = unionism
 	dynasty = 215
+
 	diplomacy = 15
 	martial = 10
 	stewardship = 14
@@ -22219,6 +22736,7 @@
 	culture = solvaan
 	religion = estelley
 	dynasty = 216
+
 	diplomacy = 8
 	martial = 17
 	stewardship = 8
@@ -22246,6 +22764,7 @@
 	culture = eronidas
 	religion = draconism
 	dynasty = 217
+
 	diplomacy = 22
 	martial = 24
 	stewardship = 24
@@ -22271,6 +22790,7 @@
 	culture = solvaan
 	religion = unionism
 	dynasty = 218
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -22299,6 +22819,7 @@
 	culture = ruinborn
 	religion = evolism
 	dynasty = 219
+
 	diplomacy = 21
 	martial = 18
 	stewardship = 15
@@ -22324,6 +22845,7 @@
 	culture = eronidas
 	religion = unionism
 	dynasty = 220
+
 	diplomacy = 10
 	martial = 24
 	stewardship = 13
@@ -22351,6 +22873,7 @@
 	culture = url
 	religion = unionism
 	dynasty = 221
+
 	diplomacy = 11
 	martial = 10
 	stewardship = 13
@@ -22392,6 +22915,7 @@
 	culture = dunbrae
 	religion = fornoss
 	dynasty = 223
+
 	diplomacy = 13
 	martial = 13
 	stewardship = 15
@@ -22856,6 +23380,7 @@
 	culture = asha
 	religion = unionism
 	dynasty = 253
+
 	diplomacy = 11
 	martial = 24
 	stewardship = 14
@@ -22987,6 +23512,7 @@
 	culture = ithanian
 	religion = unionism
 	dynasty = 261
+
 	diplomacy = 12
 	martial = 13
 	stewardship = 17
@@ -23315,6 +23841,7 @@
 	dynasty = 282
 	father = 1101
 	mother = 1102
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 9
@@ -23402,6 +23929,7 @@
 	culture = bragacao
 	religion = unionism
 	dynasty = 287
+
 	diplomacy = 7
 	martial = 7
 	stewardship = 6
@@ -23429,6 +23957,7 @@
 	culture = byala
 	religion = evintarian
 	dynasty = 288
+
 	diplomacy = 16
 	martial = 11
 	stewardship = 20
@@ -23455,6 +23984,7 @@
 	culture = etosian
 	religion = draconism
 	dynasty = 289
+
 	diplomacy = 8
 	martial = 28
 	stewardship = 9
@@ -23482,6 +24012,7 @@
 	culture = cearden
 	religion = unionism
 	dynasty = 290
+
 	diplomacy = 11
 	martial = 10
 	stewardship = 19
@@ -23508,6 +24039,7 @@
 	culture = dvala
 	religion = evintarian
 	dynasty = 291
+
 	diplomacy = 16
 	martial = 14
 	stewardship = 14
@@ -23534,6 +24066,7 @@
 	culture = allar
 	religion = unionism
 	dynasty = 292
+
 	diplomacy = 7
 	martial = 9
 	stewardship = 9
@@ -23560,6 +24093,7 @@
 	culture = genevaud
 	religion = unionism
 	dynasty = 293
+
 	diplomacy = 17
 	martial = 10
 	stewardship = 13
@@ -23587,6 +24121,7 @@
 	culture = dragonkin
 	religion = unionism
 	dynasty = 294
+
 	diplomacy = 18
 	martial = 17
 	stewardship = 20
@@ -23612,6 +24147,7 @@
 	culture = dragonkin
 	religion = draconism
 	dynasty = 295
+
 	diplomacy = 26
 	martial = 11
 	stewardship = 14
@@ -23637,6 +24173,7 @@
 	culture = dwarven
 	religion = fornoss
 	dynasty = 296
+
 	diplomacy = 17
 	martial = 10
 	stewardship = 18
@@ -23662,6 +24199,7 @@
 	culture = finul
 	religion = estelley
 	dynasty = 297
+
 	diplomacy = 18
 	martial = 11
 	stewardship = 14
@@ -23687,6 +24225,7 @@
 	culture = selvath
 	religion = estelley
 	dynasty = 298
+
 	diplomacy = 17
 	martial = 10
 	stewardship = 15
@@ -23713,6 +24252,7 @@
 	culture = asha
 	religion = unionism
 	dynasty = 299
+
 	diplomacy = 12
 	martial = 10
 	stewardship = 10
@@ -23740,6 +24280,7 @@
 	culture = asha
 	religion = khama
 	dynasty = 300
+
 	diplomacy = 31
 	martial = 9
 	stewardship = 23
@@ -23766,6 +24307,7 @@
 	culture = skyborn
 	religion = unionism
 	dynasty = 301
+
 	diplomacy = 30
 	martial = 9
 	stewardship = 18
@@ -23791,6 +24333,7 @@
 	culture = llasada
 	religion = estelley
 	dynasty = 302
+
 	diplomacy = 10
 	martial = 6
 	stewardship = 11
@@ -23818,6 +24361,7 @@
 	culture = yanar
 	religion = estelley
 	dynasty = 303
+
 	diplomacy = 9
 	martial = 9
 	stewardship = 11
@@ -23844,6 +24388,7 @@
 	culture = anglian
 	religion = draconism
 	dynasty = 304
+
 	diplomacy = 13
 	martial = 11
 	stewardship = 11
@@ -23871,6 +24416,7 @@
 	religion = draconism
 	female = yes
 	dynasty = 305
+
 	diplomacy = 11
 	martial = 11
 	stewardship = 10
@@ -23896,6 +24442,7 @@
 	culture = anglian
 	religion = draconism
 	dynasty = 306
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 9
@@ -23923,6 +24470,7 @@
 	culture = anglian
 	religion = draconism
 	dynasty = 307
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 7
@@ -23951,6 +24499,7 @@
 	religion = draconism
 	female = yes
 	dynasty = 308
+
 	diplomacy = 5
 	martial = 7
 	stewardship = 12
@@ -23976,6 +24525,7 @@
 	culture = velheim
 	religion = fornoss
 	dynasty = 309
+
 	diplomacy = 5
 	martial = 7
 	stewardship = 5
@@ -24002,6 +24552,7 @@
 	culture = velheim
 	religion = fornoss
 	dynasty = 310
+
 	diplomacy = 13
 	martial = 6
 	stewardship = 7
@@ -24030,6 +24581,7 @@
 	culture = velheim
 	religion = fornoss
 	dynasty = 311
+
 	diplomacy = 12
 	martial = 5
 	stewardship = 7
@@ -24057,6 +24609,7 @@
 	religion = fornoss
 	female = yes
 	dynasty = 312
+
 	diplomacy = 7
 	martial = 7
 	stewardship = 6
@@ -24083,6 +24636,7 @@
 	religion = fornoss
 	female = yes
 	dynasty = 313
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 7
@@ -24112,6 +24666,7 @@
 	female = yes
 	dynasty = 59
 	father = 372
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 8
@@ -24138,6 +24693,7 @@
 	religion = estelley
 	female = yes
 	dynasty = 120
+
 	diplomacy = 8
 	martial = 6
 	stewardship = 5
@@ -24199,6 +24755,7 @@
 	religion = aldurism
 	dynasty = 315
 	father = 1030
+
 	diplomacy = 8
 	martial = 10
 	stewardship = 7
@@ -24226,6 +24783,7 @@
 	religion = aldurism
 	dynasty = 315
 	father = 1032
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -24252,6 +24810,7 @@
 	female = yes
 	dynasty = 315
 	father = 1032
+
 	diplomacy = 9
 	martial = 6
 	stewardship = 6
@@ -24279,6 +24838,7 @@
 	religion = aldurism
 	dynasty = 315
 	father = 1032
+
 	diplomacy = 5
 	martial = 6
 	stewardship = 5
@@ -24307,6 +24867,7 @@
 	dynasty = 315
 	father = 1031
     mother = 1039
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 5
@@ -24335,6 +24896,7 @@
 	dynasty = 315
 	father = 1031
     mother = 1039
+
 	diplomacy = 10
 	martial = 5
 	stewardship = 6
@@ -24361,6 +24923,7 @@
 	dynasty = 315
 	father = 1031
     mother = 1039
+
 	diplomacy = 14
 	martial = 9
 	stewardship = 8
@@ -24388,6 +24951,7 @@
 	religion = unionism
 	dynasty = 215
 	father = 929
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 5
@@ -24419,6 +24983,7 @@
 	religion = unionism
 	dynasty = 215
 	father = 929
+
 	diplomacy = 5
 	martial = 10
 	stewardship = 5
@@ -24446,6 +25011,7 @@
 	female = yes
 	dynasty = 215
     father = 1040
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 6
@@ -24600,6 +25166,7 @@
 	religion = unionism
 	dynasty = 34
 	mother = 180
+
 	diplomacy = 9
 	martial = 13
 	stewardship = 23
@@ -24627,6 +25194,7 @@
 	religion = unionism
 	dynasty = 34
 	father = 1050
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 6
@@ -24671,6 +25239,7 @@
 	female = yes
 	dynasty = 34
 	mother = 181
+
 	diplomacy = 11
 	martial = 5
 	stewardship = 8
@@ -24698,6 +25267,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 317
+
 	diplomacy = 5
 	martial = 7
 	stewardship = 5
@@ -24746,6 +25316,7 @@
 	female = yes
 	dynasty = 195
 	mother = 1055
+
 	diplomacy = 15
 	martial = 6
 	stewardship = 7
@@ -24844,6 +25415,7 @@
 	dynasty = 209
 	father = 1064
 	mother = 1066
+
 	diplomacy = 12
 	martial = 5
 	stewardship = 17
@@ -24871,6 +25443,7 @@
 	dynasty = 209
 	father = 1064
 	mother = 1066
+
 	diplomacy = 7
 	martial = 13
 	stewardship = 6
@@ -24900,6 +25473,7 @@
 	dynasty = 209
 	father = 1064
 	mother = 1066
+
 	diplomacy = 7
 	martial = 6
 	stewardship = 6
@@ -24956,6 +25530,7 @@
 	culture = etosian
 	religion = evintarian
 	female = yes
+
 	diplomacy = 7
 	martial = 10
 	stewardship = 12
@@ -25031,6 +25606,7 @@
 	religion = unionism
 	dynasty = 318
 	father = 1069
+
 	diplomacy = 13
 	martial = 15
 	stewardship = 13
@@ -25079,6 +25655,7 @@
 	religion = unionism
 	dynasty = 318
 	father = 1069
+
 	diplomacy = 9
 	martial = 7
 	stewardship = 9
@@ -25107,6 +25684,7 @@
 	religion = unionism
 	dynasty = 318
 	father = 1071
+
 	diplomacy = 10
 	martial = 10
 	stewardship = 8
@@ -25133,6 +25711,7 @@
 	religion = unionism
 	dynasty = 318
 	father = 1071
+
 	diplomacy = 8
 	martial = 8
 	stewardship = 7
@@ -25158,6 +25737,7 @@
 	religion = unionism
 	dynasty = 318
 	father = 1071
+
 	diplomacy = 6
 	martial = 6
 	stewardship = 6
@@ -25184,6 +25764,7 @@
 	dynasty = 318
 	father = 1070
 	mother = 1079
+
 	diplomacy = 7
 	martial = 7
 	stewardship = 8
@@ -25214,6 +25795,7 @@
 	dynasty = 318
 	father = 1070
 	mother = 1079
+
 	diplomacy = 11
 	martial = 12
 	stewardship = 12
@@ -25241,6 +25823,7 @@
 	religion = unionism
 	dynasty = 318
 	father = 1070
+
 	diplomacy = 11
 	martial = 18
 	stewardship = 11
@@ -25265,6 +25848,7 @@
 	culture = byala
 	religion = unionism
 	female = yes
+
 	diplomacy = 9
 	martial = 9
 	stewardship = 11
@@ -25296,6 +25880,7 @@
 	female = yes
 	dynasty = 318
 	father = 1072
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 7
@@ -25322,6 +25907,7 @@
 	religion = unionism
 	dynasty = 318
 	father = 1072
+
 	diplomacy = 11
 	martial = 7
 	stewardship = 8
@@ -25349,6 +25935,7 @@
 	religion = unionism
 	dynasty = 318
 	father = 1072
+
 	diplomacy = 10
 	martial = 9
 	stewardship = 9
@@ -25377,6 +25964,7 @@
 	female = yes
 	dynasty = 318
 	father = 1072
+
 	diplomacy = 7
 	martial = 7
 	stewardship = 5
@@ -25432,6 +26020,7 @@
 	culture = ithanian
 	religion = estelley
 	dynasty = 321
+
 	diplomacy = 10
 	martial = 6
 	stewardship = 7
@@ -25604,6 +26193,7 @@
 	culture = etosian
 	religion = evintarian
 	dynasty = 322
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 6
@@ -25629,6 +26219,7 @@
 	culture = allar
 	religion = draconism
 	dynasty = 323
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 6
@@ -25656,6 +26247,7 @@
 	female = yes
 	dynasty = 324
 	father = 1136
+
 	diplomacy = 7
 	martial = 5
 	stewardship = 6
@@ -25682,6 +26274,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 179
+
 	diplomacy = 10
 	martial = 7
 	stewardship = 7
@@ -25707,6 +26300,7 @@
 	culture = leutz_vixe
 	religion = unionism
 	dynasty = 282	
+
 	diplomacy = 14
 	martial = 17
 	stewardship = 21
@@ -25732,6 +26326,7 @@
 	female = yes
 	culture = leutz_vixe
 	religion = unionism
+
 	diplomacy = 12
 	martial = 12
 	stewardship = 22
@@ -25761,6 +26356,7 @@
 	father = 1101
 	mother = 1102
 	dynasty = 282	
+
 	diplomacy = 6
 	martial = 8
 	stewardship = 5
@@ -25788,6 +26384,7 @@
 	father = 1101
 	mother = 1102
 	dynasty = 282	
+
 	diplomacy = 9
 	martial = 12
 	stewardship = 9
@@ -25816,6 +26413,7 @@
 	father = 1101
 	mother = 1102
 	dynasty = 282	
+
 	diplomacy = 11
 	martial = 25
 	stewardship = 11
@@ -25845,6 +26443,7 @@
 	father = 1101
 	mother = 1102
 	dynasty = 282	
+
 	diplomacy = 6
 	martial = 7
 	stewardship = 6
@@ -25872,6 +26471,7 @@
 	father = 1101
 	mother = 1102
 	dynasty = 282
+
 	diplomacy = 14
 	martial = 13
 	stewardship = 13
@@ -25899,6 +26499,7 @@
 	father = 1101
 	mother = 1102
 	dynasty = 282
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 14
@@ -25927,6 +26528,7 @@
 	father = 1101
 	mother = 1102
 	dynasty = 282
+
 	diplomacy = 8
 	martial = 6
 	stewardship = 6
@@ -25956,6 +26558,7 @@
 	father = 1101
 	mother = 1102
 	dynasty = 282
+
 	diplomacy = 8
 	martial = 9
 	stewardship = 7
@@ -25982,6 +26585,7 @@
 	religion = unionism
 	dynasty = 325
 	father = 1148
+
 	diplomacy = 4
 	martial = 5
 	stewardship = 4
@@ -26024,6 +26628,7 @@
 	religion = unionism
 	dynasty = 184
 	mother = 1112
+
 	diplomacy = 5
 	martial = 11
 	stewardship = 5
@@ -26051,6 +26656,7 @@
 	religion = unionism
 	dynasty = 184
 	mother = 1112
+
 	diplomacy = 5
 	martial = 11
 	stewardship = 5
@@ -26077,6 +26683,7 @@
 	culture = leutz_vixe
 	religion = unionism
 	dynasty = 326
+
 	diplomacy = 8
 	martial = 7
 	stewardship = 6
@@ -26302,6 +26909,7 @@
 	father = 1126
 	mother = 1127
 	dynasty = 194
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 5
@@ -26328,6 +26936,7 @@
 	religion = khama
 	father = 1124
 	dynasty = 327
+
 	diplomacy = 6
 	martial = 5
 	stewardship = 5
@@ -26355,6 +26964,7 @@
 	father = 1126
 	mother = 1127
 	dynasty = 194
+
 	diplomacy = 5
 	martial = 8
 	stewardship = 5
@@ -26473,6 +27083,7 @@
 	dynasty = 324
 	father = 1136
 	mother = 1137
+
 	diplomacy = 5
 	martial = 5
 	stewardship = 7
@@ -26523,6 +27134,7 @@
 	dynasty = 324
 	father = 1136
 	mother = 1137
+
 	diplomacy = 5
 	martial = 4
 	stewardship = 6
@@ -26577,6 +27189,7 @@
 	religion = unionism
 	dynasty = 325
 	father = 1148
+
 	diplomacy = 9
 	martial = 10
 	stewardship = 11
@@ -26601,6 +27214,7 @@
 	religion = unionism
 	dynasty = 325
 	father = 1148
+
 	diplomacy = 9
 	martial = 14
 	stewardship = 11
@@ -26658,6 +27272,7 @@
 	religion = unionism
 	dynasty = 37
 	father = 468
+
 	diplomacy = 13
 	martial = 11
 	stewardship = 13
@@ -26686,6 +27301,7 @@
 	religion = unionism
 	dynasty = 37
 	father = 351
+
 	diplomacy = 5
 	martial = 7
 	stewardship = 5
@@ -26713,6 +27329,7 @@
 	religion = unionism
 	dynasty = 195
 	mother = 1055
+
 	diplomacy = 7
 	martial = 10
 	stewardship = 6
@@ -27021,6 +27638,7 @@
 	dynasty = 193
 	mother = 1169
 	# trait checked
+
 	diplomacy = 7
 	martial = 8
 	stewardship = 12
@@ -27042,4 +27660,168 @@
 	}
 }
 
+1171 = {
+	name = "Preston" # Croy
+	culture = cearden
+	religion = unionism
+	dynasty = 328
+	father = 1170
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
 
+	70.1.1 = { birth = 70.1.1 }
+	138.1.1 = { death = 138.1.1 }
+}
+
+1172 = {
+	name = "Cecil" # Croy
+	culture = cearden
+	religion = unionism
+	dynasty = 328
+	father = 1171
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+
+	94.1.1 = { birth = 94.1.1 }
+	151.1.1 = { death = 151.1.1 }
+}
+
+1173 = {
+	name = "Anthony" # Croy
+	culture = cearden
+	religion = unionism
+	dynasty = 328
+	father = 1172
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+
+	124.1.1 = { birth = 124.1.1 }
+	187.1.1 = { death = 187.1.1 }
+}
+
+1174 = {
+	name = "David" # Croy
+	culture = cearden
+	religion = unionism
+	dynasty = 328
+	father = 1173
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+
+	157.1.1 = { birth = 157.1.1 }
+	196.1.1 = { death = 196.1.1 }
+}
+
+1175 = {
+	name = "James" # Croy
+	culture = cearden
+	religion = unionism
+	dynasty = 328
+	father = 1173
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+
+	160.1.1 = { birth = 160.1.1 }
+	212.1.1 = { death = 212.1.1 }
+}
+
+1176 = {
+	name = "Edith" # Croy
+	female = yes
+	culture = cearden
+	religion = unionism
+	dynasty = 328
+	father = 1175
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+
+	187.1.1 = { birth = 187.1.1 }
+	263.1.1 = { death = 263.1.1 }
+}
+
+1177 = {
+	name = "Stetson" # Croy
+	culture = cearden
+	religion = unionism
+	dynasty = 328
+	mother = 1176
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+
+	214.1.1 = { birth = 214.1.1 }
+	287.1.1 = { death = 287.1.1 }
+}
+
+1178 = {
+	name = "Carson" # Croy
+	culture = cearden
+	religion = unionism
+	dynasty = 328
+	mother = 1176
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+
+	223.1.1 = { birth = 223.1.1 }
+	293.1.1 = { death = 293.1.1 }
+}
+
+1179 = {
+	name = "Lyman" # Croy
+	culture = cearden
+	religion = unionism
+	dynasty = 328
+	father = 1178
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+
+	250.1.1 = { birth = 250.1.1 }
+	307.1.1 = {add_spouse = 656}
+	306.1.1 = { death = 306.1.1 }
+}
+
+1180 = {
+	name = "Alisanne" # Croy
+	female = yes
+	culture = cearden
+	religion = unionism
+	dynasty = 328
+	father = 1179
+
+	diplomacy = 8
+	martial = 7
+	stewardship = 7
+	intrigue = 5
+	learning = 5
+	add_trait = "creature_ailor"
+	add_trait = "grey_eminence"
+	add_trait = "ambitious"
+	add_trait = "gregarious"
+	add_trait = "proud"
+	add_trait = "just"
+	disallow_random_traits = yes
+
+	280.1.1 = { birth = 280.1.1 }
+}
+
+1181 = {
+	name = "Edwin" # Croy
+	culture = cearden
+	religion = unionism
+	dynasty = 328
+	father = 1179
+
+	diplomacy = 8
+	martial = 7
+	stewardship = 9
+	intrigue = 7
+	learning = 12
+	add_trait = "scholarly_theologian"
+	add_trait = "creature_ailor"
+	add_trait = "scholar"
+	add_trait = "shy"
+	add_trait = "patient"
+	add_trait = "kind"
+	disallow_random_traits = yes
+
+	285.1.1 = { birth = 285.1.1 }
+}
