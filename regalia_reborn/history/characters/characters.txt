@@ -29,11 +29,11 @@
 }
 
 2 = {
-	name = "Svanhild" # Oltorskr
+	name = "Svanhild" # Married Oltorskr
 	culture = velheim
 	religion = fornoss
 	female = yes
-	dynasty = 15
+	#dynasty = 15
 	add_trait = "creature_ailor"
 
 	222.4.1 = {
@@ -15045,11 +15045,11 @@
 }
 
 623 = {
-	name = "Aurora" # Litvinova
+	name = "Aurora" # Farkas
 	culture = krainivaya
 	religion = unionism
 	female = yes
-	dynasty = 117
+	dynasty = 142
 	mother = 782
 	father = 783
 
@@ -18960,6 +18960,11 @@
 	295.1.1 = {
 		birth = 295.1.1
 	}
+
+	315.1.1 = {
+		add_spouse = 895
+	}
+
 	395.1.1 = {
 		death = 395.1.1
 	}
@@ -19005,12 +19010,14 @@
 	add_trait = "groomed"
 	disallow_random_traits = yes
 
-	296.4.1 = {
-		add_spouse = 783
-	}
 	273.1.1 = {
 		birth = 273.1.1
 	}
+
+	296.4.1 = {
+		add_spouse = 783
+	}
+
 	373.1.1 = {
 		death = 373.1.1
 	}
@@ -19034,12 +19041,14 @@
 	add_trait = "brave"
 	disallow_random_traits = yes
 
-	296.4.1 = {
-		add_spouse = 782
-	}
 	270.1.1 = {
 		birth = 270.1.1
 	}
+
+	296.4.1 = {
+		add_spouse = 782
+	}
+
 	370.1.1 = {
 		death = 370.1.1
 	}
@@ -21776,23 +21785,29 @@
 	culture = krainivaya
 	religion = unionism
 	dynasty = 182
+	father = 1183
 
-	diplomacy = 9
-	martial = 5
-	stewardship = 9
-	intrigue = 10
-	learning = 14
+	diplomacy = 5
+	martial = 7
+	stewardship = 5
+	intrigue = 5
+	learning = 5
 	add_trait = "creature_ailor"
-	add_trait = "indulgent_wastrel"
-	add_trait = "charitable"
-	add_trait = "honest"
-	add_trait = "content"
-	add_trait = "falconer"
+	add_trait = "brilliant_strategist"
+	add_trait = "brave"
+	add_trait = "diligent"
+	add_trait = "proud"
+	add_trait = "defensive_leader"
 	disallow_random_traits = yes
 
 	288.1.1 = {
 		birth = 288.1.1
 	}
+
+	315.1.1 = {
+		add_spouse = 780
+	}
+
 	388.1.1 = {
 		death = 388.1.1
 	}
@@ -26003,7 +26018,7 @@
 	name = "Syver" # Eidsvik
 	culture = velheim
 	religion = fornoss
-	dynasty = 192
+	dynasty = 191
 	add_trait = "creature_ailor"
 
 	256.1.1 = {
@@ -27824,4 +27839,265 @@
 	disallow_random_traits = yes
 
 	285.1.1 = { birth = 285.1.1 }
+}
+
+1182 = {
+	name = "Mikhail" # Vasilev
+	culture = krainivaya
+	religion = unionism
+	dynasty = 182
+
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+
+	230.1.1 = {
+		birth = 230.1.1
+	}
+	298.1.1 = {
+		death = 298.1.1
+	}
+}
+
+1183 = {
+	name = "Hugo" # Vasilev
+	culture = krainivaya
+	religion = unionism
+	dynasty = 182
+	father = 1182
+
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+
+	255.1.1 = {
+		birth = 255.1.1
+	}
+	312.1.1 = {
+		death = 312.1.1
+	}
+}
+
+1184 = {
+	name = "Yulia"
+	culture = krainivaya
+	religion = unionism
+	female = yes
+	dynasty = 182
+	father = 1183
+
+	diplomacy = 9
+	martial = 5
+	stewardship = 13
+	intrigue = 11
+	learning = 5
+	add_trait = "creature_ailor"
+	add_trait = "grey_eminence"
+	add_trait = "gregarious"
+	disallow_random_traits = yes
+
+	289.1.1 = {
+		birth = 289.1.1
+	}
+}
+
+1185 = {
+	name = "Artyom" # Vasilev
+	culture = krainivaya
+	religion = unionism
+	dynasty = 182
+	father = 1182
+
+	diplomacy = 20
+	martial = 12
+	stewardship = 14
+	intrigue = 11
+	learning = 12
+	add_trait = "creature_ailor"
+	add_trait = "charismatic_negotiator"
+	add_trait = "kind"
+	add_trait = "gregarious"
+	add_trait = "charitable"
+	disallow_random_traits = yes
+
+	259.1.1 = {
+		birth = 259.1.1
+	}
+}
+
+1186 = {
+	name = "Igor"
+	culture = krainivaya
+	religion = unionism
+	dynasty = 182
+	father = 1185
+
+	diplomacy = 6
+	martial = 9
+	stewardship = 5
+	intrigue = 7
+	learning = 6
+	add_trait = "creature_ailor"
+	add_trait = "organizer"
+	add_trait = "brilliant_strategist"
+	add_trait = "brave"
+	add_trait = "diligent"
+	disallow_random_traits = yes
+
+
+	287.1.1 = {
+		birth = 287.1.1
+	}
+}
+
+1187 = {
+	name = "Irina"
+	culture = krainivaya
+	religion = unionism
+	female = yes
+	dynasty = 182
+	father = 1185
+
+	diplomacy = 6
+	martial = 5
+	stewardship = 5
+	intrigue = 7
+	learning = 11
+	add_trait = "creature_ailor"
+	add_trait = "mastermind_theologian"
+	add_trait = "scholar"
+	add_trait = "patient"
+	add_trait = "temperate"
+	disallow_random_traits = yes
+
+	287.1.1 = {
+		birth = 287.1.1
+	}
+}
+
+1188 = {
+	name = "Valeria"
+	culture = krainivaya
+	religion = unionism
+	female = yes
+	dynasty = 182
+	father = 1185
+
+	diplomacy = 11
+	martial = 5
+	stewardship = 8
+	intrigue = 7
+	learning = 8
+	add_trait = "creature_ailor"
+	add_trait = "charismatic_negotiator"
+	add_trait = "poet"
+	add_trait = "gregarious"
+	add_trait = "kind"
+	disallow_random_traits = yes
+
+	291.1.1 = {
+		birth = 291.1.1
+	}
+}
+
+1189 = {
+	name = "Danila"
+	culture = krainivaya
+	religion = unionism
+	dynasty = 182
+	father = 1185
+
+	diplomacy = 8
+	martial = 5
+	stewardship = 7
+	intrigue = 7
+	learning = 8
+	add_trait = "creature_ailor"
+	add_trait = "scholarly_theologian"
+	add_trait = "humble"
+	add_trait = "charitable"
+	disallow_random_traits = yes
+
+	292.1.1 = {
+		birth = 292.1.1
+	}
+}
+
+1190 = {
+	name = "Petro" # Vasilev
+	culture = krainivaya
+	religion = unionism
+	dynasty = 182
+	father = 1182
+
+	diplomacy = 18
+	martial = 17
+	stewardship = 15
+	intrigue = 15
+	learning = 15
+	add_trait = "creature_ailor"
+	add_trait = "fortune_builder"
+	add_trait = "wroth"
+	add_trait = "paranoid"
+	add_trait = "cynical"
+	add_trait = "quick"
+	disallow_random_traits = yes
+
+	258.1.1 = {
+		birth = 258.1.1
+	}
+}
+
+1191 = {
+	name = "Taras"
+	culture = krainivaya
+	religion = unionism
+	dynasty = 182
+	father = 1190
+
+	add_trait = "creature_ailor"
+
+	282.1.1 = {
+		birth = 282.1.1
+	}
+}
+
+1192 = {
+	name = "Julia"
+	culture = krainivaya
+	religion = unionism
+	female = yes
+	dynasty = 182
+	father = 1190
+
+	diplomacy = 8
+	martial = 5
+	stewardship = 8
+	intrigue = 6
+	learning = 5
+	add_trait = "creature_ailor"
+	add_trait = "grey_eminence"
+	add_trait = "ambitious"
+	add_trait = "diligent"
+	disallow_random_traits = yes
+
+	296.1.1 = {
+		birth = 296.1.1
+	}
+}
+
+1193 = {
+	name = "Petro"
+	culture = krainivaya
+	religion = unionism
+	dynasty = 182
+	father = 1190
+
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+
+	280.1.1 = {
+		birth = 280.1.1
+	}
+	301.1.1 = {
+		death = 301.1.1
+	}
 }
