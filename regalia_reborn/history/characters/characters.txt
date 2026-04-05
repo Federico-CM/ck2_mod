@@ -8146,6 +8146,15 @@
 	289.1.1 = {
 		birth = 289.1.1
 	}
+
+	310.1.1 = {
+		add_consort = 346
+	}
+
+	310.1.1 = {
+		add_matrilineal_spouse = 347
+	}
+
 	389.1.1 = {
 		death = 389.1.1
 	}
@@ -8153,8 +8162,8 @@
 
 346 = {
 	name = "Viggo" # Kensley
-	culture = cearden
-	religion = unionism
+	culture = velheim
+	religion = fornoss
 	dynasty = 55
 	father = 348
 
@@ -8175,6 +8184,15 @@
 	284.1.1 = {
 		birth = 284.1.1
 	}
+
+	310.1.1 = {
+		employer = 345
+	}
+
+	#310.1.1 = {
+	#	add_matrilineal_spouse = 345
+	#}
+
 	384.1.1 = {
 		death = 384.1.1
 	}
@@ -8182,8 +8200,8 @@
 
 347 = {
 	name = "Sivrid" # Kensley
-	culture = cearden
-	religion = unionism
+	culture = velheim
+	religion = fornoss
 	female = yes
 	dynasty = 55
 	father = 348
@@ -8204,6 +8222,11 @@
 	286.1.1 = {
 		birth = 286.1.1
 	}
+
+	310.1.1 = {
+		employer = 345
+	}
+
 	386.1.1 = {
 		death = 386.1.1
 	}
@@ -28101,3 +28124,4 @@
 		death = 301.1.1
 	}
 }
+

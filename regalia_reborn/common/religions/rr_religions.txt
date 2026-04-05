@@ -271,6 +271,9 @@ fornoss_group = {
 			GOD_THE_DARK_GODS
 		}
 
+		#max_wives = 3
+		max_consorts = 3
+		women_can_take_consorts = yes
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
