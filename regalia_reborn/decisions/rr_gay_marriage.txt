@@ -1,0 +1,46 @@
+targetted_decisions = {
+    marry_gay_lover = {
+        filter = all
+        ai_target_filter = none
+        is_high_prio = yes
+
+        from_potential = {
+            ai = no
+            prisoner = no
+            is_married = no
+        }
+
+        potential = {
+            prisoner = no
+            is_married = no
+            is_lover = FROM
+
+            OR = {
+                AND = {
+                    FROM = { is_female = yes }
+                    is_female = yes
+                }
+                AND = {
+                    FROM = { is_female = no }
+                    is_female = no
+                }
+            }
+        }
+
+        allow = {
+            FROM = { is_married = no }
+            prisoner = no
+            is_married = no
+        }
+
+        effect = {
+            FROM = {
+                add_spouse = ROOT
+            }
+        }
+
+        ai_will_do = {
+            factor = 0
+        }
+    }
+}
