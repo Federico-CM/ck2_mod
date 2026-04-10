@@ -1,3 +1,9 @@
+1.1.1={
+        effect={
+                add_law = enatic_cognatic_succession # this works!
+        }
+}
+
 315.1.1 = {
 	holder = 966 # Edemere Greenbough
 }
