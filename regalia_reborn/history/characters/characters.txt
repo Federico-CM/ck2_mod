@@ -351,52 +351,52 @@
 	379.1.1 = { death = yes }
 }
 
-17 = {
-	name = "Vicelin" # of Praag
-	culture = leutz_vixe
-	religion = unionism
-	dynasty = 5
-	father = 18 # Fury Arken
+#17 = {
+#	name = "Vicelin" # of Praag
+#	culture = leutz_vixe
+#	religion = unionism
+#	dynasty = 5
+#	father = 18 # Fury Arken
+#
+#	diplomacy = 5
+#	martial = 5
+#	stewardship = 7
+#	intrigue = 6
+#	learning = 9
+#	add_trait = "creature_ailor"
+#	add_trait = "flamboyant_schemer"
+#	add_trait = "theologian"
+#	add_trait = "just"
+#	add_trait = "honest"
+#	add_trait = "chaste"
+#	add_trait = "charitable"
+#	disallow_random_traits = yes
+#
+#	290.1.1 = { birth = yes }
+#	390.1.1 = { death = yes }
+#}
 
-	diplomacy = 5
-	martial = 5
-	stewardship = 7
-	intrigue = 6
-	learning = 9
-	add_trait = "creature_ailor"
-	add_trait = "flamboyant_schemer"
-	add_trait = "theologian"
-	add_trait = "just"
-	add_trait = "honest"
-	add_trait = "chaste"
-	add_trait = "charitable"
-	disallow_random_traits = yes
-
-	290.1.1 = { birth = yes }
-	390.1.1 = { death = yes }
-}
-
-18 = {
-	name = "Fury" # Arken
-	culture = velheim
-	religion = fornoss
-	dynasty = 6
-
-	diplomacy = 18
-	martial = 11
-	stewardship = 17
-	intrigue = 27
-	learning = 14
-	add_trait = "creature_ailor"
-	add_trait = "underhanded_rogue"
-	add_trait = "proud"
-	add_trait = "ambitious"
-	add_trait = "patient"
-	disallow_random_traits = yes
-
-	240.1.1 = { birth = yes }
-	340.1.1 = { death = yes }
-}
+#18 = {
+#	name = "Fury" # Arken
+#	culture = velheim
+#	religion = fornoss
+#	dynasty = 6
+#
+#	diplomacy = 18
+#	martial = 11
+#	stewardship = 17
+#	intrigue = 27
+#	learning = 14
+#	add_trait = "creature_ailor"
+#	add_trait = "underhanded_rogue"
+#	add_trait = "proud"
+#	add_trait = "ambitious"
+#	add_trait = "patient"
+#	disallow_random_traits = yes
+#
+#	240.1.1 = { birth = yes }
+#	340.1.1 = { death = yes }
+#}
 
 19 = {
 	name = "Riccard" # Ravenstad
@@ -1385,11 +1385,11 @@
 }
 
 62 = {
-	name = "Rianne" # Brunlg
+	name = "Rianne" # Brunig
 	culture = wirtem
 	religion = unionism
 	female = yes
-	dynasty = 14
+	dynasty = 13
 	father = 245 # Ludwig Brunig
 	add_trait = "creature_ailor"
 
@@ -1421,7 +1421,7 @@
 
 	22.1.1 = { birth = yes }
 	37.4.1 = {
-		add_spouse = 62 # Rianne Brunlg
+		add_spouse = 62 # Rianne Brunig
 	}
 	75.1.1 = { death = yes }
 }
@@ -1495,7 +1495,7 @@
 	culture = anglian
 	religion = unionism
 	dynasty = 1
-	mother = 62 # Rianne Brunlg
+	mother = 62 # Rianne Brunig
 	father = 64 # Aldomir Kade
 	add_trait = "creature_ailor"
 
@@ -1517,17 +1517,17 @@
 
 	54.1.1 = { birth = yes }
 	79.4.1 = {
-		add_spouse = 72 # Maenarra Brunlg
+		add_spouse = 72 # Maenarra Brunig
 	}
 	104.1.1 = { death = yes }
 }
 
 72 = {
-	name = "Maenarra" # Brunlg
+	name = "Maenarra" # Brunig
 	culture = wirtem
 	religion = unionism
 	female = yes
-	dynasty = 14
+	dynasty = 13
 	add_trait = "creature_ailor"
 
 	51.1.1 = { birth = yes }
@@ -1543,7 +1543,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 1
-	mother = 72 # Maenarra Brunlg
+	mother = 72 # Maenarra Brunig
 	father = 71 # Betheoric Kade
 	add_trait = "creature_ailor"
 
@@ -1581,7 +1581,7 @@
 	religion = unionism
 	female = yes
 	dynasty = 1
-	mother = 72 # Maenarra Brunlg
+	mother = 72 # Maenarra Brunig
 	father = 71 # Betheoric Kade
 	add_trait = "creature_ailor"
 
@@ -1892,7 +1892,7 @@
 	dynasty = 20
 	add_trait = "creature_ailor"
 
-	207.1.1 = { birth = yes }
+	217.1.1 = { birth = yes }
 	249.4.1 = {
 		add_spouse = 97 # Normen Kade
 	}
@@ -2420,7 +2420,7 @@
 	add_trait = "genius"
 	disallow_random_traits = yes
 
-	250.1.1 = { birth = yes }
+	253.1.1 = { birth = yes }
 	284.4.1 = {
 		add_matrilineal_spouse = 125 # Anton Viraine
 	}
@@ -2727,7 +2727,7 @@
 	father = 308 # Charlerois Ivrae de Sange
 	add_trait = "creature_ailor"
 
-	260.1.1 = { birth = yes }
+	265.1.1 = { birth = yes }
 	279.4.1 = {
 		add_spouse = 1 # Alexander Kade
 	}
@@ -2803,7 +2803,7 @@
 	add_trait = "quick"
 	disallow_random_traits = yes
 
-	276.1.1 = { birth = yes }
+	281.1.1 = { birth = yes }
 	299.4.1 = {
 		add_spouse = 168 # Heloise Ivrae de Sange
 	}
@@ -2830,7 +2830,7 @@
 	add_trait = "gregarious"
 	disallow_random_traits = yes
 
-	278.1.1 = { birth = yes }
+	283.1.1 = { birth = yes }
 	378.1.1 = { death = yes }
 }
 
@@ -2854,7 +2854,7 @@
 	add_trait = "scarred"
 	disallow_random_traits = yes
 
-	280.1.1 = { birth = yes }
+	285.1.1 = { birth = yes }
 	311.4.1 = {
 		add_spouse = 171 # Quinn of Portburgh
 	}
@@ -3420,7 +3420,7 @@
 	add_trait = "kind"
 	disallow_random_traits = yes
 
-	284.1.1 = { birth = yes }
+	281.1.1 = { birth = yes }
 	384.1.1 = { death = yes }
 }
 
@@ -3446,7 +3446,7 @@
 	add_trait = "strong"
 	disallow_random_traits = yes
 
-	282.1.1 = { birth = yes }
+	284.1.1 = { birth = yes }
 	299.4.1 = {
 		add_spouse = 140 # Reynaud Kade
 	}
@@ -3474,7 +3474,7 @@
 	add_trait = "greedy"
 	disallow_random_traits = yes
 
-	299.1.1 = { birth = yes }
+	301.1.1 = { birth = yes }
 	399.1.1 = { death = yes }
 }
 
@@ -3616,7 +3616,7 @@
 	culture = solvaan
 	religion = unionism
 	female = yes
-	dynasty = 34
+	dynasty = 34 # First of her dynasty
 	father = 640 # Oriandor bel Avaal Moor
 	add_trait = "creature_teled"
 
@@ -4172,6 +4172,9 @@
 	disallow_random_traits = yes
 
 	288.1.1 = { birth = yes }
+	310.4.1 = {
+		add_spouse = 625 # Yngvarr Viduggla
+	}
 	388.1.1 = { death = yes }
 }
 
@@ -5711,7 +5714,7 @@
 	father = 298 # Hendromar Ivrae de Sange
 	add_trait = "creature_ailor"
 
-	170.1.1 = { birth = yes }
+	163.1.1 = { birth = yes }
 	235.1.1 = { death = yes }
 }
 
@@ -5736,7 +5739,7 @@
 	father = 292 # Balthezar Ivrae de Sange
 	add_trait = "creature_ailor"
 
-	186.1.1 = { birth = yes }
+	179.1.1 = { birth = yes }
 	245.1.1 = { death = yes }
 }
 
@@ -5754,6 +5757,7 @@
 #	father = 294
 #	add_trait = "creature_ailor"
 #}
+
 296 = { # Allomar II
 	name = "Allomar" # Ivrae de Sange
 	culture = ithanian
@@ -5775,7 +5779,7 @@
 	father = 292 # Balthezar Ivrae de Sange
 	add_trait = "creature_ailor"
 
-	178.1.1 = { birth = yes }
+	179.1.1 = { birth = yes }
 	240.1.1 = { death = yes }
 }
 
@@ -5863,7 +5867,7 @@
 	mother = 290 # Vilmarga Ivrae de Sange
 	add_trait = "creature_ailor"
 
-	250.1.1 = { birth = yes }
+	248.1.1 = { birth = yes }
 	301.1.1={
 		give_nickname = nick_the_dusk_swan
 	}
@@ -5895,7 +5899,7 @@
 	father = 303 # Justomar Ivrae de Sange
 	add_trait = "creature_ailor"
 
-	262.1.1 = { birth = yes }
+	264.1.1 = { birth = yes }
 	291.1.1 = {
 		death = {
 			death_reason = death_undead_no_killer
@@ -5911,7 +5915,7 @@
 	father = 303 # Justomar Ivrae de Sange
 	add_trait = "creature_ailor"
 
-	258.1.1 = { birth = yes }
+	265.1.1 = { birth = yes }
 	291.1.1 = {
 		death = {
 			death_reason = death_undead_no_killer
@@ -5942,68 +5946,54 @@
 	father = 290 # Vilmarga Ivrae de Sange
 	add_trait = "creature_ailor"
 
-	252.1.1 = { birth = yes }
+	249.1.1 = { birth = yes }
 	300.1.1 = { death = yes }
 }
 
-#309 = {
-#	name = "Callaire" # de Mont Vertu
-#	culture = ithanian
-#	religion = unionism
-#	female = yes
-#	213.1.1 = {
-#		birth = yes
-#	}
-#
-#	240.4.1 = {
-#		add_spouse = 308
-#	}
-#	289.1.1 = {
-#		death = yes
-#	}
-#	dynasty = 47
-#	father = 513
-#	add_trait = "creature_ailor"
-#}
-#310 = {
-#	name = "Harlon" # de Montebrizere
-#	culture = ithanian
-#	religion = unionism
-#	231.1.1 = {
-#		birth = yes
-#	}
-#
-#	259.4.1 = {
-#		add_matrilineal_spouse = 311
-#	}
-#	302.1.1 = {
-#		death = yes
-#	}
-#	dynasty = 48
-#	add_trait = "creature_ailor"
-#}
-# removed when the dinasty was retconned
-#311 = {
-#	name = "Adelheid Ivrae De Sange" # Ivrae de Sange
-#	culture = ithanian
-#	religion = unionism
-#	female = yes
-#	230.1.1 = {
-#		birth = yes
-#	}
-#
-#	259.4.1 = {
-#		add_matrilineal_spouse = 310
-#	}
-#	310.1.1 = {
-#		death = yes
-#	}
-#	dynasty = 23
-#	#mother = 309
-#	father = 308
-#	add_trait = "creature_ailor"
-#}
-# removed when the dinasty was retconned
+309 = {
+	name = "Eléonoire" # du Brierust
+	culture = ithanian
+	religion = unionism
+	female = yes
+	dynasty = 314
+	father = 547
+	add_trait = "creature_ailor"
+
+	231.1.1 = { birth = yes }
+	309.1.1 = { death = yes }
+}
+
+310 = {
+	name = "Leufred" # du Brierust
+	culture = ithanian
+	religion = unionism
+	dynasty = 314
+	mother = 309
+	add_trait = "creature_ailor"
+	disallow_random_traits = yes
+
+	270.1.1 = {birth = yes}
+	308.1.1 = {
+		add_spouse = 316
+	}
+	310.1.1 = {
+		death = death_missing
+	}
+}
+
+311 = {
+	name = "Florentin" # Ravenstad
+	culture = ithanian
+	religion = unionism
+	dynasty = 3
+	father = 310
+	mother = 316
+	add_trait = "creature_ailor"
+
+	311.1.1 = {birth = yes}
+	411.1.1 = {death = yes}
+}
+
 #312 = {
 #	name = "Attenaise" # Ivrae de Sange
 #	culture = ithanian
@@ -6526,7 +6516,7 @@
 	add_trait = "just"
 	disallow_random_traits = yes
 
-	295.1.1 = { birth = yes }
+	291.1.1 = { birth = yes }
 	310.4.1 = {
 		add_spouse = 397 # Hengest Harhold
 	}
@@ -6559,10 +6549,10 @@
 }
 
 336 = {
-	name = "Nicolas Francois" # Norrvakt
+	name = "Nicolas Francois" # d'Eluise
 	culture = velheim
 	religion = fornoss
-	dynasty = 52
+	dynasty = 39
 	mother = 327 # Mariliene Roselle d'Eluise
 	father = 326 # Geoffroy Lambert de Mont Vertu
 	add_trait = "creature_ailor"
@@ -6996,7 +6986,7 @@
 	name = "Francesco" # di Orazio
 	culture = cantaluna
 	religion = unionism
-	dynasty = 59
+	dynasty = 59 # First of his dynasty
 	mother = 354 # Allegra Mastretta
 	father = 353 # Orazzio di Tureno
 	add_trait = "creature_ailor"
@@ -8004,19 +7994,21 @@
 	dynasty = 72
 	father = 397 # Hengest Harhold
 	add_trait = "creature_ailor"
+	add_trait = "bastard"
 
 	306.1.1 = { birth = yes }
 	406.1.1 = { death = yes }
 }
 
 408 = {
-	name = "Vicenna" # Gray
+	name = "Vicenna" # Ashborne
 	culture = cearden
 	religion = unionism
 	female = yes
-	dynasty = 72
+	dynasty = 14
 	father = 397 # Hengest Harhold
 	add_trait = "creature_ailor"
+	add_trait = "bastard"
 
 	304.1.1 = { birth = yes }
 	404.1.1 = { death = yes }
@@ -9250,7 +9242,7 @@
 	add_trait = "envious"
 	disallow_random_traits = yes
 
-	290.1.1 = { birth = yes }
+	287.1.1 = { birth = yes }
 	390.1.1 = { death = yes }
 }
 
@@ -9983,7 +9975,7 @@
 	name = "Alaric" # von Drachenburg
 	culture = wirtem
 	religion = unionism
-	dynasty = 86
+	dynasty = 42
 	father = 244 # Eldrich von Drachenburg
 	add_trait = "creature_ailor"
 
@@ -11446,8 +11438,8 @@
 	culture = ithanian
 	religion = unionism
 	female = yes
-	dynasty = 95
-	mother = 572 # Florence Archambeau
+	dynasty = 95 # First of her dynasty
+	#mother = 572 # Florence Archambeau
 	father = 571 # Francis du Brierust
 
 	diplomacy = 15
@@ -11462,7 +11454,7 @@
 	add_trait = "gregarious"
 	disallow_random_traits = yes
 
-	256.1.1 = { birth = yes }
+	276.1.1 = { birth = yes }
 	356.1.1 = { death = yes }
 }
 
@@ -11568,7 +11560,10 @@
 	add_trait = "scarred"
 	disallow_random_traits = yes
 
-	282.1.1 = { birth = yes }
+	284.1.1 = { birth = yes }
+	310.4.1 = {
+		add_spouse = 666 # Florian Poincaire
+	}
 	382.1.1 = { death = yes }
 }
 
@@ -12607,7 +12602,7 @@
 	culture = krainivaya
 	religion = unionism
 	female = yes
-	dynasty = 142
+	dynasty = 132
 	mother = 782 # Beatrix Radu
 	father = 783 # Ambrus Farkas
 
@@ -13073,7 +13068,7 @@
 	add_trait = "chaste"
 	disallow_random_traits = yes
 
-	255.1.1 = { birth = yes }
+	254.1.1 = { birth = yes }
 	277.4.1 = {
 		add_matrilineal_spouse = 645 # Isaveyl bel Avaal Moor
 	}
@@ -13102,8 +13097,8 @@
 	add_trait = "paranoid"
 	disallow_random_traits = yes
 
-	273.1.1 = { birth = yes }
-	373.1.1 = { death = yes }
+	270.1.1 = { birth = yes }
+	370.1.1 = { death = yes }
 }
 
 648 = {
@@ -13792,7 +13787,7 @@
 	father = 681 # Alosso Valloaan
 	add_trait = "creature_teled"
 
-	223.1.1 = { birth = yes }
+	222.1.1 = { birth = yes }
 	300.1.1 = { death = yes }
 }
 
@@ -14722,8 +14717,12 @@
 	father = 717 # Etienne Peirgarten
 	add_trait = "creature_ailor"
 
-	304.1.1 = { birth = yes }
-	314.1.1 = { death = yes }
+	297.1.1 = { birth = yes }
+	313.1.1 = {
+		death = {
+			death_reason = death_accident_boar
+		}
+	}
 }
 
 724 = {
@@ -14872,7 +14871,7 @@
 	father = 725 # Ludovic Peirgarten
 	add_trait = "creature_ailor"
 
-	307.1.1 = { birth = yes }
+	295.1.1 = { birth = yes }
 	407.1.1 = { death = yes }
 }
 
@@ -15687,7 +15686,7 @@
 	name = "Nathan" # Deceres
 	culture = ithanian
 	religion = unionism
-	dynasty = 140
+	dynasty = 130
 
 	diplomacy = 14
 	martial = 10
@@ -15709,7 +15708,7 @@
 	name = "Lyonel" # Deceres
 	culture = ithanian
 	religion = unionism
-	dynasty = 140
+	dynasty = 130
 	father = 772 # Nathan Deceres
 
 	diplomacy = 5
@@ -15735,7 +15734,7 @@
 	culture = ithanian
 	religion = unionism
 	female = yes
-	dynasty = 140
+	dynasty = 130
 	father = 772 # Nathan Deceres
 	add_trait = "creature_ailor"
 
@@ -15747,7 +15746,7 @@
 	name = "Matei" # Radu
 	culture = ania
 	religion = unionism
-	dynasty = 141
+	dynasty = 131
 
 	diplomacy = 28
 	martial = 10
@@ -15822,7 +15821,7 @@
 	name = "Pavel" # Radu
 	culture = ania
 	religion = unionism
-	dynasty = 141
+	dynasty = 131
 	father = 775 # Matei Radu
 
 	diplomacy = 13
@@ -15915,7 +15914,7 @@
 	culture = ania
 	religion = unionism
 	female = yes
-	dynasty = 141
+	dynasty = 131
 	father = 775 # Matei Radu
 
 	diplomacy = 5
@@ -15945,7 +15944,7 @@
 	name = "Ambrus" # Farkas
 	culture = szabadok
 	religion = unionism
-	dynasty = 142
+	dynasty = 132
 
 	diplomacy = 8
 	martial = 13
@@ -15971,7 +15970,7 @@
 	name = "Fredek" # Farkas
 	culture = szabadok
 	religion = unionism
-	dynasty = 142
+	dynasty = 132
 	mother = 782 # Beatrix Radu
 	father = 783 # Ambrus Farkas
 
@@ -15994,7 +15993,7 @@
 	name = "Lukacs" # Farkas
 	culture = szabadok
 	religion = unionism
-	dynasty = 142
+	dynasty = 132
 	mother = 782 # Beatrix Radu
 	father = 783 # Ambrus Farkas
 
@@ -16047,7 +16046,7 @@
 	name = "Cristian" # Ciobanu
 	culture = ania
 	religion = unionism
-	dynasty = 143
+	dynasty = 133
 	add_trait = "creature_ailor"
 
 	273.1.1 = { birth = yes }
@@ -16185,7 +16184,7 @@
 	culture = ithanian
 	religion = unionism
 	female = yes
-	dynasty = 144
+	dynasty = 134
 
 	diplomacy = 5
 	martial = 5
@@ -16235,7 +16234,7 @@
 	culture = velheim
 	religion = fornoss
 	female = yes
-	dynasty = 145
+	dynasty = 135
 
 	diplomacy = 5
 	martial = 6
@@ -16355,7 +16354,7 @@
 	name = "Godtfred" # Vaskyrr
 	culture = velheim
 	religion = fornoss
-	dynasty = 147
+	dynasty = 137
 
 	diplomacy = 10
 	martial = 9
@@ -16381,7 +16380,7 @@
 	culture = velheim
 	religion = fornoss
 	female = yes
-	dynasty = 148
+	dynasty = 146
 	mother = 802 # Thelka Rodsvar
 	father = 803 # Godtfred Vaskyrr
 
@@ -16405,7 +16404,7 @@
 	name = "Arvid" # Rodsvar
 	culture = velheim
 	religion = fornoss
-	dynasty = 148
+	dynasty = 146
 	mother = 802 # Thelka Rodsvar
 	father = 803 # Godtfred Vaskyrr
 
@@ -16430,7 +16429,7 @@
 	name = "Hartvik" # Rodsvar
 	culture = velheim
 	religion = fornoss
-	dynasty = 148
+	dynasty = 146
 	mother = 802 # Thelka Rodsvar
 	father = 803 # Godtfred Vaskyrr
 
@@ -16456,7 +16455,7 @@
 	culture = velheim
 	religion = fornoss
 	female = yes
-	dynasty = 148
+	dynasty = 146
 	mother = 802 # Thelka Rodsvar
 	father = 803 # Godtfred Vaskyrr
 
@@ -16480,7 +16479,7 @@
 	culture = velheim
 	religion = fornoss
 	female = yes
-	dynasty = 148
+	dynasty = 146
 	mother = 802 # Thelka Rodsvar
 	father = 803 # Godtfred Vaskyrr
 
@@ -16507,26 +16506,26 @@
 	culture = cearden
 	religion = unionism
 	female = yes
-	dynasty = 149
+	dynasty = 139
 	add_trait = "creature_ailor"
 
 	258.1.1 = { birth = yes }
 	312.1.1 = { death = yes }
 }
 
-810 = {
-	name = "Sif" # Oltorskr
-	culture = velheim
-	religion = fornoss
-	female = yes
-	dynasty = 15
-	mother = 10 # Katrin Oltorskr
-	father = 801 # Garth Viduggla
-	add_trait = "creature_ailor"
-
-	350.1.1 = { birth = yes }
-	415.1.1 = { death = yes }
-}
+#810 = {
+#	name = "Sif" # Oltorskr
+#	culture = velheim
+#	religion = fornoss
+#	female = yes
+#	dynasty = 15
+#	mother = 10 # Katrin Oltorskr
+#	father = 801 # Garth Viduggla
+#	add_trait = "creature_ailor"
+#
+#	350.1.1 = { birth = yes }
+#	415.1.1 = { death = yes }
+#}
 
 811 = {
 	name = "Vaenya" # Woodforge
@@ -16606,7 +16605,7 @@
 	name = "Abelhard" # Petrou
 	culture = etosian
 	religion = evintarian
-	dynasty = 154
+	dynasty = 154 # First of his dynasty
 	mother = 815 # Serlay'ufol Latimer
 
 	diplomacy = 10
@@ -16701,7 +16700,7 @@
 	culture = cearden
 	religion = unionism
 	female = yes
-	dynasty = 156
+	dynasty = 152
 	mother = 819 # Sylvia Latimer
 	father = 820 # Jurgen Berger
 
@@ -18726,21 +18725,18 @@
 	name = "Jocelyn" # von Duerr
 	culture = wirtem
 	religion = unionism
-	female = yes
 	dynasty = 202
 
-	diplomacy = 7
-	martial = 6
-	stewardship = 7
-	intrigue = 11
-	learning = 6
+	diplomacy = 5
+	martial = 5
+	stewardship = 5
+	intrigue = 5
+	learning = 13
 	add_trait = "creature_ailor"
-	add_trait = "flamboyant_schemer"
-	add_trait = "diligent"
-	add_trait = "mystic"
-	add_trait = "content"
-	add_trait = "scarred"
-	add_trait = "paranoid"
+	add_trait = "charismatic_negotiator"
+	add_trait = "physician"
+	add_trait = "fair"
+	add_trait = "groomed"
 	disallow_random_traits = yes
 
 	285.1.1 = { birth = yes }
@@ -18799,7 +18795,7 @@
 	culture = cearden
 	religion = unionism
 	female = yes
-	dynasty = 205
+	dynasty = 205 # First of her dynasty
 	father = 397 # Hengest Harhold
 
 	diplomacy = 11
@@ -20983,7 +20979,7 @@
 	dynasty = 103
 	add_trait = "creature_ailor"
 
-	203.1.1 = { birth = yes }
+	188.1.1 = { birth = yes }
 	280.1.1 = { death = yes }
 }
 
@@ -23107,7 +23103,6 @@
 	culture = cearden
 	religion = unionism
 	dynasty = 328
-	father = 1170 # Caspian Silverberry
 	add_trait = "creature_ailor"
 	disallow_random_traits = yes
 
@@ -23296,7 +23291,7 @@
 }
 
 1184 = {
-	name = "Yulia"
+	name = "Yulia" # Vasilev
 	culture = krainivaya
 	religion = unionism
 	female = yes
@@ -23339,7 +23334,7 @@
 }
 
 1186 = {
-	name = "Igor"
+	name = "Igor" # Vasilev
 	culture = krainivaya
 	religion = unionism
 	dynasty = 182
@@ -23362,7 +23357,7 @@
 }
 
 1187 = {
-	name = "Irina"
+	name = "Irina" # Vasilev
 	culture = krainivaya
 	religion = unionism
 	female = yes
@@ -23385,7 +23380,7 @@
 }
 
 1188 = {
-	name = "Valeria"
+	name = "Valeria" # Vasilev
 	culture = krainivaya
 	religion = unionism
 	female = yes
@@ -23408,7 +23403,7 @@
 }
 
 1189 = {
-	name = "Danila"
+	name = "Danila" # Vasilev
 	culture = krainivaya
 	religion = unionism
 	dynasty = 182
@@ -23452,7 +23447,7 @@
 }
 
 1191 = {
-	name = "Taras"
+	name = "Taras" # Vasilev
 	culture = krainivaya
 	religion = unionism
 	dynasty = 182
@@ -23464,7 +23459,7 @@
 }
 
 1192 = {
-	name = "Julia"
+	name = "Julia" # Vasilev
 	culture = krainivaya
 	religion = unionism
 	female = yes
@@ -23486,7 +23481,7 @@
 }
 
 1193 = {
-	name = "Petro"
+	name = "Petro" # Vasilev
 	culture = krainivaya
 	religion = unionism
 	dynasty = 182
@@ -23547,3 +23542,879 @@
 	398.1.1 = { death = yes }
 }
 
+1196 = {
+	name = "Sarkhan" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	163.1.1 = { birth = yes }
+	263.1.1 = { death = yes }
+}
+
+1197 = {
+	name = "Sethi" # Mankhetnor
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 330
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	161.1.1 = { birth = yes }
+	221.1.1 = { death = yes }
+}
+
+1198 = {
+	name = "Hejekth" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1196 # Sarkhan Monterrosa
+	mother = 1197 # Sethi Mankhetnor
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	182.1.1 = { birth = yes }
+	242.1.1 = { death = yes }
+}
+
+1199 = {
+	name = "Dalrya" # Kefankh
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 331
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	175.1.1 = { birth = yes }
+	235.1.1 = { death = yes }
+}
+
+1200 = {
+	name = "Amon" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1196 # Sarkhan Monterrosa
+	mother = 1197 # Sethi Mankhetnor
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	183.1.1 = { birth = yes }
+	243.1.1 = { death = yes }
+}
+
+1201 = {
+	name = "Amonhatep" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1198 # Hejekth Monterrosa
+	mother = 1199 # Dalrya Kefankh
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	198.1.1 = { birth = yes }
+	258.1.1 = { death = yes }
+}
+
+1202 = {
+	name = "Khatia" # Namkhadj
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 332
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	196.1.1 = { birth = yes }
+	256.1.1 = { death = yes }
+}
+
+1203 = {
+	name = "Sivi" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1201 # Amonhatep Monterrosa
+	mother = 1202 # Khatia Namkhadj
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	214.1.1 = { birth = yes }
+	274.1.1 = { death = yes }
+}
+
+1204 = {
+	name = "Manu" # An'kojra
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 333
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	157.1.1 = { birth = yes }
+	217.1.1 = { death = yes }
+}
+
+1205 = {
+	name = "Manuel" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1201 # Amonhatep Monterrosa
+	mother = 1202 # Khatia Namkhadj
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	215.1.1 = { birth = yes }
+	275.1.1 = { death = yes }
+}
+
+1206 = {
+	name = "Memtari" # Nakhet
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 334
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	213.1.1 = { birth = yes }
+	273.1.1 = { death = yes }
+}
+
+1207 = {
+	name = "Gustavo" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1205 # Manuel Monterrosa
+	mother = 1206 # Memtari Nakhet
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	231.1.1 = { birth = yes }
+	331.1.1 = { death = yes }
+}
+
+1208 = {
+	name = "Shanaash" # Hetenk'hop
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 335
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	225.1.1 = { birth = yes }
+	285.1.1 = { death = yes }
+}
+
+1209 = {
+	name = "Sebastián" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1207 # Gustavo Monterrosa
+	mother = 1208 # Shanaash Hetenk'hop
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	247.1.1 = { birth = yes }
+	347.1.1 = { death = yes }
+}
+
+1210 = {
+	name = "Tjanebet" # Mankjarta
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 336
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	207.1.1 = { birth = yes }
+	307.1.1 = { death = yes }
+}
+
+1211 = {
+	name = "Sahutek" # Monterrosa
+	culture = asha
+	religion = khama
+	female = yes
+	dynasty = 329
+	father = 1207 # Gustavo Monterrosa
+	mother = 1208 # Shanaash Hetenk'hop
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	248.1.1 = { birth = yes }
+	348.1.1 = { death = yes }
+}
+
+1212 = {
+	name = "Cristóbal" # Lhankhan
+	culture = asha
+	religion = khama
+	#dynasty = 337
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	242.1.1 = { birth = yes }
+	342.1.1 = { death = yes }
+}
+
+1213 = {
+	name = "Pilar" # Monterrosa
+	culture = asha
+	religion = khama
+	female = yes
+	dynasty = 329
+	father = 1207 # Gustavo Monterrosa
+	mother = 1208 # Shanaash Hetenk'hop
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	249.1.1 = { birth = yes }
+	349.1.1 = { death = yes }
+}
+
+1214 = {
+	name = "Akhetmes" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1212 # Cristóbal Lhankhan
+	mother = 1211 # Sahutek Monterrosa
+
+	diplomacy = 5
+	martial = 8
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	add_trait = "creature_asha"
+	add_trait = "brilliant_strategist"
+	add_trait = "knight"
+	add_trait = "brave"
+	disallow_random_traits = yes
+
+	264.1.1 = { birth = yes }
+	364.1.1 = { death = yes }
+}
+
+1215 = {
+	name = "Menkau-het" # Vra'zklarr
+	culture = asha
+	religion = khama
+	#dynasty = 338
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	248.1.1 = { birth = yes }
+	348.1.1 = { death = yes }
+}
+
+1216 = {
+	name = "Khafdreti" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1215 # Menkau-het Vra'zklarr
+	mother = 1211 # Sahutek Monterrosa
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	265.1.1 = { birth = yes }
+	365.1.1 = { death = yes }
+}
+
+1217 = {
+	name = "Hejekth" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1200 # Amon Monterrosa
+	mother = 1219 # Anaeth Pejkhet
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	202.1.1 = { birth = yes }
+	262.1.1 = { death = yes }
+}
+
+1218 = {
+	name = "Alena" # Arkhajli
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 339
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	208.1.1 = { birth = yes }
+	268.1.1 = { death = yes }
+}
+
+1219 = {
+	name = "Anaeth" # Pejkhet
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 340
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	183.1.1 = { birth = yes }
+	243.1.1 = { death = yes }
+}
+
+1220 = {
+	name = "Anaakh" # Monterrosa
+	culture = asha
+	religion = khama
+	female = yes
+	dynasty = 329
+	father = 1200 # Amon Monterrosa
+	mother = 1219 # Anaeth Pejkhet
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	201.1.1 = { birth = yes }
+	261.1.1 = { death = yes }
+}
+
+1221 = {
+	name = "Marwar" # Kharaf
+	culture = asha
+	religion = khama
+	#dynasty = 341
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	127.1.1 = { birth = yes }
+	187.1.1 = { death = yes }
+}
+
+1222 = {
+	name = "Kharphia" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1217 # Hejekth Monterrosa
+	mother = 1218 # Alena Arkhajli
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	224.1.1 = { birth = yes }
+	284.1.1 = { death = yes }
+}
+
+1223 = {
+	name = "Shashet"
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 342
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	224.1.1 = { birth = yes }
+	284.1.1 = { death = yes }
+}
+
+1224 = {
+	name = "Khorhet" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1217 # Hejekth Monterrosa
+	mother = 1218 # Alena Arkhajli
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	225.1.1 = { birth = yes }
+	285.1.1 = { death = yes }
+}
+
+1225 = {
+	name = "Suri" # Sankhep
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 343
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	231.1.1 = { birth = yes }
+	291.1.1 = { death = yes }
+}
+
+1226 = {
+	name = "Menkauheron" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1224 # Khorhet Monterrosa
+	mother = 1225 # Suri Sankhep
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	247.1.1 = { birth = yes }
+	307.1.1 = { death = yes }
+}
+
+1227 = {
+	name = "Fiorela" # Ahnkphau
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 344
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	245.1.1 = { birth = yes }
+	305.1.1 = { death = yes }
+}
+
+1228 = {
+	name = "Francisco" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1226 # Menkauheron Monterrosa
+	mother = 1227 # Fiorela Ahnkphau
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	265.1.1 = { birth = yes }
+	314.1.1 = { death = yes }
+}
+
+1229 = {
+	name = "Kayefa" # Khamwaset
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 345
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	271.1.1 = { birth = yes }
+	314.1.1 = { death = yes }
+}
+
+1230 = {
+	name = "Valentino" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1228 # Francisco Monterrosa
+	mother = 1229 # Kayefa Khamwaset
+
+	diplomacy = 5
+	martial = 6
+	stewardship = 5
+	intrigue = 5
+	learning = 5
+	add_trait = "creature_asha"
+	add_trait = "brilliant_strategist"
+	add_trait = "knight"
+	add_trait = "patient"
+	add_trait = "just"
+	disallow_random_traits = yes
+
+	287.1.1 = { birth = yes }
+	387.1.1 = { death = yes }
+}
+
+1231 = {
+	name = "Setep" # Monterrosa
+	culture = asha
+	religion = khama
+	female = yes
+	dynasty = 329
+	father = 1224 # Khorhet Monterrosa
+	mother = 1225 # Suri Sankhep
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	248.1.1 = { birth = yes }
+	308.1.1 = { death = yes }
+}
+
+1232 = {
+	name = "Hernán" # Khnum
+	culture = asha
+	religion = khama
+	#dynasty = 346
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	245.1.1 = { birth = yes }
+	305.1.1 = { death = yes }
+}
+
+1233 = {
+	name = "Sat-Kha" # Monterrosa
+	culture = asha
+	religion = khama
+	female = yes
+	dynasty = 329
+	father = 1232 # Hernán Khnum
+	mother = 1231 # Setep Monterrosa
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	264.1.1 = { birth = yes }
+	364.1.1 = { death = yes }
+}
+
+1234 = {
+	name = "Rovan"
+	culture = asha
+	religion = khama
+	#dynasty = 347
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	259.1.1 = { birth = yes }
+	359.1.1 = { death = yes }
+}
+
+1235 = {
+	name = "Valento" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1232 # Hernán Khnum
+	mother = 1231 # Setep Monterrosa
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	265.1.1 = { birth = yes }
+	365.1.1 = { death = yes }
+}
+
+1236 = {
+	name = "Isef" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1222 # Kharphia Monterrosa
+	mother = 1223 # Shashet
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	240.1.1 = { birth = yes }
+	300.1.1 = { death = yes }
+}
+
+1237 = {
+	name = "Senuaal"
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 348
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	197.1.1 = { birth = yes }
+	297.1.1 = { death = yes }
+}
+
+1238 = {
+	name = "Senusret" # Ankhari
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 349
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	238.1.1 = { birth = yes }
+	338.1.1 = { death = yes }
+}
+
+1239 = {
+	name = "Sekhet" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1236 # Isef Monterrosa
+	mother = 1238 # Senusret Ankhari
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	256.1.1 = { birth = yes }
+	314.1.1 = { death = yes }
+}
+
+1240 = {
+	name = "Nefertath" # Kra'zzla
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 350
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	227.1.1 = { birth = yes }
+	327.1.1 = { death = yes }
+}
+
+1241 = {
+	name = "Sharkhan" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1236 # Isef Monterrosa
+	mother = 1238 # Senusret Ankhari
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	258.1.1 = { birth = yes }
+	358.1.1 = { death = yes }
+}
+
+1242 = {
+	name = "Sofía" # Alkha'zz
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 351
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	256.1.1 = { birth = yes }
+	356.1.1 = { death = yes }
+}
+
+1243 = {
+	name = "Kheparre" # Monterrosa
+	culture = asha
+	religion = khama
+	female = yes
+	dynasty = 329
+	father = 1236 # Isef Monterrosa
+	mother = 1238 # Senusret Ankhari
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	257.1.1 = { birth = yes }
+	357.1.1 = { death = yes }
+}
+
+1244 = {
+	name = "Akhement"
+	culture = asha
+	religion = khama
+	#dynasty = 352
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	254.1.1 = { birth = yes }
+	354.1.1 = { death = yes }
+}
+
+1245 = {
+	name = "Sa-Ret" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1234 # Rovan
+	mother = 1233 # Sat-Kha Monterrosa
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	280.1.1 = { birth = yes }
+	380.1.1 = { death = yes }
+}
+
+1246 = {
+	name = "Si-Ret" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1234 # Rovan
+	mother = 1233 # Sat-Kha Monterrosa
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	281.1.1 = { birth = yes }
+	381.1.1 = { death = yes }
+}
+
+1247 = {
+	name = "Nefer-Heron" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1244 # Akhement
+	mother = 1243 # Kheparre Monterrosa
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	273.1.1 = { birth = yes }
+	373.1.1 = { death = yes }
+}
+
+1248 = {
+	name = "Ankmeri" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1244 # Akhement
+	mother = 1243 # Kheparre Monterrosa
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	274.1.1 = { birth = yes }
+	374.1.1 = { death = yes }
+}
+
+1249 = {
+	name = "Merifar" # Monterrosa
+	culture = asha
+	religion = khama
+	female = yes
+	dynasty = 329
+	father = 1241 # Sharkhan Monterrosa
+	mother = 1242 # Sofía Alkha'zz
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	276.1.1 = { birth = yes }
+	376.1.1 = { death = yes }
+}
+
+1250 = {
+	name = "Martín" # Trikhjet
+	culture = asha
+	religion = khama
+	#dynasty = 353
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	271.1.1 = { birth = yes }
+	371.1.1 = { death = yes }
+}
+
+1251 = {
+	name = "Tja-Woser" # Monterrosa
+	culture = asha
+	religion = khama
+	dynasty = 329
+	father = 1241 # Sharkhan Monterrosa
+	mother = 1242 # Sofía Alkha'zz
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	274.1.1 = { birth = yes }
+	374.1.1 = { death = yes }
+}
+
+1252 = {
+	name = "Mayet" # Monterrosa
+	culture = asha
+	religion = khama
+	female = yes
+	dynasty = 329
+	father = 1241 # Sharkhan Monterrosa
+	mother = 1242 # Sofía Alkha'zz
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	275.1.1 = { birth = yes }
+	375.1.1 = { death = yes }
+}
+
+1253 = {
+	name = "Sahu-Shai" # Monterrosa
+	culture = asha
+	religion = khama
+	female = yes
+	dynasty = 329
+	father = 1250 # Martín Trikhjet
+	mother = 1249 # Merifar Monterrosa
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	292.1.1 = { birth = yes }
+	392.1.1 = { death = yes }
+}
+
+1254 = {
+	name = "Nebetka" # L'arkhan
+	culture = asha
+	religion = khama
+	female = yes
+	#dynasty = 354
+
+	add_trait = "creature_asha"
+	disallow_random_traits = yes
+
+	252.1.1 = { birth = yes }
+	352.1.1 = { death = yes }
+}
