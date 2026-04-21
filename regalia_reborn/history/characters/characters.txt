@@ -5976,7 +5976,7 @@
 	308.1.1 = {
 		add_spouse = 316
 	}
-	310.1.1 = {
+	312.1.1 = {
 		death = death_missing
 	}
 }
@@ -9603,7 +9603,7 @@
 	culture = wirtem
 	religion = unionism
 	female = yes
-	dynasty = 86
+	dynasty = 42
 	father = 499 # Alaric von Drachenburg
 	add_trait = "creature_ailor"
 
