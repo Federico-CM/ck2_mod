@@ -1,0 +1,38 @@
+namespace = fornoss_branch
+
+decisions = {
+
+    choose_fornoss_branch = {
+        picture = GFX_evt_pagan
+        desc = EVTDESC_fornoss_branch_1
+
+        is_high_prio = yes
+        only_playable = yes
+
+        potential = {
+            ai = no
+            religion = fornoss
+            is_adult = yes
+            prisoner = no
+        }
+
+        allow = {
+            NOT = { trait = pagan_branch_1 }
+            NOT = { trait = pagan_branch_2 }
+            NOT = { trait = pagan_branch_3 }
+            NOT = { trait = pagan_branch_4 }
+        }
+
+        effect = {
+            character_event = { id = fornoss_branch.1 }
+        }
+
+        revoke_allowed = {
+            always = no
+        }
+
+        ai_will_do = {
+            factor = 0
+        }
+    }
+} 

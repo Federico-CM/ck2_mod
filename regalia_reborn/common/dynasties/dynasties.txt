@@ -64,8 +64,8 @@
 }
 
 14 = {
-	name = "Brunlg"
-	culture = wirtem
+	name = "Ashborne"
+	culture = cearden
 }
 
 15 = {
@@ -429,10 +429,10 @@
 	culture = cearden
 }
 
-86 = {
-	name = "von Drachenburg"
-	culture = wirtem
-}
+#86 = {
+#	name = "von Drachenburg"
+#	culture = wirtem
+#}
 
 87 = {
 	name = "Florentia d'Esclat"
@@ -739,10 +739,10 @@
 	culture = velheim
 }
 
-148 = {
-	name = "Rodsvar"
-	culture = velheim
-}
+#148 = {
+#	name = "Rodsvar"
+#	culture = velheim
+#}
 
 149 = {
 	name = "Willowcreek"
@@ -774,10 +774,10 @@
 	culture = wirtem
 }
 
-156 = {
-	name = "Lataimer"
-	culture = cearden
-}
+#156 = {
+#	name = "Lataimer"
+#	culture = cearden
+#}
 
 157 = {
 	name = "Firekindle"
@@ -1648,4 +1648,9 @@
 328 = {
 	name = "Croy"
 	culture = cearden
+}
+
+329 = {
+	name = "monterrosa"
+	culture = asha
 }

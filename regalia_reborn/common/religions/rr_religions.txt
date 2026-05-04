@@ -6,7 +6,6 @@
 unionism_group = {
 	has_coa_on_barony_only = yes
 	graphical_culture = westerngfx
-	crusade_cb = crusade
 	playable = yes
 	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
 
@@ -19,7 +18,6 @@ unionism_group = {
 
 		color = { 0.8 0.8 0.6 }
 
-		crusade_name = CRUSADE
 		scripture_name = THE_CREED
 		priest_title = CELATE
 
@@ -51,7 +49,6 @@ unionism_group = {
 
 		color = { 0.8 0.8 0.6 }
 
-		crusade_name = CRUSADE
 		scripture_name = THE_CREED
 		priest_title = CELATE
 
@@ -69,10 +66,8 @@ unionism_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_claim = yes
 		priests_can_inherit = no
+		short_reign_opinion_year_mult = 0
 	}
 	evintarian = {
 		graphical_culture = westerngfx
@@ -80,7 +75,6 @@ unionism_group = {
 
 		color = { 255 0 255 }
 
-		crusade_name = CRUSADE
 		scripture_name = THE_CREED
 		priest_title = CELATE
 
@@ -98,9 +92,6 @@ unionism_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_claim = yes
 		priests_can_inherit = no
 	}
 
@@ -110,7 +101,6 @@ unionism_group = {
 
 		color = { 255 127 0 }
 
-		crusade_name = CRUSADE
 		scripture_name = THE_CREED
 		priest_title = CELATE
 
@@ -128,9 +118,6 @@ unionism_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_claim = yes
 		priests_can_inherit = no
 	}
 	warda = { #Breizh flavored Unionism
@@ -139,7 +126,6 @@ unionism_group = {
 
 		color = { 0 71 171 }
 
-		crusade_name = CRUSADE
 		scripture_name = THE_CREED
 		priest_title = CELATE
 
@@ -157,9 +143,6 @@ unionism_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_claim = yes
 		priests_can_inherit = no
 	}
 }
@@ -180,7 +163,6 @@ estel_group = {
 
 		color = { 64 224 208 }
 
-		crusade_name = CRUSADE
 		scripture_name = THE_WALKING_TALES
 		priest_title = ORDVAAN
 
@@ -196,10 +178,8 @@ estel_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_claim = yes
 		priests_can_inherit = no
+		
 	}
 }
 
@@ -218,7 +198,6 @@ draconism_group = {
 
 		color = { 96 31 158 }
 
-		crusade_name = CRUSADE
 		scripture_name = THE_MANTLE_OF_CREATION
 		priest_title = PRIEST
 
@@ -235,9 +214,6 @@ draconism_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_claim = yes
 		priests_can_inherit = no
 	}
 }
@@ -257,7 +233,6 @@ fornoss_group = {
 
 		color = { 79 121 66 }
 
-		crusade_name = CRUSADE
 		scripture_name = THE_OLD_LEGENDS
 		priest_title = PRIEST
 
@@ -277,9 +252,6 @@ fornoss_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_claim = yes
 		priests_can_inherit = no
 	}
 }
@@ -289,8 +261,8 @@ evolism_group = {
 	graphical_culture = westerngfx
 	crusade_cb = crusade
 	playable = yes
-	ai_peaceful = yes # Will make Hordes lose their super aggressiveness
-
+	ai_peaceful = no # Good luck, have fun
+	
 	color = { 0.8 0.3 0.1 }
 
 	evolism = {
@@ -299,7 +271,6 @@ evolism_group = {
 
 		color = { 136 8 8 }
 
-		crusade_name = CRUSADE
 		scripture_name = THE_COSMIC_TRUTHS
 		priest_title = NUMERAN
 
@@ -316,10 +287,13 @@ evolism_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_claim = yes
 		priests_can_inherit = no
+		allow_looting = yes
+		allow_viking_invasion = yes
+		aggression = 1.5
+		max_consorts = 3
+		men_can_take_consorts = yes
+		women_can_take_consorts = yes
 	}
 }
 
@@ -355,9 +329,6 @@ khama_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_claim = yes
 		priests_can_inherit = no
 	}
 }
@@ -394,9 +365,6 @@ mortis_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_claim = yes
 		priests_can_inherit = no
 	}
 
@@ -417,7 +385,6 @@ aldurism_group = {
 
 		color = { 1 124 137 }
 
-		crusade_name = CRUSADE
 		scripture_name = THE_TEACHINGS
 		priest_title = LUMINAR
 
@@ -434,9 +401,6 @@ aldurism_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_claim = yes
 		priests_can_inherit = no
 	}
 }
@@ -456,7 +420,6 @@ cultism_group = {
 
 		color = { 1 124 137 }
 
-		crusade_name = CRUSADE
 		scripture_name = THE_TEACHINGS
 		priest_title = PRIEST
 
@@ -473,9 +436,6 @@ cultism_group = {
 		priests_can_marry = yes
 		allow_rivermovement = yes
 		female_temple_holders = yes
-		can_excommunicate = yes
-		can_grant_divorce = yes
-		can_grant_claim = yes
 		priests_can_inherit = no
 	}
 }

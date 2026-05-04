@@ -23,7 +23,7 @@ character_event = {
             trait = creature_eronidas
             trait = creature_maraya
             trait = creature_narim
-            #trait = creature_orion
+            trait = creature_orion
             trait = creature_sihai
             trait = creature_skyborn
             trait = creature_urlan
@@ -53,7 +53,7 @@ character_event = {
             add_trait = creature_dwarf
         }
         else_if = {
-            limit = { culture = suvial }
+            limit = { culture = suvival }
             add_trait = creature_suvial
         }
         else_if = {
@@ -106,10 +106,10 @@ character_event = {
             limit = { culture = narim }
             add_trait = creature_narim
         }
-        #else_if = {
-        #    limit = { culture = orion }
-        #    add_trait = creature_orion
-        #}
+        else_if = {
+            limit = { culture = orion }
+            add_trait = creature_orion
+        }
 
         # Everything else fallback to Ailor (and this also covers any unmapped cultures)
         else = {

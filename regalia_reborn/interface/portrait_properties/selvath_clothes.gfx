@@ -1,0 +1,54 @@
+#spriteTypes = {
+#	spriteType = {
+#		name = "GFX_selvath_male_clothes_behind"
+#		texturefile = "gfx\\characters\\selvath_male\\selvath_male_clothes_behind.dds"
+#		noOfFrames = 12
+#		norefcount = yes
+#	}
+#
+#	spriteType = {
+#		name = "GFX_selvath_male_clothes"
+#		texturefile = "gfx\\characters\\selvath_male\\selvath_male_clothes.dds"
+#		noOfFrames = 12
+#		norefcount = yes
+#	}
+#
+#	portraitType = {
+#		effectFile = "gfx/FX/portrait.lua"
+#		name = "PORTRAIT_selvath_male_spy_marshal_clothing"
+#
+#		weight = {
+#			additive_modifier = {
+#				value = 10000
+#				portrait_culture = selvath
+#				portrait_is_female = no
+#				portrait_clothing = yes
+#			}
+#		}
+#
+#		layer = {
+#			"GFX_selvath_male_clothes_behind:c0"
+#			"GFX_selvath_male_clothes:c2"
+#			"GFX_empty:c1"
+#			"GFX_empty:c3"
+#			"GFX_empty:c4"
+#			"GFX_empty:c5"
+#		}
+#
+#		allow_property_values = {
+#			3 = {                        # p3 = clothes
+#				2 = {                    # third slot (0-based indexing)
+#					has_job_title = job_spymaster
+#				}
+#				3 = {                    # fourth slot (0-based indexing)
+#					has_job_title = job_marshal
+#				}
+#				0 = {                    # fallback/default slot
+#					always = yes
+#				}
+#			}
+#		}
+#	}
+#}
+
+

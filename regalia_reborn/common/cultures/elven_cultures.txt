@@ -89,7 +89,7 @@ elven_group = {
 	}
 
     selvath = {
-        graphical_cultures = { frankishgfx }
+        graphical_cultures = { selvathgfx }
         
         color = { 0.8 0.2 0.2 }
         

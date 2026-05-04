@@ -45,6 +45,21 @@ gallovian_group = {
         mother_name_chance = 5
     }
 
+		
+		from_dynasty_prefix = "de "
+		prefix = yes
+		feminist = yes
+
+        modifier = default_culture_modifier
+        pat_grf_name_chance = 30
+        mat_grf_name_chance = 10
+        father_name_chance = 25
+        
+        pat_grm_name_chance = 20
+        mat_grm_name_chance = 40
+        mother_name_chance = 5
+    }
+
     aber = { # Pictish like culture
         graphical_cultures = { celticgfx }
         

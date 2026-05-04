@@ -1,0 +1,41 @@
+namespace = fornoss_branch
+
+character_event = {
+    id = fornoss_branch.1
+    desc = EVTDESC_fornoss_branch_1
+    picture = GFX_evt_pagan
+
+    is_triggered_only = yes
+
+    option = {
+        name = EVTOPTA_fornoss_branch_1
+        add_trait = pagan_branch_1
+        remove_trait = pagan_branch_2
+        remove_trait = pagan_branch_3
+        remove_trait = pagan_branch_4
+    }
+
+    option = {
+        name = EVTOPTB_fornoss_branch_1
+        add_trait = pagan_branch_2
+        remove_trait = pagan_branch_1
+        remove_trait = pagan_branch_3
+        remove_trait = pagan_branch_4
+    }
+
+    option = {
+        name = EVTOPTC_fornoss_branch_1
+        add_trait = pagan_branch_3
+        remove_trait = pagan_branch_1
+        remove_trait = pagan_branch_2
+        remove_trait = pagan_branch_4
+    }
+
+    option = {
+        name = EVTOPTD_fornoss_branch_1
+        add_trait = pagan_branch_4
+        remove_trait = pagan_branch_1
+        remove_trait = pagan_branch_2
+        remove_trait = pagan_branch_3
+    }
+} 

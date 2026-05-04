@@ -1,0 +1,24 @@
+[DYNASTY MISMATCH] 178 ("Olenya") has dynasty 34 but shares it with neither recorded parent.
+[DYNASTY MISMATCH] 355 ("Francesco") has dynasty 59 but shares it with neither recorded parent.
+[DYNASTY MISMATCH] 407 ("Aethelric") has dynasty 72 but shares it with neither recorded parent.
+[DYNASTY MISMATCH] 408 ("Vicenna") has dynasty 14 but shares it with neither recorded parent.
+[DYNASTY MISMATCH] 481 ("Helena") has dynasty 86 but shares it with neither recorded parent.
+[DYNASTY MISMATCH] 573 ("Milena") has dynasty 95 but shares it with neither recorded parent.
+[DYNASTY MISMATCH] 816 ("Abelhard") has dynasty 154 but shares it with neither recorded parent.
+[DYNASTY MISMATCH] 918 ("Hera") has dynasty 205 but shares it with neither recorded parent.
+[DYNASTY MISMATCH] 1126 ("Sekhet") has dynasty 194 but shares it with neither recorded parent.
+[BORN BEFORE MOTHER WAS BORN] 1103 ("Benoît") was born on 271.1.1, before mother 1102 ("Justina") was born on 273.1.1.
+[MOTHER TOO YOUNG] 1103 ("Benoît") was born on 271.1.1 when mother 1102 ("Justina") was -2.
+[MOTHER TOO YOUNG] 1105 ("Margaretha") was born on 283.1.1 when mother 1102 ("Justina") was 10.
+[MOTHER TOO YOUNG] 1107 ("Conrad") was born on 278.1.1 when mother 1102 ("Justina") was 5.
+[MOTHER TOO YOUNG] 1108 ("Balthasar") was born on 283.1.1 when mother 1102 ("Justina") was 10.
+[MOTHER TOO YOUNG] 1109 ("Léonie") was born on 287.1.1 when mother 1102 ("Justina") was 14.
+[MOTHER TOO YOUNG] 1110 ("Aliénor") was born on 288.1.1 when mother 1102 ("Justina") was 15.
+[MOTHER TOO OLD] 1159 ("Arnaut") was born on 195.1.1 when mother 1154 ("Sofia-Maria") was 45.
+[MOTHER TOO OLD] 1160 ("Celeste") was born on 197.1.1 when mother 1154 ("Sofia-Maria") was 47.
+[MOTHER TOO OLD] 1161 ("Etienne") was born on 200.1.1 when mother 1154 ("Sofia-Maria") was 50.
+[MOTHER TOO OLD] 1162 ("Lucien") was born on 203.1.1 when mother 1154 ("Sofia-Maria") was 53.
+[MOTHER TOO OLD] 1163 ("Mariette") was born on 206.1.1 when mother 1154 ("Sofia-Maria") was 56.
+
+Total issues found: 34
+
